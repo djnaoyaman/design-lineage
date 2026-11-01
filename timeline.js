@@ -50,7 +50,7 @@
 
   function card(entry, all) {
     const cross = entry.bands.length > 1 ? `<p class="timeline-cross-band">複数区分に表示：${entry.bands.map(id => escapeHTML(BANDS.find(b => b.id === id).label)).join(' / ')}</p>` : '';
-    return `<article class="timeline-card"><p class="timeline-card-kind">${escapeHTML(entry.type)}</p><h3>${escapeHTML(entry.name)}</h3><p class="timeline-card-ja">${escapeHTML(entry.title_ja)}</p><dl><div><dt>年代</dt><dd>${escapeHTML(entry.period)}</dd></div><div><dt>地域</dt><dd>${escapeHTML(entry.region)}</dd></div></dl>${cross}<p class="timeline-card-status">${escapeHTML(entry.status)}</p><div class="timeline-card-links">${entryLinks(entry, all)}</div></article>`;
+    return `<article class="timeline-card"><p class="timeline-card-kind">${escapeHTML(entry.type)}</p><h3>${escapeHTML(entry.title_ja)}</h3><p class="timeline-card-ja">${escapeHTML(entry.name)}</p><dl><div><dt>年代</dt><dd>${escapeHTML(entry.period)}</dd></div><div><dt>地域</dt><dd>${escapeHTML(entry.region)}</dd></div></dl>${cross}<p class="timeline-card-status">${escapeHTML(entry.status)}</p><div class="timeline-card-links">${entryLinks(entry, all)}</div></article>`;
   }
 
   function renderTimeline(entries, query) {

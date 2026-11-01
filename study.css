@@ -28,3 +28,5 @@
 
 /* Prevent long names and rights credits from imposing a grid min-content width. */
 .representative>div{min-width:0}.rights-strip,.work-byline,.study-sources a{overflow-wrap:anywhere}
+
+.reading-entrance{padding:28px 0 44px;max-width:42rem}.reading-entrance h2{font-size:clamp(24px,4vw,40px);line-height:1.65}.reading-entrance p{font-size:17px;line-height:2}.article-deeper>summary{font-size:17px;line-height:1.8;padding:24px 0;cursor:pointer}.article-deeper{margin:40px 0}.article-deeper .representative{padding:20px 0}.collected-art .credit{overflow-wrap:anywhere}

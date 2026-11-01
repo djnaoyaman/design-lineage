@@ -3,7 +3,7 @@
 静的なデザイン史図鑑の公開研究版です。学校・歴史運動・様式・技法・現代トレンドを区別し、一次資料と作品の観察から説明します。
 
 - 本文34項目／収録候補87項目。残り53項目は調査中です。
-- 歴史代表画像24点、参照・関連実作品2点。3点の比較セットが揃う項目は6件です。
+- 歴史代表画像27点、参照・関連実作品2点。3点の比較セットが揃う項目は7件です。
 - AI制作の接続解説図1点（Dessau接続模型）、新しいオリジナル比較図4点。歴史画像数には含めません。
 - Grid systemsの自作4図、Bauhaus色形図、入口の4図も歴史代表作ではありません。
 - 全項目完成・網羅性の世界一・全画像の世界共通な自由利用を主張しません。
@@ -16,7 +16,7 @@ GitHub Pages: `https://djnaoyaman.github.io/design-lineage/`
 
 ## 素材の利用条件
 
-サイト全体や画像に一括のオープンライセンスは付けません。実作品は各図のcredit/source/licenseと `adopted-image-rights.json`、`reference-image-rights.json` をご確認ください。CC0、Public Domain Mark、CC BY 2.0は別です。CC BY写真は作者・原写真URL・ライセンス・縮小変更の表示を保ちます。原作品と写真の条件も別です。
+サイト全体や画像に一括のオープンライセンスは付けません。実作品は各図のcredit/source/licenseと `adopted-image-rights.json`、`reference-image-rights.json` をご確認ください。CC0、Public Domain Mark、CC BY 2.0、CC BY-SA 4.0は別です。CC BY写真は作者・原写真URL・ライセンス・縮小変更の表示を保ちます。原作品と写真の条件も別です。
 
 Red WedgeはCommons個別PDM表示に基づく関連資料です。スキャン元個体・撮影者は不明で、美術館提供画像とは称しません。複製台帳にその留保を記載しています。
 

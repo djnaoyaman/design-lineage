@@ -5,7 +5,11 @@
     "region": "欧州",
     "field": "工芸",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "アーツ・アンド・クラフツ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Art Nouveau",
@@ -13,7 +17,11 @@
     "region": "欧州",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "アール・ヌーヴォー",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Jugendstil",
@@ -21,7 +29,11 @@
     "region": "欧州",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ユーゲントシュティール",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Vienna Secession",
@@ -33,7 +45,10 @@
     "aliases": [
       "ウィーン分離派",
       "ウィーン・ゼツェッシオン"
-    ]
+    ],
+    "title_ja": "ウィーン分離派",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "Wiener Werkstätte",
@@ -45,7 +60,10 @@
     "aliases": [
       "ウィーン工房",
       "Vienna Workshop"
-    ]
+    ],
+    "title_ja": "ウィーン工房",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "De Stijl",
@@ -53,7 +71,11 @@
     "region": "欧州",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "デ・ステイル",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Russian Constructivism",
@@ -61,7 +83,11 @@
     "region": "欧州",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ロシア構成主義",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Suprematism",
@@ -74,7 +100,10 @@
       "シュプレマティスム",
       "シュプレマティズム",
       "絶対主義"
-    ]
+    ],
+    "title_ja": "シュプレマティスム（絶対主義）",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "Dada",
@@ -86,7 +115,10 @@
     "aliases": [
       "ダダ",
       "Dadaism"
-    ]
+    ],
+    "title_ja": "ダダ",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "Futurism",
@@ -99,7 +131,10 @@
       "未来派",
       "イタリア未来派",
       "Italian Futurism"
-    ]
+    ],
+    "title_ja": "未来派（イタリア未来派を中心に）",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "Surrealism",
@@ -107,7 +142,13 @@
     "region": "欧州",
     "field": "美術",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "シュルレアリスム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": [
+      "超現実主義"
+    ]
   },
   {
     "name": "New Typography",
@@ -115,7 +156,11 @@
     "region": "欧州",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ニュー・タイポグラフィ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "民藝運動",
@@ -123,7 +168,11 @@
     "region": "日本",
     "field": "工芸",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "民藝運動",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "創作版画",
@@ -136,7 +185,10 @@
       "Sosaku hanga",
       "Sōsaku hanga",
       "そうさくはんが"
-    ]
+    ],
+    "title_ja": "創作版画",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "新興写真",
@@ -144,7 +196,11 @@
     "region": "日本",
     "field": "写真",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "新興写真",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "メタボリズム",
@@ -152,7 +208,11 @@
     "region": "日本",
     "field": "建築",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "メタボリズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "具体美術協会",
@@ -160,7 +220,11 @@
     "region": "日本",
     "field": "美術",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "具体美術協会",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "もの派",
@@ -168,7 +232,11 @@
     "region": "日本",
     "field": "美術",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "もの派",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "中国新興木刻運動",
@@ -176,7 +244,11 @@
     "region": "アジア",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "中国新興木刻運動",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Bengal School",
@@ -184,7 +256,11 @@
     "region": "アジア",
     "field": "美術",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ベンガル派",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Santiniketan",
@@ -192,7 +268,11 @@
     "region": "アジア",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "サンティニケタン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Mexican Muralism",
@@ -200,7 +280,11 @@
     "region": "中南米",
     "field": "美術",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "メキシコ壁画運動",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Taller de Gráfica Popular",
@@ -208,7 +292,13 @@
     "region": "中南米",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "大衆グラフィック工房",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": [
+      "タジェール・デ・グラフィカ・ポプラル版画組合"
+    ]
   },
   {
     "name": "Tropicalismo",
@@ -216,7 +306,14 @@
     "region": "中南米",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "トロピカリズモ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": [
+      "トロピカリア",
+      "トロピカリスモ"
+    ]
   },
   {
     "name": "AfriCOBRA",
@@ -224,7 +321,11 @@
     "region": "北米",
     "field": "美術",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "アフリコブラ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Négritude と視覚文化",
@@ -232,7 +333,11 @@
     "region": "アフリカ",
     "field": "複合",
     "status": "参考不足・名称と範囲を再検討",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ネグリチュードと視覚文化",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Khartoum School",
@@ -240,7 +345,11 @@
     "region": "アフリカ",
     "field": "美術",
     "status": "参考不足・名称と範囲を再検討",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ハルツーム派",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Nsukka School",
@@ -253,7 +362,10 @@
       "Nsukka School / Uli revival",
       "ヌスカ学派"
     ],
-    "alias_note": "旧複合候補名を検索上のみ保持。uliとの同義関係を意味しない。"
+    "alias_note": "旧複合候補名を検索上のみ保持。uliとの同義関係を意味しない。",
+    "title_ja": "ヌスカ学派",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "Hurufiyya",
@@ -261,7 +373,11 @@
     "region": "西アジア",
     "field": "美術",
     "status": "参考不足・名称と範囲を再検討",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "フルーフィーヤ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Polish Poster School",
@@ -269,7 +385,13 @@
     "region": "欧州",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ポーランド派ポスター",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": [
+      "ポーランド・ポスター派"
+    ]
   },
   {
     "name": "Psychedelic Art",
@@ -277,7 +399,11 @@
     "region": "北米",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "サイケデリック・アート",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Punk / DIY",
@@ -285,7 +411,11 @@
     "region": "欧州",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "パンク／DIY（自分たちでつくる文化）",
+    "name_note": "日本語表記の出典未確認",
+    "name_translation_unconfirmed": true,
+    "aliases": []
   },
   {
     "name": "Radical Design",
@@ -293,7 +423,11 @@
     "region": "欧州",
     "field": "家具",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ラディカル・デザイン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Memphis",
@@ -301,7 +435,11 @@
     "region": "欧州",
     "field": "家具",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "メンフィス",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Bauhaus",
@@ -309,7 +447,11 @@
     "region": "欧州",
     "field": "複合",
     "status": "試作収録",
-    "date": "1919–1933"
+    "date": "1919–1933",
+    "title_ja": "バウハウス",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Vkhutemas",
@@ -317,7 +459,11 @@
     "region": "欧州",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ヴフテマス",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "HfG Ulm",
@@ -329,7 +475,10 @@
     "aliases": [
       "ウルム造形大学",
       "ウルム造形学校"
-    ]
+    ],
+    "title_ja": "ウルム造形大学",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "New Bauhaus Chicago",
@@ -337,7 +486,11 @@
     "region": "北米",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ニュー・バウハウス（シカゴ）",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Black Mountain College",
@@ -345,7 +498,11 @@
     "region": "北米",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ブラック・マウンテン・カレッジ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "新建築工芸学院",
@@ -353,7 +510,11 @@
     "region": "日本",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "新建築工芸学院",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "桑沢デザイン研究所",
@@ -361,7 +522,11 @@
     "region": "日本",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "桑沢デザイン研究所",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "NID Ahmedabad",
@@ -369,7 +534,11 @@
     "region": "アジア",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "インド国立デザイン研究所アーメダバード校",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "ESDI Rio de Janeiro",
@@ -377,7 +546,11 @@
     "region": "中南米",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "リオデジャネイロ州立大学インダストリアルデザイン高等学院",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Art Deco",
@@ -385,7 +558,11 @@
     "region": "国際",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "アール・デコ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Streamline Moderne",
@@ -393,7 +570,11 @@
     "region": "北米",
     "field": "プロダクト",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ストリームライン・モダン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "International Style",
@@ -401,7 +582,11 @@
     "region": "国際",
     "field": "建築",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "インターナショナル・スタイル",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Swiss / International Typographic Style",
@@ -409,7 +594,11 @@
     "region": "欧州",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "スイス・スタイル／国際タイポグラフィ様式",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Scandinavian Modern",
@@ -417,7 +606,11 @@
     "region": "欧州",
     "field": "家具",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "スカンジナビアン・モダン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Mid-century Modern",
@@ -425,7 +618,11 @@
     "region": "国際",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ミッドセンチュリー・モダン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Brutalism",
@@ -433,7 +630,11 @@
     "region": "国際",
     "field": "建築",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ブルータリズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Postmodernism",
@@ -441,7 +642,11 @@
     "region": "国際",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ポストモダニズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "New Wave Typography",
@@ -449,7 +654,11 @@
     "region": "欧州",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ニューウェーブ・タイポグラフィ",
+    "name_note": "日本語表記の出典未確認",
+    "name_translation_unconfirmed": true,
+    "aliases": []
   },
   {
     "name": "Supergraphics",
@@ -457,7 +666,11 @@
     "region": "北米",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "スーパーグラフィックス",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "グラフィックにおける和様",
@@ -465,7 +678,11 @@
     "region": "日本",
     "field": "グラフィック",
     "status": "参考不足・名称と範囲を再検討",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "グラフィックにおける和様",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "琳派",
@@ -473,7 +690,11 @@
     "region": "日本",
     "field": "絵画・書・工芸",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "琳派",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "浮世絵",
@@ -481,7 +702,11 @@
     "region": "日本",
     "field": "絵画・版画・出版",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "浮世絵",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "韓国の単色画",
@@ -489,7 +714,11 @@
     "region": "アジア",
     "field": "美術",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "韓国の単色画",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "ブラジル・モダニズム",
@@ -497,7 +726,11 @@
     "region": "中南米",
     "field": "複合",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ブラジル・モダニズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Tropical Modernism",
@@ -505,7 +738,11 @@
     "region": "アフリカ",
     "field": "建築",
     "status": "参考不足・名称と範囲を再検討",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "トロピカル・モダニズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Critical Regionalism",
@@ -513,7 +750,13 @@
     "region": "国際",
     "field": "建築",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "批判的地域主義",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": [
+      "クリティカル・リージョナリズム"
+    ]
   },
   {
     "name": "Australian Indigenous contemporary design",
@@ -525,7 +768,10 @@
     "aliases": [
       "First Nations contemporary design",
       "オーストラリアのFirst Nationsによる現代デザイン"
-    ]
+    ],
+    "title_ja": "オーストラリアのFirst Nationsによる現代デザイン",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "Typography / 活字組版",
@@ -533,7 +779,11 @@
     "region": "国際",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "タイポグラフィ／活字組版",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Photomontage",
@@ -541,7 +791,11 @@
     "region": "国際",
     "field": "写真",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "フォトモンタージュ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Collage",
@@ -549,7 +803,11 @@
     "region": "国際",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "コラージュ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Isotype",
@@ -557,7 +815,11 @@
     "region": "欧州",
     "field": "情報設計",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "アイソタイプ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Grid systems",
@@ -565,7 +827,11 @@
     "region": "国際",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "グリッド・システム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Silkscreen",
@@ -573,7 +839,13 @@
     "region": "国際",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "シルクスクリーン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": [
+      "セリグラフ"
+    ]
   },
   {
     "name": "Risograph",
@@ -581,7 +853,11 @@
     "region": "日本",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "リソグラフ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Pixel art",
@@ -589,7 +865,13 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ピクセルアート",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": [
+      "ドット絵"
+    ]
   },
   {
     "name": "Generative design",
@@ -597,7 +879,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ジェネラティブデザイン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Parametric design",
@@ -605,7 +891,11 @@
     "region": "国際",
     "field": "建築",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "パラメトリックデザイン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Information visualization",
@@ -613,7 +903,11 @@
     "region": "国際",
     "field": "情報設計",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "情報可視化",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Skeuomorphism",
@@ -621,7 +915,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "スキューモーフィズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Flat design",
@@ -629,7 +927,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "フラットデザイン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Material Design",
@@ -637,7 +939,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "2014年発表／版を区別"
+    "date": "2014年発表／版を区別",
+    "title_ja": "マテリアル・デザイン",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Neumorphism",
@@ -645,7 +951,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ニューモーフィズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Glassmorphism",
@@ -653,7 +963,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "グラスモーフィズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Web brutalism",
@@ -661,7 +975,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ウェブ・ブルータリズム",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Neo-brutalism",
@@ -669,7 +987,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "ネオ・ブルータリズム",
+    "name_note": "日本語表記の出典未確認",
+    "name_translation_unconfirmed": true,
+    "aliases": []
   },
   {
     "name": "Y2K revival",
@@ -677,7 +999,11 @@
     "region": "国際",
     "field": "グラフィック",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "2000年前後の表現のリバイバル",
+    "name_note": "日本語名称未確認（説明的な仮見出し）",
+    "name_translation_unconfirmed": true,
+    "aliases": []
   },
   {
     "name": "Bento layouts",
@@ -685,7 +1011,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "弁当箱のように区切るレイアウト",
+    "name_note": "日本語名称未確認（説明的な仮見出し）",
+    "name_translation_unconfirmed": true,
+    "aliases": []
   },
   {
     "name": "Kinetic typography",
@@ -693,7 +1023,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "キネティック・タイポグラフィ",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "Variable-font expression",
@@ -701,7 +1035,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "バリアブルフォントによる表現",
+    "name_note": "",
+    "name_translation_unconfirmed": false,
+    "aliases": []
   },
   {
     "name": "3D / clay illustration",
@@ -709,7 +1047,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "立体・粘土風のイラスト",
+    "name_note": "日本語名称未確認（説明的な仮見出し）",
+    "name_translation_unconfirmed": true,
+    "aliases": []
   },
   {
     "name": "Maximalist web",
@@ -717,7 +1059,11 @@
     "region": "国際",
     "field": "デジタル",
     "status": "未収録・要調査",
-    "date": "年代精査予定"
+    "date": "年代精査予定",
+    "title_ja": "装飾を豊かに重ねるウェブデザイン",
+    "name_note": "日本語名称未確認（説明的な仮見出し）",
+    "name_translation_unconfirmed": true,
+    "aliases": []
   },
   {
     "name": "Rococo",
@@ -728,7 +1074,10 @@
     "date": "フランス1720–30年代に形成／18世紀中葉を中心に展開",
     "aliases": [
       "ロココ"
-    ]
+    ],
+    "title_ja": "ロココ",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   },
   {
     "name": "Neoclassicism",
@@ -739,6 +1088,9 @@
     "date": "1750年代〜19世紀初頭を中心に展開",
     "aliases": [
       "新古典主義"
-    ]
+    ],
+    "title_ja": "新古典主義",
+    "name_note": "",
+    "name_translation_unconfirmed": false
   }
 ]

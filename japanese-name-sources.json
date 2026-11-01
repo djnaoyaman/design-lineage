@@ -1,0 +1,832 @@
+{
+  "scope": "未公開53項目。既公開title_ja34項目は対象外。",
+  "checked_at": "2026-11-01",
+  "policy": "原語の識別子を変更せず日本語主見出し＋原語副見出し。unverifiedは公開時に未確認表示。source_confirmedは日本語名称の用例確認のみ、正式訳唯一性や内容の正確性を保証しない。既存日本語名は維持。",
+  "items": [
+    {
+      "name": "Jugendstil",
+      "title_ja": "ユーゲントシュティール",
+      "original_label": "Jugendstil",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.wul.waseda.ac.jp/collect/yo/sf134.html",
+          "publisher": "早稲田大学図書館",
+          "confirmed_term": "ユーゲントシュティール",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Surrealism",
+      "title_ja": "シュルレアリスム",
+      "original_label": "Surrealism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [
+        "超現実主義"
+      ],
+      "sources": [
+        {
+          "url": "https://www.momat.go.jp/wp-content/uploads/2022/09/FineArt_AdvertisingArt_Keyword1.pdf",
+          "publisher": "東京国立近代美術館",
+          "confirmed_term": "シュルレアリスム",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "新興写真",
+      "title_ja": "新興写真",
+      "original_label": "新興写真",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://topmuseum.jp/about/summary/",
+          "publisher": "東京都写真美術館",
+          "confirmed_term": "新興写真研究会",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "具体美術協会",
+      "title_ja": "具体美術協会",
+      "original_label": "具体美術協会",
+      "status": "existing_japanese_label",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "もの派",
+      "title_ja": "もの派",
+      "original_label": "もの派",
+      "status": "existing_japanese_label",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Bengal School",
+      "title_ja": "ベンガル派",
+      "original_label": "Bengal School",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://asianart-gateway.jp/exploring/chronology/9584/",
+          "publisher": "アジア美術資料室",
+          "confirmed_term": "ベンガル派",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Taller de Gráfica Popular",
+      "title_ja": "大衆グラフィック工房",
+      "original_label": "Taller de Gráfica Popular",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [
+        "タジェール・デ・グラフィカ・ポプラル版画組合"
+      ],
+      "sources": [
+        {
+          "url": "https://aichi-pu.repo.nii.ac.jp/record/3043/files/49_10.pdf",
+          "publisher": "愛知県立大学リポジトリ",
+          "confirmed_term": "大衆グラフィック工房",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Tropicalismo",
+      "title_ja": "トロピカリズモ",
+      "original_label": "Tropicalismo",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [
+        "トロピカリア",
+        "トロピカリスモ"
+      ],
+      "sources": [
+        {
+          "url": "https://geidai.repo.nii.ac.jp/record/1184/files/hakubi651.pdf",
+          "publisher": "東京藝術大学リポジトリ",
+          "confirmed_term": "トロピカリズモ",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Négritude と視覚文化",
+      "title_ja": "ネグリチュードと視覚文化",
+      "original_label": "Négritude と視覚文化",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.jstage.jst.go.jp/article/africa/2009/75/2009_17/_pdf",
+          "publisher": "日本アフリカ学会",
+          "confirmed_term": "ネグリチュード",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Khartoum School",
+      "title_ja": "ハルツーム派",
+      "original_label": "Khartoum School",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://aichitriennale.jp/press/da045ca75da7e37ba2a23e7de5c651c39a75d2f0.pdf",
+          "publisher": "国際芸術祭あいち",
+          "confirmed_term": "ハルツーム派",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Polish Poster School",
+      "title_ja": "ポーランド派ポスター",
+      "original_label": "Polish Poster School",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [
+        "ポーランド・ポスター派"
+      ],
+      "sources": [
+        {
+          "url": "https://nact.jp/artcommons/user/detail/64876",
+          "publisher": "国立新美術館アートコモンズ",
+          "confirmed_term": "ポーランド派",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Psychedelic Art",
+      "title_ja": "サイケデリック・アート",
+      "original_label": "Psychedelic Art",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://air-u.kyoto-art.ac.jp/gakusha/learning/G2445231",
+          "publisher": "京都芸術大学",
+          "confirmed_term": "サイケデリック・アート",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Punk / DIY",
+      "title_ja": "パンク／DIY（自分たちでつくる文化）",
+      "original_label": "Punk / DIY",
+      "status": "unverified",
+      "uncertain": true,
+      "display_note": "日本語表記の出典未確認",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Radical Design",
+      "title_ja": "ラディカル・デザイン",
+      "original_label": "Radical Design",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.artizon.museum/exhibition_sp/sottsass2026/",
+          "publisher": "アーティゾン美術館",
+          "confirmed_term": "ラディカル・デザイン",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Memphis",
+      "title_ja": "メンフィス",
+      "original_label": "Memphis",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.artizon.museum/exhibition_sp/sottsass2026/",
+          "publisher": "アーティゾン美術館",
+          "confirmed_term": "メンフィス",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Vkhutemas",
+      "title_ja": "ヴフテマス",
+      "original_label": "Vkhutemas",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://grant-kajima-fa.jp/ebook/contents/book_r014/pageindices/index312.html",
+          "publisher": "鹿島美術財団",
+          "confirmed_term": "ヴフテマス",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "New Bauhaus Chicago",
+      "title_ja": "ニュー・バウハウス（シカゴ）",
+      "original_label": "New Bauhaus Chicago",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://artscape.jp/exhibition/art-flash-news/2019/10158844_21446.html",
+          "publisher": "DNP artscape（主催財団の講演告知転載）",
+          "confirmed_term": "ニュー・バウハウス",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Black Mountain College",
+      "title_ja": "ブラック・マウンテン・カレッジ",
+      "original_label": "Black Mountain College",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.momak.go.jp/Japanese/exhibitionArchive/1994/257.html",
+          "publisher": "京都国立近代美術館",
+          "confirmed_term": "ブラック・マウンテン・カレッジ",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "新建築工芸学院",
+      "title_ja": "新建築工芸学院",
+      "original_label": "新建築工芸学院",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://da.lib.kobe-u.ac.jp/da/kernel/E0020322/",
+          "publisher": "神戸大学リポジトリ",
+          "confirmed_term": "新建築工芸学院",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "桑沢デザイン研究所",
+      "title_ja": "桑沢デザイン研究所",
+      "original_label": "桑沢デザイン研究所",
+      "status": "existing_japanese_label",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "NID Ahmedabad",
+      "title_ja": "インド国立デザイン研究所アーメダバード校",
+      "original_label": "NID Ahmedabad",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.g-mark.org/apply/gda/screening/judges",
+          "publisher": "日本デザイン振興会",
+          "confirmed_term": "インド国立デザイン研究所アーメダバード校",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "ESDI Rio de Janeiro",
+      "title_ja": "リオデジャネイロ州立大学インダストリアルデザイン高等学院",
+      "original_label": "ESDI Rio de Janeiro",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.jica.go.jp/portuguese/overseas/brazil/information/topics/2024/1553851_54760.html",
+          "publisher": "国際協力機構 JICA",
+          "confirmed_term": "リオデジャネイロ州立大学インダストリアルデザイン高等学院",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Streamline Moderne",
+      "title_ja": "ストリームライン・モダン",
+      "original_label": "Streamline Moderne",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://api.lib.kyushu-u.ac.jp/opac_download_md/2004990/p013.pdf",
+          "publisher": "九州大学リポジトリ",
+          "confirmed_term": "ストリームラインモダン",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Scandinavian Modern",
+      "title_ja": "スカンジナビアン・モダン",
+      "original_label": "Scandinavian Modern",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.hanmoto.com/bd/isbn/9784306044579",
+          "publisher": "版元ドットコム（鹿島出版会書籍）",
+          "confirmed_term": "スカンジナビアン・モダン",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Mid-century Modern",
+      "title_ja": "ミッドセンチュリー・モダン",
+      "original_label": "Mid-century Modern",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/56373/jjsd67_045.pdf",
+          "publisher": "大阪大学リポジトリ・意匠学会",
+          "confirmed_term": "ミッドセンチュリー・モダン",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Brutalism",
+      "title_ja": "ブルータリズム",
+      "original_label": "Brutalism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.twovirgins.jp/book/brutalism/",
+          "publisher": "トゥーヴァージンズ",
+          "confirmed_term": "ブルータリズム",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "New Wave Typography",
+      "title_ja": "ニューウェーブ・タイポグラフィ",
+      "original_label": "New Wave Typography",
+      "status": "unverified",
+      "uncertain": true,
+      "display_note": "日本語表記の出典未確認",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Supergraphics",
+      "title_ja": "スーパーグラフィックス",
+      "original_label": "Supergraphics",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.tachibana-u.ac.jp/local/jisseki/pdf/tsunagaru_05.pdf",
+          "publisher": "京都橘大学",
+          "confirmed_term": "スーパーグラフィックス",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "グラフィックにおける和様",
+      "title_ja": "グラフィックにおける和様",
+      "original_label": "グラフィックにおける和様",
+      "status": "existing_japanese_label",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "韓国の単色画",
+      "title_ja": "韓国の単色画",
+      "original_label": "韓国の単色画",
+      "status": "existing_japanese_label",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "ブラジル・モダニズム",
+      "title_ja": "ブラジル・モダニズム",
+      "original_label": "ブラジル・モダニズム",
+      "status": "existing_japanese_label",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Tropical Modernism",
+      "title_ja": "トロピカル・モダニズム",
+      "original_label": "Tropical Modernism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://gallerycasade.com/news/27773",
+          "publisher": "CASA DE（展覧会主催者）",
+          "confirmed_term": "トロピカル・モダニズム",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Critical Regionalism",
+      "title_ja": "批判的地域主義",
+      "original_label": "Critical Regionalism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [
+        "クリティカル・リージョナリズム"
+      ],
+      "sources": [
+        {
+          "url": "https://db.10plus1.jp/backnumber/article/articleid/923/",
+          "publisher": "INAX出版 10+1",
+          "confirmed_term": "批判的地域主義",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Typography / 活字組版",
+      "title_ja": "タイポグラフィ／活字組版",
+      "original_label": "Typography / 活字組版",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://zokeifile.musabi.ac.jp/タイポグラフィ/",
+          "publisher": "武蔵野美術大学",
+          "confirmed_term": "タイポグラフィ",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Photomontage",
+      "title_ja": "フォトモンタージュ",
+      "original_label": "Photomontage",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://topmuseum.jp/exhibition/641/",
+          "publisher": "東京都写真美術館",
+          "confirmed_term": "フォトモンタージュ",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Collage",
+      "title_ja": "コラージュ",
+      "original_label": "Collage",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://topmuseum.jp/exhibition/641/",
+          "publisher": "東京都写真美術館",
+          "confirmed_term": "コラージュ",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Silkscreen",
+      "title_ja": "シルクスクリーン",
+      "original_label": "Silkscreen",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [
+        "セリグラフ"
+      ],
+      "sources": [
+        {
+          "url": "https://art.bunmori.tokushima.jp/srch/srch_art_detail.php?no=63&pno=3",
+          "publisher": "徳島県立近代美術館",
+          "confirmed_term": "シルクスクリーン",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Risograph",
+      "title_ja": "リソグラフ",
+      "original_label": "Risograph",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.riso.co.jp/recruit/tech_portal/core.html",
+          "publisher": "理想科学工業（製造者）",
+          "confirmed_term": "リソグラフ",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Pixel art",
+      "title_ja": "ピクセルアート",
+      "original_label": "Pixel art",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [
+        "ドット絵"
+      ],
+      "sources": [
+        {
+          "url": "https://www.borndigital.co.jp/book/31795/",
+          "publisher": "ボーンデジタル",
+          "confirmed_term": "ピクセルアート",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Generative design",
+      "title_ja": "ジェネラティブデザイン",
+      "original_label": "Generative design",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://bnn.co.jp/products/9784802510134",
+          "publisher": "ビー・エヌ・エヌ",
+          "confirmed_term": "ジェネラティブデザイン",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Parametric design",
+      "title_ja": "パラメトリックデザイン",
+      "original_label": "Parametric design",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://bnn.co.jp/products/9784802511216",
+          "publisher": "ビー・エヌ・エヌ",
+          "confirmed_term": "パラメトリックデザイン",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Information visualization",
+      "title_ja": "情報可視化",
+      "original_label": "Information visualization",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.morikita.co.jp/books/mid/085351",
+          "publisher": "森北出版",
+          "confirmed_term": "情報可視化",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Skeuomorphism",
+      "title_ja": "スキューモーフィズム",
+      "original_label": "Skeuomorphism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.jpo.go.jp/news/saiyo/kokka/isho/saiyo-info/document/kakomon/2021_01.pdf",
+          "publisher": "特許庁",
+          "confirmed_term": "スキューモーフィズム",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Neumorphism",
+      "title_ja": "ニューモーフィズム",
+      "original_label": "Neumorphism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.art-science.org/chubu/ssicj2021.pdf",
+          "publisher": "芸術科学会等合同研究会",
+          "confirmed_term": "ニューモーフィズム",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Glassmorphism",
+      "title_ja": "グラスモーフィズム",
+      "original_label": "Glassmorphism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.inpit.go.jp/content/100884079.pdf",
+          "publisher": "工業所有権情報・研修館 INPIT",
+          "confirmed_term": "グラスモーフィズム",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Web brutalism",
+      "title_ja": "ウェブ・ブルータリズム",
+      "original_label": "Web brutalism",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://gdr.jagda.or.jp/articles/86/",
+          "publisher": "日本グラフィックデザイン協会 JAGDA",
+          "confirmed_term": "ウェブ・ブルータリズム",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Neo-brutalism",
+      "title_ja": "ネオ・ブルータリズム",
+      "original_label": "Neo-brutalism",
+      "status": "unverified",
+      "uncertain": true,
+      "display_note": "日本語表記の出典未確認",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Y2K revival",
+      "title_ja": "2000年前後の表現のリバイバル",
+      "original_label": "Y2K revival",
+      "status": "editorial_description_unverified",
+      "uncertain": true,
+      "display_note": "日本語名称未確認（説明的な仮見出し）",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Bento layouts",
+      "title_ja": "弁当箱のように区切るレイアウト",
+      "original_label": "Bento layouts",
+      "status": "editorial_description_unverified",
+      "uncertain": true,
+      "display_note": "日本語名称未確認（説明的な仮見出し）",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Kinetic typography",
+      "title_ja": "キネティック・タイポグラフィ",
+      "original_label": "Kinetic typography",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://staff.aist.go.jp/m.goto/PAPER/EC2025kojima.pdf",
+          "publisher": "産業技術総合研究所公開研究論文",
+          "confirmed_term": "キネティックタイポグラフィ",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "Variable-font expression",
+      "title_ja": "バリアブルフォントによる表現",
+      "original_label": "Variable-font expression",
+      "status": "source_confirmed",
+      "uncertain": false,
+      "display_note": "",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.morisawa.co.jp/culture/dictionary/15410",
+          "publisher": "モリサワ",
+          "confirmed_term": "バリアブルフォント",
+          "evidence": "Web検索結果本文で日本語表記確認（名称のみの根拠。定義・年代の検証ではない）"
+        }
+      ]
+    },
+    {
+      "name": "3D / clay illustration",
+      "title_ja": "立体・粘土風のイラスト",
+      "original_label": "3D / clay illustration",
+      "status": "editorial_description_unverified",
+      "uncertain": true,
+      "display_note": "日本語名称未確認（説明的な仮見出し）",
+      "aliases": [],
+      "sources": []
+    },
+    {
+      "name": "Maximalist web",
+      "title_ja": "装飾を豊かに重ねるウェブデザイン",
+      "original_label": "Maximalist web",
+      "status": "editorial_description_unverified",
+      "uncertain": true,
+      "display_note": "日本語名称未確認（説明的な仮見出し）",
+      "aliases": [],
+      "sources": []
+    }
+  ]
+}
