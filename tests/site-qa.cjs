@@ -13,11 +13,19 @@ for(const width of [320,390,1280]){
   await page.locator('footer').scrollIntoViewIfNeeded();
   const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div:only-child')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
   if(r.overflow||r.cards.some(x=>x.body<x.card*.8)||r.footer!=='invert(1)'||r.header!=='none')failures.push({slug,width,...r});
-  if(['hideki-nakajima','vienna-secession'].includes(slug)){
+  if(['hideki-nakajima','vienna-secession','art-nouveau'].includes(slug)){
    for(const im of await page.locator('.collected-art img').all()){await im.scrollIntoViewIfNeeded();await im.evaluate(i=>i.decode());}
    const images=await page.locator('.collected-art img').evaluateAll(xs=>xs.map(i=>({ok:i.complete&&i.naturalWidth>0,src:i.getAttribute('src'),width:i.width,natural:i.naturalWidth})));
    assert(images.every(i=>i.ok),`${slug} images`);
    if(slug==='hideki-nakajima'){assert.equal(images.length,9);assert(images.every(i=>i.width<=i.natural), 'No image upsampling');}
+   if(slug==='art-nouveau'){
+    await page.locator('.article-image-index summary').click();assert.equal(await page.locator('.article-image-index a').count(),entries.find(e=>e.slug===slug).adopted_images.length);await page.locator('.article-image-index a').first().click();await page.locator('.article-image-index summary').click();
+    const expected=entries.find(e=>e.slug===slug).adopted_images.length;assert.equal(images.length,expected);assert(images.every(i=>i.width<=i.natural),'Art Nouveau no image upsampling');
+    for(const [i,figure] of (await page.locator('.collected-art').all()).entries()){await figure.locator('img').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/art-nouveau-work-${i+1}-${width}.png`});}
+    await page.locator('.article-index a[href="#deeper-story"]').click();assert(await page.locator('#deeper-story').isVisible());await page.screenshot({path:`qa-artifacts/art-nouveau-story-${width}.png`});
+    await page.locator('#article-glossary summary').click();assert(await page.locator('#article-glossary').getAttribute('open')!==null);await page.locator('#article-glossary summary').click();
+    await page.locator('#main').scrollIntoViewIfNeeded();
+   }
    if(slug==='vienna-secession')await page.locator('#representative-works').scrollIntoViewIfNeeded();
    await page.screenshot({path:`qa-artifacts/${slug}-${width}.png`});
   }
@@ -26,6 +34,7 @@ for(const width of [320,390,1280]){
  await page.goto('http://127.0.0.1:8793/',{waitUntil:'networkidle'});await page.locator('#query').fill('中島');assert.equal(await page.locator('#items .entry').count(),1);await page.locator('#reset').click();assert.equal(await page.locator('#items .entry').count(),88);await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/footer-${width}.png`});
  await page.goto('http://127.0.0.1:8793/compare.html?a=hideki-nakajima&b=vienna-secession',{waitUntil:'networkidle'});assert((await page.locator('#compare-result').innerText()).includes('中島'));assert(!(await page.locator('#compare-result').innerText()).includes('undefined'));
  await page.locator('#select-b').selectOption('hideki-nakajima');assert((await page.locator('#compare-status').innerText()).includes('同じ項目'));
+ await page.goto('http://127.0.0.1:8793/compare.html?a=art-nouveau&b=art-deco',{waitUntil:'networkidle'});const comparison=await page.locator('#compare-result').innerText();assert(comparison.includes('ジスモンダ'));assert(comparison.includes('Gismonda'));assert(!comparison.includes('undefined'));
  if(errors.length)failures.push({width,errors});await page.close();
 }
 await browser.close();fs.writeFileSync('qa-artifacts/results.json',JSON.stringify({entries:entries.length,catalog:catalog.length,cases:results.length,failures,results},null,2));assert.equal(failures.length,0,JSON.stringify(failures));console.log(`PASS: ${results.length} article viewport cases + catalog/compare flows`);

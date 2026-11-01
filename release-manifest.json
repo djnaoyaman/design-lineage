@@ -1,5 +1,5 @@
 {
-  "release": "public-footer-display-fix-20261102",
+  "release": "public-art-nouveau-depth-20261102-0800",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
@@ -8,7 +8,7 @@
   "pages_path": "/",
   "articles": 35,
   "planned_entries": 88,
-  "historical_representative_images": 39,
+  "historical_representative_images": 46,
   "reference_related_images": 2,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
@@ -30,6 +30,11 @@
   },
   "files": [
     {
+      "path": ".github/workflows/site-qa.yml",
+      "bytes": 590,
+      "sha256": "a4444753965e7c80d58c13f95ba04a186df29cfc62cb2c3f9afe81f6d2f6a9b0"
+    },
+    {
       "path": ".nojekyll",
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -42,12 +47,12 @@
     {
       "path": "README.md",
       "bytes": 3637,
-      "sha256": "c971374a79374272b84a318c0ce50a95a688052eb7c6ddc997d697ce9d799153"
+      "sha256": "d00b3e76fce90fe5bb830c47fbefb2f8b66bb91f64e56c676f99718e2bcd674b"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 201324,
-      "sha256": "975c303a834e163aaa05dc2dd38ba58af4f5f9304ee981aa7c8da2fba2d3d32c"
+      "bytes": 242721,
+      "sha256": "72a4c431c40100b2f931cc3f2ef1fee6f24ef37acf61557ac08b760d0ab2a2f9"
     },
     {
       "path": "analytics-status.json",
@@ -58,6 +63,11 @@
       "path": "app.js",
       "bytes": 6774,
       "sha256": "6ddcd8129c2d59d326e8e5a1c769aff8a5847967f2fbee8c6574fff3d21a5f28"
+    },
+    {
+      "path": "art-nouveau.css",
+      "bytes": 1948,
+      "sha256": "ae66e656fd0657c4bfe613ac60c0b8fcf0c95b670a55ff0c49957095712ca5fb"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -108,6 +118,51 @@
       "path": "assets/art-deco-comparison.svg",
       "bytes": 3298,
       "sha256": "f82231f0dedfd41777b238d81b1a5a9402374d1e9ee3f9e450b12dbde22b8ddb"
+    },
+    {
+      "path": "assets/art-nouveau-abbesses-geoffray-1200.webp",
+      "bytes": 351824,
+      "sha256": "55dd8f8b25653db8d47f8296d346192a40d38c3ce4c796bef5c60f419b8ae091"
+    },
+    {
+      "path": "assets/art-nouveau-abbesses-geoffray-1800.webp",
+      "bytes": 754750,
+      "sha256": "b8a891c5511fa63b52f30476954edada9215ab7e7034926af40b502c752035f0"
+    },
+    {
+      "path": "assets/art-nouveau-abbesses-geoffray-720.webp",
+      "bytes": 139226,
+      "sha256": "84e21b951771886ecee655a0b5276c2b7ca713683a751a279828ab9b0c887ff9"
+    },
+    {
+      "path": "assets/art-nouveau-grasset-jeanne-darc-smb-1200.webp",
+      "bytes": 721906,
+      "sha256": "a9b914b442f8a0a639250f4e5797f909bb04b2626d7945ad3a8d3859eaf4d7e7"
+    },
+    {
+      "path": "assets/art-nouveau-grasset-jeanne-darc-smb-1800.webp",
+      "bytes": 1565058,
+      "sha256": "1f3753367f8c4c16d96846256c04a397e1433c9315b2236b3bdb1a6d273c8fa1"
+    },
+    {
+      "path": "assets/art-nouveau-grasset-jeanne-darc-smb-720.webp",
+      "bytes": 282956,
+      "sha256": "c130f788651e83b9f7db8ff17f2aeec2a91480ba1952b44388d66f8d3917722e"
+    },
+    {
+      "path": "assets/art-nouveau-tassel-townsend-1200.webp",
+      "bytes": 328368,
+      "sha256": "269b325385d6395a5b596f9318da42105ea67f2686c42b9aeadd16bf41bab76a"
+    },
+    {
+      "path": "assets/art-nouveau-tassel-townsend-1800.webp",
+      "bytes": 693776,
+      "sha256": "cd25cef8dd7537a62fa1ba294458484fe4a42ee0bbbb5e0b65c75023efaed962"
+    },
+    {
+      "path": "assets/art-nouveau-tassel-townsend-720.webp",
+      "bytes": 111736,
+      "sha256": "dd92589dbd349c522b5c006cd734887948f65b3b34fb821350f19693d861a3ab"
     },
     {
       "path": "assets/bauhaus-kandinsky-color-form.svg",
@@ -175,6 +230,36 @@
       "sha256": "f554d6d6968291ca15497c1cd373449eb8b5a00aa1c380f0d2601da97cc5b02b"
     },
     {
+      "path": "assets/cleveland-1973.1018_print-1200.webp",
+      "bytes": 614460,
+      "sha256": "f0caf8c55d4a5ab3292593bad10a5d5e7332845719b18d212c9896a0611180f4"
+    },
+    {
+      "path": "assets/cleveland-1973.1018_print-1800.webp",
+      "bytes": 1635480,
+      "sha256": "a7739585aea03a2df7ecce8fd1841b9854be47fab8e74850c9215fd737975961"
+    },
+    {
+      "path": "assets/cleveland-1973.1018_print-720.webp",
+      "bytes": 177800,
+      "sha256": "fc15cb435212bcecbe5dd2b6c151ad31eb96eb05d0fb660f8672c3f5c1e9fbe4"
+    },
+    {
+      "path": "assets/cleveland-1981.49_print-1200.webp",
+      "bytes": 193750,
+      "sha256": "72e284d5b4edec289de728582087b8145d89908f0833fbc3b642cc143560e4e4"
+    },
+    {
+      "path": "assets/cleveland-1981.49_print-1800.webp",
+      "bytes": 370868,
+      "sha256": "ce4b964757be16d8da711fdf89968507dfc7d8dd6d39b2ce68325a5adf97f4cd"
+    },
+    {
+      "path": "assets/cleveland-1981.49_print-720.webp",
+      "bytes": 80104,
+      "sha256": "b62e787245ac75cc7fe6f8ff3562e0daf07cf9e1cb214c943d0b5fff48f13eec"
+    },
+    {
       "path": "assets/cleveland-1983.225_print-1200.webp",
       "bytes": 176498,
       "sha256": "a0d2e9af9d3e6b03a4a68f6f980cfd2315ea0baf1b5cef5b89210bae3449e822"
@@ -215,6 +300,21 @@
       "sha256": "c4014cdf9236893ac0e286c376b7b71c5d7ccbec7564ec7fa1e3b27f615ecce4"
     },
     {
+      "path": "assets/cleveland-2010.651_print-1200.webp",
+      "bytes": 424534,
+      "sha256": "9535f47429c6fa95b6ef79786eba633a33e80cb57052b93622e46d97e302c80d"
+    },
+    {
+      "path": "assets/cleveland-2010.651_print-1800.webp",
+      "bytes": 963586,
+      "sha256": "f2403f33d5c44b19b84ffe3229ac8567fa87e7b6520ea19e04d829767cb31ed4"
+    },
+    {
+      "path": "assets/cleveland-2010.651_print-720.webp",
+      "bytes": 135650,
+      "sha256": "ca9dfb37984c2057bef2b22268b88719f09c480a462011e8c6a2d4c44d7f7750"
+    },
+    {
       "path": "assets/cleveland-2012.136_print-1200.webp",
       "bytes": 51684,
       "sha256": "b9aa7f6c85891023ccf76367966c74574501e6a112b973cee95551c9d269eeb0"
@@ -233,6 +333,21 @@
       "path": "assets/cleveland-2012.136_print.jpg",
       "bytes": 519170,
       "sha256": "b703d468d2e26f12634b5328f34de8c570c46f0818f190a1e1020880766d3864"
+    },
+    {
+      "path": "assets/cleveland-2018.261_print-1200.webp",
+      "bytes": 211474,
+      "sha256": "1d3ec4a085e5812f25b92e0e546655e746ce24d318facbfff9270283f3c9368d"
+    },
+    {
+      "path": "assets/cleveland-2018.261_print-1800.webp",
+      "bytes": 410234,
+      "sha256": "724e40a618ad7df7efeeafb601d5cc3ccdc10a96b8140ab864350586c26b2300"
+    },
+    {
+      "path": "assets/cleveland-2018.261_print-720.webp",
+      "bytes": 95664,
+      "sha256": "367cca9de38ea09dc957e6a5591005e69bc761a59c5c0c1a84786db35ab87b52"
     },
     {
       "path": "assets/cma-1918.823-neoclassicism-1200.webp",
@@ -846,18 +961,18 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 31457,
-      "sha256": "29126b0bd828de2e854d49a3ee547395bd488da20c49828159d702378afd30ff"
+      "bytes": 31549,
+      "sha256": "fbec111913490ad4e09563e16587484f900b7393ca8bd46cedc7b6f3324404d0"
     },
     {
       "path": "compare.html",
       "bytes": 6460,
-      "sha256": "5da0b89bd3458c5be395bb08be3e675d9162292b7ae6f4fe96bf77ac386771b6"
+      "sha256": "4d287638e5de58c68f4d04aac98e651c6ad91a11775af4cc2854798516f6dbc5"
     },
     {
       "path": "compare.js",
-      "bytes": 3504,
-      "sha256": "9b0f4c7876627f1b81a7b7ef7fcaee7a6d8b5b15761b0512638b86d9a9e5d2ca"
+      "bytes": 3586,
+      "sha256": "17831d2c740fcf086fa10a8451fe31c598378941e0862564862d2067a3fd6175"
     },
     {
       "path": "compiler.html",
@@ -876,8 +991,8 @@
     },
     {
       "path": "entries/art-nouveau.html",
-      "bytes": 42089,
-      "sha256": "cd91ab148b85af664b009537fc6890238355e9db25a8ef13feea3335b8c9646b"
+      "bytes": 82318,
+      "sha256": "91a28ce9e0359f3717c932609aecacb78c675e66c5d6dcbd66b2d560b44cd91e"
     },
     {
       "path": "entries/arts-and-crafts.html",
@@ -1041,8 +1156,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1044863,
-      "sha256": "ed189d86dc066be5ec5b5ce171424992fe57976fd829261811a891df4de0ddf0"
+      "bytes": 1114841,
+      "sha256": "49f2deb003fad17178ad3fa2e0b684bbcdd017816bbc34cd235a3302566a3b7b"
     },
     {
       "path": "external-preview-rights.json",
@@ -1072,7 +1187,7 @@
     {
       "path": "index.html",
       "bytes": 23966,
-      "sha256": "e39c628adc8a31ad263ce0b7aa7be7fea2b4b27eb8b42b160ed34ab5878e6b62"
+      "sha256": "c2a29dc8149b41c5216edac76ee711cafd7d4680847a5a8fade2c6dabede6c56"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1095,6 +1210,16 @@
       "sha256": "9ce540d8c6bec71886d22e4936b63fe88d42dca3fedabba5f67432539afe5c2a"
     },
     {
+      "path": "package-lock.json",
+      "bytes": 1705,
+      "sha256": "6af50f154dc2e1090935f5f174e5e70c81d7949f2d9e48c87c56c7839092edcb"
+    },
+    {
+      "path": "package.json",
+      "bytes": 135,
+      "sha256": "b44fa3a61e08a0763152e26f17645978680896e4167a536aadb3270a7fe6c61e"
+    },
+    {
       "path": "reference-image-rights.json",
       "bytes": 14665,
       "sha256": "cdddf24a9f6f7882662da39cda6776750c9e570d3f530817808b06a3f0b6151f"
@@ -1103,6 +1228,11 @@
       "path": "robots.txt",
       "bytes": 88,
       "sha256": "f27ecf39c3abca03b8aa80d992f1a735fee6d3dbdca0d342eb535910456d2d6d"
+    },
+    {
+      "path": "scripts/render-entries.py",
+      "bytes": 15480,
+      "sha256": "f08628911187d7e6f8f8919097befab4e7977b5764f978a2e9a530489cf4eaee"
     },
     {
       "path": "share-copy.json",
@@ -1117,7 +1247,7 @@
     {
       "path": "site-update.json",
       "bytes": 2715,
-      "sha256": "d58469e232fa3a6c486caa8329f47994ecef71975e3589f6de71f49662f0fc71"
+      "sha256": "97dc4c7cdc0fae6f17bf116bcd1f6d47116b359983434c388017ab3e3c0c0047"
     },
     {
       "path": "site.webmanifest",
@@ -1127,7 +1257,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 5307,
-      "sha256": "8372a5b083f8ef82d556512b21c1dcb6a3033057ca5a567ea0f12c2de2f22b0c"
+      "sha256": "f02dfbd08ee49d8f3a77ff3b337b121ecdcccde9683f85fbb0d6357c34c5b7f6"
     },
     {
       "path": "study-images.js",
@@ -1143,6 +1273,11 @@
       "path": "style.css",
       "bytes": 22864,
       "sha256": "91a3e5c0695a9aa84c69db32e7d683f2d07082a92db07bb83561aa38e38ef886"
+    },
+    {
+      "path": "tests/site-qa.cjs",
+      "bytes": 5232,
+      "sha256": "c333d158f3f60d890c7db6db9b0d01b8fa4fcc2b8baed8fed8823bfabf63b8b0"
     },
     {
       "path": "timeline.css",
@@ -1167,10 +1302,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T07:14:00+09:00",
+  "frozen_at": "2026-11-02T08:00:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 159,
+  "rewritten_representative_cards": 165,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1248,5 +1383,12 @@
       "static_regression": "passed",
       "browser_pixels": "pending verification"
     }
+  },
+  "art_nouveau_expansion": {
+    "actual_images": 10,
+    "representative_examples": 13,
+    "scope": "posters, decorative print, furniture, glass, lighting, jewelry and architecture; sourced reader guide",
+    "physical_device_test": false,
+    "responsive_ci": "pending exact-commit verification"
   }
 }
