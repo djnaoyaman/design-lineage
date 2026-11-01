@@ -960,8 +960,8 @@
     },
     {
       "path": "site-update.json",
-      "bytes": 2554,
-      "sha256": "d9c3b4ea376f858551e252cce674a36eaaf9c91405577fcb169f93590d4ac04f"
+      "bytes": 2604,
+      "sha256": "58e1d353d253c84c5bda5a37eb427eed335474415700c6e9802597251825605f"
     },
     {
       "path": "site.webmanifest",
