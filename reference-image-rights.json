@@ -30,8 +30,6 @@
       "sha256": "dae7ff953ce907e878dd151c3ffafb877b119a6d510023347ccea6d775b5660a",
       "original_bytes_unchanged": true,
       "acquisition_status": "official_CMA_print_JPEG_http200_2026-11-01T05:20:56Z",
-      "library_file_id": "libfile_3d2989380e8c81918d1f7446841ce793",
-      "library_version": 0,
       "status": "local_reference_image_not_representative",
       "rights_reviewed": true,
       "linking_policy_reviewed": true,
@@ -87,7 +85,6 @@
         }
       ],
       "terms_url": "https://www.clevelandart.org/open-access",
-      "library_original_filename": "design-lineage-klee-reference-proof.zip",
       "display_derivatives": {
         "method": "Aspect-preserving LANCZOS resize, WebP92; original ICC retained. No crop, color adjustment or overlay.",
         "original_unchanged": true,
@@ -152,8 +149,6 @@
       "sha256": "1710a4884130f55add200b0cb1ad12095ea94eed1a4d7db99dbcb519013aedae",
       "original_bytes_unchanged": true,
       "acquisition_status": "2026-11-01T09:09:09.7851325+00:00",
-      "library_file_id": "libfile_6e7ad72053508191b3b355fa1129e140",
-      "library_version": 0,
       "status": "local_reference_image_not_representative",
       "rights_reviewed": true,
       "linking_policy_reviewed": true,

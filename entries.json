@@ -423,9 +423,7 @@
         "sha256": "b487c13517654c086a2cbfde341a245a5f6558085353b2137ec7de69832fbbc4",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_download_via_authorized_PC_and_Library_materialization",
-        "library_file_id": "libfile_7b28ba5d5eb08191935964ffeb37c662",
-        "library_version": 0,
-        "provenance": "ユーザーが許可したPCで公式Cleveland画像を取得し、出典HTML・HTTP記録・台帳とともにLibrary ZIPで移送。cloud側でZIPとJPEGのSHA-256、画像デコード、実画像を確認。写真家名は公式記録で未確認。",
+        "provenance": "Cleveland Museum of Artの公式画像。写真家名は公式記録で未確認。",
         "visual_notes": [
           {
             "title": "鳥の向きが、反復の軸を作る。",
@@ -522,9 +520,7 @@
         "sha256": "21f1f9070e7e73fdf72b079bc73a5a7d270a623c9af54a2a67b6d2f85aa1ae37",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_download_via_authorized_PC_and_Library_materialization",
-        "library_file_id": "libfile_7b28ba5d5eb08191935964ffeb37c662",
-        "library_version": 0,
-        "provenance": "ユーザーが許可したPCで公式Cleveland画像を取得し、出典HTML・HTTP記録・台帳とともにLibrary ZIPで移送。cloud側でZIPとJPEGのSHA-256、画像デコード、実画像を確認。写真家名は公式記録で未確認。",
+        "provenance": "Cleveland Museum of Artの公式画像。写真家名は公式記録で未確認。",
         "visual_notes": [
           {
             "title": "小さな単位が、面をつないでいく。",
@@ -621,9 +617,7 @@
         "sha256": "8e408abaac95b1ad6c6db67d1ab9c09d9999d3db20520fabe11ff438db1dc447",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_NGA_download_normal_cloud_GET",
-        "library_file_id": "libfile_8d9f4f584df48191a969c425efbd4e83",
-        "library_version": 0,
-        "provenance": "公式作品ページの11枚のギャラリーから第11画像を取得。先頭の後年の外装とは区別し、800px表示と原JPEGの双方で288頁を実見。公式HTML・取得記録・原画像・権利確認記録をLibrary ZIPに保存。",
+        "provenance": "公式作品ページの11枚のギャラリーから第11画像を取得。先頭の後年の外装とは区別し、800px表示と原JPEGの双方で288頁を実見。",
         "visual_notes": [
           {
             "title": "文字の面を、二つに分ける。",
@@ -1046,8 +1040,6 @@
         "sha256": "c4014cdf9236893ac0e286c376b7b71c5d7ccbec7564ec7fa1e3b27f615ecce4",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T00:49:48Z",
-        "library_file_id": "libfile_c7b97a3595288191b08b9d6286294f84",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -1161,8 +1153,6 @@
         "sha256": "f554d6d6968291ca15497c1cd373449eb8b5a00aa1c380f0d2601da97cc5b02b",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T01:02:15Z",
-        "library_file_id": "libfile_9a0b11107bac819182af7314b587375d",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -1276,8 +1266,6 @@
         "sha256": "9d1e5f6905b1088af785f1731fea126907d7680ec4445e0fb3572dea83152d31",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T01:00:35Z",
-        "library_file_id": "libfile_9a0b11107bac819182af7314b587375d",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -1684,8 +1672,6 @@
         "sha256": "b703d468d2e26f12634b5328f34de8c570c46f0818f190a1e1020880766d3864",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T01:25:04Z",
-        "library_file_id": "libfile_8fc8b8b309e48191ab9ec9257bd00c4a",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -2107,8 +2093,6 @@
         "sha256": "d4c605557f89af2f1d55acc2b49a46dce12fa0c5715d4548039d6459abe6497c",
         "original_bytes_unchanged": true,
         "acquisition_status": "PC official CMA original retrieved; receipt verified2026-11-01",
-        "library_file_id": "libfile_a0514d3cb4008191b72f6392c251cc09",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -2146,7 +2130,7 @@
           "license_label": "CC0",
           "anchor": "mondrian-1927"
         },
-        "provenance": "CMA公式個別頁・Open Access方針・PC取得原JPEGをLibrary保管。所蔵番号1967.215、1927年と原本hashを照合。",
+        "provenance": "CMA公式個別頁・Open Access方針と原JPEGを確認。所蔵番号1967.215、1927年と原本hashを照合。",
         "rights_evidence_sources": [
           {
             "role": "individual_object_CC0_and_description",
@@ -2158,7 +2142,6 @@
           }
         ],
         "terms_url": "https://www.clevelandart.org/open-access",
-        "library_original_filename": "design-lineage-mondrian-and-bauhaus-review.zip",
         "display_derivatives": {
           "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
           "original_unchanged": true,
@@ -2567,8 +2550,6 @@
         "sha256": "1710a4884130f55add200b0cb1ad12095ea94eed1a4d7db99dbcb519013aedae",
         "original_bytes_unchanged": true,
         "acquisition_status": "2026-11-01T09:09:09.7851325+00:00",
-        "library_file_id": "libfile_6e7ad72053508191b3b355fa1129e140",
-        "library_version": 0,
         "status": "local_reference_image_not_representative",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -3796,8 +3777,6 @@
         "sha256": "dae7ff953ce907e878dd151c3ffafb877b119a6d510023347ccea6d775b5660a",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_print_JPEG_http200_2026-11-01T05:20:56Z",
-        "library_file_id": "libfile_3d2989380e8c81918d1f7446841ce793",
-        "library_version": 0,
         "status": "local_reference_image_not_representative",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -3853,7 +3832,6 @@
           }
         ],
         "terms_url": "https://www.clevelandart.org/open-access",
-        "library_original_filename": "design-lineage-klee-reference-proof.zip",
         "display_derivatives": {
           "method": "Aspect-preserving LANCZOS resize, WebP92; original ICC retained. No crop, color adjustment or overlay.",
           "original_unchanged": true,
@@ -4314,12 +4292,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_cfc0a8bff2a881918be7a95308da7e3a",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-korin-official-image.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One JPEG showing one six-panel screen from a pair. Count as one image, not two screens or six images.",
-        "provenance": "既存の公式作品ページから特定済みのMet配信URLを通常GETし、HTTP200 image/jpegで取得。取得JPEGは1200×582、270255bytes。提供された旧JPEGとは同じ一隻の画面を実見照合したがバイトは異なる。旧提供JPEGは研究記録と元Libraryに保存し、掲載は公式配信JPEGへ置換。",
+        "provenance": "既存の公式作品ページから特定済みのMet配信URLを通常GETし、HTTP200 image/jpegで取得。取得JPEGは1200×582、270255bytes。掲載画像はMet公式配信JPEG。",
         "visual_notes": [
           {
             "title": "折れる橋が、視線を運ぶ。",
@@ -4347,7 +4322,6 @@
         },
         "photographer": "Not identified in official record; institutional CC0 image policy applies",
         "superseded_user_file": {
-          "library_file_id": "libfile_4352afb4a3ac8191a47680f5f023012e",
           "sha256": "5e957c3fec82e860e87575aeb1bfc53dba4d83f43ddb0bbd9126ca7b73068a9a",
           "research_archive": "research/content/met39664-evidence/user-provided-IMG_5246.jpeg"
         },
@@ -4413,12 +4387,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_0e15fc54b8248191b553461d60d4ad4d",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-rinpa-two-images.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One official photograph of one selected view, not multipleartworks or completepair/scroll.",
-        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。",
         "visual_notes": [
           {
             "title": "文字の大きさが、拍子を変える。",
@@ -4508,12 +4479,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_0e15fc54b8248191b553461d60d4ad4d",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-rinpa-two-images.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One official photograph of one selected view, not multipleartworks or completepair/scroll.",
-        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。",
         "visual_notes": [
           {
             "title": "太い幹と、細い枝を対比する。",
@@ -6142,12 +6110,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_c0736a8b4cb08191914a64d1e0e0f496",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-ukiyoe-three-originals.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
-        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。",
         "visual_notes": [
           {
             "title": "筆の輪郭が、姿を大きく包む。",
@@ -6246,12 +6211,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_c0736a8b4cb08191914a64d1e0e0f496",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-ukiyoe-three-originals.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
-        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。",
         "visual_notes": [
           {
             "title": "顔と手を、大きな形として置く。",
@@ -6350,12 +6312,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_c0736a8b4cb08191914a64d1e0e0f496",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-ukiyoe-three-originals.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
-        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。",
         "visual_notes": [
           {
             "title": "大きな波の中に、小さな富士を置く。",
@@ -11338,12 +11297,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_2d8fc4a50a2c8191855e144ca56783bd",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-yamamoto-fisherman-proof.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
-        "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。原JPEG・証拠・hashはLibraryに保存。",
+        "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。",
         "visual_notes": [
           {
             "title": "彫った線で、衣服の量感を作る。",
@@ -11434,12 +11390,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_ec555fbdc0c48191ba9a1e3004105e41",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-onchi-tsukuhae-proof.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
-        "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。原JPEG・証拠・hashはLibraryに保存。",
+        "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。",
         "visual_notes": [
           {
             "title": "赤い面と、明るい空隙を組む。",
@@ -11530,12 +11483,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_015076d93f2c81918529b952b6e12452",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-tanaka-tsukuhae-proof.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
-        "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。原JPEG・証拠・hashはLibraryに保存。",
+        "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。",
         "visual_notes": [
           {
             "title": "黄土色と黒を、強く対照する。",
@@ -11883,12 +11833,9 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "library_file_id": "libfile_cca9556e07d881919154e11e38a896a8",
-        "library_version": 0,
-        "library_original_filename": "design-lineage-boccioni-original-proof.zip",
         "original_bytes_unchanged": true,
         "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
-        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+        "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。",
         "visual_notes": [
           {
             "title": "歩行の輪郭を、後方へ引き延ばす。",
@@ -12363,8 +12310,6 @@
         "sha256": "465479f697632b8528fdc213c3e74f4ab00dc2b6227ae4a88376be091c33a084",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_CMA_print_JPEG_http200_2026-11-01T04:50:15Z",
-        "library_file_id": "libfile_ddfc387d89708191ab59a237f2bdbf85",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -12418,7 +12363,6 @@
           }
         ],
         "terms_url": "https://www.clevelandart.org/open-access",
-        "library_original_filename": "design-lineage-schwitters-merz-proof.zip",
         "display_derivatives": {
           "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
           "original_unchanged": true,
@@ -12480,8 +12424,6 @@
         "sha256": "3f9bd7b2b33406e0f9e54f9a361b4d8c32e7bd2d9034335bbb96acbe250cbff1",
         "original_bytes_unchanged": true,
         "acquisition_status": "official_NGA_Download_JPEG_http200_2026-11-01T05:30:59Z",
-        "library_file_id": "libfile_ff5abf6e4bd8819183d4b4ea96f6286f",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -12519,7 +12461,7 @@
           "license_label": "CC0",
           "anchor": "dada-soiree"
         },
-        "provenance": "NGA個別頁のDownloadリンクに記載されたフルJPEGを取得。所蔵番号2010.124.1、実画素、全紙面、hashを照合。原画像・個別HTML・PD表示・既存CC0方針の確認記録をLibrary保存。",
+        "provenance": "NGA個別頁のDownloadリンクに記載されたフルJPEGを取得。所蔵番号2010.124.1、実画素、全紙面、hashを照合。",
         "rights_evidence_sources": [
           {
             "role": "individual_object_and_publicdomain_media",
@@ -12531,7 +12473,6 @@
           }
         ],
         "terms_url": "https://www.nga.gov/terms-and-notices",
-        "library_original_filename": "design-lineage-nga-dada-program-proof.zip",
         "display_derivatives": {
           "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
           "original_unchanged": true,
@@ -12593,8 +12534,6 @@
         "sha256": "c8dd0da2dbe140b1428a561686f1170aee948341d81a97c39d2f7b2964c1911d",
         "original_bytes_unchanged": true,
         "acquisition_status": "Commons_original_link_normal_GET_http200_2026-11-01T05:55:50Z",
-        "library_file_id": "libfile_b95af9d859608191aaa92c0a9d44abc5",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -12652,7 +12591,6 @@
           }
         ],
         "terms_url": "https://creativecommons.org/licenses/by/2.0/",
-        "library_original_filename": "design-lineage-dalbera-dada-head-proof.zip",
         "photo_source_page": "https://commons.wikimedia.org/wiki/File:%22T%C3%AAte_dada%22_de_Sophie_Taeuber-Arp_(Centre_Pompidou,_Paris).jpg",
         "photographer_source": "https://www.flickr.com/photos/dalbera/51380417645/",
         "photo_title": "\"Tête dada\" de Sophie Taeuber-Arp (Centre Pompidou, Paris)",
@@ -13642,7 +13580,6 @@
         "supports": "フランス1720–30年代、英国1740–70年。非対称、自然形、版画・見本帳による普及。Basketの作者・年・素材・番号。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "R1",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/r1-open-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "ca3561b2d2377a4c6a58fcf7aef51d7a7b443659b45d4f98a4578562715824ff"
@@ -13655,7 +13592,6 @@
         "supports": "ルイ15世治世との関係、後世の批判的名称、自然形・非対称・明るい色。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "R2",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/r2-open-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "fc1d83de4584e38fa0ce365452e97a9d01fcfda7824405a8efbdab402a01b78e"
@@ -13668,7 +13604,6 @@
         "supports": "1751、油彩・カンヴァス、20.155.9。ベルヴュ城の壁面、ポンパドゥール、非対称な家具や布の展開。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "R3",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/r3-search_query-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "650742bc67080dcc51a43c0413a227aa764c6877b81f02f75d94aee4ba4a5aa6"
@@ -13681,11 +13616,9 @@
         "supports": "1735–38、銀、パリ、設計と制作の3者。館がロココの代表作と明記。",
         "image_reuse": "CMAの既存CC0取得記録あり。/tmp/rococo-receipt参照。",
         "draft_key": "R4",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/r4-open-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
-        "evidence_sha256": "3d98fb92494b70f4faf2bff40ebe78160f178f17c28ca202ad031347558335f4",
-        "additional_original_html": "/tmp/rococo-receipt/evidence/cma-tureen-1977.182.html"
+        "evidence_sha256": "3d98fb92494b70f4faf2bff40ebe78160f178f17c28ca202ad031347558335f4"
       },
       {
         "id": "wallace-fragonard-swing-p430",
@@ -13695,7 +13628,6 @@
         "supports": "約1767–68、油彩・カンヴァス、P430。別題・同題作品との同定。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "R5",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/r5-search_query-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "1ef6f045d1d87aef52e607f4e3320b7d5d2d0a0bd3fc221eda52520ffacdcf7c"
@@ -13834,8 +13766,6 @@
         "sha256": "2b5534c8e3a236f15e3a77e310bd08e65575c14155cceab4406370b4a9346dfa",
         "original_bytes_unchanged": true,
         "acquisition_status": "PC official CMA original retrieved; receipt verified2026-11-01",
-        "library_file_id": "libfile_259db5ce4a84819180a7ff8c3c2805ce",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -13873,7 +13803,7 @@
           "license_label": "CC0",
           "anchor": "cma-1977-182"
         },
-        "provenance": "公式CMA画像・個別CC0記録・Open Access方針をLibrary保存。原本hash・寸法・実画像を受入照合。",
+        "provenance": "公式CMA画像・個別CC0記録・Open Access方針を確認。原本hash・寸法・実画像を受入照合。",
         "rights_evidence_sources": [
           {
             "role": "individual_object_CC0_and_description",
@@ -13885,7 +13815,6 @@
           }
         ],
         "terms_url": "https://www.clevelandart.org/open-access",
-        "library_original_filename": "design-lineage-rococo-neoclassicism.zip",
         "display_derivatives": {
           "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
           "original_unchanged": true,
@@ -14053,7 +13982,6 @@
         "supports": "1750年代英仏、古代文化、発掘、グランド・ツアー。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "N1",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/n1-open-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "e64d6eb66d8ce70417f15df2de4fe5a6aa2f8983d6555773925e8032105566de"
@@ -14066,7 +13994,6 @@
         "supports": "古代の直接観察と複製、比例・調和・単純さ、考古学と実測図の出版。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "N2",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/n2-open-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "f73f2800703e28d3a1a88d31f5eacfd0f0accb85be32718c6c40be6b7eb1fe83"
@@ -14079,7 +14006,6 @@
         "supports": "1787、油彩・カンヴァス、31.45。新古典主義、浅いフリーズ状構図、道徳的選択。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "N3",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/n3-search_query-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "75494b83611d25a94eb79e2aa2ae20d1a61830d7c0661bb0d5beee595a98d3ff"
@@ -14092,11 +14018,9 @@
         "supports": "約1790、貼付装飾ジャスパーウェア、初期陶製版。原作は古代ガラス。図像不確定。",
         "image_reuse": "CMAの既存CC0取得記録あり。/tmp/rococo-receipt参照。",
         "draft_key": "N4",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/n4-open-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "548d7bdc3b265e4c048ad27fd5d0eb0502383aa2329f9a6a2986705b658678d0",
-        "additional_original_html": "/tmp/rococo-receipt/evidence/cma-portland-1918.823.html",
         "uncertain_iconography_location": "原HTMLのDid You Know?表示、およびNEXT_DATA did_you_know。descriptionとは別。"
       },
       {
@@ -14107,7 +14031,6 @@
         "supports": "1805、原図Flaxman・彫版Parker、ライン・エングレーヴィング、1977.595.53(16)。輪郭、横顔、白い余白。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "N5",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/n5-click-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "7ee222072a9445211b2747a6da146ba887b987807a45dff69d7b75fffafbc53c"
@@ -14120,7 +14043,6 @@
         "supports": "古代とルネサンスの壁面装飾を参照し、近代の用途に適応した室内装飾。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "N6",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/n6-search_query-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "024b14618503b8f5eb9d21387ad15a3130b8e553b1bbbd3c55213eed3260ffa4"
@@ -14133,7 +14055,6 @@
         "supports": "1794、石膏、05.46。エルミタージュ第2版用模型とルーヴル大理石原作の区別。",
         "image_reuse": "本文の出典。画像の新規採用許諾確認・ファイル検証はこの調査の対象外。",
         "draft_key": "N7",
-        "evidence_file": "/workspace/shared/lineage-rococo-neoclassical/evidence/n7-search_query-excerpt.txt",
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "55d43fa558749ae09d0c0c37b56c04e51efc250575df0ee2d2560cf8930d8b56"
@@ -14273,8 +14194,6 @@
         "sha256": "e73a8b0843c2094bb71396f93d8808545ea5b991b055dbb316db0f91d2d71b37",
         "original_bytes_unchanged": true,
         "acquisition_status": "PC official CMA original retrieved; receipt verified2026-11-01",
-        "library_file_id": "libfile_259db5ce4a84819180a7ff8c3c2805ce",
-        "library_version": 0,
         "status": "adopted_local_image",
         "rights_reviewed": true,
         "linking_policy_reviewed": true,
@@ -14312,7 +14231,7 @@
           "license_label": "CC0",
           "anchor": "cma-1918-823"
         },
-        "provenance": "公式CMA画像・個別CC0記録・Open Access方針をLibrary保存。原本hash・寸法・実画像を受入照合。",
+        "provenance": "公式CMA画像・個別CC0記録・Open Access方針を確認。原本hash・寸法・実画像を受入照合。",
         "rights_evidence_sources": [
           {
             "role": "individual_object_CC0_and_description",
@@ -14324,7 +14243,6 @@
           }
         ],
         "terms_url": "https://www.clevelandart.org/open-access",
-        "library_original_filename": "design-lineage-rococo-neoclassicism.zip",
         "display_derivatives": {
           "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
           "original_unchanged": true,

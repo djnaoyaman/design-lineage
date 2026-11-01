@@ -46,8 +46,8 @@
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 187659,
-      "sha256": "e96cbfc8ff37460885ff90675837ef6a6c337cdb3e58aaf54ea6ab299a1b4861"
+      "bytes": 182988,
+      "sha256": "14f07dabd07c91f04f297ad3990258e83f56b77276837c950ffb5bbfd79443d0"
     },
     {
       "path": "analytics-status.json",
@@ -781,8 +781,8 @@
     },
     {
       "path": "bauhaus-explainer-provenance.json",
-      "bytes": 2128,
-      "sha256": "5864114187e50df6c7f4a7bf4a926d81bbe9d46c8805368499eb384fc9a09617"
+      "bytes": 2064,
+      "sha256": "4deb846066703eb255ae1ad59ef3f0dcc7645fdfaeb720dae139cbe6f3f08671"
     },
     {
       "path": "catalog.json",
@@ -981,8 +981,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1019403,
-      "sha256": "b65645c26d15fc8c982e124791e251b0d239a6b8813f00b6bf5419e58d92138e"
+      "bytes": 1012859,
+      "sha256": "74af6a1e0df84a74682e0983d31a9aba5c0c7ac3a8f447b6fcc03f6ac6c9197f"
     },
     {
       "path": "external-preview-rights.json",
@@ -991,8 +991,8 @@
     },
     {
       "path": "generated-connection-explainer-provenance.json",
-      "bytes": 5042,
-      "sha256": "5d665540c0f8e695edc25a4031284f16ef9e0a7be9d329c1b5c12ee8719bff04"
+      "bytes": 4896,
+      "sha256": "76e552a85c58c9fe7439978fd8c0eaf58f52ce336196cd3496ec647bc72bac8f"
     },
     {
       "path": "generated-style-image-provenance.json",
@@ -1001,8 +1001,8 @@
     },
     {
       "path": "grid-original-explainer-provenance.json",
-      "bytes": 4075,
-      "sha256": "92a341fbf2c4ad3254cec310d3b5ffa11f339a2fab964004be66fb961fd6ddbd"
+      "bytes": 4012,
+      "sha256": "412d78fe4bb76d9acd71a76e60e685165c0b5a8f64e0aae514ca96446bcc73a2"
     },
     {
       "path": "image-rights.json",
@@ -1026,8 +1026,8 @@
     },
     {
       "path": "logo-provenance.json",
-      "bytes": 2295,
-      "sha256": "bd2f4512b4760493fcacb4cd3671f8571c251577cbdbc141d49b847b22c0336a"
+      "bytes": 2162,
+      "sha256": "10110fc6017309ea9343632c50b6b041a0933020e3a9ae17e551a69e70a674ce"
     },
     {
       "path": "original-comparison-provenance.json",
@@ -1036,8 +1036,8 @@
     },
     {
       "path": "reference-image-rights.json",
-      "bytes": 14936,
-      "sha256": "396b351a2aacc04a2b3b629bda7775306e38a93312ff13ac96a065025a8c7d76"
+      "bytes": 14665,
+      "sha256": "cdddf24a9f6f7882662da39cda6776750c9e570d3f530817808b06a3f0b6151f"
     },
     {
       "path": "robots.txt",
@@ -1157,5 +1157,9 @@
     "actual_images": 1,
     "image_set_complete": false,
     "public_credit": "author,work,year,officialsource,copyright; no third-party reuse grant"
+  },
+  "public_metadata_cleanup": {
+    "date": "2026-11-01",
+    "scope": "Internal archival identifiers and transfer notes removed; public artwork/source/license metadata unchanged."
   }
 }

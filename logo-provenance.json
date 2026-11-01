@@ -1,7 +1,5 @@
 {
   "selection": "10 from approved 12-option board",
-  "wordmark_library_id": "libfile_f4529739f7248191896cefb2297bf9f6",
-  "icon_library_id": "libfile_307a74a38a7c81918d65afd1ba5161d4",
   "generation": "imagegen; user-selected original site identity, not a historical artwork",
   "derivatives": "Aspect-preserving resize. Icon transparency margin trimmed to opaque glyph with 2px edge, then ivory background and padding; no glyph redraw. OGP is a new layout of the exact wordmark.",
   "files": [

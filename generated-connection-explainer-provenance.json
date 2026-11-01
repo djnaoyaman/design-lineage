@@ -45,8 +45,6 @@
         }
       ],
       "derivative_method": "Faithful aspect-preserving Lanczos resize and WebP94 encoding; no crop/recolor/retouch",
-      "library_original_id": "libfile_e87fd966d69081918ddb15b786353d6e",
-      "library_proof_zip_id": "libfile_139a0690e35481919a5df16360de860e",
       "quality_reviewed": true,
       "pixels_inspected": true,
       "original_archival_photo": false,
