@@ -5,10 +5,12 @@ assert.equal(new Set(entries.map(e=>e.slug)).size,entries.length);
 assert.equal(catalog.length,88);
 for(const e of entries){assert(catalog.some(c=>c.name===e.name),e.name);assert(fs.existsSync(`entries/${e.slug}.html`));for(const im of [...(e.adopted_images||[]),...(e.reference_images||[])])if(im.local_file)assert(fs.existsSync(im.local_file),im.local_file);}
 fs.mkdirSync('qa-artifacts',{recursive:true});
-(async()=>{const browser=await chromium.launch({headless:true});const results=[],failures=[];
+let browser;
+(async()=>{browser=await chromium.launch({headless:true});const results=[],failures=[];
 for(const width of [320,390,1280]){
  const page=await browser.newPage({viewport:{width,height:900},deviceScaleFactor:1});const errors=[];page.on('pageerror',e=>errors.push(String(e)));
  for(const slug of entries.map(e=>e.slug)){
+  console.log(`Checking ${slug} at ${width}px`);
   await page.goto(`http://127.0.0.1:8793/entries/${slug}.html`,{waitUntil:'load'});
   await page.locator('footer').scrollIntoViewIfNeeded();
   const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
@@ -43,4 +45,4 @@ for(const width of [320,390,1280]){
  if(errors.length)failures.push({width,errors});await page.close();
 }
 await browser.close();fs.writeFileSync('qa-artifacts/results.json',JSON.stringify({entries:entries.length,catalog:catalog.length,cases:results.length,failures,results},null,2));assert.equal(failures.length,0,JSON.stringify(failures));console.log(`PASS: ${results.length} article viewport cases + catalog/compare flows`);
-})().catch(e=>{console.error(e);process.exitCode=1});
+})().catch(e=>{fs.writeFileSync('qa-artifacts/failure.json',JSON.stringify({message:String(e),stack:e.stack},null,2));console.error(e);process.exitCode=1}).finally(async()=>{if(browser)await browser.close()});
