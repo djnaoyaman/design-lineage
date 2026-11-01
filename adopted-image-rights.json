@@ -2904,6 +2904,68 @@
           "text": "明るい黄色の四角は、右側の中央より少し下にあります。淡い面と比べて、どこに最初に目が向くか確かめてみましょう。"
         }
       ]
+    },
+    {
+      "id": "wien-45677-emilie-floege",
+      "entry": "Vienna Secession",
+      "author": "Gustav Klimt",
+      "author_life": "1862–1918",
+      "title": "Bildnis Emilie Flöge",
+      "year": "1902",
+      "institution": "Wien Museum",
+      "accession": "45677",
+      "source_page": "https://sammlung.wienmuseum.at/objekt/820521-bildnis-emilie-floege/",
+      "image_url": "https://sammlung.wienmuseum.at/images/objects/820521/3195051_full.jpg",
+      "photo_author": "TimTom",
+      "license": "CC BY 4.0（写真）",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "underlying_work_rights": "Historical work dated1902; creator died1918; exhibited at eighteenth Vienna Secession according to NGV catalogue. Public-domain assessment distinct from modern photo CC BY4.0; not a guarantee for every jurisdiction.",
+      "reproduction_rights": "Individual page explicitly permits sharing, adaptation and commercial use under CC BY4.0; credit creator, photographer and Wien Museum.",
+      "credit": "Gustav Klimt, Bildnis Emilie Flöge,1902. Wien Museum,Inv.-Nr.45677. Photo:TimTom/Wien Museum,CC BY4.0.",
+      "checked_at": "2026-11-01",
+      "local_file": "assets/emilie-floege-1902-timtom-original.jpg",
+      "local_bytes": 6500624,
+      "width": 3500,
+      "height": 7220,
+      "sha256": "c22129a9981a59ecff555851b1f244fb8314545031b5d0d3371d58be55153968",
+      "status": "adopted_local_image",
+      "original_bytes_unchanged": true,
+      "pixels_inspected": true,
+      "alt": "青い模様の長い服を着たエミーリエ・フレーゲ。片手を腰に当て、頭の後ろには扇のように模様が広がる。",
+      "representativeness": "NGV catalogue explicitly locates work at XVIII Secession and discusses integration of portrait, ornament and dress; not based only on artist membership.",
+      "display_derivatives": {
+        "method": "Proportional resize/WebP conversion; originalICC preserved, no crop or recolouring. Photographic white surround and colour target retained.",
+        "original_unchanged": true,
+        "variants": [
+          {
+            "file": "emilie-floege-1902-timtom-720.webp",
+            "width": 720,
+            "height": 1485,
+            "bytes": 226354,
+            "sha256": "56b1fa7777bbc858c62c21787812b3512aed03557c9c1d247dde33f4a4a40ad3",
+            "license": "CC BY4.0; resized/re-encoded from TimTom/Wien Museum photo; no crop or color correction",
+            "local_file": "assets/emilie-floege-1902-timtom-720.webp"
+          },
+          {
+            "file": "emilie-floege-1902-timtom-1200.webp",
+            "width": 1200,
+            "height": 2475,
+            "bytes": 531790,
+            "sha256": "2c340cb65cfbfb149f256993cacfa3e366bcc069d69253866469b8dfc3fd8f2a",
+            "license": "CC BY4.0; resized/re-encoded from TimTom/Wien Museum photo; no crop or color correction",
+            "local_file": "assets/emilie-floege-1902-timtom-1200.webp"
+          },
+          {
+            "file": "emilie-floege-1902-timtom-1800.webp",
+            "width": 1800,
+            "height": 3713,
+            "bytes": 1243938,
+            "sha256": "7195a19c7a58204ea10be644cbed9de36f41107baa5f2448844dd03d8c8e5ee3",
+            "license": "CC BY4.0; resized/re-encoded from TimTom/Wien Museum photo; no crop or color correction",
+            "local_file": "assets/emilie-floege-1902-timtom-1800.webp"
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

@@ -1,5 +1,5 @@
 {
-  "release": "public-person-index-credit-only-20261101",
+  "release": "public-vienna-emilie-photo-20261101",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
@@ -8,7 +8,7 @@
   "pages_path": "/",
   "articles": 35,
   "planned_entries": 88,
-  "historical_representative_images": 30,
+  "historical_representative_images": 31,
   "reference_related_images": 2,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
@@ -42,12 +42,12 @@
     {
       "path": "README.md",
       "bytes": 3643,
-      "sha256": "d1057c9d2d727efaa52430f7d8e809d01504eb2653d47f8e2a2af05dbea04e92"
+      "sha256": "c6b375851299e330664db50689b3fb5e4a31d9860a14c2c0d7ea6591d12708ec"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 182988,
-      "sha256": "14f07dabd07c91f04f297ad3990258e83f56b77276837c950ffb5bbfd79443d0"
+      "bytes": 186449,
+      "sha256": "2dfb7fc3d7fd99bb80d9937db104709dd74977001ab9ba50eee0b8ed0ef9addb"
     },
     {
       "path": "analytics-status.json",
@@ -398,6 +398,26 @@
       "path": "assets/design-lineage-og.svg",
       "bytes": 362660,
       "sha256": "ff7f7448b43e82eea35857a300b89e049a37ebc7b8698b4bf3dac81cb67cd178"
+    },
+    {
+      "path": "assets/emilie-floege-1902-timtom-1200.webp",
+      "bytes": 531790,
+      "sha256": "2c340cb65cfbfb149f256993cacfa3e366bcc069d69253866469b8dfc3fd8f2a"
+    },
+    {
+      "path": "assets/emilie-floege-1902-timtom-1800.webp",
+      "bytes": 1243938,
+      "sha256": "7195a19c7a58204ea10be644cbed9de36f41107baa5f2448844dd03d8c8e5ee3"
+    },
+    {
+      "path": "assets/emilie-floege-1902-timtom-720.webp",
+      "bytes": 226354,
+      "sha256": "56b1fa7777bbc858c62c21787812b3512aed03557c9c1d247dde33f4a4a40ad3"
+    },
+    {
+      "path": "assets/emilie-floege-1902-timtom-original.jpg",
+      "bytes": 6500624,
+      "sha256": "c22129a9981a59ecff555851b1f244fb8314545031b5d0d3371d58be55153968"
     },
     {
       "path": "assets/futurism-comparison.svg",
@@ -807,22 +827,22 @@
     {
       "path": "entries/africobra.html",
       "bytes": 19466,
-      "sha256": "ef68b9555409fd3d9967d0a041b94165a2b039c0dcac7d20a8bfe404851353a2"
+      "sha256": "47f4ea0bddf8496629a5c822436cf4756b81bf36f5fd2862126f87212dedb6c6"
     },
     {
       "path": "entries/art-deco.html",
       "bytes": 31349,
-      "sha256": "20be45b068ed712fb37339aeaeebe5ca94f1636ba33ba30aac01d5056163c059"
+      "sha256": "605c04798118cc3d1915ae8f284a881c50e5f598b6a34f8e77c8e90749038acf"
     },
     {
       "path": "entries/art-nouveau.html",
       "bytes": 42089,
-      "sha256": "055bf545cdc7d09abebca0f13e1130ebb2a1410e9639a77a40e91251b494e7ee"
+      "sha256": "3c16bd68d076d158f7844bf48587a0a461042b536134a5ad6cba2eb70f4136eb"
     },
     {
       "path": "entries/arts-and-crafts.html",
       "bytes": 43577,
-      "sha256": "722e3c9b94892ec54bfa956915629cd00d54ce6e0c2298db6d2375ab4dff734c"
+      "sha256": "a2d4a02d2a4f2c927d68549723cbced30a0ebdef17cd88748c087d3d1c857f2e"
     },
     {
       "path": "entries/bauhaus.html",
@@ -832,42 +852,42 @@
     {
       "path": "entries/china-new-woodcut.html",
       "bytes": 21486,
-      "sha256": "0ab02f39a22f4685a76d4be96e84af5b1a72b2da6ecaff85abe066d34900987e"
+      "sha256": "0fa6507fc8ebb3f66380cd13222d399fe4bc170804673708af31345764bd35e0"
     },
     {
       "path": "entries/dada.html",
       "bytes": 39298,
-      "sha256": "2483483512473a21312876507d99454ad9b70043c91815cef3449e5cfdc98ef0"
+      "sha256": "9413ab17be5570d05c8671e2dad3a70a040b8ecc97c8027162857bc58dcb74cb"
     },
     {
       "path": "entries/de-stijl.html",
       "bytes": 29703,
-      "sha256": "aec9e1448b9f3ea29e730aece54fb4956b3ab9e79384971f4bcb413bbb6c04ba"
+      "sha256": "ae4fe1b2cc921715b889f39feb6610763c4db65e0560f474ebef94a299e86eb2"
     },
     {
       "path": "entries/first-nations-australia-design.html",
       "bytes": 20433,
-      "sha256": "07eadd932e90dbc422ef51afaf8d7d7e21a2c5f8d0ee7a6041300fbc39d13a7c"
+      "sha256": "cb018554ec5faf899561952b68c68d84410ea091ebd343312e01fcecd70a6c5c"
     },
     {
       "path": "entries/flat-design.html",
       "bytes": 23434,
-      "sha256": "c1f80878e7afc8e86fc2bf6ff4977cefd5746c3ed752d627f0135662c8946928"
+      "sha256": "a98cd1b2a9e5e13ed9c33948c466f0880edb6344c632119229c910cbeb7ce8fa"
     },
     {
       "path": "entries/futurism.html",
       "bytes": 26587,
-      "sha256": "8c1e573692dd8d79328cbca2333cb2e72a3bfd19b4afded3916c1e4c0791036d"
+      "sha256": "90f0d6460ba115e0792af807e092ad9fd272a7380140ba5a4cd9692a03a5d74b"
     },
     {
       "path": "entries/grid-systems.html",
       "bytes": 24171,
-      "sha256": "163d56c6e9043d71c7103b969eaa82cb1b2ef1c7815c8a1e005c5e9ad4a7700d"
+      "sha256": "d6903600a4f5a77cfa9948783368061cced2cf2aee00246a6b7f5e488bbb08e6"
     },
     {
       "path": "entries/hfg-ulm.html",
       "bytes": 22574,
-      "sha256": "7dc5f4cb64f934b59aeb7c225cf0989b1019dce7b36aab1c7c60d260e1886d49"
+      "sha256": "6b5479af0acbafffa7f96ee61ece15723410b60ac9a6925e0a598df82a93fd1a"
     },
     {
       "path": "entries/hideki-nakajima.html",
@@ -877,112 +897,112 @@
     {
       "path": "entries/hurufiyya.html",
       "bytes": 21055,
-      "sha256": "16259a0b8a628fae349910aa60ce56afc9c15d618f9e430b91bf0e74bd091d8f"
+      "sha256": "bbf8da2ec9c166ac147a1ea346a5602446a5846ab671245bfee0417f411e245d"
     },
     {
       "path": "entries/international-style.html",
       "bytes": 23334,
-      "sha256": "f6ce3a50b41175cd5b7f7702186a4ebe3414791f439f1ba12e90dac6e0afd44b"
+      "sha256": "99accc3da28ac9c175e948e13fe7e7e1d9079b3d05220ecdc05dcc79c25925fe"
     },
     {
       "path": "entries/isotype.html",
       "bytes": 18641,
-      "sha256": "da4980a5d0565f9ec90a584e09ab7b971cef7ee70bacf631b98b614da974d9ea"
+      "sha256": "490c23a6847b8a4f854e4b7ea3e0da5c2906f1249d5314bf7ba59246a7385587"
     },
     {
       "path": "entries/material-design.html",
       "bytes": 21426,
-      "sha256": "7ff903a669677aae5adda156fd410c8c26ff3f792d7a0835f5e5c3d20c977584"
+      "sha256": "4b8fc8fbcfe057646282b30affea95e1afdb9df8f9ccc43010408af6310174dd"
     },
     {
       "path": "entries/metabolism.html",
       "bytes": 21161,
-      "sha256": "5f4cc2d25025232b95a2e46f72b5867aa52d72d22f9632289b5152dc69719d72"
+      "sha256": "aea5b0ee007549793e9cc5ea3fb7c1302d64e21f012d8b2641b53780cfefa94d"
     },
     {
       "path": "entries/mexican-muralism.html",
       "bytes": 26161,
-      "sha256": "bece139ff742e83b71f3f43a2d16db5c7199575a25e110a7efeb23f849c4323b"
+      "sha256": "e918c4c74ab6fac4f80bdf5c21f5e4af1e2e9f98d3d5212bd1ec4f05e9e7c85a"
     },
     {
       "path": "entries/mingei.html",
       "bytes": 21379,
-      "sha256": "ff8d52a5924da99a54f00186ba4c5598c1bf1f422b2fe7cfce974e190578ee7c"
+      "sha256": "430372449697ec723f3b7c829bef2cc370bc846ffb061b98e2e00039d0b0b149"
     },
     {
       "path": "entries/neoclassicism.html",
       "bytes": 24108,
-      "sha256": "9bacd5e23a4bf2da7bd4b2da89043b7b9d47e600d23c5bb85bee507f919f09fe"
+      "sha256": "8ced13eaea191ab6e2c5cd8da595875b0774e17af0c35cdf28884d63670488d3"
     },
     {
       "path": "entries/new-typography.html",
       "bytes": 27266,
-      "sha256": "98c10cf58062ce1b75b35535f51dbf3c443326e5ea9924a0ad96b1260e6206ae"
+      "sha256": "5491eb0b67ece75dd4bc19ddc82eef8b6de95e3143e5a878e47e8851eb879cf5"
     },
     {
       "path": "entries/nsukka-school.html",
       "bytes": 21437,
-      "sha256": "15845d93bdd87d596f2dd81f6810a28e324f08fafb1501ea5032c5d177c12172"
+      "sha256": "93429e9fe29e567d89aee0a2223d311a5c5a47f72757721c361fd647b76f14a0"
     },
     {
       "path": "entries/postmodernism.html",
       "bytes": 22118,
-      "sha256": "a4a80a3ec4100571fc164639b8bc79242cf482d274676a0a13ced26843eaaab9"
+      "sha256": "47f9f9c4296053dd940dc9eebbdd283341594911e1e0d1d08dd2900b1278d38a"
     },
     {
       "path": "entries/rinpa.html",
       "bytes": 36205,
-      "sha256": "f8fcca3508ae1c95a5d054c84e1d7b37997388e756cd8a562dde614d129c2954"
+      "sha256": "f39607d0b125120f5aef65447054eaf5cbc88f074d0e6e12685ca770140d1706"
     },
     {
       "path": "entries/rococo.html",
       "bytes": 22002,
-      "sha256": "adf68a2d2139e478d0c60d30b8ad1f231b417b7e22ed01129532af86af7f0c88"
+      "sha256": "52fd00858c0c80733ed2f5dddc1735a93740ad6c0e24ab9b856e5e7346b3f8e2"
     },
     {
       "path": "entries/russian-constructivism.html",
       "bytes": 32140,
-      "sha256": "2c94b62928056c7dd052fdb7a96e1b5f7b571131bb4f397f0b792bc4614ffdd2"
+      "sha256": "e0d927690bad01d05455e4f667fc2a70523e4d515818468b325fe618f8f5f68c"
     },
     {
       "path": "entries/santiniketan.html",
       "bytes": 22038,
-      "sha256": "c5ba788d7d535bdf007c90d010f5f4a89b88e1a18661f15f37ed36d08db1301b"
+      "sha256": "7cd76bc672301d236fa049c92cf6eb5e175b8a041c4ccde7479be7f2b4388e45"
     },
     {
       "path": "entries/sosaku-hanga.html",
       "bytes": 34963,
-      "sha256": "4e7e77c4bd402ecb5a3ad5e28a4a7ebcb8665c60a02ae3c2e7e1f280cd2dc139"
+      "sha256": "6870e199dd181fe5186f8d31f3de9e1ef63fd5c53295da4c53bb09f8518f5c46"
     },
     {
       "path": "entries/suprematism.html",
       "bytes": 21634,
-      "sha256": "9415b34f51d98eb6732b0083b15701aa31de90ef34d4735c8d58095a6afaf79f"
+      "sha256": "d7e436d729295b128327cd39d4475fa672d9538bb5dd205ffcbb3322d42184e5"
     },
     {
       "path": "entries/swiss-style.html",
       "bytes": 23875,
-      "sha256": "41e48e364d609dc3e91ea173f4be6235baa1b37a7c2f405c40ee809eb0bb954b"
+      "sha256": "c6c36b8693b69ed98967cfee0781e648665798ba713c4297b025efbc1cd4680c"
     },
     {
       "path": "entries/ukiyoe.html",
       "bytes": 36199,
-      "sha256": "63c950d3a7b51cd6572a56ca16e020bc28305ec33b5ada94fa550f91bb7da909"
+      "sha256": "722d7211e5e46ad0367d0e7fe374aff6e02d5b894141682c43c99e68f87c7cd7"
     },
     {
       "path": "entries/vienna-secession.html",
-      "bytes": 26674,
-      "sha256": "c1840832538278bd3beb5ad29bc7da384880f9d6923025e063fe03d949479e0b"
+      "bytes": 30450,
+      "sha256": "543341a9eaeb59ef2e3f00646a79c7531a680a7a3421b53701bc640d255817e7"
     },
     {
       "path": "entries/wiener-werkstaette.html",
       "bytes": 22382,
-      "sha256": "a0b7370eeb6ec3f88802e137514868b397fa0a38b11b326af7e1462db0bc6fc6"
+      "sha256": "d61e3d262eb33f8eeabbeafecbb65a2b4455373b31fc8a991060500e5d1252b4"
     },
     {
       "path": "entries.json",
-      "bytes": 1012859,
-      "sha256": "74af6a1e0df84a74682e0983d31a9aba5c0c7ac3a8f447b6fcc03f6ac6c9197f"
+      "bytes": 1018394,
+      "sha256": "d43e1d7cf55be300c90a18459263c13ff6fa44637db20014c0fe9f42e733f68b"
     },
     {
       "path": "external-preview-rights.json",
@@ -1012,7 +1032,7 @@
     {
       "path": "index.html",
       "bytes": 23966,
-      "sha256": "c7eeefff75c5c52f757124f16dab4d7e958b988cdf05bfa5a7f286b7a0e7d6b2"
+      "sha256": "7fa5d17234f45da0aac9a2d26b6c40e2e8c51b8b3963809de62b58ea27d1656d"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1057,7 +1077,7 @@
     {
       "path": "site-update.json",
       "bytes": 2715,
-      "sha256": "ba78b37c739f75729e415df20be463718d0a80312d82b90238b4ca3025bd0740"
+      "sha256": "c9dfeef5c0c3babde8b828a556ef1c3b4cbc1e067a871dcd446092e0fcb39327"
     },
     {
       "path": "site.webmanifest",
@@ -1067,7 +1087,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 5307,
-      "sha256": "5dad0af6f5ec8af5e854f9d46d5e8abc3ae99bac8a62c8de7173da3b79e6dbde"
+      "sha256": "895d111c2946093cda4adba4b33f5f4a03e913dffd6533f2334736b743971038"
     },
     {
       "path": "study-images.js",
@@ -1107,10 +1127,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T02:00:00+09:00",
+  "frozen_at": "2026-11-02T02:12:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 150,
+  "rewritten_representative_cards": 151,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1161,5 +1181,11 @@
   "public_metadata_cleanup": {
     "date": "2026-11-01",
     "scope": "Internal archival identifiers and transfer notes removed; public artwork/source/license metadata unchanged."
+  },
+  "vienna_emilie": {
+    "original_photo_added": 1,
+    "entry_images": 4,
+    "photo_license": "CC BY4.0",
+    "AAGA_added": 0
   }
 }
