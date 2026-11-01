@@ -3,7 +3,7 @@
 > デザインの歴史を、作品と一次資料からたどる日本語の図鑑。
 
 ## このサイトについて
-- 本文35項目、収録候補88項目。未公開候補は完成記事ではありません。
+- 本文52項目、収録候補88項目。未公開候補は完成記事ではありません。
 - 歴史的な運動・様式・学校・技法・現代トレンド・人物を区別します。
 - 掲載画像の出典と利用条件は個別記録を参照してください。サイト全体への一括利用許諾はありません。
 - AAGAの試作は実在する作品の写真とは区別します。
@@ -53,3 +53,21 @@
 - [本文と出典](https://djnaoyaman.github.io/design-lineage/entries.json)
 - [実作品画像の条件](https://djnaoyaman.github.io/design-lineage/adopted-image-rights.json)
 - [サイトマップ](https://djnaoyaman.github.io/design-lineage/sitemap.xml)
+
+- [パンク／DIY（自分たちでつくる） / Punk / DIY](https://djnaoyaman.github.io/design-lineage/entries/punk-diy.html): 音楽・出版・服などに広がる文化と制作の姿勢。1970年代半ば以後。本文は英国の1976–77年を中心に扱う。実作品画像0点、画像収録は継続中。
+- [ニュー・バウハウス（シカゴ） / New Bauhaus Chicago](https://djnaoyaman.github.io/design-lineage/entries/new-bauhaus-chicago.html): 学校・教育。後継校への変化は時期を分けて扱う。1937–1938年のニュー・バウハウスと、1939年に始まるスクール・オブ・デザインを中心に扱う。比較資料は1946年までの後続教育資料を含む。実作品画像0点、画像収録は継続中。
+- [ヴフテマス / Vkhutemas](https://djnaoyaman.github.io/design-lineage/entries/vkhutemas.html): 国立の美術・技術教育機関。1920–1930年（後継のヴフテイン期を含む）。実作品画像1点、画像収録は継続中。
+- [ブラック・マウンテン・カレッジ / Black Mountain College](https://djnaoyaman.github.io/design-lineage/entries/black-mountain-college.html): 学校・共同生活を通じた教育の実践。1933–1957。実作品画像0点、画像収録は継続中。
+- [サイケデリック・アート / Psychedelic Art](https://djnaoyaman.github.io/design-lineage/entries/psychedelic-art.html): 視覚表現の潮流（ここでは音楽ポスターを中心に扱う）。主に1960年代後半。実作品画像0点、画像収録は継続中。
+- [ストリームライン・モダン / Streamline Moderne](https://djnaoyaman.github.io/design-lineage/entries/streamline-moderne.html): 歴史的な様式・潮流（建築と製品の流線型を区別して扱う）。主に1930年代。個別の製品は1940年代以後も製造。実作品画像1点、画像収録は継続中。
+- [ポーランド・ポスター派 / Polish Poster School](https://djnaoyaman.github.io/design-lineage/entries/polish-poster-school.html): ポスター制作の潮流（ひとつの学校名ではない）。主に1950–70年代。実作品画像0点、画像収録は継続中。
+- [シュルレアリスム（超現実主義） / Surrealism](https://djnaoyaman.github.io/design-lineage/entries/surrealism.html): 美術・文学の運動。1924年の宣言を重要な節目として、1920–30年代を中心に扱う。実作品画像0点、画像収録は継続中。
+- [ユーゲントシュティール / Jugendstil](https://djnaoyaman.github.io/design-lineage/entries/jugendstil.html): Art Nouveauの地域的な呼称・展開（独立した別運動として数えない）。19世紀末から20世紀初めを中心に扱う。1896年は雑誌の創刊年で、様式全体の発明年ではない。実作品画像0点、画像収録は継続中。
+- [北欧モダン（スカンディナヴィアン・モダン） / Scandinavian Modern](https://djnaoyaman.github.io/design-lineage/entries/scandinavian-modern.html): 地域を横断するデザインの潮流・呼称。1930年代–1960年代を中心に紹介。スカンディナヴィアン・デザインという呼称の国際的な宣伝は1950年代に拡大。実作品画像1点、画像収録は継続中。
+- [ブルータリズム / Brutalism](https://djnaoyaman.github.io/design-lineage/entries/brutalism.html): 建築の潮流。初期のニュー・ブルータリズムと後の広がりを区別。1950年代から展開。紹介例は1950–1982年の建設。実作品画像1点、画像収録は継続中。
+- [批判的地域主義（ひはんてき・ちいきしゅぎ／クリティカル・リージョナリズム） / Critical Regionalism](https://djnaoyaman.github.io/design-lineage/entries/critical-regionalism.html): 建築の批評理論・設計を考える立場。学校や統一様式ではない。1980年代に理論として論じられる。比較する建築は1952年・1976年。実作品画像2点、画像収録は継続中。
+- [ミッドセンチュリー・モダン / Mid-century Modern](https://djnaoyaman.github.io/design-lineage/entries/mid-century-modern.html): 20世紀半ばの建築・生活用品をまとめる広い呼称。主に1940年代–1960年代の作品を紹介。共通の創立年・終了年は設けない。実作品画像1点、画像収録は継続中。
+- [ラディカル・デザイン / Radical Design](https://djnaoyaman.github.io/design-lineage/entries/radical-design.html): 歴史的な運動・建築と製品をめぐる批判的な実験。主に1960年代後半–1970年代。実作品画像0点、画像収録は継続中。
+- [メンフィス / Memphis](https://djnaoyaman.github.io/design-lineage/entries/memphis.html): デザイナーの集まりと、その制作活動。1980–1981年の結成と1981年の初発表、1980年代の活動を中心に扱う。実作品画像0点、画像収録は継続中。
+- [ニュー・ウェーブ・タイポグラフィ / New Wave Typography](https://djnaoyaman.github.io/design-lineage/entries/new-wave-typography.html): 文字と印刷物のデザインをめぐる潮流。主に1970–1980年代。背景となる実験は1960年代から。実作品画像0点、画像収録は継続中。
+- [スーパーグラフィックス / Supergraphics](https://djnaoyaman.github.io/design-lineage/entries/supergraphics.html): グラフィックと建築をつなぐ表現・潮流。1960年代から。本文は1960年代の仕事と2018–2023年の展開を比較。実作品画像0点、画像収録は継続中。

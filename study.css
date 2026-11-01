@@ -33,3 +33,6 @@
 
 /* Unnumbered work cards must not occupy the old number column. */
 .representative>div:only-child{grid-column:1/-1}
+
+/* Readable vocabulary definitions in newly rendered study articles. */
+#article-glossary{font-size:16px}#article-glossary dd{font-size:1rem;line-height:1.9}
