@@ -24,6 +24,16 @@ for(const width of [320,390,1280]){
    if(["punk-diy", "new-bauhaus-chicago", "vkhutemas", "black-mountain-college", "psychedelic-art", "streamline-moderne", "polish-poster-school", "surrealism", "jugendstil", "scandinavian-modern", "brutalism", "critical-regionalism", "mid-century-modern", "radical-design", "memphis", "new-wave-typography", "supergraphics"].includes(slug)){assert.equal(images.length,entries.find(e=>e.slug===slug).adopted_images.length);assert(images.every(i=>i.width<=i.natural),'New article no image upsampling');}
    if(slug==='hideki-nakajima'){assert.equal(images.length,9);assert(images.every(i=>i.width<=i.natural), 'No image upsampling');}
    if(slug==='art-nouveau'){
+    // Keep title word units intact at normal scale and 200% CSS layout zoom.
+    for(const zoom of [1,2]){
+     await page.evaluate(z=>{document.documentElement.style.zoom=String(z);window.scrollTo({top:0,behavior:'instant'});},zoom);
+     const title=await page.locator('.study-title h1').evaluate(h=>({text:h.textContent,box:{left:h.getBoundingClientRect().left,right:h.getBoundingClientRect().right},words:[...h.querySelectorAll('.title-word')].map(w=>{const r=document.createRange();r.selectNodeContents(w);return {text:w.textContent,lines:r.getClientRects().length,left:w.getBoundingClientRect().left,right:w.getBoundingClientRect().right};})}));
+     assert.equal(title.text,'アール・ヌーヴォー');assert.equal(title.words.length,2);assert(title.words.every(w=>w.lines===1&&w.left>=0&&w.right<=width+1),'Intact Art Nouveau title words at '+zoom+'x');
+     fs.writeFileSync(`qa-artifacts/art-nouveau-title-${width}-${zoom}x.json`,JSON.stringify(title,null,2));
+     await page.screenshot({path:`qa-artifacts/art-nouveau-title-${width}-${zoom}x.png`});
+    }
+    await page.evaluate(()=>document.documentElement.style.zoom='');
+
     await page.locator('.article-image-index summary').click();assert.equal(await page.locator('.article-image-index a').count(),entries.find(e=>e.slug===slug).adopted_images.length);await page.locator('.article-image-index a').first().click();await page.locator('.article-image-index summary').click();
     const expected=entries.find(e=>e.slug===slug).adopted_images.length;assert.equal(images.length,expected);assert(images.every(i=>i.width<=i.natural),'Art Nouveau no image upsampling');
     for(const [i,figure] of (await page.locator('.collected-art').all()).entries()){await figure.locator('img').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/art-nouveau-work-${i+1}-${width}.png`});}

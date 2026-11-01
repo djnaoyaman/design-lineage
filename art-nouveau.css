@@ -12,3 +12,8 @@
 .collected-art .art-fullsize img{max-height:82vh;object-fit:contain}
 
 #article-glossary{font-size:16px}#article-glossary dd{font-size:1rem}
+
+/* Keep the two words intact without forcing a wide, unbreakable heading. */
+.study-title{container-type:inline-size}
+.study-title h1{font-size:clamp(1rem,12vw,6.25rem);font-size:clamp(1rem,14cqi,6.25rem)}
+.study-title h1 .title-word{display:inline-block;white-space:nowrap}
