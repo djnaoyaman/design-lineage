@@ -10,3 +10,5 @@
 .article-image-index{margin:0 0 2rem;padding:1rem 0;border-bottom:1px solid var(--line,#d6d1c7)}.article-image-index li{margin:.6rem 0}.article-image-index summary{cursor:pointer}
 /* Show each entire work within a comfortable viewport; never crop it. */
 .collected-art .art-fullsize img{max-height:82vh;object-fit:contain}
+
+#article-glossary{font-size:16px}#article-glossary dd{font-size:1rem}

@@ -1,5 +1,5 @@
 {
-  "release": "public-art-nouveau-depth-20261102-0800",
+  "release": "public-art-nouveau-depth-20261102-0820",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
@@ -66,8 +66,8 @@
     },
     {
       "path": "art-nouveau.css",
-      "bytes": 1948,
-      "sha256": "ae66e656fd0657c4bfe613ac60c0b8fcf0c95b670a55ff0c49957095712ca5fb"
+      "bytes": 2019,
+      "sha256": "9ff3b23fc0cae109bc1c5cdc17b1949c584503468016f5561cbb5251266d9c56"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -967,7 +967,7 @@
     {
       "path": "compare.html",
       "bytes": 6460,
-      "sha256": "4d287638e5de58c68f4d04aac98e651c6ad91a11775af4cc2854798516f6dbc5"
+      "sha256": "e7a2925159e2976bfb75920ccb7033072a8447c9a12997f075116dac468de29d"
     },
     {
       "path": "compare.js",
@@ -991,8 +991,8 @@
     },
     {
       "path": "entries/art-nouveau.html",
-      "bytes": 82318,
-      "sha256": "91a28ce9e0359f3717c932609aecacb78c675e66c5d6dcbd66b2d560b44cd91e"
+      "bytes": 82273,
+      "sha256": "201daf579a5e27072246ec590024972a8f7f1cb23ca1b27f1938e6a81cbe3c0f"
     },
     {
       "path": "entries/arts-and-crafts.html",
@@ -1156,8 +1156,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1114841,
-      "sha256": "49f2deb003fad17178ad3fa2e0b684bbcdd017816bbc34cd235a3302566a3b7b"
+      "bytes": 1114796,
+      "sha256": "63454163cc6b01e85bee291676257f5a899094593642da9ccc36a4bb14c6557d"
     },
     {
       "path": "external-preview-rights.json",
@@ -1187,7 +1187,7 @@
     {
       "path": "index.html",
       "bytes": 23966,
-      "sha256": "c2a29dc8149b41c5216edac76ee711cafd7d4680847a5a8fade2c6dabede6c56"
+      "sha256": "c724a33d6da76d4245a0ff351024f0d6854f9f5c11558ae5726cd107b45c4432"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1247,7 +1247,7 @@
     {
       "path": "site-update.json",
       "bytes": 2715,
-      "sha256": "97dc4c7cdc0fae6f17bf116bcd1f6d47116b359983434c388017ab3e3c0c0047"
+      "sha256": "7d9163b091d312c1288344e9728857f7bc30156381602621d24748c72987186c"
     },
     {
       "path": "site.webmanifest",
@@ -1257,7 +1257,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 5307,
-      "sha256": "f02dfbd08ee49d8f3a77ff3b337b121ecdcccde9683f85fbb0d6357c34c5b7f6"
+      "sha256": "574ef0d13412a73a4265b605a0843ae7139916fcf875d58b6bac4d2369c8032f"
     },
     {
       "path": "study-images.js",
@@ -1276,8 +1276,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 6855,
-      "sha256": "fe3b22aa001ee9e03bd69f18904ab7e9f5b74158026173e56fd4f099008c165d"
+      "bytes": 7185,
+      "sha256": "44196b87d1ed1a9592b6b5f0f7d3604848fd0543864a061962baa38a31d86542"
     },
     {
       "path": "timeline.css",
@@ -1302,7 +1302,7 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T08:00:00+09:00",
+  "frozen_at": "2026-11-02T08:20:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
   "rewritten_representative_cards": 165,

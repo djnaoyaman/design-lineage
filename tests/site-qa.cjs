@@ -33,7 +33,9 @@ for(const width of [320,390,1280]){
     const credits=await page.locator('.collected-art .credit').evaluateAll(xs=>xs.map(x=>({left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right})));assert(credits.every(x=>x.left>=0&&x.right<=width+1),'Credits fit viewport');
     await page.screenshot({path:`qa-artifacts/art-nouveau-expanded-glossary-${width}.png`});
     await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=false));
-    await page.locator('#main').scrollIntoViewIfNeeded();
+    await page.locator('.regional-notes article').first().scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/art-nouveau-regions-${width}.png`});
+    await page.locator('#article-timeline h2').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/art-nouveau-timeline-${width}.png`});
+    await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));
    }
    if(slug==='vienna-secession')await page.locator('#representative-works').scrollIntoViewIfNeeded();
    await page.screenshot({path:`qa-artifacts/${slug}-${width}.png`});
