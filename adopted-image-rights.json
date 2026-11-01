@@ -2934,6 +2934,39 @@
           }
         ]
       }
+    },
+    {
+      "id": "nakajima-unfinished-3-1",
+      "entry": "Hideki Nakajima",
+      "author": "中島英樹 / Hideki Nakajima",
+      "author_life": "1961–2022",
+      "title": "Unfinished #3-1 / Graphic Wave 5 Exhibition",
+      "year": "2000",
+      "institution": "NAKAJIMA DESIGN 公式アーカイブ（美術館所蔵番号ではありません）",
+      "source_page": "https://www.nkjm-d.com/archive/unfinished-3-1-graphic-wave-5-exhibition/",
+      "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/Poji106.jpg",
+      "local_file": "assets/hideki-nakajima-unfinished-3-1-2000.jpg",
+      "local_bytes": 38521,
+      "width": 300,
+      "height": 425,
+      "sha256": "8dc15648297276fa3373a404f1b7c24b26b78309c6c3a1c4fc34474b9bfb1e81",
+      "alt": "白と薄い灰色の長方形が重なり、右側の中央より少し下に黄色い四角が置かれている。",
+      "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+      "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+      "image_processing": "公式掲載JPEGを変更せず使用。300×425px、表示幅は最大300px。",
+      "status": "adopted_local_image",
+      "original_bytes_unchanged": true,
+      "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+      "visual_notes": [
+        {
+          "title": "白の違いを探す。",
+          "text": "ほとんど白く見えても、少し灰色がかった面があります。境目をたどると、いくつもの長方形が見えてきます。"
+        },
+        {
+          "title": "黄色で、目の止まる場所が変わる。",
+          "text": "明るい黄色の四角は、右側の中央より少し下にあります。淡い面と比べて、どこに最初に目が向くか確かめてみましょう。"
+        }
+      ]
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
