@@ -17,7 +17,9 @@ for(const width of [320,390,1280]){
   if(r.overflow||r.cards.some(x=>x.body<x.card*.6)||r.footer!=='invert(1)'||r.header!=='none')failures.push({slug,width,...r});
   if(['hideki-nakajima','vienna-secession','art-nouveau'].includes(slug)){
    for(const im of await page.locator('.collected-art img').all()){await im.scrollIntoViewIfNeeded();await im.evaluate(i=>i.decode());}
-   const images=await page.locator('.collected-art img').evaluateAll(xs=>xs.map(i=>({ok:i.complete&&i.naturalWidth>0,src:i.getAttribute('src'),width:i.width,natural:i.naturalWidth})));
+   // naturalWidth on a srcset image is density-corrected; decode currentSrc without srcset to measure actual source pixels.
+   const images=await page.locator('.collected-art img').evaluateAll(async xs=>Promise.all(xs.map(async i=>{const raw=new Image();raw.src=i.currentSrc;await raw.decode();return {ok:i.complete&&i.naturalWidth>0,src:i.getAttribute('src'),currentSrc:i.currentSrc,width:i.getBoundingClientRect().width,natural:raw.naturalWidth,densityCorrectedNatural:i.naturalWidth};})));
+   fs.writeFileSync(`qa-artifacts/${slug}-images-${width}.json`,JSON.stringify(images,null,2));
    assert(images.every(i=>i.ok),`${slug} images`);
    if(slug==='hideki-nakajima'){assert.equal(images.length,9);assert(images.every(i=>i.width<=i.natural), 'No image upsampling');}
    if(slug==='art-nouveau'){
