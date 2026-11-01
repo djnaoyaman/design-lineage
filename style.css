@@ -56,3 +56,6 @@ main.study .study-title{padding:1.2rem 0 1.5rem}
 main.study .study-title dl{margin-top:1.25rem}
 main.study .study-title h1{margin:.5rem 0 1rem}
 @media(max-width:650px){main.study .study-title dl{display:flex;flex-wrap:wrap;gap:1.1rem 2rem}main.study .study-title dl div{margin:.3rem 0}main.study .study-title h1{line-height:1.6}main.study>.reading-entrance{margin-top:.75rem}}
+
+/* The supplied transparent logo is black; reverse only on the dark footer. */
+footer .footer-brand img{filter:invert(1)}
