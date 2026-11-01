@@ -1,0 +1,55 @@
+# DESIGN LINEAGE｜デザイン表現史
+
+> デザインの歴史を、作品と一次資料からたどる日本語の図鑑。
+
+## このサイトについて
+- 本文34項目、収録候補87項目。未公開候補は完成記事ではありません。
+- 歴史的な運動・様式・学校・技法・現代トレンドを区別します。
+- 掲載画像の出典と利用条件は個別記録を参照してください。サイト全体への一括利用許諾はありません。
+- AAGAの試作は実在する作品の写真とは区別します。
+
+## 公開ページ
+- [トップ](https://djnaoyaman.github.io/design-lineage/)
+- [年代から見る](https://djnaoyaman.github.io/design-lineage/timeline.html)
+- [項目を比べる](https://djnaoyaman.github.io/design-lineage/compare.html)
+- [編者](https://djnaoyaman.github.io/design-lineage/compiler.html)
+- [アーツ・アンド・クラフツ / Arts & Crafts](https://djnaoyaman.github.io/design-lineage/entries/arts-and-crafts.html): 歴史的な運動。主な展開 1880頃–1920頃（前史は1860–70年代）。
+- [アール・ヌーヴォー / Art Nouveau](https://djnaoyaman.github.io/design-lineage/entries/art-nouveau.html): 国際的な様式と改革の潮流。1890年代初め–第一次世界大戦頃。
+- [アール・デコ / Art Deco](https://djnaoyaman.github.io/design-lineage/entries/art-deco.html): 様式。主な展開 1920–30年代（1925年パリ博覧会が重要）。
+- [デ・ステイル / De Stijl](https://djnaoyaman.github.io/design-lineage/entries/de-stijl.html): 雑誌を核とした運動。1917年創刊の雑誌を核に展開（終期と各作家の活動期は区別）。
+- [ロシア構成主義 / Russian Constructivism](https://djnaoyaman.github.io/design-lineage/entries/russian-constructivism.html): 歴史的な運動。年代範囲を一次資料で精査中。
+- [スイス・スタイル／国際タイポグラフィ様式 / Swiss / International Typographic Style](https://djnaoyaman.github.io/design-lineage/entries/swiss-style.html): グラフィックデザインの様式・方法。主な展開 1950–1970頃（教育・作品の前史と継続は別）。
+- [ポストモダニズム / Postmodernism](https://djnaoyaman.github.io/design-lineage/entries/postmodernism.html): 複数分野にまたがる歴史的潮流。主な展開 1970頃–1990頃（分野により差異）。
+- [バウハウス / Bauhaus](https://djnaoyaman.github.io/design-lineage/entries/bauhaus.html): 学校・教育。1919–1933。
+- [琳派 / 琳派](https://djnaoyaman.github.io/design-lineage/entries/rinpa.html): 後世に整理された様式・芸術的継承の系譜。主に17–19世紀／近代以降にも再解釈。
+- [ニュー・タイポグラフィ / New Typography](https://djnaoyaman.github.io/design-lineage/entries/new-typography.html): 情報・グラフィックの歴史的な潮流。1920–30年代（MoMAの保持解説が支持する主な範囲）。
+- [インターナショナル・スタイル / International Style](https://djnaoyaman.github.io/design-lineage/entries/international-style.html): 建築の様式・批評用語。成立：1920–30年代の欧州／戦後米国の展開も比較（1952年の例）。
+- [浮世絵 / 浮世絵](https://djnaoyaman.github.io/design-lineage/entries/ukiyoe.html): 絵画・木版画にまたがる表現の領域（木版技法そのものとは区別）。17–19世紀の展開を中心に扱う。1765年は多色の一枚摺・錦絵の重要な節目。。
+- [中国新興木刻運動 / 中国新興木刻運動](https://djnaoyaman.github.io/design-lineage/entries/china-new-woodcut.html): 社会・文化的な版画運動（木版技法そのものとは区別）。1930年代の形成と展開を中心に扱う／1940年代以降の変化は別に精査。
+- [サンティニケタン / Santiniketan](https://djnaoyaman.github.io/design-lineage/entries/santiniketan.html): 教育共同体・芸術教育の場所（単一の造形様式ではない）。1863年のアシュラム、1901年の学校、1921年の大学をそれぞれの節目として区別。。
+- [メキシコ壁画運動 / Mexican Muralism](https://djnaoyaman.github.io/design-lineage/entries/mexican-muralism.html): 公共的・教育的な美術運動（単一技法・固定様式ではない）。1920年代に展開・定着し20世紀後半へ継続。1921年の先行例と1922年の集団的実験を区別する。。
+- [ヌスカ学派 / Nsukka School](https://djnaoyaman.github.io/design-lineage/entries/nsukka-school.html): 教育拠点に結びつく現代美術の学派。取得済資料では1970年代の教育と制作の展開を確認。全体の始期・終期は未精査。。
+- [フルーフィーヤ / Hurufiyya](https://djnaoyaman.github.io/design-lineage/entries/hurufiyya.html): 文字を造形要素として扱う近現代美術の動向。20世紀半ばの形成に関する根拠と1968・1986・2010年の作品例。単一集団の創始年や統一した終期は設定しない。。
+- [フラットデザイン / Flat design](https://djnaoyaman.github.io/design-lineage/entries/flat-design.html): 近年のUI・デジタルデザインのトレンド。2010年代に普及（NNGは2012年頃を指摘）。
+- [アフリコブラ / AfriCOBRA](https://djnaoyaman.github.io/design-lineage/entries/africobra.html): 歴史的なアーティスト集団。1968年結成／主な検討作例：1968年頃–1980年。
+- [アイソタイプ / Isotype](https://djnaoyaman.github.io/design-lineage/entries/isotype.html): 情報を図で伝える方法・制作体制。1920年代成立／1930–1950年代以降に教育へ展開。
+- [オーストラリアのFirst Nationsによる現代デザイン / Australian Indigenous contemporary design](https://djnaoyaman.github.io/design-lineage/entries/first-nations-australia-design.html): 地域・制作主体別の案内（単一の様式・運動ではない）。現代の実践／本項の検討作例：2019–2021年。
+- [民藝運動 / 民藝運動](https://djnaoyaman.github.io/design-lineage/entries/mingei.html): 歴史的な運動・工芸を評価し伝える思想。1925年に命名／1920年代以降。
+- [ウィーン分離派 / Vienna Secession](https://djnaoyaman.github.io/design-lineage/entries/vienna-secession.html): 歴史的な芸術家団体・展覧会と出版を通じた運動。1897年結成／ここでは世紀転換期を中心に扱う。
+- [ウルム造形大学 / HfG Ulm](https://djnaoyaman.github.io/design-lineage/entries/hfg-ulm.html): 学校・教育機関。1953–1968。
+- [シュプレマティスム（絶対主義） / Suprematism](https://djnaoyaman.github.io/design-lineage/entries/suprematism.html): 歴史的な美術運動・理論。1915年に公表／主に1910年代後半–1920年代。
+- [創作版画 / 創作版画](https://djnaoyaman.github.io/design-lineage/entries/sosaku-hanga.html): 歴史的な版画運動・制作理念。1904年前後からの展開／主要対象は20世紀前半。
+- [未来派（イタリア未来派を中心に） / Futurism](https://djnaoyaman.github.io/design-lineage/entries/futurism.html): 歴史・運動（この項目はイタリアの展開を対象）。1909–1944を中心に／死後鋳造などの受容は区別。
+- [ダダ / Dada](https://djnaoyaman.github.io/design-lineage/entries/dada.html): 歴史・芸術／文学運動。第一次世界大戦期–1920年代を中心に、後年の継続・再制作も参照。
+- [メタボリズム / メタボリズム](https://djnaoyaman.github.io/design-lineage/entries/metabolism.html): 建築・都市をめぐる運動と提案。1960年の宣言／主に1960–70年代の展開。
+- [ウィーン工房 / Wiener Werkstätte](https://djnaoyaman.github.io/design-lineage/entries/wiener-werkstaette.html): 制作・販売を行った工房組織。1903–1932。
+- [マテリアル・デザイン / Material Design](https://djnaoyaman.github.io/design-lineage/entries/material-design.html): Googleが公開するデザインシステム（初期M1を中心に）。2014年発表／本稿は初期M1資料を中心に扱う。
+- [ロココ / Rococo](https://djnaoyaman.github.io/design-lineage/entries/rococo.html): 18世紀の装飾・美術様式。フランス1720–30年代に形成／18世紀中葉を中心に展開。
+- [新古典主義 / Neoclassicism](https://djnaoyaman.github.io/design-lineage/entries/neoclassicism.html): 古代の研究と再解釈を基礎とする美術・デザイン様式。1750年代〜19世紀初頭を中心に展開。
+- [グリッド・システム / Grid systems](https://djnaoyaman.github.io/design-lineage/entries/grid-systems.html): 配置を組織する方法。特定の発祥年を置かない／参照書籍：1964・1981年。
+
+## 機械可読データ
+- [項目一覧](https://djnaoyaman.github.io/design-lineage/catalog.json)
+- [本文と出典](https://djnaoyaman.github.io/design-lineage/entries.json)
+- [実作品画像の条件](https://djnaoyaman.github.io/design-lineage/adopted-image-rights.json)
+- [サイトマップ](https://djnaoyaman.github.io/design-lineage/sitemap.xml)

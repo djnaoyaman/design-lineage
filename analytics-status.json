@@ -1,0 +1,7 @@
+{
+  "measurement_id": null,
+  "enabled": false,
+  "reason": "このサイト用の承認済みGA測定IDがソースにないため未設定。他サイトのIDは流用しない。",
+  "google_receipt_test": "実施しない（既存指示）",
+  "outbound_analytics": "解析が未設定のため送信しない。外部リンクは通常のリンクとして動作。"
+}
