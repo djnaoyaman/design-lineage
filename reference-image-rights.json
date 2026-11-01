@@ -242,6 +242,80 @@
           "role": "Tate作品文脈"
         }
       ]
+    },
+    {
+      "id": "commons-nid-logo",
+      "entry": "NID Ahmedabad",
+      "author": "アドリアン・フルティガー",
+      "title": "NIDのロゴマーク",
+      "year": "制作年未確認（掲載SVGは2018年）",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Logo-National-Institute-of-Design.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-National-Institute-of-Design.svg",
+      "license": "Public domain / PD-textlogo",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://commons.wikimedia.org/wiki/Template:PD-textlogo",
+      "credit": "NID logo: Adrian Frutiger. SVG via Wikimedia Commons (1904.CC), Public domain / PD-textlogo. 商標の所有者との提携・推薦を示すものではありません。",
+      "underlying_work_rights": "Commons個別ページは単純な図形・文字からなるため著作権の創作性基準に達しないPD-textlogoと明示。",
+      "reproduction_rights": "写真ではなく、既存ロゴを単純な図形として写したSVG。個別PD-textlogo指定。",
+      "commercial_use": "著作権上はPD指定。商標権とは別であり、本図録での説明用に限り学校との提携を示さない。",
+      "territory_note": "著作物性の基準は地域で異なる。学校の商標・名称の利用には別の制限がありうる。",
+      "photographer": "撮影なし／SVG化1904.CC",
+      "alt": "黒い三角形と半円形の間に白い縦のすき間があり、その上に黒い円が置かれたNIDのマーク。",
+      "viewing_point": "黒い形だけでなく、中央の白いすき間も文字の一部として見る。",
+      "width": 749,
+      "height": 656,
+      "visual_notes": [
+        {
+          "title": "白い部分も、形をつくる。",
+          "text": "中央の縦のすき間と上の丸が、小文字のiを思わせます。黒いところだけを追うときと、白いところを見るときで、読み方が変わります。"
+        }
+      ],
+      "role": "学校のアイデンティティ・デザインの作例。学生作品・授業記録ではない。",
+      "local_file": "assets/lineage-nid-logo.svg",
+      "local_bytes": 819,
+      "sha256": "e850b7db95faf113d439982a65a21d743e672eef36a81071bb76d1392244d167",
+      "status": "adopted_reference_image",
+      "image_processing": "原画像を切り取らずに掲載しています。",
+      "presentation": {
+        "scope_note": "学校を見分けるための参考図です。学生作品や授業の作例とは別に掲載しています。"
+      }
+    },
+    {
+      "id": "commons-esdi-logo",
+      "entry": "ESDI Rio de Janeiro",
+      "author": "ESDI（使用主体）／デザイン担当は未確認",
+      "title": "ESDIのロゴ（2014年に採録された形）",
+      "year": "原制作年未確認／画像採録2014年",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Design-logo-esdi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Design-logo-esdi.jpg",
+      "license": "Public domain / PD-textlogo",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://commons.wikimedia.org/wiki/Template:PD-textlogo",
+      "credit": "ESDI logo, source: Escola Superior de Desenho Industrial website, via Wikimedia Commons / Azemulo. Public domain / PD-textlogo. 学校との提携・推薦を示すものではありません。",
+      "underlying_work_rights": "Commons個別ページは単純な図形・文字からなるためPD-textlogoと明示。",
+      "reproduction_rights": "学校サイト由来のロゴ画像。個別PD-textlogo表示。",
+      "commercial_use": "著作権上PD指定。商標・学校名称の権利とは別。学校を説明する参考図として使用。",
+      "territory_note": "著作物性の基準には地域差がある。商標権は別に存続しうる。",
+      "photographer": "撮影者なし／Commons採録Azemulo",
+      "alt": "四つの区画に分かれた灰色と白の正方形にESDIとあり、Dだけが赤いロゴ。",
+      "viewing_point": "文字の位置、Dだけが赤いこと、四つの区画の明るさの違い。",
+      "width": 284,
+      "height": 284,
+      "visual_notes": [
+        {
+          "title": "一文字だけ、色が違う。",
+          "text": "四文字のうちDだけを赤くすることで、目の止まる場所が生まれます。区画を分ける白い線と、文字の位置も比べましょう。"
+        }
+      ],
+      "role": "学校の識別マークの参考図。授業や学生作品を代表する画像ではない。",
+      "local_file": "assets/lineage-esdi-logo.jpg",
+      "local_bytes": 6465,
+      "sha256": "1b83eb1ef0eceb146ec637da2c87961e71d0aa62347a9e0d4c7a54020001a381",
+      "status": "adopted_reference_image",
+      "image_processing": "原画像を切り取らずに掲載しています。",
+      "presentation": {
+        "scope_note": "学校の識別マークを示す参考図です。学生の制作例ではありません。"
+      }
     }
   ]
 }

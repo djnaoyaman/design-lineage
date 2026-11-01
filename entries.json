@@ -19174,5 +19174,2146 @@
       "psm-solomon",
       "sfmoma-solomon-2023"
     ]
+  },
+  {
+    "name": "Bengal School",
+    "title_ja": "ベンガル派",
+    "slug": "bengal-school",
+    "type": "絵画の運動・教育をめぐる流れ",
+    "period": "19世紀末の前史／20世紀初めを中心に展開",
+    "region": "インド・ベンガル地方を中心に各地へ",
+    "summary": "淡い色の絵に、四本の腕をもつ人物が立っています。《バーラト・マータ》は、国を母親の姿で表した絵です。ベンガル派の画家たちは、イギリスの支配下で、ヨーロッパの描き方をお手本にするだけではない絵画を探しました。「派」は考え方をともにする人々の流れを指し、一つの学校の名前ではありません。",
+    "context": "中心となったアバニンドラナート・タゴールは、昔のインドの絵画から新しい表現の手がかりを探しました。教え子ナンダラル・ボースの《サティー》には、日本の絵画で使われる、薄い色を重ねる描き方との交流も見られます。伝統を大切にすることと、外国から学ぶことは、必ずしも反対ではなかったのです。",
+    "recognition": {
+      "color": "《バーラト・マータ》では、だいだい色の衣服と淡い背景を見比べます。すべての作品がこの配色なのではありません。",
+      "type": "主に絵画の流れなので、共通の書体はありません。署名や作品名に使う言語も、一点ずつ確かめます。",
+      "form": "四本の手に持つ本、布、穀物、数珠（じゅず。祈りに使う玉のつらなり）には意味があります。ただの持ち物として見ず、国への願いをどう表すか考えます。",
+      "composition": "人物を中央に置き、その周りに空きを残しています。《サティー》では、人物が背景からどのように浮かび上がるかを比べられます。"
+    },
+    "comparison": "同じ時代のインドの絵画すべてを、ベンガル派とは呼びません。また、シャンティニケタンの学校やそこで育った多様な制作とも、重なる部分と違う部分があります。",
+    "modern": "国や地域らしさは、初めから一つに決まっているのでしょうか。画家が何を選び、何を描かなかったかにも注目すると、絵と社会のつながりが見えてきます。",
+    "representatives": [
+      {
+        "title": "母なるインド（バーラト・マータ／Bharat Mata）",
+        "creator": "アバニンドラナート・タゴール",
+        "date": "1905年",
+        "domain": "水彩・ウォッシュ",
+        "reason": "四本の腕をもつ母の姿に国を重ねた水彩画です。持ち物と人物の描き方から、絵が社会への願いを伝える仕組みを考えます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://museumsofindia.gov.in/repository/record/vmh_kol-RBS27ANT-16706",
+        "reading_intro": {
+          "heading": "母なるインド（バーラト・マータ／Bharat Mata）",
+          "lead": [
+            "四本の腕をもつ母の姿に国を重ねた水彩画です。持ち物と人物の描き方から、絵が社会への願いを伝える仕組みを考えます。"
+          ]
+        },
+        "source_url": "https://museumsofindia.gov.in/repository/record/vmh_kol-RBS27ANT-16706",
+        "title_ja": "母なるインド（バーラト・マータ／Bharat Mata）"
+      },
+      {
+        "title": "船頭クリシュナ（Krishna, the boatman）",
+        "creator": "アバニンドラナート・タゴール",
+        "date": "1895–1897年",
+        "domain": "水彩",
+        "reason": "「ウッタルゴーシュタ」連作の水彩画です。運動が広く展開する前の制作と、後年の国を表す絵を比べる入口になります。",
+        "limitation": "ベンガル派の前史に位置する作品です。1905年の政治状況をこの絵へそのまま当てはめません。",
+        "evidence": "https://museumsofindia.gov.in/repository/record/vmh_kol-RBS10ANT-20225",
+        "reading_intro": {
+          "heading": "船頭クリシュナ（Krishna, the boatman）",
+          "lead": [
+            "「ウッタルゴーシュタ」連作の水彩画です。運動が広く展開する前の制作と、後年の国を表す絵を比べる入口になります。"
+          ]
+        },
+        "source_url": "https://museumsofindia.gov.in/repository/record/vmh_kol-RBS10ANT-20225",
+        "title_ja": "船頭クリシュナ（Krishna, the boatman）"
+      },
+      {
+        "title": "サティー（Sati）",
+        "creator": "ナンダラル・ボース",
+        "date": "1907年",
+        "domain": "紙にウォッシュとテンペラ",
+        "reason": "薄い色を重ねる技法と、インドの小さな細密画（さいみつが。細部まで描いた絵）の表現が結びつく例です。師タゴールから何を学び、どう変えたかを考えられます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://museumsofindia.gov.in/repository/record/ngma_del-ngma-04797-13582",
+        "reading_intro": {
+          "heading": "サティー（Sati）",
+          "lead": [
+            "薄い色を重ねる技法と、インドの小さな細密画（さいみつが。細部まで描いた絵）の表現が結びつく例です。師タゴールから何を学び、どう変えたかを考えられます。"
+          ]
+        },
+        "source_url": "https://museumsofindia.gov.in/repository/record/ngma_del-ngma-04797-13582",
+        "title_ja": "サティー（Sati）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://museumsofindia.gov.in/repository/record/vmh_kol-RBS27ANT-16706",
+        "institution": "インド文化省／ヴィクトリア記念堂",
+        "supports": [
+          "作者・1905年・RBS27ANT・水彩・四つの持ち物"
+        ]
+      },
+      {
+        "url": "https://museumsofindia.gov.in/repository/record/vmh_kol-RBS10ANT-20225",
+        "institution": "インド文化省／ヴィクトリア記念堂",
+        "supports": [
+          "作者・1895–97年・RBS10ANT・Uttargostha連作"
+        ]
+      },
+      {
+        "url": "https://museumsofindia.gov.in/repository/record/ngma_del-ngma-04797-13582",
+        "institution": "インド文化省／国立近代美術館ニューデリー",
+        "supports": [
+          "作者・1907年・ngma-04797・技法と師弟関係"
+        ]
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-rise-of-modernity-in-south-asia",
+        "institution": "メトロポリタン美術館",
+        "supports": [
+          "植民地期の美術教育・ベンガル派・古い絵画の再検討"
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bharat_Mata_by_Abanindranath_Tagore.jpg",
+        "institution": "ウィキメディア・コモンズ",
+        "supports": [
+          "作品の同定情報・個別PD-Art表示・原画像1044×1928"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "国への願いを、一人の姿にこめる。",
+      "lead": [
+        "淡い色の絵に、四本の腕をもつ人物が立っています。《バーラト・マータ》は、国を母親の姿で表した絵です。ベンガル派の画家たちは、イギリスの支配下で、ヨーロッパの描き方をお手本にするだけではない絵画を探しました。「派」は考え方をともにする人々の流れを指し、一つの学校の名前ではありません。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [
+      {
+        "id": "commons-bharat-mata",
+        "entry": "Bengal School",
+        "author": "アバニンドラナート・タゴール",
+        "title": "母なるインド（バーラト・マーター）",
+        "year": "1905年",
+        "institution": "ヴィクトリア記念堂（Victoria Memorial Hall）",
+        "accession": "RBS27ANT",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bharat_Mata_by_Abanindranath_Tagore.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bharat_Mata_by_Abanindranath_Tagore.jpg",
+        "license": "Public domain / PD-Art",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rights_policy_url": "https://commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs",
+        "credit": "Abanindranath Tagore, Bharat Mata, 1905. Victoria Memorial Hall, RBS27ANT. Image via Wikimedia Commons, PD-Art.",
+        "underlying_work_rights": "Commons個別ページ：作者1951年没、原産国および死後70年以下の地域でPD。米国は1931年以前の公表を根拠にPD。",
+        "reproduction_rights": "保護期間を終えた平面作品の忠実な複製として、CommonsがPD-Artと表示しています。",
+        "commercial_use": "PD-Art指定に基づき商用・非商用利用可。地域により忠実な複製の扱いが異なる。",
+        "territory_note": "全法域での権利保証ではありません。",
+        "photographer": "個別ページのSource/Photographerはkamat.comへのリンク。撮影者氏名は未確認。",
+        "alt": "淡い黄緑の背景に、だいだい色の衣を着た四本腕の人物。手に白い布、本、数珠、穀物を持つ。",
+        "viewing_point": "四つの持ち物、衣服の色、人物の周りに残る空間。",
+        "width": 1044,
+        "height": 1928,
+        "visual_notes": [
+          {
+            "title": "四本の手は、何を伝える？",
+            "text": "白い布、本、数珠、穀物を別々の手に持っています。持ち物の違いから、国に必要なものへの願いを読み取れます。"
+          },
+          {
+            "title": "人物の周りの空きにも注目。",
+            "text": "建物や人混みを描かず、中心の人物を淡い色が囲みます。顔と四本の手へ目が向かいます。"
+          }
+        ],
+        "local_file": "assets/lineage-bharat-mata.jpg",
+        "local_bytes": 464058,
+        "sha256": "e7a56a12605ef1a3ccc9394fba614e831994d3c84a5cf38696ecb8614b653d35",
+        "status": "adopted_local_image",
+        "image_processing": "原画像を切り取らずに掲載しています。",
+        "display_derivatives": {
+          "method": "全体を残した縮小とWebP変換。色や構図は変更していません。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-bharat-mata-640.webp",
+              "width": 640,
+              "height": 1182,
+              "bytes": 155578,
+              "sha256": "70386edd45efa400a8f97f37a55658d885aad61f04fef632b0da2bb384e71f24"
+            },
+            {
+              "local_file": "assets/lineage-bharat-mata-1000.webp",
+              "width": 1000,
+              "height": 1847,
+              "bytes": 363842,
+              "sha256": "04f59a784111a146ecb32f9c17e8d8b9867dc4ae48ed9327b32fcc3bff7435f3"
+            },
+            {
+              "local_file": "assets/lineage-bharat-mata-1044.webp",
+              "width": 1044,
+              "height": 1928,
+              "bytes": 421970,
+              "sha256": "d4d8f375538f95696b05f2c31908877ecab285d67ea35ca3ef92a2e1980ba5c4"
+            }
+          ]
+        }
+      }
+    ],
+    "reference_images": [],
+    "image_count_acquired": 1,
+    "reference_image_count": 0,
+    "image_status": "実作品画像あり",
+    "status": "本文公開・実作品画像1点／画像の収録は継続中"
+  },
+  {
+    "name": "新建築工芸学院",
+    "title_ja": "新建築工芸学院（しんけんちくこうげいがくいん）",
+    "slug": "shinkenchiku-kogei-gakuin",
+    "type": "民間のデザイン教育機関",
+    "period": "前身1932年／学院への改称1933年5月／1930年代半ばまで",
+    "region": "日本・東京、銀座",
+    "summary": "紙に穴をあける。材料をさわり比べる。写真を切って組み合わせる。新建築工芸学院は、こうした実験から形を学ぶ、東京の小さな学校でした。建築家の川喜田煉七郎（かわきた・れんしちろう）が中心となり、ものの見方やつくり方を教えました。",
+    "context": "ドイツの学校バウハウスで学んだ水谷武彦（みずたに・たけひこ）や山脇巌（やまわき・いわお）・道子（みちこ）らが教育に関わりました。見本をそっくり写すだけでなく、材料と手の動きから発見する授業を重視しました。「構成（こうせい）」とは、形や色、材料を組み合わせて全体をつくることです。名称と運営は途中で変わっています。1932年の前身と1933年の改称を分けて読むと、学校が育つ過程がわかります。",
+    "recognition": {
+      "color": "色の練習は、同じ色でも隣の色によって違って見えることを探る入口になります。学校を表す決まった配色ではありません。",
+      "type": "雑誌や教材の文字は、情報をどう伝えるかという学習と結びつきます。バウハウス風の字体だけで関係を判断しません。",
+      "form": "《穴をあけた紙》では、紙そのものと切り取った空きの両方が形をつくります。平らな一枚にも、いろいろな試し方があります。",
+      "composition": "課題の順序にも注目します。材料、色、写真、立体などを別々に学び、それを生活の場へどう結びつけるかが大切でした。"
+    },
+    "comparison": "学校名です。建築の様式名ではありません。「日本のバウハウス」という紹介だけで済ませず、誰が学び、どんな課題を行ったかを比べます。",
+    "modern": "授業でうまく描けなかった経験も、発見になるでしょうか。完成品だけでなく、試し方や失敗の記録もデザインの歴史を伝えます。",
+    "representatives": [
+      {
+        "title": "『構成教育大系』の「穴をあけた紙」",
+        "creator": "川喜田煉七郎・武井勝雄（たけい・かつお）（教材の著者）／図版の個別制作者は要確認",
+        "date": "1934年",
+        "domain": "教育資料",
+        "reason": "一枚の紙に穴をあけ、残った部分と空いた部分の関係を学ぶ教材です。完成品を飾る前に、材料で試す学びを示します。",
+        "limitation": "教材の著者と、その中の課題を実際につくった人は同一とは限りません。",
+        "evidence": "https://www.bauhaus-imaginista.org/files/Brochure%200705.pdf",
+        "reading_intro": {
+          "heading": "『構成教育大系』の「穴をあけた紙」",
+          "lead": [
+            "一枚の紙に穴をあけ、残った部分と空いた部分の関係を学ぶ教材です。完成品を飾る前に、材料で試す学びを示します。"
+          ]
+        },
+        "source_url": "https://www.bauhaus-imaginista.org/files/Brochure%200705.pdf",
+        "title_ja": "『構成教育大系』の「穴をあけた紙」"
+      },
+      {
+        "title": "『構成教育大系』の「コンポジションの練習」",
+        "creator": "川喜田煉七郎・武井勝雄（たけい・かつお）（教材の著者）／図版の個別制作者は要確認",
+        "date": "1934年",
+        "domain": "教育資料",
+        "reason": "形の組み合わせを試す教材です。「構成」という言葉を、手を動かす課題として確かめられます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.bauhaus-imaginista.org/files/Brochure%200705.pdf",
+        "reading_intro": {
+          "heading": "『構成教育大系』の「コンポジションの練習」",
+          "lead": [
+            "形の組み合わせを試す教材です。「構成」という言葉を、手を動かす課題として確かめられます。"
+          ]
+        },
+        "source_url": "https://www.bauhaus-imaginista.org/files/Brochure%200705.pdf",
+        "title_ja": "『構成教育大系』の「コンポジションの練習」"
+      },
+      {
+        "title": "「和歌山市に於ける構成教育講習会」の記録",
+        "creator": "講習の関係者／記録写真の撮影者は要確認",
+        "date": "『建築工芸アイシーオール』1933年3月号掲載",
+        "domain": "講習会の記録写真",
+        "reason": "学校の教室だけでなく、講習会を通して学びが伝わったことを示す資料です。",
+        "limitation": "写真の掲載年と講習の開催日、撮影者を区別します。",
+        "evidence": "https://www.momak.go.jp/Japanese/exhibitionArchive/2018/426.html",
+        "reading_intro": {
+          "heading": "「和歌山市に於ける構成教育講習会」の記録",
+          "lead": [
+            "学校の教室だけでなく、講習会を通して学びが伝わったことを示す資料です。"
+          ]
+        },
+        "source_url": "https://www.momak.go.jp/Japanese/exhibitionArchive/2018/426.html",
+        "title_ja": "「和歌山市に於ける構成教育講習会」の記録"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.momak.go.jp/Japanese/exhibitionArchive/2018/426.html",
+        "institution": "京都国立近代美術館",
+        "supports": [
+          "学院・川喜田・水谷・山脇夫妻・講習会資料"
+        ]
+      },
+      {
+        "url": "https://www.bauhaus-imaginista.org/files/Brochure%200705.pdf",
+        "institution": "バウハウス・イマジニスタ／京都国立近代美術館展示資料",
+        "supports": [
+          "日本セクション1932–36、構成教育大系1934"
+        ]
+      },
+      {
+        "url": "https://www.jstage.jst.go.jp/article/arted/2011/294/2011_294_24/_pdf/-char/ja",
+        "institution": "美術教育研究論文（ジェイステージ）",
+        "supports": [
+          "1933年5月の学院への改称と課程"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "紙を切り、材料にさわって、形を学ぶ。",
+      "lead": [
+        "紙に穴をあける。材料をさわり比べる。写真を切って組み合わせる。新建築工芸学院は、こうした実験から形を学ぶ、東京の小さな学校でした。建築家の川喜田煉七郎（かわきた・れんしちろう）が中心となり、ものの見方やつくり方を教えました。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "桑沢デザイン研究所",
+    "title_ja": "桑沢デザイン研究所",
+    "slug": "kuwasawa-design-school",
+    "type": "デザインの専門教育機関",
+    "period": "1954年設立–",
+    "region": "日本・東京",
+    "summary": "働く人が動きやすい服をつくるには、何を調べればよいでしょう。桑沢デザイン研究所は、服や住まいなど、毎日の生活につながるデザインを学ぶ学校として1954年に生まれました。創立者は、服飾（ふくしょく）のデザイナー、桑澤洋子（くわさわ・ようこ）です。",
+    "context": "桑澤は、形や色を学ぶ基礎と、仕事に必要な専門の学びをつなげようとしました。学校の歴史には、建築家や彫刻家など、異なる分野の人の名前が並びます。学校名に「研究所」とありますが、作品の見た目が一つにそろう流派ではありません。",
+    "recognition": {
+      "color": "学校全体に共通する作品の配色はありません。服の色なら、使う場所や仕事との関係を考えます。",
+      "type": "学校案内では、授業内容をどの順番で見せるかに注目します。書体だけで教育の考え方はわかりません。",
+      "form": "仕事着は、腕を上げる、かがむ、道具を使うといった動きと一緒に見ます。見た目と使いやすさを切り離しません。",
+      "composition": "服、室内、平面などを学ぶ基礎がどうつながるか、学校案内や授業の記録を比べてみます。"
+    },
+    "comparison": "創立者の服と、在校生の課題と、卒業後の仕事は別の資料です。著名な卒業生の作風を学校全体の特徴にはしません。",
+    "modern": "自分が一日使う物のうち、少し変えると楽になりそうなものはありますか。身近な動作をよく見ることから、デザインの問いが始まります。",
+    "representatives": [
+      {
+        "title": "某自動車メーカー作業衣",
+        "creator": "桑澤洋子（くわさわ・ようこ）",
+        "date": "1956年",
+        "domain": "仕事着",
+        "reason": "仕事の場で着る服を考えた例です。創立者の制作から、生活や働き方とデザインをつなぐ関心を読み取れます。",
+        "limitation": "公式展覧会案内がメーカー名を伏せているため、推定で補いません。",
+        "evidence": "https://www.zokei.ac.jp/news/2017/7354/",
+        "reading_intro": {
+          "heading": "某自動車メーカー作業衣",
+          "lead": [
+            "仕事の場で着る服を考えた例です。創立者の制作から、生活や働き方とデザインをつなぐ関心を読み取れます。"
+          ]
+        },
+        "source_url": "https://www.zokei.ac.jp/news/2017/7354/",
+        "title_ja": "某自動車メーカー作業衣"
+      },
+      {
+        "title": "東京オリンピック競技要員作業衣",
+        "creator": "桑澤洋子（くわさわ・ようこ）",
+        "date": "1964年",
+        "domain": "作業衣",
+        "reason": "競技を支える人が着る衣服です。選手用ユニフォームとは分け、裏方の仕事にも設計が必要なことを考えます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.zokei.ac.jp/news/2017/7354/",
+        "reading_intro": {
+          "heading": "東京オリンピック競技要員作業衣",
+          "lead": [
+            "競技を支える人が着る衣服です。選手用ユニフォームとは分け、裏方の仕事にも設計が必要なことを考えます。"
+          ]
+        },
+        "source_url": "https://www.zokei.ac.jp/news/2017/7354/",
+        "title_ja": "東京オリンピック競技要員作業衣"
+      },
+      {
+        "title": "『専門学校 桑沢デザイン研究所 学校案内 1963』",
+        "creator": "桑沢デザイン研究所（発行）／個別の編集・デザイン担当は未確認",
+        "date": "1963年",
+        "domain": "学校案内",
+        "reason": "学校自身が教育の目的を伝えた資料です。後から語られた評判ではなく、その時代に何を学ぼうとしたかを確認できます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.kds.ac.jp/wp-content/uploads/2024/06/guidebook1963.pdf",
+        "reading_intro": {
+          "heading": "『専門学校 桑沢デザイン研究所 学校案内 1963』",
+          "lead": [
+            "学校自身が教育の目的を伝えた資料です。後から語られた評判ではなく、その時代に何を学ぼうとしたかを確認できます。"
+          ]
+        },
+        "source_url": "https://www.kds.ac.jp/wp-content/uploads/2024/06/guidebook1963.pdf",
+        "title_ja": "『専門学校 桑沢デザイン研究所 学校案内 1963』"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.kds.ac.jp/about/history/",
+        "institution": "桑沢デザイン研究所",
+        "supports": [
+          "1954年創立・基礎教育・教員・桑澤洋子著作権管理"
+        ]
+      },
+      {
+        "url": "https://www.zokei.ac.jp/news/2017/7354/",
+        "institution": "東京造形大学",
+        "supports": [
+          "1956年作業衣・1964年作業衣・創立者の教育"
+        ]
+      },
+      {
+        "url": "https://www.kds.ac.jp/wp-content/uploads/2024/06/guidebook1963.pdf",
+        "institution": "桑沢デザイン研究所",
+        "supports": [
+          "1963年学校案内"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "使う人の毎日から、デザインを考える。",
+      "lead": [
+        "働く人が動きやすい服をつくるには、何を調べればよいでしょう。桑沢デザイン研究所は、服や住まいなど、毎日の生活につながるデザインを学ぶ学校として1954年に生まれました。創立者は、服飾（ふくしょく）のデザイナー、桑澤洋子（くわさわ・ようこ）です。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "NID Ahmedabad",
+    "title_ja": "NID（エヌ・アイ・ディー）アーメダバード／インド国立デザイン大学",
+    "slug": "nid-ahmedabad",
+    "type": "国立のデザイン教育機関",
+    "period": "1961年設立–／設立前の報告書1958年",
+    "region": "インド・アーメダバード",
+    "summary": "手仕事を大切にしながら、新しい産業のための物をどうつくるのでしょう。NID（エヌ・アイ・ディー）は、独立後のインドでその問いに取り組むために設けられたデザインの学校です。アーメダバードで1961年に設立されました。",
+    "context": "設立に先立ち、チャールズとレイ・イームズはインド各地を訪ね、職人や研究者らの話を聞きました。1958年の『インディア・レポート』は、実際の経験と学びを結ぶことを提案しました。外国の学校をそのまま移すのではなく、インドの生活や産業に合う学びを探した点が大切です。",
+    "recognition": {
+      "color": "学校を表す決まった作品の色はありません。印刷物や布では、使う人、材料、技法による違いを見ます。",
+      "type": "ITIのロゴでは、インドで使われるデーヴァナーガリー文字と英字が、電話を思わせる形と結びつきます。複数の言語を使う社会で、何を伝えるかが課題です。",
+      "form": "報告書、ロゴ、製品では、比べる形が異なります。学校そのものを一つの見た目として扱いません。",
+      "composition": "調査で知ったことが、試作品や説明へどうつながるかを追います。きれいな完成画像だけでなく、考える順序も見どころです。"
+    },
+    "comparison": "NIDは教育機関です。ベンガル派のような絵画の流れや、インドの伝統工芸全体と同じ意味ではありません。",
+    "modern": "昔から使われる物にも、長い工夫の積み重ねがあります。古いから捨てる、新しいからよいと決めず、誰にとって使いやすいかを考えてみましょう。",
+    "representatives": [
+      {
+        "title": "インディア・レポート（The India Report）",
+        "creator": "チャールズ・イームズ、レイ・イームズ",
+        "date": "1958年",
+        "domain": "設立に関わる報告書",
+        "reason": "学校設立へつながった報告書です。調べた生活と、デザイン教育の提案が結びつく例として読みます。",
+        "limitation": "学校の学生作品ではなく、設立前の提言です。",
+        "evidence": "https://www.nid.edu/academics/nid-press/detail.html",
+        "reading_intro": {
+          "heading": "インディア・レポート（The India Report）",
+          "lead": [
+            "学校設立へつながった報告書です。調べた生活と、デザイン教育の提案が結びつく例として読みます。"
+          ]
+        },
+        "source_url": "https://www.nid.edu/academics/nid-press/detail.html",
+        "title_ja": "インディア・レポート（The India Report）"
+      },
+      {
+        "title": "アーメダバード宣言（The Ahmedabad Declaration）",
+        "creator": "NID（出版）／宣言の共同起草者は別途確認",
+        "date": "1979年",
+        "domain": "宣言・出版資料",
+        "reason": "多様な社会の必要にデザインがどう応えるかを示した資料です。出版物を通して考え方が共有される点に注目します。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.nid.edu/academics/nid-press/detail.html",
+        "reading_intro": {
+          "heading": "アーメダバード宣言（The Ahmedabad Declaration）",
+          "lead": [
+            "多様な社会の必要にデザインがどう応えるかを示した資料です。出版物を通して考え方が共有される点に注目します。"
+          ]
+        },
+        "source_url": "https://www.nid.edu/academics/nid-press/detail.html",
+        "title_ja": "アーメダバード宣言（The Ahmedabad Declaration）"
+      },
+      {
+        "title": "インディアン・テレフォン・インダストリー（ITI／アイ・ティー・アイ）のロゴ",
+        "creator": "S. M. シャー／NID",
+        "date": "1971年",
+        "domain": "ロゴ",
+        "reason": "デーヴァナーガリー文字と電話の形、英字を組み合わせたマークです。文字を読むことと、形から意味を知ることの両方を考えられます。",
+        "limitation": "企業設立の1948年とロゴ制作の1971年を混同しません。",
+        "evidence": "https://dsource.in/dcontent/design-india/collection/collection-details2.php?id=562",
+        "reading_intro": {
+          "heading": "インディアン・テレフォン・インダストリー（ITI／アイ・ティー・アイ）のロゴ",
+          "lead": [
+            "デーヴァナーガリー文字と電話の形、英字を組み合わせたマークです。文字を読むことと、形から意味を知ることの両方を考えられます。"
+          ]
+        },
+        "source_url": "https://dsource.in/dcontent/design-india/collection/collection-details2.php?id=562",
+        "title_ja": "インディアン・テレフォン・インダストリー（ITI／アイ・ティー・アイ）のロゴ"
+      },
+      {
+        "title": "NID（エヌ・アイ・ディー）のロゴマーク",
+        "creator": "アドリアン・フルティガー",
+        "date": "制作年未確認／掲載SVGは2018年作成",
+        "domain": "ロゴマーク",
+        "reason": "三角、円、半円に近い形から、学校名の頭文字を表しています。文字を読ませることと、形を覚えてもらうことの両方を考える例です。",
+        "limitation": "資料は作者を確認できますが原デザイン年を示していません。2018年はSVG化した年で、原作品の制作年ではありません。",
+        "evidence": "https://dsource.in/sites/default/files/resource/logos-india/downloads/file/162_logos_india_new.pdf",
+        "reading_intro": {
+          "heading": "NID（エヌ・アイ・ディー）のロゴマーク",
+          "lead": [
+            "三角、円、半円に近い形から、学校名の頭文字を表しています。文字を読ませることと、形を覚えてもらうことの両方を考える例です。"
+          ]
+        },
+        "source_url": "https://dsource.in/sites/default/files/resource/logos-india/downloads/file/162_logos_india_new.pdf",
+        "title_ja": "NID（エヌ・アイ・ディー）のロゴマーク"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nid.edu/public/documents/azCBMSFrDT.pdf",
+        "institution": "インド国立デザイン大学（NID／エヌ・アイ・ディー）",
+        "supports": [
+          "1958年報告書・1961年9月設立・現場の経験と教育"
+        ]
+      },
+      {
+        "url": "https://www.nid.edu/academics/nid-press/detail.html",
+        "institution": "NID（エヌ・アイ・ディー）出版部",
+        "supports": [
+          "報告書の共著者・Ahmedabad Declaration 1979"
+        ]
+      },
+      {
+        "url": "https://dsource.in/dcontent/design-india/collection/collection-details2.php?id=562",
+        "institution": "インド工科大学ボンベイ校 ディーソース",
+        "supports": [
+          "ITIロゴ1971・S.M.Shah NID"
+        ]
+      },
+      {
+        "url": "https://dsource.in/sites/default/files/resource/logos-india/downloads/file/162_logos_india_new.pdf",
+        "institution": "インド工科大学ボンベイ校 デザインセンター／ディーソース",
+        "supports": [
+          "p95：NIDロゴ作者フルティガー。原年は記載なし。"
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Logo-National-Institute-of-Design.svg",
+        "institution": "ウィキメディア・コモンズ",
+        "supports": [
+          "PD-textlogo・商標注意・SVG原画像"
+        ]
+      }
+    ],
+    "representativeness_limit": "掲載ロゴは学校自身の識別のためのデザインです。学生の制作や授業の成果を代表する画像ではありません。教育の考え方を伝える資料と、社会向けのITIロゴを別に紹介しています。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "伝統の手仕事と、新しい産業をつなぐ。",
+      "lead": [
+        "手仕事を大切にしながら、新しい産業のための物をどうつくるのでしょう。NIDは、独立後のインドでその問いに取り組むために設けられたデザインの学校です。アーメダバードで1961年に設立されました。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [
+      {
+        "id": "commons-nid-logo",
+        "entry": "NID Ahmedabad",
+        "author": "アドリアン・フルティガー",
+        "title": "NIDのロゴマーク",
+        "year": "制作年未確認（掲載SVGは2018年）",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Logo-National-Institute-of-Design.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-National-Institute-of-Design.svg",
+        "license": "Public domain / PD-textlogo",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rights_policy_url": "https://commons.wikimedia.org/wiki/Template:PD-textlogo",
+        "credit": "NID logo: Adrian Frutiger. SVG via Wikimedia Commons (1904.CC), Public domain / PD-textlogo. 商標の所有者との提携・推薦を示すものではありません。",
+        "underlying_work_rights": "Commons個別ページは単純な図形・文字からなるため著作権の創作性基準に達しないPD-textlogoと明示。",
+        "reproduction_rights": "写真ではなく、既存ロゴを単純な図形として写したSVG。個別PD-textlogo指定。",
+        "commercial_use": "著作権上はPD指定。商標権とは別であり、本図録での説明用に限り学校との提携を示さない。",
+        "territory_note": "著作物性の基準は地域で異なる。学校の商標・名称の利用には別の制限がありうる。",
+        "photographer": "撮影なし／SVG化1904.CC",
+        "alt": "黒い三角形と半円形の間に白い縦のすき間があり、その上に黒い円が置かれたNIDのマーク。",
+        "viewing_point": "黒い形だけでなく、中央の白いすき間も文字の一部として見る。",
+        "width": 749,
+        "height": 656,
+        "visual_notes": [
+          {
+            "title": "白い部分も、形をつくる。",
+            "text": "中央の縦のすき間と上の丸が、小文字のiを思わせます。黒いところだけを追うときと、白いところを見るときで、読み方が変わります。"
+          }
+        ],
+        "role": "学校のアイデンティティ・デザインの作例。学生作品・授業記録ではない。",
+        "local_file": "assets/lineage-nid-logo.svg",
+        "local_bytes": 819,
+        "sha256": "e850b7db95faf113d439982a65a21d743e672eef36a81071bb76d1392244d167",
+        "status": "adopted_reference_image",
+        "image_processing": "原画像を切り取らずに掲載しています。",
+        "presentation": {
+          "scope_note": "学校を見分けるための参考図です。学生作品や授業の作例とは別に掲載しています。"
+        }
+      }
+    ],
+    "image_count_acquired": 0,
+    "reference_image_count": 1,
+    "image_status": "学校の識別マークの参考図あり／授業・学生作品の画像は未完",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "ESDI Rio de Janeiro",
+    "title_ja": "ESDI（エスディ）リオデジャネイロ／工業デザインの高等教育機関",
+    "slug": "esdi-rio",
+    "type": "デザインの高等教育機関",
+    "period": "1962年設立／1963年授業開始–",
+    "region": "ブラジル・リオデジャネイロ",
+    "summary": "道具や製品を、どうすれば暮らしや産業に役立てられるでしょう。ESDI（エスディ）は、ブラジルのリオデジャネイロに設立されたデザインの学校です。1962年に設立され、1963年に授業が始まりました。学校の名前であり、決まった模様や色の名前ではありません。",
+    "context": "初期の教育には、ドイツのウルム造形大学で学んだカール・ハインツ・ベルクミラーやアレシャンドレ・ヴォルネルらが関わりました。ただ形をまねるのではなく、製品や情報を設計する仕事をブラジルで育てようとした取り組みです。学校の記念年と授業開始年は、同じ数え方とは限りません。",
+    "recognition": {
+      "color": "課題や制作年代によって色は異なります。学校共通の色合いを作品に当てはめません。",
+      "type": "学校の案内や記念ポスターでは、名称、年、催しをどんな順番で伝えるかを読みます。",
+      "form": "初期の学生の研究記録には、製品づくりの課題が残ります。完成した形だけでなく、材料や使い方の説明を確かめます。",
+      "composition": "資料を年代順に並べると、学校が何を教え、後に何を振り返ったかを比べられます。"
+    },
+    "comparison": "ESDIとウルムは、教員の経歴や教育内容で関係があります。しかし、どの作品も「ウルム風」として片づけず、ブラジルの産業や社会との関係も見ます。",
+    "modern": "学校の歴史は、先生だけがつくるのでしょうか。学生の卒業制作や、後に資料を残した人の仕事にも目を向けてみましょう。",
+    "representatives": [
+      {
+        "title": "ESDI：ブラジルの工業デザイン学校（ESDI: uma escola de desenho industrial no Brasil）",
+        "creator": "オクタヴィアノ・ペレイラ・デ・メロ・フィリョ",
+        "date": "1967年",
+        "domain": "卒業研究・記録",
+        "reason": "1963年から1966年初めまでの学校の仕事を記録した卒業研究です。教育の中身を、当時の学生の記録から知る入口になります。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://esdi.uerj.br/projetos/8963/esdi-uma-escola-de-desenho-industrial-no-brasil",
+        "reading_intro": {
+          "heading": "ESDI：ブラジルの工業デザイン学校（ESDI: uma escola de desenho industrial no Brasil）",
+          "lead": [
+            "1963年から1966年初めまでの学校の仕事を記録した卒業研究です。教育の中身を、当時の学生の記録から知る入口になります。"
+          ]
+        },
+        "source_url": "https://esdi.uerj.br/projetos/8963/esdi-uma-escola-de-desenho-industrial-no-brasil",
+        "title_ja": "ESDI：ブラジルの工業デザイン学校（ESDI: uma escola de desenho industrial no Brasil）"
+      },
+      {
+        "title": "ESDI25周年記念展ポスター（ESDI 25 anos）",
+        "creator": "ESDI（催し・所蔵）／デザイン担当は未確認",
+        "date": "1987年",
+        "domain": "学校の記念ポスター",
+        "reason": "学校の記念行事を伝えるポスターです。教育の成果を外へ見せる役割に注目します。",
+        "limitation": "作者の個人名が未確認のため、学校をデザイナーと断定しません。",
+        "evidence": "https://arquivo.esdi.uerj.br/esdi-25-anos",
+        "reading_intro": {
+          "heading": "ESDI25周年記念展ポスター（ESDI 25 anos）",
+          "lead": [
+            "学校の記念行事を伝えるポスターです。教育の成果を外へ見せる役割に注目します。"
+          ]
+        },
+        "source_url": "https://arquivo.esdi.uerj.br/esdi-25-anos",
+        "title_ja": "ESDI25周年記念展ポスター（ESDI 25 anos）"
+      },
+      {
+        "title": "ピケ・カルネイロ総合診療所の視覚的な識別システム",
+        "creator": "レナタ・ペリン、フェルナンダ・クアドロス、ルイザ・ルッソ／指導：マウロ・ピニェイロ",
+        "date": "2016年9月開始／2017年12月発表",
+        "domain": "学生・教員による共同デザイン",
+        "reason": "博士課程と学部の学生が協力し、診療所のロゴや情報の見せ方を考えた仕事です。健康、大学、社会という三つの役割を、三つの図形へまとめています。",
+        "limitation": "2017年発表時点では、案内表示などへの展開は今後の課題とされています。すべて完成済みとはしません。",
+        "evidence": "https://www.esdi.uerj.br/noticias/3882/identidade-visual-da-policlnica-piquet-carneiro-uerj",
+        "reading_intro": {
+          "heading": "ピケ・カルネイロ総合診療所の視覚的な識別システム",
+          "lead": [
+            "博士課程と学部の学生が協力し、診療所のロゴや情報の見せ方を考えた仕事です。健康、大学、社会という三つの役割を、三つの図形へまとめています。"
+          ]
+        },
+        "source_url": "https://www.esdi.uerj.br/noticias/3882/identidade-visual-da-policlnica-piquet-carneiro-uerj",
+        "title_ja": "ピケ・カルネイロ総合診療所の視覚的な識別システム"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://antigo.uerj.br/publicacoes/emquestao/84/uerjemquestao84.pdf",
+        "institution": "リオデジャネイロ州立大学",
+        "supports": [
+          "1962年設立・1963年開始"
+        ]
+      },
+      {
+        "url": "https://esdi.uerj.br/projetos/8963/esdi-uma-escola-de-desenho-industrial-no-brasil",
+        "institution": "リオデジャネイロ州立大学工業デザイン高等学院（ESDI／エスディ）",
+        "supports": [
+          "1967年卒業研究・著者・記録範囲"
+        ]
+      },
+      {
+        "url": "https://arquivo.esdi.uerj.br/esdi-25-anos",
+        "institution": "ESDI（エスディ）アーカイブ",
+        "supports": [
+          "1987年25周年企画・POS26100006"
+        ]
+      },
+      {
+        "url": "https://memoriasdodesign.espm.br/esdi-2/",
+        "institution": "ESPM（エスピーエム）デザインの記憶プロジェクト",
+        "supports": [
+          "ウルム出身教員・教育課程・1963年授業開始"
+        ]
+      },
+      {
+        "url": "https://www.esdi.uerj.br/noticias/3882/identidade-visual-da-policlnica-piquet-carneiro-uerj",
+        "institution": "リオデジャネイロ州立大学 ESDI（エスディ）",
+        "supports": [
+          "2016年開始・2017年発表・学生3名と指導教員・3図形の意味"
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Design-logo-esdi.jpg",
+        "institution": "ウィキメディア・コモンズ",
+        "supports": [
+          "学校サイト由来のロゴ・PD-textlogo・2014年採録"
+        ]
+      }
+    ],
+    "representativeness_limit": "学校史の研究、記念ポスター、学生と教員の社会向け共同制作を紹介します。掲載画像は学校のロゴの資料で、学生作品そのものの画像ではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "製品と情報をつくる人を、学校で育てる。",
+      "lead": [
+        "道具や製品を、どうすれば暮らしや産業に役立てられるでしょう。ESDIは、ブラジルのリオデジャネイロに設立されたデザインの学校です。1962年に設立され、1963年に授業が始まりました。学校の名前であり、決まった模様や色の名前ではありません。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [
+      {
+        "id": "commons-esdi-logo",
+        "entry": "ESDI Rio de Janeiro",
+        "author": "ESDI（使用主体）／デザイン担当は未確認",
+        "title": "ESDIのロゴ（2014年に採録された形）",
+        "year": "原制作年未確認／画像採録2014年",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Design-logo-esdi.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Design-logo-esdi.jpg",
+        "license": "Public domain / PD-textlogo",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rights_policy_url": "https://commons.wikimedia.org/wiki/Template:PD-textlogo",
+        "credit": "ESDI logo, source: Escola Superior de Desenho Industrial website, via Wikimedia Commons / Azemulo. Public domain / PD-textlogo. 学校との提携・推薦を示すものではありません。",
+        "underlying_work_rights": "Commons個別ページは単純な図形・文字からなるためPD-textlogoと明示。",
+        "reproduction_rights": "学校サイト由来のロゴ画像。個別PD-textlogo表示。",
+        "commercial_use": "著作権上PD指定。商標・学校名称の権利とは別。学校を説明する参考図として使用。",
+        "territory_note": "著作物性の基準には地域差がある。商標権は別に存続しうる。",
+        "photographer": "撮影者なし／Commons採録Azemulo",
+        "alt": "四つの区画に分かれた灰色と白の正方形にESDIとあり、Dだけが赤いロゴ。",
+        "viewing_point": "文字の位置、Dだけが赤いこと、四つの区画の明るさの違い。",
+        "width": 284,
+        "height": 284,
+        "visual_notes": [
+          {
+            "title": "一文字だけ、色が違う。",
+            "text": "四文字のうちDだけを赤くすることで、目の止まる場所が生まれます。区画を分ける白い線と、文字の位置も比べましょう。"
+          }
+        ],
+        "role": "学校の識別マークの参考図。授業や学生作品を代表する画像ではない。",
+        "local_file": "assets/lineage-esdi-logo.jpg",
+        "local_bytes": 6465,
+        "sha256": "1b83eb1ef0eceb146ec637da2c87961e71d0aa62347a9e0d4c7a54020001a381",
+        "status": "adopted_reference_image",
+        "image_processing": "原画像を切り取らずに掲載しています。",
+        "presentation": {
+          "scope_note": "学校の識別マークを示す参考図です。学生の制作例ではありません。"
+        }
+      }
+    ],
+    "image_count_acquired": 0,
+    "reference_image_count": 1,
+    "image_status": "学校の識別マークの参考図あり／授業・学生作品の画像は未完",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "新興写真",
+    "title_ja": "新興写真（しんこうしゃしん）",
+    "slug": "shinko-shashin",
+    "type": "写真表現をめぐる運動",
+    "period": "1920年代末–1930年代を中心に",
+    "region": "日本／欧米の写真との交流",
+    "summary": "いつも見る町も、真上から撮ったり、近づいて一部を切り取ったりすると、違って見えます。新興写真は、カメラならではの見方を探した写真の動きです。絵画に似せるだけではない表現を、写真家たちが試しました。",
+    "context": "1930年には木村専一（きむら・せんいち）を中心に新興写真研究会ができ、堀野正雄や渡辺義雄（わたなべ・よしお）らが参加しました。1932–33年の雑誌『光画』も、新しい写真を発表する場になりました。これは一つの団体だけを指す言葉ではなく、各地の写真家や雑誌がつくった大きな流れです。",
+    "recognition": {
+      "color": "白黒写真では、黒から白までの違いと、光がつくる輪郭に注目します。白黒であるだけでは、新興写真とは判断できません。",
+      "type": "雑誌や写真集では、写真と見出しの組み合わせも大切です。写真一枚と、編集されたページは分けて見ます。",
+      "form": "《細川ちか子氏》のような人物写真では、どこまでを画面に入れ、何を外したかに注目します。切り取り方を変えると、印象も変わります。",
+      "composition": "「大東京の性格」は、複数の写真を組み合わせるグラフ・モンタージュです。一枚だけでは伝わらない町の姿を、並べ方でどう見せるかを考えます。"
+    },
+    "comparison": "絵のような質感を求めた芸術写真との違いを見るときも、写真家を一生同じ作風に固定しません。野島康三のように、つくり方が変化した人もいます。",
+    "modern": "スマートフォンの写真でも、立つ場所や切り取り方が変わると印象が変わります。何を見せたいかを決めて撮り、同じ場所の写真を比べてみましょう。",
+    "representatives": [
+      {
+        "title": "細川ちか子氏",
+        "creator": "野島康三（のじま・やすぞう）",
+        "date": "1932年",
+        "domain": "写真",
+        "reason": "人物の切り取り方を通じて、絵画のような写真から、カメラ固有の表現へ向かう変化を考えられます。",
+        "limitation": "同名の所蔵個体があるため、掲載時には作品番号・プリントを一つに固定する必要があります。",
+        "evidence": "https://www.momak.go.jp/Japanese/collectionGalleryArchive/2019/collectionGallery2019No05.html",
+        "reading_intro": {
+          "heading": "細川ちか子氏",
+          "lead": [
+            "人物の切り取り方を通じて、絵画のような写真から、カメラ固有の表現へ向かう変化を考えられます。"
+          ]
+        },
+        "source_url": "https://www.momak.go.jp/Japanese/collectionGalleryArchive/2019/collectionGallery2019No05.html",
+        "title_ja": "細川ちか子氏"
+      },
+      {
+        "title": "『カメラ・眼×鉄・構成』",
+        "creator": "堀野正雄（ほりの・まさお）",
+        "date": "1932年刊",
+        "domain": "写真集",
+        "reason": "鉄や機械的な建造物を撮った写真集です。構造の見せ方と、本の中で写真を並べる工夫を一緒に考えられます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.jcii-camera.or.jp/business/pdf/photographer_books36.pdf",
+        "reading_intro": {
+          "heading": "『カメラ・眼×鉄・構成』",
+          "lead": [
+            "鉄や機械的な建造物を撮った写真集です。構造の見せ方と、本の中で写真を並べる工夫を一緒に考えられます。"
+          ]
+        },
+        "source_url": "https://www.jcii-camera.or.jp/business/pdf/photographer_books36.pdf",
+        "title_ja": "『カメラ・眼×鉄・構成』"
+      },
+      {
+        "title": "大東京の性格",
+        "creator": "堀野正雄（写真）・板垣鷹穂（いたがき・たかほ）（共同制作）",
+        "date": "1931年10月号掲載",
+        "domain": "グラフ・モンタージュ",
+        "reason": "『中央公論』のために写真を組み合わせ、東京の性格を表そうとした仕事です。複数の写真と批評が協力する点が重要です。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://topmuseum.jp/contents/images/info/journal/kiyou_11/06.pdf",
+        "reading_intro": {
+          "heading": "大東京の性格",
+          "lead": [
+            "『中央公論』のために写真を組み合わせ、東京の性格を表そうとした仕事です。複数の写真と批評が協力する点が重要です。"
+          ]
+        },
+        "source_url": "https://topmuseum.jp/contents/images/info/journal/kiyou_11/06.pdf",
+        "title_ja": "大東京の性格"
+      },
+      {
+        "title": "・・・・",
+        "creator": "中山岩太（なかやま・いわた）",
+        "date": "1932年",
+        "domain": "写真",
+        "reason": "笑う人物と、左に見える脚の断片が一つの画面に重なります。顔だけを見るときと、周囲まで見るときで印象が変わる写真です。",
+        "limitation": "1932年11月『光画』掲載作。後年の書籍に載った画像の機械的スキャンを使用し、現存プリントの所有権とは区別します。",
+        "evidence": "https://topmuseum.jp/exhibition/2964/",
+        "reading_intro": {
+          "heading": "・・・・",
+          "lead": [
+            "笑う人物と、左に見える脚の断片が一つの画面に重なります。顔だけを見るときと、周囲まで見るときで印象が変わる写真です。"
+          ]
+        },
+        "source_url": "https://topmuseum.jp/exhibition/2964/",
+        "title_ja": "・・・・"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://topmuseum.jp/exhibition/2964/",
+        "institution": "東京都写真美術館",
+        "supports": [
+          "研究会1930・光画・複数地域の写真家"
+        ]
+      },
+      {
+        "url": "https://www.momak.go.jp/Japanese/collectionGalleryArchive/2019/collectionGallery2019No05.html",
+        "institution": "京都国立近代美術館",
+        "supports": [
+          "野島の変化・1932年写真・光画"
+        ]
+      },
+      {
+        "url": "https://www.jcii-camera.or.jp/business/pdf/photographer_books36.pdf",
+        "institution": "日本カメラ博物館（JCII／ジェイ・シー・アイ・アイ）",
+        "supports": [
+          "堀野の1932年写真集"
+        ]
+      },
+      {
+        "url": "https://topmuseum.jp/contents/images/info/journal/kiyou_11/06.pdf",
+        "institution": "東京都写真美術館紀要",
+        "supports": [
+          "大東京の性格1931年10月・共同制作"
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:%E3%83%BB%E3%83%BB%E3%83%BB%E3%83%BB-_1932_-_Nakayama_Iwata.png",
+        "institution": "ウィキメディア・コモンズ",
+        "supports": [
+          "個別PD表示・1932年光画初出・機械的スキャン"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "撮る場所を変えると、世界が違って見える。",
+      "lead": [
+        "いつも見る町も、真上から撮ったり、近づいて一部を切り取ったりすると、違って見えます。新興写真は、カメラならではの見方を探した写真の動きです。絵画に似せるだけではない表現を、写真家たちが試しました。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [
+      {
+        "id": "commons-nakayama-dots-1932",
+        "entry": "新興写真",
+        "author": "中山岩太（なかやま・いわた）",
+        "title": "・・・・",
+        "year": "1932年",
+        "source_page": "https://commons.wikimedia.org/wiki/File:%E3%83%BB%E3%83%BB%E3%83%BB%E3%83%BB-_1932_-_Nakayama_Iwata.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/%E3%83%BB%E3%83%BB%E3%83%BB%E3%83%BB-_1932_-_Nakayama_Iwata.png",
+        "license": "Public domain / PD-Japan-oldphoto + PD-scan",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rights_policy_url": "https://commons.wikimedia.org/wiki/Template:PD-Japan-oldphoto",
+        "credit": "中山岩太《・・・・》1932年。機械的スキャン：HinokisOfRoma / Wikimedia Commons、Public domain（PD-Japan-oldphoto、PD-scan）。",
+        "underlying_work_rights": "Commons個別ページでPD-Japan-oldphoto表示。1932年11月『光画』初出の写真で、日本旧写真保護期間が1970年までに満了し、米国URAA復活対象外とする根拠を記載。",
+        "reproduction_rights": "1998年刊『日本の写真家7 中山岩太』からの機械的なスキャン。Commons個別ページはPD-scanと表示しています。書籍全体の自由利用を意味しません。",
+        "commercial_use": "上記個別PD指定に基づき商用・非商用で利用可能。",
+        "territory_note": "すべての法域に対する権利保証ではありません。米国での同時公表等の例外に注意。",
+        "photographer": "原写真：中山岩太／機械的スキャン：HinokisOfRoma",
+        "alt": "白黒写真。右手前に笑う人物の顔、左奥に二本の脚が見え、明暗と複数の像が重なっている。",
+        "viewing_point": "顔と脚の距離、像が重なるところ、明るい部分と暗い部分。",
+        "width": 1413,
+        "height": 1878,
+        "visual_notes": [
+          {
+            "title": "顔だけでは終わらない写真。",
+            "text": "右の顔から左へ目を移すと、脚の断片が見えます。人物を整った一つの姿として見せないところが、見る人を立ち止まらせます。"
+          }
+        ],
+        "japan_rights": "1932年11月『光画』公表。PD-Japan-oldphoto：1899年著作権法23条・1970年法附則2条による旧写真の保護期間満了。",
+        "us_rights": "CommonsのPD-Japan-oldphoto指定は、日本で1970年までに満了したため米国URAAの復活対象外と明記。通常の公表後95年という根拠ではない。米国30日以内同時公表の例外は別途注意。",
+        "local_file": "assets/lineage-nakayama-1932.png",
+        "local_bytes": 2406558,
+        "sha256": "22ccb09e3c5ec5fcc0d0e96fd1b43ea39f2bb8062f08b7307e4847a0fe5aad06",
+        "status": "adopted_local_image",
+        "image_processing": "原画像を切り取らずに掲載しています。",
+        "display_derivatives": {
+          "method": "全体を残した縮小とWebP変換。色や構図は変更していません。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-nakayama-1932-640.webp",
+              "width": 640,
+              "height": 851,
+              "bytes": 122010,
+              "sha256": "d027300cdd765b18b2989b9a847fc97c7341546b2cdb41f913acdc2799e7c890"
+            },
+            {
+              "local_file": "assets/lineage-nakayama-1932-1000.webp",
+              "width": 1000,
+              "height": 1329,
+              "bytes": 360828,
+              "sha256": "8e7a8efd0a382633fc29e6e26c26603d132c574bb1c0ab12d8a18329d21383cc"
+            },
+            {
+              "local_file": "assets/lineage-nakayama-1932-1413.webp",
+              "width": 1413,
+              "height": 1878,
+              "bytes": 876844,
+              "sha256": "36a1a36010f0ae4430e12c4bf04dfdba723a680624383c10917a489854461501"
+            }
+          ]
+        }
+      }
+    ],
+    "reference_images": [],
+    "image_count_acquired": 1,
+    "reference_image_count": 0,
+    "image_status": "実作品画像あり",
+    "status": "本文公開・実作品画像1点／画像の収録は継続中"
+  },
+  {
+    "name": "具体美術協会",
+    "title_ja": "具体美術協会（ぐたいびじゅつきょうかい）",
+    "slug": "gutai",
+    "type": "美術家の団体",
+    "period": "1954–1972年",
+    "region": "日本・芦屋を中心に国内外へ",
+    "summary": "絵は、筆で紙や布に描くものなのでしょうか。具体の作家たちは、泥に全身で向き合ったり、光る電球を身にまとったりして、まだない表現を探しました。1954年に始まった美術家の団体です。",
+    "context": "吉原治良（よしはら・じろう）を中心に、身近な材料や身体の動きを使う実験を進めました。野外や舞台で発表したことも特徴です。ただし、具体の作品すべてが人前の行為だったわけではなく、絵画も数多く制作されました。",
+    "recognition": {
+      "color": "《電気服》では色だけでなく、点滅して時間とともに変わることが大切です。静止写真一枚では、その全体は伝わりません。",
+      "type": "雑誌『具体』は作品を伝える手段でもありました。団体の活動と、雑誌のページの設計を分けて調べます。",
+      "form": "《泥に挑む》は身体と泥がぶつかり合う行為です。残った形だけでなく、どう形ができたかに目を向けます。",
+      "composition": "《作品（水）》は、水を入れた透明な袋や管と、周りの空間の関係を変えます。最初の発表と後年の再制作を区別します。"
+    },
+    "comparison": "もの派も材料を扱いますが、同じ団体ではありません。具体では、材料へ身体で働きかける行為や、光・音による実験など、多様な方法を比べます。",
+    "modern": "作品を「完成した物」だけと考えず、出来事や時間として見ると、何が変わるでしょう。危険な材料をまねるのではなく、安全な身近な物で見方を試すことができます。",
+    "representatives": [
+      {
+        "title": "電気服",
+        "creator": "田中敦子（たなか・あつこ）",
+        "date": "1956年",
+        "domain": "電球・配線・衣服状の作品",
+        "reason": "色を塗った電球と配線を使い、身体と光を結びつけた作品です。静止した絵と違い、点滅や着用する行為が関わります。",
+        "limitation": "1956年の作品と1957年の舞台での使用、後年の再制作を分けます。",
+        "evidence": "https://www.guggenheim.org/exhibition/gutai-splendid-playground",
+        "reading_intro": {
+          "heading": "電気服",
+          "lead": [
+            "色を塗った電球と配線を使い、身体と光を結びつけた作品です。静止した絵と違い、点滅や着用する行為が関わります。"
+          ]
+        },
+        "source_url": "https://www.guggenheim.org/exhibition/gutai-splendid-playground",
+        "title_ja": "電気服"
+      },
+      {
+        "title": "泥に挑む",
+        "creator": "白髪一雄（しらが・かずお）",
+        "date": "1955年",
+        "domain": "身体による行為・泥",
+        "reason": "泥に全身で働きかけ、動きの跡を残しました。絵を描く道具を、筆から身体全体へ広げた例です。",
+        "limitation": "記録写真の撮影者と行為の作者は別です。",
+        "evidence": "https://www.moma.org/docs/publication_pdf/3166/Tokyo_PREVIEW.pdf",
+        "reading_intro": {
+          "heading": "泥に挑む",
+          "lead": [
+            "泥に全身で働きかけ、動きの跡を残しました。絵を描く道具を、筆から身体全体へ広げた例です。"
+          ]
+        },
+        "source_url": "https://www.moma.org/docs/publication_pdf/3166/Tokyo_PREVIEW.pdf",
+        "title_ja": "泥に挑む"
+      },
+      {
+        "title": "作品（水）",
+        "creator": "元永定正（もとなが・さだまさ）",
+        "date": "1956年／2011年再制作（グッゲンハイム展示個体）",
+        "domain": "空間作品",
+        "reason": "色水を入れた透明な管が空間を渡ります。光を通す材料と、吊るしたときの曲線を一緒に見る作品です。",
+        "limitation": "1955年の関連作とも区別し、ここでは公式に1956/2011と記録された個体を扱います。",
+        "evidence": "https://www.guggenheim.org/exhibition/gutai-splendid-playground",
+        "reading_intro": {
+          "heading": "作品（水）",
+          "lead": [
+            "色水を入れた透明な管が空間を渡ります。光を通す材料と、吊るしたときの曲線を一緒に見る作品です。"
+          ]
+        },
+        "source_url": "https://www.guggenheim.org/exhibition/gutai-splendid-playground",
+        "title_ja": "作品（水）"
+      },
+      {
+        "title": "作品（ベル）",
+        "creator": "田中敦子（たなか・あつこ）",
+        "date": "1955年／1993年再制作",
+        "domain": "音・電気ベル",
+        "reason": "電気ベルの音が順番に鳴り、見るだけではない体験をつくります。音も作品の材料になりうることを考える例です。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.guggenheim.org/exhibition/gutai-splendid-playground",
+        "reading_intro": {
+          "heading": "作品（ベル）",
+          "lead": [
+            "電気ベルの音が順番に鳴り、見るだけではない体験をつくります。音も作品の材料になりうることを考える例です。"
+          ]
+        },
+        "source_url": "https://www.guggenheim.org/exhibition/gutai-splendid-playground",
+        "title_ja": "作品（ベル）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim.org/exhibition/gutai-splendid-playground",
+        "institution": "ソロモン・R・グッゲンハイム美術館",
+        "supports": [
+          "1954–72・団体・電気服・作品水1956/2011・ベル1955/1993"
+        ]
+      },
+      {
+        "url": "https://www.moma.org/docs/publication_pdf/3166/Tokyo_PREVIEW.pdf",
+        "institution": "ニューヨーク近代美術館（モマ）",
+        "supports": [
+          "泥に挑む1955・具体の絵画と行為"
+        ]
+      },
+      {
+        "url": "https://www.getty.edu/art/exhibitions/postwar_japan/",
+        "institution": "ゲティ研究所",
+        "supports": [
+          "1954年設立・雑誌・野外や舞台"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "泥も、光も、音も、作品になる？",
+      "lead": [
+        "絵は、筆で紙や布に描くものなのでしょうか。具体の作家たちは、泥に全身で向き合ったり、光る電球を身にまとったりして、まだない表現を探しました。1954年に始まった美術家の団体です。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "もの派",
+    "title_ja": "もの派",
+    "slug": "mono-ha",
+    "type": "美術の動向（単一の学校・固定団体ではない）",
+    "period": "1960年代末–1970年代を中心に",
+    "region": "日本／韓国出身作家らを含む交流",
+    "summary": "石、土、鉄、ガラス。見慣れた材料も、置き方が変わると、急に存在感を増します。もの派と呼ばれる作家たちは、材料を別の物の形へつくり替えるだけでなく、物どうしや、物と場所の関係を見せようとしました。",
+    "context": "1968年の関根伸夫（せきね・のぶお）《位相―大地》は、円筒形の穴と、掘った土を同じ形に積んだ塊を並べました。「ない」場所と「ある」塊が、対になっています。李禹煥（リ・ウファン）は、制作に加えて文章でもこの動向を考えました。",
+    "recognition": {
+      "color": "材料自体の色や、置いた場所の光を見ます。茶色や灰色だからもの派という判断はできません。",
+      "type": "作品を見分ける共通書体はありません。作家の文章は、作品の意味を考える別の手がかりです。",
+      "form": "石とガラスの重さや硬さの違い、穴と土の量の関係を考えます。わずかな配置でも、大きな変化が生まれます。",
+      "composition": "作品だけを切り抜かず、床、壁、屋外の地面、人の立つ場所まで見ます。同じ材料でも置く場所で経験が変わります。"
+    },
+    "comparison": "具体美術協会のような組織名とは違います。また、自然の材料を使う作品すべてがもの派ではありません。作者、時代、発表の経緯を合わせて確かめます。",
+    "modern": "いつも机にある物を別の場所へ置くと、重さや大きさの感じ方は変わるでしょうか。「物そのもの」だけでなく、その周りを見る練習になります。",
+    "representatives": [
+      {
+        "title": "位相―大地",
+        "creator": "関根伸夫（せきね・のぶお）",
+        "date": "1968年",
+        "domain": "野外作品・土",
+        "reason": "円筒形の穴と同じ形の土の塊を並べ、地面の中と外を見える関係にした作品です。",
+        "limitation": "後年の再制作や写真版画は、1968年の現場そのものではありません。",
+        "evidence": "https://www.nmao.go.jp/archive/exhibition/2005/post_122.html",
+        "reading_intro": {
+          "heading": "位相―大地",
+          "lead": [
+            "円筒形の穴と同じ形の土の塊を並べ、地面の中と外を見える関係にした作品です。"
+          ]
+        },
+        "source_url": "https://www.nmao.go.jp/archive/exhibition/2005/post_122.html",
+        "title_ja": "位相―大地"
+      },
+      {
+        "title": "関係項（Relatum、森美術館所蔵個体）",
+        "creator": "李禹煥（リ・ウファン）",
+        "date": "1968年／2019年",
+        "domain": "石・鉄・ガラス",
+        "reason": "鉄板、ガラス、石を重ねた作品です。自然の石と人工の材料が出会い、見る人もその場の関係に加わります。",
+        "limitation": "同名連作の他の作品と混同しません。公式表記1968/2019を保持します。",
+        "evidence": "https://www.mori.art.museum/en/collection/5110/",
+        "reading_intro": {
+          "heading": "関係項（Relatum、森美術館所蔵個体）",
+          "lead": [
+            "鉄板、ガラス、石を重ねた作品です。自然の石と人工の材料が出会い、見る人もその場の関係に加わります。"
+          ]
+        },
+        "source_url": "https://www.mori.art.museum/en/collection/5110/",
+        "title_ja": "関係項（Relatum、森美術館所蔵個体）"
+      },
+      {
+        "title": "点より（From Point）",
+        "creator": "李禹煥（リ・ウファン）",
+        "date": "1974年",
+        "domain": "絵画・キャンバスに鉱物顔料",
+        "reason": "繰り返す筆の跡と、描かれていない場所の関係を考える絵画です。石や鉄の作品と比較し、物と空間への関心が絵にも及ぶことを見ます。",
+        "limitation": "もの派全体をこの絵画だけで代表させず、作家の展開を示す比較例とします。",
+        "evidence": "https://www.mot-collection-search.jp/en/shiryo/586/",
+        "reading_intro": {
+          "heading": "点より（From Point）",
+          "lead": [
+            "繰り返す筆の跡と、描かれていない場所の関係を考える絵画です。石や鉄の作品と比較し、物と空間への関心が絵にも及ぶことを見ます。"
+          ]
+        },
+        "source_url": "https://www.mot-collection-search.jp/en/shiryo/586/",
+        "title_ja": "点より（From Point）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nmao.go.jp/archive/exhibition/2005/post_122.html",
+        "institution": "国立国際美術館",
+        "supports": [
+          "もの派・位相大地1968"
+        ]
+      },
+      {
+        "url": "https://www.mori.art.museum/en/collection/5110/",
+        "institution": "森美術館",
+        "supports": [
+          "関係項1968/2019・材料・関係"
+        ]
+      },
+      {
+        "url": "https://www.mot-collection-search.jp/en/shiryo/586/",
+        "institution": "東京都現代美術館",
+        "supports": [
+          "点より1974・李の理論・材料"
+        ]
+      },
+      {
+        "url": "https://web.guggenheim.org/exhibitions/leeufan/series/mono-ha",
+        "institution": "ソロモン・R・グッゲンハイム美術館",
+        "supports": [
+          "動向1968–72・1970年代・呼称"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "穴と土の山。同じ量なのに、どう違う？",
+      "lead": [
+        "石、土、鉄、ガラス。見慣れた材料も、置き方が変わると、急に存在感を増します。もの派と呼ばれる作家たちは、材料を別の物の形へつくり替えるだけでなく、物どうしや、物と場所の関係を見せようとしました。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "韓国の単色画",
+    "title_ja": "韓国の単色画（たんしょくが／ダンセクファ）",
+    "slug": "dansaekhwa",
+    "type": "絵画をめぐる動向",
+    "period": "1970年代を中心に／前史は1960年代",
+    "region": "韓国を中心に国際的展開",
+    "summary": "ほとんど同じ色に見える絵も、近づくと、こすった線や布の目が見えてきます。韓国の単色画は、色を少なくするだけの絵ではありません。描く、押す、繰り返すといった行為と、材料の変化を大切にした絵画の流れです。",
+    "context": "画家によって方法は違います。パク・ソボは絵の具の上に鉛筆で繰り返し線を引き、ハ・ジョンヒョンは麻布の裏から絵の具を押し出しました。同じように静かに見える表面でも、できるまでの動作は大きく異なります。",
+    "recognition": {
+      "color": "白だけに限りません。ユン・ヒョングンは、茶色と深い青を用いた作品を制作しました。色数より、重なりやしみ込み方を見ます。",
+      "type": "「エクリチュール」は書くことに関わる語ですが、作品を読める文章や特定の書体として扱いません。",
+      "form": "線の反復、布のすき間から出た絵の具、にじんだ境目を比べます。表面に制作の手順が残っています。",
+      "composition": "画面いっぱいの跡と、何も描かない空きの関係に注目します。全体と細部を行き来して見ましょう。"
+    },
+    "comparison": "西洋の単色絵画と色数だけで同じにしません。李禹煥を通じてもの派とも接点がありますが、韓国の単色画ともの派は同義ではありません。",
+    "modern": "同じ動きを何度もすると、本当に毎回同じ跡になるのでしょうか。繰り返しの中の小さな違いに気づくと、単純に見えた画面が豊かになります。",
+    "representatives": [
+      {
+        "title": "描法No.55-73（Ecriture No.55-73）",
+        "creator": "パク・ソボ（朴栖甫）",
+        "date": "1973年",
+        "domain": "キャンバスに黒鉛・油彩",
+        "reason": "油絵の具の層へ鉛筆で角張った線を繰り返し引いた作品です。手の圧力や時間が画面をつくることを考えます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.guggenheim.org/wp-content/uploads/2020/09/guggenheim-marking-time-digital-wall-text.pdf",
+        "reading_intro": {
+          "heading": "描法No.55-73（Ecriture No.55-73）",
+          "lead": [
+            "油絵の具の層へ鉛筆で角張った線を繰り返し引いた作品です。手の圧力や時間が画面をつくることを考えます。"
+          ]
+        },
+        "source_url": "https://www.guggenheim.org/wp-content/uploads/2020/09/guggenheim-marking-time-digital-wall-text.pdf",
+        "title_ja": "描法No.55-73（Ecriture No.55-73）"
+      },
+      {
+        "title": "接合74-26（Conjunction 74-26）",
+        "creator": "ハ・ジョンヒョン（河鍾賢）",
+        "date": "1974年",
+        "domain": "麻布に油彩",
+        "reason": "粗い麻布の裏から白い絵の具を押し出した作品です。布を立てたときに流れた跡も残り、重さと制作の手順が画面に表れます。",
+        "limitation": "ニューヨーク近代美術館所蔵494.2015、108.9×222.9cmの個体。",
+        "evidence": "https://www.moma.org/collection/works/191856",
+        "reading_intro": {
+          "heading": "接合74-26（Conjunction 74-26）",
+          "lead": [
+            "粗い麻布の裏から白い絵の具を押し出した作品です。布を立てたときに流れた跡も残り、重さと制作の手順が画面に表れます。"
+          ]
+        },
+        "source_url": "https://www.moma.org/collection/works/191856",
+        "title_ja": "接合74-26（Conjunction 74-26）"
+      },
+      {
+        "title": "バーントアンバーとウルトラマリン（Burnt Umber & Ultramarine）",
+        "creator": "ユン・ヒョングン（尹亨根）",
+        "date": "1973年",
+        "domain": "キャンバスに油彩",
+        "reason": "茶色と深い青を用いる作品です。単色画を「白い絵」とだけ覚えず、色と材料の幅を知る比較になります。",
+        "limitation": "公式作家サイトに記載された100×181.5cm、MMCA所蔵個体を対象にします。",
+        "evidence": "https://www.yunhyongkeun.org/works/1970s",
+        "reading_intro": {
+          "heading": "バーントアンバーとウルトラマリン（Burnt Umber & Ultramarine）",
+          "lead": [
+            "茶色と深い青を用いる作品です。単色画を「白い絵」とだけ覚えず、色と材料の幅を知る比較になります。"
+          ]
+        },
+        "source_url": "https://www.yunhyongkeun.org/works/1970s",
+        "title_ja": "バーントアンバーとウルトラマリン（Burnt Umber & Ultramarine）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.mmca.go.kr/upload/temp/2018/01/2018012410240777417162.pdf",
+        "institution": "韓国国立現代美術館",
+        "supports": [
+          "Dansaekhwa展・複数作家"
+        ]
+      },
+      {
+        "url": "https://www.guggenheim.org/wp-content/uploads/2020/09/guggenheim-marking-time-digital-wall-text.pdf",
+        "institution": "ソロモン・R・グッゲンハイム美術館",
+        "supports": [
+          "Ecriture No55-73・1973・制作方法"
+        ]
+      },
+      {
+        "url": "https://www.mmca.go.kr/eng/pr/pressDetail.do?bdCId=201206260004057&menuId=6020000000&searchBmCid=201011160000014",
+        "institution": "韓国国立現代美術館",
+        "supports": [
+          "接合1974開始・裏から絵の具を押す方法"
+        ]
+      },
+      {
+        "url": "https://www.yunhyongkeun.org/works/1970s",
+        "institution": "ユン・ヒョングン公式サイト",
+        "supports": [
+          "Burnt Umber & Ultramarine1973・MMCA個体"
+        ]
+      },
+      {
+        "url": "https://www.moma.org/collection/works/191856",
+        "institution": "ニューヨーク近代美術館（MoMA／モマ）",
+        "supports": [
+          "接合74-26・1974・材料・寸法・制作手順"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "一色に見えても、手の跡は一つずつ違う。",
+      "lead": [
+        "ほとんど同じ色に見える絵も、近づくと、こすった線や布の目が見えてきます。韓国の単色画は、色を少なくするだけの絵ではありません。描く、押す、繰り返すといった行為と、材料の変化を大切にした絵画の流れです。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "Taller de Gráfica Popular",
+    "title_ja": "タジェール・デ・グラフィカ・ポプラール（民衆版画工房）",
+    "slug": "taller-grafica-popular",
+    "type": "共同制作の工房・団体",
+    "period": "1937年設立–",
+    "region": "メキシコ・メキシコシティ",
+    "summary": "版画は、同じ絵を何枚も刷ることができます。民衆版画工房は、その力を使って、人々の暮らしや社会の問題を伝えたメキシコの工房です。労働運動の集会や街頭でも、ポスターや配布物が人々へ届けられました。",
+    "context": "1937年に始まり、レオポルド・メンデス、パブロ・オヒギンス、ルイス・アレナルらが関わりました。工房の名前であって、一つの絵柄の名称ではありません。集団で仕事をしながら、それぞれの作者も異なる表現を持っていました。",
+    "recognition": {
+      "color": "黒と紙の白を強く対比させる作品では、遠くから何が先に見えるかを考えます。すべてが白黒というわけではありません。",
+      "type": "見出しと絵が一緒になって、誰に何を訴えるかを伝えます。作品名だけでなく、配られた目的を読みます。",
+      "form": "木やリノリウムを彫り、残った面にインクをつけて刷ります。彫った線が白くなる仕組みが、形の強さに関わります。",
+      "composition": "一枚の大きなポスターと、何枚もまとめた版画集を比べます。順に見ることで、歴史を語ることもできます。"
+    },
+    "comparison": "個人の作品を売ることと、社会へ訴える共同制作は、必ずしも反対ではありません。工房の活動には、街頭のための印刷物も収集家向けの版画集もありました。",
+    "modern": "同じ画像を広く届けられると、社会との関わりはどう変わるでしょう。いまの画像の共有と、紙を実際に配ることの違いも考えられます。",
+    "representatives": [
+      {
+        "title": "TGPとは何か（¿Qué es el TGP?）",
+        "creator": "レオポルド・メンデス",
+        "date": "1949年",
+        "domain": "リノカット",
+        "reason": "壁のポスターを見る労働者を描いたリノカットです。工房自身の活動を伝える配布物に使われ、制作と広報がつながっています。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.leopoldomendez.com/catalogue-cat%C3%A1logo/folder-with-print-entries/que-es-el-tgp",
+        "reading_intro": {
+          "heading": "TGPとは何か（¿Qué es el TGP?）",
+          "lead": [
+            "壁のポスターを見る労働者を描いたリノカットです。工房自身の活動を伝える配布物に使われ、制作と広報がつながっています。"
+          ]
+        },
+        "source_url": "https://www.leopoldomendez.com/catalogue-cat%C3%A1logo/folder-with-print-entries/que-es-el-tgp",
+        "title_ja": "TGPとは何か（¿Qué es el TGP?）"
+      },
+      {
+        "title": "これから起こりうること（Lo que puede venir）",
+        "creator": "レオポルド・メンデス",
+        "date": "1945年",
+        "domain": "木版画",
+        "reason": "開いた本の上に横たわる画家と、不穏な集団を対比する木版画です。戦争やファシズムへの警戒を、強い明暗で伝えます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://artmuseum.princeton.edu/art/collections/objects/9372",
+        "reading_intro": {
+          "heading": "これから起こりうること（Lo que puede venir）",
+          "lead": [
+            "開いた本の上に横たわる画家と、不穏な集団を対比する木版画です。戦争やファシズムへの警戒を、強い明暗で伝えます。"
+          ]
+        },
+        "source_url": "https://artmuseum.princeton.edu/art/collections/objects/9372",
+        "title_ja": "これから起こりうること（Lo que puede venir）"
+      },
+      {
+        "title": "メキシコ革命の版画集（Estampas de la Revolución Mexicana）",
+        "creator": "民衆版画工房の16人の作家",
+        "date": "1947年",
+        "domain": "共同制作の版画集",
+        "reason": "85点の版画で革命の歴史を伝える共同制作です。一人の英雄だけでなく、多くの人々の経験を、複数の作者が描く仕事です。",
+        "limitation": "資料に記載された1947年版の85点・16人を対象にします。",
+        "evidence": "https://sirismm.si.edu/EADpdfs/AAA.adammart.pdf",
+        "reading_intro": {
+          "heading": "メキシコ革命の版画集（Estampas de la Revolución Mexicana）",
+          "lead": [
+            "85点の版画で革命の歴史を伝える共同制作です。一人の英雄だけでなく、多くの人々の経験を、複数の作者が描く仕事です。"
+          ]
+        },
+        "source_url": "https://sirismm.si.edu/EADpdfs/AAA.adammart.pdf",
+        "title_ja": "メキシコ革命の版画集（Estampas de la Revolución Mexicana）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://coleccionmuac.unam.mx/obra/1196",
+        "institution": "メキシコ国立自治大学 現代美術館（ムアック）",
+        "supports": [
+          "1937年設立・共同工房"
+        ]
+      },
+      {
+        "url": "https://www.leopoldomendez.com/catalogue-cat%C3%A1logo/folder-with-print-entries/que-es-el-tgp",
+        "institution": "レオポルド・メンデス公式作品目録",
+        "supports": [
+          "1949年・リノカット・配布物・権利者"
+        ]
+      },
+      {
+        "url": "https://artmuseum.princeton.edu/art/collections/objects/9372",
+        "institution": "プリンストン大学美術館",
+        "supports": [
+          "1945年・作者・木版"
+        ]
+      },
+      {
+        "url": "https://sirismm.si.edu/EADpdfs/AAA.adammart.pdf",
+        "institution": "スミソニアン協会 アメリカ美術アーカイブ",
+        "supports": [
+          "1947年版画集・85点・16作家"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "同じ絵を何枚も刷り、社会へ届ける。",
+      "lead": [
+        "版画は、同じ絵を何枚も刷ることができます。民衆版画工房は、その力を使って、人々の暮らしや社会の問題を伝えたメキシコの工房です。労働運動の集会や街頭でも、ポスターや配布物が人々へ届けられました。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "Tropicalismo",
+    "title_ja": "トロピカリズモ（音楽と美術に広がった文化運動）",
+    "slug": "tropicalismo",
+    "type": "音楽・美術などにまたがる文化運動",
+    "period": "1960年代後半を中心に",
+    "region": "ブラジル",
+    "summary": "砂を踏み、小さな建物の中へ入る。エリオ・オイチシカの《トロピカリア》は、眺めるだけでなく、歩いて経験する作品です。この題名は、音楽にも広がったトロピカリズモという文化運動と結びつきました。南国らしい模様の名前ではありません。",
+    "context": "軍事政権下のブラジルで、地域の文化と海外の新しい表現、大衆文化が交わりました。オイチシカは「熱帯の楽園」という分かりやすいイメージを、そのまま楽しませようとしたのではありません。見る人が体を動かし、いつもの見方を揺さぶることを大切にしました。",
+    "recognition": {
+      "color": "鮮やかな色も使われますが、色が派手なだけでこの運動の作品にはなりません。色と、身体の動きの関係を見ます。",
+      "type": "音楽、文章、題名も重要です。「熱帯らしい書体」という一つの形にはまとめられません。",
+      "form": "《パランゴレ》では、布は壁に掛ける絵ではなく、人がまとうものになります。動くと形も変わります。",
+      "composition": "《トロピカリア》や《エデン》は、歩く順番や滞在する時間によって経験が変わります。写真一枚で全体を知ったとは言えません。"
+    },
+    "comparison": "ブラジルのモダニズムが1920年代から探った、海外の文化を受け取り自分たちの表現へ変える考え方と比較できます。ただし、時代も政治状況も違います。",
+    "modern": "作品を見る人も、作品の一部になれるのでしょうか。自分が動くことで変わる見え方を考える入口になります。",
+    "representatives": [
+      {
+        "title": "トロピカリア（Tropicália：PN2・PN3）",
+        "creator": "エリオ・オイチシカ",
+        "date": "1967年",
+        "domain": "環境作品",
+        "reason": "砂や植物、小屋のような構造を通して、鑑賞者が歩きながら経験する環境をつくります。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.museoreinasofia.es/colecciones/obra/tropicalia-penetraveis-pn2-pureza-e-um-mito-pn3-imagetico-tropicalia-penetrables/",
+        "reading_intro": {
+          "heading": "トロピカリア（Tropicália：PN2・PN3）",
+          "lead": [
+            "砂や植物、小屋のような構造を通して、鑑賞者が歩きながら経験する環境をつくります。"
+          ]
+        },
+        "source_url": "https://www.museoreinasofia.es/colecciones/obra/tropicalia-penetraveis-pn2-pureza-e-um-mito-pn3-imagetico-tropicalia-penetrables/",
+        "title_ja": "トロピカリア（Tropicália：PN2・PN3）"
+      },
+      {
+        "title": "私は反抗を体現する（P15 Parangolé, Eu Incorporo a Revolta）",
+        "creator": "エリオ・オイチシカ",
+        "date": "1967年",
+        "domain": "着用する布の作品",
+        "reason": "人がまとう布に、文字と身体の動きが加わります。作品を固定された形として見る習慣を変える例です。",
+        "limitation": "公式ページ内でケープ番号の表記に差があるため、P15と題名で同定します。",
+        "evidence": "https://whitney.org/exhibitions/helio-oiticica/art",
+        "reading_intro": {
+          "heading": "私は反抗を体現する（P15 Parangolé, Eu Incorporo a Revolta）",
+          "lead": [
+            "人がまとう布に、文字と身体の動きが加わります。作品を固定された形として見る習慣を変える例です。"
+          ]
+        },
+        "source_url": "https://whitney.org/exhibitions/helio-oiticica/art",
+        "title_ja": "私は反抗を体現する（P15 Parangolé, Eu Incorporo a Revolta）"
+      },
+      {
+        "title": "エデン（Éden）",
+        "creator": "エリオ・オイチシカ",
+        "date": "1967年構想／1969年発表",
+        "domain": "環境作品",
+        "reason": "人が歩き、留まり、感覚を使う場所をつくりました。作品に参加する方法が、より大きな空間へ広がった例です。",
+        "limitation": "構想年とロンドンでの発表年を分けます。",
+        "evidence": "https://projetoho.com.br/pt/helio-oiticica/1967/",
+        "reading_intro": {
+          "heading": "エデン（Éden）",
+          "lead": [
+            "人が歩き、留まり、感覚を使う場所をつくりました。作品に参加する方法が、より大きな空間へ広がった例です。"
+          ]
+        },
+        "source_url": "https://projetoho.com.br/pt/helio-oiticica/1967/",
+        "title_ja": "エデン（Éden）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/tropic%C3%A1lia",
+        "institution": "ニューヨーク近代美術館（モマ）",
+        "supports": [
+          "文化運動・トロピカリアとの関係"
+        ]
+      },
+      {
+        "url": "https://www.museoreinasofia.es/colecciones/obra/tropicalia-penetraveis-pn2-pureza-e-um-mito-pn3-imagetico-tropicalia-penetrables/",
+        "institution": "ソフィア王妃芸術センター",
+        "supports": [
+          "1967年・PN2とPN3・環境作品"
+        ]
+      },
+      {
+        "url": "https://whitney.org/exhibitions/helio-oiticica/art",
+        "institution": "ホイットニー美術館",
+        "supports": [
+          "P15・1967・着用と身体"
+        ]
+      },
+      {
+        "url": "https://projetoho.com.br/pt/helio-oiticica/1967/",
+        "institution": "エリオ・オイチシカ・プロジェクト",
+        "supports": [
+          "Éden1967構想・1969発表"
+        ]
+      }
+    ],
+    "representativeness_limit": "ここでは美術家オイチシカの3作品から紹介します。音楽・演劇・映画を含む運動全体の代表例ではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "見るだけでなく、歩いて入る作品。",
+      "lead": [
+        "砂を踏み、小さな建物の中へ入る。エリオ・オイチシカの《トロピカリア》は、眺めるだけでなく、歩いて経験する作品です。この題名は、音楽にも広がったトロピカリズモという文化運動と結びつきました。南国らしい模様の名前ではありません。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "Négritude と視覚文化",
+    "title_ja": "ネグリチュードと、目で見る文化",
+    "slug": "negritude-visual-culture",
+    "type": "思想・文化運動と美術の関係を考える主題",
+    "period": "1930年代の思想／1960年代以降の美術との関係",
+    "region": "フランス語圏のアフリカ・カリブ地域と、その交流",
+    "summary": "自分たちの文化を、他人の物差しだけで評価されてよいのでしょうか。ネグリチュードは、植民地支配や人種差別に対して、黒人の文化や経験の価値を自分たちで語ろうとした運動です。まず詩や言葉の運動として育ち、美術や文化政策にも関わりました。",
+    "context": "エメ・セゼール、レオポルド・セダール・サンゴール、レオン＝ゴントラン・ダマスらが重要な役割を担いました。セネガルでは、独立後の美術教育や、1966年にダカールで開かれた世界黒人芸術祭とも結びつきます。ただし、アフリカの作家全員が同じ考え方を共有したわけではありません。",
+    "recognition": {
+      "color": "パパ・イブラ・タルの織物では、線と色が人物の周囲へ広がります。これをアフリカ全体の共通配色とは考えません。",
+      "type": "詩の言葉と、美術の題名を並べて読むと、文化を自分で語ることへの関心が見えます。共通の書体はありません。",
+      "form": "《騎手》では、人と馬の姿をどう組み合わせるかを見ます。写実的に描くことだけが、文化を表す方法ではありません。",
+      "composition": "大きな織物は、糸を織る人々との共同の仕事でもあります。下絵の作者と、織った工房を分けて確かめます。"
+    },
+    "comparison": "ネグリチュードは、一つの美術様式の名前ではありません。ダカール派という美術の流れとも関わりますが、思想、教育制度、個々の作品を同じものにしません。",
+    "modern": "自分の文化を大切にするとき、誰の声を代表しているのでしょうか。一人の作品から地域全体を決めつけないことも、作品を見る大切な姿勢です。",
+    "representatives": [
+      {
+        "title": "騎手（Horseman）",
+        "creator": "パパ・イブラ・タル",
+        "date": "1965年",
+        "domain": "紙に木炭",
+        "reason": "馬と人の姿を木炭で描いた作品です。独立後のセネガルで、新しい美術教育を担った画家の造形を知る入口になります。",
+        "limitation": "スミソニアン所蔵2008-5-1、65.2×49.2cmの個体。",
+        "evidence": "https://www.si.edu/object/horseman%3Anmafa_2008-5-1",
+        "reading_intro": {
+          "heading": "騎手（Horseman）",
+          "lead": [
+            "馬と人の姿を木炭で描いた作品です。独立後のセネガルで、新しい美術教育を担った画家の造形を知る入口になります。"
+          ]
+        },
+        "source_url": "https://www.si.edu/object/horseman%3Anmafa_2008-5-1",
+        "title_ja": "騎手（Horseman）"
+      },
+      {
+        "title": "魔法の手をもつ詩人（Poete aux Mains Magiques）",
+        "creator": "パパ・イブラ・タル（図案）／タバール兄弟姉妹工房（織り）",
+        "date": "1969年",
+        "domain": "綿・羊毛などのタペストリー",
+        "reason": "絵の図案が大きな織物となり、外交の贈り物にもなった例です。文化が国外へ伝わる仕組みも考えられます。",
+        "limitation": "1964年の委嘱、1969年頃の贈呈と作品の年を区別。所蔵番号84-7-1。",
+        "evidence": "https://collections.si.edu/search/detail/edanmdm%3Anmafa_84-7-1?print=yes",
+        "reading_intro": {
+          "heading": "魔法の手をもつ詩人（Poete aux Mains Magiques）",
+          "lead": [
+            "絵の図案が大きな織物となり、外交の贈り物にもなった例です。文化が国外へ伝わる仕組みも考えられます。"
+          ]
+        },
+        "source_url": "https://collections.si.edu/search/detail/edanmdm%3Anmafa_84-7-1?print=yes",
+        "title_ja": "魔法の手をもつ詩人（Poete aux Mains Magiques）"
+      },
+      {
+        "title": "星をまく人（La semeuse d’étoiles）第5／8版",
+        "creator": "パパ・イブラ・タル",
+        "date": "1970年代初め",
+        "domain": "綿の縦糸・羊毛の横糸など",
+        "reason": "人物と星を織物に広げた作品です。思想を、そのまま文字で説明するのではない表し方として考えます。",
+        "limitation": "メトロポリタン美術館2025.119、261×263cm。別の版と混同しません。",
+        "evidence": "https://www.metmuseum.org/art/collection/search/919034",
+        "reading_intro": {
+          "heading": "星をまく人（La semeuse d’étoiles）第5／8版",
+          "lead": [
+            "人物と星を織物に広げた作品です。思想を、そのまま文字で説明するのではない表し方として考えます。"
+          ]
+        },
+        "source_url": "https://www.metmuseum.org/art/collection/search/919034",
+        "title_ja": "星をまく人（La semeuse d’étoiles）第5／8版"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ensembles.org/ensembles/negritude",
+        "institution": "アントウェルペン現代美術館（エム・ハカ）",
+        "supports": [
+          "思想の成立・詩人・1966年祭典"
+        ]
+      },
+      {
+        "url": "https://www.si.edu/object/horseman%3Anmafa_2008-5-1",
+        "institution": "スミソニアン国立アフリカ美術館",
+        "supports": [
+          "Horseman1965・材料・所蔵番号"
+        ]
+      },
+      {
+        "url": "https://collections.si.edu/search/detail/edanmdm%3Anmafa_84-7-1?print=yes",
+        "institution": "スミソニアン国立アフリカ美術館",
+        "supports": [
+          "1969年・作者と工房・委嘱と贈呈"
+        ]
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/919034",
+        "institution": "メトロポリタン美術館",
+        "supports": [
+          "第5/8版・1970年代初め・材料・寸法"
+        ]
+      },
+      {
+        "url": "https://kadist.org/work/semeuse-detoiles/",
+        "institution": "カディスト美術財団",
+        "supports": [
+          "タルとネグリチュードの関係"
+        ]
+      }
+    ],
+    "representativeness_limit": "セネガルのパパ・イブラ・タルの3作品から入る構成です。アフリカやカリブの美術全体、また思想への批判や異論を網羅しません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "文化の価値を、自分たちの言葉と形で語る。",
+      "lead": [
+        "自分たちの文化を、他人の物差しだけで評価されてよいのでしょうか。ネグリチュードは、植民地支配や人種差別に対して、黒人の文化や経験の価値を自分たちで語ろうとした運動です。まず詩や言葉の運動として育ち、美術や文化政策にも関わりました。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "Khartoum School",
+    "title_ja": "ハルツーム派",
+    "slug": "khartoum-school",
+    "type": "スーダン美術をめぐる動向・後から用いられた呼称",
+    "period": "1960年代を中心に／後の展開を含む",
+    "region": "スーダン・ハルツームを中心に",
+    "summary": "文字のようにも、人や植物のようにも見える線。ハルツーム派と呼ばれる作家たちは、アラビア文字や地域の文化を手がかりに、新しい絵画を探しました。決まった校舎をもつ一つの学校の名前ではありません。",
+    "context": "呼び名は1960年代初めに使われるようになりました。しかし、作家自身がその呼び名に賛成しなかったり、後に離れたりもしています。イブラヒム・エル＝サラヒやアハメド・モハメド・シブラインらの仕事を、一つの模様の集まりとして見るのは不十分です。",
+    "recognition": {
+      "color": "エル＝サラヒ《最後の音》では、土を思わせる色が使われます。作家や年代によって配色が変わることを忘れません。",
+      "type": "アラビア文字の線を手がかりにしても、すべてが読める文章とは限りません。書く動きと、絵の形の間を見ます。",
+      "form": "人の横顔、月、文字を思わせる形が、重なり合うことがあります。何に見えるかを、一つだけに決めない見方もできます。",
+      "composition": "後年の《避けられないもの》は、九つの画面が一つの大きな絵をつくります。小さな線の集まりと全体の広がりを見比べます。"
+    },
+    "comparison": "ハルツーム派と、カマラ・イブラヒム・イシャグらの後年のクリスタリストの活動は、関連しながらも異なります。一国の美術を一つの派だけで説明しません。",
+    "modern": "同じ線が、文字にも顔にも見えるとしたら。文字を読めるかどうかとは別に、線の強さや動きを楽しむ入口があります。",
+    "representatives": [
+      {
+        "title": "ソネット17（Sonnet XVII）",
+        "creator": "アハメド・モハメド・シブライン",
+        "date": "1960年",
+        "domain": "絵画",
+        "reason": "文字を思わせる線を用いた作品です。言葉の形が絵画の構成へ変わるところに注目します。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.sharjahart.org/en/news/details/major-works-from-the-sharjah-art-foundation-collection-on-view-at-instituti",
+        "reading_intro": {
+          "heading": "ソネット17（Sonnet XVII）",
+          "lead": [
+            "文字を思わせる線を用いた作品です。言葉の形が絵画の構成へ変わるところに注目します。"
+          ]
+        },
+        "source_url": "https://www.sharjahart.org/en/news/details/major-works-from-the-sharjah-art-foundation-collection-on-view-at-instituti",
+        "title_ja": "ソネット17（Sonnet XVII）"
+      },
+      {
+        "title": "最後の音（The Last Sound）",
+        "creator": "イブラヒム・エル＝サラヒ",
+        "date": "1964年",
+        "domain": "絵画",
+        "reason": "父の死を受けて制作された作品です。顔や月を思わせる形、土のような色が、祈りや別れと結びつきます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.labiennale.org/en/art/2024/portraits/ibrahim-el-salahi",
+        "reading_intro": {
+          "heading": "最後の音（The Last Sound）",
+          "lead": [
+            "父の死を受けて制作された作品です。顔や月を思わせる形、土のような色が、祈りや別れと結びつきます。"
+          ]
+        },
+        "source_url": "https://www.labiennale.org/en/art/2024/portraits/ibrahim-el-salahi",
+        "title_ja": "最後の音（The Last Sound）"
+      },
+      {
+        "title": "避けられないもの（The Inevitable）",
+        "creator": "イブラヒム・エル＝サラヒ",
+        "date": "1984–1985年",
+        "domain": "九面からなる紙にインク",
+        "reason": "九つの画面を組み合わせた大作です。細かな線と大きな構図を比較し、1960年代からの展開を追えます。",
+        "limitation": "ハルツーム派の成立期の作品ではなく、作家の後年の展開を示す比較例です。",
+        "evidence": "https://www.vigogallery.com/artworks/1741-ibrahim-el-salahi-the-inevitable-collection-herbert-f.-johnson-museum-1984-1985/",
+        "reading_intro": {
+          "heading": "避けられないもの（The Inevitable）",
+          "lead": [
+            "九つの画面を組み合わせた大作です。細かな線と大きな構図を比較し、1960年代からの展開を追えます。"
+          ]
+        },
+        "source_url": "https://www.vigogallery.com/artworks/1741-ibrahim-el-salahi-the-inevitable-collection-herbert-f.-johnson-museum-1984-1985/",
+        "title_ja": "避けられないもの（The Inevitable）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sharjahart.org/en/press/details/ruler-of-sharjah-opens-three-major-exhibitions-of-sudanese-art-at-the-sharj",
+        "institution": "シャルジャ美術財団",
+        "supports": [
+          "呼称の成立・流動性・作家による異議"
+        ]
+      },
+      {
+        "url": "https://www.labiennale.org/en/art/2024/portraits/ibrahim-el-salahi",
+        "institution": "ヴェネツィア・ビエンナーレ",
+        "supports": [
+          "The Last Sound1964・父の死・形と色"
+        ]
+      },
+      {
+        "url": "https://www.sharjahart.org/en/news/details/major-works-from-the-sharjah-art-foundation-collection-on-view-at-instituti",
+        "institution": "シャルジャ美術財団",
+        "supports": [
+          "Sonnet XVII1960・作家・カリグラフィ"
+        ]
+      },
+      {
+        "url": "https://www.vigogallery.com/artworks/1741-ibrahim-el-salahi-the-inevitable-collection-herbert-f.-johnson-museum-1984-1985/",
+        "institution": "ヴィゴ・ギャラリー（作家取扱画廊）",
+        "supports": [
+          "The Inevitable1984–85・9面・所蔵先"
+        ]
+      }
+    ],
+    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "文字と絵の間に、新しい形を探す。",
+      "lead": [
+        "文字のようにも、人や植物のようにも見える線。ハルツーム派と呼ばれる作家たちは、アラビア文字や地域の文化を手がかりに、新しい絵画を探しました。決まった校舎をもつ一つの学校の名前ではありません。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "グラフィックにおける和様",
+    "title_ja": "グラフィックにおける和様（わよう）",
+    "slug": "wayo-graphic",
+    "type": "日本の伝統と近現代の印刷物を比べる編集上の主題",
+    "period": "本項は1950年代–1990年代の田中一光を中心に",
+    "region": "日本／国際的な印刷物の交流",
+    "summary": "三角や四角だけなのに、人の顔に見える。田中一光（たなか・いっこう）の《日本舞踊》は、日本の舞台の表情を、簡潔な図形で伝えるポスターです。伝統的な題材を、そのまま昔の絵のように描かず、新しい形へ組み直しています。",
+    "context": "ここでいう「和様」は、一つの団体や、決まった時代の美術運動の名前ではありません。日本の文字、舞台、絵画などが、近現代のグラフィックでどう使われたかを比べるための題名です。日本のデザインすべてに共通する特徴がある、と決めつけないことが大切です。",
+    "recognition": {
+      "color": "《日本舞踊》では、明るい色と黒い面が顔の各部分をつくります。「日本らしさ」を特定の色だけで説明しません。",
+      "type": "漢字や仮名、欧文が何を伝え、どこに置かれているかを見ます。文字も、顔と同じように画面を構成します。",
+      "form": "顔を四角や三角に置き換えても、表情が残ります。何を省き、何を残したのかが見どころです。",
+      "composition": "人物、文字、空白の大きさを比べます。空白は、情報がない無駄な場所ではなく、見る順番に関わります。"
+    },
+    "comparison": "「和風の飾りをつけること」と、伝統を読み直して新しく設計することは同じではありません。能、舞踊、浮世絵という異なる題材を、一つずつ確かめます。",
+    "modern": "少ない形で、何をどこまで伝えられるでしょう。好きな物を三つの図形だけで表すと、残す特徴を選ぶ難しさがわかります。",
+    "representatives": [
+      {
+        "title": "日本舞踊（Nihon Buyo）",
+        "creator": "田中一光（たなか・いっこう）",
+        "date": "1981年",
+        "domain": "ポスター",
+        "reason": "顔を単純な図形へ置き換えたポスターです。舞台の題材と、現代的な構成がどう結びつくかを見る入口になります。",
+        "limitation": "1989年の再印刷個体とは制作年を分けます。",
+        "evidence": "https://artplatform.go.jp/ja/collections/W1153986",
+        "reading_intro": {
+          "heading": "日本舞踊（Nihon Buyo）",
+          "lead": [
+            "顔を単純な図形へ置き換えたポスターです。舞台の題材と、現代的な構成がどう結びつくかを見る入口になります。"
+          ]
+        },
+        "source_url": "https://artplatform.go.jp/ja/collections/W1153986",
+        "title_ja": "日本舞踊（Nihon Buyo）"
+      },
+      {
+        "title": "第5回産経観世能",
+        "creator": "田中一光（たなか・いっこう）",
+        "date": "1958年",
+        "domain": "ポスター",
+        "reason": "能の公演を知らせる初期の仕事です。後年の舞踊ポスターと比べ、伝統的な舞台を伝える方法の変化を見ます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.pref.nara.lg.jp/documents/6769/pr_ikkotanaka_2023_1.pdf",
+        "reading_intro": {
+          "heading": "第5回産経観世能",
+          "lead": [
+            "能の公演を知らせる初期の仕事です。後年の舞踊ポスターと比べ、伝統的な舞台を伝える方法の変化を見ます。"
+          ]
+        },
+        "source_url": "https://www.pref.nara.lg.jp/documents/6769/pr_ikkotanaka_2023_1.pdf",
+        "title_ja": "第5回産経観世能"
+      },
+      {
+        "title": "写楽二百年",
+        "creator": "田中一光（たなか・いっこう）",
+        "date": "1995年",
+        "domain": "ポスター",
+        "reason": "浮世絵師・写楽に関する企画のポスターです。昔の図像を、現代の印刷物としてどう見直すかを考えます。",
+        "limitation": "1997年の再制作・再印刷資料と混同せず、1995年の記録を対象とします。",
+        "evidence": "https://artplatform.go.jp/ja/collections/W1153993",
+        "reading_intro": {
+          "heading": "写楽二百年",
+          "lead": [
+            "浮世絵師・写楽に関する企画のポスターです。昔の図像を、現代の印刷物としてどう見直すかを考えます。"
+          ]
+        },
+        "source_url": "https://artplatform.go.jp/ja/collections/W1153993",
+        "title_ja": "写楽二百年"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://artplatform.go.jp/ja/collections/W1153986",
+        "institution": "国立アートリサーチセンター アートプラットフォームジャパン／奈良県立美術館",
+        "supports": [
+          "日本舞踊1981・作者"
+        ]
+      },
+      {
+        "url": "https://artplatform.go.jp/ja/collections/W1153993",
+        "institution": "国立アートリサーチセンター アートプラットフォームジャパン／奈良県立美術館",
+        "supports": [
+          "写楽二百年1995・作者"
+        ]
+      },
+      {
+        "url": "https://www.pref.nara.lg.jp/documents/6769/pr_ikkotanaka_2023_1.pdf",
+        "institution": "奈良県立美術館",
+        "supports": [
+          "第5回産経観世能1958・展覧会作品"
+        ]
+      },
+      {
+        "url": "https://www.dnpfcp.jp/foundation/archives/tanaka-ikko.html",
+        "institution": "DNP（ディー・エヌ・ピー）文化振興財団",
+        "supports": [
+          "田中一光アーカイブ・資料の管理"
+        ]
+      }
+    ],
+    "representativeness_limit": "田中一光の3作を通じて考える項目です。「和様」という単一の様式が確立していたと主張せず、日本のグラフィック全体を代表させません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "三角と四角から、舞台の顔が見えてくる。",
+      "lead": [
+        "三角や四角だけなのに、人の顔に見える。田中一光（たなか・いっこう）の《日本舞踊》は、日本の舞台の表情を、簡潔な図形で伝えるポスターです。伝統的な題材を、そのまま昔の絵のように描かず、新しい形へ組み直しています。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "ブラジル・モダニズム",
+    "title_ja": "ブラジル・モダニズム",
+    "slug": "brazilian-modernism",
+    "type": "文学・美術・建築などにまたがる近代文化の動き",
+    "period": "1920年代を中心に／その後も多様に展開",
+    "region": "ブラジル／欧州などとの交流",
+    "summary": "とても大きな足と、小さな頭。タルシラ・ド・アマラルの《アバポル》は、人体の比率を大胆に変えた絵です。ブラジルのモダニズムでは、外国の新しい芸術をただまねるのではなく、自分たちの社会や文化へ引き寄せて変えることが問われました。",
+    "context": "1922年のサンパウロの近代芸術週間は、重要な節目でした。ただし、ブラジルの近代芸術は、その一回の催しだけで始まり終わったわけではありません。ここでは、パリでも学んだタルシラの絵を通じて、外から学ぶことと、自分たちの表現をつくることの関係を見ます。",
+    "recognition": {
+      "color": "明るい色の作品でも、題材によって感じ方は異なります。南国らしい色という説明だけで終わらせません。",
+      "type": "絵画だけでなく、詩や宣言文とも関わった動きです。ここでの「食べる」という比喩は、他の文化を取り込み変える考えを指します。",
+      "form": "大きくした足、小さくした頭、単純にした植物など、実物と違う比率に注目します。違いに、画家の選択が表れます。",
+      "composition": "人物と風景の大きさ、水平線、画面の空きを比べます。地域の風景も、見たままの記録ではなく組み立てられています。"
+    },
+    "comparison": "トロピカリズモにも、外の文化を取り込み変える発想とのつながりがあります。ただし1920年代と1960年代では、政治や大衆文化の環境が異なります。",
+    "modern": "「自分たちらしさ」を表すとき、誰の姿が選ばれるのでしょうか。黒人や先住民の表象（ひょうしょう。人や文化をどう描き示すか）には、描く側との力の違いも考える必要があります。",
+    "representatives": [
+      {
+        "title": "アバポル（Abaporu）",
+        "creator": "タルシラ・ド・アマラル",
+        "date": "1928年",
+        "domain": "油彩画",
+        "reason": "巨大な足をもつ人物と植物が描かれています。他の文化を取り込み、自分たちのものへ変えるという議論と結びついた重要作です。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://coleccion.malba.org.ar/Detail/objects/201",
+        "reading_intro": {
+          "heading": "アバポル（Abaporu）",
+          "lead": [
+            "巨大な足をもつ人物と植物が描かれています。他の文化を取り込み、自分たちのものへ変えるという議論と結びついた重要作です。"
+          ]
+        },
+        "source_url": "https://coleccion.malba.org.ar/Detail/objects/201",
+        "title_ja": "アバポル（Abaporu）"
+      },
+      {
+        "title": "月（A Lua／The Moon）",
+        "creator": "タルシラ・ド・アマラル",
+        "date": "1928年",
+        "domain": "油彩画",
+        "reason": "風景の形を単純化し、現実とは違う空間をつくります。人物の絵と比べ、風景でも比率や輪郭が変えられることを見ます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.moma.org/collection/works/199984",
+        "reading_intro": {
+          "heading": "月（A Lua／The Moon）",
+          "lead": [
+            "風景の形を単純化し、現実とは違う空間をつくります。人物の絵と比べ、風景でも比率や輪郭が変えられることを見ます。"
+          ]
+        },
+        "source_url": "https://www.moma.org/collection/works/199984",
+        "title_ja": "月（A Lua／The Moon）"
+      },
+      {
+        "title": "黒人女性（A negra）",
+        "creator": "タルシラ・ド・アマラル",
+        "date": "1923年",
+        "domain": "キャンバスに油彩",
+        "reason": "身体の形を大胆に変えた絵です。新しい造形の試みと、人種や性別の描き方を、両方考えるために取り上げます。",
+        "limitation": "作品の歴史的題名を示しています。描かれた人を一つの人種や地域の代表像として扱いません。",
+        "evidence": "https://acervo.mac.usp.br/acervo/index.php/Detail/objects/17156",
+        "reading_intro": {
+          "heading": "黒人女性（A negra）",
+          "lead": [
+            "身体の形を大胆に変えた絵です。新しい造形の試みと、人種や性別の描き方を、両方考えるために取り上げます。"
+          ]
+        },
+        "source_url": "https://acervo.mac.usp.br/acervo/index.php/Detail/objects/17156",
+        "title_ja": "黒人女性（A negra）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/49158-tarsila-do-amaral",
+        "institution": "ニューヨーク近代美術館（モマ）",
+        "supports": [
+          "タルシラとブラジル近代美術"
+        ]
+      },
+      {
+        "url": "https://coleccion.malba.org.ar/Detail/objects/201",
+        "institution": "ブエノスアイレス・ラテンアメリカ美術館（マルバ）",
+        "supports": [
+          "Abaporu1928・文化的な取り込みの議論"
+        ]
+      },
+      {
+        "url": "https://www.moma.org/collection/works/199984",
+        "institution": "ニューヨーク近代美術館（モマ）",
+        "supports": [
+          "The Moon1928・作者"
+        ]
+      },
+      {
+        "url": "https://acervo.mac.usp.br/acervo/index.php/Detail/objects/17156",
+        "institution": "サンパウロ大学現代美術館",
+        "supports": [
+          "A negra1923・油彩・100×81.3cm"
+        ]
+      }
+    ],
+    "representativeness_limit": "タルシラの1920年代の3作に絞った入口です。建築、文学、他地域や他作家を含むブラジル・モダニズム全体を網羅しません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "足は大きく、頭は小さく。なぜ変えた？",
+      "lead": [
+        "とても大きな足と、小さな頭。タルシラ・ド・アマラルの《アバポル》は、人体の比率を大胆に変えた絵です。ブラジルのモダニズムでは、外国の新しい芸術をただまねるのではなく、自分たちの社会や文化へ引き寄せて変えることが問われました。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "Tropical Modernism",
+    "title_ja": "トロピカル・モダニズム（熱帯の環境を考えた近代建築）",
+    "slug": "tropical-modernism",
+    "type": "建築をめぐる動向",
+    "period": "1940年代以降を中心に",
+    "region": "西アフリカ・南アジアなど／本項はガーナの3例",
+    "summary": "強い日差しを遮りながら、風を建物へ通すには？ トロピカル・モダニズムは、暑い地域の環境に応えようとした近代建築の動きです。窓の前のひさしや格子には、見た目だけでなく、光と風を調整する役割があります。",
+    "context": "植民地支配の下で進められた建築もあり、独立後には新しい国をつくる計画にも使われました。そのため、気候に合う工夫だけでなく、誰が計画し、誰が使ったかも重要です。地域の昔からの建て方が、十分に尊重されたとは限りません。",
+    "recognition": {
+      "color": "外壁の白さだけで見分けません。太陽の位置で変わる影が、建物の表情と室内環境をつくります。",
+      "type": "建築の動向なので、共通の書体はありません。学校名や案内表示は、建物とは別に確かめます。",
+      "form": "ブリーズ・ソレイユとは、日差しを遮るひさしや格子のことです。ルーバーは、細長い板を間隔をあけて並べた仕組みです。",
+      "composition": "建物の向き、窓の位置、風の通り道を一緒に見ます。写真に写らない室内の暑さまで、外観だけで決めつけません。"
+    },
+    "comparison": "ヤシの木がある近代建築を、すべてこう呼ぶわけではありません。また熱帯にも異なる気候があり、一つの建て方がどの場所でも役立つとは限りません。",
+    "modern": "涼しさを機械だけに頼らず、建物の形で助けられるでしょうか。昔の工夫をいま使うときも、その土地の気候や使う人に合うか確かめることが大切です。",
+    "representatives": [
+      {
+        "title": "ウェズリー女子校（Wesley Girls’ School）",
+        "creator": "フライ、ドリュー・アンド・パートナーズ",
+        "date": "1947年",
+        "domain": "学校建築・ガーナ",
+        "reason": "日差しを遮る部材を使った学校建築です。勉強する場所の光と暑さに、形で応えようとした例です。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.vam.ac.uk/articles/what-is-tropical-modernism",
+        "reading_intro": {
+          "heading": "ウェズリー女子校（Wesley Girls’ School）",
+          "lead": [
+            "日差しを遮る部材を使った学校建築です。勉強する場所の光と暑さに、形で応えようとした例です。"
+          ]
+        },
+        "source_url": "https://www.vam.ac.uk/articles/what-is-tropical-modernism",
+        "title_ja": "ウェズリー女子校（Wesley Girls’ School）"
+      },
+      {
+        "title": "クワメ・ンクルマ科学技術大学工学部（School of Engineering, KNUST）",
+        "creator": "ジェームズ・キュービット・アンド・パートナーズ",
+        "date": "1956年",
+        "domain": "大学建築・クマシ",
+        "reason": "ルーバーなどで日差しを調整した校舎です。独立前後の教育施設と、建築の工夫を一緒に見ます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.vam.ac.uk/articles/what-is-tropical-modernism",
+        "reading_intro": {
+          "heading": "クワメ・ンクルマ科学技術大学工学部（School of Engineering, KNUST）",
+          "lead": [
+            "ルーバーなどで日差しを調整した校舎です。独立前後の教育施設と、建築の工夫を一緒に見ます。"
+          ]
+        },
+        "source_url": "https://www.vam.ac.uk/articles/what-is-tropical-modernism",
+        "title_ja": "クワメ・ンクルマ科学技術大学工学部（School of Engineering, KNUST）"
+      },
+      {
+        "title": "スコット邸（Scott House）",
+        "creator": "ケネス・スコット",
+        "date": "1961年",
+        "domain": "住宅・アクラ",
+        "reason": "縦のルーバーを使った住宅です。公共の学校と個人の住宅で、光を調整する方法を比べます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.moma.org/magazine/articles/1447",
+        "reading_intro": {
+          "heading": "スコット邸（Scott House）",
+          "lead": [
+            "縦のルーバーを使った住宅です。公共の学校と個人の住宅で、光を調整する方法を比べます。"
+          ]
+        },
+        "source_url": "https://www.moma.org/magazine/articles/1447",
+        "title_ja": "スコット邸（Scott House）"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vam.ac.uk/articles/what-is-tropical-modernism",
+        "institution": "ヴィクトリア・アンド・アルバート博物館",
+        "supports": [
+          "1940年代以降・植民地と独立・3建築の年代・日射調整"
+        ]
+      },
+      {
+        "url": "https://www.moma.org/magazine/articles/1447",
+        "institution": "ニューヨーク近代美術館（モマ）",
+        "supports": [
+          "Scott House1961・住宅・東西の縦ルーバー"
+        ]
+      }
+    ],
+    "representativeness_limit": "ガーナの3建築から入る構成です。南アジアなどへの広がりや、各地域の建築家の活動を網羅しません。",
+    "recognition_section_label": "作品をよく見るための手がかり",
+    "modern_section_label": "いま、考えてみること",
+    "reading_intro": {
+      "heading": "日差しを遮り、風を通す形。",
+      "lead": [
+        "強い日差しを遮りながら、風を建物へ通すには？ トロピカル・モダニズムは、暑い地域の環境に応えようとした近代建築の動きです。窓の前のひさしや格子には、見た目だけでなく、光と風を調整する役割があります。"
+      ],
+      "looking_questions": []
+    },
+    "adopted_images": [],
+    "reference_images": [],
+    "image_count_acquired": 0,
+    "reference_image_count": 0,
+    "image_status": "実作品画像の掲載許諾を確認中",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中"
   }
 ]

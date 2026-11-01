@@ -4174,6 +4174,132 @@
       "sha256": "5570848d99c752a8168dea0ab9c8586509d15a7af24276e8e4b7dbc71257ac2d",
       "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
       "status": "adopted_local_image"
+    },
+    {
+      "id": "commons-bharat-mata",
+      "entry": "Bengal School",
+      "author": "アバニンドラナート・タゴール",
+      "title": "母なるインド（バーラト・マーター）",
+      "year": "1905年",
+      "institution": "ヴィクトリア記念堂（Victoria Memorial Hall）",
+      "accession": "RBS27ANT",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bharat_Mata_by_Abanindranath_Tagore.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bharat_Mata_by_Abanindranath_Tagore.jpg",
+      "license": "Public domain / PD-Art",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs",
+      "credit": "Abanindranath Tagore, Bharat Mata, 1905. Victoria Memorial Hall, RBS27ANT. Image via Wikimedia Commons, PD-Art.",
+      "underlying_work_rights": "Commons個別ページ：作者1951年没、原産国および死後70年以下の地域でPD。米国は1931年以前の公表を根拠にPD。",
+      "reproduction_rights": "保護期間を終えた平面作品の忠実な複製として、CommonsがPD-Artと表示しています。",
+      "commercial_use": "PD-Art指定に基づき商用・非商用利用可。地域により忠実な複製の扱いが異なる。",
+      "territory_note": "全法域での権利保証ではありません。",
+      "photographer": "個別ページのSource/Photographerはkamat.comへのリンク。撮影者氏名は未確認。",
+      "alt": "淡い黄緑の背景に、だいだい色の衣を着た四本腕の人物。手に白い布、本、数珠、穀物を持つ。",
+      "viewing_point": "四つの持ち物、衣服の色、人物の周りに残る空間。",
+      "width": 1044,
+      "height": 1928,
+      "visual_notes": [
+        {
+          "title": "四本の手は、何を伝える？",
+          "text": "白い布、本、数珠、穀物を別々の手に持っています。持ち物の違いから、国に必要なものへの願いを読み取れます。"
+        },
+        {
+          "title": "人物の周りの空きにも注目。",
+          "text": "建物や人混みを描かず、中心の人物を淡い色が囲みます。顔と四本の手へ目が向かいます。"
+        }
+      ],
+      "local_file": "assets/lineage-bharat-mata.jpg",
+      "local_bytes": 464058,
+      "sha256": "e7a56a12605ef1a3ccc9394fba614e831994d3c84a5cf38696ecb8614b653d35",
+      "status": "adopted_local_image",
+      "image_processing": "原画像を切り取らずに掲載しています。",
+      "display_derivatives": {
+        "method": "全体を残した縮小とWebP変換。色や構図は変更していません。",
+        "variants": [
+          {
+            "local_file": "assets/lineage-bharat-mata-640.webp",
+            "width": 640,
+            "height": 1182,
+            "bytes": 155578,
+            "sha256": "70386edd45efa400a8f97f37a55658d885aad61f04fef632b0da2bb384e71f24"
+          },
+          {
+            "local_file": "assets/lineage-bharat-mata-1000.webp",
+            "width": 1000,
+            "height": 1847,
+            "bytes": 363842,
+            "sha256": "04f59a784111a146ecb32f9c17e8d8b9867dc4ae48ed9327b32fcc3bff7435f3"
+          },
+          {
+            "local_file": "assets/lineage-bharat-mata-1044.webp",
+            "width": 1044,
+            "height": 1928,
+            "bytes": 421970,
+            "sha256": "d4d8f375538f95696b05f2c31908877ecab285d67ea35ca3ef92a2e1980ba5c4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "commons-nakayama-dots-1932",
+      "entry": "新興写真",
+      "author": "中山岩太（なかやま・いわた）",
+      "title": "・・・・",
+      "year": "1932年",
+      "source_page": "https://commons.wikimedia.org/wiki/File:%E3%83%BB%E3%83%BB%E3%83%BB%E3%83%BB-_1932_-_Nakayama_Iwata.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/%E3%83%BB%E3%83%BB%E3%83%BB%E3%83%BB-_1932_-_Nakayama_Iwata.png",
+      "license": "Public domain / PD-Japan-oldphoto + PD-scan",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://commons.wikimedia.org/wiki/Template:PD-Japan-oldphoto",
+      "credit": "中山岩太《・・・・》1932年。機械的スキャン：HinokisOfRoma / Wikimedia Commons、Public domain（PD-Japan-oldphoto、PD-scan）。",
+      "underlying_work_rights": "Commons個別ページでPD-Japan-oldphoto表示。1932年11月『光画』初出の写真で、日本旧写真保護期間が1970年までに満了し、米国URAA復活対象外とする根拠を記載。",
+      "reproduction_rights": "1998年刊『日本の写真家7 中山岩太』からの機械的なスキャン。Commons個別ページはPD-scanと表示しています。書籍全体の自由利用を意味しません。",
+      "commercial_use": "上記個別PD指定に基づき商用・非商用で利用可能。",
+      "territory_note": "すべての法域に対する権利保証ではありません。米国での同時公表等の例外に注意。",
+      "photographer": "原写真：中山岩太／機械的スキャン：HinokisOfRoma",
+      "alt": "白黒写真。右手前に笑う人物の顔、左奥に二本の脚が見え、明暗と複数の像が重なっている。",
+      "viewing_point": "顔と脚の距離、像が重なるところ、明るい部分と暗い部分。",
+      "width": 1413,
+      "height": 1878,
+      "visual_notes": [
+        {
+          "title": "顔だけでは終わらない写真。",
+          "text": "右の顔から左へ目を移すと、脚の断片が見えます。人物を整った一つの姿として見せないところが、見る人を立ち止まらせます。"
+        }
+      ],
+      "japan_rights": "1932年11月『光画』公表。PD-Japan-oldphoto：1899年著作権法23条・1970年法附則2条による旧写真の保護期間満了。",
+      "us_rights": "CommonsのPD-Japan-oldphoto指定は、日本で1970年までに満了したため米国URAAの復活対象外と明記。通常の公表後95年という根拠ではない。米国30日以内同時公表の例外は別途注意。",
+      "local_file": "assets/lineage-nakayama-1932.png",
+      "local_bytes": 2406558,
+      "sha256": "22ccb09e3c5ec5fcc0d0e96fd1b43ea39f2bb8062f08b7307e4847a0fe5aad06",
+      "status": "adopted_local_image",
+      "image_processing": "原画像を切り取らずに掲載しています。",
+      "display_derivatives": {
+        "method": "全体を残した縮小とWebP変換。色や構図は変更していません。",
+        "variants": [
+          {
+            "local_file": "assets/lineage-nakayama-1932-640.webp",
+            "width": 640,
+            "height": 851,
+            "bytes": 122010,
+            "sha256": "d027300cdd765b18b2989b9a847fc97c7341546b2cdb41f913acdc2799e7c890"
+          },
+          {
+            "local_file": "assets/lineage-nakayama-1932-1000.webp",
+            "width": 1000,
+            "height": 1329,
+            "bytes": 360828,
+            "sha256": "8e7a8efd0a382633fc29e6e26c26603d132c574bb1c0ab12d8a18329d21383cc"
+          },
+          {
+            "local_file": "assets/lineage-nakayama-1932-1413.webp",
+            "width": 1413,
+            "height": 1878,
+            "bytes": 876844,
+            "sha256": "36a1a36010f0ae4430e12c4bf04dfdba723a680624383c10917a489854461501"
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
