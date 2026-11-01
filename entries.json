@@ -16591,5 +16591,2588 @@
       ]
     },
     "representativeness_limit": "実画像9点で、平面作品と文字のデザインを見比べます。写真を含む雑誌や書籍の全体を網羅するものではありません。人物の仕事の紹介で、運動・様式とは区別します。"
+  },
+  {
+    "name": "Punk / DIY",
+    "title_ja": "パンク／DIY（自分たちでつくる）",
+    "slug": "punk-diy",
+    "type": "音楽・出版・服などに広がる文化と制作の姿勢",
+    "period": "1970年代半ば以後。本文は英国の1976–77年を中心に扱う",
+    "region": "英国を中心に扱う",
+    "summary": "好きな音楽を伝える雑誌を、自分で書いて配る。パンクのDIY（ディー・アイ・ワイ）は、専門家や大きな会社だけに任せず、自分たちでつくって発表しようとする姿勢です。紙の切り貼りや手描きの文字は、その方法の一部でした。",
+    "context": "ジンは、個人や小さな集まりがつくる冊子です。マーク・ペリーは1976年に『スニッフィン・グルー』を始めました。一方、ジェイミー・リードのレコード用デザインは、音楽を売る仕事でもありました。パンクの印刷物をすべて、同じ規模の自主制作だとは考えません。",
+    "recognition": {
+      "color": "白黒のコピーも、強い色の印刷もあります。低い予算と選んだ色の関係は、個別の制作記録で確かめます。",
+      "type": "切り抜いた文字や手書きの文字では、大きさや傾きがそろわないことがあります。それが声の強さをどう伝えるか考えます。",
+      "form": "コラージュは、紙や写真などを切り貼りして、新しい絵をつくる方法です。もとの写真の意味が、組み合わせによってどう変わるかを見ます。",
+      "composition": "整えるだけでなく、かぶせる、消す、ずらす操作にも注目します。ただし、荒く見えるから無計画だったとは限りません。"
+    },
+    "comparison": "サイケデリックなポスターと同じく音楽に関わりますが、DIYは色や形の名前ではありません。誰が制作し、印刷し、配るかという仕組みを含みます。",
+    "modern": "紙を切り、手書きの見出しを貼って、小さなお知らせをつくってみましょう。自分の言葉で発信することと、他人の写真を無断で使うことは別です。",
+    "reading_intro": {
+      "heading": "待っているより、自分たちでつくろう。",
+      "lead": [
+        "好きな音楽を伝える雑誌を、自分で書いて配る。パンクのDIY（ディー・アイ・ワイ）は、専門家や大きな会社だけに任せず、自分たちでつくって発表しようとする姿勢です。紙の切り貼りや手描きの文字は、その方法の一部でした。"
+      ]
+    },
+    "representativeness_limit": "ここに挙げた作品は、考え方やつくり方の違いを比べるための例です。この分野の全地域・全時代を網羅するものではありません。",
+    "sources": [
+      {
+        "id": "44&src=CalmView.Catalog",
+        "url": "https://archives.ljmu.ac.uk/Record.aspx?id=ED/3/44&src=CalmView.Catalog",
+        "institution": "リヴァプール・ジョン・ムーア大学アーカイブ"
+      },
+      {
+        "id": "Queen-Elizabeth-II-God-Save-the-Queen",
+        "url": "https://www.npg.org.uk/collections/search/portrait/mw288622/Queen-Elizabeth-II-God-Save-the-Queen",
+        "institution": "英国ナショナル・ポートレート・ギャラリー"
+      },
+      {
+        "id": "789280",
+        "url": "https://www.metmuseum.org/art/collection/search/789280",
+        "institution": "メトロポリタン美術館"
+      },
+      {
+        "id": "a-brief-history-of-zines",
+        "url": "https://www.vanartgallery.bc.ca/a-brief-history-of-zines/",
+        "institution": "バンクーバー美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "punk-diy-work-1",
+        "title": "Sniffin’ Glue（スニッフィン・グルー）",
+        "creator": "Mark Perry（マーク・ペリー。編集・創刊）",
+        "date": "1976–1977",
+        "reason": "タイプライターとペンで始めた音楽誌。見る人が自ら発信するディー・アイ・ワイ（自分でつくる姿勢）の例。",
+        "look_for": "ここでは雑誌シリーズ全体を紹介しています。号によって内容や参加者は異なります。",
+        "domain": "自主制作雑誌",
+        "source_url": "https://archives.ljmu.ac.uk/Record.aspx?id=ED/3/44&src=CalmView.Catalog",
+        "institution": "リヴァプール・ジョン・ムーア大学アーカイブ",
+        "evidence": "https://archives.ljmu.ac.uk/Record.aspx?id=ED/3/44&src=CalmView.Catalog",
+        "reading_intro": {
+          "heading": "スニッフィン・グルー",
+          "lead": [
+            "タイプライターとペンで始めた音楽誌。見る人が自ら発信するディー・アイ・ワイ（自分でつくる姿勢）の例。"
+          ]
+        },
+        "title_ja": "スニッフィン・グルー"
+      },
+      {
+        "id": "punk-diy-work-2",
+        "title": "God Save the Queen レコード・スリーブ",
+        "creator": "Jamie Reid（ジェイミー・リード）、元の写真：Peter Grugeon（ピーター・グルージョン）",
+        "date": "1977",
+        "reason": "公式の肖像写真に別の言葉を重ね、元の意味を問い直す例。",
+        "look_for": "写真を撮った人と、それを使ってデザインした人の役割を分ける。",
+        "domain": "レコード包装",
+        "source_url": "https://www.npg.org.uk/collections/search/portrait/mw288622/Queen-Elizabeth-II-God-Save-the-Queen",
+        "institution": "英国ナショナル・ポートレート・ギャラリー",
+        "title_ja": "ゴッド・セイヴ・ザ・クイーン：レコードの袋",
+        "evidence": "https://www.npg.org.uk/collections/search/portrait/mw288622/Queen-Elizabeth-II-God-Save-the-Queen",
+        "reading_intro": {
+          "heading": "ゴッド・セイヴ・ザ・クイーン：レコードの袋",
+          "lead": [
+            "公式の肖像写真に別の言葉を重ね、元の意味を問い直す例。"
+          ]
+        }
+      },
+      {
+        "id": "punk-diy-work-3",
+        "title": "God Save the Queen Tシャツ",
+        "creator": "Vivienne Westwood（ヴィヴィアン・ウエストウッド）、Malcolm McLaren（マルコム・マクラーレン）、Jamie Reid（ジェイミー・リード）",
+        "date": "1977",
+        "reason": "同じ音楽文化の表現が紙を離れ、身につけるものへ広がる例。",
+        "look_for": "メトロポリタン美術館所蔵番号2018.786。綿と金属を用いた個体。",
+        "domain": "服",
+        "source_url": "https://www.metmuseum.org/art/collection/search/789280",
+        "institution": "メトロポリタン美術館",
+        "title_ja": "ゴッド・セイヴ・ザ・クイーンのTシャツ",
+        "evidence": "https://www.metmuseum.org/art/collection/search/789280",
+        "reading_intro": {
+          "heading": "ゴッド・セイヴ・ザ・クイーンのTシャツ",
+          "lead": [
+            "同じ音楽文化の表現が紙を離れ、身につけるものへ広がる例。"
+          ]
+        }
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "44&src=CalmView.Catalog",
+      "Queen-Elizabeth-II-God-Save-the-Queen",
+      "789280",
+      "a-brief-history-of-zines"
+    ]
+  },
+  {
+    "name": "New Bauhaus Chicago",
+    "title_ja": "ニュー・バウハウス（シカゴ）",
+    "slug": "new-bauhaus-chicago",
+    "type": "学校・教育。後継校への変化は時期を分けて扱う",
+    "period": "1937–1938年のニュー・バウハウスと、1939年に始まるスクール・オブ・デザインを中心に扱う。比較資料は1946年までの後続教育資料を含む",
+    "region": "米国・シカゴ",
+    "summary": "『同じ形をまねる』ことと、『学び方を受け継ぐ』ことは、同じでしょうか。ニュー・バウハウスは、モホリ＝ナジが1937年にシカゴで開いた学校です。ドイツのバウハウスでの経験をもとに、材料や光を使い、まず試して発見する学びを広げました。特定の配色や図形の名前ではありません。",
+    "context": "最初の学校は、資金が足りず1938年に閉じました。モホリ＝ナジは1939年に、後継のスクール・オブ・デザインを開きました。この学校は1944年にインスティテュート・オブ・デザインと名前を変え、1949年にイリノイ工科大学に加わりました。資料を見るときは、どの時期の学校でつくられたものかを確かめます。",
+    "recognition": {
+      "color": "決まった色を探すより、光が当たったときに材料の見え方がどう変わるかを考えます。色の三原色を使っているだけで、この学校の作品とは判定できません。",
+      "type": "学校案内の文字や配置は、教育方針を伝える資料として見ます。すべての学生作品が同じ書体を使ったとは言えません。",
+      "form": "ニュー・バウハウスと後継校では、紙を切ったり折ったりする実験、光を反射させる装置など、材料を変えると何が起こるかを調べる課題がありました。完成品の形だけでなく、試す過程にも目を向けましょう。",
+      "composition": "光・影・材料の位置関係を比べます。写真の見え方を、被写体の形だけでなく光との組み合わせから考えるための観察の問いです。"
+    },
+    "comparison": "ドイツのバウハウスとつながる学校ですが、単なる同じ学校の引っ越しではありません。新しい場所で資金や教育の仕組みを組み直しました。また、後継のインスティテュート・オブ・デザインで教えた写真家の作品を、初期ニュー・バウハウスの授業作品と混同しません。",
+    "modern": "紙を折って確かめる、光の向きを変えて比べる。こうした小さな実験は、頭の中だけでは気づかない違いを見つける助けになります。ここでの提案は現代の学習のヒントで、いまのすべてのデザイン教育がこの学校から生まれたという意味ではありません。",
+    "reading_intro": {
+      "heading": "材料と光を試して、学ぶ学校。",
+      "lead": [
+        "ニュー・バウハウスは、1937年にアメリカのシカゴにできた学校です。",
+        "モホリ＝ナジは、ドイツのバウハウスでの経験をもとに、材料や光を使って試す学びを大切にしました。",
+        "紙を切ったり折ったり、光の当て方を変えたりすると、何が見つかるでしょう。",
+        "ここでは、学校の学び方を伝える資料を、後の学校のものとは時期を分けて紹介します。"
+      ]
+    },
+    "representativeness_limit": "学校案内、1941年の学生制作、1946年の教育資料を選びました。初期のニュー・バウハウスと、その後の二つの学校名を制作年とともに示しています。この3点だけで、すべての授業を紹介するものではありません。",
+    "sources": [
+      {
+        "id": "newbauhaus-0",
+        "url": "https://guides.library.iit.edu/c.php?g=932235&p=8465176",
+        "institution": "イリノイ工科大学"
+      },
+      {
+        "id": "newbauhaus-1",
+        "url": "https://id.iit.edu/new-bauhaus/",
+        "institution": "イリノイ工科大学"
+      },
+      {
+        "id": "newbauhaus-2",
+        "url": "https://artsandculture.google.com/story/zgUBjgW801CaLA",
+        "institution": "イリノイ工科大学提供のデジタル展示"
+      },
+      {
+        "id": "newbauhaus-3",
+        "url": "https://www.getty.edu/art/exhibitions/metzker/institute_design.html",
+        "institution": "ゲティ研究所"
+      },
+      {
+        "id": "newbauhaus-4",
+        "url": "https://www.iit.edu/news/bridge-bauhaus-and-its-ideas",
+        "institution": "イリノイ工科大学"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "new-bauhaus-chicago-work-1",
+        "title": "The New Bauhaus: Course Curriculum",
+        "creator": "László Moholy-Nagy（ラースロー・モホリ＝ナジ）",
+        "date": "1936/1937（機関展示の年代表記）",
+        "reason": "同心円の教育課程の図を通じてグロピウスのモデルとの関係を説明する機関展示。図形の似た個人作品より学校との関係が具体的",
+        "look_for": "初期の学校と後継の学校では、名称と活動時期が違います。この資料の制作年と、当時の学校名を合わせて読むと流れがわかります。",
+        "domain": "学校の教育資料",
+        "source_url": "https://artsandculture.google.com/story/zgUBjgW801CaLA",
+        "institution": "イリノイ工科大学提供のデジタル展示",
+        "title_ja": "ザ・ニュー・バウハウス：授業計画",
+        "evidence": "https://artsandculture.google.com/story/zgUBjgW801CaLA",
+        "reading_intro": {
+          "heading": "ザ・ニュー・バウハウス：授業計画",
+          "lead": [
+            "同心円の教育課程の図を通じてグロピウスのモデルとの関係を説明する機関展示。図形の似た個人作品より学校との関係が具体的"
+          ]
+        }
+      },
+      {
+        "id": "new-bauhaus-chicago-work-2",
+        "title": "Wiremesh Pillow, Light Modulator",
+        "creator": "Georgianna Green（ジョージアナ・グリーン）",
+        "date": "1941",
+        "reason": "イリノイ工科大学自身の展示が、実験教育の節に1941年の学生制作として提示する。光を材料として扱う学びを知る資料。",
+        "look_for": "初期の学校と後継の学校では、名称と活動時期が違います。この資料の制作年と、当時の学校名を合わせて読むと流れがわかります。",
+        "domain": "学生制作・光の実験",
+        "source_url": "https://artsandculture.google.com/story/zgUBjgW801CaLA",
+        "institution": "イリノイ工科大学提供のデジタル展示",
+        "title_ja": "ワイヤーメッシュ・ピロー：光を変える実験",
+        "evidence": "https://artsandculture.google.com/story/zgUBjgW801CaLA",
+        "reading_intro": {
+          "heading": "ワイヤーメッシュ・ピロー：光を変える実験",
+          "lead": [
+            "イリノイ工科大学自身の展示が、実験教育の節に1941年の学生制作として提示する。光を材料として扱う学びを知る資料。"
+          ]
+        }
+      },
+      {
+        "id": "new-bauhaus-chicago-work-3",
+        "title": "Dictionary of the Light Modulator",
+        "creator": "Jean Kendall（ジーン・ケンドール）",
+        "date": "1946",
+        "reason": "イリノイ工科大学自身の展示が光の操作を説明する節に掲げる、1946年の教育資料。初期ニュー・バウハウスと後継校を区別して見る例。",
+        "look_for": "初期の学校と後継の学校では、名称と活動時期が違います。この資料の制作年と、当時の学校名を合わせて読むと流れがわかります。",
+        "domain": "学校の教育資料",
+        "source_url": "https://artsandculture.google.com/story/zgUBjgW801CaLA",
+        "institution": "イリノイ工科大学提供のデジタル展示",
+        "title_ja": "ディクショナリー・オブ・ザ・ライト・モジュレーター",
+        "evidence": "https://artsandculture.google.com/story/zgUBjgW801CaLA",
+        "reading_intro": {
+          "heading": "ディクショナリー・オブ・ザ・ライト・モジュレーター",
+          "lead": [
+            "イリノイ工科大学自身の展示が光の操作を説明する節に掲げる、1946年の教育資料。初期ニュー・バウハウスと後継校を区別して見る例。"
+          ]
+        }
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1900-1949",
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "newbauhaus-0",
+      "newbauhaus-1",
+      "newbauhaus-2",
+      "newbauhaus-3",
+      "newbauhaus-4"
+    ]
+  },
+  {
+    "name": "Vkhutemas",
+    "title_ja": "ヴフテマス",
+    "slug": "vkhutemas",
+    "type": "国立の美術・技術教育機関",
+    "period": "1920–1930年（後継のヴフテイン期を含む）",
+    "region": "ロシア／ソビエト連邦・モスクワ",
+    "summary": "ヴフテマスは、1920年にモスクワにできた、美術と技術を学ぶ学校です。絵の描き方だけでなく、木や金属、布、建築も扱いました。ひとつの画風や、デザイナー集団の名前ではありません。",
+    "context": "入学後の基礎課程では、色や構成などを学び、その先で専門分野へ進みました。産業と教育のために人材を育てるという目的があり、国の政策とも関わっていました。のちにヴフテインへ改組され、1930年に閉じました。改組の年は機関資料に1927年と1928年の表記があるため、ここでは一つに断定しません。",
+    "recognition": {
+      "color": "決まった配色を探すより、色をどのように学んだかを考えます。赤と黒だけが学校の色ではありません。",
+      "type": "《ヴフテマスの建築》の表紙では、文字の向きと手や道具の組み合わせに注目します。",
+      "form": "図面、模型、写真は別の資料です。模型の写真を、完成した建物の写真と取り違えないようにします。",
+      "composition": "同じ学校でも、基礎課程の実験と、専門分野の計画では考える大きさや目的が違います。"
+    },
+    "comparison": "バウハウスと共通点や交流はありますが、バウハウスをそのまま写した学校ではありません。両校はそれぞれの土地と制度の中で発展しました。構成主義という運動と、ヴフテマスという学校も分けます。",
+    "modern": "紙を折った形を、光の向きを変えて見てみましょう。平らな紙から立体をつくる実験は、建築や製品を考える入口になります。",
+    "reading_intro": {
+      "heading": "色も、建物も、暮らしの道具も学ぶ。",
+      "lead": [
+        "ヴフテマスは、1920年にモスクワにできた、美術と技術を学ぶ学校です。絵の描き方だけでなく、木や金属、布、建築も扱いました。ひとつの画風や、デザイナー集団の名前ではありません。"
+      ]
+    },
+    "representativeness_limit": "ここに挙げた作品は、考え方やつくり方の違いを比べるための例です。この分野の全地域・全時代を網羅するものではありません。",
+    "sources": [
+      {
+        "id": "15.html",
+        "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "5027",
+        "url": "https://www.moma.org/calendar/exhibitions/5027",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "ULANFullDisplay?find=500020812&nation=&page=1&role=&subjectid=500028497",
+        "url": "https://www.getty.edu/vow/ULANFullDisplay?find=500020812&nation=&page=1&role=&subjectid=500028497",
+        "institution": "ゲティ研究所"
+      },
+      {
+        "id": "15999",
+        "url": "https://www.moma.org/collection/works/15999",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "756513",
+        "url": "https://www.metmuseum.org/art/collection/search/756513",
+        "institution": "メトロポリタン美術館"
+      },
+      {
+        "id": "301001",
+        "url": "https://www.cca.qc.ca/en/search/details/collection/object/301001",
+        "institution": "カナダ建築センター"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "vkhutemas-work-1",
+        "title": "Architecture of VKhUTEMAS: The Works of the Department of Architecture, 1920–1927（ヴフテマスの建築）表紙",
+        "creator": "El Lissitzky（エル・リシツキー。表紙）、N. Dokuchaev（N・ドクチャーエフ）、Pavel Novitskii（パーヴェル・ノヴィツキー）（著者）",
+        "date": "1927",
+        "reason": "学校が自分たちの建築の仕事を発信した資料。学校とのつながりが明確な表紙デザイン。",
+        "look_for": "大きな手、製図用具、斜めに並ぶ文字。",
+        "domain": "書籍・グラフィック",
+        "source_url": "https://www.moma.org/collection/works/15999",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/15999",
+        "reading_intro": {
+          "heading": "ヴフテマスの建築",
+          "lead": [
+            "学校が自分たちの建築の仕事を発信した資料。学校とのつながりが明確な表紙デザイン。"
+          ]
+        },
+        "title_ja": "ヴフテマスの建築"
+      },
+      {
+        "id": "vkhutemas-work-2",
+        "title": "Invitation to a Futurist Happening（未来派の催しへの招待状）",
+        "creator": "Mikhail Tarkhanov（ミハイル・タルハーノフ）に帰属。発行：ヴフテマス",
+        "date": "1921年3月5日",
+        "reason": "学校における新しい芸術活動を伝える、実際に発行された資料。",
+        "look_for": "作者は「帰属」とされる。裏面の風景画と表面の招待状を区別する。",
+        "domain": "招待状・ドローイング",
+        "source_url": "https://www.metmuseum.org/art/collection/search/756513",
+        "institution": "メトロポリタン美術館",
+        "evidence": "https://www.metmuseum.org/art/collection/search/756513",
+        "reading_intro": {
+          "heading": "未来派の催しへの招待状",
+          "lead": [
+            "学校における新しい芸術活動を伝える、実際に発行された資料。"
+          ]
+        },
+        "title_ja": "未来派の催しへの招待状"
+      },
+      {
+        "id": "vkhutemas-work-3",
+        "title": "Lenin Institute and Library（レーニン研究所・図書館）卒業設計",
+        "creator": "Ivan Leonidov（イワン・レオニドフ）",
+        "date": "1927",
+        "reason": "学生が考えた大きな建築計画を知る例。未建設であり、模型写真が資料として残る。",
+        "look_for": "球体と高い建物の配置。写真撮影者は不明。",
+        "domain": "建築計画・模型",
+        "source_url": "https://www.cca.qc.ca/en/search/details/collection/object/301001",
+        "institution": "カナダ建築センター",
+        "evidence": "https://www.cca.qc.ca/en/search/details/collection/object/301001",
+        "reading_intro": {
+          "heading": "レーニン研究所・図書館",
+          "lead": [
+            "学生が考えた大きな建築計画を知る例。未建設であり、模型写真が資料として残る。"
+          ]
+        },
+        "title_ja": "レーニン研究所・図書館"
+      }
+    ],
+    "adopted_images": [
+      {
+        "id": "vkhutemas-cover-1927",
+        "entry": "Vkhutemas",
+        "author": "エル・リシツキー（表紙）",
+        "title": "ヴフテマス建築学部作品集の表紙",
+        "year": "1927",
+        "institution": "Wikimedia Commons（ウィキメディア・コモンズ）、2016年掲載版",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vkhutemas.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vkhutemas.jpg",
+        "license": "原作の保護期間満了・平面作品の忠実な複製（PD-Art）",
+        "license_url": "https://commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs",
+        "credit": "エル・リシツキー、ヴフテマス建築学部作品集の表紙、1927年。画像：Wikimedia Commons、File:Vkhutemas.jpg、2016年版。",
+        "alt": "古い本の表紙。手とコンパスの写真に、赤い縦と横の文字、右上がりの黒い文字が重なる。",
+        "underlying_work_rights": "1927年刊行の表紙について、日本・米国の保護期間等に基づく利用。書籍全体や他の写真を一括して自由利用とはしません。",
+        "reproduction_rights": "Commonsの2016年版にある、平面作品の忠実な複製という表示に基づきます。旧版のCC BY-SAをこの画像には付けません。",
+        "territory_note": "CC0や美術館からの個別許諾を意味しません。全法域での自由利用を保証するものではありません。",
+        "visual_notes": [
+          {
+            "title": "文字は、横に読むだけではない。",
+            "text": "赤い文字は縦と横、黒い文字はななめに並びます。手と道具の写真も加わり、読む方向と目の動きが変わります。"
+          }
+        ],
+        "work_id": "vkhutemas-cover",
+        "local_file": "assets/lineage-vkhutemas-cover-1927.jpg",
+        "local_bytes": 175422,
+        "width": 506,
+        "height": 700,
+        "sha256": "efa7c2f546192a1542f35747f1aa1aa2ae5887233444f52ea870e8bedb829d99",
+        "image_processing": "取得したJPEGを変更せず使用。原寸を超えて表示しません。",
+        "status": "adopted_local_image"
+      }
+    ],
+    "image_count_acquired": 1,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1900-1949"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "15.html",
+      "5027",
+      "ULANFullDisplay?find=500020812&nation=&page=1&role=&subjectid=500028497",
+      "15999",
+      "756513",
+      "301001"
+    ]
+  },
+  {
+    "name": "Black Mountain College",
+    "title_ja": "ブラック・マウンテン・カレッジ",
+    "slug": "black-mountain-college",
+    "type": "学校・共同生活を通じた教育の実践",
+    "period": "1933–1957",
+    "region": "米国・ノースカロライナ州",
+    "summary": "ブラック・マウンテン・カレッジは、米国にあった小さな大学です。芸術を特別な人だけのものにせず、学びの中心に置きました。授業、共同生活、ものをつくる実験が結びついていました。",
+    "context": "1933年に始まり、ドイツのバウハウスから来たヨゼフ・アルバースやアニ・アルバースも教えました。時期によって先生や活動は変わりました。音楽、詩、踊り、絵、建築などが出会ったからといって、全員が同じ方法でつくったわけではありません。",
+    "recognition": {
+      "color": "ひとつの決まった配色はありません。教員の作品、授業の記録、学生の制作を分けて見ます。",
+      "type": "学校の名前と、そこで生まれた出版物や作品の作者を混同しないようにします。",
+      "form": "1948年のドーム実験は、うまく立ち上がりませんでした。完成した名作だけでなく、つくって確かめる過程も学びでした。",
+      "composition": "1952年の共同上演では、音楽や詩、踊りが同じ場に集まりました。一枚の絵と違い、時間の流れや観客の場所が関わります。"
+    },
+    "comparison": "ニュー・バウハウスとは、別の場所にできた別の学校です。バウハウス出身者とのつながりはあっても、同じ学校の米国支部だったわけではありません。",
+    "modern": "音をつくる人、動く人、絵を描く人で、一つの短い発表を考えてみましょう。分担をこえて相談すると、どんな発見があるでしょうか。",
+    "reading_intro": {
+      "heading": "つくることと、暮らすことを一緒に学ぶ。",
+      "lead": [
+        "ブラック・マウンテン・カレッジは、米国にあった小さな大学です。芸術を特別な人だけのものにせず、学びの中心に置きました。授業、共同生活、ものをつくる実験が結びついていました。"
+      ]
+    },
+    "representativeness_limit": "ここに挙げた作品は、考え方やつくり方の違いを比べるための例です。この分野の全地域・全時代を網羅するものではありません。",
+    "sources": [
+      {
+        "id": "history",
+        "url": "https://blackmountaincollege.org/history",
+        "institution": "ブラック・マウンテン・カレッジ美術館・アートセンター"
+      },
+      {
+        "id": "buckminster-fuller",
+        "url": "https://www.blackmountaincollege.org/buckminster-fuller/",
+        "institution": "ブラック・マウンテン・カレッジ美術館・アートセンター"
+      },
+      {
+        "id": "points-in-space",
+        "url": "https://www.blackmountaincollege.org/points-in-space/",
+        "institution": "ブラック・マウンテン・カレッジ美術館・アートセンター"
+      },
+      {
+        "id": "study-for-to-monte-alban",
+        "url": "https://www.albersfoundation.org/art/highlights/study-for-to-monte-alban",
+        "institution": "ヨゼフ＆アニ・アルバース財団"
+      },
+      {
+        "id": "PC_7008_Black_Mountain_College__.html",
+        "url": "https://appx.archives.ncdcr.gov/findingaids/PC_7008_Black_Mountain_College__.html",
+        "institution": "ノースカロライナ州公文書館"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "black-mountain-college-work-1",
+        "title": "Supine Dome（立ち上がらなかったドーム）の実験",
+        "creator": "R. Buckminster Fuller（バックミンスター・フラー）と学生・教員ら",
+        "date": "1948",
+        "reason": "失敗も含めて材料や構造を学んだ共同制作の例。1949年の別のドームと分ける。",
+        "look_for": "1948年の試みは立ち上がらず、翌年には別の実験が行われました。写真の年によって写っている実験が違います。",
+        "domain": "共同制作・建築実験",
+        "source_url": "https://www.blackmountaincollege.org/buckminster-fuller/",
+        "institution": "ブラック・マウンテン・カレッジ美術館・アートセンター",
+        "evidence": "https://www.blackmountaincollege.org/buckminster-fuller/",
+        "reading_intro": {
+          "heading": "立ち上がらなかったドーム",
+          "lead": [
+            "失敗も含めて材料や構造を学んだ共同制作の例。1949年の別のドームと分ける。"
+          ]
+        },
+        "title_ja": "立ち上がらなかったドーム"
+      },
+      {
+        "id": "black-mountain-college-work-2",
+        "title": "Theater Piece No. 1（シアター・ピース第1番）",
+        "creator": "John Cage（ジョン・ケージ）ら。参加：David Tudor（デイヴィッド・チューダー）、M. C. Richards（M・C・リチャーズ）、Charles Olson（チャールズ・オルソン）、Merce Cunningham（マース・カニングハム）、Robert Rauschenberg（ロバート・ラウシェンバーグ）ほか",
+        "date": "1952",
+        "reason": "音楽・詩・踊り・美術が出会った実践。ひとりの作者による固定した物体ではない。",
+        "look_for": "当日の上演については、参加者の証言に違いがあります。後の再現と当日の記録は別の資料です。",
+        "domain": "共同上演",
+        "source_url": "https://www.blackmountaincollege.org/points-in-space/",
+        "institution": "ブラック・マウンテン・カレッジ美術館・アートセンター",
+        "evidence": "https://www.blackmountaincollege.org/points-in-space/",
+        "reading_intro": {
+          "heading": "シアター・ピース第1番",
+          "lead": [
+            "音楽・詩・踊り・美術が出会った実践。ひとりの作者による固定した物体ではない。"
+          ]
+        },
+        "title_ja": "シアター・ピース第1番"
+      },
+      {
+        "id": "black-mountain-college-work-3",
+        "title": "Study for To Monte Alban（《モンテ・アルバンへ》のための習作）",
+        "creator": "Josef Albers（ヨゼフ・アルバース）",
+        "date": "1941",
+        "reason": "在任期の教員による制作を知る比較例。学校の学生課題とは区別する。",
+        "look_for": "習作（しゅうさく。作品を考えるための試し描き）。1942年の版画とは別の作品。",
+        "domain": "ドローイング",
+        "source_url": "https://www.albersfoundation.org/art/highlights/study-for-to-monte-alban",
+        "institution": "ヨゼフ＆アニ・アルバース財団",
+        "evidence": "https://www.albersfoundation.org/art/highlights/study-for-to-monte-alban",
+        "reading_intro": {
+          "heading": "《モンテ・アルバンへ》のための習作",
+          "lead": [
+            "在任期の教員による制作を知る比較例。学校の学生課題とは区別する。"
+          ]
+        },
+        "title_ja": "《モンテ・アルバンへ》のための習作"
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1900-1949",
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "history",
+      "buckminster-fuller",
+      "points-in-space",
+      "study-for-to-monte-alban",
+      "PC_7008_Black_Mountain_College__.html"
+    ]
+  },
+  {
+    "name": "Psychedelic Art",
+    "title_ja": "サイケデリック・アート",
+    "slug": "psychedelic-art",
+    "type": "視覚表現の潮流（ここでは音楽ポスターを中心に扱う）",
+    "period": "主に1960年代後半",
+    "region": "米国・英国を中心に扱う",
+    "summary": "うねる文字、ぶつかり合う色、すき間を埋める模様。サイケデリック・アートは、いつもと違う感覚を思わせる表現です。1960年代には、ロックの演奏会のポスターにも広がりました。",
+    "context": "サンフランシスコやロンドンでは、音楽と若者の文化を伝える印刷物がつくられました。アール・ヌーヴォーの曲線も、新しい色や文字と組み合わせて使われました。すぐ読めることより、音楽の場へ引き込むような体験を大切にした例があります。",
+    "recognition": {
+      "color": "明るさが近い赤と緑などを隣に置くと、境目がちらつくように感じることがあります。色相（しきそう。赤や緑など色の種類）と明るさを分けて考えます。",
+      "type": "文字が大きくふくらんだり曲がったりして、絵の一部になります。読みにくさが、立ち止まって見るきっかけになることもあります。",
+      "form": "植物のような曲線や繰り返しを見ます。曲線だけで判定せず、文字や色との組み合わせを比べます。",
+      "composition": "余白を広く残すポスターと、画面をいっぱいに使うポスターを比べると、見るときの目の動きが変わります。"
+    },
+    "comparison": "アール・ヌーヴォーから形のヒントを得た例がありますが、制作された時代も音楽との関係も違います。ポーランドのポスターにも近い形がありますが、同じ集団ではありません。",
+    "modern": "同じ文字を赤と緑、黒と白で並べて見比べましょう。目立つことと読みやすいことは、いつも同じではありません。",
+    "reading_intro": {
+      "heading": "読む前に、目が動き出すポスター。",
+      "lead": [
+        "うねる文字、ぶつかり合う色、すき間を埋める模様。サイケデリック・アートは、いつもと違う感覚を思わせる表現です。1960年代には、ロックの演奏会のポスターにも広がりました。"
+      ]
+    },
+    "representativeness_limit": "ここに挙げた作品は、考え方やつくり方の違いを比べるための例です。この分野の全地域・全時代を網羅するものではありません。",
+    "sources": [
+      {
+        "id": "remembering-wes-wilson-1937-2020",
+        "url": "https://www.cooperhewitt.org/2020/01/31/remembering-wes-wilson-1937-2020/",
+        "institution": "クーパー・ヒューイット国立デザイン博物館"
+      },
+      {
+        "id": "a-short-history-of-the-poster",
+        "url": "https://www.vam.ac.uk/articles/a-short-history-of-the-poster",
+        "institution": "ヴィクトリア＆アルバート博物館"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "psychedelic-art-work-1",
+        "title": "The Associationの演奏会ポスター",
+        "creator": "Wes Wilson（ウェス・ウィルソン）",
+        "date": "1966",
+        "reason": "美術館が赤と緑の境界や手描き文字を具体的に解説する例。",
+        "look_for": "ふくらんだ文字と背景の色の関係。",
+        "domain": "音楽ポスター",
+        "source_url": "https://www.cooperhewitt.org/2020/01/31/remembering-wes-wilson-1937-2020/",
+        "institution": "クーパー・ヒューイット国立デザイン博物館",
+        "title_ja": "アソシエーションの演奏会ポスター",
+        "evidence": "https://www.cooperhewitt.org/2020/01/31/remembering-wes-wilson-1937-2020/",
+        "reading_intro": {
+          "heading": "アソシエーションの演奏会ポスター",
+          "lead": [
+            "美術館が赤と緑の境界や手描き文字を具体的に解説する例。"
+          ]
+        }
+      },
+      {
+        "id": "psychedelic-art-work-2",
+        "title": "Otis Rush",
+        "creator": "Wes Wilson（ウェス・ウィルソン）",
+        "date": "1967",
+        "reason": "ヴィクトリア＆アルバート博物館のポスター史が挙げる米国の例。英国のシルクスクリーン印刷と比較できる。",
+        "look_for": "オフセット印刷。版のインクをいったんゴムの面に移し、そこから紙に刷る方法です。",
+        "domain": "音楽ポスター",
+        "source_url": "https://www.vam.ac.uk/articles/a-short-history-of-the-poster",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title_ja": "オーティス・ラッシュ",
+        "evidence": "https://www.vam.ac.uk/articles/a-short-history-of-the-poster",
+        "reading_intro": {
+          "heading": "オーティス・ラッシュ",
+          "lead": [
+            "ヴィクトリア＆アルバート博物館のポスター史が挙げる米国の例。英国のシルクスクリーン印刷と比較できる。"
+          ]
+        }
+      },
+      {
+        "id": "psychedelic-art-work-3",
+        "title": "CIA v UFO",
+        "creator": "Michael English（マイケル・イングリッシュ）、Nigel Waymouth（ナイジェル・ウェイマス）",
+        "date": "1967",
+        "reason": "ハプシャッシュ・アンド・ザ・カラード・コートによる英国の例。米国だけで説明しないために取り上げる。",
+        "look_for": "シルクスクリーン。細かな網を通してインクを紙にのせる印刷。",
+        "domain": "音楽ポスター",
+        "source_url": "https://www.vam.ac.uk/articles/a-short-history-of-the-poster",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title_ja": "シーアイエー・ヴァーサス・ユーエフオー",
+        "evidence": "https://www.vam.ac.uk/articles/a-short-history-of-the-poster",
+        "reading_intro": {
+          "heading": "シーアイエー・ヴァーサス・ユーエフオー",
+          "lead": [
+            "ハプシャッシュ・アンド・ザ・カラード・コートによる英国の例。米国だけで説明しないために取り上げる。"
+          ]
+        }
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "remembering-wes-wilson-1937-2020",
+      "a-short-history-of-the-poster"
+    ]
+  },
+  {
+    "name": "Streamline Moderne",
+    "title_ja": "ストリームライン・モダン",
+    "slug": "streamline-moderne",
+    "type": "歴史的な様式・潮流（建築と製品の流線型を区別して扱う）",
+    "period": "主に1930年代。個別の製品は1940年代以後も製造",
+    "region": "今回の本文は米国の建築・工業製品を中心に扱う。世界全体の成立史は未検証",
+    "summary": "動かない建物や、止まっている掃除機が、まるで走り出しそうに見える。なぜでしょう？ ストリームライン・モダンは、丸い角やなめらかな面、横へ伸びる線によって、新しい時代の速さを感じさせる様式です。ただし、流線型（りゅうせんけい。空気や水の抵抗を減らす、なめらかな形）に見えることと、実際に速く動けることは別です。",
+    "context": "1930年代の米国では、飛行機や自動車、列車だけでなく、家の中で使う道具にも流線型が取り入れられました。建物にも、船を思わせる丸窓や手すりが登場します。未来への期待を形にする一方で、使いやすさにつながる工夫もありました。クーパー・ヒューイット国立デザイン博物館が紹介する肉切り機《ストリームライナー》のモデル410では、機械の部品を滑らかな外側の覆いに収め、掃除をしやすくしています。見た目と働きが、同じ形の中で出会うのです。",
+    "recognition": {
+      "color": "光沢のある金属や塗装の面に注目します。ただし、銀色でなければこの様式ではない、という決まりはありません。材料と表面の仕上げを、作品ごとに確かめましょう。",
+      "type": "この様式に共通する、決まった書体は定めません。建物の看板や製品の名前を見るときは、文字の形だけでなく、横へ伸びる線との関係も比べてみましょう。これは観察のための問いで、当時の共通規則を示すものではありません。",
+      "form": "丸い角、連続する曲面、船のような丸窓や手すりが手がかりです。アクアティック・パークの浴場では、曲がる外壁と丸窓が使われています。似た形が一つあるだけで、様式を決めないようにします。",
+      "composition": "横に続く線や、部品を一つの滑らかな外形にまとめる仕組みを見ます。『速そうに見せるため？ 掃除や使い方のため？』と、目的を分けて考えると面白くなります。"
+    },
+    "comparison": "アール・デコとは、きっぱり分かれた別世界ではありません。フリスト美術館はストリームライン・モダンをアール・デコの新しい展開として説明しています。ここでは、アール・デコの幅広い装飾や材料の工夫のうち、流線型が建築や製品に広がった面を詳しく見ます。『アール・デコは飾る、こちらは飾らない』という二択にはしません。",
+    "modern": "いまの製品でも、丸みや光沢によって速さや新しさを感じることがあります。ただし、それだけで1930年代から直接受け継がれたとは言えません。形が似ているという観察と、歴史的なつながりが資料で確認できることを分けて考えましょう。",
+    "reading_intro": {
+      "heading": "止まっているのに、走り出しそう。",
+      "lead": [
+        "丸い角。横へ長く続く線。船のような丸い窓。",
+        "1930年代のアメリカでは、建物や身近な道具にも、速さを感じさせる形が広がりました。",
+        "これを、ストリームライン・モダンと呼びます。",
+        "速そうに見えることと、本当に速く動くことは別。形の工夫を比べてみましょう。"
+      ]
+    },
+    "reader_glossary": [
+      {
+        "term": "流線型",
+        "reading": "りゅうせんけい",
+        "explanation": "空気や水の抵抗を小さくする、なめらかな形。見た目だけに取り入れることもあります。"
+      },
+      {
+        "term": "工業製品",
+        "reading": "こうぎょうせいひん",
+        "explanation": "工場でつくる道具や機械など。"
+      },
+      {
+        "term": "外壁",
+        "reading": "がいへき",
+        "explanation": "建物の外側にある壁。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "streamline-source-0",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2000/american-modern",
+        "institution": "メトロポリタン美術館"
+      },
+      {
+        "id": "streamline-source-1",
+        "url": "https://fristartmuseum.org/american-art-deco-exhibition-panels-and-labels/",
+        "institution": "フリスト美術館"
+      },
+      {
+        "id": "streamline-source-2",
+        "url": "https://www.cooperhewitt.org/2014/09/07/a-slice-of-design-from-the-local-deli/",
+        "institution": "クーパー・ヒューイット国立デザイン博物館"
+      },
+      {
+        "id": "streamline-source-3",
+        "url": "https://www.nps.gov/safr/learn/historyculture/aquatic-park-bathhouse.htm",
+        "institution": "米国国立公園局"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "streamline-moderne-work-1",
+        "title": "Aquatic Park Bathhouse（アクアティック・パーク浴場、現在の海事博物館）",
+        "creator": "William Mooser III（ウィリアム・ムーザー3世）（設計）、William Mooser II（ウィリアム・ムーザー2世）（監督）—NPS現行本文の表記に従う",
+        "date": "1936–1939年建設、1939年1月22日落成式",
+        "reason": "米国国立公園局がこの建物をストリームライン・モダンと明記。工業製品の流線型とは違い、動かない建物が船を思わせる例として比較する。",
+        "look_for": "曲がる外壁、丸窓、ステンレスの手すり。建物そのものと、内部の壁画の作者を区別する。",
+        "domain": "建築",
+        "source_url": "https://www.nps.gov/safr/learn/historyculture/aquatic-park-bathhouse.htm",
+        "institution": "米国国立公園局",
+        "evidence": "https://www.nps.gov/safr/learn/historyculture/aquatic-park-bathhouse.htm",
+        "reading_intro": {
+          "heading": "アクアティック・パーク浴場、現在の海事博物館",
+          "lead": [
+            "米国国立公園局がこの建物をストリームライン・モダンと明記。工業製品の流線型とは違い、動かない建物が船を思わせる例として比較する。"
+          ]
+        },
+        "title_ja": "アクアティック・パーク浴場、現在の海事博物館"
+      },
+      {
+        "id": "streamline-moderne-work-2",
+        "title": "Electrolux Cannister Vacuum Cleaner, model no. 30",
+        "creator": "Lurelle van Arsdale Guild（ルレル・ヴァン・アーズデール・ギルド）（デザイン）、Electrolux Corporation（エレクトロラックス）（製造）",
+        "date": "1937年頃（デトロイト美術館所蔵個体の記録）",
+        "reason": "メトロポリタン美術館の展覧会解説が、流線型を生活用品へ応用した例としてこのモデルを挙げる。個体情報はデトロイト美術館で別に確認した。",
+        "look_for": "流れるような外形ですが、実際には人が引いて動かす掃除機です。速そうな見た目と使い方を比べてみましょう。",
+        "domain": "工業製品",
+        "source_url": "https://dia.org/collection/electrolux-cannister-vacuum-cleaner-model-no-30/119436",
+        "institution": "デトロイト美術館",
+        "title_ja": "エレクトロラックスの掃除機、モデル30",
+        "evidence": "https://dia.org/collection/electrolux-cannister-vacuum-cleaner-model-no-30/119436",
+        "reading_intro": {
+          "heading": "エレクトロラックスの掃除機、モデル30",
+          "lead": [
+            "メトロポリタン美術館の展覧会解説が、流線型を生活用品へ応用した例としてこのモデルを挙げる。個体情報はデトロイト美術館で別に確認した。"
+          ]
+        }
+      },
+      {
+        "id": "streamline-moderne-work-3",
+        "title": "\"Streamliner\" Meat slicer",
+        "creator": "Egmont Hegel Arens（エグモント・ヘーゲル・アーレンス）、Theodore C. Brookhart（セオドア・C・ブルックハート）、David Anderson Meeker（デイヴィッド・アンダーソン・ミーカー）（Met個体のデザイナー表記）、Hobart Manufacturing Company（ホバート製造会社）（製造）",
+        "date": "1940年（メトロポリタン美術館所蔵個体の記録）",
+        "reason": "メトロポリタン美術館の展覧会とクーパー・ヒューイット国立デザイン博物館の学芸員解説が流線型の具体例として扱う。形を滑らかにすることが、清掃のしやすさにつながる比較例。",
+        "look_for": "丸い刃、肉を載せる台、内部の仕組みを包む滑らかな覆いに注目してください。",
+        "domain": "工業製品",
+        "source_url": "https://www.metmuseum.org/art/collection/search/490711",
+        "institution": "メトロポリタン美術館",
+        "title_ja": "ストリームライナー：肉を薄く切る機械",
+        "evidence": "https://www.metmuseum.org/art/collection/search/490711",
+        "reading_intro": {
+          "heading": "ストリームライナー：肉を薄く切る機械",
+          "lead": [
+            "メトロポリタン美術館の展覧会とクーパー・ヒューイット国立デザイン博物館の学芸員解説が流線型の具体例として扱う。形を滑らかにすることが、清掃のしやすさにつながる比較例。"
+          ]
+        }
+      }
+    ],
+    "adopted_images": [
+      {
+        "id": "nps-aquatic-park-bathhouse",
+        "entry": "Streamline Moderne",
+        "author": "ウィリアム・ムーザー3世（設計）／2世（監督）",
+        "title": "アクアティック・パーク浴場（現在の海事博物館）",
+        "year": "1936–1939年建設",
+        "institution": "米国国立公園局（NPS）",
+        "source_page": "https://www.nps.gov/safr/planyourvisit/maritime-museum.htm",
+        "image_url": "https://www.nps.gov/safr/planyourvisit/images/SAFR_MaritimeMuseum_AquaticParkBathhouse_NPSCFenton_092024.jpg",
+        "photo_author": "NPS / C. Fenton",
+        "photo_date": "撮影日未確認",
+        "license": "米国政府作成写真（Public Domain）。CC0ではありません。",
+        "license_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+        "credit": "Aquatic Park Bathhouse, 1936–1939. Photo: NPS / C. Fenton.",
+        "alt": "海に面した白い建物。丸い角、横に続く窓と手すり、その前の階段が見える。",
+        "underlying_work_rights": "1939年完成の建築。原建築・現代の写真・内部の壁画は別に扱います。",
+        "reproduction_rights": "公式個別画像のNPS/C. Fentonクレジットと、NPS作成資料の利用方針を確認。",
+        "territory_note": "米国政府作品の表示に基づく利用です。全法域での自由利用を保証するものではありません。",
+        "visual_notes": [
+          {
+            "title": "海に向かって、横に広がる。",
+            "text": "丸みのある角と、横に続く窓を見ます。海のそばにある大きな船のような印象を、どこから感じるでしょう。"
+          }
+        ],
+        "work_id": "aquatic-park-bathhouse",
+        "local_file": "assets/lineage-aquatic-park-bathhouse.jpg",
+        "local_bytes": 452972,
+        "width": 1600,
+        "height": 1197,
+        "sha256": "7cc1e437e55529a45c65c937529a9065d7e13024f17c0d4bc95e8d3b55762456",
+        "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
+        "status": "adopted_local_image"
+      }
+    ],
+    "image_count_acquired": 1,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1900-1949"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "streamline-source-0",
+      "streamline-source-1",
+      "streamline-source-2",
+      "streamline-source-3"
+    ]
+  },
+  {
+    "name": "Polish Poster School",
+    "title_ja": "ポーランド・ポスター派",
+    "slug": "polish-poster-school",
+    "type": "ポスター制作の潮流（ひとつの学校名ではない）",
+    "period": "主に1950–70年代",
+    "region": "ポーランド",
+    "summary": "映画や演劇を、一枚の絵でどう伝えるでしょう。ポーランド・ポスター派は、物語をそのまま描くより、手描きの形や思いがけない組み合わせで見る人に考えさせた、ポスター制作の潮流です。名前に「派」とあっても、全員が同じ描き方をした団体ではありません。",
+    "context": "戦後のポーランドでは、文化行事のポスターが多くつくられました。ザヘンタ国立美術館は、手描きの文字、絵画のような表現、写真の切り貼りなど、作家ごとの違いを説明しています。学校の授業を指す名前と混同しないようにします。",
+    "recognition": {
+      "color": "鮮やかな色も、限られた色もあります。作品ごとに、まず何が目に入るかを比べます。",
+      "type": "整った活字だけでなく、作者が手で描いた文字にも注目します。文字の表情が絵とどう合うかを見ます。",
+      "form": "比喩（ひゆ。別のものにたとえて伝えること）が大切です。《ノー！（Nie!）》では、戦争への拒否を短い言葉と図で伝えます。",
+      "composition": "出演者の写真を並べる方法と、ひとつの強い形にしぼる方法を比べましょう。"
+    },
+    "comparison": "サイケデリックなポスターと見た目が重なる例もあります。ただし、ロックの演奏会と、ポーランドの映画・演劇・政治的なポスターでは、つくられた目的や社会の事情が違います。",
+    "modern": "好きな物語を、人物を描かずに一つの物と短い言葉で伝えてみましょう。何を残し、何を省くと伝わるかを考えます。",
+    "reading_intro": {
+      "heading": "あらすじを見せずに、心を動かす。",
+      "lead": [
+        "映画や演劇を、一枚の絵でどう伝えるでしょう。ポーランド・ポスター派は、物語をそのまま描くより、手描きの形や思いがけない組み合わせで見る人に考えさせた、ポスター制作の潮流です。名前に「派」とあっても、全員が同じ描き方をした団体ではありません。"
+      ]
+    },
+    "representativeness_limit": "ここに挙げた作品は、考え方やつくり方の違いを比べるための例です。この分野の全地域・全時代を網羅するものではありません。",
+    "sources": [
+      {
+        "id": "polska-szkola-plakatu",
+        "url": "https://zacheta.art.pl/pl/mediateka-i-publikacje/polska-szkola-plakatu",
+        "institution": "ザヘンタ国立美術館"
+      },
+      {
+        "id": "7792",
+        "url": "https://www.moma.org/collection/works/7792",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "7203",
+        "url": "https://www.moma.org/collection/works/7203",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "5191",
+        "url": "https://www.moma.org/collection/works/5191",
+        "institution": "ニューヨーク近代美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "polish-poster-school-work-1",
+        "title": "Nie!（ノー！）",
+        "creator": "Tadeusz Trepkowski（タデウシュ・トレプコフスキ）",
+        "date": "1952",
+        "reason": "戦争による破壊の記憶と平和への訴えを、簡潔な画面にまとめた例。",
+        "look_for": "短い言葉と図が一緒に伝える意味。",
+        "domain": "ポスター",
+        "source_url": "https://www.moma.org/collection/works/7792",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/7792",
+        "reading_intro": {
+          "heading": "ノー！",
+          "lead": [
+            "戦争による破壊の記憶と平和への訴えを、簡潔な画面にまとめた例。"
+          ]
+        },
+        "title_ja": "ノー！"
+      },
+      {
+        "id": "polish-poster-school-work-2",
+        "title": "Wozzeck（ヴォツェック）",
+        "creator": "Jan Lenica（ヤン・レニツァ）",
+        "date": "1964",
+        "reason": "登場人物の苦しみを、説明的な舞台写真ではなく強い造形に置き換えた例。",
+        "look_for": "ポスター制作年1964と、オペラ作曲の年代を区別する。",
+        "domain": "オペラのポスター",
+        "source_url": "https://www.moma.org/collection/works/7203",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/7203",
+        "reading_intro": {
+          "heading": "ヴォツェック",
+          "lead": [
+            "登場人物の苦しみを、説明的な舞台写真ではなく強い造形に置き換えた例。"
+          ]
+        },
+        "title_ja": "ヴォツェック"
+      },
+      {
+        "id": "polish-poster-school-work-3",
+        "title": "Strawinski Persefona（ストラヴィンスキー《ペルセフォーヌ》）",
+        "creator": "Roman Cieslewicz（ロマン・チェシレヴィチ）",
+        "date": "1961",
+        "reason": "同じ文化公演のポスターでも、レニツァとは違う作家の表現を比べられる。",
+        "look_for": "文字の扱いと画面の中心になる形。",
+        "domain": "舞台公演のポスター",
+        "source_url": "https://www.moma.org/collection/works/5191",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/5191",
+        "reading_intro": {
+          "heading": "ストラヴィンスキー《ペルセフォーヌ》",
+          "lead": [
+            "同じ文化公演のポスターでも、レニツァとは違う作家の表現を比べられる。"
+          ]
+        },
+        "title_ja": "ストラヴィンスキー《ペルセフォーヌ》"
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "polska-szkola-plakatu",
+      "7792",
+      "7203",
+      "5191"
+    ]
+  },
+  {
+    "name": "Surrealism",
+    "title_ja": "シュルレアリスム（超現実主義）",
+    "slug": "surrealism",
+    "type": "美術・文学の運動",
+    "period": "1924年の宣言を重要な節目として、1920–30年代を中心に扱う",
+    "region": "フランスから国際的に展開",
+    "summary": "時計がやわらかく曲がり、カップが毛皮に包まれる。シュルレアリスムは、夢や、ふだん意識していない心の動きを手がかりに、当たり前の見方を問い直した運動です。日本語では超現実主義（ちょうげんじつしゅぎ）とも呼びます。",
+    "context": "詩人アンドレ・ブルトンは1924年に宣言を発表しました。絵だけでなく文学や立体作品にも広がりました。夢のような景色を細かく描く方法も、普段は出会わない物を組み合わせる方法もあります。ひとつの描き方の名前ではありません。",
+    "recognition": {
+      "color": "決まった配色はありません。現実にありそうな色でも、物の形や組み合わせが変わると不思議に感じるかを見ます。",
+      "type": "共通の書体がある運動ではありません。題名が作品の読み方をどう変えるかにも注目できます。",
+      "form": "《オブジェ》では、飲むためのカップと、口に入れると困る毛皮が出会います。目で見る形と、想像する手ざわりを比べます。",
+      "composition": "《脅かされる暗殺者》は、部屋と人の配置から事件を想像させます。それでも、何が起こったかを一つの答えに決められない場面です。"
+    },
+    "comparison": "ダダと人や考えのつながりがありますが、同じ運動ではありません。また、変わった広告や生成画像をすべてシュルレアリスムと呼ぶと、当時の文学や思想との関係が見えなくなります。",
+    "modern": "身近な二つの物を、ふだんは置かない組み合わせで並べてみましょう。形は普通でも、関係を変えると不思議な場面が生まれます。",
+    "reading_intro": {
+      "heading": "いつもの物が、知らない世界への入口になる。",
+      "lead": [
+        "時計がやわらかく曲がり、カップが毛皮に包まれる。シュルレアリスムは、夢や、ふだん意識していない心の動きを手がかりに、当たり前の見方を問い直した運動です。日本語では超現実主義（ちょうげんじつしゅぎ）とも呼びます。"
+      ]
+    },
+    "representativeness_limit": "ここに挙げた作品は、考え方やつくり方の違いを比べるための例です。この分野の全地域・全時代を網羅するものではありません。",
+    "sources": [
+      {
+        "id": "79018",
+        "url": "https://www.moma.org/collection/works/79018/",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "80997",
+        "url": "https://www.moma.org/collection/works/80997/",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "79267",
+        "url": "https://www.moma.org/collection/works/79267/",
+        "institution": "ニューヨーク近代美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "surrealism-work-1",
+        "title": "The Persistence of Memory（記憶の固執）",
+        "creator": "Salvador Dalí（サルバドール・ダリ）",
+        "date": "1931",
+        "reason": "硬い時計がやわらかくなる場面を、細かな描写で見せる代表例。",
+        "look_for": "時計の性質と、現実らしい風景の描き方のずれ。",
+        "domain": "絵画",
+        "source_url": "https://www.moma.org/collection/works/79018/",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/79018/",
+        "reading_intro": {
+          "heading": "記憶の固執",
+          "lead": [
+            "硬い時計がやわらかくなる場面を、細かな描写で見せる代表例。"
+          ]
+        },
+        "title_ja": "記憶の固執"
+      },
+      {
+        "id": "surrealism-work-2",
+        "title": "Object（オブジェ）",
+        "creator": "Meret Oppenheim（メレット・オッペンハイム）",
+        "date": "1936",
+        "reason": "日用品と毛皮の組み合わせが、使い方と感覚を変えてしまう例。絵画以外への広がりを示す。",
+        "look_for": "カップ・受け皿・スプーンという一組の道具。",
+        "domain": "立体作品",
+        "source_url": "https://www.moma.org/collection/works/80997/",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/80997/",
+        "reading_intro": {
+          "heading": "オブジェ",
+          "lead": [
+            "日用品と毛皮の組み合わせが、使い方と感覚を変えてしまう例。絵画以外への広がりを示す。"
+          ]
+        },
+        "title_ja": "オブジェ"
+      },
+      {
+        "id": "surrealism-work-3",
+        "title": "The Menaced Assassin（脅かされる暗殺者）",
+        "creator": "René Magritte（ルネ・マグリット）",
+        "date": "1927",
+        "reason": "見慣れた室内や服装を描きながら、筋道の定まらない物語をつくる例。",
+        "look_for": "部屋の内外と人の位置。",
+        "domain": "絵画",
+        "source_url": "https://www.moma.org/collection/works/79267/",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/79267/",
+        "reading_intro": {
+          "heading": "脅かされる暗殺者",
+          "lead": [
+            "見慣れた室内や服装を描きながら、筋道の定まらない物語をつくる例。"
+          ]
+        },
+        "title_ja": "脅かされる暗殺者"
+      }
+    ],
+    "reader_glossary": [
+      {
+        "term": "記憶の固執",
+        "reading": "きおくのこしつ",
+        "explanation": "覚えていることが、心から離れず残り続けることを思わせる題名。"
+      },
+      {
+        "term": "脅かされる暗殺者",
+        "reading": "おびやかされるあんさつしゃ",
+        "explanation": "人をひそかに殺す者が、今度は危険にさらされている、という意味の題名。"
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1900-1949"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "79018",
+      "80997",
+      "79267"
+    ]
+  },
+  {
+    "name": "Jugendstil",
+    "title_ja": "ユーゲントシュティール",
+    "slug": "jugendstil",
+    "type": "Art Nouveauの地域的な呼称・展開（独立した別運動として数えない）",
+    "period": "19世紀末から20世紀初めを中心に扱う。1896年は雑誌の創刊年で、様式全体の発明年ではない",
+    "region": "ここではドイツ、とくにミュンヘンとダルムシュタットの例を扱う",
+    "summary": "ユーゲントシュティールは、アール・ヌーヴォーのドイツでの呼び名です。まったく別の流行がもう一つ生まれた、という意味ではありません。新しい暮らしに合う形を、絵や印刷物だけでなく建物や工芸にも広げようとした動きとして見てみましょう。",
+    "context": "名前は、ミュンヘンで1896年に創刊された雑誌『ユーゲント』に由来します。雑誌は新しい表現を紹介する場で、展示会や工房も活動を支えました。一方、ダルムシュタットでは1899年に芸術家村がつくられ、1901年の展覧会で建築や工芸が紹介されました。雑誌、芸術家村、個々の建物の年は、それぞれ別に覚えます。",
+    "recognition": {
+      "color": "決まった色の組み合わせはありません。印刷の色と、建物や工芸の材料の色を分けて見ます。",
+      "type": "共通の書体一つで判断せず、作品名や文字と図が置かれた場所を確かめます。",
+      "form": "《接吻》では、からみ合う髪が曲線の模様になります。人物を細かく写すより、輪郭と平たい形が強く感じられる例です。",
+      "composition": "一つの模様だけで判定せず、画面全体や建物全体で形がどう組み合わされるかを見ます。これは観察の手順であり、全作品共通の規則ではありません。"
+    },
+    "comparison": "アール・ヌーヴォーは国境をこえた広い呼び名、ユーゲントシュティールはここで扱うドイツでの展開です。ウィーン分離派は、作品を展示・発表した芸術家の団体。人や表現のつながりはあっても、この三つを同じ種類の名前として並べたり、互いに無関係な流行として数えたりしません。",
+    "modern": "本の表紙や包装を見て、文字と絵の曲線がつながっている場所を探してみましょう。飾りが読みやすさや印象をどう変えるかを比べます。",
+    "reading_intro": {
+      "heading": "雑誌から、建物や暮らしへ。",
+      "lead": [
+        "ユーゲントシュティールは、アール・ヌーヴォーのドイツでの呼び名です。",
+        "名前のもとになったのは、1896年に始まった雑誌『ユーゲント』。",
+        "新しい形を、絵や印刷物だけでなく、建物や暮らしの道具にも広げようとしました。",
+        "別の流行がもう一つ生まれた、と数えるのではなく、地域ごとのつながりを見てみましょう。"
+      ]
+    },
+    "reader_glossary": [
+      {
+        "term": "創刊",
+        "reading": "そうかん",
+        "explanation": "雑誌や新聞の最初の号を出すこと。"
+      },
+      {
+        "term": "工芸",
+        "reading": "こうげい",
+        "explanation": "器や家具など、暮らしに使うものを、材料や形を工夫してつくること。"
+      },
+      {
+        "term": "輪郭",
+        "reading": "りんかく",
+        "explanation": "ものの外側を囲む線。"
+      }
+    ],
+    "representativeness_limit": "ドイツでの版画・建築に、国をまたぐ広告の比較例を加えました。地域全体の工芸や出版の多様さを、この3件だけで網羅するものではありません。",
+    "sources": [
+      {
+        "id": "vam-international",
+        "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+        "institution": "ヴィクトリア＆アルバート博物館"
+      },
+      {
+        "id": "dinge-style-turn",
+        "url": "https://museumderdinge.de/ueber-uns/deutscher-werkbund/forschung-zum-deutschen-werkbund/die-vorbereitung-der-stilwende-um-1900/",
+        "institution": "モノの博物館"
+      },
+      {
+        "id": "darmstadt-mathildenhoehe",
+        "url": "https://www.darmstadt.de/kultur/mathildenhoehe-darmstadt",
+        "institution": "ダルムシュタット市"
+      },
+      {
+        "id": "prior-darmstadt-history",
+        "url": "https://www.darmstadt.de/kultur/stadtgeschichte/stadtgeschichte-im-ueberblick/das-19-jahrhundert",
+        "institution": "ダルムシュタット市"
+      },
+      {
+        "id": "nelson-kiss",
+        "url": "https://art.nelson-atkins.org/objects/5025/the-kiss",
+        "institution": "ネルソン＝アトキンス美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "id": "behrens-kiss-nelson",
+        "title": "The Kiss（Der Kuss／接吻）",
+        "creator": "Peter Behrens（ペーター・ベーレンス）",
+        "date": "1898",
+        "medium": "6色木版",
+        "accession": "F86-16",
+        "edition": "雑誌『パン』第4巻第2号（1898年）掲載。ネルソン＝アトキンス美術館の所蔵品F86-16の記録に基づきます。",
+        "reason": "からみ合う髪を曲線の模様として表し、人物の輪郭と平面性を一緒に見られる例。",
+        "look_for": "陰影をつけず、色と輪郭で人物と髪を表す。",
+        "domain": "版画",
+        "source_url": "https://art.nelson-atkins.org/objects/5025/the-kiss",
+        "institution": "ネルソン＝アトキンス美術館",
+        "evidence": "https://art.nelson-atkins.org/objects/5025/the-kiss",
+        "reading_intro": {
+          "heading": "Der Kuss／接吻",
+          "lead": [
+            "からみ合う髪を曲線の模様として表し、人物の輪郭と平面性を一緒に見られる例。"
+          ]
+        },
+        "title_ja": "Der Kuss／接吻"
+      },
+      {
+        "id": "tropon-vam",
+        "title": "Poster advertising Tropon",
+        "creator": "Henri van de Velde（アンリ・ヴァン・デ・ヴェルデ）",
+        "date": "1898",
+        "medium": "ポスター（個別技法は未確認）",
+        "accession": "CIRC.992-1967",
+        "reason": "ベルギーの作家がドイツ企業の広告をつくった例です。曲線を使う新しい表現が、国境をこえて広がったことがわかります。",
+        "look_for": "ドイツ企業の広告ですが、美術館はベルギーの作品として紹介しています。作者の国と依頼主の国は同じとは限りません。",
+        "domain": "ポスター",
+        "source_url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title_ja": "トロポンの広告ポスター",
+        "evidence": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+        "reading_intro": {
+          "heading": "トロポンの広告ポスター",
+          "lead": [
+            "ベルギーの作家がドイツ企業の広告をつくった例です。曲線を使う新しい表現が、国境をこえて広がったことがわかります。"
+          ]
+        }
+      },
+      {
+        "id": "ernst-ludwig-haus",
+        "title": "Ernst Ludwig-Haus",
+        "creator": "Joseph Maria Olbrich（ヨーゼフ・マリア・オルブリヒ）（建築）",
+        "date": "1901",
+        "medium": "建築",
+        "accession": null,
+        "reason": "芸術家が使う建物にも、新しい形が広がった例です。版画と建築を比べると、活動の幅が見えてきます。",
+        "look_for": "建物と入口の彫刻は、別の作者が担当しています。今の外観写真には、建設後の変化も含まれます。",
+        "domain": "建築",
+        "source_url": "https://www.darmstadt.de/kultur/mathildenhoehe-darmstadt",
+        "institution": "ダルムシュタット市",
+        "title_ja": "エルンスト・ルートヴィヒ館",
+        "evidence": "https://www.darmstadt.de/kultur/mathildenhoehe-darmstadt",
+        "reading_intro": {
+          "heading": "エルンスト・ルートヴィヒ館",
+          "lead": [
+            "芸術家が使う建物にも、新しい形が広がった例です。版画と建築を比べると、活動の幅が見えてきます。"
+          ]
+        }
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1800-1899",
+      "1900-1949"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "vam-international",
+      "dinge-style-turn",
+      "darmstadt-mathildenhoehe",
+      "prior-darmstadt-history",
+      "nelson-kiss"
+    ]
+  },
+  {
+    "name": "Scandinavian Modern",
+    "title_ja": "北欧モダン",
+    "slug": "scandinavian-modern",
+    "type": "地域を横断するデザインの潮流・呼称",
+    "period": "1930年代–1960年代を中心に紹介。スカンディナヴィアン・デザインという呼称の国際的な宣伝は1950年代に拡大",
+    "region": "北欧。ここではフィンランドとデンマークの家具・建築を紹介",
+    "summary": "木を曲げた椅子。体を包む椅子。人が集まる町役場。北欧モダンでは、暮らしや体に合う形を、材料とつくり方から考えます。木だけを使う決まりではなく、プラスチックなど新しい材料も使いました。",
+    "context": "北欧のデザインは、職人の仕事と工場の技術を組み合わせて発展しました。1950年代には展示会や宣伝を通して世界へ広がります。ただし「北欧らしさ」は、自然から勝手に生まれた一つの形ではありません。国やつくり手の違いがあり、米国などとの交流もありました。フィンランドを含む広い「北欧」の意味で、この名前が使われることがあります。",
+    "recognition": {
+      "color": "木やれんがの色と、革や塗装の色を分けて見ましょう。白と木目だけに決まっているわけではありません。",
+      "type": "家具の名前や宣伝の文字だけで分類はできません。この項目では、書体よりも材料と使い方を中心に見ます。",
+      "form": "《パイミオ・チェア》の曲げた板と、《エッグ・チェア》の体を包む形を比べましょう。似た丸みでも、材料と組み立て方は違います。",
+      "composition": "椅子では体を支える部分と脚、町役場では階段・中庭・部屋の位置を見ます。使う人の動きが、形とどうつながるでしょう。"
+    },
+    "comparison": "ミッドセンチュリー・モダンと年代や作品が重なります。北欧モダンは地域のつながりに注目する名前、ミッドセンチュリー・モダンは20世紀半ばの広いデザインを扱う名前です。二つを対立する流行とは考えません。",
+    "modern": "いまの家具を見るときも、見た目の温かさだけでなく、体をどう支えるか、材料をどうつなぐかを確かめましょう。長く使えるかを考える入口にもなります。",
+    "reading_intro": {
+      "heading": "体と暮らしに合う形を探す。",
+      "lead": [
+        "木を曲げた椅子。",
+        "体を包む椅子。",
+        "人が集まる町役場。",
+        "北欧モダンでは、暮らしや体に合う形を、材料とつくり方から考えます。",
+        "木だけを使う決まりではなく、プラスチックなど新しい材料も使いました。"
+      ]
+    },
+    "reader_glossary": [
+      {
+        "term": "構造",
+        "reading": "こうぞう",
+        "explanation": "ものを支える部分や、それらの組み合わせ方。"
+      },
+      {
+        "term": "部材",
+        "reading": "ぶざい",
+        "explanation": "建物や家具を組み立てる、一つひとつの材料や部品。"
+      }
+    ],
+    "representativeness_limit": "北欧全体を4件で代表させません。フィンランド・デンマークの家具と建築に絞った入口です。",
+    "sources": [
+      {
+        "id": "nationalmuseum-scandi",
+        "url": "https://www.nationalmuseum.se/en/scandinavian-design-och-usa-1890-1980",
+        "institution": "スウェーデン国立美術館"
+      },
+      {
+        "id": "moma-paimio",
+        "url": "https://www.moma.org/collection/works/92879",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "moma-wegner",
+        "url": "https://www.moma.org/collection/works/4041",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "met-egg",
+        "url": "https://www.metmuseum.org/art/collection/search/489205",
+        "institution": "メトロポリタン美術館"
+      },
+      {
+        "id": "aalto-saynatsalo",
+        "url": "https://www.alvaraalto.fi/en/architecture/saynatsalo-town-hall/",
+        "institution": "アルヴァ・アアルト財団"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Paimio lounge chair, model 41（パイミオ・チェア）",
+        "creator": "Alvar Aalto（アルヴァ・アアルト）",
+        "date": "1932",
+        "reason": "薄い木の板を重ねた合板（ごうはん）を曲げ、座る面をつくりました。金属の管を使う椅子とは違う方法で、軽やかな形としなやかさを探った例です。",
+        "domain": "家具",
+        "source_url": "https://www.moma.org/collection/works/92879",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/92879",
+        "reading_intro": {
+          "heading": "パイミオ・チェア",
+          "lead": [
+            "薄い木の板を重ねた合板（ごうはん）を曲げ、座る面をつくりました。金属の管を使う椅子とは違う方法で、軽やかな形としなやかさを探った例です。"
+          ]
+        },
+        "title_ja": "パイミオ・チェア"
+      },
+      {
+        "title": "Armchair（アームチェア、通称ザ・チェア）",
+        "creator": "Hans Wegner（ハンス・ウェグナー）。製造Johannes Hansen（ヨハネス・ハンセン）",
+        "date": "1949",
+        "reason": "背もたれから肘掛けへ続く曲線と、木の継ぎ目が見どころです。ニューヨーク近代美術館所蔵品はオーク材と籐（とう）を使い、木を扱う職人の技を伝えます。",
+        "domain": "家具",
+        "source_url": "https://www.moma.org/collection/works/4041",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/4041",
+        "reading_intro": {
+          "heading": "アームチェア、通称ザ・チェア",
+          "lead": [
+            "背もたれから肘掛けへ続く曲線と、木の継ぎ目が見どころです。ニューヨーク近代美術館所蔵品はオーク材と籐（とう）を使い、木を扱う職人の技を伝えます。"
+          ]
+        },
+        "title_ja": "アームチェア、通称ザ・チェア"
+      },
+      {
+        "title": "Egg Armchair（エッグ・チェア）",
+        "creator": "Arne Jacobsen（アルネ・ヤコブセン）。製造Fritz Hansen（フリッツ・ハンセン）",
+        "date": "1958",
+        "reason": "卵の殻のような背もたれが、座る人を包みます。ホテルのための設計で、革の表面の内側には成形したプラスチックなどが使われています。",
+        "domain": "家具",
+        "source_url": "https://www.metmuseum.org/art/collection/search/489205",
+        "institution": "メトロポリタン美術館",
+        "evidence": "https://www.metmuseum.org/art/collection/search/489205",
+        "reading_intro": {
+          "heading": "エッグ・チェア",
+          "lead": [
+            "卵の殻のような背もたれが、座る人を包みます。ホテルのための設計で、革の表面の内側には成形したプラスチックなどが使われています。"
+          ]
+        },
+        "title_ja": "エッグ・チェア"
+      },
+      {
+        "title": "Säynätsalo Town Hall（セイナッツァロの町役場）",
+        "creator": "Alvar Aalto（アルヴァ・アアルト）。現場の主任建築家はElsa Mäkiniemi（エルサ・マキニエミ）（後のElissa Aalto（エリッサ・アアルト））",
+        "date": "1949–1952（設計・建設、アアルト財団の表記）",
+        "reason": "役場、図書館、店、住まいを、一つの小さな町のようにまとめました。赤いれんがと、中庭へ上がる階段が、人の動きと場所のまとまりをつくります。",
+        "domain": "建築",
+        "source_url": "https://www.alvaraalto.fi/en/architecture/saynatsalo-town-hall/",
+        "institution": "アルヴァ・アアルト財団",
+        "evidence": "https://www.alvaraalto.fi/en/architecture/saynatsalo-town-hall/",
+        "reading_intro": {
+          "heading": "セイナッツァロの町役場",
+          "lead": [
+            "役場、図書館、店、住まいを、一つの小さな町のようにまとめました。赤いれんがと、中庭へ上がる階段が、人の動きと場所のまとまりをつくります。"
+          ]
+        },
+        "title_ja": "セイナッツァロの町役場"
+      }
+    ],
+    "adopted_images": [
+      {
+        "id": "photo-saynatsalo",
+        "entry": "Scandinavian Modern",
+        "author": "アルヴァ・アアルト（設計）／エルサ・マキニエミ（現場の主任建築家）",
+        "title": "セイナッツァロの町役場",
+        "year": "1949–1952（設計・建設、アアルト財団の表記）",
+        "institution": "Wikimedia Commons（ウィキメディア・コモンズ）",
+        "source_page": "https://commons.wikimedia.org/wiki/File:SaynatsaloTownHall4.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SaynatsaloTownHall4.jpg",
+        "photo_author": "Zache",
+        "photo_date": "2007-08-31",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "credit": "セイナッツァロの町役場 / Photo: Zache, CC BY 3.0.",
+        "alt": "セイナッツァロの町役場と図書館。高いれんがの部分と低い棟の間に、上へ進む階段が見えます。2007年の外観です。",
+        "underlying_work_rights": "原建築と写真の権利は別です。この外観写真の掲載を、図面・内部・家具などの自由利用の許可とは扱いません。",
+        "reproduction_rights": "写真：CC BY 3.0。出典・撮影者と画像の変更内容を表示して利用します。",
+        "territory_note": "建築外観の利用について、日本・米国などの個別の条件を確認しています。全法域で原建築がパブリックドメインという意味ではありません。",
+        "visual_notes": [
+          {
+            "title": "外から、形を見てみよう。",
+            "text": "セイナッツァロの町役場と図書館。高いれんがの部分と低い棟の間に、上へ進む階段が見えます。2007年の外観です。"
+          }
+        ],
+        "work_id": "saynatsalo",
+        "local_file": "assets/lineage-saynatsalo-exterior.jpg",
+        "local_bytes": 495611,
+        "width": 1600,
+        "height": 1200,
+        "sha256": "bb6230efa64d6ce3c2b1a5590ccce03562b5ee02e01be72a813a4bd66639eeda",
+        "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
+        "status": "adopted_local_image"
+      }
+    ],
+    "image_count_acquired": 1,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 4,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1900-1949",
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "nationalmuseum-scandi",
+      "moma-paimio",
+      "moma-wegner",
+      "met-egg",
+      "aalto-saynatsalo"
+    ]
+  },
+  {
+    "name": "Brutalism",
+    "title_ja": "ブルータリズム",
+    "slug": "brutalism",
+    "type": "建築の潮流。初期のニュー・ブルータリズムと後の広がりを区別",
+    "period": "1950年代から展開。紹介例は1950–1982年の建設",
+    "region": "英国を重要な起点として国際的に展開。ここでは英国と米国",
+    "summary": "建物を支える骨組みや、材料の表面を隠さず見せる。ブルータリズムは、そうしたつくり方を建物の強い表情につなげた建築の潮流です。大きなコンクリートの建物だけ、という意味ではありません。",
+    "context": "英国のアリソンとピーター・スミッソンは、材料と構造を率直に見せる建築を考えました。1955年、批評家（ひひょうか。作品の意味や良さを考え、伝える人）のレイナー・バンハムが、二人の学校建築を論じています。1960年代には、コンクリートの表面や大きな量感を生かす作品が広がりました。名前の似たウェブデザインと、建築史上の運動は分けて扱います。",
+    "recognition": {
+      "color": "コンクリートの灰色だけでなく、れんが、鉄、ガラスなどの材料の色を見ます。塗装や改修による変化にも注意します。",
+      "type": "建築に共通する書体はありません。案内表示の文字と、建物自体の設計を混同しないようにします。",
+      "form": "柱や梁（はり。横向きに渡して重さを支える部材）、階段、設備が、どう見える位置にあるかを確かめます。",
+      "composition": "大きな建物のかたまりと、人が歩く道や集まる広場を一緒に見ましょう。迫力だけでなく、使う人の動きも大切です。"
+    },
+    "comparison": "ミッドセンチュリー・モダンと時代が重なりますが、同じ意味ではありません。また、コンクリートが見える建物をすべてブルータリズムとするのも早すぎます。設計者の考えと、当時の資料を合わせて確かめます。",
+    "modern": "古い建物を残すときには、材料の表情と、使う人の快適さを両方考える必要があります。スミスドン校のように、建築として評価されても、暑さなど使いにくさが指摘された例があります。",
+    "reading_intro": {
+      "heading": "材料と骨組みを、建物の表情にする。",
+      "lead": [
+        "建物を支える骨組みや、材料の表面を隠さず見せる。",
+        "ブルータリズムは、そうしたつくり方を建物の強い表情につなげた建築の潮流です。",
+        "大きなコンクリートの建物だけ、という意味ではありません。"
+      ]
+    },
+    "reader_glossary": [
+      {
+        "term": "構造",
+        "reading": "こうぞう",
+        "explanation": "ものを支える部分や、それらの組み合わせ方。"
+      },
+      {
+        "term": "部材",
+        "reading": "ぶざい",
+        "explanation": "建物や家具を組み立てる、一つひとつの材料や部品。"
+      }
+    ],
+    "representativeness_limit": "英国の初期例と大規模複合施設、米国の公共建築を選びました。世界全体の展開を網羅してはいません。",
+    "sources": [
+      {
+        "id": "riba-brutalism",
+        "url": "https://www.riba.org/explore/riba-collections/architectural-styles/brutalism-movement/",
+        "institution": "王立英国建築家協会"
+      },
+      {
+        "id": "he-smithdon",
+        "url": "https://historicengland.org.uk/education/schools-resources/educational-images/smithdon-school-kings-lynn-road-hunstanton-norfolk-ioe01-07473-16",
+        "institution": "ヒストリック・イングランド"
+      },
+      {
+        "id": "nps-boston",
+        "url": "https://www.nps.gov/places/boston-city-hall.htm",
+        "institution": "米国国立公園局"
+      },
+      {
+        "id": "he-barbican",
+        "url": "https://historicengland.org.uk/listing/the-list/list-entry/1352667",
+        "institution": "ヒストリック・イングランド"
+      },
+      {
+        "id": "barbican-building",
+        "url": "https://www.barbican.org.uk/our-story/architecture/our-building",
+        "institution": "バービカン・センター"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Smithdon School（スミスドン校／旧ハンスタントン校）",
+        "creator": "Alison Smithson、Peter Smithson（アリソン＆ピーター・スミッソン）",
+        "date": "1950–1954（建設）",
+        "reason": "鉄とガラス、れんがを使い、骨組みを見せた初期の重要作です。ブルータリズムがコンクリートだけの様式ではないことを示します。",
+        "domain": "学校建築",
+        "source_url": "https://historicengland.org.uk/education/schools-resources/educational-images/smithdon-school-kings-lynn-road-hunstanton-norfolk-ioe01-07473-16",
+        "institution": "ヒストリック・イングランド",
+        "evidence": "https://historicengland.org.uk/education/schools-resources/educational-images/smithdon-school-kings-lynn-road-hunstanton-norfolk-ioe01-07473-16",
+        "reading_intro": {
+          "heading": "スミスドン校／旧ハンスタントン校",
+          "lead": [
+            "鉄とガラス、れんがを使い、骨組みを見せた初期の重要作です。ブルータリズムがコンクリートだけの様式ではないことを示します。"
+          ]
+        },
+        "title_ja": "スミスドン校／旧ハンスタントン校"
+      },
+      {
+        "title": "Boston City Hall（ボストン市庁舎）",
+        "creator": "Kallmann, McKinnell and Knowles（カルマン、マッキンネル＆ノウルズ）",
+        "date": "1968（完成。米国国立公園局の記録）",
+        "reason": "大きく張り出すコンクリートの形が、市庁舎の存在を強く示します。一方、建設のために以前の街が取り壊された歴史もあり、建物の評価と都市の変化を一緒に考える例です。",
+        "domain": "公共建築",
+        "source_url": "https://www.nps.gov/places/boston-city-hall.htm",
+        "institution": "米国国立公園局",
+        "evidence": "https://www.nps.gov/places/boston-city-hall.htm",
+        "reading_intro": {
+          "heading": "ボストン市庁舎",
+          "lead": [
+            "大きく張り出すコンクリートの形が、市庁舎の存在を強く示します。一方、建設のために以前の街が取り壊された歴史もあり、建物の評価と都市の変化を一緒に考える例です。"
+          ]
+        },
+        "title_ja": "ボストン市庁舎"
+      },
+      {
+        "title": "Barbican（バービカン）",
+        "creator": "Chamberlin, Powell and Bon（チェンバリン、パウエル＆ボン）",
+        "date": "1962–1982（複合施設の建設。芸術センターは1982年開館）",
+        "reason": "住まいと文化施設、歩く道を大きなまとまりとしてつくりました。コンクリートの表面と、ガラス張りの部分の違いにも注目できます。",
+        "domain": "集合住宅・文化施設・都市計画",
+        "source_url": "https://historicengland.org.uk/listing/the-list/list-entry/1352667",
+        "institution": "ヒストリック・イングランド",
+        "evidence": "https://historicengland.org.uk/listing/the-list/list-entry/1352667",
+        "reading_intro": {
+          "heading": "バービカン",
+          "lead": [
+            "住まいと文化施設、歩く道を大きなまとまりとしてつくりました。コンクリートの表面と、ガラス張りの部分の違いにも注目できます。"
+          ]
+        },
+        "title_ja": "バービカン"
+      }
+    ],
+    "adopted_images": [
+      {
+        "id": "photo-barbican",
+        "entry": "Brutalism",
+        "author": "チェンバリン、パウエル＆ボン（設計）",
+        "title": "バービカン",
+        "year": "1962–1982（複合施設の建設。芸術センターは1982年開館）",
+        "institution": "Wikimedia Commons（ウィキメディア・コモンズ）",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Barbican_Centre_(facade).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Barbican_Centre_%28facade%29.jpg",
+        "photo_author": "Nachomaans（画像メタデータ：Stéphane Mégécaze）",
+        "photo_date": "2014-08-06",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "バービカン / Photo: Nachomaans（画像メタデータ：Stéphane Mégécaze）, CC BY-SA 4.0.",
+        "alt": "バービカン芸術センターの外観の一部。大きなコンクリートの面と、細かい枠で支えられたガラスの面を比べられます。2014年撮影。",
+        "underlying_work_rights": "原建築と写真の権利は別です。この外観写真の掲載を、図面・内部・家具などの自由利用の許可とは扱いません。",
+        "reproduction_rights": "写真：CC BY-SA 4.0。出典・撮影者と画像の変更内容を表示して利用します。",
+        "territory_note": "建築外観の利用について、日本・米国などの個別の条件を確認しています。全法域で原建築がパブリックドメインという意味ではありません。",
+        "visual_notes": [
+          {
+            "title": "外から、形を見てみよう。",
+            "text": "バービカン芸術センターの外観の一部。大きなコンクリートの面と、細かい枠で支えられたガラスの面を比べられます。2014年撮影。"
+          }
+        ],
+        "work_id": "barbican",
+        "local_file": "assets/lineage-barbican-exterior.jpg",
+        "local_bytes": 490254,
+        "width": 1600,
+        "height": 1066,
+        "sha256": "51c2fe1c276d71ad399057f3d8f15f5beb907c6d96ee9c623d59cb77bf5b74ee",
+        "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
+        "status": "adopted_local_image"
+      }
+    ],
+    "image_count_acquired": 1,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "riba-brutalism",
+      "he-smithdon",
+      "nps-boston",
+      "he-barbican",
+      "barbican-building"
+    ]
+  },
+  {
+    "name": "Critical Regionalism",
+    "title_ja": "批判的地域主義",
+    "slug": "critical-regionalism",
+    "type": "建築の批評理論・設計を考える立場。学校や統一様式ではない",
+    "period": "1980年代に理論として論じられる。比較する建築は1952年・1976年",
+    "region": "国際的な建築論。ここではフィンランドとデンマークの例",
+    "summary": "同じ建物を、世界のどこにでも置いてよいのでしょうか。批判的地域主義は、その土地の光、地形、材料、人の感覚を大切にして建築を考える立場です。昔の家をそのまままねることでも、新しい技術をすべて断ることでもありません。",
+    "context": "1983年の論考で、ケネス・フランプトンは、場所の違いが失われる建築を問い直しました。「批判的」とは、何でも悪く言うことではなく、当たり前に見えるやり方を確かめ直すことです。彼が例に挙げた建物には、論考より前につくられたものがあります。建築家が同じ団体に入って、この理論の通りにつくったという意味ではありません。",
+    "recognition": {
+      "color": "決まった配色はありません。れんがなど材料の色と、その土地で当たる光を一緒に考えます。",
+      "type": "この理論に専用の書体はありません。文字の様式ではなく、建築と場所の関係を扱います。",
+      "form": "地面の高低差にどう合わせるか、光をどこから入れるか。建物の輪郭だけでなく、その理由を調べます。",
+      "composition": "見た目だけでなく、歩いたときの足の感触、音、温度も考えます。写真から分かることと、現地で感じることは別です。"
+    },
+    "comparison": "地域の昔ながらの建物を、形だけそのまま写す立場とは違います。また、北欧モダンのような地域別の呼称でもありません。同じ町役場を、北欧の建築として見ることも、フランプトンの議論に登場する例として読むこともできます。",
+    "modern": "学校や図書館を思い浮かべてみましょう。日差し、雨、坂道、風に合わせた工夫はあるでしょうか。ここでは建物を理論に当てはめて判定するより、場所との関係を考える問いとして使います。",
+    "reading_intro": {
+      "heading": "その場所に建てる理由を考える。",
+      "lead": [
+        "同じ建物を、世界のどこにでも置いてよいのでしょうか。",
+        "批判的地域主義（ひはんてき・ちいきしゅぎ）は、その土地の光、地形、材料、人の感覚を大切にして建築を考える立場です。",
+        "昔の家をそのまままねることでも、新しい技術をすべて断ることでもありません。"
+      ]
+    },
+    "reader_glossary": [
+      {
+        "term": "構造",
+        "reading": "こうぞう",
+        "explanation": "ものを支える部分や、それらの組み合わせ方。"
+      },
+      {
+        "term": "部材",
+        "reading": "ぶざい",
+        "explanation": "建物や家具を組み立てる、一つひとつの材料や部品。"
+      }
+    ],
+    "representativeness_limit": "建築2件と理論を示す論考1件です。代表建築3件と数えません。すべての地域に一つの理論を押しつけることを避け、フランプトンが実際に論じた例に限定しました。",
+    "sources": [
+      {
+        "id": "frampton-sixpoints",
+        "url": "https://oasejournal.nl/en/issue/critical-regionalism-revisited/towards-a-critical-regionalism-six-points-for-an-architecture-of-resistance/",
+        "institution": "建築誌オアーセ"
+      },
+      {
+        "id": "frampton-sah",
+        "url": "https://sah.org/2018/05/21/2018-plenary-talk-by-kenneth-frampton/",
+        "institution": "米国建築史学会 / Kenneth Frampton"
+      },
+      {
+        "id": "aalto-saynatsalo",
+        "url": "https://www.alvaraalto.fi/en/architecture/saynatsalo-town-hall/",
+        "institution": "アルヴァ・アアルト財団"
+      },
+      {
+        "id": "dac-bagsvaerd",
+        "url": "https://dac.dk/magazine/steder/bagsvaerd-kirke-2",
+        "institution": "デンマーク建築センター"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Säynätsalo Town Hall（セイナッツァロの町役場）",
+        "creator": "Alvar Aalto（アルヴァ・アアルト）。現場の主任建築家はElsa Mäkiniemi（エルサ・マキニエミ）（後のElissa Aalto（エリッサ・アアルト））",
+        "date": "1949–1952（設計・建設、アアルト財団の表記）",
+        "reason": "フランプトンの論考で、見るだけでなく体で感じる建築の例に挙がります。れんがの階段から木の床の議場へ進むとき、足元の感触や音が変わることに注目します。",
+        "domain": "建築",
+        "source_url": "https://www.alvaraalto.fi/en/architecture/saynatsalo-town-hall/",
+        "institution": "アルヴァ・アアルト財団",
+        "evidence": "https://www.alvaraalto.fi/en/architecture/saynatsalo-town-hall/",
+        "reading_intro": {
+          "heading": "セイナッツァロの町役場",
+          "lead": [
+            "フランプトンの論考で、見るだけでなく体で感じる建築の例に挙がります。れんがの階段から木の床の議場へ進むとき、足元の感触や音が変わることに注目します。"
+          ]
+        },
+        "title_ja": "セイナッツァロの町役場"
+      },
+      {
+        "title": "Bagsværd Church（バウスヴェア教会）",
+        "creator": "Jørn Utzon（ヨーン・ウッツォン）",
+        "date": "1976",
+        "reason": "繰り返す部材による外側と、波のように曲がる天井を持つ内側を組み合わせました。フランプトンは、共通の工業技術と、場所に意味を与える形が出会う例として論じています。",
+        "domain": "教会建築",
+        "source_url": "https://dac.dk/magazine/steder/bagsvaerd-kirke-2",
+        "institution": "デンマーク建築センター",
+        "evidence": "https://dac.dk/magazine/steder/bagsvaerd-kirke-2",
+        "reading_intro": {
+          "heading": "バウスヴェア教会",
+          "lead": [
+            "繰り返す部材による外側と、波のように曲がる天井を持つ内側を組み合わせました。フランプトンは、共通の工業技術と、場所に意味を与える形が出会う例として論じています。"
+          ]
+        },
+        "title_ja": "バウスヴェア教会"
+      },
+      {
+        "title": "Towards a Critical Regionalism: Six Points for an Architecture of Resistance（批判的地域主義に向けて）",
+        "creator": "Kenneth Frampton（ケネス・フランプトン）",
+        "date": "1983（原論考。リンクは建築誌オアーセによる再掲・翻訳）",
+        "reason": "建物の形をまねるための見本ではなく、場所や材料、身体の感覚から建築を考える文章です。建物の完成年と、理論がまとめられた年を分けるために取り上げます。",
+        "domain": "建築批評・論考",
+        "source_url": "https://oasejournal.nl/en/issue/critical-regionalism-revisited/towards-a-critical-regionalism-six-points-for-an-architecture-of-resistance/",
+        "institution": "建築誌オアーセ",
+        "evidence": "https://oasejournal.nl/en/issue/critical-regionalism-revisited/towards-a-critical-regionalism-six-points-for-an-architecture-of-resistance/",
+        "reading_intro": {
+          "heading": "批判的地域主義に向けて",
+          "lead": [
+            "建物の形をまねるための見本ではなく、場所や材料、身体の感覚から建築を考える文章です。建物の完成年と、理論がまとめられた年を分けるために取り上げます。"
+          ]
+        },
+        "title_ja": "批判的地域主義に向けて"
+      }
+    ],
+    "adopted_images": [
+      {
+        "id": "photo-saynatsalo",
+        "entry": "Critical Regionalism",
+        "author": "アルヴァ・アアルト（設計）／エルサ・マキニエミ（現場の主任建築家）",
+        "title": "セイナッツァロの町役場",
+        "year": "1949–1952（設計・建設、アアルト財団の表記）",
+        "institution": "Wikimedia Commons（ウィキメディア・コモンズ）",
+        "source_page": "https://commons.wikimedia.org/wiki/File:SaynatsaloTownHall4.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SaynatsaloTownHall4.jpg",
+        "photo_author": "Zache",
+        "photo_date": "2007-08-31",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "credit": "セイナッツァロの町役場 / Photo: Zache, CC BY 3.0.",
+        "alt": "セイナッツァロの町役場と図書館。高いれんがの部分と低い棟の間に、上へ進む階段が見えます。2007年の外観です。",
+        "underlying_work_rights": "原建築と写真の権利は別です。この外観写真の掲載を、図面・内部・家具などの自由利用の許可とは扱いません。",
+        "reproduction_rights": "写真：CC BY 3.0。出典・撮影者と画像の変更内容を表示して利用します。",
+        "territory_note": "建築外観の利用について、日本・米国などの個別の条件を確認しています。全法域で原建築がパブリックドメインという意味ではありません。",
+        "visual_notes": [
+          {
+            "title": "外から、形を見てみよう。",
+            "text": "セイナッツァロの町役場と図書館。高いれんがの部分と低い棟の間に、上へ進む階段が見えます。2007年の外観です。"
+          }
+        ],
+        "work_id": "saynatsalo",
+        "local_file": "assets/lineage-saynatsalo-exterior.jpg",
+        "local_bytes": 495611,
+        "width": 1600,
+        "height": 1200,
+        "sha256": "bb6230efa64d6ce3c2b1a5590ccce03562b5ee02e01be72a813a4bd66639eeda",
+        "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
+        "status": "adopted_local_image"
+      },
+      {
+        "id": "photo-bagsvaerd",
+        "entry": "Critical Regionalism",
+        "author": "ヨーン・ウッツォン（設計）",
+        "title": "バウスヴェア教会",
+        "year": "1976",
+        "institution": "Wikimedia Commons（ウィキメディア・コモンズ）",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bagsværd_Kirke_2009.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bagsv%C3%A6rd_Kirke_2009.jpg",
+        "photo_author": "Erik Christensen",
+        "photo_date": "2009-12-20",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "バウスヴェア教会 / Photo: Erik Christensen, CC BY-SA 3.0.",
+        "alt": "冬のバウスヴェア教会の外観。壁の繰り返す区切りが見えます。内部の曲がる天井は写っていません。",
+        "underlying_work_rights": "原建築と写真の権利は別です。この外観写真の掲載を、図面・内部・家具などの自由利用の許可とは扱いません。",
+        "reproduction_rights": "写真：CC BY-SA 3.0。出典・撮影者と画像の変更内容を表示して利用します。",
+        "territory_note": "建築外観の利用について、日本・米国などの個別の条件を確認しています。全法域で原建築がパブリックドメインという意味ではありません。",
+        "visual_notes": [
+          {
+            "title": "外から、形を見てみよう。",
+            "text": "冬のバウスヴェア教会の外観。壁の繰り返す区切りが見えます。内部の曲がる天井は写っていません。"
+          }
+        ],
+        "work_id": "bagsvaerd",
+        "local_file": "assets/lineage-bagsvaerd-exterior.jpg",
+        "local_bytes": 439058,
+        "width": 1600,
+        "height": 1071,
+        "sha256": "ae4753d1bbbad1704c309bc4c0d5f51ee6845e0854ed324d900500359c2fcc88",
+        "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
+        "status": "adopted_local_image"
+      }
+    ],
+    "image_count_acquired": 2,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像2点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "frampton-sixpoints",
+      "frampton-sah",
+      "aalto-saynatsalo",
+      "dac-bagsvaerd"
+    ]
+  },
+  {
+    "name": "Mid-century Modern",
+    "title_ja": "ミッドセンチュリー・モダン",
+    "slug": "mid-century-modern",
+    "type": "20世紀半ばの建築・生活用品をまとめる広い呼称",
+    "period": "主に1940年代–1960年代の作品を紹介。共通の創立年・終了年は設けない",
+    "region": "国際的な広がり。ここでは米国の家具・住宅に焦点",
+    "summary": "20世紀のまん中ごろ、家や家具の形が変わりました。木の板を曲げたり、プラスチックを型でつくったりして、新しい暮らし方を試したのです。ミッドセンチュリー・モダンは、そうした時代のデザインを広く見る名前です。",
+    "context": "第二次世界大戦後、米国では住まいや生活用品への需要が大きくなりました。カリフォルニアでは、屋外とつながる暮らしや、新しい材料を使う家具が注目されます。ただし、すべてが安い大量生産品だったわけではありません。イームズのラウンジチェアのように、ゆったり休むための高級な家具もあります。",
+    "recognition": {
+      "color": "木や革の色と、塗装された面の色を比べます。鮮やかな色があることだけで、この時代の作品とは決まりません。",
+      "type": "この呼び名に共通する書体はありません。家具・建築・広告は、それぞれ別の資料で確かめます。",
+      "form": "曲げた木の板、体に沿う殻のような座面、一本の支えにまとまる脚。形がどうつくられ、どこに力がかかるかを見ましょう。",
+      "composition": "イームズ邸では、四角く区切った外壁と、周りに残された木を一緒に見ます。家の中だけでなく、庭との関係も設計の一部です。"
+    },
+    "comparison": "北欧モダンと人や技術の交流があります。また、バウハウスの時代より後に展開した作品が中心ですが、単純にバウハウスの形をまねた流行ではありません。地域と用途ごとに違う答えが生まれました。",
+    "modern": "昔の形がいまも人気でも、現在つくられた復刻品（ふっこくひん。昔の設計をもとにつくり直した品）と、当時つくられた品は別です。設計年と製造年を分けて読んでみましょう。",
+    "reading_intro": {
+      "heading": "新しい材料で、暮らしを考える。",
+      "lead": [
+        "20世紀のまん中ごろ、家や家具の形が変わりました。",
+        "木の板を曲げたり、プラスチックを型でつくったりして、新しい暮らし方を試したのです。",
+        "ミッドセンチュリー・モダンは、そうした時代のデザインを広く見る名前です。"
+      ]
+    },
+    "reader_glossary": [
+      {
+        "term": "構造",
+        "reading": "こうぞう",
+        "explanation": "ものを支える部分や、それらの組み合わせ方。"
+      },
+      {
+        "term": "部材",
+        "reading": "ぶざい",
+        "explanation": "建物や家具を組み立てる、一つひとつの材料や部品。"
+      },
+      {
+        "term": "合板",
+        "reading": "ごうはん",
+        "explanation": "薄い木の板を重ねて、接着剤ではり合わせた材料。"
+      }
+    ],
+    "representativeness_limit": "米国の住宅・家具3例に絞った入口で、同時代の世界のデザイン全体を示す選定ではありません。",
+    "sources": [
+      {
+        "id": "lacma-california",
+        "url": "https://www.lacma.org/press/california-design-1930-1965-living-modern-way",
+        "institution": "ロサンゼルス郡立美術館"
+      },
+      {
+        "id": "eames-history",
+        "url": "https://eamesfoundation.org/eames-house/history/",
+        "institution": "イームズ財団"
+      },
+      {
+        "id": "moma-lounge",
+        "url": "https://www.moma.org/collection/works/3325",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "cma-pedestal",
+        "url": "https://www.clevelandart.org/art/2001.174",
+        "institution": "クリーヴランド美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Eames House（イームズ邸／Case Study House No. 8）",
+        "creator": "Charles Eames、Ray Eames（チャールズ＆レイ・イームズ）",
+        "date": "1949（入居は12月24日）",
+        "reason": "工場で用意できる部材を使い、住まいと仕事場をつくりました。四角く分かれた壁や窓と、周囲の木々の組み合わせから、工業製品と暮らしの関係を考えられます。",
+        "domain": "住宅・仕事場",
+        "source_url": "https://eamesfoundation.org/eames-house/history/",
+        "institution": "イームズ財団",
+        "evidence": "https://eamesfoundation.org/eames-house/history/",
+        "reading_intro": {
+          "heading": "イームズ邸／Case Study House No. 8",
+          "lead": [
+            "工場で用意できる部材を使い、住まいと仕事場をつくりました。四角く分かれた壁や窓と、周囲の木々の組み合わせから、工業製品と暮らしの関係を考えられます。"
+          ]
+        },
+        "title_ja": "イームズ邸／Case Study House No. 8"
+      },
+      {
+        "title": "Lounge Chair and Ottoman（ラウンジチェア＆オットマン）",
+        "creator": "Charles Eames、Ray Eames（チャールズ＆レイ・イームズ）。製造Herman Miller（ハーマンミラー）",
+        "date": "1956",
+        "reason": "曲げた合板の殻と、柔らかなクッションを組み合わせました。足を載せる台と一緒に、体を休める姿勢を考えた家具です。",
+        "domain": "家具",
+        "source_url": "https://www.moma.org/collection/works/3325",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/3325",
+        "reading_intro": {
+          "heading": "ラウンジチェア＆オットマン",
+          "lead": [
+            "曲げた合板の殻と、柔らかなクッションを組み合わせました。足を載せる台と一緒に、体を休める姿勢を考えた家具です。"
+          ]
+        },
+        "title_ja": "ラウンジチェア＆オットマン"
+      },
+      {
+        "title": "Pedestal Chair（ペデスタル・チェア）",
+        "creator": "Eero Saarinen（エーロ・サーリネン）。製造Knoll Associates（ノール・アソシエイツ）",
+        "date": "1960年頃（クリーヴランド美術館所蔵個体）",
+        "reason": "座面の下を一本の支えにまとめた椅子です。ガラス繊維を使った樹脂の座面と金属の脚を組み合わせ、ひと続きに見える形をつくります。",
+        "domain": "家具",
+        "source_url": "https://www.clevelandart.org/art/2001.174",
+        "institution": "クリーヴランド美術館",
+        "evidence": "https://www.clevelandart.org/art/2001.174",
+        "reading_intro": {
+          "heading": "ペデスタル・チェア",
+          "lead": [
+            "座面の下を一本の支えにまとめた椅子です。ガラス繊維を使った樹脂の座面と金属の脚を組み合わせ、ひと続きに見える形をつくります。"
+          ]
+        },
+        "title_ja": "ペデスタル・チェア"
+      }
+    ],
+    "adopted_images": [
+      {
+        "id": "photo-eames-house",
+        "entry": "Mid-century Modern",
+        "author": "チャールズ＆レイ・イームズ（設計）",
+        "title": "イームズ邸／Case Study House No. 8",
+        "year": "1949（入居は12月24日）",
+        "institution": "Wikimedia Commons（ウィキメディア・コモンズ）",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Eames-House-Case-Study-House-No-8-Pacific-Palisades-California-04-2014a.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Eames-House-Case-Study-House-No-8-Pacific-Palisades-California-04-2014a.jpg",
+        "photo_author": "Gunnar Klack",
+        "photo_date": "2014-04-14",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "イームズ邸／Case Study House No. 8 / Photo: Gunnar Klack, CC BY-SA 4.0.",
+        "alt": "木々の間から見えるイームズ邸。黒い枠が壁や窓を四角く区切り、青や白の面が見えます。2014年の外観写真で、家の内部は見えません。",
+        "underlying_work_rights": "原建築と写真の権利は別です。この外観写真の掲載を、図面・内部・家具などの自由利用の許可とは扱いません。",
+        "reproduction_rights": "写真：CC BY-SA 4.0。出典・撮影者と画像の変更内容を表示して利用します。",
+        "territory_note": "建築外観の利用について、日本・米国などの個別の条件を確認しています。全法域で原建築がパブリックドメインという意味ではありません。",
+        "visual_notes": [
+          {
+            "title": "外から、形を見てみよう。",
+            "text": "木々の間から見えるイームズ邸。黒い枠が壁や窓を四角く区切り、青や白の面が見えます。2014年の外観写真で、家の内部は見えません。"
+          }
+        ],
+        "work_id": "eames-house",
+        "local_file": "assets/lineage-eames-house-exterior.jpg",
+        "local_bytes": 617963,
+        "width": 1600,
+        "height": 1092,
+        "sha256": "5570848d99c752a8168dea0ab9c8586509d15a7af24276e8e4b7dbc71257ac2d",
+        "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
+        "status": "adopted_local_image"
+      }
+    ],
+    "image_count_acquired": 1,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1900-1949",
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "lacma-california",
+      "eames-history",
+      "moma-lounge",
+      "cma-pedestal"
+    ]
+  },
+  {
+    "name": "Radical Design",
+    "title_ja": "ラディカル・デザイン",
+    "slug": "radical-design",
+    "type": "歴史的な運動・建築と製品をめぐる批判的な実験",
+    "period": "主に1960年代後半–1970年代",
+    "region": "イタリアを中心に扱う",
+    "summary": "便利な物を増やせば、暮らしは必ずよくなるのでしょうか。ラディカル・デザインは、そんな問いを家具や建築の案で投げかけました。ラディカルは、物事を根本から考え直すという意味です。実際に使える椅子もあれば、建てるためではなく、社会の問題を考えるための都市の絵もあります。",
+    "context": "1960年代後半から1970年代、イタリアのアーキズームやスーパースタジオらは、機能を中心に組み立てるデザインの考え方を問い直しました。機能（きのう）とは、物が果たす働きのことです。大きさや形を変える実験に加え、便利さや秩序をどこまでも追い求めた都市が、人を自由にするのか、それとも縛るのかを考えました。ひとつの書体や色でまとまった流行ではありません。",
+    "recognition": {
+      "color": "明るい家具だけでなく、色を抑えた都市案もあります。色の派手さを運動への参加条件にしません。",
+      "type": "共通の指定書体はありません。文章や図が、どのような問いを伝えているかに注目します。",
+      "form": "椅子、模型、建てられていない都市の絵を分けます。画像に写った物が、現物なのか模型なのかは重要です。",
+      "composition": "《第一の都市》では同じ単位の繰り返しと、広がる都市を考えます。整って見えることと、暮らす人が自由なことは同じでしょうか。"
+    },
+    "comparison": "メンフィスと人や考えのつながりはありますが、両者は同じ団体ではありません。また「変わった家具」という見た目だけでなく、作品が何を問いかけたかを見る必要があります。",
+    "modern": "学校や町の決まりを一つ取り上げ、「便利にしたつもりが、誰かを困らせていないか」と考えてみましょう。作品の形をまねるより、当たり前を問い直す方法から学ぶことができます。",
+    "reading_intro": {
+      "heading": "便利なら、それでいい？",
+      "lead": [
+        "変わった椅子や、実際には建てない都市の絵。",
+        "ラディカル・デザインは、物をつくるだけでなく、暮らしの当たり前を問い直しました。",
+        "見た目の驚きの先に、どんな問いがあるでしょう。"
+      ]
+    },
+    "representativeness_limit": "アーキズームとスーパースタジオの3例に範囲を絞りました。ラディカル・デザイン全体をこの2組だけで代表させるものではありません。",
+    "sources": [
+      {
+        "id": "moma-radical",
+        "url": "https://www.moma.org/collection/terms/radical-architecture",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "pompidou-superonda",
+        "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cg9nGo",
+        "institution": "ポンピドゥー・センター"
+      },
+      {
+        "id": "moma-mies",
+        "url": "https://www.moma.org/collection/works/89847",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "moma-first-city",
+        "url": "https://www.moma.org/collection/works/196",
+        "institution": "ニューヨーク近代美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Divan Superonda（スーペロンダのソファ模型）",
+        "creator": "Archizoom Associati（アーキズーム・アソチアーティ）",
+        "date": "1966年",
+        "reason": "組み替えられるソファの考えを示す資料。模型と実際の製品の違いも学べます。",
+        "domain": "家具の模型",
+        "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cg9nGo",
+        "institution": "ポンピドゥー・センター",
+        "evidence": "https://www.centrepompidou.fr/en/ressources/oeuvre/cg9nGo",
+        "reading_intro": {
+          "heading": "スーペロンダのソファ模型",
+          "lead": [
+            "組み替えられるソファの考えを示す資料。模型と実際の製品の違いも学べます。"
+          ]
+        },
+        "title_ja": "スーペロンダのソファ模型"
+      },
+      {
+        "title": "Mies Chair and Ottoman（ミース・チェアと足置き）",
+        "creator": "Archizoom Associati（アーキズーム・アソチアーティ）",
+        "date": "1969年",
+        "reason": "ニューヨーク近代美術館がラディカル・アーキテクチャの作品として分類する家具。都市案だけでなく、実際の生活用品にも問いを向けた例です。",
+        "domain": "家具",
+        "source_url": "https://www.moma.org/collection/works/89847",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/89847",
+        "reading_intro": {
+          "heading": "ミース・チェアと足置き",
+          "lead": [
+            "ニューヨーク近代美術館がラディカル・アーキテクチャの作品として分類する家具。都市案だけでなく、実際の生活用品にも問いを向けた例です。"
+          ]
+        },
+        "title_ja": "ミース・チェアと足置き"
+      },
+      {
+        "title": "The First City, from the Twelve Ideal Cities（《12の理想都市》の《第一の都市》）",
+        "creator": "Superstudio（スーパースタジオ）：Cristiano Toraldo di Francia（クリスティアーノ・トラルド・ディ・フランチャ）、Alessandro Magris（アレッサンドロ・マグリス）、Roberto Magris（ロベルト・マグリス）、Gian Piero Frassinelli（ジャン・ピエロ・フラッシネッリ）、Adolfo Natalini（アドルフォ・ナタリーニ）",
+        "date": "1971年",
+        "reason": "すべての欲求が満たされるはずの都市を描き、その裏にある強い管理を問いかける作品。実現した建物の記録ではありません。",
+        "domain": "未建設の都市計画を示す版画",
+        "source_url": "https://www.moma.org/collection/works/196",
+        "institution": "ニューヨーク近代美術館",
+        "evidence": "https://www.moma.org/collection/works/196",
+        "reading_intro": {
+          "heading": "《12の理想都市》の《第一の都市》",
+          "lead": [
+            "すべての欲求が満たされるはずの都市を描き、その裏にある強い管理を問いかける作品。実現した建物の記録ではありません。"
+          ]
+        },
+        "title_ja": "《12の理想都市》の《第一の都市》"
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 3,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "moma-radical",
+      "pompidou-superonda",
+      "moma-mies",
+      "moma-first-city"
+    ]
+  },
+  {
+    "name": "Memphis",
+    "title_ja": "メンフィス",
+    "slug": "memphis",
+    "type": "デザイナーの集まりと、その制作活動",
+    "period": "1980–1981年の結成と1981年の初発表、1980年代の活動を中心に扱う",
+    "region": "イタリア・ミラノを拠点に国際的な参加",
+    "summary": "棚なのに、まるで両手を広げた生き物。メンフィスの家具は、使い方だけでなく、見る人の気持ちにも働きかけます。エットレ・ソットサスらがミラノで始めたデザイナーの集まりで、1981年に最初の作品群を発表しました。明るい色や身近な模様を組み合わせ、「よい家具はこうあるべき」という考えを問い直しました。",
+    "context": "安い材料を使えば、安い家具になるのでしょうか。《カールトン》は、木にプラスチックの化粧板（けしょうばん。表面の色や模様を整える板）を合わせています。しかし、丁寧な手作業でつくられた高価格帯の家具でした。高級か日用品か、役に立つ物か彫刻か。その境目を揺さぶることも、この仕事の大切な部分です。参加者はイタリア人だけではなく、梅田正徳やピーター・シャイアらも作品を発表しました。",
+    "recognition": {
+      "color": "強い色のぶつかり合いや、模様のある面と一色の面の組み合わせを見ます。派手な色なら何でもメンフィス、とは言えません。",
+      "type": "共通する一つの書体はありません。家具の様式を、そのまま文字の決まりに置き換えないようにします。",
+      "form": "《カールトン》では、棚板の斜めの向きにも注目します。一見不思議な形でも、本を支える働きがあります。",
+      "composition": "《スーパー》の車輪と電球、《タワラヤ》のリングと寝る場所。見慣れた物を別の使い道へ組み合わせる面白さを比べます。"
+    },
+    "comparison": "ラディカル・デザインの問いかけを受け継ぐ面はありますが、同じ団体ではありません。また、今日「メンフィス風」と呼ばれる模様すべてを、当時のメンバーの作品と数えることもできません。",
+    "modern": "身近な家具を一つ選び、「何に使うか」と「どんな気持ちになるか」を別々に書いてみましょう。役に立つことと、楽しいことは、必ずしも反対ではありません。",
+    "reading_intro": {
+      "heading": "家具が、話しかけてくる。",
+      "lead": [
+        "カラフルな棚。車輪のついた照明。ボクシングのリングのような家具。",
+        "メンフィスは、見慣れた物の形を変え、暮らしに驚きを持ちこみました。",
+        "使い道と、見たときの気持ちを比べてみましょう。"
+      ]
+    },
+    "representativeness_limit": "1981–1982年の家具・照明4件を選びました。布、ガラス、陶磁器、全参加者の活動までは含みません。グループの活動期間と、その後も続く製品の販売は区別します。",
+    "sources": [
+      {
+        "id": "memphis-dm",
+        "url": "https://designmuseum.org/memphis",
+        "institution": "デザイン・ミュージアム"
+      },
+      {
+        "id": "met-carlton",
+        "url": "https://www.metmuseum.org/art/collection/search/486989",
+        "institution": "メトロポリタン美術館"
+      },
+      {
+        "id": "vitra-memphis-press",
+        "url": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+        "institution": "ヴィトラ・デザイン・ミュージアム"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Carlton（カールトン）",
+        "creator": "Ettore Sottsass（エットレ・ソットサス）／製造：Memphis Milano（メンフィス・ミラノ）",
+        "date": "1981年",
+        "reason": "本棚、引き出し、部屋の仕切りを一つにまとめた作品。用途と彫刻のような姿を一緒に考えられます。",
+        "domain": "家具・間仕切り",
+        "source_url": "https://www.metmuseum.org/art/collection/search/486989",
+        "institution": "メトロポリタン美術館",
+        "evidence": "https://www.metmuseum.org/art/collection/search/486989",
+        "reading_intro": {
+          "heading": "カールトン",
+          "lead": [
+            "本棚、引き出し、部屋の仕切りを一つにまとめた作品。用途と彫刻のような姿を一緒に考えられます。"
+          ]
+        },
+        "title_ja": "カールトン"
+      },
+      {
+        "title": "Super（スーパー）",
+        "creator": "Martine Bedin（マルティーヌ・ベダン）",
+        "date": "1981年",
+        "reason": "電球の列と車輪を合わせた照明。親しみのある物の形から、新しい意味を生む例です。",
+        "domain": "照明",
+        "source_url": "https://designmuseum.org/memphis",
+        "institution": "デザイン・ミュージアム",
+        "evidence": "https://designmuseum.org/memphis",
+        "reading_intro": {
+          "heading": "スーパー",
+          "lead": [
+            "電球の列と車輪を合わせた照明。親しみのある物の形から、新しい意味を生む例です。"
+          ]
+        },
+        "title_ja": "スーパー"
+      },
+      {
+        "title": "Bel-Air（ベル・エア）",
+        "creator": "Peter Shire（ピーター・シャイア）",
+        "date": "1982年",
+        "reason": "メンフィスの国際的な参加者による椅子。ソットサス一人の活動ではないことを伝えます。",
+        "domain": "家具・肘掛け椅子",
+        "source_url": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+        "institution": "ヴィトラ・デザイン・ミュージアム",
+        "evidence": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+        "reading_intro": {
+          "heading": "ベル・エア",
+          "lead": [
+            "メンフィスの国際的な参加者による椅子。ソットサス一人の活動ではないことを伝えます。"
+          ]
+        },
+        "title_ja": "ベル・エア"
+      },
+      {
+        "title": "Tawaraya（タワラヤ）",
+        "creator": "梅田正徳（うめだ まさのり／Masanori Umeda）",
+        "date": "1981年",
+        "reason": "ボクシングのリングの形を家具に取り入れた例。寝る物という用途の説明だけでは伝わらない遊びを見ます。",
+        "domain": "家具・ベッド",
+        "source_url": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+        "institution": "ヴィトラ・デザイン・ミュージアム",
+        "evidence": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+        "reading_intro": {
+          "heading": "タワラヤ",
+          "lead": [
+            "ボクシングのリングの形を家具に取り入れた例。寝る物という用途の説明だけでは伝わらない遊びを見ます。"
+          ]
+        },
+        "title_ja": "タワラヤ"
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 4,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "memphis-dm",
+      "met-carlton",
+      "vitra-memphis-press"
+    ]
+  },
+  {
+    "name": "New Wave Typography",
+    "title_ja": "ニュー・ウェーブ・タイポグラフィ",
+    "slug": "new-wave-typography",
+    "type": "文字と印刷物のデザインをめぐる潮流",
+    "period": "主に1970–1980年代。背景となる実験は1960年代から",
+    "region": "スイス・バーゼルと米国の例を中心に扱う",
+    "summary": "文字は、まっすぐ、同じ間隔で並べるもの。その決まりを変えたら、どう見えるでしょう。ニュー・ウェーブ・タイポグラフィでは、文字の間隔や向き、写真との重なりを試しました。タイポグラフィは、文字の形や並べ方を整えて伝える仕事です。読めるかどうかだけでなく、目がどう動き、どんな感じがするかも考えます。",
+    "context": "バーゼルで教えたヴォルフガング・ヴァインガルトは、印刷の技術を土台に実験を重ねました。伝統を知らずに壊したのではありません。彼に学んだエイプリル・グレイマンは米国で活動し、写真や映像、コンピューターも使いました。ただし、この流れを「コンピューターが生んだ様式」とまとめるのは不正確です。ヴァインガルト自身の制作と、グレイマンのデジタル表現では、道具の選び方が異なります。",
+    "recognition": {
+      "color": "白黒の実験も、色を重ねる作品もあります。決まった配色ではなく、文字と背景の見分けやすさを比べます。",
+      "type": "文字の間、行の間、大きさ、向きに注目します。読みやすさを少し変えると、読む速さや感じ方はどう変わるでしょう。",
+      "form": "写真、文字、点や線を別々の部品として見るだけでなく、重ねたときに何が起きるかを考えます。",
+      "composition": "文字をそろえる見えない線をグリッドと呼びます。整列している場所と、そこから外れる場所を探してみましょう。"
+    },
+    "comparison": "スイスの整った文字組みと、完全に縁を切ったわけではありません。学んだ組み立て方を土台に、その限界を試しています。パンクの自主制作とも、使う道具や活動の場、目的を分けて比べます。",
+    "modern": "短い言葉を、文字の間を狭くした場合と広くした場合で書いてみましょう。同じ言葉でも、落ち着いて見えたり、遠くに離れて見えたりします。実際の掲示物では、必要な情報が読めるかも忘れずに確かめます。",
+    "reading_intro": {
+      "heading": "文字の並び方を、動かしてみる。",
+      "lead": [
+        "文字の間を広げる。向きを変える。写真と重ねる。",
+        "ニュー・ウェーブは、整った文字組みを学びながら、その先の見せ方を試しました。",
+        "紙や印刷の実験と、コンピューターの実験を分けて見てみましょう。"
+      ]
+    },
+    "representativeness_limit": "ヴァインガルトとグレイマンの4例で、印刷の実験と米国での展開を比べます。関連する全作家や、ニュー・ウェーブと呼ばれる表現の全体を網羅していません。",
+    "sources": [
+      {
+        "id": "mfg-weingart",
+        "url": "https://museum-gestaltung.ch/en/article/wolfgang-weingart-typography-context",
+        "institution": "チューリヒ・デザイン美術館"
+      },
+      {
+        "id": "ch-greiman",
+        "url": "https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/",
+        "institution": "クーパー・ヒューイット国立デザイン博物館"
+      },
+      {
+        "id": "moma-weingart-artist",
+        "url": "https://www.moma.org/artists/6289-wolfgang-weingart",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "moma-greiman-artist",
+        "url": "https://www.moma.org/artists/2330-april-greiman",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "moma-process2",
+        "url": "https://www.moma.org/collection/works/86504",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "moma-kunstkredit",
+        "url": "https://www.moma.org/collection/works/101455",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "moma-greiman-dq",
+        "url": "https://www.moma.org/collection/works/172729",
+        "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "moma-sevenpixels",
+        "url": "https://www.moma.org/collection/works/7177",
+        "institution": "ニューヨーク近代美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Typographic Process, Nr 2. From Simple to Complex",
+        "creator": "Wolfgang Weingart（ヴォルフガング・ヴァインガルト）",
+        "date": "1973年",
+        "reason": "文字の組み立てを研究する仕事を伝える資料。後のカラフルなポスターだけで流れを説明しないために選びます。",
+        "domain": "文字・印刷の実験を示す印刷物",
+        "source_url": "https://www.moma.org/collection/works/86504",
+        "institution": "ニューヨーク近代美術館",
+        "title_ja": "タイポグラフィック・プロセス第2号：単純から複雑へ",
+        "evidence": "https://www.moma.org/collection/works/86504",
+        "reading_intro": {
+          "heading": "タイポグラフィック・プロセス第2号：単純から複雑へ",
+          "lead": [
+            "文字の組み立てを研究する仕事を伝える資料。後のカラフルなポスターだけで流れを説明しないために選びます。"
+          ]
+        }
+      },
+      {
+        "title": "Kunsthalle Basel Kunstkredit 76–77",
+        "creator": "Wolfgang Weingart（ヴォルフガング・ヴァインガルト）",
+        "date": "1977年",
+        "reason": "文字組みの実験を、展覧会を知らせる仕事に展開した例。文字の研究と実際の依頼をつなぎます。",
+        "domain": "展覧会ポスター",
+        "source_url": "https://www.moma.org/collection/works/101455",
+        "institution": "ニューヨーク近代美術館",
+        "title_ja": "クンストハレ・バーゼル：クンストクレディート76–77",
+        "evidence": "https://www.moma.org/collection/works/101455",
+        "reading_intro": {
+          "heading": "クンストハレ・バーゼル：クンストクレディート76–77",
+          "lead": [
+            "文字組みの実験を、展覧会を知らせる仕事に展開した例。文字の研究と実際の依頼をつなぎます。"
+          ]
+        }
+      },
+      {
+        "title": "DOES IT MAKE SENSE? Design Quarterly #133",
+        "creator": "April Greiman（エイプリル・グレイマン）",
+        "date": "1986年",
+        "reason": "グレイマンによる文字と画像の実験を示す印刷物。ヴァインガルトと同じ制作技法だと決めずに比べます。",
+        "domain": "雑誌の特別号・ポスター",
+        "source_url": "https://www.moma.org/collection/works/172729",
+        "institution": "ニューヨーク近代美術館",
+        "title_ja": "ダズ・イット・メイク・センス？：デザイン・クォータリー第133号",
+        "evidence": "https://www.moma.org/collection/works/172729",
+        "reading_intro": {
+          "heading": "ダズ・イット・メイク・センス？：デザイン・クォータリー第133号",
+          "lead": [
+            "グレイマンによる文字と画像の実験を示す印刷物。ヴァインガルトと同じ制作技法だと決めずに比べます。"
+          ]
+        }
+      },
+      {
+        "title": "Snow White + the Seven Pixels, An Evening with April Greiman",
+        "creator": "April Greiman（エイプリル・グレイマン）",
+        "date": "1986年",
+        "reason": "本人の講演を知らせる仕事。特別な雑誌号だけでなく、催しの情報を伝えるポスターも比較できます。",
+        "domain": "講演会ポスター",
+        "source_url": "https://www.moma.org/collection/works/7177",
+        "institution": "ニューヨーク近代美術館",
+        "title_ja": "スノー・ホワイトと7つのピクセル：エイプリル・グレイマンとの夕べ",
+        "evidence": "https://www.moma.org/collection/works/7177",
+        "reading_intro": {
+          "heading": "スノー・ホワイトと7つのピクセル：エイプリル・グレイマンとの夕べ",
+          "lead": [
+            "本人の講演を知らせる仕事。特別な雑誌号だけでなく、催しの情報を伝えるポスターも比較できます。"
+          ]
+        }
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 4,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "mfg-weingart",
+      "ch-greiman",
+      "moma-weingart-artist",
+      "moma-greiman-artist",
+      "moma-process2",
+      "moma-kunstkredit",
+      "moma-greiman-dq",
+      "moma-sevenpixels"
+    ]
+  },
+  {
+    "name": "Supergraphics",
+    "title_ja": "スーパーグラフィックス",
+    "slug": "supergraphics",
+    "type": "グラフィックと建築をつなぐ表現・潮流",
+    "period": "1960年代から。本文は1960年代の仕事と2018–2023年の展開を比較",
+    "region": "米国・カリフォルニアの例を中心に扱う",
+    "summary": "壁いっぱいの文字や線が、角を曲がって隣の壁へ続く。スーパーグラフィックスでは、建物の中にいる人の大きさや動きを考えながら、色や形を広げます。ただ大きなポスターを貼るのとは違い、壁、入口、曲がり角もデザインの一部になります。バーバラ・スタウファッハー・ソロモンの仕事が、その重要な例です。",
+    "context": "ソロモンは、カリフォルニアのシーランチで、建物の室内に大きな図形を描きました。紙の上で学んだ文字や形の組み立て方が、歩いて体験する場所へ広がったのです。ここでは、一人の作者の初期の仕事と後年の仕事を比べます。スーパーグラフィックス全体が一つの団体だった、あるいは大きな壁画ならすべて同じ流れだ、という意味ではありません。",
+    "recognition": {
+      "color": "強い色と白い壁の関係を見ます。色の境目が、部屋の区切りと同じ所にあるかも確かめましょう。",
+      "type": "文字や矢印は、言葉を読むものでもあり、空間の中で目立つ形でもあります。何を伝えるために置かれたかを考えます。",
+      "form": "壁の角、扉、天井と図形の関係を見ます。平らな紙の作品と違い、立つ場所で見え方が変わります。",
+      "composition": "一枚の写真に収まる形だけでなく、入る、曲がる、近づくという人の動きに沿って考えます。これは観察のための問いです。"
+    },
+    "comparison": "環境グラフィックは、案内表示などを含む、場所と情報をつなぐ広い分野です。スーパーグラフィックスは、その中でも建築の大きさに広がる色や形に注目して考えられます。ただし、すべてが道案内の役割を持つわけではありません。",
+    "modern": "部屋の写真に、取り外せる色紙を置くつもりで線を描いてみましょう。線を壁の角で止める場合と、隣の壁へつなぐ場合で、広さの感じ方が変わるでしょうか。本物の壁に描くときは、持ち主の許可が必要です。",
+    "reading_intro": {
+      "heading": "壁も、入口も、大きな画面になる。",
+      "lead": [
+        "色や文字が、壁いっぱいに広がります。",
+        "建物の角を曲がると、形の見え方も変わります。",
+        "歩く人の目線で、建物と絵のつながりを見てみましょう。"
+      ]
+    },
+    "representativeness_limit": "ソロモンの活動に絞った4例です。様々な作者による運動全体を網羅する選び方ではありません。後年の作品は、1960年代当時の作品と分けて紹介します。",
+    "sources": [
+      {
+        "id": "sfmoma-supergraphics",
+        "url": "https://www.sfmoma.org/read/brett-macfadden-supergraphics-going-big-together/",
+        "institution": "サンフランシスコ近代美術館"
+      },
+      {
+        "id": "sfmoma-searanch",
+        "url": "https://www.sfmoma.org/exhibition/sea-ranch/",
+        "institution": "サンフランシスコ近代美術館"
+      },
+      {
+        "id": "bampfa-landescape",
+        "url": "https://bampfa.org/press/bampfa-commissions-new-site-specific-installation-barbara-stauffacher-solomon",
+        "institution": "バークレー美術館・パシフィック映画資料館"
+      },
+      {
+        "id": "psm-solomon",
+        "url": "https://www.psmuseum.org/art/exhibitions/barbara-stauffacher",
+        "institution": "パームスプリングス美術館"
+      },
+      {
+        "id": "sfmoma-solomon-2023",
+        "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2023/08/31152029/SFMOMA-Barbara-Stauffacher-Solomon-Press-Release_08-14-23_updated_08-31-23.pdf",
+        "institution": "サンフランシスコ近代美術館"
+      }
+    ],
+    "representatives": [
+      {
+        "title": "Moonraker Athletic Center, The Sea Ranch：室内のスーパーグラフィックス",
+        "creator": "Barbara Stauffacher Solomon（バーバラ・スタウファッハー・ソロモン）",
+        "date": "1960年代半ば（サンフランシスコ近代美術館は1965年と記載）",
+        "reason": "建物の更衣室に大きな図形を展開した、初期の重要な例。紙から空間へ広がるデザインを考えます。",
+        "domain": "室内・壁面グラフィック",
+        "source_url": "https://www.sfmoma.org/read/brett-macfadden-supergraphics-going-big-together/",
+        "institution": "サンフランシスコ近代美術館",
+        "title_ja": "シーランチのムーンレイカー運動施設：室内のスーパーグラフィックス",
+        "evidence": "https://www.sfmoma.org/read/brett-macfadden-supergraphics-going-big-together/",
+        "reading_intro": {
+          "heading": "シーランチのムーンレイカー運動施設：室内のスーパーグラフィックス",
+          "lead": [
+            "建物の更衣室に大きな図形を展開した、初期の重要な例。紙から空間へ広がるデザインを考えます。"
+          ]
+        }
+      },
+      {
+        "title": "Land(e)scape 2018（ランドスケープ2018）",
+        "creator": "Barbara Stauffacher Solomon（バーバラ・スタウファッハー・ソロモン）",
+        "date": "2018年",
+        "reason": "バークレー美術館・パシフィック映画資料館の大きな壁から隣の展示室の入口へ続く作品。後年も建物との関係を考え続けた例です。",
+        "domain": "美術館の壁面・空間のための作品",
+        "source_url": "https://bampfa.org/press/bampfa-commissions-new-site-specific-installation-barbara-stauffacher-solomon",
+        "institution": "バークレー美術館・パシフィック映画資料館",
+        "evidence": "https://bampfa.org/press/bampfa-commissions-new-site-specific-installation-barbara-stauffacher-solomon",
+        "reading_intro": {
+          "heading": "ランドスケープ2018",
+          "lead": [
+            "バークレー美術館・パシフィック映画資料館の大きな壁から隣の展示室の入口へ続く作品。後年も建物との関係を考え続けた例です。"
+          ]
+        },
+        "title_ja": "ランドスケープ2018"
+      },
+      {
+        "title": "Breaking all the Rules展のための室内スーパーグラフィック",
+        "creator": "Barbara Stauffacher Solomon（バーバラ・スタウファッハー・ソロモン、設計）／McCann Sign Company（マッキャン・サイン・カンパニー）（壁面への制作）",
+        "date": "2019年",
+        "reason": "パームスプリングス美術館の展覧会で新たに設計された室内作品。作者の設計と、実際に壁へ描く仕事を分けて見る例です。",
+        "domain": "展覧会の室内・壁面グラフィック",
+        "source_url": "https://www.psmuseum.org/art/exhibitions/barbara-stauffacher",
+        "institution": "パームスプリングス美術館",
+        "title_ja": "ブレイキング・オール・ザ・ルールズ展の室内グラフィック",
+        "evidence": "https://www.psmuseum.org/art/exhibitions/barbara-stauffacher",
+        "reading_intro": {
+          "heading": "ブレイキング・オール・ザ・ルールズ展の室内グラフィック",
+          "lead": [
+            "パームスプリングス美術館の展覧会で新たに設計された室内作品。作者の設計と、実際に壁へ描く仕事を分けて見る例です。"
+          ]
+        }
+      },
+      {
+        "title": "Strips of Stripes（ストリップス・オブ・ストライプス）",
+        "creator": "Barbara Stauffacher Solomon（バーバラ・スタウファッハー・ソロモン）",
+        "date": "2023年",
+        "reason": "サンフランシスコ近代美術館の古い建物の縞模様と、後から増えた空間を結びつける仕事。赤い斜め線やオーケーを表す「OK」の文字が、建物に入る人を迎えます。",
+        "domain": "美術館の壁・天井に広がるグラフィック",
+        "source_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2023/08/31152029/SFMOMA-Barbara-Stauffacher-Solomon-Press-Release_08-14-23_updated_08-31-23.pdf",
+        "institution": "サンフランシスコ近代美術館",
+        "evidence": "https://d1hhug17qm51in.cloudfront.net/www-media/2023/08/31152029/SFMOMA-Barbara-Stauffacher-Solomon-Press-Release_08-14-23_updated_08-31-23.pdf",
+        "reading_intro": {
+          "heading": "ストリップス・オブ・ストライプス",
+          "lead": [
+            "サンフランシスコ近代美術館の古い建物の縞模様と、後から増えた空間を結びつける仕事。赤い斜め線やオーケーを表す「OK」の文字が、建物に入る人を迎えます。"
+          ]
+        },
+        "title_ja": "ストリップス・オブ・ストライプス"
+      }
+    ],
+    "adopted_images": [],
+    "image_count_acquired": 0,
+    "reference_images": [],
+    "reference_image_count": 0,
+    "representative_count": 4,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "publication_status": "published_article_image_collection_in_progress",
+    "checked_at": "2026-11-01",
+    "period_bands": [
+      "1950-1999",
+      "2000plus"
+    ],
+    "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
+    "source_ids": [
+      "sfmoma-supergraphics",
+      "sfmoma-searanch",
+      "bampfa-landescape",
+      "psm-solomon",
+      "sfmoma-solomon-2023"
+    ]
   }
 ]

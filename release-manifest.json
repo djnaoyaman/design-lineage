@@ -1,14 +1,14 @@
 {
-  "release": "public-art-nouveau-depth-20261102-0820",
+  "release": "public-catalog-history17-20261102",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
   "pages_branch": "main",
   "pages_path": "/",
-  "articles": 35,
+  "articles": 52,
   "planned_entries": 88,
-  "historical_representative_images": 46,
+  "historical_representative_images": 52,
   "reference_related_images": 2,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
@@ -46,13 +46,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3637,
-      "sha256": "d00b3e76fce90fe5bb830c47fbefb2f8b66bb91f64e56c676f99718e2bcd674b"
+      "bytes": 3673,
+      "sha256": "924023c464aca925cc71816549242857ada900f8d16d1bcab9ea50fb15842aa3"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 242721,
-      "sha256": "72a4c431c40100b2f931cc3f2ef1fee6f24ef37acf61557ac08b760d0ab2a2f9"
+      "bytes": 258617,
+      "sha256": "497b581339d32677d20285dce85f20ce1db99936e819850f54e4a7a2a3f4ed74"
     },
     {
       "path": "analytics-status.json",
@@ -745,6 +745,36 @@
       "sha256": "15ebfb8cf48f1d58199971e146ce813e8c9790eb17d9ae9c05ec3dcc21c00096"
     },
     {
+      "path": "assets/lineage-aquatic-park-bathhouse.jpg",
+      "bytes": 452972,
+      "sha256": "7cc1e437e55529a45c65c937529a9065d7e13024f17c0d4bc95e8d3b55762456"
+    },
+    {
+      "path": "assets/lineage-bagsvaerd-exterior.jpg",
+      "bytes": 439058,
+      "sha256": "ae4753d1bbbad1704c309bc4c0d5f51ee6845e0854ed324d900500359c2fcc88"
+    },
+    {
+      "path": "assets/lineage-barbican-exterior.jpg",
+      "bytes": 490254,
+      "sha256": "51c2fe1c276d71ad399057f3d8f15f5beb907c6d96ee9c623d59cb77bf5b74ee"
+    },
+    {
+      "path": "assets/lineage-eames-house-exterior.jpg",
+      "bytes": 617963,
+      "sha256": "5570848d99c752a8168dea0ab9c8586509d15a7af24276e8e4b7dbc71257ac2d"
+    },
+    {
+      "path": "assets/lineage-saynatsalo-exterior.jpg",
+      "bytes": 495611,
+      "sha256": "bb6230efa64d6ce3c2b1a5590ccce03562b5ee02e01be72a813a4bd66639eeda"
+    },
+    {
+      "path": "assets/lineage-vkhutemas-cover-1927.jpg",
+      "bytes": 175422,
+      "sha256": "efa7c2f546192a1542f35747f1aa1aa2ae5887233444f52ea870e8bedb829d99"
+    },
+    {
       "path": "assets/met-37358-sharaku-1200.webp",
       "bytes": 723194,
       "sha256": "6f55d0e8deed415383b3ef57841c5a4e24875fdbd77b062ede04d21489add1c5"
@@ -961,13 +991,13 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 31549,
-      "sha256": "fbec111913490ad4e09563e16587484f900b7393ca8bd46cedc7b6f3324404d0"
+      "bytes": 33258,
+      "sha256": "6bc3c3e055e996459c43c67526b0a4097adbc7b6ae27cd2a2f0e08f6b7eeb23c"
     },
     {
       "path": "compare.html",
       "bytes": 6460,
-      "sha256": "e7a2925159e2976bfb75920ccb7033072a8447c9a12997f075116dac468de29d"
+      "sha256": "7ed2acd5b3f9e8834edaf177e9f0168c14708637af67231f94395bc3917c8779"
     },
     {
       "path": "compare.js",
@@ -1005,9 +1035,24 @@
       "sha256": "fd33220f195f31745c9c9c3ee918d6b374427ee7ad36e134b4772109fcc59d39"
     },
     {
+      "path": "entries/black-mountain-college.html",
+      "bytes": 12112,
+      "sha256": "4c17d85f5a5dcb7af6e79d60f7dd78ac0ec13df9f65f18f821f44c9f6a2a5614"
+    },
+    {
+      "path": "entries/brutalism.html",
+      "bytes": 15050,
+      "sha256": "051cf04e7eba7c3fe4cf1c22e3ecb755595a86c80bfb3dcea8cabf936758b61d"
+    },
+    {
       "path": "entries/china-new-woodcut.html",
       "bytes": 21486,
       "sha256": "866016b948a2a6aee884eb896e1514077c46274f065d67c0c67c75380ef219cf"
+    },
+    {
+      "path": "entries/critical-regionalism.html",
+      "bytes": 17419,
+      "sha256": "2a1f729c384cdbc28e804e21af572977444643bc6ca6272a1aee29fb8f04bbc1"
     },
     {
       "path": "entries/dada.html",
@@ -1065,9 +1110,19 @@
       "sha256": "6b956d710429d01a91e0281de19b93a7ed9ab94b0c3474e433727162be6c8d05"
     },
     {
+      "path": "entries/jugendstil.html",
+      "bytes": 13028,
+      "sha256": "42ce81c3a5896b6aa02b4b6ea432d7f0b2dec267551116ec65260af18dd95fdb"
+    },
+    {
       "path": "entries/material-design.html",
       "bytes": 21426,
       "sha256": "cdea54ff8ddbb65754373ab1d5f2eaa40b8655ba36670c9a11c9bec1465de3df"
+    },
+    {
+      "path": "entries/memphis.html",
+      "bytes": 12826,
+      "sha256": "82e7a3a64f3bedd6e80d855cc58f00aac80a7169b21bb34d30310ab95c100f2b"
     },
     {
       "path": "entries/metabolism.html",
@@ -1080,6 +1135,11 @@
       "sha256": "8bf9c070fc3f1c1b0adf9775bb94e111829fd9a4a892da77d6be9f489c14168d"
     },
     {
+      "path": "entries/mid-century-modern.html",
+      "bytes": 14927,
+      "sha256": "f4bba4c33565699cd0bcc8ce4162a7f192dbef67b8f7fd854bf8f35d1d6e60ad"
+    },
+    {
       "path": "entries/mingei.html",
       "bytes": 21379,
       "sha256": "ffb0f9cb473390bdae6a254dc309e0516c83efe13fff37e9d49f84c6aeed5a71"
@@ -1090,9 +1150,19 @@
       "sha256": "9b2eb9a16fbbbb33ad8fec6fc8e8e54852cb51e91eae2cec1b453bc2050d6519"
     },
     {
+      "path": "entries/new-bauhaus-chicago.html",
+      "bytes": 13370,
+      "sha256": "62c1c43ae710f2c9840ccfff665f56c6c476dc17061a06ce2166d66dd8866c3a"
+    },
+    {
       "path": "entries/new-typography.html",
       "bytes": 27266,
       "sha256": "ef74b951f50b66aaba1379b293c364b5922552ef1639da61517e42c21c7639ed"
+    },
+    {
+      "path": "entries/new-wave-typography.html",
+      "bytes": 14247,
+      "sha256": "ff4b6878a8ebc25101fdb7344477b1ee83ec895d1980f9a4166e415f0bae7627"
     },
     {
       "path": "entries/nsukka-school.html",
@@ -1100,9 +1170,29 @@
       "sha256": "49f2c1aa84fc415119e48097136eeb87cd72b2fa14e11f8a26b9b6d10cd6115f"
     },
     {
+      "path": "entries/polish-poster-school.html",
+      "bytes": 11569,
+      "sha256": "479d3090f5b35fb75532b0468ca55e1440c772044cf193c0efe30c7c3f3c4c54"
+    },
+    {
       "path": "entries/postmodernism.html",
       "bytes": 22118,
       "sha256": "dc289d035ebb2aeefd3abe43df72fceba86a84314f02899ddcf948fab3517709"
+    },
+    {
+      "path": "entries/psychedelic-art.html",
+      "bytes": 11182,
+      "sha256": "105a48b6d487f4d736ad96d75e1adf54321df68124ec6a8b05dcd56b24730a26"
+    },
+    {
+      "path": "entries/punk-diy.html",
+      "bytes": 12043,
+      "sha256": "67a7cf81d09a5f3aeb635e88ce006ef76cb3535c887ecb8ee382333532e345e0"
+    },
+    {
+      "path": "entries/radical-design.html",
+      "bytes": 12586,
+      "sha256": "82e54b7e98b0b0e654c3905d0b6ce21321174f651a81696aa72a3eb067cdcbf4"
     },
     {
       "path": "entries/rinpa.html",
@@ -1125,14 +1215,34 @@
       "sha256": "980a29d489c386724ff9b5ab6e2748246b56e6ff4add4227df4e30d5241ae94e"
     },
     {
+      "path": "entries/scandinavian-modern.html",
+      "bytes": 15619,
+      "sha256": "dfce585f624544fe796b386f0ca737409a93ff37355148fb2e93ed2f09a31cf4"
+    },
+    {
       "path": "entries/sosaku-hanga.html",
       "bytes": 34963,
       "sha256": "a0ba4b75ef81d628b1dda2c4d0df1761360f6811d311116c78f36ea66c9ff6a4"
     },
     {
+      "path": "entries/streamline-moderne.html",
+      "bytes": 16851,
+      "sha256": "247d63f80c13dccbef896a26478555a402c941707d912da51819bdf2691fed10"
+    },
+    {
+      "path": "entries/supergraphics.html",
+      "bytes": 14466,
+      "sha256": "ed082010e4e12f653bdda35aa6ab03e79d789d019c8a455fb6999d004f0eb20d"
+    },
+    {
       "path": "entries/suprematism.html",
       "bytes": 21634,
       "sha256": "5abecc4dcc13c324b3684a9978d9f5525b929d135e88826e40b20dcea01463be"
+    },
+    {
+      "path": "entries/surrealism.html",
+      "bytes": 11808,
+      "sha256": "2d7cf2fad53ed0542529b3744cfbd39ea30c2bcdef89360f027290a3c95d6b5c"
     },
     {
       "path": "entries/swiss-style.html",
@@ -1150,14 +1260,19 @@
       "sha256": "721a6408bd3c458c5b5464a2d7600a390177cb211ff9ba36c69a6413bcfac049"
     },
     {
+      "path": "entries/vkhutemas.html",
+      "bytes": 13970,
+      "sha256": "44e15e1e271b2bbda381910e87daec197b92844761ab702b22a1753dcf013199"
+    },
+    {
       "path": "entries/wiener-werkstaette.html",
       "bytes": 22382,
       "sha256": "2fdf24b90f47e0a421329704a0cf448d3d6e0cb6db3af6c5d55610b2bab294c3"
     },
     {
       "path": "entries.json",
-      "bytes": 1114796,
-      "sha256": "63454163cc6b01e85bee291676257f5a899094593642da9ccc36a4bb14c6557d"
+      "bytes": 1281066,
+      "sha256": "4016fed2de786057a2517bcd017a06536cc40e4140a867fa58ec8b899a7d756e"
     },
     {
       "path": "external-preview-rights.json",
@@ -1186,8 +1301,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 23966,
-      "sha256": "c724a33d6da76d4245a0ff351024f0d6854f9f5c11558ae5726cd107b45c4432"
+      "bytes": 23953,
+      "sha256": "4e6dfce2e7d44e315e96dc755b9e4776b82f35a2302cf510ac56eeefe2e65f7a"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1196,8 +1311,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 9252,
-      "sha256": "0892e481d406f992e5f85fedcf5bc44957d07f72f46e3c9eba736b7b1c93cb12"
+      "bytes": 14891,
+      "sha256": "b9e0354d3bd1c6d616b1c760fbdec7c7020a97978b51e6e40bbbb951a9c241a3"
     },
     {
       "path": "logo-provenance.json",
@@ -1246,8 +1361,8 @@
     },
     {
       "path": "site-update.json",
-      "bytes": 2715,
-      "sha256": "7d9163b091d312c1288344e9728857f7bc30156381602621d24748c72987186c"
+      "bytes": 3815,
+      "sha256": "62c142e47a247b709030514af64f497d115a591a5a0759b7b2e76d75a745408d"
     },
     {
       "path": "site.webmanifest",
@@ -1256,8 +1371,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 5307,
-      "sha256": "574ef0d13412a73a4265b605a0843ae7139916fcf875d58b6bac4d2369c8032f"
+      "bytes": 7648,
+      "sha256": "2acf8bfabda7dcee2c9ed8e637b8ab3ee5769139b500dee47a1b0b2fac819885"
     },
     {
       "path": "study-images.js",
@@ -1266,8 +1381,8 @@
     },
     {
       "path": "study.css",
-      "bytes": 10412,
-      "sha256": "84a8c8eec6ca7ce407aff035507adeb04ba9ed24b954ba4916bb96177739a0d4"
+      "bytes": 10571,
+      "sha256": "18da0811d15594af300df35044dafe9890f821a184bfa081c71b19dcb25adb28"
     },
     {
       "path": "style.css",
@@ -1276,8 +1391,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 7185,
-      "sha256": "44196b87d1ed1a9592b6b5f0f7d3604848fd0543864a061962baa38a31d86542"
+      "bytes": 8277,
+      "sha256": "0d855ae7ab8804a38beca0467c6d007d42c435a33c9e7ff21bda34c1af02a159"
     },
     {
       "path": "timeline.css",
@@ -1287,7 +1402,7 @@
     {
       "path": "timeline.html",
       "bytes": 8708,
-      "sha256": "2dc3b0243bde0eb7c86d72c6900e6a5f60b441d51f4f9f777717a786cfc2c4f5"
+      "sha256": "f0bdafcba173b9f7ad4888417b07893531e759fa5fffa0efe420e3a3298bf1d8"
     },
     {
       "path": "timeline.js",
@@ -1302,10 +1417,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T08:20:00+09:00",
+  "frozen_at": "2026-11-02T08:28:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 165,
+  "rewritten_representative_cards": 220,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1390,5 +1505,16 @@
     "scope": "posters, decorative print, furniture, glass, lighting, jewelry and architecture; sourced reader guide",
     "physical_device_test": false,
     "responsive_ci": "pending exact-commit verification"
-  }
+  },
+  "representative_image_placements": 53,
+  "unique_representative_image_files": 52,
+  "catalog_expansion": [
+    {
+      "batch": "history17",
+      "new_articles": 17,
+      "new_examples": 55,
+      "catalog_complete": false,
+      "image_collection": "in progress; text publication is not image completion"
+    }
+  ]
 }
