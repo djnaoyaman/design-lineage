@@ -1,5 +1,5 @@
 {
-  "release": "public-nakajima-more-works-20261102",
+  "release": "public-vienna-display-fix-20261102",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
@@ -1031,8 +1031,8 @@
     },
     {
       "path": "entries/vienna-secession.html",
-      "bytes": 30450,
-      "sha256": "543341a9eaeb59ef2e3f00646a79c7531a680a7a3421b53701bc640d255817e7"
+      "bytes": 30326,
+      "sha256": "41e9765e6fe7393c8dd352632873fb3c29099bdb110f98cd232ec9eb08d5a4cb"
     },
     {
       "path": "entries/wiener-werkstaette.html",
@@ -1072,7 +1072,7 @@
     {
       "path": "index.html",
       "bytes": 23966,
-      "sha256": "f9c85d01820b5d3239107b6e430b9ff94439662017a81e96c6478014b00eac54"
+      "sha256": "d056d9443356648d85cb29423770037a8e889a931b7e059c3be855f139adfb89"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1117,7 +1117,7 @@
     {
       "path": "site-update.json",
       "bytes": 2715,
-      "sha256": "9a717feea48631a34c491d41ac3ec3567e57e209daba9a6248b2181a6a48ad6c"
+      "sha256": "f7f27aa8daed1e6a9b21644319a71abfa95d861a22e1755bed05cac74534b00c"
     },
     {
       "path": "site.webmanifest",
@@ -1127,7 +1127,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 5307,
-      "sha256": "374c1a4814cf90a4726ab5bda4d3adb7afd5171f93487c6277c599f766740fe4"
+      "sha256": "21597219d130609c4b324b735167564757476378554aad5156822e08f6faf190"
     },
     {
       "path": "study-images.js",
@@ -1136,8 +1136,8 @@
     },
     {
       "path": "study.css",
-      "bytes": 10295,
-      "sha256": "b226f23e8d0f80a15dd329de59a06ba170862407993c04c0c9d59d66ef3e10a2"
+      "bytes": 10412,
+      "sha256": "84a8c8eec6ca7ce407aff035507adeb04ba9ed24b954ba4916bb96177739a0d4"
     },
     {
       "path": "style.css",
@@ -1167,7 +1167,7 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T05:10:00+09:00",
+  "frozen_at": "2026-11-02T07:13:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
   "rewritten_representative_cards": 159,
@@ -1236,5 +1236,12 @@
     "entry_images": 4,
     "photo_license": "CC BY4.0",
     "AAGA_added": 0
+  },
+  "display_fixes": {
+    "vienna": {
+      "scope": "single-child work card width",
+      "static_regression": "passed",
+      "browser_pixels": "pending verification"
+    }
   }
 }

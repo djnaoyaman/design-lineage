@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02T05:10:00+09:00",
+  "updated_at": "2026-11-02T07:13:00+09:00",
   "timezone": "Asia/Tokyo",
   "meaning": "Page-specific substantive HTML/local presentation assets and explicitly fetched JSON hash; date markers excluded; homepage shows aggregate latest; original/source dates unchanged",
   "page_count": 39,
   "pages": {
-    "index.html": "2026-11-02T05:10:00+09:00",
+    "index.html": "2026-11-02T07:13:00+09:00",
     "timeline.html": "2026-11-02T02:00:00+09:00",
     "compare.html": "2026-11-02T05:10:00+09:00",
     "compiler.html": "2026-11-01T22:53:00+09:00",
@@ -17,7 +17,7 @@
     "entries/international-style.html": "2026-11-02T02:12:00+09:00",
     "entries/rococo.html": "2026-11-02T02:12:00+09:00",
     "entries/futurism.html": "2026-11-02T02:12:00+09:00",
-    "entries/vienna-secession.html": "2026-11-02T02:12:00+09:00",
+    "entries/vienna-secession.html": "2026-11-02T07:13:00+09:00",
     "entries/mingei.html": "2026-11-02T02:12:00+09:00",
     "entries/isotype.html": "2026-11-02T02:12:00+09:00",
     "entries/russian-constructivism.html": "2026-11-02T02:12:00+09:00",
