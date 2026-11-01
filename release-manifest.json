@@ -66,8 +66,8 @@
     },
     {
       "path": "art-nouveau.css",
-      "bytes": 2295,
-      "sha256": "17088b3935a973575a190e0bf6c125d85292af28ee73573128c30b0ee07032bb"
+      "bytes": 2309,
+      "sha256": "5af132912a8ec0313c3d8d41b59937067d50c365c93488eb5e60f3c9a6c135ad"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1391,8 +1391,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 9443,
-      "sha256": "35ecc42c06164de925fe8414c0a3e7f7629310af375ed7244f5e7c044abe3ccb"
+      "bytes": 9657,
+      "sha256": "b7d9cae7363dd25815fca28b4cf1c8a9f0cbc223ffb11a97b3aee86d10f6ac65"
     },
     {
       "path": "timeline.css",

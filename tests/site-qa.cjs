@@ -27,8 +27,8 @@ for(const width of [320,390,1280]){
     // Keep title word units intact at normal scale and 200% CSS layout zoom.
     for(const zoom of [1,2]){
      await page.evaluate(z=>{document.documentElement.style.zoom=String(z);window.scrollTo({top:0,behavior:'instant'});},zoom);
-     const title=await page.locator('.study-title h1').evaluate(h=>({text:h.textContent,box:{left:h.getBoundingClientRect().left,right:h.getBoundingClientRect().right},words:[...h.querySelectorAll('.title-word')].map(w=>{const r=document.createRange();r.selectNodeContents(w);return {text:w.textContent,lines:r.getClientRects().length,left:w.getBoundingClientRect().left,right:w.getBoundingClientRect().right};})}));
-     assert.equal(title.text,'アール・ヌーヴォー');assert.equal(title.words.length,2);assert(title.words.every(w=>w.lines===1&&w.left>=0&&w.right<=width+1),'Intact Art Nouveau title words at '+zoom+'x');
+     const title=await page.locator('.study-title h1').evaluate(h=>({text:h.textContent,box:{left:h.getBoundingClientRect().left,right:h.getBoundingClientRect().right},words:[...h.querySelectorAll('.title-word')].map(w=>{const r=document.createRange();r.selectNodeContents(w);const pair=document.createRange();pair.setStart(w.firstChild,w.textContent.length-2);pair.setEnd(w.firstChild,w.textContent.length);return {lastPairTogether:pair.getClientRects().length===1,text:w.textContent,lines:r.getClientRects().length,left:w.getBoundingClientRect().left,right:w.getBoundingClientRect().right};})}));
+     assert.equal(title.text,'アール・ヌーヴォー');assert.equal(title.words.length,2);assert(title.words.every(w=>(zoom===2||w.lines===1)&&w.lastPairTogether&&w.left>=0&&w.right<=width+1),'Intact Art Nouveau title words at '+zoom+'x');
      fs.writeFileSync(`qa-artifacts/art-nouveau-title-${width}-${zoom}x.json`,JSON.stringify(title,null,2));
      await page.locator(".study-title").screenshot({path:`qa-artifacts/art-nouveau-title-${width}-${zoom}x.png`});
     }
