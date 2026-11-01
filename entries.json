@@ -3329,10 +3329,32 @@
           "内省による理論、複数の秩序体系と相対性。調査年は断定しない。"
         ],
         "image_reuse": "このサイトの現代自作図。原資料画像を複製せず、歴史代表作品数に含めない。"
+      },
+      {
+        "id": "aichi-FP199000002002",
+        "url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4126",
+        "institution": "Aichi Prefectural Museum of Art / 愛知県美術館",
+        "inspection": "公式個別本文・写真・PDM指定と同ページの画像利用規約を確認。",
+        "supports": [
+          "1923年学校マイスターマッペ所収の個別作品、作者・技法・所蔵番号。",
+          "個別公開画像のPDM表示と営利/非営利再利用条件。"
+        ],
+        "image_reuse": "Public Domain Mark。所蔵館表示、縮小/WebP変換表示、第三者権利留保を維持。"
+      },
+      {
+        "id": "aichi-FP199000002003",
+        "url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4133",
+        "institution": "Aichi Prefectural Museum of Art / 愛知県美術館",
+        "inspection": "公式個別本文・写真・PDM指定と同ページの画像利用規約を確認。",
+        "supports": [
+          "1923年学校マイスターマッペ所収の個別作品、作者・技法・所蔵番号。",
+          "個別公開画像のPDM表示と営利/非営利再利用条件。"
+        ],
+        "image_reuse": "Public Domain Mark。所蔵館表示、縮小/WebP変換表示、第三者権利留保を維持。"
       }
     ],
-    "status": "本文試作・実作品画像1点収録 / 代表画像セットは整備中",
-    "image_count_acquired": 1,
+    "status": "本文試作・学校に関わる紙作品3点収録 / 家具・建築の実画像は整備中",
+    "image_count_acquired": 3,
     "representatives": [
       {
         "title": "Punkt und Linie zu Fläche（Bauhausbücher 9）— Tanz、p.36 / fig.9",
@@ -3449,6 +3471,46 @@
             "バウハウスの校舎です。",
             "授業をする所、物をつくる所、暮らす所などが、組み合わされています。",
             "それぞれの場所が、どうつながるかに目を向けます。"
+          ]
+        }
+      },
+      {
+        "title": "Frolicsome Flight from \"Meistermappe des Staatlichen Bauhauses\"",
+        "creator": "ヴァシリー・カンディンスキー",
+        "date": "1923",
+        "domain": "教員版画集・リトグラフ",
+        "reason": "学校の先生たちの作品を集めた版画集の1枚です。展覧会案内と比べ、情報を伝える紙と、線や色を試す作品の違いを見るために選びました。",
+        "limitation": "学生の授業成果ではありません。これだけで学校のすべての分野を代表させず、家具や建築の実作品画像は引き続き整備します。",
+        "evidence": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4126",
+        "work_rights": "Museum marks the image Public Domain and identifies1923 work by artist died1944. Original artwork and photographic reproduction considered separately; no living third-party artist identified. Do not extend to all portfolio artists.",
+        "reproduction_rights": "Public Domain Mark on individual image. Same page permits commercial/noncommercial download, reproduction and redistribution; requests collection credit and disclosure of crop/modification; reserves third-party rights. Not CC0.",
+        "commercial_use": "Museum same-page policy expressly permits commercial and noncommercial reproduction and redistribution of individually PDM-labelled images. Third-party rights reservation retained.",
+        "image_adoption": "採用",
+        "reading_intro": {
+          "heading": "斜めの線が、上へ動き出す。",
+          "lead": [
+            "黒い太い線が、左下から右上へ伸びています。その周りには、細い線や丸い曲線。線の太さや向きだけでも、動く感じが生まれるのですね。",
+            "左上には大きな丸、右下には赤い形があります。小さな四角も探してみましょう。色や形の置き方で、目の動く先が変わります。"
+          ]
+        }
+      },
+      {
+        "title": "Man Fell in Love from \"Meistermappe des Staatlichen Bauhauses\"",
+        "creator": "パウル・クレー",
+        "date": "1923",
+        "domain": "教員版画集・リトグラフ",
+        "reason": "学校の先生たちの作品を集めた版画集の1枚です。展覧会案内と比べ、情報を伝える紙と、線や色を試す作品の違いを見るために選びました。",
+        "limitation": "学生の授業成果ではありません。これだけで学校のすべての分野を代表させず、家具や建築の実作品画像は引き続き整備します。",
+        "evidence": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4133",
+        "work_rights": "Museum individualPDM for1923work by artist died1940. Work and photo conditions are recorded separately; not extended to other authors in portfolio.",
+        "reproduction_rights": "Public Domain Mark on individual image. Same page permits commercial/noncommercial download, reproduction and redistribution; requests collection credit and disclosure of crop/modification; reserves third-party rights. Not CC0.",
+        "commercial_use": "Museum same-page policy expressly permits commercial and noncommercial reproduction and redistribution of individually PDM-labelled images. Third-party rights reservation retained.",
+        "image_adoption": "採用",
+        "reading_intro": {
+          "heading": "丸の中の、折れ曲がる人。",
+          "lead": [
+            "大きな淡い円の中を見てみましょう。曲がった手足のような形が重なっています。写真のように描かなくても、人の姿や動きを感じられます。",
+            "赤茶色の面には、濃いところと薄いところがあります。その上を細い線が通っています。カンディンスキーの太い黒線とは、どんな違いがあるでしょう。"
           ]
         }
       }
@@ -3582,6 +3644,122 @@
               "bytes": 607942,
               "sha256": "294e657587f2e74461a41c6bbdd64485c1a5589f2305356045f2254763553078",
               "format": "image/webp"
+            }
+          ]
+        }
+      },
+      {
+        "id": "aichi-FP199000002002",
+        "entry": "Bauhaus",
+        "author": "ヴァシリー・カンディンスキー",
+        "author_life": "1866–1944",
+        "title": "Frolicsome Flight from \"Meistermappe des Staatlichen Bauhauses\"",
+        "year": "1923",
+        "institution": "愛知県美術館 / Aichi Prefectural Museum of Art",
+        "accession": "FP199000002002",
+        "source_page": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4126",
+        "image_url": "https://jmapps.ne.jp/apmoa2/pict.html?pict_size=l&data_id=247&dt=20190813_5",
+        "license": "Public Domain Mark（個別画像の指定。CC0とは別）",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rights_policy_url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4126",
+        "checked_at": "2026-11-01",
+        "credit": "ヴァシリー・カンディンスキー, Frolicsome Flight from \"Meistermappe des Staatlichen Bauhauses\", 1923. 愛知県美術館蔵、FP199000002002。Image: Public Domain Mark.",
+        "underlying_work_rights": "Museum marks the image Public Domain and identifies1923 work by artist died1944. Original artwork and photographic reproduction considered separately; no living third-party artist identified. Do not extend to all portfolio artists.",
+        "reproduction_rights": "Public Domain Mark on individual image. Same page permits commercial/noncommercial download, reproduction and redistribution; requests collection credit and disclosure of crop/modification; reserves third-party rights. Not CC0.",
+        "commercial_use": "Museum same-page policy expressly permits commercial and noncommercial reproduction and redistribution of individually PDM-labelled images. Third-party rights reservation retained.",
+        "territory_note": "Individual museum designation and creator/work record; not a warranty of all rights in every territory. Not extended to other portfolio leaves.",
+        "photo_author": "Photographer and photography date not named;0000/00/00 not treated as a real date.",
+        "local_file": "assets/kandinsky-meistermappe-1923-official.jpg",
+        "local_bytes": 209451,
+        "width": 951,
+        "height": 1200,
+        "sha256": "9146adc6a9effd97a73b3b1802656c5379caf527f276130ffa950fbd2b108205",
+        "alt": "白い紙の上で、太い黒い斜めの線が右上へ伸びる。赤・黄・青・オリーブ色の丸や四角と、細い線や曲線が重なる。",
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "status": "adopted_local_image",
+        "display_verified": false,
+        "viewing_point": "黒い太い線が、左下から右上へ伸びています。その周りには、細い線や丸い曲線。線の太さや向きだけでも、動く感じが生まれるのですね。 左上には大きな丸、右下には赤い形があります。小さな四角も探してみましょう。色や形の置き方で、目の動く先が変わります。",
+        "representativeness": "A specific leaf from the1923school masters portfolio. School-issued graphic material, not a student assignment.",
+        "collection_request_note": "Collection credit and crop/modification disclosure included. Museum request for a copy of deliverables recorded; no external delivery made.",
+        "display_derivatives": {
+          "method": "Aspect-preserving resize/WebP; ICC retained if present; no crop, retouch or colour adjustments. Entire sheet and photo colour target kept.",
+          "original_unchanged": true,
+          "sizes": "(max-width:700px) 88vw, 900px",
+          "variants": [
+            {
+              "file": "kandinsky-meistermappe-1923-640.webp",
+              "width": 640,
+              "height": 808,
+              "bytes": 111786,
+              "sha256": "907a4516b570cdf6b010a8a8064acac9c725f90e5cccd755f286fb871c86616d",
+              "local_file": "assets/kandinsky-meistermappe-1923-640.webp"
+            },
+            {
+              "file": "kandinsky-meistermappe-1923-951.webp",
+              "width": 951,
+              "height": 1200,
+              "bytes": 192516,
+              "sha256": "348c126c9fd9b7060e819bce452722243a190b943b05b5322d9ab29b917e65f1",
+              "local_file": "assets/kandinsky-meistermappe-1923-951.webp"
+            }
+          ]
+        }
+      },
+      {
+        "id": "aichi-FP199000002003",
+        "entry": "Bauhaus",
+        "author": "パウル・クレー",
+        "author_life": "1879–1940",
+        "title": "Man Fell in Love from \"Meistermappe des Staatlichen Bauhauses\"",
+        "year": "1923",
+        "institution": "愛知県美術館 / Aichi Prefectural Museum of Art",
+        "accession": "FP199000002003",
+        "source_page": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4133",
+        "image_url": "https://jmapps.ne.jp/apmoa2/pict.html?pict_size=l&data_id=248&dt=20190813_5",
+        "license": "Public Domain Mark（個別画像の指定。CC0とは別）",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rights_policy_url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4133",
+        "checked_at": "2026-11-01",
+        "credit": "パウル・クレー, Man Fell in Love from \"Meistermappe des Staatlichen Bauhauses\", 1923. 愛知県美術館蔵、FP199000002003。Image: Public Domain Mark.",
+        "underlying_work_rights": "Museum individualPDM for1923work by artist died1940. Work and photo conditions are recorded separately; not extended to other authors in portfolio.",
+        "reproduction_rights": "Public Domain Mark on individual image. Same page permits commercial/noncommercial download, reproduction and redistribution; requests collection credit and disclosure of crop/modification; reserves third-party rights. Not CC0.",
+        "commercial_use": "Museum same-page policy expressly permits commercial and noncommercial reproduction and redistribution of individually PDM-labelled images. Third-party rights reservation retained.",
+        "territory_note": "Individual museum designation and creator/work record; not a warranty of all rights in every territory. Not extended to other portfolio leaves.",
+        "photo_author": "Photographer and photography date not named;0000/00/00 not treated as a real date.",
+        "local_file": "assets/klee-man-fell-in-love-1923-official.jpg",
+        "local_bytes": 315629,
+        "width": 951,
+        "height": 1200,
+        "sha256": "5607d586db5cb297f6e2a0876c20191d15a4779b1bc48c6957b730bdc9adc550",
+        "alt": "赤茶色の画面の大きな淡い円の中に、手足を曲げた人のような姿が描かれる。細い線が下へ続き、輪をつくっている。",
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "status": "adopted_local_image",
+        "display_verified": false,
+        "viewing_point": "大きな淡い円の中を見てみましょう。曲がった手足のような形が重なっています。写真のように描かなくても、人の姿や動きを感じられます。 赤茶色の面には、濃いところと薄いところがあります。その上を細い線が通っています。カンディンスキーの太い黒線とは、どんな違いがあるでしょう。",
+        "representativeness": "A specific leaf from the1923school masters portfolio. School-issued graphic material, not a student assignment.",
+        "collection_request_note": "Collection credit and crop/modification disclosure included. Museum request for a copy of deliverables recorded; no external delivery made.",
+        "display_derivatives": {
+          "method": "Aspect-preserving resize/WebP; ICC retained if present; no crop, retouch or colour adjustments. Entire sheet and photo colour target kept.",
+          "original_unchanged": true,
+          "sizes": "(max-width:700px) 88vw, 900px",
+          "variants": [
+            {
+              "file": "klee-man-fell-in-love-1923-640.webp",
+              "width": 640,
+              "height": 808,
+              "bytes": 177308,
+              "sha256": "abcdbe40b49668f58ef940c71f947d589d3e95a54ea784c174dbdac4326b55b6",
+              "local_file": "assets/klee-man-fell-in-love-1923-640.webp"
+            },
+            {
+              "file": "klee-man-fell-in-love-1923-951.webp",
+              "width": 951,
+              "height": 1200,
+              "bytes": 344662,
+              "sha256": "8424e3e24da4e461874a045f9bbf0532152dcf5cd6b7199f7dbf53b41b204cb4",
+              "local_file": "assets/klee-man-fell-in-love-1923-951.webp"
             }
           ]
         }
