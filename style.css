@@ -9,3 +9,11 @@
 @media(max-width:390px){.catalog{grid-template-columns:1fr}.entry{min-height:0;padding:22px 0}.entry h3{font-size:24px}.catalog.list .entry{grid-template-columns:1fr}.catalog.list .entry .status{grid-column:1}}
 
 .brand{display:block;letter-spacing:0;flex-shrink:0}.brand img{display:block;width:180px;height:auto}.brand span{text-align:center}.footer-brand img{display:block;width:220px;height:auto}footer .footer-brand{flex-shrink:0}@media(max-width:650px){.brand img{width:160px}.footer-brand img{width:200px}}
+
+/* Responsive QA: centered small-screen identity and unbroken navigation labels. */
+header nav{flex-wrap:wrap;align-items:center;justify-content:center}header nav a{white-space:nowrap;min-height:44px;display:inline-flex;align-items:center}
+@media(max-width:900px){header{display:grid;grid-template-columns:1fr;justify-items:center;gap:18px;padding:26px 6vw 18px}.brand{text-align:center}.brand img{width:180px;max-width:100%;height:auto}header nav{width:100%;gap:6px 20px;font-size:14px;line-height:1.5}header .edition{display:none}}
+.preview-note .progress-summary{margin:0;font-size:14px;line-height:1.8}.preview-note details{grid-column:2;font-size:12px;line-height:1.9}.preview-note details summary{cursor:pointer;padding:8px 0;min-height:44px}.preview-note details p{margin:8px 0 0;max-width:100%}
+@media(max-width:650px){.preview-note details{grid-column:1}.preview-note .progress-summary{font-size:13px}.preview-note{gap:8px}.preview-note details p{font-size:12px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important}}
+.preview-note details{margin:0;padding:0;border:0}.preview-note details summary{padding:6px 0;min-height:40px}.preview-note details[open]{margin-top:0}

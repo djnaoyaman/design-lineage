@@ -25,3 +25,6 @@
 
 /* Plain-language edition: preserve detail, give prose room. */
 .study-overview p,.study-views p,.study-context p{font-size:16px;line-height:1.95;max-width:68ch}.representative p{line-height:1.9}.study p.note,.study .rights-strip{font-size:13px;line-height:1.85}@media(max-width:650px){.study-overview p,.study-views p,.study-context p{font-size:15px}.study-views{gap:28px}}
+
+/* Prevent long names and rights credits from imposing a grid min-content width. */
+.representative>div{min-width:0}.rights-strip,.work-byline,.study-sources a{overflow-wrap:anywhere}
