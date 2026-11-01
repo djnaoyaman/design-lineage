@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-10-30",
+  "images": [
+    {
+      "id": "cma-1961.154",
+      "author": "Paul Klee",
+      "author_life": "1879–1940",
+      "title": "Tightrope Walker",
+      "year": 1923,
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1961.154",
+      "source_page": "https://www.clevelandart.org/art/1961.154",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1961.154/1961.154_print.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Paul Klee, Tightrope Walker, 1923. The Cleveland Museum of Art. Gift of The Print Club of Cleveland. 1961.154. CC0.",
+      "underlying_work_rights": "Museum individual object record explicitly permits copying, modifying and distributing this work; museum Open Access policy identifies corresponding works as public domain. Not inferred solely from artist death date.",
+      "reproduction_rights": "Museum Open Access policy explicitly releases designated high-resolution images under CC0.",
+      "territory_note": "Institutional public-domain assessment from a US museum, not a representation of worldwide legal clearance. Reassess applicable jurisdictions before global commercial deployment.",
+      "status": "local_reference_image_not_representative",
+      "local_file": "assets/cma-1961.154-reference.jpg",
+      "viewing_point": "在籍期のクレー：均衡と緊張を考える参照例。 学校刊行物・授業課題と確認した画像ではありません。",
+      "display_image_url": "assets/cma-1961.154-reference-720.webp",
+      "reference_manifest": "reference-image-rights.json"
+    },
+    {
+      "id": "cma-1969.46",
+      "author": "Paul Klee",
+      "author_life": "1879–1940",
+      "title": "Carnival in the Snow",
+      "year": 1923,
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1969.46",
+      "source_page": "https://www.clevelandart.org/art/1969.46",
+      "image_url": "https://piction.clevelandart.org/cma/ump.di?e=BB609C4793D037E7EA9D02A3A148F5636C229B699B7AA0C2607E2EF279D5E9E5&s=24247294&se=399313166&v=3&f=1969.46_o5.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-10-30",
+      "credit": "Paul Klee, Carnival in the Snow, 1923. The Cleveland Museum of Art. Contemporary Collection of The Cleveland Museum of Art. 1969.46. CC0.",
+      "underlying_work_rights": "Museum individual object record explicitly permits copying, modifying and distributing this work; museum Open Access policy identifies corresponding works as public domain. Not inferred solely from artist death date.",
+      "reproduction_rights": "Museum Open Access policy explicitly releases designated high-resolution images under CC0.",
+      "territory_note": "Institutional public-domain assessment from a US museum, not a representation of worldwide legal clearance. Reassess applicable jurisdictions before global commercial deployment.",
+      "status": "rights_verified_download_pending",
+      "local_file": "assets/1969.46_o5.jpg",
+      "viewing_point": "幾何学的な色面の集まりから、人物や曲芸の姿が立ち現れる。色と形が意味を生む過程を見る。"
+    },
+    {
+      "id": "cma-1978.18",
+      "author": "Paul Klee",
+      "author_life": "1879–1940",
+      "title": "The Calculating Old Man",
+      "year": 1929,
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1978.18",
+      "source_page": "https://www.clevelandart.org/art/1978.18",
+      "image_url": "https://piction.clevelandart.org/cma/ump.di?e=FC36D8A924DDD57D2A93618DA470BFF66C70F240BD56A6E6C6A4C161F3DEA007&s=24247294&se=399313166&v=0&f=1978.18_o5.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-10-30",
+      "credit": "Paul Klee, The Calculating Old Man, 1929. The Cleveland Museum of Art. Dudley P. Allen Fund. 1978.18. CC0.",
+      "underlying_work_rights": "Museum individual object record explicitly permits copying, modifying and distributing this work; museum Open Access policy identifies corresponding works as public domain. Not inferred solely from artist death date.",
+      "reproduction_rights": "Museum Open Access policy explicitly releases designated high-resolution images under CC0.",
+      "territory_note": "Institutional public-domain assessment from a US museum, not a representation of worldwide legal clearance. Reassess applicable jurisdictions before global commercial deployment.",
+      "status": "rights_verified_download_pending",
+      "local_file": "assets/1978.18_o5.jpg",
+      "viewing_point": "顔の輪郭と平行線の密度の関係。具象を捨てず、線と幾何学へ分解する。"
+    }
+  ],
+  "excluded": [
+    {
+      "artist": "László Moholy-Nagy",
+      "title": "Construction",
+      "year": 1923,
+      "source_page": "https://www.clevelandart.org/art/1989.16",
+      "reason": "Object page expressly states artwork known to be under copyright; © Estate / ARS. Excluded, despite early date."
+    }
+  ],
+  "editorial_scope": "Three works illustrate Paul Klee’s Bauhaus-period visual thinking, not the entirety of Bauhaus architecture, furniture, typography or workshops.",
+  "acquisition_blocker": {
+    "checked_at": "2026-10-30T03:09:47.952Z",
+    "action": "Download museum image from verified piction.clevelandart.org URL",
+    "result": "curl exit 28; connection timed out after 10000 ms; 0 bytes received",
+    "files_saved": 0,
+    "approval_attempt": "Escalated curl could not execute due to bwrap read-only filesystem setup error; no additional permission sought for denied session path."
+  }
+}

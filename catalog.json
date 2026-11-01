@@ -1,0 +1,744 @@
+[
+  {
+    "name": "Arts & Crafts",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "工芸",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Art Nouveau",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Jugendstil",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Vienna Secession",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "グラフィック・建築・美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定",
+    "aliases": [
+      "ウィーン分離派",
+      "ウィーン・ゼツェッシオン"
+    ]
+  },
+  {
+    "name": "Wiener Werkstätte",
+    "category": "組織・工房",
+    "region": "欧州",
+    "field": "工芸・グラフィック・テキスタイル・陶芸・出版",
+    "status": "本文試作・画像未収録",
+    "date": "1903–1932",
+    "aliases": [
+      "ウィーン工房",
+      "Vienna Workshop"
+    ]
+  },
+  {
+    "name": "De Stijl",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Russian Constructivism",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Suprematism",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "絵画・出版・彫刻",
+    "status": "未収録・要調査",
+    "date": "1915年公表／1910年代後半–1920年代",
+    "aliases": [
+      "シュプレマティスム",
+      "シュプレマティズム",
+      "絶対主義"
+    ]
+  },
+  {
+    "name": "Dada",
+    "category": "歴史・運動",
+    "region": "国際",
+    "field": "グラフィック・彫刻・工芸",
+    "status": "未収録・要調査",
+    "date": "年代精査予定",
+    "aliases": [
+      "ダダ",
+      "Dadaism"
+    ]
+  },
+  {
+    "name": "Futurism",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "グラフィック・出版・絵画・彫刻・工芸",
+    "status": "未収録・要調査",
+    "date": "1909–1944を中心に（イタリアの展開）",
+    "aliases": [
+      "未来派",
+      "イタリア未来派",
+      "Italian Futurism"
+    ]
+  },
+  {
+    "name": "Surrealism",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "New Typography",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "民藝運動",
+    "category": "歴史・運動",
+    "region": "日本",
+    "field": "工芸",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "創作版画",
+    "category": "歴史・運動",
+    "region": "日本",
+    "field": "版画・出版",
+    "status": "未収録・要調査",
+    "date": "1904年前後から／主に20世紀前半",
+    "aliases": [
+      "Sosaku hanga",
+      "Sōsaku hanga",
+      "そうさくはんが"
+    ]
+  },
+  {
+    "name": "新興写真",
+    "category": "歴史・運動",
+    "region": "日本",
+    "field": "写真",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "メタボリズム",
+    "category": "歴史・運動",
+    "region": "日本",
+    "field": "建築",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "具体美術協会",
+    "category": "歴史・運動",
+    "region": "日本",
+    "field": "美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "もの派",
+    "category": "歴史・運動",
+    "region": "日本",
+    "field": "美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "中国新興木刻運動",
+    "category": "歴史・運動",
+    "region": "アジア",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Bengal School",
+    "category": "歴史・運動",
+    "region": "アジア",
+    "field": "美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Santiniketan",
+    "category": "学校・教育",
+    "region": "アジア",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Mexican Muralism",
+    "category": "歴史・運動",
+    "region": "中南米",
+    "field": "美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Taller de Gráfica Popular",
+    "category": "歴史・運動",
+    "region": "中南米",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Tropicalismo",
+    "category": "歴史・運動",
+    "region": "中南米",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "AfriCOBRA",
+    "category": "歴史・運動",
+    "region": "北米",
+    "field": "美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Négritude と視覚文化",
+    "category": "歴史・運動",
+    "region": "アフリカ",
+    "field": "複合",
+    "status": "参考不足・名称と範囲を再検討",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Khartoum School",
+    "category": "歴史・運動",
+    "region": "アフリカ",
+    "field": "美術",
+    "status": "参考不足・名称と範囲を再検討",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Nsukka School",
+    "category": "学校・教育",
+    "region": "アフリカ",
+    "field": "美術",
+    "status": "参考不足・名称と範囲を再検討",
+    "date": "年代精査予定",
+    "aliases": [
+      "Nsukka School / Uli revival",
+      "ヌスカ学派"
+    ],
+    "alias_note": "旧複合候補名を検索上のみ保持。uliとの同義関係を意味しない。"
+  },
+  {
+    "name": "Hurufiyya",
+    "category": "歴史・運動",
+    "region": "西アジア",
+    "field": "美術",
+    "status": "参考不足・名称と範囲を再検討",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Polish Poster School",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Psychedelic Art",
+    "category": "歴史・運動",
+    "region": "北米",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Punk / DIY",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Radical Design",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "家具",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Memphis",
+    "category": "歴史・運動",
+    "region": "欧州",
+    "field": "家具",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Bauhaus",
+    "category": "学校・教育",
+    "region": "欧州",
+    "field": "複合",
+    "status": "試作収録",
+    "date": "1919–1933"
+  },
+  {
+    "name": "Vkhutemas",
+    "category": "学校・教育",
+    "region": "欧州",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "HfG Ulm",
+    "category": "学校・教育",
+    "region": "欧州",
+    "field": "教育・プロダクト・視覚伝達",
+    "status": "未収録・要調査",
+    "date": "1953–1968",
+    "aliases": [
+      "ウルム造形大学",
+      "ウルム造形学校"
+    ]
+  },
+  {
+    "name": "New Bauhaus Chicago",
+    "category": "学校・教育",
+    "region": "北米",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Black Mountain College",
+    "category": "学校・教育",
+    "region": "北米",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "新建築工芸学院",
+    "category": "学校・教育",
+    "region": "日本",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "桑沢デザイン研究所",
+    "category": "学校・教育",
+    "region": "日本",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "NID Ahmedabad",
+    "category": "学校・教育",
+    "region": "アジア",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "ESDI Rio de Janeiro",
+    "category": "学校・教育",
+    "region": "中南米",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Art Deco",
+    "category": "様式・潮流",
+    "region": "国際",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Streamline Moderne",
+    "category": "様式・潮流",
+    "region": "北米",
+    "field": "プロダクト",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "International Style",
+    "category": "様式・潮流",
+    "region": "国際",
+    "field": "建築",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Swiss / International Typographic Style",
+    "category": "様式・潮流",
+    "region": "欧州",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Scandinavian Modern",
+    "category": "様式・潮流",
+    "region": "欧州",
+    "field": "家具",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Mid-century Modern",
+    "category": "様式・潮流",
+    "region": "国際",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Brutalism",
+    "category": "様式・潮流",
+    "region": "国際",
+    "field": "建築",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Postmodernism",
+    "category": "様式・潮流",
+    "region": "国際",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "New Wave Typography",
+    "category": "様式・潮流",
+    "region": "欧州",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Supergraphics",
+    "category": "様式・潮流",
+    "region": "北米",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "グラフィックにおける和様",
+    "category": "様式・潮流",
+    "region": "日本",
+    "field": "グラフィック",
+    "status": "参考不足・名称と範囲を再検討",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "琳派",
+    "category": "様式・潮流",
+    "region": "日本",
+    "field": "絵画・書・工芸",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "浮世絵",
+    "category": "様式・潮流",
+    "region": "日本",
+    "field": "絵画・版画・出版",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "韓国の単色画",
+    "category": "様式・潮流",
+    "region": "アジア",
+    "field": "美術",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "ブラジル・モダニズム",
+    "category": "様式・潮流",
+    "region": "中南米",
+    "field": "複合",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Tropical Modernism",
+    "category": "様式・潮流",
+    "region": "アフリカ",
+    "field": "建築",
+    "status": "参考不足・名称と範囲を再検討",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Critical Regionalism",
+    "category": "様式・潮流",
+    "region": "国際",
+    "field": "建築",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Australian Indigenous contemporary design",
+    "category": "地域・実践",
+    "region": "オセアニア",
+    "field": "複合",
+    "status": "本文試作・画像未収録",
+    "date": "検討作例：2019–2021",
+    "aliases": [
+      "First Nations contemporary design",
+      "オーストラリアのFirst Nationsによる現代デザイン"
+    ]
+  },
+  {
+    "name": "Typography / 活字組版",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Photomontage",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "写真",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Collage",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Isotype",
+    "category": "技法・方法",
+    "region": "欧州",
+    "field": "情報設計",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Grid systems",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Silkscreen",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Risograph",
+    "category": "技法・方法",
+    "region": "日本",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Pixel art",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Generative design",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Parametric design",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "建築",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Information visualization",
+    "category": "技法・方法",
+    "region": "国際",
+    "field": "情報設計",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Skeuomorphism",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Flat design",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Material Design",
+    "category": "デザインシステム",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "2014年発表／版を区別"
+  },
+  {
+    "name": "Neumorphism",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Glassmorphism",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Web brutalism",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Neo-brutalism",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Y2K revival",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "グラフィック",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Bento layouts",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Kinetic typography",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Variable-font expression",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "3D / clay illustration",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Maximalist web",
+    "category": "近年トレンド",
+    "region": "国際",
+    "field": "デジタル",
+    "status": "未収録・要調査",
+    "date": "年代精査予定"
+  },
+  {
+    "name": "Rococo",
+    "category": "歴史的な様式",
+    "region": "欧州",
+    "field": "工芸・室内・建築・絵画",
+    "status": "本文試作・画像セット整備中",
+    "date": "フランス1720–30年代に形成／18世紀中葉を中心に展開",
+    "aliases": [
+      "ロココ"
+    ]
+  },
+  {
+    "name": "Neoclassicism",
+    "category": "歴史的な様式",
+    "region": "欧州",
+    "field": "工芸・室内・建築・絵画",
+    "status": "本文試作・画像セット整備中",
+    "date": "1750年代〜19世紀初頭を中心に展開",
+    "aliases": [
+      "新古典主義"
+    ]
+  }
+]

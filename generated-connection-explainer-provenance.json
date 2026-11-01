@@ -1,0 +1,77 @@
+{
+  "images": [
+    {
+      "id": "generated-dessau-study-v7",
+      "entry": "Bauhaus",
+      "kind": "generated_connection_explainer_not_work_replica",
+      "label": "AI制作の接続解説図",
+      "generation_date": "2026-11-01",
+      "generation_tool": "Built-in image_gen; revised generated connection model, original topology diagram lineage; no museum photograph input",
+      "reference_work": "Bauhaus Building, Dessau",
+      "reference_creator": "Walter Gropius and office",
+      "reference_year": "1925–1926",
+      "reference_source": "https://bauhauskooperation.de/en/reisen/orte/ortsdetailseite/ort-19",
+      "historical_creator": null,
+      "historical_production_date": null,
+      "historical_collection": null,
+      "historical_accession": null,
+      "historical_representative_count_increment": 0,
+      "reference_work_image_count_increment": 0,
+      "generated_image_count_increment": 0,
+      "caption": "デッサウ校舎の接続関係を参考にした生成イメージ（2026年制作）。写真ではなく、実際の配置・寸法・外観とは異なる学習用模型です。",
+      "alt": "デッサウ校舎を参考にした生成接続模型。左の職業学校から道路上の橋でガラス張りの工房へ渡り、工房から低い集会・食堂部を経て右奥の5階建てアトリエへつながる。",
+      "learning_note": "左の職業学校―道路上の管理橋―ガラス張りの工房、そして工房―低いFestive area（集会・食堂部）―アトリエという、機能の異なる棟のつながりを読み取る図です。",
+      "difference_note": "参照建築はWalter Gropiusと設計事務所による1925–26年の校舎。図の主要階層は職業学校3階・橋2層・工房3階・集会食堂部1階・アトリエ5階です。接続を説明するため、棟の長さ・窓割・敷地寸法・向きや外観を簡略化しています。実測模型、正確な平面図、特定時点の復元ではなく、窓の個数から実際の部屋数は読み取れません。",
+      "rights_note": "第三者の建築写真・図面を転載せず作成した、棟の機能と接続を読む現代の説明図です。日本の著作権法46条に関するCRICの建築物利用の解説も参照しています。写真・実測図・精密復元ではなく、CC0やあらゆる法域での利用保証は付けません。",
+      "local_file": "assets/generated-dessau-study-v7.png",
+      "width": 1564,
+      "height": 1006,
+      "bytes": 1914343,
+      "sha256": "9dac218724a5707e4f2ecfae6c04622b506bd7cc6a99513c78912d80ba289042",
+      "derivatives": [
+        {
+          "local_file": "assets/generated-dessau-study-v7-540.webp",
+          "width": 540,
+          "height": 347,
+          "bytes": 30366,
+          "sha256": "4c545ad1590da243ed4dcae13363343d4e6a33c3b07c0e6b220a366e7bf3fef3"
+        },
+        {
+          "local_file": "assets/generated-dessau-study-v7-900.webp",
+          "width": 900,
+          "height": 579,
+          "bytes": 67102,
+          "sha256": "2806c812f1d25a02daf2054faf723477d4531825998bc6d8aec274cd3cbb2643"
+        }
+      ],
+      "derivative_method": "Faithful aspect-preserving Lanczos resize and WebP94 encoding; no crop/recolor/retouch",
+      "library_original_id": "libfile_e87fd966d69081918ddb15b786353d6e",
+      "library_proof_zip_id": "libfile_139a0690e35481919a5df16360de860e",
+      "quality_reviewed": true,
+      "pixels_inspected": true,
+      "original_archival_photo": false,
+      "status": "adopted_explainer_not_AAGA_copy",
+      "display_credit": "参照建築：Walter Gropius and office、デッサウ校舎（1925–26年）／この図：2026年生成の接続学習模型（改訂7）。",
+      "reference_sources": [
+        {
+          "url": "https://bauhauskooperation.de/en/reisen/orte/ortsdetailseite/ort-19",
+          "label": "Bauhaus Kooperation：棟の機能・接続の解説"
+        },
+        {
+          "url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+          "label": "Bauhaus Dessau：校舎の公式案内"
+        },
+        {
+          "url": "https://www.cric.or.jp/qa/hajime/hajime7.html",
+          "label": "CRIC：建築の著作物の利用に関する解説"
+        }
+      ],
+      "review_notes": "v5 rejected wrong connection; v6 held four studio levels; v7 parent and site reviewer confirmed topology and five levels. Outside studio color/texture differences from v6 acknowledged, not pixel-identical.",
+      "publication_scope": "Public noncommercial educational site; no blanket commercial reuse license",
+      "commercial_publication_clearance": "Public educational explanatory depiction; architecture/photo/plan rights distinguished; future reuse requires its own review.",
+      "aaga_quality_policy": null,
+      "aaga_identity_note": "This intentionally simplified connection diagram is not an AAGA faithful-copy study.",
+      "generated_connection_diagram_count_increment": 1
+    }
+  ]
+}

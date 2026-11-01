@@ -1,0 +1,64 @@
+{
+  "selection": "10 from approved 12-option board",
+  "wordmark_library_id": "libfile_f4529739f7248191896cefb2297bf9f6",
+  "icon_library_id": "libfile_307a74a38a7c81918d65afd1ba5161d4",
+  "generation": "imagegen; user-selected original site identity, not a historical artwork",
+  "derivatives": "Aspect-preserving resize. Icon transparency margin trimmed to opaque glyph with 2px edge, then ivory background and padding; no glyph redraw. OGP is a new layout of the exact wordmark.",
+  "files": [
+    {
+      "path": "assets/icon-32.png",
+      "bytes": 875,
+      "sha256": "0ac8a693b7bc196a43f84a1bf2f1126fab3bd140823ecc0d82f353f2d08fda20"
+    },
+    {
+      "path": "assets/design-lineage-icon-d-original.png",
+      "bytes": 134886,
+      "sha256": "820171a368b9bb1b7d81a79405e54501e09208ab707022d57cd15bbba09871f7"
+    },
+    {
+      "path": "assets/design-lineage-og.png",
+      "bytes": 103110,
+      "sha256": "77d1681bec5c48a34cd3395e91170910f9e134327d9cc1a51fc29d0d29adb6ba"
+    },
+    {
+      "path": "assets/icon-48.png",
+      "bytes": 1377,
+      "sha256": "405389bcac1df33f68eb41e56be0a3868993820a93e1585a9ab49b04c0873782"
+    },
+    {
+      "path": "assets/design-lineage-logo-10.png",
+      "bytes": 271567,
+      "sha256": "27ba8dd92c5befe4a0e9d283fd0910938c4f4f68ff2c15bcdb949f76b2886ef4"
+    },
+    {
+      "path": "assets/design-lineage-logo-10-720.webp",
+      "bytes": 27918,
+      "sha256": "a50f9cbc89b4ffcc3422a300c6430630d6a6f96ee6f76336654cb9bfd4051f2c"
+    },
+    {
+      "path": "assets/design-lineage-og.svg",
+      "bytes": 362660,
+      "sha256": "ff7f7448b43e82eea35857a300b89e049a37ebc7b8698b4bf3dac81cb67cd178"
+    },
+    {
+      "path": "assets/design-lineage-logo-10-360.webp",
+      "bytes": 12124,
+      "sha256": "e4d86a37262f1fad18941391b8934c4daec8776ce3b7e565f4a84372c8b4f17c"
+    },
+    {
+      "path": "assets/icon-192.png",
+      "bytes": 8039,
+      "sha256": "866b54e03041add01ddfa8cb0abf7bb71dbfdce5ff27abaf0894b415493193b6"
+    },
+    {
+      "path": "assets/icon-180.png",
+      "bytes": 7406,
+      "sha256": "b5f2a2129bc9d8b3de05096546e9c13c6c1470d66a28b4ac944922a46e29706c"
+    },
+    {
+      "path": "assets/icon-512.png",
+      "bytes": 35236,
+      "sha256": "d2ac2178f9a83bc251ac973389e292836f7315a4721115a08ae251bd0f2d001e"
+    }
+  ]
+}

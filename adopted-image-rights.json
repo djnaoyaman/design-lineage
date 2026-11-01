@@ -1,0 +1,2576 @@
+{
+  "images": [
+    {
+      "id": "met-39664-official-single-screen",
+      "author": "尾形光琳",
+      "author_life": "1658–1716",
+      "title": "八橋図屏風（一双のうち一隻）",
+      "year": "1709年以後",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "53.7.1,.2",
+      "source_page": "https://www.metmuseum.org/art/collection/search/39664",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39664/148435/main-image",
+      "license": "CC0 1.0 Universal（MetのPD画像Open Access方針）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "terms_url": "https://www.metmuseum.org/policies/terms-and-conditions",
+      "checked_at": "2026-11-01",
+      "credit": "Ogata Kōrin, Irises at Yatsuhashi (Eight Bridges), after 1709. The Metropolitan Museum of Art, Purchase, Louisa Eldridge McBurney Gift, 1953 (53.7.1, .2). Public Domain / CC0.",
+      "underlying_work_rights": "individual record Public Domain label",
+      "territory_note": "US museum assessment, not a claim of universal jurisdictional guarantee",
+      "local_file": "assets/korin-yatsuhashi-single-screen.jpg",
+      "viewing_point": "橋の折れ曲がり、花と葉の反復、描かれていない金地の広がりを比較する。掲載画像の実見に基づく観察。",
+      "entry": "琳派",
+      "alt": "金地の六曲屏風に、折れ曲がる灰色の橋と、青紫の花・長い緑の葉が連なる。尾形光琳《八橋図屏風》の一隻。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 270255,
+      "reproduction_rights": "Official PD artwork image provided under the Met OpenAccess CC0 policy",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_Met_IIIF_GET_http200",
+      "display_verified": false,
+      "width": 1200,
+      "height": 582,
+      "sha256": "15ebfb8cf48f1d58199971e146ce813e8c9790eb17d9ae9c05ec3dcc21c00096",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_cfc0a8bff2a881918be7a95308da7e3a",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-korin-official-image.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One JPEG showing one six-panel screen from a pair. Count as one image, not two screens or six images.",
+      "provenance": "既存の公式作品ページから特定済みのMet配信URLを通常GETし、HTTP200 image/jpegで取得。取得JPEGは1200×582、270255bytes。提供された旧JPEGとは同じ一隻の画面を実見照合したがバイトは異なる。旧提供JPEGは研究記録と元Libraryに保存し、掲載は公式配信JPEGへ置換。",
+      "visual_notes": [
+        {
+          "title": "折れる橋が、視線を運ぶ。",
+          "text": "左下から斜めに上がり、水平に伸び、再び右上へ。橋の角度の切り替えが、横長の画面を読む道筋になります。"
+        },
+        {
+          "title": "花を繰り返し、密度を変える。",
+          "text": "青紫の花と細長い緑の葉が群れを作ります。同じ形の単純な等間隔ではなく、群れの幅と空きを比べてみてください。"
+        },
+        {
+          "title": "金地も、構成の一部。",
+          "text": "橋や花の間、右下に大きく残る金色の面。何も描かれていない部分が、密集した花や橋の輪郭を際立たせています。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "八橋図屏風の掲載画像を原寸で開く",
+        "eyebrow": "RINPA",
+        "scope_note": "掲載は六曲一双のうち一隻。画像1点として収録し、左右の位置は未確定として扱います。光悦の色紙・抱一の屏風と合わせ、書・絵・時代をまたぐ表現を比較できます。",
+        "observations_note": "上の3点は掲載画像の実見に基づく観察です。『伊勢物語』との関係は、別途リンクした美術館の作品解説に基づきます。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号53.7.1, .2。原作品：Met個別Public Domain表示。複製：CC0 1.0。",
+        "provenance_note": "Metの公式配信JPEG（1200×582px）は無加工で保持し、原寸リンクから開けます。小画面には縦横比・全体構図・色を保持した720pxのJPEGも用意。最高解像度の原本とは断定しません。旧ユーザー提供JPEGは来歴資料として保存し、掲載には使用していません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0"
+      },
+      "photographer": "Not identified in official record; institutional CC0 image policy applies",
+      "superseded_user_file": {
+        "library_file_id": "libfile_4352afb4a3ac8191a47680f5f023012e",
+        "sha256": "5e957c3fec82e860e87575aeb1bfc53dba4d83f43ddb0bbd9126ca7b73068a9a",
+        "research_archive": "research/content/met39664-evidence/user-provided-IMG_5246.jpeg"
+      },
+      "display_derivatives": {
+        "method": "Aspect-preserving LANCZOS resize; 720px JPEG quality90, 4:4:4 chroma, original ICC retained. Original1200px JPEG unchanged; no crop, retouch or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/korin-yatsuhashi-single-screen-720.jpg",
+            "width": 720,
+            "height": 349,
+            "bytes": 165786,
+            "sha256": "49bb34f692f0dee635e9843724757abcc4808e1c6cc19525dc724857f2513b69",
+            "format": "image/jpeg"
+          },
+          {
+            "local_file": "assets/korin-yatsuhashi-single-screen.jpg",
+            "width": 1200,
+            "height": 582,
+            "bytes": 270255,
+            "sha256": "15ebfb8cf48f1d58199971e146ce813e8c9790eb17d9ae9c05ec3dcc21c00096",
+            "format": "image/jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "schlemmer-ausstellung1923-wuselig2019",
+      "entry": "Bauhaus",
+      "author": "Oskar Schlemmer",
+      "author_life": "1888–1943",
+      "title": "《Die Ausstellung 1923 — Die Bauhauswoche》展覧会案内",
+      "year": "作品：1923年 / 写真：2019年",
+      "institution": "Bauhaus-Museum Weimar（撮影者の作品記録による）",
+      "accession": "撮影個体の所蔵番号は記録に未掲載。公文書館6-33-9010/30は関連史料の番号で、写真の個体番号ではない。",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Schlemmer-Bauhaus_Werbeblatt_DSC8965.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Schlemmer-Bauhaus_Werbeblatt_DSC8965.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "license": "原作品：保護期間経過（日本・ドイツ・米国の資料による個別評価）。写真：CC0 1.0 Universal。",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://commons.wikimedia.org/wiki/File:Schlemmer-Bauhaus_Werbeblatt_DSC8965.jpg#Licensing",
+      "checked_at": "2026-10-31",
+      "credit": "Oskar Schlemmer, Die Ausstellung 1923 — Die Bauhauswoche, 1923. Photograph: Wuselig, 21 September 2019, CC0 1.0, via Wikimedia Commons. Collection recorded as Bauhaus-Museum Weimar.",
+      "width": 1653,
+      "height": 1641,
+      "local_bytes": 3641322,
+      "sha256": "d9f9b5e126fb0e8f85e4d2511dd93b1aa410be2d36454235108e3bd654daa79d",
+      "acquisition_status": "independent_photographer_official_commons_original_GET_http200",
+      "original_bytes_unchanged": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "status": "adopted_local_image",
+      "alt": "『DIE AUSSTELLUNG 1923』の大きな暗色見出しの下に、学校・工房・建築・絵画と彫刻・舞台の5行を配置した展覧会案内。黄色い中央欄、赤い分類見出し、横罫線で情報を区切る。",
+      "visual_notes": [
+        {
+          "title": "色を、情報の役割に割り当てる。",
+          "text": "大きな表題と中央の本文は暗色、左右の分類・展示案内は赤。黄色い面と横罫線が情報のまとまりを示しています。単に三原色を飾りとして並べた構成ではありません。"
+        },
+        {
+          "title": "3列で、読み方をつくる。",
+          "text": "左に分類、中央に説明、右に展示内容。5つの横段を対応させることで、学校の活動と展示するものを行ごとに比べられます。"
+        },
+        {
+          "title": "学校を、5つの活動から捉える。",
+          "text": "学校、工房、建築、絵画と彫刻、舞台という見出しが並びます。絵画や幾何学模様だけではない、Bauhausの広がりを読むための補助資料です。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "1923年Bauhaus展覧会案内の掲載写真を原寸で開く",
+        "eyebrow": "BAUHAUS / INFORMATION DESIGN",
+        "scope_note": "学校の展示構成を伝える補助画像です。象徴的なポスター、教材、家具、建築の代表画像セットが揃ったことを意味しません。撮影個体の版・刷年は未照合のため、1923年の原刷りとは断定していません。",
+        "observations_note": "上の3点は実際に取得した写真の観察です。ガラスの反射が一部の本文に重なります。スマートフォンでは細字を読む代わりに、色・列・段の対応を見てください。",
+        "source_label": "原写真の提供者・作品記録",
+        "rights_summary": "原作品：作者・公開年と日独米の保護期間資料を照合し、保護期間経過と評価。写真：撮影者WuseligによるCC0 1.0。",
+        "provenance_note": "2019年9月のGLAM on Tourで撮影された写真を、撮影者が公開したCommonsの正規原画像から取得。提供バイトを変更せず保存しています。美術館の商用制限付き配布画像を転載したものではありません。紙の周囲の展示背景と反射も写真の一部です。 ページ表示は全体構図・縦横比・色を保持した720／1200pxの縮小WebP。原写真は原寸リンクから開けます。原本と表示用画像のSHA-256を別々に記録しています。",
+        "policy_label": "この写真の個別利用条件",
+        "license_label": "写真のCC0 1.0",
+        "placement": "supporting",
+        "section_label": "READ THE SCHOOL / 学校の広がりを読む",
+        "anchor": "school-document"
+      },
+      "territory_note": "原作品は日本・ドイツ・米国の保護期間資料に照らした個別評価です。全法域への保証ではありません。写真のCC0と原作品の期間経過は別の根拠です。権利台帳に出典・評価・未確定事項を記録しています。",
+      "counting_note": "One acquired photograph of one flyer, not fiveimages for5rows. Supporting historicaldocument,notcompletecore representatives.",
+      "local_file": "assets/schlemmer-bauhaus-exhibition-flyer.jpg",
+      "rights_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "linking_policy_reviewed": true,
+      "underlying_work_rights": "1923publishedSchlemmerflyer;author1943deathverifiedbyKSW;Germanlife70end2013,US1923publication95end2018,Japanold50termexpiredand2018nonrevival. Inferencefromspecificwork/author/date plusofficialtermguidance,notmuseumcopyrightwaiver.",
+      "reproduction_rights": "Wuselig own2019photograph explicitlyCC0includingcommercialreuse atindividualsourcepage. NoKSWrestrictedassetdownload.",
+      "commercial_use": "CC0photograph permitscommercialreuse;underlyingworkperiodassessedexpired forJapan/Germany/US. Otherjurisdictionsnotguaranteed.",
+      "viewing_point": "赤い分類見出し、黄色い中央欄、3列と5行の対応を通じて、学校の活動と展示内容の関係を読む。",
+      "provenance": "Directdownload fromCommons exactoriginalURL releasedCC0byWuselig,notfromKSWFotothek. Photo2019-09-21,uploaded2019-10-04. Artwork1923,physicalcopyprintingdate/accession unrecorded.",
+      "rights_evidence_sources": [
+        {
+          "role": "photographerindividualCC0",
+          "url": "https://commons.wikimedia.org/wiki/File:Schlemmer-Bauhaus_Werbeblatt_DSC8965.jpg"
+        },
+        {
+          "role": "Schlemmer1943deathprimary",
+          "url": "https://www.klassik-stiftung.de/assets/Presse/Jahrespressekonferenz/2019/190211_BWM_Schlemmer-Text.pdf"
+        },
+        {
+          "role": "Schlemmer1923programarchive",
+          "url": "https://www.archive-in-thueringen.de/en/findbuch/view/bestand/25055/systematik/79056"
+        },
+        {
+          "role": "curatorinterviewwithexactflyer",
+          "url": "https://www.mitteldeutsches-magazin.de/bauhaus-weimar-1923-interview"
+        },
+        {
+          "role": "Germanterm",
+          "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html"
+        },
+        {
+          "role": "USpublicationterm",
+          "url": "https://www.copyright.gov/circs/circ22.pdf"
+        },
+        {
+          "role": "USforeignrestorationterm",
+          "url": "https://www.copyright.gov/circs/circ38b.pdf"
+        },
+        {
+          "role": "Japantermpp38–42",
+          "url": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf"
+        }
+      ],
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/schlemmer-bauhaus-exhibition-flyer-720.webp",
+            "width": 720,
+            "height": 715,
+            "bytes": 247138,
+            "sha256": "a21cddc510ecf6d8adbc42b18b566711b14276f10d888a7fcb0ac3e6ee3fda96",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/schlemmer-bauhaus-exhibition-flyer-1200.webp",
+            "width": 1200,
+            "height": 1191,
+            "bytes": 607942,
+            "sha256": "294e657587f2e74461a41c6bbdd64485c1a5589f2305356045f2254763553078",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1937.696",
+      "entry": "Arts & Crafts",
+      "author": "William Morris（デザイン）",
+      "title": "Strawberry Thief（いちご泥棒）",
+      "year": "デザイン：1883年／この布：1936年頃",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1937.696",
+      "source_page": "https://www.clevelandart.org/art/1937.696",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1937.696/1937.696_print.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-10-31",
+      "credit": "William Morris (designer), Strawberry Thief, design 1883, printed c.1936. The Cleveland Museum of Art, Gift of Mrs. Henry Chisholm, 1937.696. CC0.",
+      "underlying_work_rights": "Public domain, as designated by the holding museum",
+      "reproduction_rights": "CC0 1.0; official object record share_license_status CC0 and museum open-access image policy",
+      "photographer": "Unknown: parent-provided Howard Agriesti attribution not independently corroborated",
+      "commercial_use": "CC0：商用・非商用の再利用可。所蔵館の個別指定と画像方針に基づく。",
+      "territory_note": "米国の所蔵機関による個別PD・CC0指定に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cleveland-1937.696_print.jpg",
+      "viewing_point": "鳥・苺・植物の反復、濃い青地と明るい輪郭、布の耳。",
+      "alt": "濃い青地の布に、向き合う鳥、赤い苺、淡い花と葉が反復する。左右の布の耳も見える。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "status": "adopted_local_image",
+      "local_bytes": 6443209,
+      "width": 3400,
+      "height": 3035,
+      "sha256": "b487c13517654c086a2cbfde341a245a5f6558085353b2137ec7de69832fbbc4",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_download_via_authorized_PC_and_Library_materialization",
+      "library_file_id": "libfile_7b28ba5d5eb08191935964ffeb37c662",
+      "library_version": 0,
+      "provenance": "ユーザーが許可したPCで公式Cleveland画像を取得し、出典HTML・HTTP記録・台帳とともにLibrary ZIPで移送。cloud側でZIPとJPEGのSHA-256、画像デコード、実画像を確認。写真家名は公式記録で未確認。",
+      "visual_notes": [
+        {
+          "title": "鳥の向きが、反復の軸を作る。",
+          "text": "左右に向き合う鳥と苺の組を辿ると、上下左右へつながる模様の単位が見えてきます。動植物の姿を、そのままの写生ではなく面の秩序へ組み直しています。"
+        },
+        {
+          "title": "濃い地に、明るい輪郭を重ねる。",
+          "text": "濃い青地に淡い葉、赤い実、黄や桃色の花が重なります。館は藍染めした布を抜染し、木版で複数の色を加えた工程を説明しています。"
+        },
+        {
+          "title": "模様だけでなく、布の端を見る。",
+          "text": "左右の無地の耳と周縁も残して掲載しています。画面いっぱいの模様と、織物としての幅・端部を一緒に観察できます。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "Strawberry Thiefの取得原画像を開く",
+        "eyebrow": "ARTS & CRAFTS / TEXTILE",
+        "scope_note": "1883年の図案と、1936年頃に作られた所蔵個体を区別します。V&Aの同名所蔵品とは別個体です。",
+        "observations_note": "画面の形・配色・布端は掲載画像の実見による観察です。技法と作者帰属の説明は所蔵館の解説に基づきます。布2点と書物の一葉の計3点で、反復文様と文字の設計を比較できます。建築・家具・金工は、さらに視点を広げる今後の候補です。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号1937.696。原作品：館の個別Public Domain指定。取得画像：CC0 1.0。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0 1.0"
+      },
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cleveland-1937.696_print-720.webp",
+            "width": 720,
+            "height": 643,
+            "bytes": 262136,
+            "sha256": "b065563c6ee20e0c3b6108d5a68a8718d510983c9a57434f8d06d961c05df5ca",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1937.696_print-1200.webp",
+            "width": 1200,
+            "height": 1071,
+            "bytes": 630316,
+            "sha256": "82b781c6b4faba364f8cf8dbafbbff08cc91d4af55a996e27b910b143668954e",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1937.696_print-1800.webp",
+            "width": 1800,
+            "height": 1607,
+            "bytes": 1306206,
+            "sha256": "e15951bf29029d2158688e058a31c4f0d529ffe0b1a84ca9dc9289ca17703770",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1937.700",
+      "entry": "Arts & Crafts",
+      "author": "Kate Faulknerによるデザインとされる",
+      "title": "Peony（牡丹）",
+      "year": "この布：1920年／原デザイン年は未確認",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1937.700",
+      "source_page": "https://www.clevelandart.org/art/1937.700",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1937.700/1937.700_print.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-10-31",
+      "credit": "Attributed to Kate Faulkner (designer), Peony, 1920 (this cloth). The Cleveland Museum of Art, Gift of Mrs. Henry Chisholm, 1937.700. CC0.",
+      "underlying_work_rights": "Public domain, as designated by the holding museum",
+      "reproduction_rights": "CC0 1.0; official object record share_license_status CC0 and museum open-access image policy",
+      "photographer": "Unknown; official image_credit is null",
+      "commercial_use": "CC0：商用・非商用の再利用可。所蔵館の個別指定と画像方針に基づく。",
+      "territory_note": "米国の所蔵機関による個別PD・CC0指定に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cleveland-1937.700_print.jpg",
+      "viewing_point": "小さくほぼ正方形の反復、淡い地と青緑の葉、工房の作り手の違い。",
+      "alt": "淡い地の布に黄褐色の牡丹と青緑の葉が細かく反復する。左の耳にMORRIS & COMPANYの文字がある。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "status": "adopted_local_image",
+      "local_bytes": 5824283,
+      "width": 3400,
+      "height": 3002,
+      "sha256": "21f1f9070e7e73fdf72b079bc73a5a7d270a623c9af54a2a67b6d2f85aa1ae37",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_download_via_authorized_PC_and_Library_materialization",
+      "library_file_id": "libfile_7b28ba5d5eb08191935964ffeb37c662",
+      "library_version": 0,
+      "provenance": "ユーザーが許可したPCで公式Cleveland画像を取得し、出典HTML・HTTP記録・台帳とともにLibrary ZIPで移送。cloud側でZIPとJPEGのSHA-256、画像デコード、実画像を確認。写真家名は公式記録で未確認。",
+      "visual_notes": [
+        {
+          "title": "小さな単位が、面をつないでいく。",
+          "text": "花と大きな葉が斜めの列を作り、その間を細かな枝葉が埋めます。館はこの小さくほぼ正方形のリピートを、Faulknerの特徴として説明しています。"
+        },
+        {
+          "title": "地と模様の明暗を入れ替える。",
+          "text": "《Strawberry Thief》の濃い青地に対し、こちらは淡い地に青緑の葉と黄褐色の花。地の明るさを変えることで、同じ植物文様でも密度の感じ方が変わります。"
+        },
+        {
+          "title": "工房を、一人の名前に縮めない。",
+          "text": "左端にはMORRIS & COMPANYの文字が見えます。館の本文はKate Faulknerによるデザインを推定しており、Morris本人の作品と断定せず、工房の複数の作り手を考える補助例として扱います。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Peonyの取得原画像を開く",
+        "eyebrow": "ARTS & CRAFTS / TEXTILE",
+        "scope_note": "館の本文は作者を推定表現で示します。1920年は所蔵品の年代で、Faulknerの制作年や原デザイン年とは断定しません。布の比較を広げる補助例です。",
+        "observations_note": "画面の形・配色・布端は掲載画像の実見による観察です。技法と作者帰属の説明は所蔵館の解説に基づきます。布2点と書物の一葉の計3点で、反復文様と文字の設計を比較できます。建築・家具・金工は、さらに視点を広げる今後の候補です。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号1937.700。原作品：館の個別Public Domain指定。取得画像：CC0 1.0。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0 1.0"
+      },
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cleveland-1937.700_print-720.webp",
+            "width": 720,
+            "height": 636,
+            "bytes": 282286,
+            "sha256": "dc6011a7aea58afea087b406cc6ac4af7e1ee62ac578e076a47ea5b67bf47bd0",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1937.700_print-1200.webp",
+            "width": 1200,
+            "height": 1060,
+            "bytes": 707088,
+            "sha256": "87504cc12bc32990992ee0496ac9f7a5176980207e66a27764382042c418f93f",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1937.700_print-1800.webp",
+            "width": 1800,
+            "height": 1589,
+            "bytes": 1376700,
+            "sha256": "8b875853b5e27215d517c580bf660acd484155e0c2ec36f19699fc9a7dfafd77",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nga-70239-p288",
+      "entry": "Arts & Crafts",
+      "author": "William Morris（書物の設計・装飾）",
+      "title": "Kelmscott Chaucerの一葉（288頁）",
+      "year": "1896年刊",
+      "institution": "National Gallery of Art, Washington",
+      "accession": "1987.73.3",
+      "source_page": "https://www.nga.gov/artworks/70239-leaf-kelmscott-chaucer",
+      "image_url": "https://api.nga.gov/iiif/05331419-8840-45be-ac9c-4258e562a2c1/full/full/0/default.jpg?attachment_filename=a_leaf_from_the_kelmscott_chaucer_1987.73.3-10.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.nga.gov/terms-and-notices",
+      "checked_at": "2026-10-31",
+      "credit": "William Morris, A Leaf from the Kelmscott Chaucer, published 1896, p.288. Gift of William B. O’Neal, 1987.73.3. Courtesy National Gallery of Art, Washington. CC0.",
+      "underlying_work_rights": "Public domain, as designated by the holding museum",
+      "reproduction_rights": "CC0 1.0; official individual object media public-domain designation and NGA open-access digital-image policy",
+      "photographer": "Unknown; not supplied in object record",
+      "commercial_use": "CC0：商用・非商用の再利用可。所蔵館の個別指定と画像方針に基づく。",
+      "territory_note": "米国の所蔵機関による個別PD・CC0指定に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/nga-1987.73.3-p288.jpg",
+      "viewing_point": "二段組の黒い活字、赤い見出し、装飾頭文字と余白の関係。",
+      "alt": "1896年刊Kelmscott Chaucerの288頁。淡い紙に黒い二段組の本文、赤い見出しと装飾頭文字。紙の四辺と広い余白が見える。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "status": "adopted_local_image",
+      "local_bytes": 2313932,
+      "width": 2843,
+      "height": 4096,
+      "sha256": "8e408abaac95b1ad6c6db67d1ab9c09d9999d3db20520fabe11ff438db1dc447",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_NGA_download_normal_cloud_GET",
+      "library_file_id": "libfile_8d9f4f584df48191a969c425efbd4e83",
+      "library_version": 0,
+      "provenance": "公式作品ページの11枚のギャラリーから第11画像を取得。先頭の後年の外装とは区別し、800px表示と原JPEGの双方で288頁を実見。公式HTML・取得記録・原画像・権利確認記録をLibrary ZIPに保存。",
+      "visual_notes": [
+        {
+          "title": "文字の面を、二つに分ける。",
+          "text": "黒い本文が二本の縦長の柱を作ります。列間と外側の余白を比べると、紙全体の中で文字の密度が調整されていることが分かります。"
+        },
+        {
+          "title": "赤を、読むための手掛かりにする。",
+          "text": "左の欄外見出しと右段の短い見出しだけが赤くなっています。黒い本文と役割を分け、装飾と情報の区切りを同じ紙面で働かせています。"
+        },
+        {
+          "title": "装飾を、文章の始まりに置く。",
+          "text": "右段の大きな頭文字には植物のような模様が組み込まれています。布の全面反復とは異なり、装飾が読み始める場所を示します。掲載面には人物挿絵はありません。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Kelmscott Chaucer288頁の取得原画像を開く",
+        "eyebrow": "ARTS & CRAFTS / BOOK DESIGN",
+        "scope_note": "NGA所蔵の一葉（1987.73.3）の288頁です。1896年刊の本文面で、後年のRollins論考を伴う外装や製本された一冊全体ではありません。",
+        "observations_note": "段組・赤黒の使い分け・頭文字・余白は掲載面の実見による観察です。館の記録はChaucer・Troy活字とMorrisの装飾頭文字を記載しています。書物全体の挿絵や印刷工程をこの一頁だけで代表させません。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号1987.73.3。原作品：館の個別Public Domain指定。取得画像：NGA Open Access方針のCC0 1.0。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0 1.0"
+      },
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/nga-1987.73.3-p288-720.webp",
+            "width": 720,
+            "height": 1037,
+            "bytes": 186792,
+            "sha256": "9187a52516545392548c7fd18045425269c55b127f990521db5b2d77ab774427",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/nga-1987.73.3-p288-1200.webp",
+            "width": 1200,
+            "height": 1729,
+            "bytes": 438786,
+            "sha256": "4d9299c6f85a432b17af5d922c1263bade6dc11174f4b4e06ab9fb4abf497679",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/nga-1987.73.3-p288-1800.webp",
+            "width": 1800,
+            "height": 2593,
+            "bytes": 847234,
+            "sha256": "bf8b364ddab59c4fbdc9255ac9c6e9ff087e821b991127b14db05f545e60f002",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "met-44861-koetsu",
+      "author": "書：本阿弥光悦／下絵：伝 俵屋宗達",
+      "author_life": "光悦1558–1637／宗達1570頃–1640頃",
+      "title": "桜下絵和歌色紙（鴨長明の歌）",
+      "year": "1606年",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "1975.268.59",
+      "source_page": "https://www.metmuseum.org/art/collection/search/44861",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44861/1426560/main-image",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "terms_url": "https://www.metmuseum.org/policies/terms-and-conditions",
+      "checked_at": "2026-11-01",
+      "credit": "Calligraphy by Hon’ami Kōetsu; underpainting attributed to Tawaraya Sōtatsu. Poem by Kamo no Chōmei with Underpainting of Cherry Blossoms, 1606. The Metropolitan Museum of Art, The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975 (1975.268.59). Public Domain / CC0.",
+      "underlying_work_rights": "individual record Public Domain label",
+      "territory_note": "US museum assessment, not a claim of universal jurisdictional guarantee",
+      "local_file": "assets/met-44861-koetsu.jpg",
+      "viewing_point": "文字の大小と筆線、花の配置、書と下絵の重なりを比較する。",
+      "entry": "琳派",
+      "alt": "色紙に大小と濃淡のある墨の書が散らされ、上下の縁に灰色の桜、地に金色の模様が重なる。周囲の表装の一部も見える。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 196842,
+      "reproduction_rights": "Official PD artwork image provided under the Met OpenAccess CC0 policy",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_Met_IIIF_GET_http200",
+      "display_verified": false,
+      "width": 900,
+      "height": 1200,
+      "sha256": "90aa19064d37d1f9df9d49e82c82329f93365f7a4cf6bd27e980182beeb9fe92",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_0e15fc54b8248191b553461d60d4ad4d",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-rinpa-two-images.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One official photograph of one selected view, not multipleartworks or completepair/scroll.",
+      "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "文字の大きさが、拍子を変える。",
+          "text": "中央付近の太く大きな字と、細く小さな連なりが同じ紙面にあります。均等な行・字幅ではなく、筆線の伸び縮みと空きを見てください。"
+        },
+        {
+          "title": "花を、紙の縁へ重ねる。",
+          "text": "灰色に見える桜が上下の周縁に重なり、中央には書を読むための空きが残ります。花と字が接する部分もあり、背景と文字が完全に分離していません。"
+        },
+        {
+          "title": "書いた人と、歌った人を分ける。",
+          "text": "歌の作者は鴨長明、書は光悦です。下絵は宗達への帰属という館の判断。館の説明では歌は秋を詠み、桜の下絵と一対一の挿絵関係とは限りません。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "桜下絵和歌色紙の公式配信JPEGを開く",
+        "eyebrow": "RINPA / CALLIGRAPHY & UNDERPAINTING",
+        "scope_note": "色紙の画面と表装の一部を写した画像です。掛軸全体ではありません。書は光悦、下絵は宗達に帰属とされ、鴨長明は歌の作者です。",
+        "observations_note": "文字・花・空きの配置は掲載画像の実見による観察です。墨・金・銀という材料名と作者帰属は所蔵館の記録に基づき、見た色だけで材料や制作工程を判定しません。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号1975.268.59。原作品：Met個別Public Domain表示。公式配信画像：CC0 1.0。",
+        "provenance_note": "Met公式配信JPEGを無加工で保持し、拡大リンクから開けます。表示用画像は縦横比を保った縮小のみ（切り抜き・色補正なし）。撮影者名は未確認で、機関の個別CC0画像方針に基づきます。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "placement": "supporting"
+      },
+      "photographer": "Not identified in official record; institutional CC0 image policy applies",
+      "display_derivatives": {
+        "method": "Aspect-preserving LANCZOS resize,WebP quality92/method6;no crop,color adjustment orupscale;use unchanged originalJPEG for900px because re-encodedWebP is larger",
+        "original_unchanged": true,
+        "sizes": "(max-width:700px) 88vw, 900px",
+        "default_width": 900,
+        "variants": [
+          {
+            "local_file": "assets/met-44861-koetsu-720.webp",
+            "width": 720,
+            "height": 960,
+            "bytes": 182682,
+            "sha256": "5c12e9704c5b8cec414c7a7d89618682b1fb648154866a4ec9bc0af0bab554dd",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-44861-koetsu.jpg",
+            "width": 900,
+            "height": 1200,
+            "bytes": 196842,
+            "sha256": "90aa19064d37d1f9df9d49e82c82329f93365f7a4cf6bd27e980182beeb9fe92",
+            "format": "image/jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "met-765976-hoitsu",
+      "author": "酒井抱一",
+      "author_life": "1761–1828",
+      "title": "桜楓図屏風（桜と柳の一隻）",
+      "year": "1820年代初め",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "2018.55.1, .2",
+      "source_page": "https://www.metmuseum.org/art/collection/search/765976",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/765976/1801371/main-image",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "terms_url": "https://www.metmuseum.org/policies/terms-and-conditions",
+      "checked_at": "2026-11-01",
+      "credit": "Sakai Hōitsu, Cherry and Maple Trees, early 1820s, screen .1, overall. The Metropolitan Museum of Art, Purchase, Mary and James G. Wallach Foundation Gift, Rogers and Mary Livingston Griggs and Mary Griggs Burke Foundation Funds, and Brooke Russell Astor Bequest, 2018 (2018.55.1, .2). Public Domain / CC0.",
+      "underlying_work_rights": "individual record Public Domain label",
+      "territory_note": "US museum assessment, not a claim of universal jurisdictional guarantee",
+      "local_file": "assets/met-765976-hoitsu.jpg",
+      "viewing_point": "幹の太い斜線、細く垂れる柳、桜の明るい花と金地の空きを比較する。",
+      "entry": "琳派",
+      "alt": "金地の六曲屏風に、右下から上へ伸びる太い幹、白い桜の花、細く垂れる緑の柳。左側に広い金地が残り、下部に緑の地面が続く。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 222351,
+      "reproduction_rights": "Official PD artwork image provided under the Met OpenAccess CC0 policy",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_Met_IIIF_GET_http200",
+      "display_verified": false,
+      "width": 1200,
+      "height": 591,
+      "sha256": "120c10f4583b563999923e46b6020988733aba0e91d7f91e7cb941d5805708d1",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_0e15fc54b8248191b553461d60d4ad4d",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-rinpa-two-images.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One official photograph of one selected view, not multipleartworks or completepair/scroll.",
+      "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "太い幹と、細い枝を対比する。",
+          "text": "右寄りの太い幹は下から斜め上へ伸び、柳の細い枝は上から垂れます。線の太さと方向を対比させると、同じ植物でも画面内の役割が異なります。"
+        },
+        {
+          "title": "花の密度と、金地の空きを比べる。",
+          "text": "桜の白い花は上部と右側に集まり、左側には広い金地が残ります。光琳の八橋図の花の反復と比べ、密集する位置と空きの形を辿れます。"
+        },
+        {
+          "title": "一隻から、一双全体を語りすぎない。",
+          "text": "掲載面で見えるのは桜と柳。館の作品名は《桜楓図屏風》ですが、対となる紅葉側はこの画像にはありません。季節の対比は館の解説として区別します。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "桜楓図屏風の公式配信JPEGを開く",
+        "eyebrow": "RINPA / EDO REINTERPRETATION",
+        "scope_note": "六曲一双のうち桜と柳の一隻。館の画像指定は「screen .1, overall」です。一双全体や紅葉側の画像ではなく、左右の位置は断定しません。",
+        "observations_note": "幹・枝・花・余白は掲載画像の実見による観察です。其一が当時工房にいたという館の解説だけから共同制作とは断定せず、作者は館の作品記録どおり抱一とします。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号2018.55.1, .2。原作品：Met個別Public Domain表示。公式配信画像：CC0 1.0。",
+        "provenance_note": "Met公式配信JPEGを無加工で保持し、拡大リンクから開けます。表示用画像は縦横比を保った縮小のみ（切り抜き・色補正なし）。撮影者名は未確認で、機関の個別CC0画像方針に基づきます。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "placement": "supporting"
+      },
+      "photographer": "Not identified in official record; institutional CC0 image policy applies",
+      "display_derivatives": {
+        "method": "Aspect-preserving LANCZOS resize,WebP quality92/method6;no crop,color adjustment orupscale",
+        "original_unchanged": true,
+        "sizes": "(max-width:700px) 88vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/met-765976-hoitsu-720.webp",
+            "width": 720,
+            "height": 355,
+            "bytes": 80848,
+            "sha256": "0bbcb1b7038f8af77e5d23cc23c1e029806ee20f1411008b735d96aaf64f571b",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-765976-hoitsu-1200.webp",
+            "width": 1200,
+            "height": 591,
+            "bytes": 202246,
+            "sha256": "33af43243ac387a114fbd00ebfd09237adfaec13162b260e26fb00c146d65a36",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1985.96",
+      "entry": "Art Nouveau",
+      "author": "Hector Guimard（エクトール・ギマール）",
+      "author_life": "1867–1942",
+      "title": "Chair（椅子）",
+      "year": "1907年頃",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1985.96",
+      "source_page": "https://www.clevelandart.org/art/1985.96",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1985.96/1985.96_print.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Hector Guimard, Chair, c. 1907. Pearwood with tooled leather back and seat. The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1985.96. CC0.",
+      "underlying_work_rights": "Museum individual open-access eligibility for this c.1907 work; creator1867–1942. Separate from photograph release.",
+      "reproduction_rights": "Official API share_license_status=CC0 and exact image URL; individual object page authorizes reuse under CMA OA policy.",
+      "photographer": "Not identified in official API (image_credit null); do not infer.",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cleveland-1985.96_print.jpg",
+      "local_bytes": 3908445,
+      "width": 2272,
+      "height": 3400,
+      "sha256": "c4014cdf9236893ac0e286c376b7b71c5d7ccbec7564ec7fa1e3b27f615ecce4",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T00:49:48Z",
+      "library_file_id": "libfile_c7b97a3595288191b08b9d6286294f84",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "背の枠・脚・座面をつなぐ曲線と、木部と革の装飾の関係を観察する。",
+      "alt": "蜂蜜色の木の椅子を斜め前から撮影。細長い背の枠が枝のように分かれ、濃い茶色の革の背当てと座面を鋲が縁取る。四本の脚と全体が見える。",
+      "visual_notes": [
+        {
+          "title": "曲線が、部材をつなぐ。",
+          "text": "背の中央の支えが上へ分かれ、左右の枠と連続して見えます。座面下の幕板にも緩やかな起伏があり、背・座・脚を別々の四角として区切らない輪郭を作っています。"
+        },
+        {
+          "title": "木と革に、異なる線を刻む。",
+          "text": "木部には流れる溝、革の背当てには繊細な線模様が見えます。革の周囲の鋲が点の連なりとなり、大きな曲線を細かな反復で縁取っています。素材は館の記録では梨材と型押し革です。"
+        },
+        {
+          "title": "余白を、立体の一部として見る。",
+          "text": "背の支えの左右に細長い空隙が残り、中央の濃い革と対照を作ります。この斜め前の写真では座面の奥行きと四本の脚が見え、平面の文様だけでなく家具としての構造を追えます。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Guimardの椅子の公式配信JPEGを原寸で開く",
+        "eyebrow": "ART NOUVEAU / FURNITURE",
+        "scope_note": "Cleveland所蔵の椅子1985.96を斜め前から見た1点です。パリ地下鉄入口とは別作品。1907年頃は館が示す制作年で、特定の建物の室内用と推定していません。",
+        "observations_note": "形・模様・空隙は掲載写真の観察、作者・年・素材は所蔵記録に基づきます。同館の「Art Nouveau in France」展（1988年）出品歴を確認。図案・家具・ガラスの3点で、平面の模様と立体の構造を比較できます。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "所蔵番号1985.96。原作品：館の個別Open Access対象。写真：公式APIの個別CC0指定。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0 1.0",
+        "anchor": "guimard-chair"
+      },
+      "provenance": "Official object page and API individually checked. Direct CDN JPEG acquired; actual bytes3908445 differ from API cached filesize3905033, so actual response hash/size recorded. Pixel dimensions match2272×3400; actual full chair inspected.",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object",
+          "url": "https://www.clevelandart.org/art/1985.96"
+        },
+        {
+          "role": "individual_CC0_and_image_URL",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=1985.96&limit=2"
+        },
+        {
+          "role": "photo_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cleveland-1985.96_print-720.webp",
+            "width": 720,
+            "height": 1077,
+            "bytes": 61800,
+            "sha256": "9dd128d9093c6ea9a42004ced58819633a41721ad67b458971336a7b71ed12a5",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1985.96_print-1200.webp",
+            "width": 1200,
+            "height": 1796,
+            "bytes": 152424,
+            "sha256": "72be583db8f3f94542daf8f1833fedcd70bd1418d47cdedca8a4707afbf1c589",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1985.96_print-1800.webp",
+            "width": 1800,
+            "height": 2694,
+            "bytes": 323106,
+            "sha256": "91cf8ff1bd161558f8691047260b7bff67259d017306e1a12198b15002e11427",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1969.236",
+      "entry": "Art Nouveau",
+      "author": "Alphonse Mucha（アルフォンス・ミュシャ）",
+      "author_life": "1860–1939",
+      "title": "Documents Décoratifs: Oriental Poppies（装飾資料：オリエンタル・ポピー）",
+      "year": "1901–1902年",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1969.236",
+      "source_page": "https://www.clevelandart.org/art/1969.236",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1969.236/1969.236_print.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Documents Decoratifs:  Oriental Poppies, 1901–2. Alphonse Mucha (Czech, 1860–1939). Lithograph. The Cleveland Museum of Art, Mr. and Mrs. Charles G. Prasse Collection, gift in honor of the fiftieth anniversary of The Print Club of Cleveland, 1969.236. CC0.",
+      "underlying_work_rights": "Museum individual public-domain/Open Access eligibility; creator1860–1939,1901–02 print",
+      "reproduction_rights": "Official API share_license_status=CC0 and exact image URL; individual object page authorizes reuse under CMA OA policy.",
+      "photographer": "Not identified in official API (image_credit null); do not infer.",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cleveland-1969.236_print.jpg",
+      "local_bytes": 2907156,
+      "width": 2400,
+      "height": 3400,
+      "sha256": "f554d6d6968291ca15497c1cd373449eb8b5a00aa1c380f0d2601da97cc5b02b",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T01:02:15Z",
+      "library_file_id": "libfile_9a0b11107bac819182af7314b587375d",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "植物の線、面の反復、素材による見え方を比較する。",
+      "alt": "植物文様の図案を一枚に配置したリトグラフ。上に二つの見本、下に長い茎と桃色・赤紫の花、青緑の葉が反復し、右上にPL 38とある。",
+      "visual_notes": [
+        {
+          "title": "同じ花を、違う秩序に変える。",
+          "text": "上部には二つの小さな模様の見本、下部には茎を長く伸ばした花が並びます。同じ植物を、密な面・輪郭の強い単位・縦に伸びる反復へ組み替える様子を一枚の中で比べられます。"
+        },
+        {
+          "title": "輪郭線で、色の面をつなぐ。",
+          "text": "淡い桃色や赤紫の花、青緑の葉を、黄褐色の細い線が縁取ります。濃淡で立体を描き切るよりも、色の面と曲線が互いにつながる関係に目を向けてみてください。"
+        },
+        {
+          "title": "余白と反復の、密度を変える。",
+          "text": "下部は葉が重なって密ですが、花の周囲には明るい地が大きく残ります。上の帯状の模様との密度差が、長い茎のリズムを際立たせています。右上には「PL 38」の印字が見えます。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "Documents Décoratifs: Oriental Poppies（装飾資料：オリエンタル・ポピー）の公式配信JPEGを原寸で開く",
+        "eyebrow": "ART NOUVEAU / DECORATIVE PRINT",
+        "scope_note": "広告ポスターではなく、装飾図案の版画1枚です。所蔵館の年表記は1901–1902年。写真に見えるPL 38は図版上の番号で、書物全体の画像ではありません。版・刷の詳細は未確認です。",
+        "observations_note": "形・配色・構成は掲載画像の実見による観察、作者・年代・技法は所蔵記録によります。Clevelandの「Art Nouveau in France」展（1988年）出品歴を確認し、図案・家具・ガラスの比較セットに選びました。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "所蔵番号1969.236。原作品：館の個別Open Access対象。配信画像：公式APIの個別CC0指定。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0 1.0",
+        "anchor": "mucha-poppies"
+      },
+      "provenance": "Official individual page and API CC0 verified. Exact original printJPEG acquired 2026-11-01T01:02:15Z; bytes/hash and complete artwork pixels checked. API advertised size differs from actual response; actual bytes recorded.",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object",
+          "url": "https://www.clevelandart.org/art/1969.236"
+        },
+        {
+          "role": "individual_CC0_and_image_URL",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=1969.236&limit=2"
+        },
+        {
+          "role": "photo_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cleveland-1969.236_print-720.webp",
+            "width": 720,
+            "height": 1020,
+            "bytes": 201964,
+            "sha256": "256b87dd7ddb1641ce6a1c524a70423659a233c925a8fcc52b3e1d1f1861d7e2",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1969.236_print-1200.webp",
+            "width": 1200,
+            "height": 1700,
+            "bytes": 530854,
+            "sha256": "28d6263b309f31d526feb13951fd7a68dd5773157fa58bc8b898db60f57e2165",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1969.236_print-1800.webp",
+            "width": 1800,
+            "height": 2550,
+            "bytes": 1103344,
+            "sha256": "d0f89a93e3ffadd2e06422608052a28ae5c27c79fec25459a201d838a1f6271d",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1983.225",
+      "entry": "Art Nouveau",
+      "author": "Émile Gallé（エミール・ガレ）",
+      "author_life": "1846–1904",
+      "title": "Vase（花瓶）",
+      "year": "1900年頃",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1983.225",
+      "source_page": "https://www.clevelandart.org/art/1983.225",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1983.225/1983.225_print.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Vase, c. 1900. Emile Gallé (French, 1846–1904). Enameled glass; diameter: 13.5 cm (5 5/16 in.); overall: 23.4 cm (9 3/16 in.). The Cleveland Museum of Art, Gift of Dr. and Mrs. Roland Burelli, 1983.225. CC0.",
+      "underlying_work_rights": "Museum individual public-domain/Open Access eligibility; author1846–1904, c1900 work",
+      "reproduction_rights": "Official API share_license_status=CC0 and exact image URL; individual object page authorizes reuse under CMA OA policy.",
+      "photographer": "Not identified in official API (image_credit null); do not infer.",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cleveland-1983.225_print.jpg",
+      "local_bytes": 4314165,
+      "width": 2522,
+      "height": 3400,
+      "sha256": "9d1e5f6905b1088af785f1731fea126907d7680ec4445e0fb3572dea83152d31",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T01:00:35Z",
+      "library_file_id": "libfile_9a0b11107bac819182af7314b587375d",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "植物の線、面の反復、素材による見え方を比較する。",
+      "alt": "緑の半透明の花瓶を正面寄りから撮影。胴に紫や桃色の花と茎葉が描かれ、くびれた首と波打つ口縁、小さな台座まで全体が写る。",
+      "visual_notes": [
+        {
+          "title": "花の線が、曲面を回り込む。",
+          "text": "紫や桃色の花と細い茎・葉が、胴の丸みに沿って広がります。右側の茎は側面へ消え、模様が一枚の平面ではなく器の周囲に続くことが分かります。"
+        },
+        {
+          "title": "器の輪郭も、まっすぐにしない。",
+          "text": "ふくらんだ胴から首が絞られ、口縁が再び開きます。縁の高さにはうねりがあり、表面に描かれた植物だけでなく器そのものの輪郭にも曲線が現れています。"
+        },
+        {
+          "title": "ガラスと絵付けの、透け方を分ける。",
+          "text": "緑のガラスを通る明るさと、花の彩色が濃く見える部分を比べられます。館の材質・技法表記はエナメル彩ガラスです。この写真の照明や背景による明暗を、使用時に常に見える色とは同一視しません。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Vase（花瓶）の公式配信JPEGを原寸で開く",
+        "eyebrow": "ART NOUVEAU / ENAMELED GLASS",
+        "scope_note": "Cleveland所蔵1983.225の全体写真1点。高さ23.4cm、径13.5cm。館の記録に従い1900年頃・エナメル彩ガラスとします。裏面や底面の刻印、工房内の制作分担はこの写真から推定しません。",
+        "observations_note": "形・配色・構成は掲載画像の実見による観察、作者・年代・技法は所蔵記録によります。Clevelandの「Art Nouveau in France」展（1988年）出品歴を確認し、図案・家具・ガラスの比較セットに選びました。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "所蔵番号1983.225。原作品：館の個別Open Access対象。配信画像：公式APIの個別CC0指定。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0 1.0",
+        "anchor": "galle-vase"
+      },
+      "provenance": "Official individual page and API CC0 verified. Exact original printJPEG acquired 2026-11-01T01:00:35Z; bytes/hash and complete artwork pixels checked. API advertised size differs from actual response; actual bytes recorded.",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object",
+          "url": "https://www.clevelandart.org/art/1983.225"
+        },
+        {
+          "role": "individual_CC0_and_image_URL",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=1983.225&limit=2"
+        },
+        {
+          "role": "photo_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cleveland-1983.225_print-720.webp",
+            "width": 720,
+            "height": 971,
+            "bytes": 75832,
+            "sha256": "dbd17cc699e510c9ece33071f6e1479f29355afd4523a42ec9fc8f8b4fdc4141",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1983.225_print-1200.webp",
+            "width": 1200,
+            "height": 1618,
+            "bytes": 176498,
+            "sha256": "a0d2e9af9d3e6b03a4a68f6f980cfd2315ea0baf1b5cef5b89210bae3449e822",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-1983.225_print-1800.webp",
+            "width": 1800,
+            "height": 2427,
+            "bytes": 348882,
+            "sha256": "9aa42531ed65c86a46e8a5cef1a24358d58888fd7c29cae3da3c82275fabfe3e",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-2012.136",
+      "entry": "Art Deco",
+      "author": "René Lalique（ルネ・ラリック）",
+      "author_life": "1860–1945",
+      "title": "Wine Glass（ワイングラス）",
+      "year": "1925年",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "2012.136",
+      "source_page": "https://www.clevelandart.org/art/2012.136",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2012.136/2012.136_print.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "René Lalique, Wine Glass, 1925. Cleveland Museum of Art, Bequest of Dr. Paul J. Vignos Jr., 2012.136. CC0.",
+      "underlying_work_rights": "Museum individual Open Access/public-domain eligibility; artist1860–1945, object1925. Distinct from photograph license.",
+      "reproduction_rights": "Official API share_license_status=CC0 and exact image URL; individual object page authorizes reuse under CMA OA policy.",
+      "photographer": "Not identified in official API (image_credit null); do not infer.",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cleveland-2012.136_print.jpg",
+      "local_bytes": 519170,
+      "width": 3400,
+      "height": 3314,
+      "sha256": "b703d468d2e26f12634b5328f34de8c570c46f0818f190a1e1020880766d3864",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_CDN_GET_http200_2026-11-01T01:25:04Z",
+      "library_file_id": "libfile_8fc8b8b309e48191ab9ec9257bd00c4a",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "直線の段状装飾と、ボウル・脚の曲面の組み合わせを読む。",
+      "alt": "透明なワイングラス全体。広がるボウルと円形の脚を細い軸が結び、軸の中央に段状の矩形の枠が重なる。暗い背景に左へ影が伸びる。",
+      "visual_notes": [
+        {
+          "title": "直線を、軸の中心に集める。",
+          "text": "細い軸の中央で矩形の枠が重なり、上下に小さな段差を作っています。器全体に模様を広げず、輪郭の明瞭な幾何学的装飾を一点に集中させています。"
+        },
+        {
+          "title": "直線と曲面を、同じ器に置く。",
+          "text": "上のボウルは口へ向かって広がり、下の脚は円形です。その間に角張った装飾を挟むことで、曲面・直線・円の違いが際立ちます。Art Decoを直線だけの様式とは見なさないための比較例です。"
+        },
+        {
+          "title": "透明な素材を、縁の反射で読む。",
+          "text": "無色のガラスは輪郭と稜線の反射で形が見えます。黒い背景と左へ伸びる影は撮影条件によるものです。モデル名や製法は写真から推定せず、所蔵記録のガラスという表記に留めます。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "Laliqueのワイングラスの公式配信JPEGを原寸で開く",
+        "eyebrow": "ART DECO / GLASS",
+        "scope_note": "Cleveland所蔵2012.136の全体写真1点。制作年は1925年、高さ18.3cm、径7.8cm。自動車用マスコット《Spirit of the Wind》とは別作品です。製品のモデル名は未確認です。",
+        "observations_note": "形の説明は掲載写真の観察、作者・年代・素材はClevelandの個別記録に基づきます。V&Aの1920年代のLaliqueガラスとArt Decoの解説を背景に、段状の幾何学的装飾を読む例として選定しました。Clevelandによる個別作品の様式分類を引用したものではありません。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "所蔵番号2012.136。原作品：館の個別Open Access対象。写真：公式APIの個別CC0指定。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0 1.0",
+        "anchor": "lalique-wine-glass"
+      },
+      "provenance": "Official individual CC0 API and page checked. Original JPEG acquired2026-11-01T01:25:04Z, exact pixels inspected. Actual519170 bytes differs from API515755; actual hash recorded.",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object",
+          "url": "https://www.clevelandart.org/art/2012.136"
+        },
+        {
+          "role": "individual_CC0_and_image_URL",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=2012.136&limit=2"
+        },
+        {
+          "role": "photo_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cleveland-2012.136_print-720.webp",
+            "width": 720,
+            "height": 702,
+            "bytes": 20740,
+            "sha256": "db598b2d4929fcf32f1b0cc0db1b42bb339644b78b692f3f05f85ddc842a76ff",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-2012.136_print-1200.webp",
+            "width": 1200,
+            "height": 1170,
+            "bytes": 51684,
+            "sha256": "b9aa7f6c85891023ccf76367966c74574501e6a112b973cee95551c9d269eeb0",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cleveland-2012.136_print-1800.webp",
+            "width": 1800,
+            "height": 1754,
+            "bytes": 117228,
+            "sha256": "f302cf9f1f8c8046438f8b9cfc1c0711b0af2de99b979c50e6bbd4483fa24bbf",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "met-45381-dohan",
+      "author": "Kaigetsudō Dohan（懐月堂の絵師）",
+      "author_life": "1710–16年に活動（生没年未確認）",
+      "title": "Beautiful Woman（美人）",
+      "year": "18世紀初頭",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "1975.268.125",
+      "source_page": "https://www.metmuseum.org/art/collection/search/45381",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45381/2280555/source",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "terms_url": "https://www.metmuseum.org/policies/terms-and-conditions",
+      "checked_at": "2026-11-01",
+      "credit": "Kaigetsudō Dohan, Beautiful Woman, early18th century. The Metropolitan Museum of Art, The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975 (1975.268.125). Public Domain / CC0.",
+      "underlying_work_rights": "Individual Public Domain label; early18thcentury work; no invented death date.",
+      "territory_note": "US museum assessment, not a claim of universal jurisdictional guarantee",
+      "local_file": "assets/met-45381-dohan.jpg",
+      "viewing_point": "筆の輪郭が、姿を大きく包む。",
+      "entry": "浮世絵",
+      "alt": "手を頭の上に上げた女性の立ち姿。赤・水色・茶色の大きな衣服文様と黒い輪郭線、上部の広い余白が見え、左右に表装が写る。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 2765155,
+      "reproduction_rights": "Individual media isOasc true, isRestricted false; Met OpenAccess CC0 digital image. Photographer unspecified.",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_Met_IIIF_source_GET_http200_2026-11-01T01:50:13Z",
+      "display_verified": false,
+      "width": 2173,
+      "height": 4000,
+      "sha256": "8d5ae83b31d2816846eadc3d027e16e117945676e5c86f0b7ab7073b90ba8b4a",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_c0736a8b4cb08191914a64d1e0e0f496",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-ukiyoe-three-originals.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
+      "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "筆の輪郭が、姿を大きく包む。",
+          "text": "袖から裾へ続く太い黒い線が、衣服の重なりと人物の大きな姿を作ります。顔の細い描線との太さの違いに注目すると、同じ筆画でも役割が分かれていることが見えます。"
+        },
+        {
+          "title": "模様を、色の大きな面で切り替える。",
+          "text": "赤地の袖、水色の衣服、茶系の面が重なり、それぞれに花や小さな反復文様があります。身体の細かな立体描写より、文様を伴う面のつながりが視線を下へ導きます。"
+        },
+        {
+          "title": "立ち姿の上に、余白を残す。",
+          "text": "上げた両手より上には大きな明るい空間が残ります。人物を画面いっぱいに詰める写楽の役者絵とは異なる、立ち姿と空きの関係を比べられます。周囲の表装模様は絵の内部と区別します。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "Beautiful Woman（美人）の公式原JPEGを開く",
+        "eyebrow": "UKIYO-E / BRUSH PAINTING",
+        "scope_note": "絵の全画面と周囲の表装の一部が写っています。掛軸全体ではありません。紙本墨画着彩の肉筆画で、木版画ではありません。絵の寸法は81.8×33.5cm、表装込みの掛幅は163.5×51.1cm。",
+        "observations_note": "形・配色・画面構成は掲載画像の実見による観察です。作者・年代・技法と所蔵個体はMetの個別記録に基づきます。肉筆画・役者絵・風景版画の違いを、制作技法と主題の両方から比較します。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号1975.268.125。原作品：個別Public Domain表示。配信写真：当該媒体のOpen Access指定とMet CC0方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "placement": "supporting",
+        "anchor": "dohan-ukiyoe"
+      },
+      "photographer": "Not identified in official record; institutional CC0 image policy applies",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/met-45381-dohan-720.webp",
+            "width": 720,
+            "height": 1325,
+            "bytes": 305558,
+            "sha256": "a5d320fdbe238aa88d24ef49d212949fd165f3eab68cb3703d0d632ceb571b47",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-45381-dohan-1200.webp",
+            "width": 1200,
+            "height": 2209,
+            "bytes": 912480,
+            "sha256": "68977ba9d208ceefd5bd9735d146bb713aeba6623649961f8e5a4a5714474135",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-45381-dohan-1800.webp",
+            "width": 1800,
+            "height": 3313,
+            "bytes": 2181746,
+            "sha256": "029639f8c61ab8c4177b65767ac2be9eb7881f7cbb0ff1222f1ee6d267327d73",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "met-37358-sharaku",
+      "author": "東洲斎写楽（絵師）",
+      "author_life": "1794–95年に活動（生没年未確認）",
+      "title": "三代目大谷鬼次の奴江戸兵衛",
+      "year": "1794年",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "JP2822",
+      "source_page": "https://www.metmuseum.org/art/collection/search/37358",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/37358/134510/source",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "terms_url": "https://www.metmuseum.org/policies/terms-and-conditions",
+      "checked_at": "2026-11-01",
+      "credit": "Tōshūsai Sharaku, Kabuki Actor Ōtani Oniji III as Yakko Edobei, 1794. The Metropolitan Museum of Art, Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939 (JP2822). Public Domain / CC0.",
+      "underlying_work_rights": "Individual Public Domain label;1794 work; do not invent author identity or death year.",
+      "territory_note": "US museum assessment, not a claim of universal jurisdictional guarantee",
+      "local_file": "assets/met-37358-sharaku.jpg",
+      "viewing_point": "顔と手を、大きな形として置く。",
+      "entry": "浮世絵",
+      "alt": "灰色の地に役者の顔と上半身を大きく描く木版画。鋭い目と横へ曲がる口、黒い髪、茶の縞の衣服、指を開いた両手が見える。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 2154460,
+      "reproduction_rights": "Individual media isOasc true, isRestricted false; Met OpenAccess CC0 digital image. Photographer unspecified.",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_Met_IIIF_source_GET_http200_2026-11-01T01:53:22Z",
+      "display_verified": false,
+      "width": 2538,
+      "height": 3799,
+      "sha256": "2c1389acc890f29fb6da6f3c8235dfe455278b0a1f337eb53c18ca662c7c9ae7",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_c0736a8b4cb08191914a64d1e0e0f496",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-ukiyoe-three-originals.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
+      "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "顔と手を、大きな形として置く。",
+          "text": "斜め向きの大きな顔の下で、両手の指が扇状に開いています。表情だけでなく、頭・首・手の角度を組み合わせて人物の動きを読むことができます。"
+        },
+        {
+          "title": "黒い塊と、細い線を使い分ける。",
+          "text": "髪は濃い黒の大きな面ですが、その縁には細い毛筋が刻まれています。眉や目の角度、口の短い線と合わせ、輪郭の強弱が役柄の印象を作っています。"
+        },
+        {
+          "title": "背景を簡潔にし、人物を前へ出す。",
+          "text": "灰色の地には舞台の建物や小道具が描かれず、顔と衣服、手が強く浮かびます。館の技法記録は白雲母を含みますが、実物の光沢や当初の発色をこの写真だけで復元したとはしません。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "三代目大谷鬼次の奴江戸兵衛の公式原JPEGを開く",
+        "eyebrow": "UKIYO-E / ACTOR PRINT",
+        "scope_note": "Met所蔵JP2822の一枚です。大谷鬼次は役者、奴江戸兵衛は役名、写楽は絵師です。紙に墨・色・白雲母を用いた木版画。彫師・摺師の個人名や、この個体の摺り順は断定しません。",
+        "observations_note": "形・配色・画面構成は掲載画像の実見による観察です。作者・年代・技法と所蔵個体はMetの個別記録に基づきます。肉筆画・役者絵・風景版画の違いを、制作技法と主題の両方から比較します。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号JP2822。原作品：個別Public Domain表示。配信写真：当該媒体のOpen Access指定とMet CC0方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "placement": "supporting",
+        "anchor": "sharaku-ukiyoe"
+      },
+      "photographer": "Not identified in official record; institutional CC0 image policy applies",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/met-37358-sharaku-720.webp",
+            "width": 720,
+            "height": 1078,
+            "bytes": 238744,
+            "sha256": "6439d1e4b7855198cddf26945e9fe9217e7841cc5789bff6f09c30aafe758b30",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-37358-sharaku-1200.webp",
+            "width": 1200,
+            "height": 1796,
+            "bytes": 723194,
+            "sha256": "6f55d0e8deed415383b3ef57841c5a4e24875fdbd77b062ede04d21489add1c5",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-37358-sharaku-1800.webp",
+            "width": 1800,
+            "height": 2694,
+            "bytes": 1773764,
+            "sha256": "2119550185a7a5badcdc6c21905c09b965fe5f9a2d95da9b779bc6be38e2b794",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "met-45434-hokusai",
+      "author": "葛飾北斎（絵師）",
+      "author_life": "1760–1849",
+      "title": "富嶽三十六景 神奈川沖浪裏",
+      "year": "1830–32年頃",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "JP1847",
+      "source_page": "https://www.metmuseum.org/art/collection/search/45434",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45434/134438/source",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "terms_url": "https://www.metmuseum.org/policies/terms-and-conditions",
+      "checked_at": "2026-11-01",
+      "credit": "Katsushika Hokusai, Under the Wave off Kanagawa (Kanagawa oki nami ura), from Thirty-six Views of Mount Fuji, ca1830–32. The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (JP1847). Public Domain / CC0.",
+      "underlying_work_rights": "Individual Public Domain label; ca1830–32 work, author1760–1849.",
+      "territory_note": "US museum assessment, not a claim of universal jurisdictional guarantee",
+      "local_file": "assets/met-45434-hokusai.jpg",
+      "viewing_point": "大きな波の中に、小さな富士を置く。",
+      "entry": "浮世絵",
+      "alt": "左上から崩れる大波と白い飛沫、波間の三艘の細長い舟を描く横長の木版画。中央奥に小さな富士が見え、青い帯状の波と明るい空が対照を作る。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 2585399,
+      "reproduction_rights": "Individual media isOasc true, isRestricted false; Met OpenAccess CC0 digital image. Photographer unspecified.",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_Met_IIIF_source_GET_http200_2026-11-01T01:56:34Z",
+      "display_verified": false,
+      "width": 3859,
+      "height": 2594,
+      "sha256": "57b3c62ea1c4e10633ddc387a01b4166f6e4adaad307e1807ce9483a96385741",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_c0736a8b4cb08191914a64d1e0e0f496",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-ukiyoe-three-originals.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
+      "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "大きな波の中に、小さな富士を置く。",
+          "text": "波のくぼみの奥に、白い頂を持つ小さな三角形の富士が見えます。近くの大波と遠くの山の大きさの差が、同じ画面に強い奥行きと緊張を生みます。"
+        },
+        {
+          "title": "飛沫と舟で、流れを反復する。",
+          "text": "波頭の白い飛沫は細かな曲線へ分かれ、三艘の細長い舟が斜めの方向を繰り返します。人々の姿は小さく、波と舟の大きな形の関係から先に画面を読む構成です。"
+        },
+        {
+          "title": "青の帯と、明るい空を対照させる。",
+          "text": "濃い青と淡い青の帯が波の方向を示し、その上には明るい空が広がります。別の摺りを扱う顔料分析を、このJP1847の個別測定結果とはしません。色と紙の状態も所蔵個体ごとに異なります。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "富嶽三十六景 神奈川沖浪裏の公式原JPEGを開く",
+        "eyebrow": "UKIYO-E / LANDSCAPE PRINT",
+        "scope_note": "Met所蔵JP1847の摺りを掲載しています。同館のJP2569・JP2972や現代の復刻ではありません。紙に墨・色を用いた木版画、25.7×37.9cm。作品の制作・刊行年代と、この一枚の版の状態を混同しません。",
+        "observations_note": "形・配色・画面構成は掲載画像の実見による観察です。作者・年代・技法と所蔵個体はMetの個別記録に基づきます。肉筆画・役者絵・風景版画の違いを、制作技法と主題の両方から比較します。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号JP1847。原作品：個別Public Domain表示。配信写真：当該媒体のOpen Access指定とMet CC0方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "placement": "lead",
+        "anchor": "hokusai-ukiyoe"
+      },
+      "photographer": "Not identified in official record; institutional CC0 image policy applies",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/met-45434-hokusai-720.webp",
+            "width": 720,
+            "height": 484,
+            "bytes": 145110,
+            "sha256": "a9e6dda30c0190479b3541a0e839248c339532b162d439e5d351ba8093825816",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-45434-hokusai-1200.webp",
+            "width": 1200,
+            "height": 807,
+            "bytes": 393750,
+            "sha256": "d6e9ca90e7b5292d98d9b2c5210158dbbdb4301a8f9e03bff5cd5fe05b2688bb",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-45434-hokusai-1800.webp",
+            "width": 1800,
+            "height": 1210,
+            "bytes": 908940,
+            "sha256": "f6363acc9f288c9177e8caf8327920b1b4c27c2416338876834b248a0ef464f3",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "met-485540-boccioni",
+      "author": "Umberto Boccioni（ウンベルト・ボッチョーニ）",
+      "author_life": "1882–1916",
+      "title": "Unique Forms of Continuity in Space（空間における連続性の唯一の形態）",
+      "year": "原作1913年／この個体の鋳造1950年",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "1990.38.3",
+      "source_page": "https://www.metmuseum.org/art/collection/search/485540",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/485540/1005475/source",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "terms_url": "https://www.metmuseum.org/policies/terms-and-conditions",
+      "checked_at": "2026-11-01",
+      "credit": "Umberto Boccioni, Unique Forms of Continuity in Space, 1913, cast 1950. The Metropolitan Museum of Art, Bequest of Lydia Winston Malbin, 1989 (1990.38.3). Public Domain / CC0.",
+      "underlying_work_rights": "Individual museum Public Domain declaration, historical work by Boccioni who died 1916; do not misdate 1950 bronze as lifetime cast.",
+      "territory_note": "US museum assessment, not a claim of universal jurisdictional guarantee",
+      "local_file": "assets/met-485540-boccioni.jpg",
+      "viewing_point": "歩く人体を、流れる面の連続に変える。",
+      "entry": "Futurism",
+      "alt": "両脚を大きく開いた金褐色のブロンズ像を斜めから見た写真。胴と脚の面が後方へ張り出し、両足は別々の矩形台に乗る。木製展示台は下端が画面外へ続く。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 979248,
+      "reproduction_rights": "Individual media isOasc true, isRestricted false; Met OpenAccess CC0 digital image. Photographer unspecified.",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_Met_IIIF_source_GET_http200_2026-11-01T03:45:16Z",
+      "display_verified": false,
+      "width": 2978,
+      "height": 3722,
+      "sha256": "c447c7fa971e16f0794a6442e0583ad36d398634fe51065d20e9394ad438810d",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_cca9556e07d881919154e11e38a896a8",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-boccioni-original-proof.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
+      "provenance": "公式作品ページの画像リンクから特定済みのMet配信URLを通常GETで取得。原JPEGの実画素・寸法・SHA-256を確認し、個別PD表示と館のCC0方針を別記録。原画像と取得記録はLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "歩行の輪郭を、後方へ引き延ばす。",
+          "text": "大きく開いた両脚と後ろへ流れる面が、歩行する人体を連続する運動として見せます。"
+        },
+        {
+          "title": "面の明暗で、速度を感じさせる。",
+          "text": "なめらかな凸面と深いくぼみに明暗が分かれ、輪郭だけでなく立体の表面でも速度感を作ります。"
+        },
+        {
+          "title": "原作と、鋳造された個体を分ける。",
+          "text": "この写真は1950年鋳造のブロンズ個体。原作の年1913と、撮影された鋳造物の年を分けて読みます。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "Boccioniのブロンズ像の公式原JPEGを開く",
+        "eyebrow": "FUTURISM / SCULPTURE",
+        "scope_note": "Met所蔵1990.38.3。原作1913年、この個体は1950年鋳造のブロンズです。像と両足の台は全体が見えますが、木製展示台は下端が写真の外へ続きます。写真の別角度を別作品として数えません。",
+        "observations_note": "形と明暗は掲載写真の観察です。作者・材質・原作年と鋳造年はMetの個別記録に基づき、同館が未来派の速度・機械的な力と結び付けて解説する作品として選定しています。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "所蔵番号1990.38.3。原作品：個別Public Domain表示。配信写真：当該媒体のOpen Access指定とMet CC0方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "placement": "lead",
+        "anchor": "boccioni-futurism"
+      },
+      "photographer": "Not identified in official record; institutional CC0 image policy applies",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/met-485540-boccioni-720.webp",
+            "width": 720,
+            "height": 900,
+            "bytes": 71162,
+            "sha256": "ff3519f4346676f9f8533cc1fe1e342f527d532b23ab1a5c6dd2517d89eeeef1",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-485540-boccioni-1200.webp",
+            "width": 1200,
+            "height": 1500,
+            "bytes": 196356,
+            "sha256": "b3fb5ec0eb9c4c19eeb33869f10b89b37031193f0babe208e6e4ce54151bc611",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/met-485540-boccioni-1800.webp",
+            "width": 1800,
+            "height": 2250,
+            "bytes": 461420,
+            "sha256": "a1cb1d4fff9ba94b79b2534a671361199a64d2ef392d35ff5e9fd056192edb34",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aichi-5319",
+      "author": "山本鼎",
+      "author_life": "1882–1946",
+      "title": "漁夫",
+      "year": "1904年（館の制作年）",
+      "institution": "愛知県美術館",
+      "accession": "JP199100056000",
+      "source_page": "https://jmapps.ne.jp/apmoa/det.html?data_id=5319",
+      "image_url": "https://jmapps.ne.jp/apmoa/pict.html?pict_size=l&data_id=3584&dt=20190813_5",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://apmoa.museum/pressroom/image-licensing/",
+      "terms_url": "https://apmoa.museum/pressroom/image-licensing/",
+      "checked_at": "2026-11-01",
+      "credit": "山本鼎《漁夫》1904年（館の制作年）、愛知県美術館蔵（JP199100056000）。Public Domain Mark 1.0。",
+      "underlying_work_rights": "1904年作品、作者1946年没。個別PD画像表示と分離して記録。現存する摺りの時期は制作年欄のみから断定しない。",
+      "territory_note": "所蔵館の個別Public Domain表示と公開画像利用方針。全地域・第三者権利の無条件保証とはしない。",
+      "local_file": "assets/aichi-5319.jpg",
+      "viewing_point": "彫った線で、衣服の量感を作る。",
+      "entry": "創作版画",
+      "alt": "白黒の線で衣服を表した立つ人物。右側に水面と家並みが見え、矩形の印刷面の周囲に紙の余白がある。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 322096,
+      "reproduction_rights": "個別画像JP199100056000_000000_001にPublic Domain。掲載規約は営利非営利の複製再配布を許可、所蔵者表示と改変表示を求め、第三者権利留保あり。",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_browser_displayed_image_download_2026-11-01T04:16:25Z",
+      "display_verified": false,
+      "width": 951,
+      "height": 1200,
+      "sha256": "b55032587f1aaeebe2614cf62da4c7d9103f1e3d33c6bde4998414eecb488e9e",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_2d8fc4a50a2c8191855e144ca56783bd",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-yamamoto-fisherman-proof.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
+      "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。原JPEG・証拠・hashはLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "彫った線で、衣服の量感を作る。",
+          "text": "人物の衣服を覆う白黒の細い線が、肩から腕、裾へと曲がりながら重なっています。輪郭線だけでなく、線の方向と密度で身体の重さを見せます。"
+        },
+        {
+          "title": "人物と、遠くの水辺を対照する。",
+          "text": "手前の人物が縦長の画面を大きく占め、右側には低い家並みと水面が開けます。濃い衣服と明るい水面の差が、人物を前へ押し出します。"
+        },
+        {
+          "title": "図案の年と、所蔵される摺りを分ける。",
+          "text": "館の制作年は1904年ですが、その欄だけでこの一枚が摺られた年を独立に確定したとはしません。上田市立美術館の1988年後摺りとは別の所蔵個体です。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "漁夫の公式原JPEGを開く",
+        "eyebrow": "SŌSAKU-HANGA / WOODCUT",
+        "scope_note": "愛知県美術館蔵 JP199100056000。木版・紙。1904年（館の制作年）。印刷面と周囲の紙を含む所蔵個体の画像です。",
+        "observations_note": "形・色・構図の解説は掲載画像の観察です。制作年、刊行年、当該個体の摺り年を分け、記録にない工程は推測しません。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "原作品と当該公開画像の個別Public Domain表示を確認。所蔵館クレジット・変更表示を添付し、第三者権利の留保を維持。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館の公開画像利用方針",
+        "license_label": "Public Domain Mark",
+        "placement": "lead",
+        "anchor": "aichi-5319"
+      },
+      "photographer": "個別記録に撮影者名なし。0000/00/00は撮影日として扱わない。",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 951,
+        "variants": [
+          {
+            "local_file": "assets/aichi-5319-720.webp",
+            "width": 720,
+            "height": 909,
+            "bytes": 213110,
+            "sha256": "869895d0be0378c1ef66b56481c27f9e7535c637411e0407fd8c703e71d3f1e6",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/aichi-5319-951.webp",
+            "width": 951,
+            "height": 1200,
+            "bytes": 304306,
+            "sha256": "14efbaed9cafeaab8081c9670f2623c53facc201e0b5de6647e0a9891bb64b56",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aichi-18296",
+      "author": "恩地孝四郎",
+      "author_life": "1891–1955",
+      "title": "抒情 あかるい時『月映』Vより",
+      "year": "1915年（館の制作年）",
+      "institution": "愛知県美術館",
+      "accession": "JP199100038067",
+      "source_page": "https://jmapps.ne.jp/apmoa/det.html?data_id=18296&data_idx=0&referer_id=18310",
+      "image_url": "https://jmapps.ne.jp/apmoa/pict.html?pict_size=l&data_id=3534&dt=20190813_5",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://apmoa.museum/pressroom/image-licensing/",
+      "terms_url": "https://apmoa.museum/pressroom/image-licensing/",
+      "checked_at": "2026-11-01",
+      "credit": "恩地孝四郎《抒情 あかるい時『月映』Vより》1915年（館の制作年）、愛知県美術館蔵（JP199100038067）。Public Domain Mark 1.0。",
+      "underlying_work_rights": "1915年の木版作品、作者1955年没。個別PD表示。公刊月映Vの所蔵個体。後摺り・版数や印刷担当者は記録から推測しない。",
+      "territory_note": "所蔵館の個別Public Domain表示と公開画像利用方針。全地域・第三者権利の無条件保証とはしない。",
+      "local_file": "assets/aichi-18296.jpg",
+      "viewing_point": "赤い面と、明るい空隙を組む。",
+      "entry": "創作版画",
+      "alt": "赤い矩形を曲線が区切り、中央に淡い不規則な形と小さな尖った赤い形が残る木版。周囲の紙を含む。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 211522,
+      "reproduction_rights": "当該画像JP199100038067_000000_001のPublic Domain Mark 1.0を正規ブラウザ画面で確認。館の営利非営利再配布方針、所蔵者表示・改変表示・第三者権利留保を記録。",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_browser_displayed_image_download_2026-11-01T04:19:08Z",
+      "display_verified": false,
+      "width": 951,
+      "height": 1200,
+      "sha256": "87f08d1ac941695b25b1750e0fb0cae0458da7c8fd5a561fe690ad24a8ad5a9a",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_ec555fbdc0c48191ba9a1e3004105e41",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-onchi-tsukuhae-proof.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
+      "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。原JPEG・証拠・hashはLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "赤い面と、明るい空隙を組む。",
+          "text": "赤い矩形の内側を曲線が分け、中央に明るい不規則な形が残されています。具体的な風景を再現するのではなく、色面どうしの関係から画面を読みます。"
+        },
+        {
+          "title": "曲線を、大きさを変えて反復する。",
+          "text": "外側の大きな弧と、中心の小さな尖った形が呼応します。滑らかな境界と、かすれた色の縁が同居し、均一なデジタル図形とは異なる表面を見せます。"
+        },
+        {
+          "title": "独立した図版を、雑誌の中へ戻して読む。",
+          "text": "この一枚は1915年の公刊『月映』Vに属する所蔵個体です。私輯と公刊版、作品の理念と実際の印刷工程を分け、全てを作者の自摺と決め付けません。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "抒情 あかるい時『月映』Vよりの公式原JPEGを開く",
+        "eyebrow": "SŌSAKU-HANGA / WOODCUT",
+        "scope_note": "愛知県美術館蔵 JP199100038067。木版・紙。1915年（館の制作年）。印刷面と周囲の紙を含む所蔵個体の画像です。",
+        "observations_note": "形・色・構図の解説は掲載画像の観察です。制作年、刊行年、当該個体の摺り年を分け、記録にない工程は推測しません。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "原作品と当該公開画像の個別Public Domain表示を確認。所蔵館クレジット・変更表示を添付し、第三者権利の留保を維持。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館の公開画像利用方針",
+        "license_label": "Public Domain Mark",
+        "placement": "supporting",
+        "anchor": "aichi-18296"
+      },
+      "photographer": "個別記録に撮影者名なし。0000/00/00は撮影日として扱わない。",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 951,
+        "variants": [
+          {
+            "local_file": "assets/aichi-18296-720.webp",
+            "width": 720,
+            "height": 909,
+            "bytes": 121242,
+            "sha256": "b1a9ae61af79aa684d3a4bbc13515557d00d7356b7e280ac2c1007d118cf6743",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/aichi-18296-951.webp",
+            "width": 951,
+            "height": 1200,
+            "bytes": 191558,
+            "sha256": "ae82ca2096ff904e6b0886c2bd87e3984bc49ec8ddd6c6fe71ddd8727860a12b",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aichi-5528",
+      "author": "田中恭吉",
+      "author_life": "1892–1915",
+      "title": "病める夕 『月映』I",
+      "year": "1913年（館の制作年。公刊年とは区別）",
+      "institution": "愛知県美術館",
+      "accession": "JP199100038004",
+      "source_page": "https://jmapps.ne.jp/apmoa/det.html?data_id=5528&data_idx=0&referer_id=5468",
+      "image_url": "https://jmapps.ne.jp/apmoa/pict.html?pict_size=l&data_id=3471&dt=20200826_3",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://apmoa.museum/pressroom/image-licensing/",
+      "terms_url": "https://apmoa.museum/pressroom/image-licensing/",
+      "checked_at": "2026-11-01",
+      "credit": "田中恭吉《病める夕 『月映』I》1913年（館の制作年。公刊年とは区別）、愛知県美術館蔵（JP199100038004）。Public Domain Mark 1.0。",
+      "underlying_work_rights": "1913年の木版作品。個別Public Domain表示。作者1915年没。所蔵個体の摺り年・印刷担当を推測しない。",
+      "territory_note": "所蔵館の個別Public Domain表示と公開画像利用方針。全地域・第三者権利の無条件保証とはしない。",
+      "local_file": "assets/aichi-5528.jpg",
+      "viewing_point": "黄土色と黒を、強く対照する。",
+      "entry": "創作版画",
+      "alt": "黄土色と黒の木版風景。下部に波状の細線が重なり、上部の木や雲のような形が湾曲する。印刷面と紙の余白を含む。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "status": "adopted_local_image",
+      "local_bytes": 330856,
+      "reproduction_rights": "当該画像JP199100038004_000000_001にPublic Domain Mark 1.0。撮影者未記載。館の商用・非商用再配布方針、所蔵者表示・改変表示・第三者権利留保を別記録。",
+      "commercial_use": "Museum explicitly permits commercial and noncommercial reuse",
+      "acquisition_status": "official_browser_displayed_image_download_2026-11-01T04:33:33Z",
+      "display_verified": false,
+      "width": 951,
+      "height": 1200,
+      "sha256": "70526ce698b64629278737ebd824ec3f5399e85ec70f6be378f623b373cdc98a",
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "library_file_id": "libfile_015076d93f2c81918529b952b6e12452",
+      "library_version": 0,
+      "library_original_filename": "design-lineage-tanaka-tsukuhae-proof.zip",
+      "original_bytes_unchanged": true,
+      "counting_note": "One selected official photograph of one accessioned artwork; derivatives do not increase count.",
+      "provenance": "公式個別ページで表示された画像を通常のブラウザー保存で取得。画素と個体番号、個別PDM表示を照合。原JPEG・証拠・hashはLibraryに保存。",
+      "visual_notes": [
+        {
+          "title": "黄土色と黒を、強く対照する。",
+          "text": "明るい上部と、黒い形が密集する下部を対照させています。色数を抑えながら、面の明暗で画面の緊張を作ります。"
+        },
+        {
+          "title": "曲がる線を、風景全体へ反復する。",
+          "text": "下部を埋める波状の線と、上部の木や雲のような形の曲がりが呼応します。写実的な遠近だけでなく、線の反復と変形で情感を伝える風景として読みます。"
+        },
+        {
+          "title": "制作と、冊子での発表を分ける。",
+          "text": "愛知県美術館の制作年は1913年で、所蔵記録は『月映』Iに結び付けています。作品の制作年と、1914–1915年に展開した公刊誌の刊行時期を混同しません。"
+        }
+      ],
+      "presentation": {
+        "fullsize_label": "病める夕 『月映』Iの公式原JPEGを開く",
+        "eyebrow": "SŌSAKU-HANGA / WOODCUT",
+        "scope_note": "愛知県美術館蔵 JP199100038004。木版・紙。1913年（館の制作年。公刊年とは区別）。印刷面と周囲の紙を含む所蔵個体の画像です。",
+        "observations_note": "形・色・構図の解説は掲載画像の観察です。制作年、刊行年、当該個体の摺り年を分け、記録にない工程は推測しません。",
+        "source_label": "所蔵元の作品解説",
+        "rights_summary": "原作品と当該公開画像の個別Public Domain表示を確認。所蔵館クレジット・変更表示を添付し、第三者権利の留保を維持。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館の公開画像利用方針",
+        "license_label": "Public Domain Mark",
+        "placement": "supporting",
+        "anchor": "aichi-5528"
+      },
+      "photographer": "個別記録に撮影者名なし。0000/00/00は撮影日として扱わない。",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 951,
+        "variants": [
+          {
+            "local_file": "assets/aichi-5528-720.webp",
+            "width": 720,
+            "height": 909,
+            "bytes": 215910,
+            "sha256": "07f0ca4e29fc1537d7dcf2dd7c1b8da4bc984218a8c8092ac06debf3dce328ab",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/aichi-5528-951.webp",
+            "width": 951,
+            "height": 1200,
+            "bytes": 307816,
+            "sha256": "1df9498596cbee4fe6d8b5785ca87a2d968b24c07ee8715aad482c362f09f204",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1995.4-schwitters",
+      "entry": "Dada",
+      "author": "Kurt Schwitters (1887–1948)",
+      "author_life": "1887–1948",
+      "title": "Merz 3 Portfolio: Plate 1",
+      "year": "1923",
+      "institution": "Cleveland Museum of Art",
+      "accession": "1995.4",
+      "source_page": "https://www.clevelandart.org/art/1995.4",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1995.4/1995.4_print.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Kurt Schwitters, Merz 3 Portfolio: Plate 1, 1923. The Cleveland Museum of Art, Dudley P. Allen Fund, 1995.4. CC0.",
+      "underlying_work_rights": "Museum individual Open Access designation for public-domain artwork; original1923 print, Schwitters died1948. Historical printed fragments transferred to lithographic stone; makers of those fragments are not individually identified. Do not extend museum declaration to modern reconstructions or independent fragment photographs; not a worldwide legal guarantee.",
+      "reproduction_rights": "Individual API share_license_status CC0; exact institutional print JPEG, unnamed photographer.",
+      "photographer": "個別記録に撮影者名なし。館の当該CC0画像方針による。",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cma-1995.4-schwitters.jpg",
+      "local_bytes": 2420057,
+      "width": 2785,
+      "height": 3400,
+      "sha256": "465479f697632b8528fdc213c3e74f4ab00dc2b6227ae4a88376be091c33a084",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_print_JPEG_http200_2026-11-01T04:50:15Z",
+      "library_file_id": "libfile_ddfc387d89708191ab59a237f2bdbf85",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "印刷の断片を、石版の画面へ組み直す。",
+      "alt": "淡い縦長の紙に、黒い矩形、格子模様、粒状の灰色、文字の断片、同心円、小さな図像を重ねた石版画。左下に署名がある。",
+      "visual_notes": [
+        {
+          "title": "異なる印刷面を、隣り合わせる。",
+          "text": "黒い矩形、細かな格子、粒状の灰色を組み合わせ、異なる印刷面の質感を対照させています。"
+        },
+        {
+          "title": "文字を、読むものと見るものの間に置く。",
+          "text": "大きな文字の断片や小さな図像は、元の広告や説明から切り離され、画面の形として配置されています。"
+        },
+        {
+          "title": "コラージュの方法と、石版画の個体を分ける。",
+          "text": "所蔵記録の技法は石版画です。紙片そのものが貼られた現物と、紙片の印刷像を転写したこの版画を区別して読みます。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "Merz 3 Plate 1の公式原JPEGを開く",
+        "eyebrow": "DADA / MERZ PRINT",
+        "scope_note": "Cleveland Museum of Art所蔵1995.4、1923年の石版画。紙片を貼ったコラージュ現物の写真ではなく、紙片の像を石版へ転写した版画です。紙面全体と署名を含みます。",
+        "observations_note": "形・文字・配置の解説は掲載画像の観察です。MerzとDadaの関係、Molling印刷所での転写工程は所蔵館の個別解説に基づきます。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "原版画：館の個別Open Access対象。デジタル画像：当該APIのCC0指定。素材断片の作者は館記録に個別記載がなく、全地域の権利を一律に保証する趣旨ではありません。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "anchor": "schwitters-merz"
+      },
+      "provenance": "Official individual CC0 API and page checked. Exact print JPEG acquired2026-11-01T04:50:15Z; pixels inspected. Actual2420057 bytes (API estimate2430164); actual hash recorded.",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object",
+          "url": "https://www.clevelandart.org/art/1995.4"
+        },
+        {
+          "role": "individual_CC0_and_image_URL",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=1995.4&limit=2"
+        },
+        {
+          "role": "photo_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "terms_url": "https://www.clevelandart.org/open-access",
+      "library_original_filename": "design-lineage-schwitters-merz-proof.zip",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cma-1995.4-schwitters-720.webp",
+            "width": 720,
+            "height": 879,
+            "bytes": 136276,
+            "sha256": "004879159fe4d78cfed148659ac4cc9ef2d2040a9820b9c0efa980ea8ce98ae3",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1995.4-schwitters-1200.webp",
+            "width": 1200,
+            "height": 1465,
+            "bytes": 380906,
+            "sha256": "0ab5c07ca36aa37e56ccd332668effbccc432096b8fab01020b9da1f07f9e852",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1995.4-schwitters-1800.webp",
+            "width": 1800,
+            "height": 2197,
+            "bytes": 847354,
+            "sha256": "13f286cc440b7341160ba264f35b2283fe531a0891f48667bcbbd8ef4cd3dee9",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nga-2010.124.1-dada",
+      "entry": "Dada",
+      "author": "Theo van Doesburg / Kurt Schwitters",
+      "author_life": "1883–1931 / 1887–1948",
+      "title": "Kleine Dada Soirée (Small Dada Evening)",
+      "year": "1922（NGA個別記録）",
+      "institution": "National Gallery of Art, Washington",
+      "accession": "2010.124.1",
+      "source_page": "https://www.nga.gov/artworks/154076-kleine-dada-soiree-small-dada-evening",
+      "image_url": "https://api.nga.gov/iiif/57e3cfe1-6989-44fc-88f7-977bbdcf5798/full/full/0/default.jpg?attachment_filename=kleine_dada_soiree_small_dada_evening_2010.124.1.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.nga.gov/terms-and-notices",
+      "checked_at": "2026-11-01",
+      "credit": "Theo van Doesburg and Kurt Schwitters, Kleine Dada Soirée (Small Dada Evening), 1922. National Gallery of Art, Washington, Gift of the Collectors Committee, 2010.124.1. CC0.",
+      "underlying_work_rights": "NGA individual record identifies public-domain media; historical1922 artwork by Doesburg1931/Schwitters1948 deceased. Different physical accession from MoMA178.1945.",
+      "reproduction_rights": "Individual Download media explicitly free/public domain. NGA designated OA digital-image CC0 policy previously verified2026-10-31T22:55:05Z; exact policy source remains separately recorded.",
+      "photographer": "Not identified",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "Institutional designation is not an unlimited guarantee for third-party rights in every jurisdiction; no endorsement.",
+      "local_file": "assets/nga-2010.124.1-dada.jpg",
+      "local_bytes": 4441027,
+      "width": 4070,
+      "height": 4096,
+      "sha256": "3f9bd7b2b33406e0f9e54f9a361b4d8c32e7bd2d9034335bbb96acbe250cbff1",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_NGA_Download_JPEG_http200_2026-11-01T05:30:59Z",
+      "library_file_id": "libfile_ff5abf6e4bd8819183d4b4ea96f6286f",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "文字を、情報と視覚の両方で動かす。",
+      "alt": "ほぼ正方形の淡い紙に、赤い大きな斜めの文字と黒い語句を重ねたダダのポスター・プログラム。大小と向きの違う文字、指差し、矢印、小さな図像が密に並ぶ。",
+      "visual_notes": [
+        {
+          "title": "赤い形と、黒い語句を重ねる。",
+          "text": "赤い大きな文字形を斜めに走らせ、その上へ黒い語句を重ねています。赤と黒は同じ役割ではなく、遠くから見える面と、近くで読む情報の層を作ります。"
+        },
+        {
+          "title": "読む向きを、何度も切り替える。",
+          "text": "文字の大小、向き、太さを混ぜ、指差しや矢印も加えています。一方向に順番に読むだけでなく、語句を拾いながら視線を行き来させます。"
+        },
+        {
+          "title": "紙面の年記と、作品記録を分ける。",
+          "text": "紙面には1923の数字が見えますが、NGAは所蔵個体の制作年を1922としています。告知物の制作年と催事の情報を混同せず、プログラムを上演そのものとも区別します。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Kleine Dada SoiréeのNGA公式原JPEGを開く",
+        "eyebrow": "DADA / POSTER & PROGRAM",
+        "scope_note": "NGA所蔵2010.124.1、制作年1922（館記録）、赤黒の石版ポスター・プログラム。紙面には1923の数字も見えます。MoMA178.1945とは別の所蔵個体で、NGA自身が公開する画像です。",
+        "observations_note": "色・文字・配置は掲載画像の観察。作者・制作年・媒体・所蔵個体はNGA記録に基づきます。所蔵年記と催事情報を混同せず、作品を実際の上演映像や録音とは扱いません。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "原作品と当該media：NGA個別Public Domain表示。公開デジタル画像：NGAのCC0方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "anchor": "dada-soiree"
+      },
+      "provenance": "NGA個別頁のDownloadリンクに記載されたフルJPEGを取得。所蔵番号2010.124.1、実画素、全紙面、hashを照合。原画像・個別HTML・PD表示・既存CC0方針の確認記録をLibrary保存。",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object_and_publicdomain_media",
+          "url": "https://www.nga.gov/artworks/154076-kleine-dada-soiree-small-dada-evening"
+        },
+        {
+          "role": "OA_policy_previously_verified_2026-10-31",
+          "url": "https://www.nga.gov/terms-and-notices"
+        }
+      ],
+      "terms_url": "https://www.nga.gov/terms-and-notices",
+      "library_original_filename": "design-lineage-nga-dada-program-proof.zip",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/nga-2010.124.1-dada-720.webp",
+            "width": 720,
+            "height": 725,
+            "bytes": 194888,
+            "sha256": "479b36ca613f89cf4dc7c555ff2c277c6bd307f609a6cf9be6dedbacfe46da55",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/nga-2010.124.1-dada-1200.webp",
+            "width": 1200,
+            "height": 1208,
+            "bytes": 430898,
+            "sha256": "fc4bbfc2ed1722a8fd38b8f879499827c86510683fd04673bb5b7b5e0b9e88d5",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/nga-2010.124.1-dada-1800.webp",
+            "width": 1800,
+            "height": 1811,
+            "bytes": 905412,
+            "sha256": "962361480b4bbf908d0a79998181e6c2c1f0c2ceb788663df7d484c1226be561",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "commons-dalbera-dada-head",
+      "entry": "Dada",
+      "author": "Sophie Taeuber-Arp",
+      "author_life": "1889–1943",
+      "title": "Tête dada（ダダの頭）",
+      "year": "1920",
+      "institution": "Centre Pompidou, Musée national d’art moderne, Paris",
+      "accession": "AM 2003-332",
+      "source_page": "https://www.centrepompidou.fr/fr/ressources/oeuvre/crgdRbL",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%22T%C3%AAte_dada%22_de_Sophie_Taeuber-Arp_%28Centre_Pompidou%2C_Paris%29.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "rights_policy_url": "https://creativecommons.org/licenses/by/2.0/",
+      "checked_at": "2026-11-01",
+      "credit": "Sophie Taeuber-Arp, Tête dada, 1920. Centre Pompidou, MNAM, AM 2003-332. 写真：Jean-Pierre Dalbéra「\"Tête dada\" de Sophie Taeuber-Arp (Centre Pompidou, Paris)」2021-08-13、CC BY 2.0。",
+      "underlying_work_rights": "Exact PompidouAM2003-332 individual Domaine public declaration. Author1889–1943 verified from museum, not photographerdescription erroneous1883. NotMoMA253.2003 beadworkhead, notPompidou1918AM1692S.",
+      "reproduction_rights": "Independent photograph byJean-Pierre Dalbéra, CC BY2.0 explicitly confirmed onCommons individualfile with sourceFlickr andlicense-reviewhistory. OriginalFlickr author/title/date/museumrecordlink checked. NotRMN institutionalphoto.",
+      "photographer": "Jean-Pierre Dalbéra",
+      "commercial_use": "CC BY2.0 permits commercialsharing/adaptation subject to appropriatecredit, source, license, no impliedendorsement, noadditionalrestrictions. Photo title preserved; resized/reencoded displayfiles explicitlymarked. No ShareAlike obligation; notCC0.",
+      "territory_note": "原作品の館によるPD判断と、独立写真のCC BY 2.0を分けています。写真の権利をCC0とは表示せず、作者・撮影者・館の推奨を意味しません。適用地域の第三者権利に留意します。",
+      "local_file": "assets/commons-dalbera-dada-head.jpg",
+      "local_bytes": 3446203,
+      "width": 1898,
+      "height": 3000,
+      "sha256": "c8dd0da2dbe140b1428a561686f1170aee948341d81a97c39d2f7b2964c1911d",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "Commons_original_link_normal_GET_http200_2026-11-01T05:55:50Z",
+      "library_file_id": "libfile_b95af9d859608191aaa92c0a9d44abc5",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "彩色した木の頭で、美術と工芸の境界を問い直す。",
+      "alt": "丸みのある木の頭を黒・金色・赤・白と曲線の色面で彩色した彫刻。額に1920とDADA、前へ出た鼻、細い支持部と円形の台が見える。",
+      "visual_notes": [
+        {
+          "title": "顔を、色面と曲線へ置き換える。",
+          "text": "丸みのある木の頭に、黒・金色・赤・白の面と曲線を配置しています。顔の各部を細かく写す代わりに、色と形の関係で立体を組み立てます。"
+        },
+        {
+          "title": "文字を、立体の表面に組み込む。",
+          "text": "額の部分には1920とDADAの文字が見えます。文字は外に置かれた説明だけでなく、彫刻そのものの表面を構成しています。"
+        },
+        {
+          "title": "木工と彩色を、美術の問いへ結び付ける。",
+          "text": "旋盤で形を作った木と彩色を組み合わせる作品です。館は、この時期の頭部作品や織物が、美術と応用芸術の序列を問い直したと説明しています。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Jean-Pierre Dalbéra撮影の原JPEGを開く（CC BY 2.0）",
+        "eyebrow": "DADA / PAINTED WOOD",
+        "scope_note": "Centre Pompidou所蔵AM 2003-332、1920年。木に彩色・金属顔料。写真はJean-Pierre Dalbéraによる2021年の独立撮影で、頭・支持部・円形の台を含みます。MoMAのビーズ付き《Head》やPompidouの1918年の別個体ではありません。",
+        "observations_note": "色・形・文字は掲載写真の観察です。作者の生年1889は所蔵館の記録を採用し、写真説明の1883は転記しません。木工と美術の関係はPompidouの当該作品解説に基づきます。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "原作品：Pompidouの当該個体Domaine public表示。写真：Jean-Pierre Dalbéra、CC BY 2.0。所蔵館の有償配信写真の条件とは別です。",
+        "provenance_note": "配布された原JPEGを無加工で保持。表示用に縦横比を保って縮小・WebPへ再符号化しています（切り抜き・色補正・加筆なし）。写真の作者・題名・元ページ・CC BY 2.0リンクと変更表示を維持。",
+        "policy_label": "写真の再利用条件",
+        "license_label": "CC BY 2.0",
+        "anchor": "taeuber-dada-head"
+      },
+      "provenance": "Jean-Pierre DalbéraのFlickrに由来する独立写真。Commons個別CC BY2.0と2021年のFlickrレビュー、元写真ページを照合し、正規原JPEGを取得。原本SHA-1がCommons記録と一致。館のRMN写真とは別画像。",
+      "rights_evidence_sources": [
+        {
+          "role": "underlying_object_PD",
+          "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/crgdRbL"
+        },
+        {
+          "role": "independent_photo_CC_BY2",
+          "url": "https://commons.wikimedia.org/wiki/File:%22T%C3%AAte_dada%22_de_Sophie_Taeuber-Arp_(Centre_Pompidou,_Paris).jpg"
+        },
+        {
+          "role": "photographer_original",
+          "url": "https://www.flickr.com/photos/dalbera/51380417645/"
+        },
+        {
+          "role": "photo_license",
+          "url": "https://creativecommons.org/licenses/by/2.0/"
+        }
+      ],
+      "terms_url": "https://creativecommons.org/licenses/by/2.0/",
+      "library_original_filename": "design-lineage-dalbera-dada-head-proof.zip",
+      "photo_source_page": "https://commons.wikimedia.org/wiki/File:%22T%C3%AAte_dada%22_de_Sophie_Taeuber-Arp_(Centre_Pompidou,_Paris).jpg",
+      "photographer_source": "https://www.flickr.com/photos/dalbera/51380417645/",
+      "photo_title": "\"Tête dada\" de Sophie Taeuber-Arp (Centre Pompidou, Paris)",
+      "photo_taken": "2021-08-13",
+      "sha1": "d227be11e0c687a3e846c1a80a12fecebe7fa29e",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/commons-dalbera-dada-head-720.webp",
+            "width": 720,
+            "height": 1138,
+            "bytes": 81734,
+            "sha256": "b56d495fee9a2c8ce67dcd561e2b2ece53bd4417c2bcd8d749da3cd505ff0a1b",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/commons-dalbera-dada-head-1200.webp",
+            "width": 1200,
+            "height": 1897,
+            "bytes": 279320,
+            "sha256": "ea5db96a4abfe32c24ad73fd785901312aa83fdfab2ce2cdc0e6de713b4372fd",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/commons-dalbera-dada-head-1800.webp",
+            "width": 1800,
+            "height": 2845,
+            "bytes": 757676,
+            "sha256": "1344ebcad2482cf8af1767cb027e288d615adcc97b3499c4db18840ccab1bbe0",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1967.215-mondrian",
+      "entry": "De Stijl",
+      "author": "Piet Mondrian",
+      "author_life": "1872–1944",
+      "title": "Composition with Red, Yellow, and Blue",
+      "year": "1927",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1967.215",
+      "source_page": "https://www.clevelandart.org/art/1967.215",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1967.215/1967.215_print.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Piet Mondrian, Composition with Red, Yellow, and Blue, 1927. The Cleveland Museum of Art, Contemporary Collection, 1967.215. CC0.",
+      "underlying_work_rights": "Public domain as designated by holding museum; object share_license_status CC0",
+      "reproduction_rights": "CC0 under museum object designation and Open Access policy",
+      "photographer": "Unknown; not named in verified object metadata",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cma-1967.215-mondrian.jpg",
+      "local_bytes": 2816565,
+      "width": 3352,
+      "height": 3400,
+      "sha256": "d4c605557f89af2f1d55acc2b49a46dce12fa0c5715d4548039d6459abe6497c",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "PC official CMA original retrieved; receipt verified2026-11-01",
+      "library_file_id": "libfile_a0514d3cb4008191b72f6392c251cc09",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "直交する黒線と、異なる大きさの色面で均衡を作る。",
+      "alt": "灰色の額を含む正方形に近い絵画。太い黒の水平・垂直線が白い大きな面、左上の赤、右端の細い黄、下端の青を分ける。",
+      "visual_notes": [
+        {
+          "title": "同じ三原色でも、面積はそろえない。",
+          "text": "左上の赤い領域、右端の細い黄、下端の青は、異なる広さと位置を占めています。色を均等に並べるのではなく、白い面とともに画面の釣り合いを作ります。"
+        },
+        {
+          "title": "水平と垂直で、非対称の均衡を探る。",
+          "text": "太い黒線が直角に交わり、大きな白い領域を囲みます。中心を左右対称に分ける構図ではなく、線の位置と区画の比率に注目できます。"
+        },
+        {
+          "title": "デジタルの平面図とは違う、絵具の表面を見る。",
+          "text": "白や赤の面には筆の動きや絵具の質感が見え、下の青い部分にはPM ’27の署名があります。灰色の額を含めて掲載し、画像を均一な色の図へ置き換えていません。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "モンドリアン1927年作のCMA公式原JPEGを開く",
+        "eyebrow": "DE STIJL / PAINTING",
+        "scope_note": "Cleveland Museum of Art所蔵1967.215、1927年、油彩・カンヴァス。灰色の額を含む全体を表示しています。同名・類似題の1930年作とは別作品です。",
+        "observations_note": "色・線・表面は取得画像の観察です。代表例としての選定は、館の造形説明と当該作品の「Mondrian / De Stijl」展覧会歴に基づく編集判断で、唯一の最高傑作という主張ではありません。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "原作品：CMAの個別Public Domain判断。公開デジタル画像：個別CC0指定とOpen Access方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "anchor": "mondrian-1927"
+      },
+      "provenance": "CMA公式個別頁・Open Access方針・PC取得原JPEGをLibrary保管。所蔵番号1967.215、1927年と原本hashを照合。",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object_CC0_and_description",
+          "url": "https://www.clevelandart.org/art/1967.215"
+        },
+        {
+          "role": "digital_photo_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "terms_url": "https://www.clevelandart.org/open-access",
+      "library_original_filename": "design-lineage-mondrian-and-bauhaus-review.zip",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cma-1967.215-mondrian-720.webp",
+            "width": 720,
+            "height": 730,
+            "bytes": 60862,
+            "sha256": "0709595c702e975fe05550ca38f476152b485f37a5ce19fefba57a8d6753ae16",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1967.215-mondrian-1200.webp",
+            "width": 1200,
+            "height": 1217,
+            "bytes": 188156,
+            "sha256": "dc9fcb773dc23ce05baa3cf92e974cc67e84721163a315c2e8634b97775c2bbb",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1967.215-mondrian-1800.webp",
+            "width": 1800,
+            "height": 1826,
+            "bytes": 516070,
+            "sha256": "4b2a9612651457e754ebdf4ff839e63ac59e7b2e004c2573d9ecc7d05b9ad992",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1918.823-neoclassicism",
+      "entry": "Neoclassicism",
+      "author": "Josiah Wedgwood and Sons",
+      "author_life": "製造会社：1759年創業",
+      "title": "Portland Vase",
+      "year": "c. 1790",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1918.823",
+      "source_page": "https://www.clevelandart.org/art/1918.823",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1918.823/1918.823_print.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Josiah Wedgwood and Sons, Portland Vase, c. 1790. The Cleveland Museum of Art, Gift of Mrs. L. E. Holden, 1918.823. CC0.",
+      "underlying_work_rights": "Public-domain historical work, identified by CMA as eligible for its open-access collection",
+      "reproduction_rights": "Individual official record share_license_status=CC0; CMA official open-access image",
+      "photographer": "Not identified in inspected record",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cma-1918.823-neoclassicism.jpg",
+      "local_bytes": 4254614,
+      "width": 2720,
+      "height": 3400,
+      "sha256": "e73a8b0843c2094bb71396f93d8808545ea5b991b055dbb316db0f91d2d71b37",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "PC official CMA original retrieved; receipt verified2026-11-01",
+      "library_file_id": "libfile_259db5ce4a84819180a7ff8c3c2805ce",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "古代のガラス器を陶芸へ再構成する。",
+      "alt": "二つの把手をもつ暗色の壺。白い人物と樹木の浮彫が胴を囲む、ウェッジウッドの陶製ポートランドの壺。",
+      "visual_notes": [
+        {
+          "title": "暗い地に、白い浮彫を重ねる。",
+          "text": "暗色の器の表面に、白い人物や樹木の浮彫が浮かびます。平らな印刷ではなく、貼付装飾を施した陶器として陰影を読みます。"
+        },
+        {
+          "title": "器のかたちと、人物の輪郭を分けて見る。",
+          "text": "二つの把手、張り出す胴、狭まる首が器を構成し、その表面に人物の姿勢と流れる衣が重なります。掲載写真は一方向で、裏面全体を示しません。"
+        },
+        {
+          "title": "古代の原物ではなく、18世紀の再制作。",
+          "text": "この個体は1790年頃のウェッジウッド製陶器です。古代ローマのガラス器を陶芸へ移す実践として見ることで、復興を単なる古い物の保存と区別できます。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "CMA公式原JPEGを開く",
+        "eyebrow": "NEOCLASSICISM / CERAMICS",
+        "scope_note": "CMA1918.823、1790年頃。Josiah Wedgwood and Sons製、貼付装飾を施したジャスパーウェア。古代ローマのガラス原作ではなく、初期の陶製版のひとつです。",
+        "observations_note": "形・陰影は取得画像の観察。新古典主義への配置は、館の古代器再制作の説明と様式史の一次資料を結び付けた編集判断です。図像の物語を推測して断定しません。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "原作品：CMAの個別Public Domain判断。公開デジタル画像：個別CC0指定とOpen Access方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "anchor": "cma-1918-823"
+      },
+      "provenance": "公式CMA画像・個別CC0記録・Open Access方針をLibrary保存。原本hash・寸法・実画像を受入照合。",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object_CC0_and_description",
+          "url": "https://www.clevelandart.org/art/1918.823"
+        },
+        {
+          "role": "digital_image_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "terms_url": "https://www.clevelandart.org/open-access",
+      "library_original_filename": "design-lineage-rococo-neoclassicism.zip",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cma-1918.823-neoclassicism-720.webp",
+            "width": 720,
+            "height": 900,
+            "bytes": 44380,
+            "sha256": "a0c8818e7b3794d90fada82bba3b7537e1c8776eed5f334f5a9c83f4b9c979b8",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1918.823-neoclassicism-1200.webp",
+            "width": 1200,
+            "height": 1500,
+            "bytes": 106622,
+            "sha256": "7f0a9618e2d874036229f7d7cea693dd7f44ba2ee5bb0d83066af5b5f2889ff3",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1918.823-neoclassicism-1800.webp",
+            "width": 1800,
+            "height": 2250,
+            "bytes": 239890,
+            "sha256": "f15d1a9a4827a1905bf28351fab128a112890e11f765611520468c1556886490",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cma-1977.182-rococo",
+      "entry": "Rococo",
+      "author": "Juste-Aurele Meissonnier (designer); Pierre-Francois Bonnestrenne and Henry Adnet (makers)",
+      "author_life": "設計者1695–1750／制作職人の詳細は所蔵元記録参照",
+      "title": "Covered Tureen on Stand (Pot-a-oille)",
+      "year": "1735-1738",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1977.182",
+      "source_page": "https://www.clevelandart.org/art/1977.182",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1977.182/1977.182_print.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Juste-Aurele Meissonnier (designer); Pierre-Francois Bonnestrenne and Henry Adnet (makers), Covered Tureen on Stand (Pot-a-oille), 1735-1738. The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1977.182. CC0.",
+      "underlying_work_rights": "Public-domain historical work, identified by CMA as eligible for its open-access collection",
+      "reproduction_rights": "Individual official record share_license_status=CC0; CMA official open-access image",
+      "photographer": "Not identified in inspected record",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cma-1977.182-rococo.jpg",
+      "local_bytes": 1535701,
+      "width": 3400,
+      "height": 2439,
+      "sha256": "2b5534c8e3a236f15e3a77e310bd08e65575c14155cceab4406370b4a9346dfa",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "PC official CMA original retrieved; receipt verified2026-11-01",
+      "library_file_id": "libfile_259db5ce4a84819180a7ff8c3c2805ce",
+      "library_version": 0,
+      "status": "adopted_local_image",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "自然の形を銀の装飾へ展開する。",
+      "alt": "貝殻を思わせる波打つ輪郭の銀製スープ容器と台。蓋には野菜や動物の立体装飾が重なる。",
+      "visual_notes": [
+        {
+          "title": "貝のうねりを、器の輪郭へ。",
+          "text": "蓋と胴の曲線は、貝殻を思わせる巻き込みや起伏として連続しています。容器という用途を保ちながら、単純な左右対称の輪郭から離れています。"
+        },
+        {
+          "title": "食材を、立体の装飾へ変える。",
+          "text": "蓋には野菜や鳥、甲殻類を思わせる造形が集まっています。館はこれらを、器から供される煮込み料理の食材と結び付けています。"
+        },
+        {
+          "title": "銀の反射で、凹凸を強調する。",
+          "text": "磨かれた滑らかな面と細かな凹凸が、光を異なる形で反射します。淡いパステル色だけでロココを説明できない、金属工芸の例です。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "CMA公式原JPEGを開く",
+        "eyebrow": "ROCOCO / SILVER",
+        "scope_note": "CMA1977.182、1735–38年、銀。Meissonnierの設計、BonnestrenneとAdnetの制作。一対として注文されたうちの1点で、蓋・容器・台の全体を掲載しています。",
+        "observations_note": "形・反射・構図は取得画像の観察。館がロココの代表的な作品と明記する銀器であり、単に曲線が多いという理由だけで分類していません。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "原作品：CMAの個別Public Domain判断。公開デジタル画像：個別CC0指定とOpen Access方針。",
+        "provenance_note": "公式配信の原JPEGは無加工で保持し、拡大リンクから取得できます。ページ表示には縦横比と全画面を保った縮小WebPを使用（切り抜き・色補正なし）。原JPEGと各表示画像のサイズ・SHA-256を権利台帳に別記録。撮影者名は未確認のため推定しません。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "anchor": "cma-1977-182"
+      },
+      "provenance": "公式CMA画像・個別CC0記録・Open Access方針をLibrary保存。原本hash・寸法・実画像を受入照合。",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object_CC0_and_description",
+          "url": "https://www.clevelandart.org/art/1977.182"
+        },
+        {
+          "role": "digital_image_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "terms_url": "https://www.clevelandart.org/open-access",
+      "library_original_filename": "design-lineage-rococo-neoclassicism.zip",
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cma-1977.182-rococo-720.webp",
+            "width": 720,
+            "height": 516,
+            "bytes": 53348,
+            "sha256": "e7d751239efe101b5d94260dd7624bdcff0c7e57ec50b2c2b4e2f8cfdfba3794",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1977.182-rococo-1200.webp",
+            "width": 1200,
+            "height": 861,
+            "bytes": 130094,
+            "sha256": "e4433bffffa18c4cce431ca40250bbc403f7c7ca3d385ede3e1dcab9a6827c44",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1977.182-rococo-1800.webp",
+            "width": 1800,
+            "height": 1291,
+            "bytes": 262070,
+            "sha256": "3a611bce04b4fba7fb5e87b137252e884c23e791e12401620dfdf69d93b0dfec",
+            "format": "image/webp"
+          }
+        ]
+      }
+    }
+  ],
+  "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
+}

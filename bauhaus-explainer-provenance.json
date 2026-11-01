@@ -1,0 +1,25 @@
+{
+  "id": "bauhaus-kandinsky-color-form",
+  "title": "解説図｜カンディンスキーの色と形の対応",
+  "alt": "黄の三角、赤の四角、青の円を横に並べ、それぞれ日本語で色と形を明記した現代の解説図。カンディンスキーの色と形の対応を示すが、歴史作品の複製でも普遍的な科学法則の図解でもない。",
+  "caption": "解説図｜カンディンスキーの色と形の対応。黄と三角、赤と四角、青と円。ワイマール期の調査で多数の賛同を得た一方、オスカー・シュレンマーらの批判もあった。内省に基づく造形研究であり、カンディンスキーは異なる秩序体系とその相対性も教えていた。普遍的な科学法則ではない。当時の造形研究を説明するための現代の図。歴史作品の複製ではありません。",
+  "source": {
+    "title": "Unterricht Wassily Kandinsky — Bauhaus Kooperation",
+    "url": "https://bauhauskooperation.de/wissen/das-bauhaus/lehre/unterricht/unterricht-wassily-kandinsky",
+    "verified_lines": "47–50",
+    "local_evidence": "design-lineage-current/research/content/bauhaus-kandinsky-color-20261101-open.json"
+  },
+  "usage": "自作の現代の補助解説図。歴史作品の複製・当時の調査票配置の復元ではない。歴史的代表作品画像数には算入しない。図中の解説図表示を維持しcaptionと出典を併記。",
+  "date_note": "調査年を本文は示さないため、ワイマール期とする。特定年を断定しない。",
+  "color_note": "色値と線の描き方は現代の解説用に選んだもので、歴史作品の色の再現やカンディンスキー指定の色値ではない。",
+  "files": [
+    "bauhaus-kandinsky-color-form.svg",
+    "bauhaus-kandinsky-color-form-1200.png",
+    "bauhaus-kandinsky-color-form-390.png"
+  ],
+  "entry": "Bauhaus",
+  "role": "original_explainer",
+  "local_file": "assets/bauhaus-kandinsky-color-form.svg",
+  "library_file_id": "libfile_bf05ab48e0dc8191bbf79e1546c2a969",
+  "representative_count": 0
+}

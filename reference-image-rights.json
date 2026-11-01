@@ -1,0 +1,252 @@
+{
+  "checked_at": "2026-11-01",
+  "counting": "参照・関連作品2点。歴史代表作品24点や代表3点セットと別集計。",
+  "images": [
+    {
+      "id": "cma-1961.154-reference",
+      "entry": "Bauhaus",
+      "author": "Paul Klee",
+      "author_life": "1879–1940",
+      "title": "Tightrope Walker",
+      "year": "1923",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1961.154",
+      "source_page": "https://www.clevelandart.org/art/1961.154",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1961.154/1961.154_print.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "checked_at": "2026-11-01",
+      "credit": "Paul Klee, Tightrope Walker, 1923. The Cleveland Museum of Art, Gift of The Print Club of Cleveland, 1961.154. CC0.",
+      "underlying_work_rights": "Individual museum public-domain/Open Access declaration; historical1923 print, author1940 deceased. Museum describes stateIVc, Kornfeld95; no school publication or teaching assignment demonstrated.",
+      "reproduction_rights": "Individual API share_license_status CC0. Exact institutional print JPEG, photographer unnamed.",
+      "photographer": "個別記録に撮影者名なし。館の当該CC0画像方針による。",
+      "commercial_use": "CC0: commercial and noncommercial redistribution allowed under individual institution designation.",
+      "territory_note": "所蔵館の個別公開指定とCC0方針に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "local_file": "assets/cma-1961.154-reference.jpg",
+      "local_bytes": 7061884,
+      "width": 2120,
+      "height": 3400,
+      "sha256": "dae7ff953ce907e878dd151c3ffafb877b119a6d510023347ccea6d775b5660a",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "official_CMA_print_JPEG_http200_2026-11-01T05:20:56Z",
+      "library_file_id": "libfile_3d2989380e8c81918d1f7446841ce793",
+      "library_version": 0,
+      "status": "local_reference_image_not_representative",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "在籍期のクレー：均衡と緊張を考える参照例。",
+      "alt": "淡い桃色と褐色の粒状の背景を明るい帯が横切り、上部の小さな綱渡りの人物と、下方へ広がる階段や足場のような細線の構造を示す色石版画。下端に署名がある。",
+      "visual_notes": [
+        {
+          "title": "小さな身体を、細い線で支える。",
+          "text": "綱渡りの人物は画面上部の一部を占め、横に延びる棒と足元の線の関係が釣り合いを感じさせます。"
+        },
+        {
+          "title": "周囲の構造へ、線を広げる。",
+          "text": "人物の下には階段や足場のような線が折れ曲がりながら続きます。明るい帯と粒状の色面が、その細い構造を区切ります。"
+        },
+        {
+          "title": "在籍期の作品と、学校の教材を分ける。",
+          "text": "館はBauhaus在籍中の制作とし、綱渡りを創作に必要な均衡と緊張に結び付けて解説しています。学校刊行物や授業課題としての使用を確認した画像ではありません。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Tightrope Walkerの公式原JPEGを開く",
+        "eyebrow": "PAUL KLEE / REFERENCE",
+        "scope_note": "バウハウス在籍期のクレー：均衡と緊張を考える参照例。CMA1961.154、1923年の色石版画、state IVc。学校刊行物・授業成果とは確認していないため、Bauhaus代表作品3〜5点の判定には含めません。",
+        "observations_note": "形と配置は掲載画像の観察です。在籍期と均衡・緊張の解釈はCMAの個別解説に基づき、学校のカリキュラムへ拡張しません。",
+        "source_label": "所蔵元の個別作品記録",
+        "rights_summary": "原作品：館の個別公開対象。配信画像：当該APIのCC0指定。",
+        "provenance_note": "公式原JPEGは無加工で保存。表示画像のみ縦横比を保って縮小・WebPへ再符号化（切り抜き・色補正なし）。参照作品の別台帳に原本と表示画像のhashを記録。",
+        "policy_label": "美術館のOpen Access方針",
+        "license_label": "CC0",
+        "anchor": "klee-reference",
+        "section_label": "REFERENCE WORK / 参照作品（代表作品とは別）",
+        "rights_manifest": "reference-image-rights.json"
+      },
+      "provenance": "CMA個別CC0 APIと公式解説を確認。原print JPEG取得2026-11-01T05:20:56Z、7061884bytes。保存原本を無加工で保持し、原本と表示派生画像のhashを分離。",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_object",
+          "url": "https://www.clevelandart.org/art/1961.154"
+        },
+        {
+          "role": "individual_CC0_and_image_URL",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=1961.154&limit=2"
+        },
+        {
+          "role": "photo_policy",
+          "url": "https://www.clevelandart.org/open-access"
+        }
+      ],
+      "terms_url": "https://www.clevelandart.org/open-access",
+      "library_original_filename": "design-lineage-klee-reference-proof.zip",
+      "display_derivatives": {
+        "method": "Aspect-preserving LANCZOS resize, WebP92; original ICC retained. No crop, color adjustment or overlay.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/cma-1961.154-reference-720.webp",
+            "width": 720,
+            "height": 1155,
+            "bytes": 343136,
+            "sha256": "013dfeeccf28ecb7ce83f3db13b716b60a7a6a5bc232099eb6c728fde5cf09ec",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1961.154-reference-1200.webp",
+            "width": 1200,
+            "height": 1925,
+            "bytes": 980824,
+            "sha256": "166bccdd66d22bc02b35cbf0a9a2ce37b49a437d57b6e428e462af023c66922d",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/cma-1961.154-reference-1800.webp",
+            "width": 1800,
+            "height": 2887,
+            "bytes": 2179650,
+            "sha256": "e6afd4cc9d65c2facdaf5e2fdc0be50c7d92515ae05821c9c15494f30396f27f",
+            "format": "image/webp"
+          }
+        ]
+      },
+      "role": "reference_work",
+      "counting_note": "参照作品として1点。代表画像19点・Bauhaus代表1点・3–5セット判定には算入しない。"
+    },
+    {
+      "id": "commons-red-wedge-reference",
+      "entry": "Russian Constructivism",
+      "author": "El Lissitzky",
+      "author_life": "1890–1941",
+      "title": "Beat the Whites with the Red Wedge — 白軍を赤い楔で打て",
+      "year": "1919年または1920年（資料により異なる）",
+      "institution": "スキャンされた所蔵個体は不明／配布元：Wikimedia Commons",
+      "accession": null,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Beat_the_Whites_with_the_Red_Wedge.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Beat_the_Whites_with_the_Red_Wedge.png",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "terms_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "checked_at": "2026-11-01",
+      "credit": "El Lissitzky, Beat the Whites with the Red Wedge, 1919 or 1920. Digital reproduction via Wikimedia Commons (source recorded as losko.ru), Public Domain Mark 1.0. Scan creator and physical copy unknown.",
+      "underlying_work_rights": "Commons individual file marks PD-old-70-expired and United States expired copyright; not an all-jurisdiction legal guarantee.",
+      "reproduction_rights": "Individual Commons file marked Public Domain Mark 1.0 including related rights; not CC0 and not a rights-holder licence. Scanner unknown.",
+      "photographer": "スキャン作成者は不明",
+      "commercial_use": "当該PDM表示は既知の著作権制限なしとし商用を含む複製・改変を説明。無保証・法域の留保あり。",
+      "territory_note": "PDMは公有状態を示す標識で、権利者の許諾や全法域の保証ではない。",
+      "local_file": "assets/commons-red-wedge-reference.png",
+      "local_bytes": 1610557,
+      "width": 1500,
+      "height": 1242,
+      "sha256": "1710a4884130f55add200b0cb1ad12095ea94eed1a4d7db99dbcb519013aedae",
+      "original_bytes_unchanged": true,
+      "acquisition_status": "2026-11-01T09:09:09.7851325+00:00",
+      "library_file_id": "libfile_6e7ad72053508191b3b355fa1129e140",
+      "library_version": 0,
+      "status": "local_reference_image_not_representative",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "viewing_point": "シュプレマティスムの幾何学を政治的伝達へ展開した関連作",
+      "alt": "紙面左の赤い楔が右の白円へ突き入り、黒い斜面、小さな矩形や三角、斜めに配されたロシア語の文字が対立と方向を作る歴史的ポスターの複製。枠と下端の出版表記も残る。",
+      "visual_notes": [
+        {
+          "title": "幾何学を、対立の記号にする。",
+          "text": "赤い楔と白い円の関係が画面を支配します。赤軍と白軍の対立を伝える当時の政治広告として読むもので、現代の行動を呼びかける図ではありません。"
+        },
+        {
+          "title": "文字と斜線を、同じ方向へ。",
+          "text": "文字列、赤い三角形、黒い斜面の向きが画面の動きを作ります。限定した色と大きさの差が、読む順序に関わっています。"
+        },
+        {
+          "title": "様式の境界も、比較する。",
+          "text": "シュプレマティスムの幾何学的語彙を社会的伝達へ使った関連作品です。構成主義そのものの確定分類や、純粋な代表作3点セットとして数えません。"
+        }
+      ],
+      "presentation": {
+        "placement": "supporting",
+        "fullsize_label": "Commonsで取得した原PNGを開く",
+        "eyebrow": "EL LISSITZKY / RELATED HISTORICAL WORK",
+        "scope_note": "シュプレマティスムの幾何学を政治的伝達へ展開した関連作。所蔵個体・スキャン作成者は不明です。構成主義の代表作品画像とは別の参照枠に置きます。",
+        "observations_note": "形と文字の関係は掲載複製の観察です。年代は宇都宮美術館提供データの1919年とMFA Boston/Tateの1920年で異なり、2年間の制作期間を意味しません。これらの館の所蔵番号・寸法をこのスキャンへ転記しません。",
+        "source_label": "Commonsの個別ファイル・出典記録",
+        "rights_summary": "原作品：CommonsのPD表示。配布ファイル：当該PDM 1.0表示。CC0ではありません。",
+        "provenance_note": "今回取得したPNGは取得後無加工で保持。過去の調整履歴は不明（ファイルにはPhotoshopメタデータあり）。表示用は全構図・縦横比を保って縮小しWebPへ再符号化。美術館提供画像とは表示しません。",
+        "policy_label": "Public Domain Markの説明",
+        "license_label": "PDM 1.0（CC0ではない）",
+        "anchor": "red-wedge-reference",
+        "section_label": "RELATED WORK / 関連する実作品（代表作品とは別）",
+        "rights_manifest": "reference-image-rights.json"
+      },
+      "provenance": "Commons記録の画像元はlosko.ru、元URLは今回未取得。スキャン作者・物理的所蔵個体は不明。原PNGのSHA1をCommonsファイル記録と照合。",
+      "rights_evidence_sources": [
+        {
+          "role": "individual_file_PD_and_PDM",
+          "url": "https://commons.wikimedia.org/wiki/File:Beat_the_Whites_with_the_Red_Wedge.png"
+        },
+        {
+          "role": "PDM_explanation",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+        }
+      ],
+      "display_derivatives": {
+        "method": "Aspect-preserving Lanczos resize, WebP94. No crop/recolor/retouch. Acquisition bytes unchanged; earlier processing history unknown.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/commons-red-wedge-reference-720.webp",
+            "width": 720,
+            "height": 596,
+            "bytes": 190850,
+            "sha256": "ca04c17a2ab2064abc3a261e59a54dd594569b43f6ca84d76f8571cbe62fa259",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/commons-red-wedge-reference-1200.webp",
+            "width": 1200,
+            "height": 994,
+            "bytes": 490384,
+            "sha256": "06bf99115cb22c19c7524f5c2841afc5b1d24c7e9ea8511e3f17d0e14efadc47",
+            "format": "image/webp"
+          }
+        ]
+      },
+      "role": "reference_work",
+      "counting_note": "実作品の複製1点を関連作品として追加。代表作品24点/構成主義代表セットには算入しない。",
+      "identity_sources": [
+        {
+          "url": "https://artplatform.go.jp/collections/W630226",
+          "date": "1919",
+          "role": "宇都宮美術館提供の別個体記録"
+        },
+        {
+          "url": "https://collections.mfa.org/objects/314484/klinom-krasnym-bei-belykh-beat-the-whites-with-the-red-wedg",
+          "date": "1920",
+          "role": "MFA Boston別個体記録"
+        },
+        {
+          "url": "https://shop.tate.org.uk/lissitzky-beat-the-whites-with-the-red-wedge/redsta1717.html",
+          "date": "1920",
+          "role": "Tate作品文脈"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "usage": "自作の補助解説図。歴史的代表作品ではなく、実画像採用点数には算入しない。各図の表記を消さず、サイト上でもcaptionを併記してください。",
+  "palette": {
+    "paper": "#f4f3ef",
+    "ink": "#202121",
+    "accent": "#323df1",
+    "muted": "#63655f",
+    "line": "#cdcdc7"
+  },
+  "fonts": "Arial, Noto Sans CJK JP, Noto Sans JP, sans-serif; PNG rendered with installed Noto Sans CJK JP",
+  "items": [
+    {
+      "id": "grid-01-columns",
+      "title": "列で、読む単位をつくる",
+      "svg": "grid-01-columns.svg",
+      "png": "grid-01-columns-1200.png",
+      "mobile_preview": "grid-01-columns-390.png",
+      "alt": "左は幅の広い1段組、右は同じ紙面幅の3段組。青い見出しと本文の列が対応している。（解説図｜このサイトが作成した例）",
+      "caption": "解説図｜このサイトが作成した例。列幅と段間を揃えると、読む単位と順序が見えやすくなる。",
+      "classification": "original-explanatory-diagram",
+      "counts_as_historical_work": false,
+      "local_file": "assets/grid-01-columns-1200.png",
+      "svg_original": "assets/grid-01-columns.svg"
+    },
+    {
+      "id": "grid-02-modules",
+      "title": "大小を、同じ単位で揃える",
+      "svg": "grid-02-modules.svg",
+      "png": "grid-02-modules-1200.png",
+      "mobile_preview": "grid-02-modules-390.png",
+      "alt": "6列4行のモジュラーグリッド上に大小の色面と本文を配置。大きい面は複数のモジュールをまたぎ、端は共通のガイドに揃う。（解説図｜このサイトが作成した例）",
+      "caption": "解説図｜このサイトが作成した例。色面は画像の代わり。複数のマスを使う配置でも、端の基準は共有できる。",
+      "classification": "original-explanatory-diagram",
+      "counts_as_historical_work": false,
+      "local_file": "assets/grid-02-modules-1200.png",
+      "svg_original": "assets/grid-02-modules.svg"
+    },
+    {
+      "id": "grid-03-baselines",
+      "title": "行のリズムを、列を越えて揃える",
+      "svg": "grid-03-baselines.svg",
+      "png": "grid-03-baselines-1200.png",
+      "mobile_preview": "grid-03-baselines-390.png",
+      "alt": "等間隔の青い基準線上に、日本語本文を2列配置。右の列に図版が入っても、その下の本文は左の列と同じ行の高さに戻る。（解説図｜このサイトが作成した例）",
+      "caption": "解説図｜このサイトが作成した例。横組み本文のベースラインを可視化した例。実際の組版では字面・行送り・図版後の開始位置を調整する。",
+      "classification": "original-explanatory-diagram",
+      "counts_as_historical_work": false,
+      "local_file": "assets/grid-03-baselines-1200.png",
+      "svg_original": "assets/grid-03-baselines.svg"
+    },
+    {
+      "id": "grid-04-variation",
+      "title": "共通の骨格で、配置を変える",
+      "svg": "grid-04-variation.svg",
+      "png": "grid-04-variation-1200.png",
+      "mobile_preview": "grid-04-variation-390.png",
+      "alt": "同じ4列のグリッドを使う2つの非対称レイアウト。青い正方形、灰色の長方形、黒い小さな正方形、本文の数と大きさは変えず、配置だけを変えている。（解説図｜このサイトが作成した例）",
+      "caption": "解説図｜このサイトが作成した例。グリッドは固定配置の命令ではない。同じ基準の中で位置を変えると、統一感と変化を両立できる。",
+      "classification": "original-explanatory-diagram",
+      "counts_as_historical_work": false,
+      "local_file": "assets/grid-04-variation-1200.png",
+      "svg_original": "assets/grid-04-variation.svg"
+    }
+  ],
+  "library_zip_id": "libfile_67c2b62db84c8191be4b40db268c8c71",
+  "version": 2,
+  "entry": "Grid systems",
+  "historical_count_increment": 0,
+  "generated_count_increment": 0
+}

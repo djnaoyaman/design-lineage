@@ -1,0 +1,982 @@
+{
+  "release": "public-initial-20261101-logo10-readable",
+  "private_source_version": 83,
+  "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
+  "repository": "djnaoyaman/design-lineage",
+  "pages_url": "https://djnaoyaman.github.io/design-lineage/",
+  "pages_branch": "main",
+  "pages_path": "/",
+  "articles": 34,
+  "planned_entries": 87,
+  "historical_representative_images": 24,
+  "reference_related_images": 2,
+  "generated_studies": 0,
+  "new_original_comparison_diagrams": 4,
+  "three_image_sets": 6,
+  "qa": {
+    "local_links_checked": 521,
+    "html_pages": 37,
+    "dom_suites_passed": 5,
+    "viewports": [
+      320,
+      390,
+      768,
+      1280
+    ],
+    "four_new_diagrams_loaded": true,
+    "horizontal_overflow": false,
+    "private_source_preserved": true,
+    "live_pages_verified": false,
+    "aaga_label_and_policy_four_widths": "PASS; complete-copy goal, no completed AAGA adopted; Dessau separately classified; no overflow",
+    "readability_body_four_widths": "PASS; paragraph separation and overflow checked",
+    "logo_headers_footers": 37
+  },
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3305,
+      "sha256": "eb0a13bcab1a2e006766e32250f9a804c49b386a0a3721ae5c3edd399e6ef7d0"
+    },
+    {
+      "path": "adopted-image-rights.json",
+      "bytes": 164422,
+      "sha256": "45a1ab25d8dac4511a856c55a9257c0aadbb148234f8661e588aced24febbd56"
+    },
+    {
+      "path": "app.js",
+      "bytes": 6580,
+      "sha256": "8075fe057fa0d877bbf1ad9aef492aebbe67a4795a63c8033dea3f61be7dd3d5"
+    },
+    {
+      "path": "assets/aichi-18296-720.webp",
+      "bytes": 121242,
+      "sha256": "b1a9ae61af79aa684d3a4bbc13515557d00d7356b7e280ac2c1007d118cf6743"
+    },
+    {
+      "path": "assets/aichi-18296-951.webp",
+      "bytes": 191558,
+      "sha256": "ae82ca2096ff904e6b0886c2bd87e3984bc49ec8ddd6c6fe71ddd8727860a12b"
+    },
+    {
+      "path": "assets/aichi-18296.jpg",
+      "bytes": 211522,
+      "sha256": "87f08d1ac941695b25b1750e0fb0cae0458da7c8fd5a561fe690ad24a8ad5a9a"
+    },
+    {
+      "path": "assets/aichi-5319-720.webp",
+      "bytes": 213110,
+      "sha256": "869895d0be0378c1ef66b56481c27f9e7535c637411e0407fd8c703e71d3f1e6"
+    },
+    {
+      "path": "assets/aichi-5319-951.webp",
+      "bytes": 304306,
+      "sha256": "14efbaed9cafeaab8081c9670f2623c53facc201e0b5de6647e0a9891bb64b56"
+    },
+    {
+      "path": "assets/aichi-5319.jpg",
+      "bytes": 322096,
+      "sha256": "b55032587f1aaeebe2614cf62da4c7d9103f1e3d33c6bde4998414eecb488e9e"
+    },
+    {
+      "path": "assets/aichi-5528-720.webp",
+      "bytes": 215910,
+      "sha256": "07f0ca4e29fc1537d7dcf2dd7c1b8da4bc984218a8c8092ac06debf3dce328ab"
+    },
+    {
+      "path": "assets/aichi-5528-951.webp",
+      "bytes": 307816,
+      "sha256": "1df9498596cbee4fe6d8b5785ca87a2d968b24c07ee8715aad482c362f09f204"
+    },
+    {
+      "path": "assets/aichi-5528.jpg",
+      "bytes": 330856,
+      "sha256": "70526ce698b64629278737ebd824ec3f5399e85ec70f6be378f623b373cdc98a"
+    },
+    {
+      "path": "assets/art-deco-comparison.svg",
+      "bytes": 3298,
+      "sha256": "f82231f0dedfd41777b238d81b1a5a9402374d1e9ee3f9e450b12dbde22b8ddb"
+    },
+    {
+      "path": "assets/bauhaus-kandinsky-color-form.svg",
+      "bytes": 1946,
+      "sha256": "eb2c31ea98b407b8536e6c0fe34f46e66b1af5cde0a4c3928851b4caf5f7bf8c"
+    },
+    {
+      "path": "assets/cleveland-1937.696_print-1200.webp",
+      "bytes": 630316,
+      "sha256": "82b781c6b4faba364f8cf8dbafbbff08cc91d4af55a996e27b910b143668954e"
+    },
+    {
+      "path": "assets/cleveland-1937.696_print-1800.webp",
+      "bytes": 1306206,
+      "sha256": "e15951bf29029d2158688e058a31c4f0d529ffe0b1a84ca9dc9289ca17703770"
+    },
+    {
+      "path": "assets/cleveland-1937.696_print-720.webp",
+      "bytes": 262136,
+      "sha256": "b065563c6ee20e0c3b6108d5a68a8718d510983c9a57434f8d06d961c05df5ca"
+    },
+    {
+      "path": "assets/cleveland-1937.696_print.jpg",
+      "bytes": 6443209,
+      "sha256": "b487c13517654c086a2cbfde341a245a5f6558085353b2137ec7de69832fbbc4"
+    },
+    {
+      "path": "assets/cleveland-1937.700_print-1200.webp",
+      "bytes": 707088,
+      "sha256": "87504cc12bc32990992ee0496ac9f7a5176980207e66a27764382042c418f93f"
+    },
+    {
+      "path": "assets/cleveland-1937.700_print-1800.webp",
+      "bytes": 1376700,
+      "sha256": "8b875853b5e27215d517c580bf660acd484155e0c2ec36f19699fc9a7dfafd77"
+    },
+    {
+      "path": "assets/cleveland-1937.700_print-720.webp",
+      "bytes": 282286,
+      "sha256": "dc6011a7aea58afea087b406cc6ac4af7e1ee62ac578e076a47ea5b67bf47bd0"
+    },
+    {
+      "path": "assets/cleveland-1937.700_print.jpg",
+      "bytes": 5824283,
+      "sha256": "21f1f9070e7e73fdf72b079bc73a5a7d270a623c9af54a2a67b6d2f85aa1ae37"
+    },
+    {
+      "path": "assets/cleveland-1969.236_print-1200.webp",
+      "bytes": 530854,
+      "sha256": "28d6263b309f31d526feb13951fd7a68dd5773157fa58bc8b898db60f57e2165"
+    },
+    {
+      "path": "assets/cleveland-1969.236_print-1800.webp",
+      "bytes": 1103344,
+      "sha256": "d0f89a93e3ffadd2e06422608052a28ae5c27c79fec25459a201d838a1f6271d"
+    },
+    {
+      "path": "assets/cleveland-1969.236_print-720.webp",
+      "bytes": 201964,
+      "sha256": "256b87dd7ddb1641ce6a1c524a70423659a233c925a8fcc52b3e1d1f1861d7e2"
+    },
+    {
+      "path": "assets/cleveland-1969.236_print.jpg",
+      "bytes": 2907156,
+      "sha256": "f554d6d6968291ca15497c1cd373449eb8b5a00aa1c380f0d2601da97cc5b02b"
+    },
+    {
+      "path": "assets/cleveland-1983.225_print-1200.webp",
+      "bytes": 176498,
+      "sha256": "a0d2e9af9d3e6b03a4a68f6f980cfd2315ea0baf1b5cef5b89210bae3449e822"
+    },
+    {
+      "path": "assets/cleveland-1983.225_print-1800.webp",
+      "bytes": 348882,
+      "sha256": "9aa42531ed65c86a46e8a5cef1a24358d58888fd7c29cae3da3c82275fabfe3e"
+    },
+    {
+      "path": "assets/cleveland-1983.225_print-720.webp",
+      "bytes": 75832,
+      "sha256": "dbd17cc699e510c9ece33071f6e1479f29355afd4523a42ec9fc8f8b4fdc4141"
+    },
+    {
+      "path": "assets/cleveland-1983.225_print.jpg",
+      "bytes": 4314165,
+      "sha256": "9d1e5f6905b1088af785f1731fea126907d7680ec4445e0fb3572dea83152d31"
+    },
+    {
+      "path": "assets/cleveland-1985.96_print-1200.webp",
+      "bytes": 152424,
+      "sha256": "72be583db8f3f94542daf8f1833fedcd70bd1418d47cdedca8a4707afbf1c589"
+    },
+    {
+      "path": "assets/cleveland-1985.96_print-1800.webp",
+      "bytes": 323106,
+      "sha256": "91cf8ff1bd161558f8691047260b7bff67259d017306e1a12198b15002e11427"
+    },
+    {
+      "path": "assets/cleveland-1985.96_print-720.webp",
+      "bytes": 61800,
+      "sha256": "9dd128d9093c6ea9a42004ced58819633a41721ad67b458971336a7b71ed12a5"
+    },
+    {
+      "path": "assets/cleveland-1985.96_print.jpg",
+      "bytes": 3908445,
+      "sha256": "c4014cdf9236893ac0e286c376b7b71c5d7ccbec7564ec7fa1e3b27f615ecce4"
+    },
+    {
+      "path": "assets/cleveland-2012.136_print-1200.webp",
+      "bytes": 51684,
+      "sha256": "b9aa7f6c85891023ccf76367966c74574501e6a112b973cee95551c9d269eeb0"
+    },
+    {
+      "path": "assets/cleveland-2012.136_print-1800.webp",
+      "bytes": 117228,
+      "sha256": "f302cf9f1f8c8046438f8b9cfc1c0711b0af2de99b979c50e6bbd4483fa24bbf"
+    },
+    {
+      "path": "assets/cleveland-2012.136_print-720.webp",
+      "bytes": 20740,
+      "sha256": "db598b2d4929fcf32f1b0cc0db1b42bb339644b78b692f3f05f85ddc842a76ff"
+    },
+    {
+      "path": "assets/cleveland-2012.136_print.jpg",
+      "bytes": 519170,
+      "sha256": "b703d468d2e26f12634b5328f34de8c570c46f0818f190a1e1020880766d3864"
+    },
+    {
+      "path": "assets/cma-1918.823-neoclassicism-1200.webp",
+      "bytes": 106622,
+      "sha256": "7f0a9618e2d874036229f7d7cea693dd7f44ba2ee5bb0d83066af5b5f2889ff3"
+    },
+    {
+      "path": "assets/cma-1918.823-neoclassicism-1800.webp",
+      "bytes": 239890,
+      "sha256": "f15d1a9a4827a1905bf28351fab128a112890e11f765611520468c1556886490"
+    },
+    {
+      "path": "assets/cma-1918.823-neoclassicism-720.webp",
+      "bytes": 44380,
+      "sha256": "a0c8818e7b3794d90fada82bba3b7537e1c8776eed5f334f5a9c83f4b9c979b8"
+    },
+    {
+      "path": "assets/cma-1918.823-neoclassicism.jpg",
+      "bytes": 4254614,
+      "sha256": "e73a8b0843c2094bb71396f93d8808545ea5b991b055dbb316db0f91d2d71b37"
+    },
+    {
+      "path": "assets/cma-1961.154-reference-1200.webp",
+      "bytes": 980824,
+      "sha256": "166bccdd66d22bc02b35cbf0a9a2ce37b49a437d57b6e428e462af023c66922d"
+    },
+    {
+      "path": "assets/cma-1961.154-reference-1800.webp",
+      "bytes": 2179650,
+      "sha256": "e6afd4cc9d65c2facdaf5e2fdc0be50c7d92515ae05821c9c15494f30396f27f"
+    },
+    {
+      "path": "assets/cma-1961.154-reference-720.webp",
+      "bytes": 343136,
+      "sha256": "013dfeeccf28ecb7ce83f3db13b716b60a7a6a5bc232099eb6c728fde5cf09ec"
+    },
+    {
+      "path": "assets/cma-1961.154-reference.jpg",
+      "bytes": 7061884,
+      "sha256": "dae7ff953ce907e878dd151c3ffafb877b119a6d510023347ccea6d775b5660a"
+    },
+    {
+      "path": "assets/cma-1967.215-mondrian-1200.webp",
+      "bytes": 188156,
+      "sha256": "dc9fcb773dc23ce05baa3cf92e974cc67e84721163a315c2e8634b97775c2bbb"
+    },
+    {
+      "path": "assets/cma-1967.215-mondrian-1800.webp",
+      "bytes": 516070,
+      "sha256": "4b2a9612651457e754ebdf4ff839e63ac59e7b2e004c2573d9ecc7d05b9ad992"
+    },
+    {
+      "path": "assets/cma-1967.215-mondrian-720.webp",
+      "bytes": 60862,
+      "sha256": "0709595c702e975fe05550ca38f476152b485f37a5ce19fefba57a8d6753ae16"
+    },
+    {
+      "path": "assets/cma-1967.215-mondrian.jpg",
+      "bytes": 2816565,
+      "sha256": "d4c605557f89af2f1d55acc2b49a46dce12fa0c5715d4548039d6459abe6497c"
+    },
+    {
+      "path": "assets/cma-1977.182-rococo-1200.webp",
+      "bytes": 130094,
+      "sha256": "e4433bffffa18c4cce431ca40250bbc403f7c7ca3d385ede3e1dcab9a6827c44"
+    },
+    {
+      "path": "assets/cma-1977.182-rococo-1800.webp",
+      "bytes": 262070,
+      "sha256": "3a611bce04b4fba7fb5e87b137252e884c23e791e12401620dfdf69d93b0dfec"
+    },
+    {
+      "path": "assets/cma-1977.182-rococo-720.webp",
+      "bytes": 53348,
+      "sha256": "e7d751239efe101b5d94260dd7624bdcff0c7e57ec50b2c2b4e2f8cfdfba3794"
+    },
+    {
+      "path": "assets/cma-1977.182-rococo.jpg",
+      "bytes": 1535701,
+      "sha256": "2b5534c8e3a236f15e3a77e310bd08e65575c14155cceab4406370b4a9346dfa"
+    },
+    {
+      "path": "assets/cma-1995.4-schwitters-1200.webp",
+      "bytes": 380906,
+      "sha256": "0ab5c07ca36aa37e56ccd332668effbccc432096b8fab01020b9da1f07f9e852"
+    },
+    {
+      "path": "assets/cma-1995.4-schwitters-1800.webp",
+      "bytes": 847354,
+      "sha256": "13f286cc440b7341160ba264f35b2283fe531a0891f48667bcbbd8ef4cd3dee9"
+    },
+    {
+      "path": "assets/cma-1995.4-schwitters-720.webp",
+      "bytes": 136276,
+      "sha256": "004879159fe4d78cfed148659ac4cc9ef2d2040a9820b9c0efa980ea8ce98ae3"
+    },
+    {
+      "path": "assets/cma-1995.4-schwitters.jpg",
+      "bytes": 2420057,
+      "sha256": "465479f697632b8528fdc213c3e74f4ab00dc2b6227ae4a88376be091c33a084"
+    },
+    {
+      "path": "assets/commons-dalbera-dada-head-1200.webp",
+      "bytes": 279320,
+      "sha256": "ea5db96a4abfe32c24ad73fd785901312aa83fdfab2ce2cdc0e6de713b4372fd"
+    },
+    {
+      "path": "assets/commons-dalbera-dada-head-1800.webp",
+      "bytes": 757676,
+      "sha256": "1344ebcad2482cf8af1767cb027e288d615adcc97b3499c4db18840ccab1bbe0"
+    },
+    {
+      "path": "assets/commons-dalbera-dada-head-720.webp",
+      "bytes": 81734,
+      "sha256": "b56d495fee9a2c8ce67dcd561e2b2ece53bd4417c2bcd8d749da3cd505ff0a1b"
+    },
+    {
+      "path": "assets/commons-dalbera-dada-head.jpg",
+      "bytes": 3446203,
+      "sha256": "c8dd0da2dbe140b1428a561686f1170aee948341d81a97c39d2f7b2964c1911d"
+    },
+    {
+      "path": "assets/commons-red-wedge-reference-1200.webp",
+      "bytes": 490384,
+      "sha256": "06bf99115cb22c19c7524f5c2841afc5b1d24c7e9ea8511e3f17d0e14efadc47"
+    },
+    {
+      "path": "assets/commons-red-wedge-reference-720.webp",
+      "bytes": 190850,
+      "sha256": "ca04c17a2ab2064abc3a261e59a54dd594569b43f6ca84d76f8571cbe62fa259"
+    },
+    {
+      "path": "assets/commons-red-wedge-reference.png",
+      "bytes": 1610557,
+      "sha256": "1710a4884130f55add200b0cb1ad12095ea94eed1a4d7db99dbcb519013aedae"
+    },
+    {
+      "path": "assets/design-lineage-icon-d-original.png",
+      "bytes": 134886,
+      "sha256": "820171a368b9bb1b7d81a79405e54501e09208ab707022d57cd15bbba09871f7"
+    },
+    {
+      "path": "assets/design-lineage-logo-10-360.webp",
+      "bytes": 12124,
+      "sha256": "e4d86a37262f1fad18941391b8934c4daec8776ce3b7e565f4a84372c8b4f17c"
+    },
+    {
+      "path": "assets/design-lineage-logo-10-720.webp",
+      "bytes": 27918,
+      "sha256": "a50f9cbc89b4ffcc3422a300c6430630d6a6f96ee6f76336654cb9bfd4051f2c"
+    },
+    {
+      "path": "assets/design-lineage-logo-10.png",
+      "bytes": 271567,
+      "sha256": "27ba8dd92c5befe4a0e9d283fd0910938c4f4f68ff2c15bcdb949f76b2886ef4"
+    },
+    {
+      "path": "assets/design-lineage-og.png",
+      "bytes": 103110,
+      "sha256": "77d1681bec5c48a34cd3395e91170910f9e134327d9cc1a51fc29d0d29adb6ba"
+    },
+    {
+      "path": "assets/design-lineage-og.svg",
+      "bytes": 362660,
+      "sha256": "ff7f7448b43e82eea35857a300b89e049a37ebc7b8698b4bf3dac81cb67cd178"
+    },
+    {
+      "path": "assets/futurism-comparison.svg",
+      "bytes": 3682,
+      "sha256": "47aa5912b7b2a3589bd6cedca4b590f7f9fc7e87697e1ba2ae6c9e87ca84f575"
+    },
+    {
+      "path": "assets/generated-dessau-study-v7-540.webp",
+      "bytes": 30366,
+      "sha256": "4c545ad1590da243ed4dcae13363343d4e6a33c3b07c0e6b220a366e7bf3fef3"
+    },
+    {
+      "path": "assets/generated-dessau-study-v7-900.webp",
+      "bytes": 67102,
+      "sha256": "2806c812f1d25a02daf2054faf723477d4531825998bc6d8aec274cd3cbb2643"
+    },
+    {
+      "path": "assets/generated-dessau-study-v7.png",
+      "bytes": 1914343,
+      "sha256": "9dac218724a5707e4f2ecfae6c04622b506bd7cc6a99513c78912d80ba289042"
+    },
+    {
+      "path": "assets/grid-01-columns-1200.png",
+      "bytes": 76115,
+      "sha256": "7741a1a00cf92d172aa314b074f3fb8e98d0cce0ad26ba9c1ef85bfad5650302"
+    },
+    {
+      "path": "assets/grid-01-columns.svg",
+      "bytes": 4045,
+      "sha256": "4c1145feeedcf8edab1c42aafe6f93ef12f4221c14d6598069ff3c47e697ba06"
+    },
+    {
+      "path": "assets/grid-02-modules-1200.png",
+      "bytes": 73090,
+      "sha256": "0dfd75c29a640e83967b74a15449094ab8b1b5801781548ce564765325c3ed53"
+    },
+    {
+      "path": "assets/grid-02-modules.svg",
+      "bytes": 5165,
+      "sha256": "052eed6d337a043ac369a1d87819f9e88fd723b36347d8e49f958facdcf1c19f"
+    },
+    {
+      "path": "assets/grid-03-baselines-1200.png",
+      "bytes": 123556,
+      "sha256": "ce8e97d5ad6570453947944a5addcfb08564387e156279cc2b8ec0c4274f5f00"
+    },
+    {
+      "path": "assets/grid-03-baselines.svg",
+      "bytes": 3499,
+      "sha256": "9ebac9f6829429b779469ab4a6d2ab8a8bc8432cf726d66807af3698ec1ea68b"
+    },
+    {
+      "path": "assets/grid-04-variation-1200.png",
+      "bytes": 74645,
+      "sha256": "2e197acd8227603db9e999742a45036154a6a5a7107e410d2ecc4267e3bec494"
+    },
+    {
+      "path": "assets/grid-04-variation.svg",
+      "bytes": 5576,
+      "sha256": "271670da6a548b5378ac3fddef3ced3fdcb170203f5221c339e29aa177dde15a"
+    },
+    {
+      "path": "assets/guide-color-form.svg",
+      "bytes": 447,
+      "sha256": "8030bc53dedf207aa9f0af4a5b6dca2cf9cee780e68efdcef14a4c646709ae16"
+    },
+    {
+      "path": "assets/guide-composition.svg",
+      "bytes": 682,
+      "sha256": "58978797df730138b5d5b1351687b44969635ed470ba171184addcaeea9de0ab"
+    },
+    {
+      "path": "assets/guide-line-volume.svg",
+      "bytes": 1453,
+      "sha256": "f13f42fea9b9d1a90dec1296b715a958477924bb5f2e6d1ea9b9c595c8657357"
+    },
+    {
+      "path": "assets/guide-type.svg",
+      "bytes": 892,
+      "sha256": "e1a0f8622652672fcc3d4cdc13b2015bcc7c73f49c41feedeeae130b90fc7903"
+    },
+    {
+      "path": "assets/icon-180.png",
+      "bytes": 7406,
+      "sha256": "b5f2a2129bc9d8b3de05096546e9c13c6c1470d66a28b4ac944922a46e29706c"
+    },
+    {
+      "path": "assets/icon-192.png",
+      "bytes": 8039,
+      "sha256": "866b54e03041add01ddfa8cb0abf7bb71dbfdce5ff27abaf0894b415493193b6"
+    },
+    {
+      "path": "assets/icon-32.png",
+      "bytes": 875,
+      "sha256": "0ac8a693b7bc196a43f84a1bf2f1126fab3bd140823ecc0d82f353f2d08fda20"
+    },
+    {
+      "path": "assets/icon-48.png",
+      "bytes": 1377,
+      "sha256": "405389bcac1df33f68eb41e56be0a3868993820a93e1585a9ab49b04c0873782"
+    },
+    {
+      "path": "assets/icon-512.png",
+      "bytes": 35236,
+      "sha256": "d2ac2178f9a83bc251ac973389e292836f7315a4721115a08ae251bd0f2d001e"
+    },
+    {
+      "path": "assets/korin-yatsuhashi-single-screen-720.jpg",
+      "bytes": 165786,
+      "sha256": "49bb34f692f0dee635e9843724757abcc4808e1c6cc19525dc724857f2513b69"
+    },
+    {
+      "path": "assets/korin-yatsuhashi-single-screen.jpg",
+      "bytes": 270255,
+      "sha256": "15ebfb8cf48f1d58199971e146ce813e8c9790eb17d9ae9c05ec3dcc21c00096"
+    },
+    {
+      "path": "assets/met-37358-sharaku-1200.webp",
+      "bytes": 723194,
+      "sha256": "6f55d0e8deed415383b3ef57841c5a4e24875fdbd77b062ede04d21489add1c5"
+    },
+    {
+      "path": "assets/met-37358-sharaku-1800.webp",
+      "bytes": 1773764,
+      "sha256": "2119550185a7a5badcdc6c21905c09b965fe5f9a2d95da9b779bc6be38e2b794"
+    },
+    {
+      "path": "assets/met-37358-sharaku-720.webp",
+      "bytes": 238744,
+      "sha256": "6439d1e4b7855198cddf26945e9fe9217e7841cc5789bff6f09c30aafe758b30"
+    },
+    {
+      "path": "assets/met-37358-sharaku.jpg",
+      "bytes": 2154460,
+      "sha256": "2c1389acc890f29fb6da6f3c8235dfe455278b0a1f337eb53c18ca662c7c9ae7"
+    },
+    {
+      "path": "assets/met-44861-koetsu-720.webp",
+      "bytes": 182682,
+      "sha256": "5c12e9704c5b8cec414c7a7d89618682b1fb648154866a4ec9bc0af0bab554dd"
+    },
+    {
+      "path": "assets/met-44861-koetsu.jpg",
+      "bytes": 196842,
+      "sha256": "90aa19064d37d1f9df9d49e82c82329f93365f7a4cf6bd27e980182beeb9fe92"
+    },
+    {
+      "path": "assets/met-45381-dohan-1200.webp",
+      "bytes": 912480,
+      "sha256": "68977ba9d208ceefd5bd9735d146bb713aeba6623649961f8e5a4a5714474135"
+    },
+    {
+      "path": "assets/met-45381-dohan-1800.webp",
+      "bytes": 2181746,
+      "sha256": "029639f8c61ab8c4177b65767ac2be9eb7881f7cbb0ff1222f1ee6d267327d73"
+    },
+    {
+      "path": "assets/met-45381-dohan-720.webp",
+      "bytes": 305558,
+      "sha256": "a5d320fdbe238aa88d24ef49d212949fd165f3eab68cb3703d0d632ceb571b47"
+    },
+    {
+      "path": "assets/met-45381-dohan.jpg",
+      "bytes": 2765155,
+      "sha256": "8d5ae83b31d2816846eadc3d027e16e117945676e5c86f0b7ab7073b90ba8b4a"
+    },
+    {
+      "path": "assets/met-45434-hokusai-1200.webp",
+      "bytes": 393750,
+      "sha256": "d6e9ca90e7b5292d98d9b2c5210158dbbdb4301a8f9e03bff5cd5fe05b2688bb"
+    },
+    {
+      "path": "assets/met-45434-hokusai-1800.webp",
+      "bytes": 908940,
+      "sha256": "f6363acc9f288c9177e8caf8327920b1b4c27c2416338876834b248a0ef464f3"
+    },
+    {
+      "path": "assets/met-45434-hokusai-720.webp",
+      "bytes": 145110,
+      "sha256": "a9e6dda30c0190479b3541a0e839248c339532b162d439e5d351ba8093825816"
+    },
+    {
+      "path": "assets/met-45434-hokusai.jpg",
+      "bytes": 2585399,
+      "sha256": "57b3c62ea1c4e10633ddc387a01b4166f6e4adaad307e1807ce9483a96385741"
+    },
+    {
+      "path": "assets/met-485540-boccioni-1200.webp",
+      "bytes": 196356,
+      "sha256": "b3fb5ec0eb9c4c19eeb33869f10b89b37031193f0babe208e6e4ce54151bc611"
+    },
+    {
+      "path": "assets/met-485540-boccioni-1800.webp",
+      "bytes": 461420,
+      "sha256": "a1cb1d4fff9ba94b79b2534a671361199a64d2ef392d35ff5e9fd056192edb34"
+    },
+    {
+      "path": "assets/met-485540-boccioni-720.webp",
+      "bytes": 71162,
+      "sha256": "ff3519f4346676f9f8533cc1fe1e342f527d532b23ab1a5c6dd2517d89eeeef1"
+    },
+    {
+      "path": "assets/met-485540-boccioni.jpg",
+      "bytes": 979248,
+      "sha256": "c447c7fa971e16f0794a6442e0583ad36d398634fe51065d20e9394ad438810d"
+    },
+    {
+      "path": "assets/met-765976-hoitsu-1200.webp",
+      "bytes": 202246,
+      "sha256": "33af43243ac387a114fbd00ebfd09237adfaec13162b260e26fb00c146d65a36"
+    },
+    {
+      "path": "assets/met-765976-hoitsu-720.webp",
+      "bytes": 80848,
+      "sha256": "0bbcb1b7038f8af77e5d23cc23c1e029806ee20f1411008b735d96aaf64f571b"
+    },
+    {
+      "path": "assets/met-765976-hoitsu.jpg",
+      "bytes": 222351,
+      "sha256": "120c10f4583b563999923e46b6020988733aba0e91d7f91e7cb941d5805708d1"
+    },
+    {
+      "path": "assets/nga-1987.73.3-p288-1200.webp",
+      "bytes": 438786,
+      "sha256": "4d9299c6f85a432b17af5d922c1263bade6dc11174f4b4e06ab9fb4abf497679"
+    },
+    {
+      "path": "assets/nga-1987.73.3-p288-1800.webp",
+      "bytes": 847234,
+      "sha256": "bf8b364ddab59c4fbdc9255ac9c6e9ff087e821b991127b14db05f545e60f002"
+    },
+    {
+      "path": "assets/nga-1987.73.3-p288-720.webp",
+      "bytes": 186792,
+      "sha256": "9187a52516545392548c7fd18045425269c55b127f990521db5b2d77ab774427"
+    },
+    {
+      "path": "assets/nga-1987.73.3-p288.jpg",
+      "bytes": 2313932,
+      "sha256": "8e408abaac95b1ad6c6db67d1ab9c09d9999d3db20520fabe11ff438db1dc447"
+    },
+    {
+      "path": "assets/nga-2010.124.1-dada-1200.webp",
+      "bytes": 430898,
+      "sha256": "fc4bbfc2ed1722a8fd38b8f879499827c86510683fd04673bb5b7b5e0b9e88d5"
+    },
+    {
+      "path": "assets/nga-2010.124.1-dada-1800.webp",
+      "bytes": 905412,
+      "sha256": "962361480b4bbf908d0a79998181e6c2c1f0c2ceb788663df7d484c1226be561"
+    },
+    {
+      "path": "assets/nga-2010.124.1-dada-720.webp",
+      "bytes": 194888,
+      "sha256": "479b36ca613f89cf4dc7c555ff2c277c6bd307f609a6cf9be6dedbacfe46da55"
+    },
+    {
+      "path": "assets/nga-2010.124.1-dada.jpg",
+      "bytes": 4441027,
+      "sha256": "3f9bd7b2b33406e0f9e54f9a361b4d8c32e7bd2d9034335bbb96acbe250cbff1"
+    },
+    {
+      "path": "assets/postmodern-comparison.svg",
+      "bytes": 4233,
+      "sha256": "644a2fa6a8cf76817a6fb1d80d71998ea23500bbbbc805a3e4319d365954159d"
+    },
+    {
+      "path": "assets/schlemmer-bauhaus-exhibition-flyer-1200.webp",
+      "bytes": 607942,
+      "sha256": "294e657587f2e74461a41c6bbdd64485c1a5589f2305356045f2254763553078"
+    },
+    {
+      "path": "assets/schlemmer-bauhaus-exhibition-flyer-720.webp",
+      "bytes": 247138,
+      "sha256": "a21cddc510ecf6d8adbc42b18b566711b14276f10d888a7fcb0ac3e6ee3fda96"
+    },
+    {
+      "path": "assets/schlemmer-bauhaus-exhibition-flyer.jpg",
+      "bytes": 3641322,
+      "sha256": "d9f9b5e126fb0e8f85e4d2511dd93b1aa410be2d36454235108e3bd654daa79d"
+    },
+    {
+      "path": "assets/swiss-comparison.svg",
+      "bytes": 3221,
+      "sha256": "64177ed327113b781c215a6dd7af9e579d557728a5574a92a5295d5997b1b184"
+    },
+    {
+      "path": "bauhaus-explainer-provenance.json",
+      "bytes": 2128,
+      "sha256": "5864114187e50df6c7f4a7bf4a926d81bbe9d46c8805368499eb384fc9a09617"
+    },
+    {
+      "path": "catalog.json",
+      "bytes": 19032,
+      "sha256": "baf0e17308b2492f41d350b9b27597effb55125edec2ed7991c2b9ed0ea16117"
+    },
+    {
+      "path": "compare.html",
+      "bytes": 4070,
+      "sha256": "9a6dc384f14149035e47ac1ad9b2d890cb25e5c8edd99a60940a0f8858a49f73"
+    },
+    {
+      "path": "compare.js",
+      "bytes": 2951,
+      "sha256": "60c1c2d01db5c1f54d055c8fc5fac0acec5deebd606eb5ca1f88107a08c7a80c"
+    },
+    {
+      "path": "entries/africobra.html",
+      "bytes": 14489,
+      "sha256": "7a7a06377c4d554b2de8836b7f1505c5b080568cbf7cd8e682ad682cbbc1bc64"
+    },
+    {
+      "path": "entries/art-deco.html",
+      "bytes": 24720,
+      "sha256": "a38537bf6d0726225fd59964edbc4f68f4336f5772a11e32dcd543d61ad55ffa"
+    },
+    {
+      "path": "entries/art-nouveau.html",
+      "bytes": 34405,
+      "sha256": "836c5b0e46f5a0bab10b7dde9f4ed446aa7709076477a13f00798b172a493a1d"
+    },
+    {
+      "path": "entries/arts-and-crafts.html",
+      "bytes": 36250,
+      "sha256": "c8f0e3b747f7b46b8f191e80983b0f4af39ab36ca7da835c8c7a1aa561f5c5d6"
+    },
+    {
+      "path": "entries/bauhaus.html",
+      "bytes": 35423,
+      "sha256": "04b1bf177f2df2693ad03e2ca9717eab444dfc3c032af81dea793c077280e50b"
+    },
+    {
+      "path": "entries/china-new-woodcut.html",
+      "bytes": 16339,
+      "sha256": "2f1efe1d017bdae49a5dd204b2ae9466132225a6ff2171d71aeeab481e5e7e76"
+    },
+    {
+      "path": "entries/dada.html",
+      "bytes": 33274,
+      "sha256": "71360f7b9d2065ef46057bc2f9cdb52212412319dac7bcb238e324d3b0da0c33"
+    },
+    {
+      "path": "entries/de-stijl.html",
+      "bytes": 22390,
+      "sha256": "53971f8d1140aeb201a84a59c23b2a7fa92c8e7d775b0e0ce99e2898abcfe93b"
+    },
+    {
+      "path": "entries/first-nations-australia-design.html",
+      "bytes": 14898,
+      "sha256": "ca3fcd9c763aeee5095f114f8cfd9991763b27778d8653453948285d27ec1bb5"
+    },
+    {
+      "path": "entries/flat-design.html",
+      "bytes": 17655,
+      "sha256": "f239173d79adee73f6c6ca2d9910c99904d6659d83a13d7aeda3bdd898f0b3dc"
+    },
+    {
+      "path": "entries/futurism.html",
+      "bytes": 21303,
+      "sha256": "2a0446571c420b92b794b4e89fbef5f03520df3308a67f3ad8e8dd76d3c27bd2"
+    },
+    {
+      "path": "entries/grid-systems.html",
+      "bytes": 18705,
+      "sha256": "1d18d59c12dd3f6ae04b2a2648d015f76baf5f0401e4f11eedf8c25e063ec54a"
+    },
+    {
+      "path": "entries/hfg-ulm.html",
+      "bytes": 16810,
+      "sha256": "a96872d7a42a06f718b04217240f8faa30bcf1e8bacfc0321cc10a14c0e5c6a0"
+    },
+    {
+      "path": "entries/hurufiyya.html",
+      "bytes": 15999,
+      "sha256": "5070227ffef9551a8f2b5ed1e76225d279730b6ac3646867facb2c747649cc23"
+    },
+    {
+      "path": "entries/international-style.html",
+      "bytes": 17876,
+      "sha256": "6e94f7ea424dd69307aa86eaa0cbaf94774c6097d6512a72a77afb3c0ebfd350"
+    },
+    {
+      "path": "entries/isotype.html",
+      "bytes": 14093,
+      "sha256": "ea2c79f76c39a9f6a1b4f9ac36800d48aee70585d8300e1fde1496d480888dd9"
+    },
+    {
+      "path": "entries/material-design.html",
+      "bytes": 16021,
+      "sha256": "97f6021a3ab00804b4a642130c105f70e66f352a0d851b55b616bf6e8e5cc1e4"
+    },
+    {
+      "path": "entries/metabolism.html",
+      "bytes": 16282,
+      "sha256": "a90f8ffe7ea65ffc9157084b381b932d6a0d6b7cca4a3536a278f796816124c6"
+    },
+    {
+      "path": "entries/mexican-muralism.html",
+      "bytes": 19934,
+      "sha256": "a3572685c7f20c6f3b5ce72b480a211f72624c45820848121f808ab24dde6568"
+    },
+    {
+      "path": "entries/mingei.html",
+      "bytes": 16335,
+      "sha256": "737a174e7c307fd2be13ec5ffb08c02228406d6165755198aee988a4f246a368"
+    },
+    {
+      "path": "entries/neoclassicism.html",
+      "bytes": 18726,
+      "sha256": "3f18d0edec55185c1ea4765d143525c3fd2ceb9f5ec48a5015160d6e44732aca"
+    },
+    {
+      "path": "entries/new-typography.html",
+      "bytes": 20430,
+      "sha256": "3b646942c7b1f76b66d53b833079c7c5e32ac8b78b163796f64ca1759e57fe27"
+    },
+    {
+      "path": "entries/nsukka-school.html",
+      "bytes": 16174,
+      "sha256": "203e0ad294d1a490a37ae3570573b31ca780b9fd966d5165d5434f2c3c514b83"
+    },
+    {
+      "path": "entries/postmodernism.html",
+      "bytes": 16237,
+      "sha256": "37ffe61aa0c67501b66e570f97f2a2d311ef0a1d667b403c6266cad4a76704e1"
+    },
+    {
+      "path": "entries/rinpa.html",
+      "bytes": 30197,
+      "sha256": "3f96d98ab1c37fd4e391b95907147b2ff53216cd4153a78ae3f19b693075cf95"
+    },
+    {
+      "path": "entries/rococo.html",
+      "bytes": 17715,
+      "sha256": "3c93e470283d54afd2e846321b69aab3f971f75cf61babd4ca8f16802cb70796"
+    },
+    {
+      "path": "entries/russian-constructivism.html",
+      "bytes": 25474,
+      "sha256": "20a2c0b6cf9426e26569ecfb954d9df3e53fda03a9dc1716acc1590060c0e7d1"
+    },
+    {
+      "path": "entries/santiniketan.html",
+      "bytes": 17155,
+      "sha256": "bdee9dd30d326c0e96deeae8f9e8ad8d05af4fe1504d72b9fda0263918d5bb12"
+    },
+    {
+      "path": "entries/sosaku-hanga.html",
+      "bytes": 29654,
+      "sha256": "16cf0bc1984b7a861400a596b211621a26ac97f96f640b7ef123bc395a2ecc63"
+    },
+    {
+      "path": "entries/suprematism.html",
+      "bytes": 16219,
+      "sha256": "8b554d83e9c49a00f5df6b65ace67c2b231e7477743ea4b4bc56ab08888cdafa"
+    },
+    {
+      "path": "entries/swiss-style.html",
+      "bytes": 18009,
+      "sha256": "6f82b51d3959c69b10f5677dc55df2fce045167ad179fc2027209234081c162f"
+    },
+    {
+      "path": "entries/ukiyoe.html",
+      "bytes": 30756,
+      "sha256": "46363b4e3866388833faa202757900ae755cbf866309e7f08ff1a18b43f71009"
+    },
+    {
+      "path": "entries/vienna-secession.html",
+      "bytes": 17191,
+      "sha256": "65c608de86d782e66dfcb389d90ac8767c1e2b64a786d27e533b2294bb0d0d6c"
+    },
+    {
+      "path": "entries/wiener-werkstaette.html",
+      "bytes": 17083,
+      "sha256": "81a761dacf20fe420d8a71f4cdbacee3e2faef4ccc74edb398991fa64fe3a7ce"
+    },
+    {
+      "path": "entries.json",
+      "bytes": 893142,
+      "sha256": "b8cf30a86c1855570b6298f59c9259b6165042a1b38826c3e4504d4ee1ed9e96"
+    },
+    {
+      "path": "external-preview-rights.json",
+      "bytes": 4732,
+      "sha256": "80484ad2531e7fcdacc0c269b3a17187dd7b2ebd30afdd5b32f3724797ec2562"
+    },
+    {
+      "path": "generated-connection-explainer-provenance.json",
+      "bytes": 5042,
+      "sha256": "5d665540c0f8e695edc25a4031284f16ef9e0a7be9d329c1b5c12ee8719bff04"
+    },
+    {
+      "path": "generated-style-image-provenance.json",
+      "bytes": 508,
+      "sha256": "2af5117e5fc73ea1cc7a8e1440cdfec7985b57feae6d79709d5c4a743d1b6fa9"
+    },
+    {
+      "path": "grid-original-explainer-provenance.json",
+      "bytes": 4075,
+      "sha256": "92a341fbf2c4ad3254cec310d3b5ffa11f339a2fab964004be66fb961fd6ddbd"
+    },
+    {
+      "path": "image-rights.json",
+      "bytes": 6021,
+      "sha256": "d7a3b48e2990eb7d7b58233b18ff02b853a5a28a1131510b6faafc5f1bedd2ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22324,
+      "sha256": "37e08736521ab330553e12877b654fdac2ccfc4e963a2cd0105df754fc9384df"
+    },
+    {
+      "path": "logo-provenance.json",
+      "bytes": 2295,
+      "sha256": "bd2f4512b4760493fcacb4cd3671f8571c251577cbdbc141d49b847b22c0336a"
+    },
+    {
+      "path": "original-comparison-provenance.json",
+      "bytes": 4935,
+      "sha256": "9ce540d8c6bec71886d22e4936b63fe88d42dca3fedabba5f67432539afe5c2a"
+    },
+    {
+      "path": "reference-image-rights.json",
+      "bytes": 14936,
+      "sha256": "396b351a2aacc04a2b3b629bda7775306e38a93312ff13ac96a065025a8c7d76"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 88,
+      "sha256": "f27ecf39c3abca03b8aa80d992f1a735fee6d3dbdca0d342eb535910456d2d6d"
+    },
+    {
+      "path": "site-update.json",
+      "bytes": 2554,
+      "sha256": "6269de550359a57d05fb22ad2bbccc156ef341f90990879037edeaafe01233db"
+    },
+    {
+      "path": "site.webmanifest",
+      "bytes": 430,
+      "sha256": "4f5739b7c14f196e1ca1cdd4634e00642578f61f264ce356398dd78ea94710e5"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 5046,
+      "sha256": "9d639ef69237eebbdbea5f4b66d5ef49137c24ad250f5fd384c0c09470b4dfb2"
+    },
+    {
+      "path": "study-images.js",
+      "bytes": 382,
+      "sha256": "1d836d16067619389421d26a2b583fbd77e5351f773058d237c7ab6b34bf2574"
+    },
+    {
+      "path": "study.css",
+      "bytes": 9728,
+      "sha256": "d76a78f5a2536cbacc81e3550e77061e2b1afa82cff0eed0c2cdcb56a2a7a782"
+    },
+    {
+      "path": "style.css",
+      "bytes": 15802,
+      "sha256": "5540a44fdcbb2daacf932b36e11c7cbaae6cd5a22c8c271b86b0a68317b4ff92"
+    },
+    {
+      "path": "timeline.css",
+      "bytes": 7544,
+      "sha256": "d63823ed48f0390e1318ef148f2eb8c96a393a7a99b6365b70eaa28367abd43c"
+    },
+    {
+      "path": "timeline.html",
+      "bytes": 7554,
+      "sha256": "c920c9fb4bfa1c27eda5f2fd4e5392f1b5568907b8a14863a9ad103b8c4ce2c4"
+    },
+    {
+      "path": "timeline.js",
+      "bytes": 7292,
+      "sha256": "d90b16726d612f48bf333ccb5902867a5e4c1004a66d14b1ee8d312333465e47"
+    },
+    {
+      "path": "visual-guide.css",
+      "bytes": 4284,
+      "sha256": "9ef2a97c1fcde0d0b194cfce504f0e2360a67a3fee90e9f5f1525bba2bf3034d"
+    }
+  ],
+  "generated_connection_explainers": 1,
+  "held_legacy_generated_studies": 6,
+  "frozen_at": "2026-11-01T19:05:00+09:00",
+  "selected_logo": 10,
+  "rewritten_articles": 34,
+  "rewritten_representative_cards": 141
+}
