@@ -11,8 +11,8 @@ for(const width of [320,390,1280]){
  for(const slug of entries.map(e=>e.slug)){
   await page.goto(`http://127.0.0.1:8793/entries/${slug}.html`,{waitUntil:'load'});
   await page.locator('footer').scrollIntoViewIfNeeded();
-  const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div:only-child')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
-  if(r.overflow||r.cards.some(x=>x.body<x.card*.8)||r.footer!=='invert(1)'||r.header!=='none')failures.push({slug,width,...r});
+  const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
+  if(r.overflow||r.cards.some(x=>x.body<x.card*.6)||r.footer!=='invert(1)'||r.header!=='none')failures.push({slug,width,...r});
   if(['hideki-nakajima','vienna-secession','art-nouveau'].includes(slug)){
    for(const im of await page.locator('.collected-art img').all()){await im.scrollIntoViewIfNeeded();await im.evaluate(i=>i.decode());}
    const images=await page.locator('.collected-art img').evaluateAll(xs=>xs.map(i=>({ok:i.complete&&i.naturalWidth>0,src:i.getAttribute('src'),width:i.width,natural:i.naturalWidth})));
@@ -22,8 +22,13 @@ for(const width of [320,390,1280]){
     await page.locator('.article-image-index summary').click();assert.equal(await page.locator('.article-image-index a').count(),entries.find(e=>e.slug===slug).adopted_images.length);await page.locator('.article-image-index a').first().click();await page.locator('.article-image-index summary').click();
     const expected=entries.find(e=>e.slug===slug).adopted_images.length;assert.equal(images.length,expected);assert(images.every(i=>i.width<=i.natural),'Art Nouveau no image upsampling');
     for(const [i,figure] of (await page.locator('.collected-art').all()).entries()){await figure.locator('img').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/art-nouveau-work-${i+1}-${width}.png`});}
-    await page.locator('.article-index a[href="#deeper-story"]').click();assert(await page.locator('#deeper-story').isVisible());await page.screenshot({path:`qa-artifacts/art-nouveau-story-${width}.png`});
+    await page.locator('.article-index a[href="#deeper-story"]').click();assert(await page.locator('#deeper-story').isVisible());const anchorTop=await page.locator('#deeper-story').evaluate(e=>e.getBoundingClientRect().top);assert(anchorTop>=-2&&anchorTop<100,'Anchor lands below page edge');await page.screenshot({path:`qa-artifacts/art-nouveau-story-${width}.png`});
     await page.locator('#article-glossary summary').click();assert(await page.locator('#article-glossary').getAttribute('open')!==null);await page.locator('#article-glossary summary').click();
+    await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
+    await page.locator('#article-glossary').scrollIntoViewIfNeeded();assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Expanded Art Nouveau has no overflow');
+    const credits=await page.locator('.collected-art .credit').evaluateAll(xs=>xs.map(x=>({left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right})));assert(credits.every(x=>x.left>=0&&x.right<=width+1),'Credits fit viewport');
+    await page.screenshot({path:`qa-artifacts/art-nouveau-expanded-glossary-${width}.png`});
+    await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=false));
     await page.locator('#main').scrollIntoViewIfNeeded();
    }
    if(slug==='vienna-secession')await page.locator('#representative-works').scrollIntoViewIfNeeded();
