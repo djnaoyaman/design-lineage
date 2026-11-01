@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="kandinsky-title kandinsky-desc">
+<title id="kandinsky-title">解説図｜カンディンスキーの色と形の対応</title><desc id="kandinsky-desc">黄の三角、赤の四角、青の円を横に並べ、それぞれ日本語で色と形を明記した現代の解説図。カンディンスキーの色と形の対応を示すが、歴史作品の複製でも普遍的な科学法則の図解でもない。</desc>
+<rect width="1200" height="1000" fill="#f4f3ef"/>
+<g font-family="Arial, 'Noto Sans CJK JP', 'Noto Sans JP', sans-serif" fill="#202121">
+<text x="52" y="66" font-size="28" fill="#323df1">BAUHAUS / COLOR &amp; FORM</text>
+<text x="52" y="146" font-size="42">解説図｜カンディンスキーの色と形の対応</text>
+<text x="52" y="211" font-size="34" fill="#63655f">色と形を結びつけた、造形研究の一例。</text>
+<line x1="52" y1="260" x2="1148" y2="260" stroke="#cdcdc7" stroke-width="2"/>
+<polygon points="240,326 102,565 378,565" fill="#f3cd29" stroke="#202121" stroke-width="3" stroke-linejoin="round"/>
+<rect x="480" y="326" width="240" height="240" fill="#de3f2a"/>
+<circle cx="960" cy="446" r="120" fill="#323df1"/>
+<text x="240" y="664" font-size="44" text-anchor="middle">黄 ／ 三角</text>
+<text x="600" y="664" font-size="44" text-anchor="middle">赤 ／ 四角</text>
+<text x="960" y="664" font-size="44" text-anchor="middle">青 ／ 円</text>
+<line x1="52" y1="725" x2="1148" y2="725" stroke="#202121" stroke-width="2"/>
+<text x="52" y="798" font-size="36">普遍的な法則ではなく、当時も異論がありました。</text>
+<text x="52" y="889" font-size="34" fill="#63655f">当時の造形研究を説明するための現代の図。</text>
+<text x="52" y="944" font-size="34" fill="#63655f">歴史作品の複製ではありません。</text>
+</g></svg>
