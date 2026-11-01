@@ -252,7 +252,15 @@
         "identity_checks": [
           "デザイン年と所蔵品の製作年を区別。",
           "V&A所蔵品や現代商品を同一個体としない。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "鳥と植物が、布いっぱいにくり返される。",
+          "lead": [
+            "家具に使う布の模様です。",
+            "鳥や苺、葉の形をくり返し、いくつもの色で表しています。",
+            "木の板を使って色をつける仕事も、この模様を支えています。"
+          ]
+        }
       },
       {
         "title": "Red House（建築・室内・庭園）",
@@ -274,7 +282,15 @@
           "建築・室内・庭園の撮影対象/撮影年を照合。",
           "Webbと共同制作の複数の担当者を区別。",
           "未建設の拡張図案と現存建物を区別。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "家の中を、いろいろな人の仕事でつくる。",
+          "lead": [
+            "家だけでなく、家具や庭、壁の絵までを一緒に考えた場所です。",
+            "布に糸で模様をつける仕事にも、何人もの人が加わりました。",
+            "一人で全部をつくった家ではありません。"
+          ]
+        }
       },
       {
         "title": "The Works of Geoffrey Chaucer（Kelmscott Press版／一葉・288頁）",
@@ -296,7 +312,15 @@
           "1896年刊の一葉・288頁と、後年のRollins論考を伴う外装を区別。",
           "装飾頭文字と人物挿絵を混同しない。",
           "一葉から製本・見開き構成・一冊全体を推定しない。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "文字のまわりも、本の一部。",
+          "lead": [
+            "本の1ページです。",
+            "文字だけでなく、まわりの飾りや空き、紙まで合わせて考えています。",
+            "一冊の本をつくるには、絵をかく人や、印刷するための板をほる人の仕事もありました。"
+          ]
+        }
       },
       {
         "title": "Sussex chair（William Morris Gallery G71）",
@@ -318,7 +342,15 @@
           "G71の1890年代頃という個体年と、1860年代頃の設計を区別。",
           "WMG G51、V&A Circ.27-1962、現代の再解釈製品を別個体として扱う。",
           "同名のシリーズ全体へ作者帰属を一般化しない。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "木の脚と、編んだ座面でできたいす。",
+          "lead": [
+            "昔から地方で使われていたいすをもとにしています。",
+            "木の部品を組み合わせ、座る所は植物の材料で編みました。",
+            "このいすは、大学の部屋で使われました。"
+          ]
+        }
       },
       {
         "title": "Porringer and Spoon",
@@ -336,7 +368,15 @@
           "組物全体と個々の器・匙の対象を区別。",
           "Ashbee設計とGuildの製作を分ける。",
           "一般的なMet Open Access案内をこの作品固有のPD表示と誤認しない。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "器とスプーンも、つくり手の仕事が見える。",
+          "lead": [
+            "金属でつくった器とスプーンの組み合わせです。",
+            "丸みのある形、長い持ち手、飾りの石が使われています。",
+            "布や木のいすとは違う、材料の使い方を考えられます。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -649,7 +689,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "布も、本も、家も。つくる仕事を考える。",
+      "lead": [
+        "毎日使う物は、だれが、どうつくっているのでしょう。",
+        "アーツ・アンド・クラフツでは、布や本、家具や家をつくる仕事を考え直しました。",
+        "何でつくるかだけでなく、つくる人と使う人のことも大切にしました。",
+        "花の模様だけでなく、物のでき方にも目を向けてみましょう。"
+      ],
+      "looking_questions": [
+        "布の中で、同じ鳥や花はどこにくり返されていますか。",
+        "本のページでは、文字と絵のまわりにどれくらい空きがありますか。"
+      ]
+    }
   },
   {
     "name": "Art Nouveau",
@@ -811,7 +864,15 @@
         "reproduction_rights": "photo ©Museum Associates/LACMA。Download Images文字のみで個別Public Domain指定とは判断しない。",
         "commercial_use": "未確認・掲載不可",
         "image_adoption": "未採用",
-        "additional_context_source": "https://www.muchafoundation.org/en/gallery/browse-works/object_type/posters/object/21/"
+        "additional_context_source": "https://www.muchafoundation.org/en/gallery/browse-works/object_type/posters/object/21/",
+        "reading_intro": {
+          "heading": "舞台の人を、縦長のポスターで伝える。",
+          "lead": [
+            "舞台に立つサラ・ベルナールを描いたポスターです。",
+            "人の姿、文字、まわりの飾りを、細長い紙の中に組み合わせています。",
+            "文字と絵を別々にせず、一緒に見てみるための作品です。"
+          ]
+        }
       },
       {
         "title": "Hôtel Tassel",
@@ -824,7 +885,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "曲がる線を、家の中にも。",
+          "lead": [
+            "曲線の飾りと、建物を支える部分を組み合わせた家です。",
+            "部屋のつながり方や、光の広がりも大切です。",
+            "階段の飾りだけでなく、家の中全体から考えます。"
+          ]
+        }
       },
       {
         "title": "Entrance Gate to Paris Subway (Métropolitain) Station（MoMA所蔵個体）",
@@ -842,7 +911,15 @@
           "MoMA所蔵個体と現在のパリ各駅入口を混同しない。",
           "設計・部材製造・交換・移設・撮影の年を分ける。",
           "正式な競技応募と設計の委嘱獲得を混同しない。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "地下鉄の入口に、植物のような曲線。",
+          "lead": [
+            "地下鉄の入口に使う、鉄などでできた部品です。",
+            "植物を思わせる曲線に、案内の表示や明かりを組み合わせています。",
+            "同じ形の部品をつくることで、運んで組み立てやすくしました。"
+          ]
+        }
       },
       {
         "title": "\"Tulip\" lamp",
@@ -860,7 +937,15 @@
           "完成した灯具、シェード下絵、木型を分ける。",
           "工房Tiffany Studiosと個人設計者を区別する。",
           "ガラス色と透過光は照明・撮影条件を確認して比較する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "ガラスの花に、明かりをともす。",
+          "lead": [
+            "色ガラスで花の形を表した照明です。",
+            "ガラスをつなぐ線も、花の形をつくっています。",
+            "下の台にも、金属と緑のガラスを組み合わせています。"
+          ]
+        }
       },
       {
         "title": "Chair（Cleveland 1985.96）",
@@ -873,7 +958,15 @@
         "work_rights": "館の個別Open Access対象。作者1867–1942。",
         "reproduction_rights": "公式API share_license_status CC0、正規配信JPEG。",
         "commercial_use": "CC0に基づく商用・非商用利用可",
-        "image_adoption": "取得・掲載、1作品として数える"
+        "image_adoption": "取得・掲載、1作品として数える",
+        "reading_intro": {
+          "heading": "木の曲線と、革の飾りを組み合わせる。",
+          "lead": [
+            "木と革を使ったいすです。",
+            "曲線は、いすを支える木の部分にも、革の飾りにも使われています。",
+            "ポスターの線とは違い、人が座る物の一部になっています。"
+          ]
+        }
       },
       {
         "title": "Documents Décoratifs: Oriental Poppies（装飾資料：オリエンタル・ポピー）（Cleveland 1969.236）",
@@ -886,7 +979,15 @@
         "work_rights": "館の個別Open Access対象、原作品と写真を区別。",
         "reproduction_rights": "公式API share_license_status CC0、正規配信JPEG。",
         "commercial_use": "CC0の商用・非商用利用可",
-        "image_adoption": "取得・掲載、1作品として数える"
+        "image_adoption": "取得・掲載、1作品として数える",
+        "reading_intro": {
+          "heading": "一つの植物から、いろいろな模様を考える。",
+          "lead": [
+            "ポピーの花を使った、飾りの模様の見本です。",
+            "花や葉をくり返し、詰めて並べたり、一まとまりの大きさを変えたりしています。",
+            "商品や舞台を知らせる広告ポスターではありません。"
+          ]
+        }
       },
       {
         "title": "Vase（花瓶）（Cleveland 1983.225）",
@@ -899,7 +1000,15 @@
         "work_rights": "館の個別Open Access対象、原作品と写真を区別。",
         "reproduction_rights": "公式API share_license_status CC0、正規配信JPEG。",
         "commercial_use": "CC0の商用・非商用利用可",
-        "image_adoption": "取得・掲載、1作品として数える"
+        "image_adoption": "取得・掲載、1作品として数える",
+        "reading_intro": {
+          "heading": "花や茎が、丸い器をめぐる。",
+          "lead": [
+            "ガラスの花びんに、植物が描かれています。",
+            "花や茎の線は、器の丸みにそって広がります。",
+            "紙に描いた模様と比べると、丸い物に描く違いが見えてきます。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -1260,7 +1369,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "植物のような線が、いすや花びんにも。",
+      "lead": [
+        "花や葉の形は、紙の上だけにあるのではありません。",
+        "いすの木や、花びんの表面にも広がっています。",
+        "アール・ヌーヴォーでは、こうした線や形を使い、新しい時代の物づくりを探しました。",
+        "植物の形から、ずいぶん違う物が生まれますね。"
+      ],
+      "looking_questions": [
+        "いすの木は、どこで曲がっていますか。",
+        "花びんの花や葉は、器の丸みにそってどう広がっていますか。"
+      ]
+    }
   },
   {
     "name": "Art Deco",
@@ -1413,7 +1535,15 @@
           "デザイン・製造個体・購入年を分ける。",
           "1925年展示の室内全体と、この所蔵キャビネットの同一性を推測しない。",
           "象牙などの歴史的使用の記述は、現在の調達・取引を勧めるものではない。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "箱の形はすっきり。材料は、いくつも。",
+          "lead": [
+            "木や布、金属など、いくつもの材料を使った家具です。",
+            "箱のような形に、木を組み合わせた細かな模様をつけています。",
+            "形だけでなく、材料や手仕事にも目を向ける作品です。"
+          ]
+        }
       },
       {
         "title": "Nord Express poster",
@@ -1433,7 +1563,15 @@
         "scope_limits_original": "A transport poster does not encompass all luxury craft or regional Art Deco.",
         "identity_checks": [
           "原記録により、ポスターの版、制作年、印刷者、依頼主を確認する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "列車の旅を、ポスターで知らせる。",
+          "lead": [
+            "鉄道旅行をすすめるポスターです。",
+            "列車、文字、斜めの線をどう組み合わせたかが、見る手がかりになります。",
+            "車につける飾りと並べると、旅や速さを伝える違う方法を比べられます。"
+          ]
+        }
       },
       {
         "title": "Chrysler Building（外観・地上階内部）",
@@ -1455,7 +1593,15 @@
           "外観と地上階内部は別の指定報告0992/0996を参照。",
           "設計者Van Alenと施主Walter Chryslerを混同しない。",
           "撮影時点と修復・改変を確認して、完成時の状態と区別する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "外から見る姿と、中を歩く道。",
+          "lead": [
+            "建物の外側やいちばん上の部分に、金属を使っています。",
+            "中では、三角形のホールと柱が、エレベーターへの道をつくります。",
+            "外の形だけでなく、入って歩く場所も考えるための建物です。"
+          ]
+        }
       },
       {
         "title": "Spirit of the Wind, car mascot",
@@ -1472,7 +1618,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "©Victoria and Albert Museum。再利用許諾未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "なびく髪で、車の速さを表す。",
+          "lead": [
+            "車につける飾りです。",
+            "風になびく髪が、速さや、機械の動く力と結びつけられています。",
+            "図形の模様だけではない飾り方を、考える例です。"
+          ]
+        }
       },
       {
         "title": "Wine Glass（Cleveland 2012.136）",
@@ -1485,7 +1639,15 @@
         "work_rights": "館の個別Open Access対象。作者と制作年を確認。",
         "reproduction_rights": "公式APIの個別CC0指定。原作品の権利と区別。",
         "commercial_use": "CC0商用・非商用利用可",
-        "image_adoption": "取得・掲載、同一作品1点として数える"
+        "image_adoption": "取得・掲載、同一作品1点として数える",
+        "reading_intro": {
+          "heading": "グラスに、段になった小さな飾り。",
+          "lead": [
+            "ラリックがつくったワイングラスです。",
+            "長方形を段にした飾りと、なめらかに広がる器を組み合わせています。",
+            "まっすぐな線と曲がった線が、一つの物にあります。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -1617,7 +1779,20 @@
     "supplemental_explainer_count": 0,
     "has_generated_visual_material": false,
     "original_comparison_explainer_count": 1,
-    "has_visual_material": true
+    "has_visual_material": true,
+    "reading_intro": {
+      "heading": "階段のような飾りが、グラスにも。",
+      "lead": [
+        "このページのグラスには、小さな階段のような飾りがあります。",
+        "その上では、なめらかな器が大きく広がっています。",
+        "アール・デコでは、こうした物だけでなく、建物や服、広告でも新しい時代の飾り方を探しました。",
+        "高価な手づくりの物も、工場でたくさんつくる物もあります。"
+      ],
+      "looking_questions": [
+        "段になった飾りは、グラスのどこに集まっていますか。",
+        "まっすぐな線と、曲がった線を探すと、どこに見つかりますか。"
+      ]
+    }
   },
   {
     "name": "De Stijl",
@@ -1774,7 +1949,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "線と色の四角で、絵をつくる。",
+          "lead": [
+            "赤や青の面と、たて・よこに交わる線を組み合わせた絵です。",
+            "人や風景をそのまま描くのとは違う、絵のつくり方です。",
+            "色の広さや線の位置を、見る手がかりにできます。"
+          ]
+        }
       },
       {
         "title": "Red Blue Chair",
@@ -1794,7 +1977,15 @@
         "scope_limits_original": "Colour scheme and versions changed; a contemporary licensed production is not an original early object.",
         "identity_checks": [
           "初期の無塗装の構成、後の彩色、現存する個体とその制作年を区別する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "板と棒、その間の空きも、いすをつくる。",
+          "lead": [
+            "たて・よこの木の部品と、平らな板でできたいすです。",
+            "部品の間には、空いている所があります。",
+            "同じいすを多くつくることも考え、決まった大きさの木材を使っています。"
+          ]
+        }
       },
       {
         "title": "Contra-Construction Project (Axonometric)",
@@ -1807,7 +1998,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "建てられなかった家の案を、立体の図で考える。",
+          "lead": [
+            "建てるために考えられた家の案です。",
+            "色のついた平らな部品を、空いた中心のまわりに組み合わせています。",
+            "完成した家を写した写真ではありません。"
+          ]
+        }
       },
       {
         "title": "De Stijl",
@@ -1820,7 +2019,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "MoMA個別ページはライセンス窓口を案内。商用画像許諾未取得。",
         "commercial_use": "未許諾・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "作品だけでなく、雑誌でも考えを伝える。",
+          "lead": [
+            "デ・ステイルという名前の刊行物です。",
+            "作品を発表し、考えを話し合うことも、この活動をつくりました。",
+            "絵や家具と一緒に、本や雑誌の仕事にも目を向けます。"
+          ]
+        }
       },
       {
         "title": "Colour solution / Kleuroplossing voor een kamer",
@@ -1834,7 +2041,15 @@
         "reproduction_rights": "公式画像方針は個別PD/CC0表示の画像の再利用を認める。原画像識別子の解決が未完了",
         "commercial_use": "個別PD表記＋公式FAQで商用利用可を確認。画像ファイル未取得のため未掲載",
         "image_adoption": "取得保留：公式公開データへの通常GET接続タイムアウト・0bytes",
-        "credit": "Rijksmuseum, Transfer Rijksdienst voor het Cultureel Erfgoed"
+        "credit": "Rijksmuseum, Transfer Rijksdienst voor het Cultureel Erfgoed",
+        "reading_intro": {
+          "heading": "部屋の色を、紙の上でも組み直す。",
+          "lead": [
+            "部屋にどんな色を置くかを考えた案です。",
+            "後に出版するために、色の組み合わせを変えています。",
+            "いつでも同じ3色を使ったわけではない、と分かる例です。"
+          ]
+        }
       },
       {
         "title": "Composition with Red, Yellow, and Blue",
@@ -1847,7 +2062,15 @@
         "work_rights": "Public domain as designated by holding museum; object share_license_status CC0",
         "reproduction_rights": "CC0 under museum object designation and Open Access policy",
         "commercial_use": "CC0による商用・非商用再利用可。",
-        "image_adoption": "公式原画像を取得・実見・掲載済み"
+        "image_adoption": "公式原画像を取得・実見・掲載済み",
+        "reading_intro": {
+          "heading": "大きな白、小さな赤・黄・青。",
+          "lead": [
+            "太い黒い線が、白と赤・黄・青の面を分けています。",
+            "それぞれの色は、広さも置かれた場所も違います。",
+            "何色かだけでなく、色が占める広さにも注目してみましょう。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -1975,7 +2198,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "たての線、よこの線、色の四角。",
+      "lead": [
+        "このページの絵では、太い黒い線が、色のついた四角を分けています。",
+        "赤・黄・青と白は、同じ広さではありません。",
+        "デ・ステイルでは、線や色をどう組み合わせるかを考えました。",
+        "絵だけでなく、いすや建物、文字にも取り組みました。"
+      ],
+      "looking_questions": [
+        "いちばん広い白い四角は、どこにありますか。",
+        "赤・黄・青は、それぞれどこに、どれくらいの広さで置かれていますか。"
+      ]
+    }
   },
   {
     "name": "Russian Constructivism",
@@ -2190,7 +2426,15 @@
           "書物の著者Puninと、塔の構想者Tatlinを分ける。",
           "1920年の構想と1979年再構成を分け、再制作者を確認する。",
           "書物の印刷図版・模型の作品権・現在の写真権を個別確認。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "建たなかった塔の案を、本で伝える。",
+          "lead": [
+            "塔をつくるための案を伝えた、本の資料です。",
+            "材料や支え方だけでなく、社会の仕組みとつなげて考えられました。",
+            "塔そのものや、当時の模型が残っているという意味ではありません。"
+          ]
+        }
       },
       {
         "title": "Books (Please)! In All Branches of Knowledge（Lengiz広告）",
@@ -2215,7 +2459,15 @@
           "Brikは被写体で広告デザイナーではない。",
           "原肖像と広告、1967複製と現在の撮影を区別。"
         ],
-        "reproduction_photographer": "Mark Woods（Frye所蔵複製の写真）"
+        "reproduction_photographer": "Mark Woods（Frye所蔵複製の写真）",
+        "reading_intro": {
+          "heading": "人の写真に、呼びかける文字を加える。",
+          "lead": [
+            "本をすすめるための広告です。",
+            "もとになった人物写真に、文字や見せ方の工夫を加えています。",
+            "写真だけのときと、広告になったときを比べるための例です。"
+          ]
+        }
       },
       {
         "title": "Workers’ Club, 1925 Paris exposition design",
@@ -2236,7 +2488,15 @@
         "identity_checks": [
           "当初の展示を示す資料と、再構築されたものを区別する。",
           "作品の制作者と写真の撮影者を別々に記録する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "机の面を変えて、作業から読書へ。",
+          "lead": [
+            "みんなで学び、話し合う場所のための家具や部屋の案です。",
+            "机には、作業する平らな面と、本を読むために傾けられる面があります。",
+            "チェス盤や、人前で話すための台も組み合わせました。"
+          ]
+        }
       },
       {
         "title": "Textile design（紙の図案、34.9 × 28.2 cm）",
@@ -2258,7 +2518,15 @@
           "34.9 × 28.2 cmの紙図案を選定。別寸法の同名作品と区別。",
           "実布を追加する際は図案年と製造年、工場、素材、所蔵番号を確認。",
           "作者PopovaとStepanovaを入替可能な表記にしない。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "布をつくる前に、紙で模様を考える。",
+          "lead": [
+            "布のための模様を、紙に描いたものです。",
+            "形をくり返した模様が、実際の布になるとどう見えるかを考えます。",
+            "この紙があるだけでは、同じ模様の布がつくられたとはいえません。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -2398,7 +2666,20 @@
     ],
     "reference_image_count": 1,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "写真と文字で本をすすめ、机で学ぶ場所をつくる。",
+      "lead": [
+        "人の写真に文字を組み合わせて、本をすすめる広告をつくる。",
+        "みんなで読むために、机や部屋の使い方を考える。",
+        "ロシアでは、絵や形をつくる仕事を、こうした毎日の道具や場所へつなげる動きがありました。",
+        "形を考えるだけでなく、どうつくり、どう使うかも大切な問題でした。"
+      ],
+      "looking_questions": [
+        "広告を見るなら、写真と文字のどちらに、先に目が向くでしょう。",
+        "共同で使う机の図を見るなら、作業する面と、本を読む面はどう違うでしょう。"
+      ]
+    }
   },
   {
     "name": "Swiss / International Typographic Style",
@@ -2520,7 +2801,15 @@
         "work_rights": "個別記録はUsage conditions apply。作品の商用掲載許諾は未取得。",
         "reproduction_rights": "複製画像の商用掲載条件は未確認。画像は未取得・未採用。",
         "commercial_use": "許諾未取得・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "白い円と、公演を知らせる文字。",
+          "lead": [
+            "音楽の公演を知らせるポスターです。",
+            "美術館の説明では、黒い地に白い円が重なり、中心に公演の情報があります。",
+            "円の間隔と文字の場所を、一緒に考える例です。"
+          ]
+        }
       },
       {
         "title": "Giselle, Basler Freilichtspiele",
@@ -2533,7 +2822,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "ポスター画像・原写真の個別商用許諾は未確認。展示風景写真のクレジットを転用しない。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "ダンサーの写真と、文字を並べる。",
+          "lead": [
+            "ダンサーの写真を使ったポスターです。",
+            "写真と文字を、どう組み合わせるかが見どころです。",
+            "きちんと同じ間隔にそろえるだけではない、見せ方を考えられます。"
+          ]
+        }
       },
       {
         "title": "Der Film",
@@ -2546,7 +2843,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "個別所蔵ページは複製画像のライセンス窓口を案内。未許諾。",
         "commercial_use": "許諾未取得・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "写真がなくても、文字で動きを見せる。",
+          "lead": [
+            "文字を重ねて画面をつくったポスターです。",
+            "美術館は、その重なりから生まれる動きを説明しています。",
+            "ダンサーの写真を使うポスターと、比べるための作品です。"
+          ]
+        }
       },
       {
         "title": "Neue Grafik 1（創刊号の表紙）",
@@ -2561,7 +2866,15 @@
         "commercial_use": "未確認・掲載不可",
         "image_adoption": "未採用",
         "creator_role": "cover designer",
-        "specific_issue_designer": "Carlo Vivarelli"
+        "specific_issue_designer": "Carlo Vivarelli",
+        "reading_intro": {
+          "heading": "雑誌の表紙で、考えを伝える。",
+          "lead": [
+            "デザインを伝える雑誌の、最初の号の表紙です。",
+            "文字をそろえて並べることが、何を読みやすくするかを考えます。",
+            "表紙の短い文字と、中の長い文章では、読み方も違います。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -2577,7 +2890,20 @@
     "supplemental_explainer_count": 0,
     "has_generated_visual_material": false,
     "original_comparison_explainer_count": 1,
-    "has_visual_material": true
+    "has_visual_material": true,
+    "reading_intro": {
+      "heading": "どの文字から、目に入る？",
+      "lead": [
+        "ポスターには、伝えたいことがいくつもあります。",
+        "文字を大きくしたり、太くしたりすると、目に入る順番が変わります。",
+        "写真や文字をどこに置くか、どれくらい空きを残すかも大切です。",
+        "スイス・スタイルでは、こうした工夫で、伝えたいことを読み取りやすくしました。"
+      ],
+      "looking_questions": [
+        "ポスターを見るなら、最初に目に入る文字は、ほかの文字と何が違うでしょう。",
+        "写真のあるポスターと、文字だけのポスターでは、目の動きがどう変わるでしょう。"
+      ]
+    }
   },
   {
     "name": "Postmodernism",
@@ -2642,7 +2968,14 @@
         "scope_limits_original": "One house does not encompass all postmodern architecture or later commercial historicism.",
         "identity_checks": [
           "建築の設計帰属、年代、対象の視点、後年の改変を確認する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "昔の家の形を、もう一度考える。",
+          "lead": [
+            "この家では、昔からある建物の形をどう使ったかを考えます。",
+            "ただ古い形をまねるのではなく、変えて使うことに目を向けます。"
+          ]
+        }
       },
       {
         "title": "Carlton room divider",
@@ -2662,7 +2995,14 @@
         "scope_limits_original": "Memphis is a specific group within a broader debate, not the whole of postmodernism.",
         "identity_checks": [
           "原デザインと版・製品、材料、製造者、対象個体の制作年を確認する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "家具の役目と、色や飾りを一緒に見る。",
+          "lead": [
+            "部屋を仕切るための家具です。",
+            "何に使うかだけでなく、色や飾り、形が伝えることも比べます。"
+          ]
+        }
       },
       {
         "title": "Portland Building",
@@ -2683,7 +3023,14 @@
         "identity_checks": [
           "当初の設計と後年の改修を区別する。",
           "協働者と写真の撮影年を確認する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "昔の建物の形を、大きく取り入れる。",
+          "lead": [
+            "多くの人が使う建物です。",
+            "昔からある建築の形を取り入れ、大きくして使う方法に目を向けます。"
+          ]
+        }
       },
       {
         "title": "Does It Make Sense?, Design Quarterly 133",
@@ -2703,7 +3050,14 @@
         "scope_limits_original": "Digital technique alone is not proof of postmodern thought; not all postmodern graphics are maximalist.",
         "identity_checks": [
           "号と刊行年、全体を広げた形、画像・写真のクレジット、複製の許諾を確認する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "体のイメージと、重なった画面。",
+          "lead": [
+            "人の体のイメージと、コンピューターによる処理を組み合わせた作品です。",
+            "いくつもの層を重ねた画面が、どう見えるかを考えます。"
+          ]
+        }
       },
       {
         "title": "Super lamp prototype",
@@ -2716,7 +3070,15 @@
         "work_rights": "商用掲載許諾は未確認",
         "reproduction_rights": "商用掲載許諾は未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "照明も、家具や建物と比べてみる。",
+          "lead": [
+            "本格的に製品にする前に、試しにつくられた照明です。",
+            "メンフィスという集団の仕事を、日常で使う物から考える例です。",
+            "後から多くつくられた製品とは、区別して見ます。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -2732,14 +3094,27 @@
     "supplemental_explainer_count": 0,
     "has_generated_visual_material": false,
     "original_comparison_explainer_count": 1,
-    "has_visual_material": true
+    "has_visual_material": true,
+    "reading_intro": {
+      "heading": "昔の形を、今の建物や家具に組み合わせる。",
+      "lead": [
+        "昔の建物にあった形を、変えて使う。",
+        "思いがけない色や材料を、家具に組み合わせる。",
+        "ポストモダニズムでは、こうした飾りや遊びも、物づくりの大切な部分として考えました。",
+        "使いやすさだけでなく、見た人が何を感じ、何を読み取るかにも目を向けます。"
+      ],
+      "looking_questions": [
+        "家具の作品を見るなら、どんな色や材料が組み合わされているでしょう。",
+        "昔の建物の形を取り入れた作品を見るなら、元の形から何が変わっているでしょう。"
+      ]
+    }
   },
   {
     "name": "Bauhaus",
     "title_ja": "バウハウス",
     "type": "学校・教育",
     "period": "1919–1933",
-    "region": "ドイツ：Weimar → Dessau → Berlin",
+    "region": "ドイツ：ワイマール → デッサウ → ベルリン",
     "summary": "手を動かして、材料や形を学ぶ。バウハウスは、芸術・工芸・建築を結び付ける教育を試みた学校です。1919年に設立されました。学校が移転したり校長が交代したりするたびに、何を大切に教えるかも変わりました。",
     "context": "最初の拠点ヴァイマルでは、工芸の作り方を探りました。移転先のデッサウでは、工場で生産するための試作品づくりへと重点が移ります。校長のマイヤー（Meyer）は、社会が必要とする物や、その働きを調べることを重視しました。ミース（Mies）の時期には建築が中心になります。14年間の歩みは、一つの配色や図形だけでは語れません。",
     "recognition": {
@@ -2970,7 +3345,14 @@
         "work_rights": "著者・図版・編集・装丁・文字設計を分けて要確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "線や形を、どう教えたのだろう。",
+          "lead": [
+            "バウハウスで教えた形や色を考えるための、本の1ページです。",
+            "絵の見た目だけでなく、何をどう学んだかを知る手がかりにします。"
+          ]
+        }
       },
       {
         "title": "Club chair（model B3 / Wassily）",
@@ -2985,7 +3367,15 @@
         "reproduction_rights": "MoMAはArt Resource / Scalaへの画像利用許諾照会を案内",
         "commercial_use": "許諾未取得・画像未掲載",
         "image_adoption": "未採用",
-        "alias_verification": "MoMA個別記録の正式タイトルにB3 / Wassily併記。2026-10-31直接確認。別称の命名年は未確定。"
+        "alias_verification": "MoMA個別記録の正式タイトルにB3 / Wassily併記。2026-10-31直接確認。別称の命名年は未確定。",
+        "reading_intro": {
+          "heading": "いすの骨組みに、金属のパイプ。",
+          "lead": [
+            "金属のパイプを、いすの骨組みに使っています。",
+            "体を受け止めるのは、座る所や背もたれなどに張った布です。",
+            "パイプと布が、それぞれどこを支えるかが見どころです。"
+          ]
+        }
       },
       {
         "title": "Teapot",
@@ -2999,7 +3389,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "金属の器に、木の持ち手。",
+          "lead": [
+            "バウハウスの金属の工房でつくられた、お茶のための器です。",
+            "金属の本体に、黒い木の部品を組み合わせています。",
+            "器、持ち手、ふたの関係から、形と使い方を考えられます。"
+          ]
+        }
       },
       {
         "title": "Plakat zur Bauhaus-Ausstellung in Weimar 1923（展覧会ポスター）",
@@ -3022,6 +3420,14 @@
           "source": "https://goethe.klassik-stiftung.de/de/objekt/museen/513653/",
           "inspection": "Direct official metadata read 2026-10-30 19:19 UTC",
           "rights": "Separate collection/image record, no individual open image licence confirmed."
+        },
+        "reading_intro": {
+          "heading": "丸や四角と文字で、展覧会を知らせる。",
+          "lead": [
+            "バウハウスの作品を見せる催しのポスターです。",
+            "丸や四角を斜めに組み合わせ、文字と学校の印も入れています。",
+            "形は飾りになるだけでなく、何を・いつ・どこで開くかを伝えます。"
+          ]
         }
       },
       {
@@ -3036,7 +3442,15 @@
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "学ぶ場所、つくる場所、暮らす場所。",
+          "lead": [
+            "バウハウスの校舎です。",
+            "授業をする所、物をつくる所、暮らす所などが、組み合わされています。",
+            "それぞれの場所が、どうつながるかに目を向けます。"
+          ]
+        }
       }
     ],
     "teaching_note": "ゲティ研究所（Getty）の教育資料の解説では、予備課程（専門の制作に進む前の基礎の授業）から専門工房へ進む学びが重視されています。教師も学生も実験したことが大切です。理論書の図、学生の課題、工房の製品では、役割が違います。完成品だけを集めず、それぞれ何のための資料かが分かるように選びます。また、アルマ・ジードホフ＝ブッシャー（Alma Siedhoff-Buscher）の《Segelboot》は、学校内の学生課題ではありません。子どものために出版された工作用紙です。ワイマール古典財団（Klassik Stiftung Weimar）は、こうした工作紙や塗り絵教材を、形と色を学ぶ教育の考え方と結び付けて説明しています。図書館の記録では、最初の出版は1927年、復刻は1998年です。この二つを区別します。撮影された物が何年に刷られたかは、まだ確認できていません。写真は研究用に入手しましたが、写る展示物全体が何であるかを確認する作業は終わっていません。そのため、代表画像としての掲載は保留しています。工作紙の具体的な配色や形の説明も、ここには載せていません。",
@@ -3302,7 +3716,20 @@
     "supplemental_explainer_count": 2,
     "has_generated_visual_material": true,
     "checked_at": "2026-11-01",
-    "generated_connection_diagram_count": 1
+    "generated_connection_diagram_count": 1,
+    "reading_intro": {
+      "heading": "いすも、ポスターも、学校でつくる。",
+      "lead": [
+        "バウハウスは、1919年にドイツにできた学校です。",
+        "絵だけでなく、いすや食器、建物のつくり方も学びました。",
+        "学生たちは、材料にさわり、色を組み合わせ、手を動かして試しました。",
+        "「どんな形なら使いやすい？」。作品を見るときも、この問いが手がかりになります。"
+      ],
+      "looking_questions": [
+        "いすを見るなら、体を支えるところは何でできているでしょう。",
+        "ポスターを見るなら、どの文字が最初に目に入りますか。"
+      ]
+    }
   },
   {
     "name": "琳派",
@@ -3571,7 +3998,15 @@
         "work_rights": "個別作品ページのPublic Domain表示を直接確認",
         "reproduction_rights": "当該 painting only 画像のPD表示と館のCC0方針を確認",
         "commercial_use": "館が商用・非商用の無償再利用を明記。米国機関の判断で、全法域への保証ではない。",
-        "image_adoption": "公式配信JPEG取得・実見済み。色紙画面と表装の一部、掛軸全体ではない。"
+        "image_adoption": "公式配信JPEG取得・実見済み。色紙画面と表装の一部、掛軸全体ではない。",
+        "reading_intro": {
+          "heading": "桜の絵に、筆で書いた歌を重ねる。",
+          "lead": [
+            "桜を描いた紙に、和歌が書かれています。",
+            "大きな字と小さな字、太い線と細い線が、一枚の中にあります。",
+            "歌をつくった人と、文字を書いた人は別です。"
+          ]
+        }
       },
       {
         "title": "風神雷神図屏風",
@@ -3584,7 +4019,15 @@
         "work_rights": "原作品の個別権利表示を要確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "金色の中に、風と雷の神。",
+          "lead": [
+            "風の神と雷の神を描いた、折りたためる大きな絵です。",
+            "金色の地が、二人の姿を目立たせています。",
+            "後の時代の画家がどう描き直したかを、比べる出発点にもなります。"
+          ]
+        }
       },
       {
         "title": "Irises at Yatsuhashi (Eight Bridges) — 八橋図屏風",
@@ -3597,7 +4040,15 @@
         "work_rights": "Met個別作品記録にPublic Domain表示",
         "reproduction_rights": "PD表示の公式画像リンクを確認。館は無償の商用・非商用再利用を明記",
         "commercial_use": "MetのPD画像・CC0方針で商用再利用可。米国機関の権利判断であり全法域への保証ではない。",
-        "image_adoption": "公式Met配信JPEG1点へ置換。旧提供JPEGは研究保存し掲載には未使用。六曲一双のうち一隻。"
+        "image_adoption": "公式Met配信JPEG1点へ置換。旧提供JPEGは研究保存し掲載には未使用。六曲一双のうち一隻。",
+        "reading_intro": {
+          "heading": "橋が曲がり、花がくり返される。",
+          "lead": [
+            "橋と花を描いた、横に長い絵です。",
+            "橋は途中で向きを変え、花は集まったり、間を空けたりしています。",
+            "人は描かれていませんが、昔の物語とつながっています。"
+          ]
+        }
       },
       {
         "title": "八橋蒔絵螺鈿硯箱",
@@ -3610,7 +4061,15 @@
         "work_rights": "原作品の個別権利表示を要確認",
         "reproduction_rights": "e国宝画像は私的使用等を超える利用に個別許諾が必要。ColBaseは別の利用規約だが、当該画像との対応を確認中。",
         "commercial_use": "e国宝画像は商用許諾未取得。ColBase画像も個別対応確認前のため未採用。",
-        "image_adoption": "未採用。別サービスの一般ライセンスを画像に流用しない。"
+        "image_adoption": "未採用。別サービスの一般ライセンスを画像に流用しない。",
+        "reading_intro": {
+          "heading": "同じ橋や花を、筆記用の箱にも。",
+          "lead": [
+            "筆記の道具を入れる箱に、橋や花を表しています。",
+            "花には貝、橋には鉛の板など、違う材料を使っています。",
+            "絵の具でかく絵と、材料の違いも比べられます。"
+          ]
+        }
       },
       {
         "title": "Cherry and Maple Trees — 桜楓図屏風",
@@ -3623,7 +4082,15 @@
         "work_rights": "個別作品ページのPublic Domain表示を直接確認",
         "reproduction_rights": "当該 screen .1, overall のPD表示と館のCC0方針を確認",
         "commercial_use": "館が商用・非商用の無償再利用を明記。米国機関の判断で、全法域への保証ではない。",
-        "image_adoption": "公式配信JPEG取得・実見済み。桜と柳の一隻、screen .1, overall。"
+        "image_adoption": "公式配信JPEG取得・実見済み。桜と柳の一隻、screen .1, overall。",
+        "reading_intro": {
+          "heading": "太い木と、細くたれる枝。",
+          "lead": [
+            "ここに載せた側には、桜と柳が描かれています。",
+            "太い幹と、細くたれる枝は、線の太さも向きも違います。",
+            "花が集まる所と、金色だけの所も比べてみましょう。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -3927,7 +4394,21 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "花と橋。描かれていない所にも注目。",
+      "lead": [
+        "このページの絵には、橋のまわりに花がくり返し描かれています。",
+        "花のない所には、広い金色が残っています。",
+        "りんぱでは、花や木、昔の物語をもとに、絵や文字で作品をつくりました。",
+        "後の時代の人たちも、前の作品から学びました。",
+        "一つの学校に、みんなが集まっていたわけではありません。"
+      ],
+      "looking_questions": [
+        "橋の絵では、花が集まった所と、金色だけの所はどこにありますか。",
+        "桜の下絵に重ねた文字には、大きさや太さの違いがありますか。"
+      ]
+    }
   },
   {
     "name": "New Typography",
@@ -4359,7 +4840,15 @@
         "image_adoption": "未採用",
         "image_count_acquired": 0,
         "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
-        "evidence": "https://www.moma.org/calendar/exhibitions/1013"
+        "evidence": "https://www.moma.org/calendar/exhibitions/1013",
+        "reading_intro": {
+          "heading": "文字の新しい見せ方を、本にまとめる。",
+          "lead": [
+            "文字や印刷物の見せ方を考えるための本です。",
+            "作者は印刷物を集め、教えることや、本づくりに使いました。",
+            "一枚のポスターだけでなく、考えをまとめて伝える仕事も見ます。"
+          ]
+        }
       },
       {
         "title": "Die Frau ohne Namen",
@@ -4402,7 +4891,15 @@
         "image_adoption": "未採用",
         "image_count_acquired": 0,
         "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
-        "evidence": "https://www.moma.org/collection/works/5754"
+        "evidence": "https://www.moma.org/collection/works/5754",
+        "reading_intro": {
+          "heading": "映画の楽しみを、ポスターで知らせる。",
+          "lead": [
+            "映画を宣伝するポスターです。",
+            "写真と文字を組み合わせて、見る人に情報を伝えます。",
+            "本にまとめられた考え方と、実際のポスターの工夫を比べる例です。"
+          ]
+        }
       },
       {
         "title": "Fotografie der Gegenwart",
@@ -4444,7 +4941,15 @@
         "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
         "image_adoption": "未採用",
         "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。"
+        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
+        "reading_intro": {
+          "heading": "機械のように見える文字も、手でほった。",
+          "lead": [
+            "写真展を知らせるためのポスターです。",
+            "きっちりした文字は、一文字ずつ手でほってつくられました。",
+            "文字の見た目と、つくり方が同じとは限らないところが面白い作品です。"
+          ]
+        }
       },
       {
         "title": "Internationale Tentoonstelling op Filmgebied",
@@ -4486,7 +4991,15 @@
         "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
         "image_adoption": "未採用",
         "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。"
+        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
+        "reading_intro": {
+          "heading": "映画を知らせる文字を、図形で組み立てる。",
+          "lead": [
+            "映画の催しを知らせるポスターです。",
+            "たて・よこに交わる線や、図形を組んだような文字を使っています。",
+            "ほかのポスターと、文字のつくり方を比べる例です。"
+          ]
+        }
       },
       {
         "title": "Architektur Lichtbilder Vortrag Professor Hans Poelzig",
@@ -4530,7 +5043,15 @@
         "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
         "image_adoption": "未採用",
         "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。"
+        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
+        "reading_intro": {
+          "heading": "講演のお知らせを、文字の置き方で伝える。",
+          "lead": [
+            "学校で開く講演を知らせるポスターです。",
+            "大文字だけを使い、右と左が同じにならないように並べています。",
+            "何から目に入り、次に何を読むかが、見る手がかりになります。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -4544,7 +5065,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "文字は、読むもの。でも、形も見てみよう。",
+      "lead": [
+        "ポスターの文字は、何が書いてあるかだけでなく、形や置く場所も大切です。",
+        "大きな文字と小さな文字を、写真と組み合わせる。",
+        "右と左を同じ並びにせず、違う形に組み立てる。",
+        "ニュー・タイポグラフィでは、本やポスターなどで、こうした見せ方を試しました。"
+      ],
+      "looking_questions": [
+        "ポスターを見るなら、文字の大きさや向きは、どこで変わっているでしょう。",
+        "文字と写真のかたまりを探すと、右と左でどんな違いがあるでしょう。"
+      ]
+    }
   },
   {
     "name": "International Style",
@@ -4909,7 +5443,14 @@
         "image_adoption": "未採用",
         "image_count_acquired": 0,
         "visual_inspection_status": "実画像未取得・未実見。記述は取得済一次機関解説の保持情報に基づく。",
-        "evidence": "https://whc.unesco.org/en/list/1052"
+        "evidence": "https://whc.unesco.org/en/list/1052",
+        "reading_intro": {
+          "heading": "部屋を細かく区切らず、つなげる。",
+          "lead": [
+            "部屋の区切り方と、つながり方を考えるための住宅です。",
+            "家を支える材料と、中をゆるやかに分ける方法を、一緒に見ます。"
+          ]
+        }
       },
       {
         "title": "Villa Savoye, Poissy-sur-Seine, France (Scale model, 1:33.3)",
@@ -4956,7 +5497,15 @@
         "image_adoption": "未採用",
         "image_count_acquired": 0,
         "visual_inspection_status": "実画像未取得・未実見。記述は取得済一次機関解説の保持情報に基づく。",
-        "evidence": "https://www.moma.org/collection/works/82339?locale=en"
+        "evidence": "https://www.moma.org/collection/works/82339?locale=en",
+        "reading_intro": {
+          "heading": "建物の考え方を、小さな模型で伝える。",
+          "lead": [
+            "家の形を伝えるための、小さな模型です。",
+            "1932年に美術館で開かれた、建築の展覧会でも使われました。",
+            "実際の家と、家を説明する模型の違いにも目を向けます。"
+          ]
+        }
       },
       {
         "title": "Lever House",
@@ -5031,7 +5580,15 @@
             "source_url": "https://www.moma.org/collection/works/82490?artist_id=8170&page=1&sov_referrer=artist",
             "image_adoption": "未採用"
           }
-        ]
+        ],
+        "reading_intro": {
+          "heading": "たてに伸びる建物と、横に広がる土台。",
+          "lead": [
+            "会社のための建物です。",
+            "たてに立つ板のような部分と、横に広がる土台を組み合わせています。",
+            "地上階や中庭の開かれた場所も、家とは違う使い方を考える手がかりです。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -5046,7 +5603,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "柱、窓、部屋のつながりから、家を見る。",
+      "lead": [
+        "家を見るとき、外の形だけでなく、中にも目を向けてみましょう。",
+        "柱はどこにあり、部屋はどうつながっているでしょうか。",
+        "インターナショナル・スタイルと呼ばれる建物では、鉄やコンクリート、ガラスの使い方が手がかりになります。",
+        "家だけでなく、会社の建物にも広がりました。"
+      ],
+      "looking_questions": [
+        "建物の写真を見るなら、窓はどこに、どれくらいの大きさで作られているでしょう。",
+        "部屋の図を見るなら、壁で仕切られた所と、つながっている所はどこでしょう。"
+      ]
+    }
   },
   {
     "name": "浮世絵",
@@ -5265,7 +5835,15 @@
         "work_rights": "個別作品ページにPublic Domain表示（米国機関の評価）",
         "reproduction_rights": "当該公式原JPEG取得・画素照合済み。個別PDと媒体Open Access、Met CC0を確認。",
         "commercial_use": "Metの個別Open Access対象画像。CC0で商用・非商用利用可。",
-        "image_adoption": "取得・掲載、同一所蔵個体1点として数える"
+        "image_adoption": "取得・掲載、同一所蔵個体1点として数える",
+        "reading_intro": {
+          "heading": "服の大きな模様と、筆の線。",
+          "lead": [
+            "筆で直接かいた、女性の立ち姿です。",
+            "服には赤や水色、茶色の大きな模様があります。",
+            "顔の細い線と、服を囲む太い線を比べてみましょう。"
+          ]
+        }
       },
       {
         "title": "三代目大谷鬼次の奴江戸兵衛",
@@ -5282,7 +5860,15 @@
         "identity_checks": [
           "役者・役名・絵師・製作担当を分ける。",
           "画像の所蔵番号JP2822と画面・クレジットを照合する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "顔だけでなく、広げた指も見てみよう。",
+          "lead": [
+            "芝居をする役者の顔と上半身を、大きく描いた絵です。",
+            "顔の下では、両手の指が広がっています。",
+            "目や口に加え、手の形も、役の人がらを伝えています。"
+          ]
+        }
       },
       {
         "title": "富嶽三十六景 神奈川沖浪裏",
@@ -5299,7 +5885,15 @@
         "work_rights": "個別作品ページにPublic Domain表示（米国機関の評価）",
         "reproduction_rights": "当該公式原JPEG取得・画素照合済み。個別PDと媒体Open Access、Met CC0を確認。",
         "commercial_use": "Metの個別Open Access対象画像。CC0で商用・非商用利用可。",
-        "image_adoption": "取得・掲載、同一所蔵個体1点として数える"
+        "image_adoption": "取得・掲載、同一所蔵個体1点として数える",
+        "reading_intro": {
+          "heading": "大波の向こうに、小さな富士。",
+          "lead": [
+            "大きな波の奥に、小さな富士山が見えます。",
+            "波の間には、細長い舟も描かれています。",
+            "同じ一枚の中で、近くと遠くの大きさを大きく変えています。"
+          ]
+        }
       },
       {
         "title": "Evening Snow on the Nurioke, from Eight Parlor Views",
@@ -5316,7 +5910,15 @@
         "work_rights": "未確認（今回の返却本文に個別PD表示なし）",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・画像掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "遠い風景を、身近な道具に読み替える。",
+          "lead": [
+            "中国の有名な風景の組み合わせを、室内の道具に重ねて描いた絵です。",
+            "出てくるのは、絹の真綿を乾かすための木の道具です。",
+            "昔からの題材を、身近な場所で描く方法を考える例です。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -5643,7 +6245,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "大きな波、小さな富士。人の顔も見比べよう。",
+      "lead": [
+        "うきよえには、人気の役者や、人々の服、旅先の風景などが描かれました。",
+        "木の板に絵をほり、色をつけて紙に写したものがあります。",
+        "筆で紙などに直接かいた絵もあります。",
+        "このページでは、人の姿を描いた絵と、波や山を描いた絵を比べられます。"
+      ],
+      "looking_questions": [
+        "大波の絵では、富士山はどこに、どれくらい小さく描かれていますか。",
+        "役者の絵では、顔の向きと、両手の指の開き方にどんな特徴がありますか。"
+      ]
+    }
   },
   {
     "name": "中国新興木刻運動",
@@ -5824,7 +6439,15 @@
         "work_rights": "未確認・自由利用の明示なし",
         "reproduction_rights": "未確認・サイト閲覧可能であることを許諾としない",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "木をほり、白と黒で一人の体を描く。",
+          "lead": [
+            "しばられ、目をおおわれた人を描いた絵です。",
+            "中国美術館は、押さえつける力と、それに立ち向かう力を表すと説明しています。",
+            "細い線と黒い所の分け方が、見る手がかりになります。"
+          ]
+        }
       },
       {
         "title": "要求抗战者杀（館題の訳：抗戦を要求する者を殺せ）",
@@ -5841,7 +6464,15 @@
         "work_rights": "未確認・自由利用の明示なし",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "大勢の人への暴力を、木をほって伝える。",
+          "lead": [
+            "デモをする人々への暴力を描いた作品です。",
+            "大きな黒い所と、斜めに走る形を使っています。",
+            "一人を大きく描く絵とは違う、集団の出来事の伝え方です。"
+          ]
+        }
       },
       {
         "title": "At Lu Xun’s Funeral",
@@ -5854,7 +6485,15 @@
         "work_rights": "©Estate of Huang Xinbo表示",
         "reproduction_rights": "Print Art Contemporary/HongKongOpenPrintshop提供、自由利用未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "ろじんを送る場面を、後からもつくり直す。",
+          "lead": [
+            "作家のろじんの葬儀を扱った作品です。",
+            "最初につくられたものと、後につくり直したものを分けて考えます。",
+            "ここで調べた資料は、1936年当時に刷られたものではありません。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -5868,7 +6507,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "木をほり、紙に写して、人々に伝える。",
+      "lead": [
+        "木の板をほり、残した所に色をつけて、紙に絵を写します。",
+        "中国では、こうした絵で、社会の争いや人々の苦しみを伝える人たちがいました。",
+        "1930年代には、つくり方を学ぶ会を開いたり、本や新聞に作品をのせたりしました。",
+        "黒い所と白い所の分け方も、伝え方の手がかりになります。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、広く黒くなった所と、細い線の所はどこでしょう。",
+        "一人を描いた絵と、大勢を描いた絵では、人の動きがどう違って見えるでしょう。"
+      ]
+    }
   },
   {
     "name": "Santiniketan",
@@ -6052,7 +6704,15 @@
         "work_rights": "建築・付属作品の権利は対象ごとに未確認",
         "reproduction_rights": "写真の個別権利未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "木の下を、教室にする。",
+          "lead": [
+            "木の下にある、屋外の学ぶ場所です。",
+            "自然の中で、美術や音楽を学ぶ考え方とつながっています。",
+            "絵だけでなく、どこで学ぶかにも目を向けるための例です。"
+          ]
+        }
       },
       {
         "title": "Cobbler（靴直し職人）— Haripura Posters",
@@ -6070,7 +6730,15 @@
         "work_rights": "未確認・自由利用の明示なし",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "靴を直す仕事を、会場に飾る絵へ。",
+          "lead": [
+            "靴を直す職人を描いています。",
+            "土を思わせる色と、勢いのある線が使われています。",
+            "身近な仕事を見つめる絵が、政治の集会の会場を飾りました。"
+          ]
+        }
       },
       {
         "title": "学生寮の天井壁画（説明題）",
@@ -6087,7 +6755,15 @@
         "work_rights": "未確認・自由利用の明示なし",
         "reproduction_rights": "未確認・建物内の撮影画像は別権利を確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "頭の上に、池と村の風景が広がる。",
+          "lead": [
+            "学生が暮らす建物の天井に描いた絵です。",
+            "真ん中の池のまわりに、村の風景が広がっています。",
+            "立つ場所によって、見える向きが変わります。"
+          ]
+        }
       },
       {
         "title": "Santhal Family（サンタルの家族）— キャンパスの彫刻",
@@ -6104,7 +6780,14 @@
         "work_rights": "未確認",
         "reproduction_rights": "彫刻と撮影画像を別に確認・未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "学ぶ場所に置かれた、家族の像。",
+          "lead": [
+            "学校の敷地に置かれた、サンタルの家族を表す立体作品です。",
+            "学ぶ場所の中でどう見られ、その後どう守られたかを考える候補です。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -6118,7 +6801,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "木の下も、学ぶ場所になる。",
+      "lead": [
+        "インドのサンティニケタンには、木の下で学ぶ場所がありました。",
+        "自然の中で、音楽や美術を学ぶことを大切にしました。",
+        "木で物をつくることや、布を織ること、本をまとめることも学びました。",
+        "学生が暮らす建物の天井には、村の風景を描いた作品もあります。"
+      ],
+      "looking_questions": [
+        "屋外の教室の写真を見るなら、木と、学ぶ場所はどんな位置にあるでしょう。",
+        "天井の絵を見るなら、池のまわりに村の風景がどう広がっているでしょう。"
+      ]
+    }
   },
   {
     "name": "Mexican Muralism",
@@ -6484,7 +7180,15 @@
           "date_note": "全27面は四方の壁に展開する連作全体。北壁のみを全連作と呼ばない。"
         },
         "visual_inspection_status": "実画像未実見。保持されたDIAの記録・解説に基づく。",
-        "selection_role": "産業・労働と美術館の鑑賞空間"
+        "selection_role": "産業・労働と美術館の鑑賞空間",
+        "reading_intro": {
+          "heading": "働く人と機械を、中庭の壁に描く。",
+          "lead": [
+            "美術館の中庭を囲む壁に、産業や労働を描いた作品の一部です。",
+            "ここで取り上げるのは、北側の壁です。",
+            "工場の仕事を、多くの人が見る場所に描く意味を考えます。"
+          ]
+        }
       },
       {
         "title": "Atentado a las maestras rurales",
@@ -6528,7 +7232,15 @@
           "photograph_date": null
         },
         "visual_inspection_status": "実画像未実見。保持されたINBAL解説に基づく。",
-        "selection_role": "公教育をめぐる暴力と学校"
+        "selection_role": "公教育をめぐる暴力と学校",
+        "reading_intro": {
+          "heading": "学校の入口で、教師への暴力を描く。",
+          "lead": [
+            "女性教師への暴力と、それを見る子どもを描いた壁の絵です。",
+            "学校の入口の広間にあります。",
+            "学ぶための場所に、教育をめぐる争いが描かれています。"
+          ]
+        }
       },
       {
         "title": "Hospicio Cabañas礼拝堂壁画群—El Hombre de Fuegoを中心に",
@@ -6567,7 +7279,15 @@
           "date_note": "建築設計と壁画制作を分ける。1936–39という活動期を個別壁画の開始・完成年へ転記しない。"
         },
         "visual_inspection_status": "実画像未実見。保持されたUNESCOの一次解説に基づく。",
-        "selection_role": "歴史叙述と礼拝堂・ドーム"
+        "selection_role": "歴史叙述と礼拝堂・ドーム",
+        "reading_intro": {
+          "heading": "壁だけでなく、丸い天井にも歴史を描く。",
+          "lead": [
+            "祈りをささげる建物の壁や、丸い天井に描かれた絵の集まりです。",
+            "スペインと先住民の歴史を扱っています。",
+            "建物の中でどこに立つかが、絵の見え方にも関わります。"
+          ]
+        }
       },
       {
         "title": "América Tropical",
@@ -6611,7 +7331,15 @@
           "date_note": "2012は保存公開の年で、制作・再制作・全面塗り直しの年ではない。白塗り各段階の具体年は保持根拠にないため補わない。"
         },
         "visual_inspection_status": "実画像未実見。取得済Gettyの保存・技法解説に基づく。",
-        "selection_role": "政治的批判・検閲・協働と素材実験"
+        "selection_role": "政治的批判・検閲・協働と素材実験",
+        "reading_intro": {
+          "heading": "白く塗りつぶされた、屋外の壁の絵。",
+          "lead": [
+            "ロサンゼルスの建物の外に描いた絵です。",
+            "注文されたのどかな風景とは違い、政治への意見を表す絵になりました。",
+            "後に白く塗りつぶされ、さらに後の時代に保存の作業が行われました。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -6626,7 +7354,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "建物の壁いっぱいに、働く人や歴史を描く。",
+      "lead": [
+        "絵をかく場所は、紙や布だけではありません。",
+        "メキシコでは、建物の壁に、人々の仕事や歴史、社会の争いを描く活動が広がりました。",
+        "学校の入口や、人々が集まる建物にも描かれました。",
+        "どこに立って見るかで、絵の見え方も変わります。"
+      ],
+      "looking_questions": [
+        "壁の絵を見るなら、人物は壁のどこに、どれくらいの大きさで描かれているでしょう。",
+        "建物全体の写真を見るなら、その絵は入口や天井とどんな位置にあるでしょう。"
+      ]
+    }
   },
   {
     "name": "Nsukka School",
@@ -6848,7 +7589,15 @@
           "原作品と画像それぞれの権利・商用利用条件を確認する。"
         ],
         "visual_inspection_status": "実画像未実見。Smithsonianの保持解説に基づく。",
-        "selection_role": "紙上での線・簡潔な形・動き"
+        "selection_role": "紙上での線・簡潔な形・動き",
+        "reading_intro": {
+          "heading": "母の描き方とのつながりを、紙の上にも。",
+          "lead": [
+            "線や簡単な形、動きを使った、紙の上の作品です。",
+            "美術館は、壁や体に模様を描いた母の仕事とのつながりを説明しています。",
+            "母の作品そのものとは分けて見ます。"
+          ]
+        }
       },
       {
         "title": "Earth-Moon Connexions",
@@ -6875,7 +7624,15 @@
           "原作品と画像の商用条件をそれぞれ確認する。"
         ],
         "visual_inspection_status": "実画像未実見。保持されたSmithsonian解説に基づく。",
-        "selection_role": "木と彩色による点・線と天体の図式"
+        "selection_role": "木と彩色による点・線と天体の図式",
+        "reading_intro": {
+          "heading": "点と線で、天体も表す。",
+          "lead": [
+            "木に色をつけてつくった作品です。",
+            "美術館は、地域のウリという描き方と、星などの天体を表す図の両方を読み取っています。",
+            "一つの作品に、違う学びが組み合わされています。"
+          ]
+        }
       },
       {
         "title": "Dress",
@@ -6916,7 +7673,15 @@
           "construction": "折った一枚の布による衣服",
           "date_note": "所蔵番号中の2020を制作年としない。概年代を確定年へ置き換えない。"
         },
-        "selection_role": "衣服の構造・手描き模様・身体との関係"
+        "selection_role": "衣服の構造・手描き模様・身体との関係",
+        "reading_intro": {
+          "heading": "服の前とうしろに、手で模様を描く。",
+          "lead": [
+            "綿の布でつくった、ゆったりした服です。",
+            "地域のウリという表現から学んだ模様を、手で描いています。",
+            "体に直接描くのとは違い、服の形と模様を組み合わせています。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -6930,7 +7695,21 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "受けついだ線や模様を、紙や服にも。",
+      "lead": [
+        "ナイジェリアのイボ語を話す地域では、女性たちが壁や体に模様を描いてきました。",
+        "この表現は、ウリと呼ばれます。",
+        "ヌスカで学び、つくる人たちは、地域に伝わる描き方からも学びました。",
+        "ここで紹介する作品では、線や点、模様が、紙や木、服に使われています。",
+        "地域の女性たちの仕事と、これらの作品は、それぞれ分けて見ます。"
+      ],
+      "looking_questions": [
+        "紙や木の作品を見るなら、点と線は、どこで集まり、どこで離れているでしょう。",
+        "服の作品を見るなら、前とうしろで、模様の置き方はどう違うでしょう。"
+      ]
+    }
   },
   {
     "name": "Hurufiyya",
@@ -7136,7 +7915,14 @@
           "原作品と複製画像の利用条件を別々に確認する。"
         ],
         "visual_inspection_status": "実画像未実見。保持されたQMの解説に基づく。",
-        "selection_role": "イラクの形成に関わった女性作家の後年の文字実験"
+        "selection_role": "イラクの形成に関わった女性作家の後年の文字実験",
+        "reading_intro": {
+          "heading": "一つの文字を、絵の形として考える。",
+          "lead": [
+            "アラビア文字の一つを取り上げた作品です。",
+            "文字を読んで意味を知るだけでなく、その形や動きで絵をつくる例です。"
+          ]
+        }
       },
       {
         "title": "Hurufiyya",
@@ -7165,7 +7951,15 @@
           "原作品と複製画像の商用条件を別々に確認する。"
         ],
         "visual_inspection_status": "実画像未実見。親が通読したMathaf伝記の保持根拠に基づく。",
-        "selection_role": "カタールでの後年の絵画的な文字表現"
+        "selection_role": "カタールでの後年の絵画的な文字表現",
+        "reading_intro": {
+          "heading": "文字で絵をつくる仕事を知る。",
+          "lead": [
+            "この作家は、文字を絵のように使う仕事をしました。",
+            "美術館は、その仕事を紹介する中で、この作品を取り上げています。",
+            "カタールでの、後の時代の広がりを知る手がかりです。"
+          ]
+        }
       },
       {
         "title": "Letter Dad",
@@ -7194,7 +7988,15 @@
           "原作と写真・複製画像の商用条件を別々に確認する。"
         ],
         "visual_inspection_status": "実画像未実見。親が通読したMathaf伝記の保持根拠に基づく。",
-        "selection_role": "シリアでの1964年以降の活動期に属する文字主題の絵画"
+        "selection_role": "シリアでの1964年以降の活動期に属する文字主題の絵画",
+        "reading_intro": {
+          "heading": "文字から、絵をつくる。",
+          "lead": [
+            "アラビア文字の一つ、ダードを題名にした作品です。",
+            "シリアで、文字を絵に取り入れる仕事を考える候補です。",
+            "ほかの地域の作家と、取り組み方を比べます。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -7210,7 +8012,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "文字を読む。その前に、形を見てみる。",
+      "lead": [
+        "言葉を伝える文字を、絵の形として使ったらどうなるでしょう。",
+        "フルフィーヤでは、アラビア文字の形や動きを使って、作品をつくりました。",
+        "アラビア文字は、アラビア語などを書くときに使う文字です。",
+        "作家によって取り組み方は違い、いくつもの地域で広がりました。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、文字の線は、どんな向きに伸びているでしょう。",
+        "文字の集まった所と、何もない所は、どのように組み合わされているでしょう。"
+      ]
+    }
   },
   {
     "name": "Flat design",
@@ -7560,7 +8375,14 @@
         "identity_checks": [
           "2010年の画面と後年のガイドの画面を区別する。",
           "静止画像と更新・遷移時の状態を区別する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "アプリを開く前に、知らせる。",
+          "lead": [
+            "四角いタイルの中に、新しい情報が表示されます。",
+            "アプリを一つずつ開かなくても分かるようにした画面です。"
+          ]
+        }
       },
       {
         "title": "iOS 7 — Control Center",
@@ -7598,7 +8420,14 @@
         "identity_checks": [
           "発表・ベータ・9月の一般配信版を分ける。",
           "半透明、背景、操作中の状態を画像同定時に確認する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "下から指を動かすと、道具が出てくる。",
+          "lead": [
+            "画面の下から指を動かすと、操作のためのボタンがまとまって現れます。",
+            "半透明の部分や重なりも、何が起きたかを伝えています。"
+          ]
+        }
       },
       {
         "title": "Apple website — homepage navigation observed in 2015",
@@ -7636,7 +8465,15 @@
         "identity_checks": [
           "NNGの比較図が示す版・範囲と正規ページを照合する。",
           "NNGの比較画像とAppleのUI双方の権利を確認する。"
-        ]
+        ],
+        "reading_intro": {
+          "heading": "どこを押せるか、見つけられる？",
+          "lead": [
+            "Appleのウェブサイトで、移動先を知らせる部分を比べた記録です。",
+            "調べた2015年の案内には、影や光った見た目を使っていないと記されています。",
+            "それでも押せる場所が分かるか、考える手がかりになります。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -7650,7 +8487,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "すっきりした画面は、使いやすい？",
+      "lead": [
+        "画面のボタンが、本物の立体のように見えることがあります。",
+        "フラットデザインは、そうした立体らしさや、ぴかぴかした見た目を減らす方法です。",
+        "でも、すっきりさせるだけで使いやすくなるとは限りません。",
+        "どこを押せるのか、押すと何が変わるのかも、分かるようにする必要があります。"
+      ],
+      "looking_questions": [
+        "画面を見るなら、押せる場所と押せない場所を見分けられますか。",
+        "ボタンを押したあと、何が変わったか分かりますか。"
+      ]
+    }
   },
   {
     "name": "AfriCOBRA",
@@ -7814,7 +8664,14 @@
         "work_rights": "未確認",
         "reproduction_rights": "個別写真・複製の商用許諾未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "人々に、一緒に働こうと呼びかける。",
+          "lead": [
+            "地域の人々に向けた作品です。",
+            "協力することを呼びかけ、自分たちの文化を前向きに表しています。"
+          ]
+        }
       },
       {
         "title": "Victory in Zimbabwe",
@@ -7827,7 +8684,15 @@
         "work_rights": "©2018 Estate of Jeff Donaldson",
         "reproduction_rights": "個別写真・複製の商用許諾未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "段ボールの、波のような形も使う。",
+          "lead": [
+            "段ボールを切り、色を付けてつくった作品です。",
+            "表面の波のようなでこぼこも隠さず使っています。",
+            "絵の具の色だけでなく、土台にも注目したい作品です。"
+          ]
+        }
       },
       {
         "title": "Ebony Family",
@@ -7840,7 +8705,14 @@
         "work_rights": "©artist or artist’s estate",
         "reproduction_rights": "個別写真・複製の商用許諾未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "家族を表す、着られる作品。",
+          "lead": [
+            "黒人の家族や文化を、明るい色で表した服です。",
+            "展示するだけでなく、日常で着ることにもつながっています。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -7854,7 +8726,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "自分たちの暮らしを、自分たちの色で。",
+      "lead": [
+        "アフリコブラは、黒人の人々の暮らしや考えを、自分たちで表そうとした集まりです。",
+        "絵や版画だけでなく、服もつくりました。",
+        "明るい色や文字を使い、地域の人たちへ届けようとしました。",
+        "ただし、みんなが同じ決まりでつくったわけではありません。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、文字と人の姿はどこで重なっていますか。",
+        "絵の具だけでなく、布や紙の表面にも目を向けてみましょう。"
+      ]
+    }
   },
   {
     "name": "Isotype",
@@ -8022,7 +8907,14 @@
         "work_rights": "個別権利未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "同じ絵を並べて、数を比べる。",
+          "lead": [
+            "仕事についていない人の数を伝える図です。",
+            "一つの絵がどのくらいの人数を表すか、説明と一緒に読みます。"
+          ]
+        }
       },
       {
         "title": "Fighting Tuberculosis — 導入チャート（What the Symbols mean）",
@@ -8035,7 +8927,14 @@
         "work_rights": "図1は論文のCC BY4.0対象外と明記",
         "reproduction_rights": "論文にはUniversity of Reading許諾による掲載との表示。本図鑑への許諾ではない",
         "commercial_use": "未許諾・掲載不可",
-        "image_adoption": "不採用（許諾未取得）"
+        "image_adoption": "不採用（許諾未取得）",
+        "reading_intro": {
+          "heading": "この印は、何を表している？",
+          "lead": [
+            "病気のようすを伝える記号と、その意味を説明するページです。",
+            "絵だけに任せず、言葉や専門家の知識も使って伝えています。"
+          ]
+        }
       },
       {
         "title": "The first great inventions — 農村を変えた発明の見開き",
@@ -8048,7 +8947,14 @@
         "work_rights": "個別権利未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "農村の仕事を変えた発明。",
+          "lead": [
+            "道具や機械を動かす力を、何から得てきたかを比べるページです。",
+            "数だけでなく、道具や技術の変化も図で伝えています。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -8063,7 +8969,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "同じ絵を並べると、数が見えてくる。",
+      "lead": [
+        "数字がたくさん並ぶと、比べるのが難しいことがあります。",
+        "アイソタイプでは、同じ小さな絵を並べて、数の違いを伝えました。",
+        "何を一つの絵で表すか、どの順番で見せるかも考えています。",
+        "子どもの本では、科学や歴史を伝えるためにも使われました。"
+      ],
+      "looking_questions": [
+        "数を表す図を見るなら、一つの絵はいくつ分を表していますか。",
+        "一つの絵が表す数は、どの列でも同じですか。"
+      ]
+    }
   },
   {
     "name": "Australian Indigenous contemporary design",
@@ -8220,7 +9139,14 @@
         "work_rights": "作者権利あり・個別許諾未取得",
         "reproduction_rights": "撮影・複製の商用許諾未取得",
         "commercial_use": "未許諾・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "絵を、身に着ける服へ。",
+          "lead": [
+            "絵をかいた人と、服を考える人が協力しました。",
+            "誰が絵をかき、誰が服にしたのか、二人の仕事を分けて見ます。"
+          ]
+        }
       },
       {
         "title": "Ngumu Janka Warnti (All made from rubbish), high-back chair",
@@ -8233,7 +9159,14 @@
         "work_rights": "作者権利あり・個別許諾未取得",
         "reproduction_rights": "撮影・複製の商用許諾未取得",
         "commercial_use": "未許諾・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "捨てられた網を、いすの材料に。",
+          "lead": [
+            "アルミニウムの網と、馬に乗る道具に使う革からつくられました。",
+            "つくり手たちは、長い時間をかけて話し合い、形を考えました。"
+          ]
+        }
       },
       {
         "title": "Gepi cabinet",
@@ -8246,7 +9179,14 @@
         "work_rights": "作者権利あり・個別許諾未取得",
         "reproduction_rights": "撮影・複製の商用許諾未取得",
         "commercial_use": "未許諾・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "竹の部品から、魚の話へ。",
+          "lead": [
+            "魚のうろこのような竹の部品を使う家具です。",
+            "Merという土地の魚や海との関わりを、複数の人が一緒に表しました。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -8260,7 +9200,21 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "この服やいすには、誰の話がある？",
+      "lead": [
+        "オーストラリアには、先住民の人々がつくる服や家具、アクセサリーがあります。",
+        "土地や暮らしに伝わる話を、いまの物づくりへつなぐ人たちがいます。",
+        "このページでは、いくつかの作品を見ていきます。",
+        "同じ国に住んでいても、文化やつくり手はさまざまです。",
+        "一つの模様を、すべての人々に共通する印とは考えません。"
+      ],
+      "looking_questions": [
+        "作品の記録を見るなら、絵をかいた人と、服にした人は誰でしょう。",
+        "竹や布などの材料は、その作品の土地や暮らしとどう関わっていますか。"
+      ]
+    }
   },
   {
     "name": "民藝運動",
@@ -8508,7 +9462,14 @@
         "work_rights": "個別原作品の商用利用条件未確認",
         "reproduction_rights": "写真・複製の許諾未取得",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "器の上を、土の線が走る。",
+          "lead": [
+            "器の表面に、どろどろにした土で線をかいています。",
+            "18世紀につくられた品で、民藝運動が始まるよりも前のものです。"
+          ]
+        }
       },
       {
         "title": "地掛鉄絵黍文茶碗",
@@ -8521,7 +9482,14 @@
         "work_rights": "個別原作品の商用利用条件未確認",
         "reproduction_rights": "写真・複製の許諾未取得",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "毎日使う茶わんに、植物の模様。",
+          "lead": [
+            "穀物のキビを模様にした茶わんです。",
+            "どんな土や、表面をおおう材料を使ったかも、見た目につながっています。"
+          ]
+        }
       },
       {
         "title": "伊曽保物語屏風",
@@ -8534,7 +9502,15 @@
         "work_rights": "個別原作品の商用利用条件未確認",
         "reproduction_rights": "写真・複製の許諾未取得",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "お話を、部屋に立てる道具へ。",
+          "lead": [
+            "部屋に立てて使う屏風に、絹の布を使いました。",
+            "型紙を使って模様を染めています。",
+            "民藝で見つめた品は、器だけではありません。"
+          ]
+        }
       },
       {
         "title": "雑誌『工藝』第1号・石皿特集",
@@ -8547,7 +9523,14 @@
         "work_rights": "個別原作品の商用利用条件未確認",
         "reproduction_rights": "写真・複製の許諾未取得",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留"
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "暮らしの品を伝える本にも、工夫を。",
+          "lead": [
+            "品物を紹介するだけでなく、本そのもののつくり方も大切にしました。",
+            "最初の12号は、型紙を使って染めた表紙です。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -8562,7 +9545,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "毎日使う器にも、見つけたい美しさがある。",
+      "lead": [
+        "ごはんを食べる茶わんや、暮らしに使う布。",
+        "ふだん見過ごしている物にも、美しさがあるのではないでしょうか。",
+        "民藝運動は、こうした身近な品に目を向け、集めたり使ったりして、そのよさを伝えた活動です。",
+        "昔の職人がつくった物と、活動に加わった作家が新しくつくった物の両方を見ていきます。"
+      ],
+      "looking_questions": [
+        "器を見るなら、手に持つところや口がふれるところは、どんな形ですか。",
+        "布や器の色は、何の材料から生まれているのでしょう。"
+      ]
+    }
   },
   {
     "name": "Vienna Secession",
@@ -8795,7 +9791,15 @@
         "image_adoption": "掲載済み",
         "work_rights": "Original artwork public domain; individual Wien Museum CC0 designation",
         "reproduction_rights": "Individual image CC0, explicit commercial-use download terms",
-        "commercial_use": "CC0"
+        "commercial_use": "CC0",
+        "reading_intro": {
+          "heading": "何もない黄色の場所が、目を引く。",
+          "lead": [
+            "まんなかには、何もかかれていない黄色い場所が広がっています。",
+            "その右には人物、下には文字が集まっています。",
+            "全部を絵でうめない見せ方もあるのですね。"
+          ]
+        }
       },
       {
         "title": "第13回分離派展のポスター",
@@ -8806,7 +9810,15 @@
         "image_adoption": "掲載済み",
         "work_rights": "Original artwork public domain; individual Wien Museum CC0 designation",
         "reproduction_rights": "Individual image CC0, explicit commercial-use download terms",
-        "commercial_use": "CC0"
+        "commercial_use": "CC0",
+        "reading_intro": {
+          "heading": "人の姿にも、丸や四角。",
+          "lead": [
+            "三人の青い髪に、大きな丸い形が使われています。",
+            "服の模様や下のます目には、四角や三角があります。",
+            "人や文字が、同じ形でつながって見えます。"
+          ]
+        }
       },
       {
         "title": "ウィーン分離派会館",
@@ -8817,7 +9829,15 @@
         "image_adoption": "掲載済み",
         "work_rights": "Architecture and permanent publicly visible decorative works: Austrian UrhG §54(1)(5); Olbrich died1908. See separate building evidence.",
         "reproduction_rights": "Photographer own-work CC BY-SA4.0; attribution, licence and changes retained; image derivatives remain CC BY-SA4.0.",
-        "commercial_use": "CC BY-SA 4.0"
+        "commercial_use": "CC BY-SA 4.0",
+        "reading_intro": {
+          "heading": "白い壁の上に、金色の葉。",
+          "lead": [
+            "白い壁の上に、金色の葉を集めた丸い飾りがあります。",
+            "作品を見せる場所も、自分たちで建てました。",
+            "この写真は2024年のもので、建物ができた1898年の写真ではありません。"
+          ]
+        }
       },
       {
         "work_rights": "原作品の個別・地域別確認未完",
@@ -8830,7 +9850,14 @@
         "domain": "団体の雑誌・共同編集",
         "reason": "展示だけでなく、出版によって作品や考えを伝えた例です。複数の寄稿者の仕事と、図像や文字の関係を、一冊の号ごとに見る候補です。",
         "limitation": "団体アーカイブVS 1 - 4にある、28.5×30×0.4cmの特別号です。Gerlach & Schenkが出版し、Philipp & Kramerが印刷しました。通常の第1号の表紙と混同せず、Moser一人による設計とも記しません。掲載する具体的な見開きと、画像の権利は未確認です。",
-        "evidence": "https://secession.at/en/digital_archive/6581"
+        "evidence": "https://secession.at/en/digital_archive/6581",
+        "reading_intro": {
+          "heading": "作品や考えを、一冊の雑誌で届ける。",
+          "lead": [
+            "複数の人が絵や文章などを持ち寄った雑誌です。",
+            "ページの中で、文字と絵がどう並ぶかにも注目できます。"
+          ]
+        }
       },
       {
         "title": "Beethoven Frieze（第14回分離派展のための壁面連作）",
@@ -8843,7 +9870,15 @@
         "work_rights": "個別・地域別の確認未完",
         "reproduction_rights": "現代写真はJorit Aust、歴史写真は団体Archive表記。商用許諾未取得。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "壁の絵と、向こうに見える彫刻。",
+          "lead": [
+            "1902年の会場では、左側に、クリムトがかいた壁の絵がありました。",
+            "壁の開いたところからは、クリンガーのベートーヴェン像が見えました。",
+            "別々の作品を、一つの部屋でどう見せるかも考えられています。"
+          ]
+        }
       },
       {
         "title": "家具《豊かな漁獲（ぎょかく）》",
@@ -8851,7 +9886,15 @@
         "date": "1900年",
         "reason": "魚の模様をつけた戸棚です。1900年の第8回分離派展に出されました。展覧会には、絵だけでなく暮らしで使う家具もあったのです。",
         "limitation": "MAK H1700。写真の商用利用条件は未確認のため、ここには載せず所蔵館の作品ページへ案内します。",
-        "evidence": "https://sammlung.mak.at/de/collect/der-reiche-fischzug_184942"
+        "evidence": "https://sammlung.mak.at/de/collect/der-reiche-fischzug_184942",
+        "reading_intro": {
+          "heading": "絵だけでなく、家具も見せた。",
+          "lead": [
+            "魚の模様が付いた戸棚です。",
+            "1900年の第8回分離派展に出されました。",
+            "暮らしに使う家具も、作品として人に見せていたのです。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -9136,6 +10179,20 @@
       "representative_count": 3,
       "status": "初期3点セット：建築1・展覧会ポスター2を実見し、団体の活動との関係と画像条件を確認",
       "additional_roles": "工芸・雑誌・壁画は一次資料リンク。画像の未掲載を完成扱いにしない。"
+    },
+    "reading_intro": {
+      "heading": "作品を見せる場所から、自分たちでつくる。",
+      "lead": [
+        "絵をかいても、人に見てもらう場所が必要です。",
+        "1897年、ウィーンのクリムトたちは、それまで入っていた美術の団体をはなれました。",
+        "そして、自分たちで作品を見せるための団体をつくりました。",
+        "これが「ウィーン分離派」です。",
+        "建物やポスター、雑誌もつくり、作品を人々に届けました。"
+      ],
+      "looking_questions": [
+        "会館の写真で、屋根の丸い飾りと、その下の白い壁を見比べてみましょう。",
+        "ポスターの文字は、どこに集まっていますか。何もかいていない場所も探してみましょう。"
+      ]
     }
   },
   {
@@ -9352,7 +10409,14 @@
         "work_rights": "個別・地域別確認未完",
         "reproduction_rights": "Frankfurt所蔵17619の画像・写真の利用条件は未確認。Ulmの別写真の権利表記を転用しない。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "少ない部品で、何に使える？",
+          "lead": [
+            "少ない木の部品をつないだ、学校生活のための道具です。",
+            "形だけでなく、いくつもの使い方を考えてつくられました。"
+          ]
+        }
       },
       {
         "title": "TC 100",
@@ -9365,7 +10429,14 @@
         "work_rights": "個別・地域別確認未完",
         "reproduction_rights": "MoMA 2284.2001.1–11の個別ページは画像なし。HfG MS148の写真とは別記録で、商用許諾未確認。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "食器を重ねて、しまいやすくする。",
+          "lead": [
+            "食堂で使うことを考えた食器です。",
+            "一つずつの形だけでなく、組み合わせ方や、積み重ねてしまうことも考えています。"
+          ]
+        }
       },
       {
         "title": "Radio-Phonograph（model SK 4/10）",
@@ -9378,7 +10449,15 @@
         "work_rights": "個別・地域別確認未完",
         "reproduction_rights": "当該作品画像の商用許諾未確認。展示写真の利用許諾案内を個体写真の許可と混同しない。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "白い箱に、透明なふた。",
+          "lead": [
+            "音楽を聞くための家庭用の機械です。",
+            "白い金属、木、透明なふたを組み合わせています。",
+            "学校と会社が協力してつくりました。"
+          ]
+        }
       },
       {
         "title": "Lufthansa の視覚的な統一計画・規範マニュアル",
@@ -9391,7 +10470,14 @@
         "work_rights": "個別・地域別確認未完",
         "reproduction_rights": "HfG-Archiv / Museum Ulm、Deutsche Lufthansa AGの表記。商用許諾未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "会社の印を、一か所だけで終わらせない。",
+          "lead": [
+            "航空会社の印刷物などに、共通の決まりをつくる仕事です。",
+            "すでに使われていた物を調べてから、文字や色などをそろえていきました。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -9405,7 +10491,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "一つずつの形から、組み合わせ方まで。",
+      "lead": [
+        "ウルム造形大学は、戦後のドイツにできた学校です。",
+        "いすや食器など、毎日使う物のつくり方を考えました。",
+        "一つの形を整えるだけでなく、いくつもの物をどうそろえるかも考えています。",
+        "会社の文字や色を、いろいろな場所で同じ決まりで使う仕事もありました。"
+      ],
+      "looking_questions": [
+        "いすを見るなら、持ち運ぶとき、どこに手をかけられそうですか。",
+        "同じ会社の印刷物を比べるなら、文字や色に共通する決まりはありますか。"
+      ]
+    }
   },
   {
     "name": "Suprematism",
@@ -9596,7 +10695,14 @@
         "domain": "絵画・運動の象徴",
         "reason": "自然の姿を写すことから離れ、図形でつくった絵画が、運動の象徴となった例です。「0.10」展と、考え方を公表したことを結びつけて見ます。",
         "limitation": "館が1915年作とする作品を候補にしています。作者が1929年に作った別の版、今のグッズ、展覧会の写真とは区別します。この個体の登録番号と、画像を使う条件は未確認です。",
-        "evidence": "https://www.tretyakovgallery.ru/events/o/seminar-chernyy-suprematicheskiy-kvadrat/"
+        "evidence": "https://www.tretyakovgallery.ru/events/o/seminar-chernyy-suprematicheskiy-kvadrat/",
+        "reading_intro": {
+          "heading": "黒い四角を、絵にする。",
+          "lead": [
+            "自然の景色を写すのではなく、図形そのものを見せる作品です。",
+            "新しい絵の考え方を知らせる、大切な一枚になりました。"
+          ]
+        }
       },
       {
         "work_rights": "原作品の個別・地域別確認未完",
@@ -9609,7 +10715,14 @@
         "domain": "絵画・白と空間",
         "reason": "強い原色がなくても、傾き、中心からのずれ、白の違いで形の関係が生まれます。筆の跡や、均一ではない輪郭から、絵具で描かれた物としての特徴を見ます。",
         "limitation": "MoMA 817.1935。油絵具とカンヴァスを使い、79.4×79.4cmです。館が説明する所蔵の歴史や、1999年の遺産管理者との合意は、画像を使う許可ではありません。",
-        "evidence": "https://www.moma.org/collection/works/80385?sov_referrer=theme"
+        "evidence": "https://www.moma.org/collection/works/80385?sov_referrer=theme",
+        "reading_intro": {
+          "heading": "白と白でも、形が見える。",
+          "lead": [
+            "白い形と、そのまわりの白には違いがあります。",
+            "傾きや位置のずれ、絵の具のあとにも注目したい作品です。"
+          ]
+        }
       },
       {
         "work_rights": "原作品の個別・地域別確認未完",
@@ -9622,7 +10735,14 @@
         "domain": "書物・理論と教育",
         "reason": "絵画を一つずつ見せるだけでなく、図と文章で、基本の形や組み合わせ方を共有する例です。美術館は、理論と見た目の両方を学ぶ教材として説明しています。",
         "limitation": "MoMA82.2001。各ページは21.8×18cmです。題名は34 Drawingsですが、表紙を含む挿図は35点あります。印刷者は「おそらく」とされているので、断定しません。掲載する具体的なページや見開きと、権利は未確認です。",
-        "evidence": "https://www.moma.org/collection/works/11073"
+        "evidence": "https://www.moma.org/collection/works/11073",
+        "reading_intro": {
+          "heading": "形の考え方を、図と文章で伝える。",
+          "lead": [
+            "絵を見せるだけでなく、図と文章で考え方を伝える本です。",
+            "基本の形や、その組み合わせ方を学ぶためにも使われました。"
+          ]
+        }
       },
       {
         "work_rights": "原作品の個別・地域別確認未完",
@@ -9635,7 +10755,14 @@
         "domain": "レリーフ・実際の空間",
         "reason": "曲面や交差する部材が、実際に手前へ出ています。平面に奥行きがあるように見せる方法との違いに注目です。この運動を平らな絵だけで説明しないための候補です。",
         "limitation": "MoMA1060.1983。色を塗った木、金属、厚紙を、木製パネルに取り付けています。50.8×39.3×7.6cmです。1915年当時の原作そのものではなく、1920年代の再制作として表示します。",
-        "evidence": "https://www.moma.org/collection/works/80522?art_term_slug=suprematism&sov_referrer=art_term"
+        "evidence": "https://www.moma.org/collection/works/80522?art_term_slug=suprematism&sov_referrer=art_term",
+        "reading_intro": {
+          "heading": "平らな面から、形がせり出す。",
+          "lead": [
+            "曲がった面や、交差する部品が、実際に手前へ出ています。",
+            "平らな絵に奥行きをかくのとは、違うつくり方です。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -9649,7 +10776,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "何の絵だろう、と決めなくてもいい。",
+      "lead": [
+        "四角や線が、画面の中に浮かんでいます。",
+        "シュプレマティスムは、風景や人をそのままかくことからはなれ、色や形の関係を探った活動です。",
+        "何がかかれているかだけでなく、形がどちらへ傾き、どのくらい離れているかを見ます。",
+        "白い絵の中にも、白の違いや、絵の具のぬり方の違いがあります。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、形はまっすぐ置かれていますか。それとも傾いていますか。",
+        "形のまわりに何もかかれていない場所は、どのくらいありますか。"
+      ]
+    }
   },
   {
     "name": "創作版画",
@@ -9907,7 +11047,14 @@
         "work_rights": "1904年作品、作者1946年没。個別PD画像表示と分離して記録。現存する摺りの時期は制作年欄のみから断定しない。",
         "reproduction_rights": "個別画像JP199100056000_000000_001にPublic Domain。掲載規約は営利非営利の複製再配布を許可、所蔵者表示と改変表示を求め、第三者権利留保あり。",
         "commercial_use": "館の個別PDMと営利・非営利利用方針を確認。所蔵者と変更を表示。",
-        "image_adoption": "正規画像取得・実画素確認・掲載済み。1作品として算入。"
+        "image_adoption": "正規画像取得・実画素確認・掲載済み。1作品として算入。",
+        "reading_intro": {
+          "heading": "細い白黒の線で、人を表す。",
+          "lead": [
+            "《漁夫》は、魚をとる人を表した版画です。",
+            "自分で考え、自分でつくる版画の、大切な出発点として紹介されています。"
+          ]
+        }
       },
       {
         "title": "抒情 あかるい時（公刊『月映』Vより）",
@@ -9920,7 +11067,14 @@
         "work_rights": "1915年の木版作品、作者1955年没。個別PD表示。公刊月映Vの所蔵個体。後摺り・版数や印刷担当者は記録から推測しない。",
         "reproduction_rights": "当該画像JP199100038067_000000_001のPublic Domain Mark 1.0を正規ブラウザ画面で確認。館の営利非営利再配布方針、所蔵者表示・改変表示・第三者権利留保を記録。",
         "commercial_use": "館の個別PDMと営利・非営利利用方針を確認。所蔵者と変更を表示。",
-        "image_adoption": "正規画像取得・実画素確認・掲載済み。1作品として算入。"
+        "image_adoption": "正規画像取得・実画素確認・掲載済み。1作品として算入。",
+        "reading_intro": {
+          "heading": "色や形で、気持ちを表す。",
+          "lead": [
+            "人や景色の姿をそのまま写すのではなく、心の中の気持ちを色と形で表しています。",
+            "『月映』という冊子で発表された作品です。"
+          ]
+        }
       },
       {
         "title": "松江大橋吹雪の夜（『画集風景版画』より）",
@@ -9933,7 +11087,14 @@
         "work_rights": "個別・地域別確認未完",
         "reproduction_rights": "館の画像利用方針はWebも事前相談・申請・許可が必要。未申請・未許諾。",
         "commercial_use": "一般の商用自由利用条件は確認できず、画像掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "橋を見下ろす、吹雪の夜。",
+          "lead": [
+            "上から橋を見下ろすようにかかれた版画です。",
+            "石の版を使い、吹雪の夜の空気をやわらかく伝えています。"
+          ]
+        }
       },
       {
         "title": "病める夕 『月映』I",
@@ -9946,7 +11107,14 @@
         "work_rights": "1913年の木版作品。個別Public Domain表示。作者1915年没。所蔵個体の摺り年・印刷担当を推測しない。",
         "reproduction_rights": "当該画像JP199100038004_000000_001にPublic Domain Mark 1.0。撮影者未記載。館の商用・非商用再配布方針、所蔵者表示・改変表示・第三者権利留保を別記録。",
         "commercial_use": "個別PDM・館の営利非営利利用方針を確認。所蔵者と変更を表示。",
-        "image_adoption": "正規画像取得・実見・掲載済み。"
+        "image_adoption": "正規画像取得・実見・掲載済み。",
+        "reading_intro": {
+          "heading": "曲がる線が、風景に広がる。",
+          "lead": [
+            "詩と版画を載せた『月映』に関わる作品です。",
+            "田中恭吉が、曲がった線を使って風景を表しました。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -10249,7 +11417,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "自分でかき、彫り、紙に写す。",
+      "lead": [
+        "版画は、板などにつくった形を、紙に写してつくる絵です。",
+        "絵をかく人、板を彫る人、紙に写す人で、仕事を分けるつくり方もあります。",
+        "創作版画では、作家が自分で考え、自分でつくることを大切にしました。",
+        "ただし、実際に誰がどの仕事をしたかは、一枚ずつ調べる必要があります。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、細い線と広い色の面は、どこに使われていますか。",
+        "作品の記録には、絵を考えた年と、紙に写した年の両方がありますか。"
+      ]
+    }
   },
   {
     "name": "Futurism",
@@ -10411,7 +11592,14 @@
         "work_rights": "個別Public Domain表示。原型1913年／所蔵個体は1950年の死後鋳造。",
         "reproduction_rights": "当該画像のOpen Access指定（CC0）を確認。写真の撮影者名は未確認。",
         "commercial_use": "Met Open Access CC0、商用・非商用利用可",
-        "image_adoption": "取得・掲載済み。同一作品1点として数える。"
+        "image_adoption": "取得・掲載済み。同一作品1点として数える。",
+        "reading_intro": {
+          "heading": "動く体を、一つの形にする。",
+          "lead": [
+            "動く体と、その周りの空間を結び付けてつくった彫刻です。",
+            "動かない形で、どう動きを伝えるかを考えられます。"
+          ]
+        }
       },
       {
         "title": "Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà",
@@ -10424,7 +11612,14 @@
         "work_rights": "個別ページにMarinetti／ARS／SIAEの著作権表示",
         "reproduction_rights": "MoMAはArt Resource／Scalaへの画像利用照会を案内",
         "commercial_use": "許可未取得・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "言葉を読む。音や並び方も感じる。",
+          "lead": [
+            "文字の意味だけでなく、音やページの中の置き方も使っています。",
+            "機械を使う戦争の経験を扱った本なので、自由な文字の並べ方だけでなく、何を伝えるかも大切です。"
+          ]
+        }
       },
       {
         "title": "Depero’s Futurist Waistcoat — 未来派の胴着",
@@ -10437,7 +11632,14 @@
         "work_rights": "教材にARS／SIAE表示",
         "reproduction_rights": "写真Vittorio Calore。教材は教育用途のみで商用不可",
         "commercial_use": "条件不適合・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "新しい表現を、服にして着る。",
+          "lead": [
+            "布を使ってつくられた、身に着ける品です。",
+            "未来派の試みが、絵だけでなく、暮らしの中にも広がったことが分かります。"
+          ]
+        }
       },
       {
         "title": "Synthesis of Aerial Communications — 航空通信の総合",
@@ -10450,7 +11652,14 @@
         "work_rights": "教材は権利者からの許諾による掲載と明記",
         "reproduction_rights": "写真AGR／Riccardi／Paoloni。教材の許諾は本図鑑へ移転しない",
         "commercial_use": "条件不適合・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "空からの眺めを、建物に飾る絵へ。",
+          "lead": [
+            "空の上から見ることをテーマにした、建物に飾る絵の一部です。",
+            "未来派には、初めのころの彫刻とは違う仕事もありました。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -10571,7 +11780,21 @@
     "supplemental_explainer_count": 0,
     "has_generated_visual_material": false,
     "original_comparison_explainer_count": 1,
-    "has_visual_material": true
+    "has_visual_material": true,
+    "reading_intro": {
+      "heading": "速さを、動かない絵や彫刻にする。",
+      "lead": [
+        "走る機械や、にぎやかな都市。",
+        "未来派の人々は、新しい時代の速さを、絵や彫刻、文字などで表そうとしました。",
+        "服や部屋のつくり方にも、その考えを広げています。",
+        "一方で、戦争をたたえる考えもありました。",
+        "見た目の面白さとともに、何を主張した活動だったかも見ていきます。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、どの線や形から、動いている感じがするでしょう。",
+        "文字を見るなら、大きさや置き方から、音まで聞こえてきそうですか。"
+      ]
+    }
   },
   {
     "name": "Dada",
@@ -10818,7 +12041,14 @@
         "work_rights": "個別ページにARS／ADAGP／Duchamp Estateのcopyright表示",
         "reproduction_rights": "MoMAの図版について商用利用の許諾取得なし",
         "commercial_use": "未確認・未許諾のため画像掲載不可",
-        "image_adoption": "未採用・画像未取得"
+        "image_adoption": "未採用・画像未取得",
+        "reading_intro": {
+          "heading": "車輪と腰かけを、組み合わせる。",
+          "lead": [
+            "自転車の車輪と腰かけを組み合わせた作品です。",
+            "すでにある物を選ぶことも、作品づくりになるのでしょうか。"
+          ]
+        }
       },
       {
         "title": "Kleine Dada Soirée — 小さなダダの夕べ",
@@ -10831,7 +12061,14 @@
         "work_rights": "NGA individual record identifies public-domain media; historical1922 artwork by Doesburg1931/Schwitters1948 deceased. Different physical accession from MoMA178.1945.",
         "reproduction_rights": "Individual Download media explicitly free/public domain. NGA designated OA digital-image CC0 policy previously verified2026-10-31T22:55:05Z; exact policy source remains separately recorded.",
         "commercial_use": "NGAの当該PD媒体・CC0方針による商用非商用再利用可。MoMAの画像許諾とは別。",
-        "image_adoption": "NGA公式原画像を取得・実見・掲載済み。同一作品の別所蔵個体を二重計数しない。"
+        "image_adoption": "NGA公式原画像を取得・実見・掲載済み。同一作品の別所蔵個体を二重計数しない。",
+        "reading_intro": {
+          "heading": "音楽や詩の会へ、人を誘う。",
+          "lead": [
+            "音楽、詩、人前で話す催しを知らせるポスターです。",
+            "いくつもの言語が使われています。"
+          ]
+        }
       },
       {
         "title": "Head — 頭部",
@@ -10844,7 +12081,14 @@
         "work_rights": "個別ページにARS／VG Bild-Kunstのcopyright表示。没年のみで画像利用可と推断しない",
         "reproduction_rights": "MoMAの図版について商用利用の許諾取得なし",
         "commercial_use": "未確認・未許諾のため画像掲載不可",
-        "image_adoption": "未採用・画像未取得"
+        "image_adoption": "未採用・画像未取得",
+        "reading_intro": {
+          "heading": "木とビーズで、頭の形をつくる。",
+          "lead": [
+            "木を回しながら削る機械でつくった部品に、ビーズを組み合わせています。",
+            "ダダは、紙を切って貼る作品だけではありません。"
+          ]
+        }
       },
       {
         "title": "Indian Dancer: From an Ethnographic Museum",
@@ -10857,7 +12101,14 @@
         "work_rights": "個別ページにHannah Höch／ARS／VG Bild-Kunstのcopyright表示",
         "reproduction_rights": "MoMAの図版について商用利用の許諾取得なし",
         "commercial_use": "未確認・未許諾のため画像掲載不可",
-        "image_adoption": "未採用・画像未取得"
+        "image_adoption": "未採用・画像未取得",
+        "reading_intro": {
+          "heading": "印刷された姿を、切って組み直す。",
+          "lead": [
+            "印刷された絵などと、薄い金属を切って貼った作品です。",
+            "元からある物の見え方を、組み合わせによって変えています。"
+          ]
+        }
       },
       {
         "title": "Merz 3 Portfolio: Plate 1",
@@ -10870,7 +12121,14 @@
         "work_rights": "Museum individual Open Access designation for public-domain artwork; original1923 print, Schwitters died1948. Historical printed fragments transferred to lithographic stone; makers of those fragments are not individually identified. Do not extend museum declaration to modern reconstructions or independent fragment photographs; not a worldwide legal guarantee.",
         "reproduction_rights": "Individual API share_license_status CC0; exact institutional print JPEG, unnamed photographer.",
         "commercial_use": "当該CMA CC0画像は商用・非商用再利用可。",
-        "image_adoption": "正規画像取得・実見・掲載済み。"
+        "image_adoption": "正規画像取得・実見・掲載済み。",
+        "reading_intro": {
+          "heading": "紙の切れはしを、版画にする。",
+          "lead": [
+            "紙片の姿を、石の版へ移してつくった作品です。",
+            "すでに印刷された物を、もう一度組み直しています。"
+          ]
+        }
       },
       {
         "title": "Tête dada（ダダの頭）",
@@ -10883,7 +12141,14 @@
         "work_rights": "Exact PompidouAM2003-332 individual Domaine public declaration. Author1889–1943 verified from museum, not photographerdescription erroneous1883. NotMoMA253.2003 beadworkhead, notPompidou1918AM1692S.",
         "reproduction_rights": "Independent photograph byJean-Pierre Dalbéra, CC BY2.0 explicitly confirmed onCommons individualfile with sourceFlickr andlicense-reviewhistory. OriginalFlickr author/title/date/museumrecordlink checked. NotRMN institutionalphoto.",
         "commercial_use": "独立写真CC BY2.0。写真題名・作者・元ページ・ライセンスを表示、縮小/再符号化を明示。CC0ではない。",
-        "image_adoption": "正規原JPEG取得・実見・掲載済み。1作品として計数。"
+        "image_adoption": "正規原JPEG取得・実見・掲載済み。1作品として計数。",
+        "reading_intro": {
+          "heading": "頭の形に、DADAの文字。",
+          "lead": [
+            "木の頭に、色や図形を組み合わせています。",
+            "額には「DADA」と、つくられた年がかかれています。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -11254,7 +12519,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "これも、作品になるの？",
+      "lead": [
+        "店で売っている物を選ぶ。印刷された紙の切れはしを組み合わせる。",
+        "ダダの人々は、絵をかくだけではない方法で作品をつくりました。",
+        "言葉を使う催しや、手でつくる物もありました。",
+        "戦争が大きな被害をもたらす時代に、何を芸術と呼ぶのかを問い直した活動です。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、もともと何に使われていた物や文字があるでしょう。",
+        "それを別の物と並べると、意味や見え方はどう変わりますか。"
+      ]
+    }
   },
   {
     "name": "メタボリズム",
@@ -11436,7 +12714,14 @@
         "work_rights": "個別ページに© Bijutsu Shuppan-Sha Co., Ltd.と明記",
         "reproduction_rights": "M+掲載図版の商用再利用許諾は未確認。閲覧予約可能の表示は転載許可ではない。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "未来の町を、本で提案する。",
+          "lead": [
+            "どんな町をつくりたいか、言葉と図で伝えた本です。",
+            "実際に建った建物と、一緒に読む手がかりになります。"
+          ]
+        }
       },
       {
         "title": "海上都市1963",
@@ -11449,7 +12734,14 @@
         "work_rights": "未確認",
         "reproduction_rights": "当該掲載図版の商用許諾未確認",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "町を、海の上へ広げる案。",
+          "lead": [
+            "海の上へ町を広げることを考えた計画です。",
+            "実際にそのまま建った町を示すものではありません。"
+          ]
+        }
       },
       {
         "title": "中銀カプセルタワービルのカプセル A1305",
@@ -11462,7 +12754,14 @@
         "work_rights": "建築・設計作品の地域別利用条件未確認",
         "reproduction_rights": "MoMAの個別ページは画像利用についてArt Resource／Scalaへの申請を案内。商用許諾取得なし。展示室や別住戸の写真をA1305の原状写真としない。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "一つの住まいを、取り外せる形に。",
+          "lead": [
+            "建物を支える大きな骨組みに、一戸ずつの住まいを付ける考え方です。",
+            "取り外せるようにする案と、実際に使い続ける難しさの両方を考えられます。"
+          ]
+        }
       },
       {
         "title": "Golgi Structures, project",
@@ -11475,7 +12774,14 @@
         "work_rights": "建築構想・模型の地域別利用条件未確認",
         "reproduction_rights": "MoMA個別ページはArt Resource／Scalaの許諾窓口を案内。写真の商用許諾取得なし。",
         "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用"
+        "image_adoption": "未採用",
+        "reading_intro": {
+          "heading": "模型で、建物の案を伝える。",
+          "lead": [
+            "建物の考えを、立体の模型で表しています。",
+            "文章や平らな図では分かりにくい形も、伝えられます。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -11489,7 +12795,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "建物の一部を、取り替えられたら？",
+      "lead": [
+        "建物をつくったあとで、部屋をつなぎ足せたらどうでしょう。",
+        "メタボリズムは、建物や町を、あとからつなぎ足したり、取り替えたりできる仕組みとして考えた活動です。",
+        "日本で1960年に発表した提案が、大切な出発点になりました。",
+        "ただし、取り替えられるように考えたことと、実際に取り替えたことは別です。"
+      ],
+      "looking_questions": [
+        "計画の図を見るなら、どの部分を残し、どの部分を取り替える考えでしょう。",
+        "その計画のうち、実際に建ったのはどこまででしょう。"
+      ]
+    }
   },
   {
     "name": "Wiener Werkstätte",
@@ -11674,7 +12993,14 @@
         "domain": "金工・生活の器",
         "reason": "穴をあけて格子状にした器を、材料、用途、売り方の関係から見る例です。工房の金属製品には、銀だけでなく、白く塗った鉄板の物もありました。似た形でも、材料や価格は異なりました。",
         "limitation": "この個体は銀製で、5.4×16.4×16.4cmです。2017年は収蔵した年で、制作年ではありません。同館が説明する鉄板製の別製品や、模様の違う製品を、この個体の材料や状態と混同しません。画像はまだ実際に見ていません。",
-        "evidence": "https://onlinecollection.leopoldmuseum.org/en/object/5902-small-fruit-basket/"
+        "evidence": "https://onlinecollection.leopoldmuseum.org/en/object/5902-small-fruit-basket/",
+        "reading_intro": {
+          "heading": "穴の並びが、器の形になる。",
+          "lead": [
+            "金属の板に穴を開け、格子のようにした器です。",
+            "似た形でも、銀を使うか、白くぬった鉄を使うかで、値段も違いました。"
+          ]
+        }
       },
       {
         "work_rights": "個別・地域別の権利評価は未完",
@@ -11687,7 +13013,14 @@
         "domain": "室内装飾・壁紙・外部製造",
         "reason": "Pecheの自然をもとにした飾りを、創設者たちの図形を使った表現と比べる候補です。壁紙では、設計が物の表面から部屋全体へ広がります。工房の外の製造者との分担にも注目します。",
         "limitation": "MAKはModeldruck（版による印刷）と記録しています。工房の名前がついていても、内部の職人だけで製造したとは限りません。個々の模様の細部は、画像を実際に見てから説明します。",
-        "evidence": "https://www.mak.at/pechepop"
+        "evidence": "https://www.mak.at/pechepop",
+        "reading_intro": {
+          "heading": "自然の形を、部屋の壁いっぱいに。",
+          "lead": [
+            "自然をもとにした飾りを使う壁紙です。",
+            "工房の外で製造する人とも、仕事を分けてつくられました。"
+          ]
+        }
       },
       {
         "work_rights": "個別・地域別の権利評価は未完",
@@ -11700,7 +13033,14 @@
         "domain": "陶芸・人物彫刻",
         "reason": "金属の格子だけではわからない、二つの世界大戦の間の表情豊かな陶芸を示す候補です。MAKは、この作品が1928年にWWで作られたと明記しています。",
         "limitation": "赤い陶土に、複数の色の釉薬（ゆうやく）をかけています。取得した資料には、個体番号の記載がありません。米国へ移住した後の作品や、独立した工房の時期の暖炉と、同じ製造条件とは考えません。写真は©MAK/Georg Mayerで、未取得です。",
-        "evidence": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/MAKPressReleaseVallyWieselthier_2026-04-27_1604734.pdf"
+        "evidence": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/MAKPressReleaseVallyWieselthier_2026-04-27_1604734.pdf",
+        "reading_intro": {
+          "heading": "金属の器だけでなく、焼き物も。",
+          "lead": [
+            "1928年にウィーン工房でつくられた焼き物です。",
+            "初めのころの金属の格子とは違う表し方も、工房にはありました。"
+          ]
+        }
       },
       {
         "work_rights": "個別・地域別の権利評価は未完",
@@ -11713,7 +13053,14 @@
         "domain": "記念出版・グラフィックと装丁",
         "reason": "作品を並べるだけでなく、自分たちの活動を出版物にまとめる仕事を見ます。誌面と立体的な装丁（そうてい、本の外側の設計）を、それぞれ別の制作者の仕事として比べられます。",
         "limitation": "題名の1903〜1928は、取り上げた期間です。出版した1929年とは区別します。紹介された1ページだけで、本全体を一人の著作とは断定しません。装丁の材料は、写真説明で「陶土」に見える表現ではなく、材料欄のPapier-mâché（張り子）を採用しています。具体的な版・ページ・所蔵番号は、まだ照合していません。",
-        "evidence": "https://www.mak.at/programm/ausstellungen/die_frauen_der_wiener_werkstaette"
+        "evidence": "https://www.mak.at/programm/ausstellungen/die_frauen_der_wiener_werkstaette",
+        "reading_intro": {
+          "heading": "自分たちの仕事を、本にまとめる。",
+          "lead": [
+            "工房の活動をまとめた本です。",
+            "中のページと、外側のつくりでは、担当した人が違います。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -11727,7 +13074,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "器も、服も、部屋もつくる。",
+      "lead": [
+        "ウィーン工房は、暮らしのいろいろな物をつくった集まりです。",
+        "器や家具だけでなく、布や服、印刷物にも取り組みました。",
+        "形を考える人と、材料を使ってつくる職人の仕事を結び付けました。",
+        "四角い形が目立つ物もあれば、自然の形を生かした飾りの多い物もあります。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、同じ形はどこで繰り返されていますか。",
+        "金属の器と布の服では、飾りのつくり方がどう違いますか。"
+      ]
+    }
   },
   {
     "name": "Material Design",
@@ -11897,7 +13257,14 @@
         "domain": "設計指針・空間モデル",
         "reason": "面が手前か奥かを、影で伝えるための具体的な指針です。重なりや操作中の変化を見ると、飾りを減らすだけのフラットデザインとの違いがわかります。",
         "limitation": "基準となる高さと、入力に応じて変わる高さを区別します。保存された文書の図を、2014年の発表当日の図と断定しません。公式の図版は、まだ取得できていません。",
-        "evidence": "https://m1.material.io/material-design/elevation-shadows.html"
+        "evidence": "https://m1.material.io/material-design/elevation-shadows.html",
+        "reading_intro": {
+          "heading": "影で、手前と奥を伝える。",
+          "lead": [
+            "画面の中の面が、どちらが手前にあるかを、影で知らせます。",
+            "重なり方や、操作したときの変化も、使う人への手がかりになります。"
+          ]
+        }
       },
       {
         "creator": "Google",
@@ -11910,7 +13277,14 @@
         "domain": "コンポーネント・操作の優先順位",
         "reason": "丸いアイコンボタンを、主な操作と結びつける例です。形だけでなく、その部品が画面の中で何をするかも設計しています。",
         "limitation": "M1は通常、一つの画面に一個を勧めています。ただし、同じくらい重要な操作がある場合の例外も示しています。すべての画面に必須の部品ではありません。掲載例の実際の画像と動作は未確認です。",
-        "evidence": "https://m1.material.io/components/buttons-floating-action-button.html"
+        "evidence": "https://m1.material.io/components/buttons-floating-action-button.html",
+        "reading_intro": {
+          "heading": "主な操作を、丸いボタンに。",
+          "lead": [
+            "その画面の主な操作をするための、丸いボタンです。",
+            "丸い飾りを置くのではなく、何ができるボタンかを考えて使います。"
+          ]
+        }
       },
       {
         "creator": "Google",
@@ -11923,7 +13297,14 @@
         "domain": "アプリ・初期Materialの適用例",
         "reason": "公式発表が、Materialを採用したと明記する製品例です。新しいCompose（作成）操作、タッチしたときの反応、作業間の切り替えを見ます。一つの部品と、アプリ全体の関係を考えます。",
         "limitation": "4.0はHangoutsアプリの版で、Android OSの版ではありません。確認したのは、本文に書かれた設計の説明です。実際に画面を操作したり、アニメーションを見たりして評価したものではありません。",
-        "evidence": "https://blog.google/products-and-platforms/products/workspace/google-hangouts-now-simpler-faster-more/"
+        "evidence": "https://blog.google/products-and-platforms/products/workspace/google-hangouts-now-simpler-faster-more/",
+        "reading_intro": {
+          "heading": "新しくつくる操作を、分かりやすく。",
+          "lead": [
+            "2015年に変わったHangoutsの例です。",
+            "新しく内容をつくる操作や、指でふれたときの反応、作業の切り替わりを見ます。"
+          ]
+        }
       },
       {
         "creator": "Google",
@@ -11936,7 +13317,14 @@
         "domain": "アプリ・デザインシステムの改訂",
         "reason": "後に登場したMaterial 3を採用した例です。メール、チャット、会議などを切り替える情報のまとめ方を比べます。初期のM1の形を、そのまま固定して引き継ぐわけではないとわかります。",
         "limitation": "2014年の初版ではなく、2022年に実装された例です。現在のGmailの仕様や、提供されている状態を示すものではありません。図版の再利用の許可と、実際の画像の確認は未完了です。",
-        "evidence": "https://blog.google/products-and-platforms/products/gmail/gmail-design-update/"
+        "evidence": "https://blog.google/products-and-platforms/products/gmail/gmail-design-update/",
+        "reading_intro": {
+          "heading": "メール、チャット、会議を切り替える。",
+          "lead": [
+            "後の版であるMaterial Design 3を使ったGmailの例です。",
+            "同じ名前の決まりでも、初めの版から使い方や形が変わっています。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -11950,7 +13338,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "押したら動く。その動きで、伝える。",
+      "lead": [
+        "スマートフォンの画面で、ボタンを押すと、別の画面が開きます。",
+        "どこを押したか、何が変わったかが分かると、次の操作もしやすくなります。",
+        "マテリアル・デザインは、Googleが考えた、こうした画面づくりの決まりです。",
+        "色や文字だけでなく、影や、画面が切り替わるときの動きも使います。"
+      ],
+      "looking_questions": [
+        "実際の画面を見るなら、押せるボタンはどう目立たせていますか。",
+        "画面が切り替わるとき、何がどこへ動いたか追えますか。"
+      ]
+    }
   },
   {
     "name": "Rococo",
@@ -12139,7 +13540,14 @@
         "reproduction_rights": "公式CC0取得済み。既存manifest参照。",
         "commercial_use": "CMA CC0方針に基づき再利用可。既存receipt参照。",
         "image_adoption": "公式原画像を取得・実見・掲載済み。初期画像1点、3〜5点セットは未完成。",
-        "image_count_acquired": 1
+        "image_count_acquired": 1,
+        "reading_intro": {
+          "heading": "自然や食べ物の形で、器を飾る。",
+          "lead": [
+            "スープを入れる、台とふたの付いた器です。",
+            "自然の物や食べ物の形を、曲がる線の飾りへと変えています。"
+          ]
+        }
       },
       {
         "title": "The Toilette of Venus — ヴィーナスの化粧",
@@ -12156,7 +13564,14 @@
         "reproduction_rights": "未採用。公式本文の参照は画像の取得・転載許諾を意味しない。",
         "commercial_use": "未確認・本調査では画像掲載不可",
         "image_adoption": "未取得・未採用",
-        "image_count_acquired": 0
+        "image_count_acquired": 0,
+        "reading_intro": {
+          "heading": "部屋を飾った、ヴィーナスの絵。",
+          "lead": [
+            "ポンパドゥール夫人の城の壁を飾った絵です。",
+            "絵一枚だけでなく、どんな部屋に置かれたかも手がかりになります。"
+          ]
+        }
       },
       {
         "title": "The Swing — ぶらんこ",
@@ -12173,7 +13588,14 @@
         "reproduction_rights": "未採用。公式本文の参照は画像の取得・転載許諾を意味しない。",
         "commercial_use": "未確認・本調査では画像掲載不可",
         "image_adoption": "未取得・未採用",
-        "image_count_acquired": 0
+        "image_count_acquired": 0,
+        "reading_intro": {
+          "heading": "ぶらんこを描いた、小さな絵。",
+          "lead": [
+            "ぶらんこの場面をかいた、小さな絵です。",
+            "個人のための場所で楽しむ絵として、取り上げています。"
+          ]
+        }
       },
       {
         "title": "Basket — バスケット",
@@ -12190,7 +13612,14 @@
         "reproduction_rights": "未採用。公式本文の参照は画像の取得・転載許諾を意味しない。",
         "commercial_use": "未確認・本調査では画像掲載不可",
         "image_adoption": "未取得・未採用",
-        "image_count_acquired": 0
+        "image_count_acquired": 0,
+        "reading_intro": {
+          "heading": "イギリスでつくられた、かご。",
+          "lead": [
+            "ロココの飾り方が、イギリスの品物へ広がったことを考える例です。",
+            "ほかの器や家具と比べられます。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -12318,7 +13747,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "曲がる線が、器や家具を飾る。",
+      "lead": [
+        "貝がらや葉のような形が、家具や器に広がります。",
+        "ロココは、18世紀に広がった飾り方の一つです。",
+        "曲がる線を使い、左右を同じ形にそろえない例が見られます。",
+        "絵だけでなく、部屋や食卓に置く物にも目を向けてみましょう。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、CやSの字のように曲がる線を見つけられますか。",
+        "銀の器と絵の中では、明るさや光り方がどう違いますか。"
+      ]
+    }
   },
   {
     "name": "Neoclassicism",
@@ -12536,7 +13978,14 @@
         "reproduction_rights": "公式CC0取得済み。既存manifest参照。",
         "commercial_use": "CMA CC0方針に基づき再利用可。既存receipt参照。",
         "image_adoption": "公式原画像を取得・実見・掲載済み。初期画像1点、3〜5点セットは未完成。",
-        "image_count_acquired": 1
+        "image_count_acquired": 1,
+        "reading_intro": {
+          "heading": "古い器を、焼き物でつくり直す。",
+          "lead": [
+            "古代の器を手本にして、後の時代に焼き物でつくった例です。",
+            "昔の形が、違う材料に生まれ変わっています。"
+          ]
+        }
       },
       {
         "title": "The Death of Socrates — ソクラテスの死",
@@ -12553,7 +14002,14 @@
         "reproduction_rights": "未採用。公式本文の参照は画像の取得・転載許諾を意味しない。",
         "commercial_use": "未確認・本調査では画像掲載不可",
         "image_adoption": "未取得・未採用",
-        "image_count_acquired": 0
+        "image_count_acquired": 0,
+        "reading_intro": {
+          "heading": "古代の人の決断を、絵にする。",
+          "lead": [
+            "ソクラテスが何を正しいと考えて選んだかを、絵で表しています。",
+            "場面が横長に並ぶ見せ方にも注目できます。"
+          ]
+        }
       },
       {
         "title": "Cupid and Psyche — キューピッドとプシュケ",
@@ -12570,7 +14026,15 @@
         "reproduction_rights": "未採用。公式本文の参照は画像の取得・転載許諾を意味しない。",
         "commercial_use": "未確認・本調査では画像掲載不可",
         "image_adoption": "未取得・未採用",
-        "image_count_acquired": 0
+        "image_count_acquired": 0,
+        "reading_intro": {
+          "heading": "神話の二人を、模型にする。",
+          "lead": [
+            "大理石の像をつくるための、石こうの模型です。",
+            "古代の神話に出てくる二人を表しています。",
+            "形をどう考え、別の材料へ移したかも手がかりになります。"
+          ]
+        }
       },
       {
         "title": "Ulysses at the Table of Circe (The Odyssey of Homer)",
@@ -12587,7 +14051,14 @@
         "reproduction_rights": "未採用。公式本文の参照は画像の取得・転載許諾を意味しない。",
         "commercial_use": "未確認・本調査では画像掲載不可",
         "image_adoption": "未取得・未採用",
-        "image_count_acquired": 0
+        "image_count_acquired": 0,
+        "reading_intro": {
+          "heading": "輪郭の線で、古代の場面を伝える。",
+          "lead": [
+            "横顔や衣服、家具を、輪郭の線で表しています。",
+            "何もかかれていない場所の広さも、見え方に関わっています。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -12715,7 +14186,20 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 0,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "遠い昔の作品を、新しい手本にする。",
+      "lead": [
+        "昔の建物や彫刻を調べたら、いまつくる物のヒントになるでしょうか。",
+        "新古典主義では、遠い昔のギリシャやローマの作品を手本にしました。",
+        "形の大きさを比べたり、線を写したりして学び、新しい絵や建物に取り入れています。",
+        "18世紀後半から広がった表現です。"
+      ],
+      "looking_questions": [
+        "作品を見るなら、人や物の輪郭は、どんな線でかかれていますか。",
+        "人物の間や、まわりの何もない場所は、どのくらい広いでしょう。"
+      ]
+    }
   },
   {
     "name": "Grid systems",
@@ -12906,7 +14390,14 @@
         "work_rights": "参考文献・公式ガイドへのリンク。図版の転載許諾とは別。",
         "reproduction_rights": "歴史作品・書籍ページの画像は未掲載",
         "commercial_use": "参考図版の商用再利用条件は未確認",
-        "image_adoption": "未取得・自作解説図で方法を説明"
+        "image_adoption": "未取得・自作解説図で方法を説明",
+        "reading_intro": {
+          "heading": "文字や画像を、どこへ置く？",
+          "lead": [
+            "位置を決める線の使い方をまとめた本です。",
+            "紙の上だけでなく、立体での使い方も扱っています。"
+          ]
+        }
       },
       {
         "title": "Designing Programmes",
@@ -12919,7 +14410,14 @@
         "work_rights": "参考文献・公式ガイドへのリンク。図版の転載許諾とは別。",
         "reproduction_rights": "歴史作品・書籍ページの画像は未掲載",
         "commercial_use": "参考図版の商用再利用条件は未確認",
-        "image_adoption": "未取得・自作解説図で方法を説明"
+        "image_adoption": "未取得・自作解説図で方法を説明",
+        "reading_intro": {
+          "heading": "形を決める前に、決まりを考える。",
+          "lead": [
+            "一つの形だけをつくるのではなく、いろいろな形をつくれる決まりを考える本です。",
+            "グリッドだけの本ではありません。"
+          ]
+        }
       },
       {
         "title": "2x Grid",
@@ -12932,7 +14430,14 @@
         "work_rights": "参考文献・公式ガイドへのリンク。図版の転載許諾とは別。",
         "reproduction_rights": "歴史作品・書籍ページの画像は未掲載",
         "commercial_use": "参考図版の商用再利用条件は未確認",
-        "image_adoption": "未取得・自作解説図で方法を説明"
+        "image_adoption": "未取得・自作解説図で方法を説明",
+        "reading_intro": {
+          "heading": "場所が変わっても、そろえられるように。",
+          "lead": [
+            "文字や写真のまわりに、どれくらい空きを残すかを決めます。",
+            "決まった長さを使うと、紙や画面が変わってもそろえられます。"
+          ]
+        }
       },
       {
         "title": "Baseline grid",
@@ -12945,7 +14450,14 @@
         "work_rights": "参考文献・公式ガイドへのリンク。図版の転載許諾とは別。",
         "reproduction_rights": "歴史作品・書籍ページの画像は未掲載",
         "commercial_use": "参考図版の商用再利用条件は未確認",
-        "image_adoption": "未取得・自作解説図で方法を説明"
+        "image_adoption": "未取得・自作解説図で方法を説明",
+        "reading_intro": {
+          "heading": "行が変わっても、文字をそろえる。",
+          "lead": [
+            "文字を同じ高さにそろえる線を使います。",
+            "ページや列が変わっても、本文の行をそろえられます。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -12959,6 +14471,19 @@
     "reference_images": [],
     "reference_image_count": 0,
     "supplemental_explainer_count": 4,
-    "has_generated_visual_material": false
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "見えない線で、文字や写真をそろえる。",
+      "lead": [
+        "本や画面の文字がばらばらに並んでいたら、読む場所に迷いそうです。",
+        "グリッドは、文字や写真を置く位置を決めるための、線の仕組みです。",
+        "線に合わせると、ページが変わっても位置をそろえられます。",
+        "同じ線を使いながら、一部の写真だけ大きく置くこともできます。"
+      ],
+      "looking_questions": [
+        "紙面を見るなら、文字や写真の端がそろう場所はどこでしょう。",
+        "同じ幅の列が、いくつ並んでいるように見えますか。"
+      ]
+    }
   }
 ]
