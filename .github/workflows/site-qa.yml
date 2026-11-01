@@ -3,6 +3,9 @@ on:
   pull_request:
   push:
     branches: [main]
+concurrency:
+  group: site-qa-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 permissions:
   contents: read
 jobs:
@@ -16,8 +19,17 @@ jobs:
           node-version: '22'
       - run: npm ci
       - run: npx playwright install --with-deps chromium
-      - run: python3 -m http.server 8793 > /tmp/site-http.log 2>&1 &
+      - name: Start local site server
+        run: |
+          python3 -m http.server 8793 > "$RUNNER_TEMP/site-http.log" 2>&1 &
+          echo $! > "$RUNNER_TEMP/site-http.pid"
       - run: npm test
+      - name: Stop local site server
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/site-http.pid" ]; then
+            kill "$(cat "$RUNNER_TEMP/site-http.pid")" 2>/dev/null || true
+          fi
       - uses: actions/upload-artifact@v4
         if: always()
         with:
