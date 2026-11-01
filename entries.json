@@ -14693,11 +14693,11 @@
     },
     "comparison": "ピーター・サヴィルからの進路への影響と、坂本龍一との共同制作は、別の関係です。スイス・スタイルやグリッドとの見た目の比較はできますが、直接の師弟関係や影響が確認できたとはしません。",
     "modern": "雑誌や音楽の仕事と、展覧会で見せる作品が行き来しています。画面で見るときも、元は紙の大きさ、手ざわり、ページの重なりを使う作品があることを忘れないようにしましょう。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-02",
     "publication_status": "published_person_entry",
-    "status": "人物紹介・実作品画像1点 / ほか4作品は出典リンクで紹介",
-    "image_count_acquired": 1,
-    "representative_count": 5,
+    "status": "人物紹介・実作品画像9点 / ほか4作品は出典リンクで紹介",
+    "image_count_acquired": 9,
+    "representative_count": 13,
     "sources": [
       {
         "id": "nakajima-profile",
@@ -14758,6 +14758,54 @@
         "institution": "Sheffield Hallam University 展覧会記録",
         "url": "https://gallery.shu.ac.uk/event/hideki-nakajima/",
         "supports": "本人事務所との共同展、ピーター・サヴィルからの進路への影響"
+      },
+      {
+        "id": "nakajima-unfinished-1-1-graphic-wave-5-exhibition",
+        "institution": "NAKAJIMA DESIGN：Unfinished #1-1 / Graphic Wave 5 Exhibition",
+        "url": "https://www.nkjm-d.com/archive/unfinished-1-1-graphic-wave-5-exhibition/",
+        "supports": "作品の名称と公式画像。ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。"
+      },
+      {
+        "id": "nakajima-unfinished-2-3-graphic-wave-5-exhibition",
+        "institution": "NAKAJIMA DESIGN：Unfinished #2-3 / Graphic Wave 5 Exhibition",
+        "url": "https://www.nkjm-d.com/archive/unfinished-2-3-graphic-wave-5-exhibition/",
+        "supports": "作品の名称と公式画像。ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。"
+      },
+      {
+        "id": "nakajima-unfinished-3-2-graphic-wave-5-exhibition",
+        "institution": "NAKAJIMA DESIGN：Unfinished #3-2 / Graphic Wave 5 Exhibition",
+        "url": "https://www.nkjm-d.com/archive/unfinished-3-2-graphic-wave-5-exhibition/",
+        "supports": "作品の名称と公式画像。ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。"
+      },
+      {
+        "id": "nakajima-unfinished-3-3-graphic-wave-5-exhibition",
+        "institution": "NAKAJIMA DESIGN：Unfinished #3-3 / Graphic Wave 5 Exhibition",
+        "url": "https://www.nkjm-d.com/archive/unfinished-3-3-graphic-wave-5-exhibition/",
+        "supports": "作品の名称と公式画像。ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。"
+      },
+      {
+        "id": "nakajima-cut-logotype",
+        "institution": "NAKAJIMA DESIGN：Cut / Logotype",
+        "url": "https://www.nkjm-d.com/archive/cut-logotype/",
+        "supports": "作品の名称と公式画像。公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。"
+      },
+      {
+        "id": "nakajima-dune-logotype",
+        "institution": "NAKAJIMA DESIGN：Dune / Logotype",
+        "url": "https://www.nkjm-d.com/archive/dune-logotype/",
+        "supports": "作品の名称と公式画像。公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。"
+      },
+      {
+        "id": "nakajima-h-logotype",
+        "institution": "NAKAJIMA DESIGN：H / Logotype",
+        "url": "https://www.nkjm-d.com/archive/h-logotype/",
+        "supports": "作品の名称と公式画像。公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。"
+      },
+      {
+        "id": "nakajima-a-s-a-b-logotype",
+        "institution": "NAKAJIMA DESIGN：A.S.A.B. / Logotype",
+        "url": "https://www.nkjm-d.com/archive/a-s-a-b-logotype/",
+        "supports": "作品の名称と公式画像。公式Web掲載2020年。制作年は未確認。画像ファイル名から制作年を推定しない。"
       }
     ],
     "source_ids": [
@@ -14770,7 +14818,15 @@
       "tdc-clear",
       "ggg-clear",
       "dnp-clear",
-      "shu-nakajima"
+      "shu-nakajima",
+      "nakajima-unfinished-1-1-graphic-wave-5-exhibition",
+      "nakajima-unfinished-2-3-graphic-wave-5-exhibition",
+      "nakajima-unfinished-3-2-graphic-wave-5-exhibition",
+      "nakajima-unfinished-3-3-graphic-wave-5-exhibition",
+      "nakajima-cut-logotype",
+      "nakajima-dune-logotype",
+      "nakajima-h-logotype",
+      "nakajima-a-s-a-b-logotype"
     ],
     "representatives": [
       {
@@ -14858,6 +14914,134 @@
             "一人の作品としてまとめず、それぞれの仕事を分けて見ます。"
           ]
         }
+      },
+      {
+        "title": "Unfinished #1-1 / Graphic Wave 5 Exhibition",
+        "creator": "中島英樹",
+        "date": "2000",
+        "domain": "平面作品・ポスター",
+        "reason": "糸のような細い線が、黒い面の上で何度も曲がっています。線が集まる所と、空いている所を見比べましょう。",
+        "limitation": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "evidence": "https://www.nkjm-d.com/archive/unfinished-1-1-graphic-wave-5-exhibition/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "細い線の動きを追う。",
+          "lead": [
+            "糸のような細い線が、黒い面の上で何度も曲がっています。線が集まる所と、空いている所を見比べましょう。"
+          ]
+        }
+      },
+      {
+        "title": "Unfinished #2-3 / Graphic Wave 5 Exhibition",
+        "creator": "中島英樹",
+        "date": "2000",
+        "domain": "平面作品・ポスター",
+        "reason": "上の方の大きな色の面と、下の方の細い横線を見比べます。目の動き方はどう変わるでしょう。",
+        "limitation": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "evidence": "https://www.nkjm-d.com/archive/unfinished-2-3-graphic-wave-5-exhibition/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "静かな面と、横に走る線。",
+          "lead": [
+            "上の方の大きな色の面と、下の方の細い横線を見比べます。目の動き方はどう変わるでしょう。"
+          ]
+        }
+      },
+      {
+        "title": "Unfinished #3-2 / Graphic Wave 5 Exhibition",
+        "creator": "中島英樹",
+        "date": "2000",
+        "domain": "平面作品・ポスター",
+        "reason": "淡い四角い枠が、少しずつずれて重なっています。黒い縦線を手がかりに、薄い線も探してみましょう。",
+        "limitation": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "evidence": "https://www.nkjm-d.com/archive/unfinished-3-2-graphic-wave-5-exhibition/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "白の中から、枠を見つける。",
+          "lead": [
+            "淡い四角い枠が、少しずつずれて重なっています。黒い縦線を手がかりに、薄い線も探してみましょう。"
+          ]
+        }
+      },
+      {
+        "title": "Unfinished #3-3 / Graphic Wave 5 Exhibition",
+        "creator": "中島英樹",
+        "date": "2000",
+        "domain": "平面作品・ポスター",
+        "reason": "赤い丸が、列になってくり返し現れます。丸の並び方と、その奥の淡い四角を見比べましょう。",
+        "limitation": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "evidence": "https://www.nkjm-d.com/archive/unfinished-3-3-graphic-wave-5-exhibition/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "丸が並ぶと、リズムになる。",
+          "lead": [
+            "赤い丸が、列になってくり返し現れます。丸の並び方と、その奥の淡い四角を見比べましょう。"
+          ]
+        }
+      },
+      {
+        "title": "Cut / Logotype",
+        "creator": "中島英樹",
+        "date": "制作年未確認",
+        "domain": "ロゴ（名前を見せる文字の形）",
+        "reason": "文字の太さと、Cやuの内側の空きを見ます。細い線のDUNEと比べると、名前の印象が変わります。",
+        "limitation": "公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。",
+        "evidence": "https://www.nkjm-d.com/archive/cut-logotype/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "太い文字が、目に飛びこむ。",
+          "lead": [
+            "文字の太さと、Cやuの内側の空きを見ます。細い線のDUNEと比べると、名前の印象が変わります。"
+          ]
+        }
+      },
+      {
+        "title": "Dune / Logotype",
+        "creator": "中島英樹",
+        "date": "制作年未確認",
+        "domain": "ロゴ（名前を見せる文字の形）",
+        "reason": "細く横長の文字が、広い白の中に並びます。文字の高さと横幅、その周りの空きを見てみましょう。",
+        "limitation": "公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。",
+        "evidence": "https://www.nkjm-d.com/archive/dune-logotype/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "細い線で、名前をつくる。",
+          "lead": [
+            "細く横長の文字が、広い白の中に並びます。文字の高さと横幅、その周りの空きを見てみましょう。"
+          ]
+        }
+      },
+      {
+        "title": "H / Logotype",
+        "creator": "中島英樹",
+        "date": "制作年未確認",
+        "domain": "ロゴ（名前を見せる文字の形）",
+        "reason": "Hの形を、いくつもの線で囲んでいます。線がつながる角をたどると、厚みがあるように見えます。",
+        "limitation": "公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。",
+        "evidence": "https://www.nkjm-d.com/archive/h-logotype/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "一本の文字に、奥行きをつける。",
+          "lead": [
+            "Hの形を、いくつもの線で囲んでいます。線がつながる角をたどると、厚みがあるように見えます。"
+          ]
+        }
+      },
+      {
+        "title": "A.S.A.B. / Logotype",
+        "creator": "中島英樹",
+        "date": "制作年未確認",
+        "domain": "ロゴ（名前を見せる文字の形）",
+        "reason": "同じ青でも、文字の大きさを変えると役割が変わります。大きな名前と、その下の小さな言葉を見比べましょう。",
+        "limitation": "公式Web掲載2020年。制作年は未確認。画像ファイル名から制作年を推定しない。",
+        "evidence": "https://www.nkjm-d.com/archive/a-s-a-b-logotype/",
+        "image_adoption": "採用済：公式JPEG、原寸を維持",
+        "reading_intro": {
+          "heading": "大きな名前と、小さな言葉。",
+          "lead": [
+            "同じ青でも、文字の大きさを変えると役割が変わります。大きな名前と、その下の小さな言葉を見比べましょう。"
+          ]
+        }
       }
     ],
     "period_bands": [
@@ -14899,6 +15083,254 @@
             "text": "明るい黄色の四角は、右側の中央より少し下にあります。淡い面と比べて、どこに最初に目が向くか確かめてみましょう。"
           }
         ]
+      },
+      {
+        "id": "nakajima-unfinished-1-1-graphic-wave-5-exhibition",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "Unfinished #1-1 / Graphic Wave 5 Exhibition",
+        "year": "2000",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/unfinished-1-1-graphic-wave-5-exhibition/",
+        "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/Poji097.jpg",
+        "local_file": "assets/hideki-nakajima-unfinished-1-1-graphic-wave-5-exhibition.jpg",
+        "local_bytes": 91954,
+        "width": 300,
+        "height": 425,
+        "sha256": "f4e42167d8fc83c106736040041def09b28e296d13b0340d346e9a37bca72d3e",
+        "alt": "黒い面に、白く細い線が何度も曲がりながら重なっている。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。300×425px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "visual_notes": [
+          {
+            "title": "細い線の動きを追う。",
+            "text": "糸のような細い線が、黒い面の上で何度も曲がっています。線が集まる所と、空いている所を見比べましょう。"
+          }
+        ]
+      },
+      {
+        "id": "nakajima-unfinished-2-3-graphic-wave-5-exhibition",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "Unfinished #2-3 / Graphic Wave 5 Exhibition",
+        "year": "2000",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/unfinished-2-3-graphic-wave-5-exhibition/",
+        "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/Poji1051.jpg",
+        "local_file": "assets/hideki-nakajima-unfinished-2-3-graphic-wave-5-exhibition.jpg",
+        "local_bytes": 83039,
+        "width": 301,
+        "height": 425,
+        "sha256": "a8efcedca658f919ff99d02a2b549a258dcb554d5f02874abe68ee7bf2d0d10b",
+        "alt": "白・青・黒・黄色の面が重なり、下の方に細長い横線が並んでいる。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。301×425px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "visual_notes": [
+          {
+            "title": "静かな面と、横に走る線。",
+            "text": "上の方の大きな色の面と、下の方の細い横線を見比べます。目の動き方はどう変わるでしょう。"
+          }
+        ]
+      },
+      {
+        "id": "nakajima-unfinished-3-2-graphic-wave-5-exhibition",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "Unfinished #3-2 / Graphic Wave 5 Exhibition",
+        "year": "2000",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/unfinished-3-2-graphic-wave-5-exhibition/",
+        "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/Poji107.jpg",
+        "local_file": "assets/hideki-nakajima-unfinished-3-2-graphic-wave-5-exhibition.jpg",
+        "local_bytes": 42462,
+        "width": 301,
+        "height": 425,
+        "sha256": "5b87e852a39aa2d30389d28ed9e5fd11d93145a6c6455e2a7b77666d36fc219a",
+        "alt": "白と薄い灰色の面に小さな四角い枠が重なり、その左に黒い縦線がある。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。301×425px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "visual_notes": [
+          {
+            "title": "白の中から、枠を見つける。",
+            "text": "淡い四角い枠が、少しずつずれて重なっています。黒い縦線を手がかりに、薄い線も探してみましょう。"
+          }
+        ]
+      },
+      {
+        "id": "nakajima-unfinished-3-3-graphic-wave-5-exhibition",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "Unfinished #3-3 / Graphic Wave 5 Exhibition",
+        "year": "2000",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/unfinished-3-3-graphic-wave-5-exhibition/",
+        "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/Poji108.jpg",
+        "local_file": "assets/hideki-nakajima-unfinished-3-3-graphic-wave-5-exhibition.jpg",
+        "local_bytes": 113806,
+        "width": 302,
+        "height": 425,
+        "sha256": "087a5a45da34f719fa8b07a84ba2b730b8617be2995884f1400cd7b2b531c2f7",
+        "alt": "赤い丸が斜めの列になって並び、白い面や細い線、黒い縦線と重なっている。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。302×425px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "ggg「Graphic Wave 2000」展（2000年9月）と本人解説でシリーズを確認。公式アーカイブの2013年はWeb掲載年。",
+        "visual_notes": [
+          {
+            "title": "丸が並ぶと、リズムになる。",
+            "text": "赤い丸が、列になってくり返し現れます。丸の並び方と、その奥の淡い四角を見比べましょう。"
+          }
+        ]
+      },
+      {
+        "id": "nakajima-cut-logotype",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "Cut / Logotype",
+        "year": "制作年未確認",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/cut-logotype/",
+        "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/1992-9-cut_logo.jpg",
+        "local_file": "assets/hideki-nakajima-cut-logotype.jpg",
+        "local_bytes": 9225,
+        "width": 319,
+        "height": 425,
+        "sha256": "18f29b5815ab48d0eddf7f64ee63e371fe8ccab094774e07e274a05f54120794",
+        "alt": "白地に、太く丸みのある黒い文字でCutと書かれている。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。319×425px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。",
+        "visual_notes": [
+          {
+            "title": "太い文字が、目に飛びこむ。",
+            "text": "文字の太さと、Cやuの内側の空きを見ます。細い線のDUNEと比べると、名前の印象が変わります。"
+          }
+        ]
+      },
+      {
+        "id": "nakajima-dune-logotype",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "Dune / Logotype",
+        "year": "制作年未確認",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/dune-logotype/",
+        "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/1995-8-DUNE_logo.jpg",
+        "local_file": "assets/hideki-nakajima-dune-logotype.jpg",
+        "local_bytes": 6058,
+        "width": 319,
+        "height": 425,
+        "sha256": "f008c28125a332f1d69f80dd1e19ec94bd8eeb852d30ebee108010f0f0043c6b",
+        "alt": "白地の中央に、細い黒い線で横長のDUNEの文字が並んでいる。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。319×425px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。",
+        "visual_notes": [
+          {
+            "title": "細い線で、名前をつくる。",
+            "text": "細く横長の文字が、広い白の中に並びます。文字の高さと横幅、その周りの空きを見てみましょう。"
+          }
+        ]
+      },
+      {
+        "id": "nakajima-h-logotype",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "H / Logotype",
+        "year": "制作年未確認",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/h-logotype/",
+        "image_url": "https://nkjm-d.com/archive/wp-content/uploads/2013/12/1994-6-H_logo.jpg",
+        "local_file": "assets/hideki-nakajima-h-logotype.jpg",
+        "local_bytes": 9648,
+        "width": 319,
+        "height": 425,
+        "sha256": "92f49149f5192a0c77fe4405fb1586db9a760e4d17e259e4971381ee6c6dfad4",
+        "alt": "白地に、いくつもの黒い輪郭線で立体のように見えるHが描かれている。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。319×425px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "公式Web掲載2013年。制作年は未確認。画像ファイル名の数字や雑誌の担当期間とは区別。",
+        "visual_notes": [
+          {
+            "title": "一本の文字に、奥行きをつける。",
+            "text": "Hの形を、いくつもの線で囲んでいます。線がつながる角をたどると、厚みがあるように見えます。"
+          }
+        ]
+      },
+      {
+        "id": "nakajima-a-s-a-b-logotype",
+        "entry": "Hideki Nakajima",
+        "author": "中島英樹 / Hideki Nakajima",
+        "author_life": "1961–2022",
+        "title": "A.S.A.B. / Logotype",
+        "year": "制作年未確認",
+        "institution": "NAKAJIMA DESIGN 公式アーカイブ",
+        "source_page": "https://www.nkjm-d.com/archive/a-s-a-b-logotype/",
+        "image_url": "https://www.nkjm-d.com/archive/wp-content/uploads/2014/01/190329_ASABロゴ納品データ2-04.jpg",
+        "local_file": "assets/hideki-nakajima-a-s-a-b-logotype.jpg",
+        "local_bytes": 47614,
+        "width": 319,
+        "height": 478,
+        "sha256": "ae901da8c17a6a3a103cf9ffdef4b6efa18c4bbef357111024361f544a03ad1f",
+        "alt": "白地に青いA.S.A.Bの文字、その下に小さくA Sound As BLUEの文字がある。",
+        "credit": "© Hideki Nakajima. 出典：NAKAJIMA DESIGN公式アーカイブ。",
+        "reuse_notice": "著作権のある作品です。このサイトへの掲載は、第三者による再利用を許可するものではありません。",
+        "image_processing": "公式掲載JPEGを変更せず使用。319×478px。原寸を超えて表示しません。",
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "pixels_inspected": true,
+        "license": "著作権のある作品です。第三者による再利用は自由ではありません。",
+        "date_note": "公式Web掲載2020年。制作年は未確認。画像ファイル名から制作年を推定しない。",
+        "visual_notes": [
+          {
+            "title": "大きな名前と、小さな言葉。",
+            "text": "同じ青でも、文字の大きさを変えると役割が変わります。大きな名前と、その下の小さな言葉を見比べましょう。"
+          }
+        ]
       }
     ],
     "reference_images": [],
@@ -14920,6 +15352,6 @@
         "黄色い四角は、画面のどこに置かれていますか。"
       ]
     },
-    "representativeness_limit": "雑誌・平面作品・展覧会ポスター・書籍・音楽家との共同制作を取り上げる人物紹介。運動・様式として分類しません。実画像は1点で、3〜5点の画像セットは未完成。"
+    "representativeness_limit": "実画像9点で、平面作品と文字のデザインを見比べます。写真を含む雑誌や書籍の全体を網羅するものではありません。人物の仕事の紹介で、運動・様式とは区別します。"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "release": "public-vienna-emilie-photo-20261101",
+  "release": "public-nakajima-more-works-20261102",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
@@ -8,11 +8,11 @@
   "pages_path": "/",
   "articles": 35,
   "planned_entries": 88,
-  "historical_representative_images": 31,
+  "historical_representative_images": 39,
   "reference_related_images": 2,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
-  "three_image_sets": 8,
+  "three_image_sets": 9,
   "qa": {
     "html_pages": 40,
     "canonical_sitemap_pages": 39,
@@ -41,13 +41,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3643,
-      "sha256": "c6b375851299e330664db50689b3fb5e4a31d9860a14c2c0d7ea6591d12708ec"
+      "bytes": 3637,
+      "sha256": "c971374a79374272b84a318c0ce50a95a688052eb7c6ddc997d697ce9d799153"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 186449,
-      "sha256": "2dfb7fc3d7fd99bb80d9937db104709dd74977001ab9ba50eee0b8ed0ef9addb"
+      "bytes": 201324,
+      "sha256": "975c303a834e163aaa05dc2dd38ba58af4f5f9304ee981aa7c8da2fba2d3d32c"
     },
     {
       "path": "analytics-status.json",
@@ -500,9 +500,49 @@
       "sha256": "e1a0f8622652672fcc3d4cdc13b2015bcc7c73f49c41feedeeae130b90fc7903"
     },
     {
+      "path": "assets/hideki-nakajima-a-s-a-b-logotype.jpg",
+      "bytes": 47614,
+      "sha256": "ae901da8c17a6a3a103cf9ffdef4b6efa18c4bbef357111024361f544a03ad1f"
+    },
+    {
+      "path": "assets/hideki-nakajima-cut-logotype.jpg",
+      "bytes": 9225,
+      "sha256": "18f29b5815ab48d0eddf7f64ee63e371fe8ccab094774e07e274a05f54120794"
+    },
+    {
+      "path": "assets/hideki-nakajima-dune-logotype.jpg",
+      "bytes": 6058,
+      "sha256": "f008c28125a332f1d69f80dd1e19ec94bd8eeb852d30ebee108010f0f0043c6b"
+    },
+    {
+      "path": "assets/hideki-nakajima-h-logotype.jpg",
+      "bytes": 9648,
+      "sha256": "92f49149f5192a0c77fe4405fb1586db9a760e4d17e259e4971381ee6c6dfad4"
+    },
+    {
+      "path": "assets/hideki-nakajima-unfinished-1-1-graphic-wave-5-exhibition.jpg",
+      "bytes": 91954,
+      "sha256": "f4e42167d8fc83c106736040041def09b28e296d13b0340d346e9a37bca72d3e"
+    },
+    {
+      "path": "assets/hideki-nakajima-unfinished-2-3-graphic-wave-5-exhibition.jpg",
+      "bytes": 83039,
+      "sha256": "a8efcedca658f919ff99d02a2b549a258dcb554d5f02874abe68ee7bf2d0d10b"
+    },
+    {
       "path": "assets/hideki-nakajima-unfinished-3-1-2000.jpg",
       "bytes": 38521,
       "sha256": "8dc15648297276fa3373a404f1b7c24b26b78309c6c3a1c4fc34474b9bfb1e81"
+    },
+    {
+      "path": "assets/hideki-nakajima-unfinished-3-2-graphic-wave-5-exhibition.jpg",
+      "bytes": 42462,
+      "sha256": "5b87e852a39aa2d30389d28ed9e5fd11d93145a6c6455e2a7b77666d36fc219a"
+    },
+    {
+      "path": "assets/hideki-nakajima-unfinished-3-3-graphic-wave-5-exhibition.jpg",
+      "bytes": 113806,
+      "sha256": "087a5a45da34f719fa8b07a84ba2b730b8617be2995884f1400cd7b2b531c2f7"
     },
     {
       "path": "assets/icon-180.png",
@@ -807,12 +847,12 @@
     {
       "path": "catalog.json",
       "bytes": 31457,
-      "sha256": "37275a2b2afa40f8607568e77b7fa1426563df9691a4fb49afa086b295dfab6b"
+      "sha256": "29126b0bd828de2e854d49a3ee547395bd488da20c49828159d702378afd30ff"
     },
     {
       "path": "compare.html",
       "bytes": 6460,
-      "sha256": "c61c174b2d257acac1bba31d62a41864f98941863476b1bfd1b8634f3c03edf3"
+      "sha256": "4b4cf0b8cbd0585a8fc98fee094efb97878a45ebff2f89d7046c3bf5ee90138c"
     },
     {
       "path": "compare.js",
@@ -891,8 +931,8 @@
     },
     {
       "path": "entries/hideki-nakajima.html",
-      "bytes": 19431,
-      "sha256": "450a7ac3757d7e0262bee11bc80f870352d8726fdd3d2754c3fc1fb1d8881d34"
+      "bytes": 36809,
+      "sha256": "58490f4cc9bd8ea6d4c892cc6e7fb214acc5754d53df298345d62c35ba172ad8"
     },
     {
       "path": "entries/hurufiyya.html",
@@ -1001,8 +1041,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1018394,
-      "sha256": "d43e1d7cf55be300c90a18459263c13ff6fa44637db20014c0fe9f42e733f68b"
+      "bytes": 1044863,
+      "sha256": "ed189d86dc066be5ec5b5ce171424992fe57976fd829261811a891df4de0ddf0"
     },
     {
       "path": "external-preview-rights.json",
@@ -1032,7 +1072,7 @@
     {
       "path": "index.html",
       "bytes": 23966,
-      "sha256": "7fa5d17234f45da0aac9a2d26b6c40e2e8c51b8b3963809de62b58ea27d1656d"
+      "sha256": "f9c85d01820b5d3239107b6e430b9ff94439662017a81e96c6478014b00eac54"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1077,7 +1117,7 @@
     {
       "path": "site-update.json",
       "bytes": 2715,
-      "sha256": "c9dfeef5c0c3babde8b828a556ef1c3b4cbc1e067a871dcd446092e0fcb39327"
+      "sha256": "9a717feea48631a34c491d41ac3ec3567e57e209daba9a6248b2181a6a48ad6c"
     },
     {
       "path": "site.webmanifest",
@@ -1087,7 +1127,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 5307,
-      "sha256": "895d111c2946093cda4adba4b33f5f4a03e913dffd6533f2334736b743971038"
+      "sha256": "374c1a4814cf90a4726ab5bda4d3adb7afd5171f93487c6277c599f766740fe4"
     },
     {
       "path": "study-images.js",
@@ -1127,10 +1167,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T02:12:00+09:00",
+  "frozen_at": "2026-11-02T05:10:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 151,
+  "rewritten_representative_cards": 159,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1174,9 +1214,18 @@
   "person_entry": {
     "slug": "hideki-nakajima",
     "category": "person",
-    "actual_images": 1,
-    "image_set_complete": false,
-    "public_credit": "author,work,year,officialsource,copyright; no third-party reuse grant"
+    "actual_images": 9,
+    "image_set_complete": true,
+    "public_credit": "author,work,year,officialsource,copyright; no third-party reuse grant",
+    "scope": "Selected flat graphic works and logotypes; not a complete career survey",
+    "validation": {
+      "image_hashes": "9 matched",
+      "local_references": "1177 checked; zero missing",
+      "other_articles": "34 entries unchanged",
+      "responsive_rules": "original size capped at 100% available width; no crop",
+      "browser_verification": "pending live verification",
+      "mobile_device_test": false
+    }
   },
   "public_metadata_cleanup": {
     "date": "2026-11-01",
