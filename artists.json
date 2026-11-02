@@ -547,6 +547,37 @@
             "https://exhibitions.letterformarchive.org/bauhaus/walkthroughs/typophoto-in-moholy-nagy-s-painting-photography-film"
           ],
           "note": "MoMA Libraryの1925年刊行本の書誌情報。1927年の改訂版や後年の翻訳・復刻と区別します。この記録の追加は画像取得を意味しません。"
+        },
+        {
+          "id": "bauhaus-kandinsky-point-line-plane-1926-tanz",
+          "title_ja": "『点・線・面』の図版〈ダンス〉（36頁・図9）",
+          "title_original": "Punkt und Linie zu Fläche, Bauhausbücher 9: Tanz, p.36 / fig.9",
+          "date_label": "1926年版、Albert Langen刊、Getty 85-B15996",
+          "work_type": "基礎造形・理論書",
+          "institution": "ゲティ研究所",
+          "source_url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "credited_creator": "Vassily Kandinsky（著者・図版）／Walter Gropius（編集）／László Moholy-Nagy（デザイン）／Herbert Bayer（文字設計）",
+          "accession": "85-B15996",
+          "note": "1926年版の36頁・図9。カンディンスキーが著者と図版、グロピウスが編集、モホリ＝ナジがデザイン、バイヤーが文字設計を担当しています。1928年の第2版とは別の版です。",
+          "credits": [
+            {
+              "artist_id": "wassily-kandinsky",
+              "role": "著者・図版"
+            },
+            {
+              "artist_id": "walter-gropius",
+              "role": "編集"
+            },
+            {
+              "artist_id": "laszlo-moholy-nagy",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "herbert-bayer",
+              "role": "文字設計"
+            }
+          ],
+          "creator_role": "デザイン"
         }
       ],
       "sources": [
@@ -577,6 +608,13 @@
           "title": "Jan Tschichold and the New Typography",
           "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
           "verified_at": "2026-11-02"
+        },
+        {
+          "id": "getty-bauhaus-beginnings-checklist",
+          "institution": "ゲティ研究所",
+          "title": "Bauhaus Beginnings：出品作品リスト",
+          "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "verified_at": "2026-11-02"
         }
       ],
       "verified_at": "2026-11-02",
@@ -585,6 +623,11 @@
           "chapter_id": "new-typography",
           "role": "文字と写真の統合を探った人物",
           "description": "バウハウスの出版とニュー・タイポグラフィの接点を示します。書籍への協力者と、個々の写真の作者を一人にまとめません。"
+        },
+        {
+          "chapter_id": "bauhaus",
+          "role": "工房教育と出版デザインに携わった教員",
+          "description": "本章の1926年版『点・線・面』では書物のデザインを担当しています。著者・図版、編集、文字設計は、それぞれ別の担当者が記録されています。"
         }
       ]
     },
@@ -611,6 +654,37 @@
           "dimensions": "48.6 × 65.1 cm",
           "printer": "Bauhausdruck",
           "note": "作者はバイヤー。ペルツィヒは講演者で、ポスター制作者ではありません。"
+        },
+        {
+          "id": "bauhaus-kandinsky-point-line-plane-1926-tanz",
+          "title_ja": "『点・線・面』の図版〈ダンス〉（36頁・図9）",
+          "title_original": "Punkt und Linie zu Fläche, Bauhausbücher 9: Tanz, p.36 / fig.9",
+          "date_label": "1926年版、Albert Langen刊、Getty 85-B15996",
+          "work_type": "基礎造形・理論書",
+          "institution": "ゲティ研究所",
+          "source_url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "credited_creator": "Vassily Kandinsky（著者・図版）／Walter Gropius（編集）／László Moholy-Nagy（デザイン）／Herbert Bayer（文字設計）",
+          "accession": "85-B15996",
+          "note": "1926年版の36頁・図9。カンディンスキーが著者と図版、グロピウスが編集、モホリ＝ナジがデザイン、バイヤーが文字設計を担当しています。1928年の第2版とは別の版です。",
+          "credits": [
+            {
+              "artist_id": "wassily-kandinsky",
+              "role": "著者・図版"
+            },
+            {
+              "artist_id": "walter-gropius",
+              "role": "編集"
+            },
+            {
+              "artist_id": "laszlo-moholy-nagy",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "herbert-bayer",
+              "role": "文字設計"
+            }
+          ],
+          "creator_role": "文字設計"
         }
       ],
       "sources": [
@@ -634,6 +708,13 @@
           "title": "Jan Tschichold and the New Typography",
           "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
           "verified_at": "2026-11-02"
+        },
+        {
+          "id": "getty-bauhaus-beginnings-checklist",
+          "institution": "ゲティ研究所",
+          "title": "Bauhaus Beginnings：出品作品リスト",
+          "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "verified_at": "2026-11-02"
         }
       ],
       "verified_at": "2026-11-02",
@@ -642,6 +723,11 @@
           "chapter_id": "new-typography",
           "role": "学校と実用印刷をつないだ人物",
           "description": "1926年の講演ポスターを、非対称な情報配置の例として扱います。小文字だけを使う書体案と、大文字のこのポスターを区別します。"
+        },
+        {
+          "chapter_id": "bauhaus",
+          "role": "学校の印刷・文字設計に携わったデザイナー",
+          "description": "本章の1926年版『点・線・面』では文字設計を担当しています。著者や図版の作者という意味ではありません。"
         }
       ]
     },
@@ -865,6 +951,37 @@
           "institution": "バウハウス・デッサウ財団",
           "source_url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
           "note": "グロピウスの個人事務所と複数の協力者が計画・実現を担いました。学校の工房も室内に参加しています。"
+        },
+        {
+          "id": "bauhaus-kandinsky-point-line-plane-1926-tanz",
+          "title_ja": "『点・線・面』の図版〈ダンス〉（36頁・図9）",
+          "title_original": "Punkt und Linie zu Fläche, Bauhausbücher 9: Tanz, p.36 / fig.9",
+          "date_label": "1926年版、Albert Langen刊、Getty 85-B15996",
+          "work_type": "基礎造形・理論書",
+          "institution": "ゲティ研究所",
+          "source_url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "credited_creator": "Vassily Kandinsky（著者・図版）／Walter Gropius（編集）／László Moholy-Nagy（デザイン）／Herbert Bayer（文字設計）",
+          "accession": "85-B15996",
+          "note": "1926年版の36頁・図9。カンディンスキーが著者と図版、グロピウスが編集、モホリ＝ナジがデザイン、バイヤーが文字設計を担当しています。1928年の第2版とは別の版です。",
+          "credits": [
+            {
+              "artist_id": "wassily-kandinsky",
+              "role": "著者・図版"
+            },
+            {
+              "artist_id": "walter-gropius",
+              "role": "編集"
+            },
+            {
+              "artist_id": "laszlo-moholy-nagy",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "herbert-bayer",
+              "role": "文字設計"
+            }
+          ],
+          "creator_role": "編集"
         }
       ],
       "sources": [
@@ -888,6 +1005,13 @@
           "title": "Bauhaus Building",
           "url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
           "verified_at": "2026-11-02"
+        },
+        {
+          "id": "getty-bauhaus-beginnings-checklist",
+          "institution": "ゲティ研究所",
+          "title": "Bauhaus Beginnings：出品作品リスト",
+          "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "verified_at": "2026-11-02"
         }
       ],
       "verified_at": "2026-11-02",
@@ -896,6 +1020,11 @@
           "chapter_id": "international-style",
           "role": "建築と教育をつないだ人物",
           "description": "デッサウ校舎を通して近代建築の空間を考えます。バウハウスの全活動が、この様式名に収まるわけではありません。"
+        },
+        {
+          "chapter_id": "bauhaus",
+          "role": "学校の創設者・校長、校舎の建築家、出版の編集者",
+          "description": "デッサウ校舎の計画と、バウハウス叢書の編集を通じ、教育の場と考え方を形にしました。校舎は個人事務所の協力者や学校の工房とともに実現されました。"
         }
       ]
     },
@@ -3365,6 +3494,1838 @@
           "description": "クリンガーの版画が後のシュルレアリストたちに影響したことを、ニューヨーク近代美術館が解説しています。1920年に亡くなったクリンガーは、1924年に始まる運動のメンバーではありません。"
         }
       ]
+    },
+    {
+      "id": "william-morris",
+      "entity_type": "person",
+      "name_ja": "ウィリアム・モリス",
+      "name_kana": "ウィリアム・モリス",
+      "name_original": "William Morris",
+      "birth_year": 1834,
+      "death_year": 1896,
+      "short_bio": "英国のデザイナー・著述家。布や壁紙、書物を通じ、暮らしとつくる仕事を結びつけました。工房の仲間や職人と協働し、晩年にはケルムスコット・プレスで本づくりに力を注ぎました。",
+      "representative_works": [
+        {
+          "id": "arts-crafts-morris-strawberry-thief-cma-1937-696",
+          "title_ja": "いちご泥棒",
+          "title_original": "Strawberry Thief",
+          "date_label": "デザイン：1883年／この布：1936年頃",
+          "work_type": "インディゴ抜染・木版捺染の綿布",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1937.696",
+          "credited_creator": "William Morris（デザイン）／Morris & Co.（布の製作）",
+          "accession": "1937.696",
+          "creator_role": "図案のデザイン",
+          "note": "1883年の図案をもとに、1936年頃に製作された布です。モリス本人の没後の製品で、V&Aの同名作品とは別の所蔵品です。"
+        },
+        {
+          "id": "arts-crafts-red-house",
+          "title_ja": "レッド・ハウス",
+          "title_original": "Red House",
+          "date_label": "1859年委嘱／1860年完成・入居",
+          "work_type": "住まい・工芸・共同制作",
+          "institution": "ナショナル・トラスト",
+          "source_url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+          "credited_creator": "Philip Webb（建築）／William・Jane Morrisほか（室内・共同制作）",
+          "note": "建築はフィリップ・ウェッブ、注文主で室内制作にも加わったのはウィリアムとジェイン・モリス。壁画や家具の装飾には、ほかの仲間も参加しました。",
+          "creator_role": "注文主・設計への関与・室内の共同制作"
+        },
+        {
+          "id": "arts-crafts-kelmscott-chaucer-nga-1987-73-3",
+          "title_ja": "ケルムスコット版チョーサー作品集の一葉（288頁）",
+          "title_original": "A Leaf from the Kelmscott Chaucer",
+          "date_label": "1896年刊",
+          "work_type": "書物・活字・装飾・余白",
+          "institution": "米国ナショナル・ギャラリー・オブ・アート",
+          "source_url": "https://www.nga.gov/artworks/70239-leaf-kelmscott-chaucer",
+          "credited_creator": "William Morris（書物の設計・装飾）",
+          "accession": "1987.73.3",
+          "creator_role": "書物の設計・装飾",
+          "note": "1896年刊の一葉。掲載面には人物の挿絵はなく、書物全体の挿絵や製本とは範囲が異なります。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-morris-strawberry",
+          "institution": "クリーヴランド美術館",
+          "title": "Strawberry Thief, 1937.696",
+          "url": "https://www.clevelandart.org/art/1937.696",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "va-morris-introduction",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "Introducing William Morris",
+          "url": "https://www.vam.ac.uk/articles/introducing-william-morris",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "va-morris-textiles",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "William Morris textiles",
+          "url": "https://www.vam.ac.uk/articles/willam-morris-textiles",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nt-red-house-history",
+          "institution": "ナショナル・トラスト",
+          "title": "レッド・ハウスの歴史",
+          "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nga-kelmscott-leaf",
+          "institution": "米国ナショナル・ギャラリー・オブ・アート",
+          "title": "A Leaf from the Kelmscott Chaucer",
+          "url": "https://www.nga.gov/artworks/70239-leaf-kelmscott-chaucer",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "va-morris-book",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "William Morris: literature and book design",
+          "url": "https://www.vam.ac.uk/articles/william-morris-text",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "arts-and-crafts",
+          "role": "暮らしの工芸と書物を結ぶデザイナー",
+          "description": "布の図案、共同で整えた住まい、本の紙面から、多分野にわたる仕事を見られます。"
+        }
+      ]
+    },
+    {
+      "id": "philip-webb",
+      "entity_type": "person",
+      "name_ja": "フィリップ・ウェッブ",
+      "name_kana": "フィリップ・ウェッブ",
+      "name_original": "Philip Webb",
+      "birth_year": 1831,
+      "death_year": 1915,
+      "short_bio": "英国の建築家・デザイナー。モリスと協働し、レッド・ハウスの建築や家具を設計しました。室内の用途や材料を重んじ、住宅から椅子、食器まで幅広く手がけました。",
+      "representative_works": [
+        {
+          "id": "arts-crafts-red-house",
+          "title_ja": "レッド・ハウス",
+          "title_original": "Red House",
+          "date_label": "1859年委嘱／1860年完成・入居",
+          "work_type": "住まい・工芸・共同制作",
+          "institution": "ナショナル・トラスト",
+          "source_url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+          "credited_creator": "Philip Webb（建築）／William・Jane Morrisほか（室内・共同制作）",
+          "note": "建築はフィリップ・ウェッブ、注文主で室内制作にも加わったのはウィリアムとジェイン・モリス。壁画や家具の装飾には、ほかの仲間も参加しました。",
+          "creator_role": "建築設計"
+        },
+        {
+          "id": "arts-crafts-sussex-chair-wmg-g71",
+          "title_ja": "サセックス・チェア",
+          "title_original": "Sussex chair",
+          "date_label": "設計：1860年代頃／この個体：1890年代頃",
+          "work_type": "家具・生活用品",
+          "institution": "ウィリアム・モリス・ギャラリー",
+          "source_url": "https://wmgallery.org.uk/object/sussex-chair-3/",
+          "credited_creator": "Philip Webb（館が示す設計者）／Morris & Co.（製造・販売）",
+          "accession": "G71",
+          "note": "1860年代頃の設計による、1890年代頃の椅子。設計者をウェッブとするのは、この所蔵品の記録です。製造・販売はモリス商会。",
+          "creator_role": "設計（所蔵館の帰属）"
+        }
+      ],
+      "sources": [
+        {
+          "id": "va-webb-biography",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "Philip Webb: a new vision for domestic space",
+          "url": "https://www.vam.ac.uk/articles/philip-webb-a-new-vision-for-domestic-space",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nt-red-house-history",
+          "institution": "ナショナル・トラスト",
+          "title": "レッド・ハウスの歴史",
+          "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "wmg-sussex-g71",
+          "institution": "ウィリアム・モリス・ギャラリー",
+          "title": "Sussex chair, G71",
+          "url": "https://wmgallery.org.uk/object/sussex-chair-3/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "arts-and-crafts",
+          "role": "住宅と家具の設計者",
+          "description": "建築と日用品の両方を通じ、住まいをつくる仕事を示します。"
+        }
+      ]
+    },
+    {
+      "id": "jane-morris",
+      "entity_type": "person",
+      "name_ja": "ジェイン・モリス",
+      "name_kana": "ジェイン・モリス",
+      "name_original": "Jane Morris",
+      "birth_year": 1839,
+      "death_year": 1914,
+      "short_bio": "英国の刺繍の作り手。ウィリアム・モリスや仲間とともに、レッド・ハウスに掛ける布や室内の装飾を制作しました。針と糸による仕事も、この家をつくる共同制作の一部でした。",
+      "representative_works": [
+        {
+          "id": "arts-crafts-red-house",
+          "title_ja": "レッド・ハウス",
+          "title_original": "Red House",
+          "date_label": "1859年委嘱／1860年完成・入居",
+          "work_type": "住まい・工芸・共同制作",
+          "institution": "ナショナル・トラスト",
+          "source_url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+          "credited_creator": "Philip Webb（建築）／William・Jane Morrisほか（室内・共同制作）",
+          "note": "ジェインの仕事は、1860年の入居後に進めた室内や刺繍の制作です。建築設計者のウェッブとは担当が異なります。",
+          "creator_role": "室内・刺繍の共同制作"
+        }
+      ],
+      "sources": [
+        {
+          "id": "nt-red-house-history",
+          "institution": "ナショナル・トラスト",
+          "title": "レッド・ハウスの歴史",
+          "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "va-morris-textiles",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "William Morris textiles",
+          "url": "https://www.vam.ac.uk/articles/willam-morris-textiles",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nt-jane-embroidery-60226",
+          "institution": "ナショナル・トラスト",
+          "title": "Embroidery, NT 60226：ジェイン・モリスの生没年と刺繍制作",
+          "url": "https://www.nationaltrustcollections.org.uk/object/60226",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "wmg-jane-lifedates",
+          "institution": "ウィリアム・モリス・ギャラリー",
+          "title": "Group including Jane Morris, Jenny Morris and May Morris, P680",
+          "url": "https://wmgallery.org.uk/object/group-including-jane-morris-jenny-morris-and-may-morris-at-kelmscott-manor/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "arts-and-crafts",
+          "role": "室内と刺繍の共同制作者",
+          "description": "レッド・ハウスでは、建物の設計だけでなく、暮らしの場を整える布の制作にも多くの人が関わりました。"
+        }
+      ]
+    },
+    {
+      "id": "kate-faulkner",
+      "entity_type": "person",
+      "name_ja": "ケイト・フォークナー",
+      "name_kana": "ケイト・フォークナー",
+      "name_original": "Kate Faulkner",
+      "birth_year": 1841,
+      "death_year": 1898,
+      "short_bio": "英国のデザイナー。モリス商会のために、刺繍、壁紙、タイルや陶器の装飾などを手がけました。《牡丹》の図案も彼女の仕事と考えられていますが、所蔵館は確定ではなく推定として説明しています。",
+      "representative_works": [
+        {
+          "id": "arts-crafts-faulkner-peony-cma-1937-700",
+          "title_ja": "牡丹",
+          "title_original": "Peony",
+          "date_label": "この布：1920年／原デザイン年は未確認",
+          "work_type": "捺染の綿布",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1937.700",
+          "accession": "1937.700",
+          "creator_role": "図案のデザイン（帰属）",
+          "attribution_status": "attributed_to",
+          "note": "この布はフォークナーの没後につくられました。所蔵館の本文は、図案を彼女の作と考えられるものとしています。",
+          "chapter_representative": false
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-faulkner-peony",
+          "institution": "クリーヴランド美術館",
+          "title": "Peony, 1937.700",
+          "url": "https://www.clevelandart.org/art/1937.700",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "arts-and-crafts",
+          "role": "工房の複数の作り手を示すデザイナー",
+          "description": "章に掲載された《牡丹》は、モリス本人ではなくフォークナーに帰属する図案の例です。"
+        }
+      ]
+    },
+    {
+      "id": "charles-robert-ashbee",
+      "entity_type": "person",
+      "name_ja": "チャールズ・ロバート・アシュビー",
+      "name_kana": "チャールズ・ロバート・アシュビー",
+      "name_original": "Charles Robert Ashbee",
+      "birth_year": 1863,
+      "death_year": 1942,
+      "short_bio": "英国のデザイナー。1888年にギルド・オブ・ハンディクラフトを設立し、職人たちの共同制作を支えました。金工では、丸みのある器、長い柄、飾り石を組み合わせた形を展開しました。",
+      "representative_works": [
+        {
+          "id": "arts-crafts-ashbee-porringer-spoon-met",
+          "title_ja": "ポリンジャーとスプーン",
+          "title_original": "Porringer and Spoon",
+          "date_label": "1902–1904",
+          "work_type": "銀工・共同工房・器と道具",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/642930",
+          "credited_creator": "Charles Robert Ashbee（設計）／Guild of Handicraft（製作）",
+          "accession": "1979.411.1-.2",
+          "medium": "銀、クリソプレーズ",
+          "note": "器と匙の組物。アシュビーが設計し、ギルド・オブ・ハンディクラフトが製作しました。",
+          "creator_role": "設計"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-ashbee-porringer",
+          "institution": "メトロポリタン美術館",
+          "title": "Porringer and Spoon, 1979.411.1-.2",
+          "url": "https://www.metmuseum.org/art/collection/search/642930",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "arts-and-crafts",
+          "role": "金工を設計し、共同工房を組織した人物",
+          "description": "器と道具の組み合わせから、設計と職人による製作の関係を見られます。"
+        }
+      ]
+    },
+    {
+      "id": "wassily-kandinsky",
+      "entity_type": "person",
+      "name_ja": "ヴァシリー・カンディンスキー",
+      "name_kana": "ヴァシリー・カンディンスキー",
+      "name_original": "Wassily Kandinsky",
+      "birth_year": 1866,
+      "death_year": 1944,
+      "short_bio": "ロシアに生まれ、ドイツやフランスで活動した画家。1922〜1933年にバウハウスで教え、形や色の分析を教育と制作につなげました。理論書と版画から、その両方の仕事を見られます。",
+      "representative_works": [
+        {
+          "id": "bauhaus-kandinsky-point-line-plane-1926-tanz",
+          "title_ja": "『点・線・面』の図版〈ダンス〉（36頁・図9）",
+          "title_original": "Punkt und Linie zu Fläche, Bauhausbücher 9: Tanz, p.36 / fig.9",
+          "date_label": "1926年版、Albert Langen刊、Getty 85-B15996",
+          "work_type": "基礎造形・理論書",
+          "institution": "ゲティ研究所",
+          "source_url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "credited_creator": "Vassily Kandinsky（著者・図版）／Walter Gropius（編集）／László Moholy-Nagy（デザイン）／Herbert Bayer（文字設計）",
+          "accession": "85-B15996",
+          "note": "1926年版の36頁・図9。カンディンスキーが著者と図版、グロピウスが編集、モホリ＝ナジがデザイン、バイヤーが文字設計を担当しています。1928年の第2版とは別の版です。",
+          "credits": [
+            {
+              "artist_id": "wassily-kandinsky",
+              "role": "著者・図版"
+            },
+            {
+              "artist_id": "walter-gropius",
+              "role": "編集"
+            },
+            {
+              "artist_id": "laszlo-moholy-nagy",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "herbert-bayer",
+              "role": "文字設計"
+            }
+          ],
+          "creator_role": "著者・図版"
+        },
+        {
+          "id": "bauhaus-kandinsky-frolicsome-flight-aichi",
+          "title_ja": "たのしき飛翔—『バウハウス・マイスター版画作品集』より",
+          "title_original": "Frolicsome Flight from \"Meistermappe des Staatlichen Bauhauses\"",
+          "date_label": "1923",
+          "work_type": "教員版画集・リトグラフ",
+          "institution": "愛知県美術館",
+          "source_url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4126",
+          "credited_creator": "ヴァシリー・カンディンスキー",
+          "accession": "FP199000002002",
+          "note": "1923年の教員版画集に含まれるリトグラフ。学生の授業課題ではなく、カンディンスキー自身の作品です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bauhaus-kandinsky-life",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "Wassily Kandinsky (1866–1944)",
+          "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-594",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "getty-bauhaus-beginnings-checklist",
+          "institution": "ゲティ研究所",
+          "title": "Bauhaus Beginnings：出品作品リスト",
+          "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "aichi-kandinsky-4126",
+          "institution": "愛知県美術館",
+          "title": "Frolicsome Flight, FP199000002002",
+          "url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4126",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "apj-aichi-kandinsky",
+          "institution": "国立アートリサーチセンター／愛知県美術館提供データ",
+          "title": "たのしき飛翔、W1283737",
+          "url": "https://artplatform.go.jp/ja/collections/W1283737",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "bauhaus",
+          "role": "形と色を教え、理論書と作品を制作した画家",
+          "description": "本の図版と教員版画集の一葉は、同じ作者でも目的が異なります。"
+        }
+      ]
+    },
+    {
+      "id": "paul-klee",
+      "entity_type": "person",
+      "name_ja": "パウル・クレー",
+      "name_kana": "パウル・クレー",
+      "name_original": "Paul Klee",
+      "birth_year": 1879,
+      "death_year": 1940,
+      "short_bio": "スイスに生まれた画家。バウハウスでは色と形の理論を教え、線や面がどう組み合わさるかを考えました。制作と教育を並行して続け、授業の考え方を書物にもまとめています。",
+      "representative_works": [
+        {
+          "id": "bauhaus-klee-man-fell-in-love-aichi",
+          "title_ja": "恋をした人（作品名の意味）――「バウハウス・マイスター版画作品集」より",
+          "title_original": "Man Fell in Love from \"Meistermappe des Staatlichen Bauhauses\"",
+          "date_label": "1923",
+          "work_type": "教員版画集・リトグラフ",
+          "institution": "愛知県美術館",
+          "source_url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4133",
+          "credited_creator": "パウル・クレー",
+          "accession": "FP199000002003",
+          "note": "愛知県美術館が所蔵する1923年のリトグラフです。英語の原題「Man Fell in Love」は「人が恋をした」という意味です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bauhaus-klee-life",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "Paul Klee (1879–1940)",
+          "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-Klee-Paul-624",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "aichi-klee-4133",
+          "institution": "愛知県美術館",
+          "title": "Man Fell in Love, FP199000002003",
+          "url": "https://jmapps.ne.jp/apmoa2/det.html?data_id=4133",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "bauhaus",
+          "role": "色と形の教育に携わった画家",
+          "description": "掲載の版画は、教員たちの作品を集めた1923年の版画集の一葉です。"
+        }
+      ]
+    },
+    {
+      "id": "marcel-breuer",
+      "entity_type": "person",
+      "name_ja": "マルセル・ブロイヤー",
+      "name_kana": "マルセル・ブロイヤー",
+      "name_original": "Marcel Breuer",
+      "birth_year": 1902,
+      "death_year": 1981,
+      "short_bio": "ハンガリー出身の建築家・デザイナー。バウハウスで木工を学び、のちに家具工房を率いました。鋼のパイプを用いる椅子などを手がけ、材料と身体を支える構造の関係を探りました。",
+      "representative_works": [
+        {
+          "id": "bauhaus-breuer-club-chair-moma-229-1934",
+          "title_ja": "クラブチェア（B3／ワシリー）",
+          "title_original": "Club chair (model B3 / Wassily)",
+          "date_label": "先行版の設計1925年／MoMA所蔵個体1927–1928年（229.1934）",
+          "work_type": "家具・素材・製造",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/2851/",
+          "credited_creator": "Marcel Breuer（設計）／Standard Möbel製に帰属",
+          "accession": "229.1934",
+          "creator_role": "設計",
+          "manufacturer": "Standard Möbel（帰属）",
+          "note": "先行する設計は1925年ですが、MoMAの所蔵品は1927〜1928年。製造者はスタンダード・メーベルと考えられるものとされています。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bauhaus-breuer-life",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "Marcel Breuer (1902–1981)",
+          "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-Breuer-Marcel-163",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-breuer-chair",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Club chair (model B3 / Wassily), 229.1934",
+          "url": "https://www.moma.org/collection/works/2851/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "bauhaus",
+          "role": "木工の学習から鋼管家具へ進んだデザイナー",
+          "description": "家具を工房で試作することと、工業的な材料を使うことが結びつく仕事です。"
+        }
+      ]
+    },
+    {
+      "id": "marianne-brandt",
+      "entity_type": "person",
+      "name_ja": "マリアンネ・ブラント",
+      "name_kana": "マリアンネ・ブラント",
+      "name_original": "Marianne Brandt",
+      "birth_year": 1893,
+      "death_year": 1983,
+      "short_bio": "ドイツのデザイナー・写真家。バウハウスの金属工房で茶器や照明を制作し、工房の運営にも携わりました。手作業による試作と、企業との協働による製品化の両方を経験しています。",
+      "representative_works": [
+        {
+          "id": "bauhaus-brandt-teapot-moma-186-1958",
+          "title_ja": "ティーポット",
+          "title_original": "Teapot",
+          "date_label": "1924",
+          "work_type": "金属工房・プロダクト",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://post.moma.org/marianne-brandts-bauhaus-timepiece/",
+          "credited_creator": "Marianne Brandt",
+          "accession": "186.1958.1a-c",
+          "creator_role": "設計",
+          "manufacturer": "Bauhaus Metal Workshop",
+          "medium": "洋白、黒檀",
+          "note": "1924年にバウハウスの金属工房でつくられた、洋白と黒檀のティーポットです。量産には進まず、試作品にとどまりました。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-brandt-life",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Marianne Brandt (1893–1983)",
+          "url": "https://www.moma.org/artists/741-marianne-brandt",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-brandt-timepiece",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Marianne Brandt’s Bauhaus Timepiece（Fig.6：Teapot）",
+          "url": "https://post.moma.org/marianne-brandts-bauhaus-timepiece/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-brandt-teapot",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Teapot, 1924, 186.1958.1a-c",
+          "url": "https://www.moma.org/collection/works/2438",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "bauhaus",
+          "role": "金属工房で制作し、製品化にも関わったデザイナー",
+          "description": "茶器の試作は、すぐに安価な量産品になったわけではありません。工房での制作と工業生産の間を考えられる例です。"
+        }
+      ]
+    },
+    {
+      "id": "joost-schmidt",
+      "entity_type": "person",
+      "name_ja": "ヨースト・シュミット",
+      "name_kana": "ヨースト・シュミット",
+      "name_original": "Joost Schmidt",
+      "birth_year": 1893,
+      "death_year": 1948,
+      "short_bio": "バウハウスで学び、後に教員となったドイツのグラフィックデザイナー。文字、広告、印刷に取り組みました。1923年の展覧会ポスターでは、円や四角と文字を組み合わせ、催しの情報を伝えています。",
+      "representative_works": [
+        {
+          "id": "bauhaus-joost-schmidt-exhibition-poster-1923",
+          "title_ja": "ヴァイマルのバウハウス展ポスター",
+          "title_original": "Plakat zur Bauhaus-Ausstellung in Weimar 1923",
+          "date_label": "1923年",
+          "work_type": "展覧会の広報・図形と文字による情報設計",
+          "institution": "バウハウス・コオペラツィオン",
+          "source_url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923",
+          "credited_creator": "Joost Schmidt（ポスターデザイン）／Oskar Schlemmer（組み込まれたBauhaus校章）",
+          "note": "ポスター全体の図案はヨースト・シュミット。図中のバウハウス校章はオスカー・シュレンマーによるものです。開催月を後から貼り紙で訂正した版もあります。",
+          "credits": [
+            {
+              "artist_id": "joost-schmidt",
+              "role": "ポスターデザイン"
+            },
+            {
+              "artist_id": "oskar-schlemmer",
+              "role": "組み込まれた校章のデザイン"
+            }
+          ],
+          "creator_role": "ポスターデザイン"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bauhaus-schmidt-life",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "Joost Schmidt (1893–1948)",
+          "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1136",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "bauhaus-schmidt-poster",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "Plakat zur Bauhaus-Ausstellung in Weimar 1923",
+          "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "bauhaus",
+          "role": "学校の展覧会を知らせたグラフィックデザイナー",
+          "description": "学内の課題だけでなく、一般の人に学校の活動を知らせる実際の仕事を示します。"
+        }
+      ]
+    },
+    {
+      "id": "oskar-schlemmer",
+      "entity_type": "person",
+      "name_ja": "オスカー・シュレンマー",
+      "name_kana": "オスカー・シュレンマー",
+      "name_original": "Oskar Schlemmer",
+      "birth_year": 1888,
+      "death_year": 1943,
+      "short_bio": "ドイツの画家・彫刻家・舞台美術家。バウハウスでは舞台工房を率い、身体と空間の関係を探りました。学校の校章や展覧会の印刷物にも取り組んでいます。",
+      "representative_works": [
+        {
+          "id": "bauhaus-joost-schmidt-exhibition-poster-1923",
+          "title_ja": "ヴァイマルのバウハウス展ポスター",
+          "title_original": "Plakat zur Bauhaus-Ausstellung in Weimar 1923",
+          "date_label": "1923年",
+          "work_type": "展覧会の広報・図形と文字による情報設計",
+          "institution": "バウハウス・コオペラツィオン",
+          "source_url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923",
+          "credited_creator": "Joost Schmidt（ポスターデザイン）／Oskar Schlemmer（組み込まれたBauhaus校章）",
+          "note": "ポスター全体の図案はヨースト・シュミット。シュレンマーは、ポスターに使われた校章の作者です。",
+          "credits": [
+            {
+              "artist_id": "joost-schmidt",
+              "role": "ポスターデザイン"
+            },
+            {
+              "artist_id": "oskar-schlemmer",
+              "role": "組み込まれた校章のデザイン"
+            }
+          ],
+          "creator_role": "組み込まれたバウハウス校章のデザイン"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bauhaus-schlemmer-life",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "Oskar Schlemmer (1888–1943)",
+          "url": "https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1444",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "bauhaus-schmidt-poster",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "シュミットのポスター内のシュレンマーの校章",
+          "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "getty-bauhaus-beginnings-checklist",
+          "institution": "ゲティ研究所",
+          "title": "Bauhaus Beginnings：出品作品リスト",
+          "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "related_works": [
+        {
+          "id": "bauhaus-schlemmer-ausstellung-week-flyer-1923",
+          "title_ja": "《1923年の展覧会—バウハウス週間》の案内",
+          "title_original": "Die Ausstellung 1923, Die Bauhauswoche",
+          "date_label": "1923年",
+          "work_type": "展覧会案内・リトグラフ",
+          "institution": "ゲティ研究所（同題の資料の記録）",
+          "source_url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/beginnings/checklist.pdf",
+          "creator_role": "デザイン",
+          "note": "同じ題名の案内がゲティ研究所の出品リストにも記録されています。本章に掲載されたヴァイマルでの写真とは、所蔵個体の記録が異なります。",
+          "chapter_representative": false
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "bauhaus",
+          "role": "舞台と学校の視覚表現に携わった人物",
+          "description": "本章では、校章が使われたポスターと、自らデザインした展覧会案内との役割の違いが見られます。"
+        }
+      ]
+    },
+    {
+      "id": "josef-muller-brockmann",
+      "entity_type": "person",
+      "name_ja": "ヨゼフ・ミューラー＝ブロックマン",
+      "name_kana": "ヨゼフ・ミューラー＝ブロックマン",
+      "name_original": "Josef Müller-Brockmann",
+      "birth_year": 1914,
+      "death_year": 1996,
+      "short_bio": "スイスのグラフィックデザイナー・教育者。チューリヒで活動し、文字や幾何学的な図形を整理するグリッドを、ポスターや教育に用いました。デザイン誌『ノイエ・グラフィーク』の共同創刊者でもあります。",
+      "representative_works": [
+        {
+          "id": "swiss-muller-beethoven-ch-2019-22-6",
+          "title_ja": "ベートーヴェンの演奏会ポスター",
+          "title_original": "Beethoven",
+          "date_label": "1955（Cooper Hewitt所蔵記録）",
+          "work_type": "音楽ポスター",
+          "institution": "クーパー・ヒューイット国立デザイン博物館",
+          "source_url": "https://collections.si.edu/search/detail/edanmdm:chndm_2019-22-6",
+          "accession": "2019-22-6",
+          "creator_role": "デザイン",
+          "printer": "Lithographie & Cartonnage A.G., Zürich",
+          "medium": "紙にリトグラフ",
+          "note": "1955年に刷られたポスター。図案を考えたデザイナーと、紙に刷った印刷所は別の担当です。"
+        },
+        {
+          "id": "swiss-muller-der-film-moma-57-1960",
+          "title_ja": "映画展のポスター",
+          "title_original": "Der Film",
+          "date_label": "1960",
+          "work_type": "展覧会ポスター",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/4882",
+          "accession": "57.1960",
+          "creator_role": "デザイン",
+          "medium": "オフセット・リトグラフ",
+          "note": "1960年の展覧会ポスター。後年のシルクスクリーンによる再版とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-muller-life",
+          "institution": "ニューヨーク近代美術館",
+          "title": "ヨゼフ・ミューラー＝ブロックマンの生没年",
+          "url": "https://www.moma.org/artists/4154-josef-muller-brockmann",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "posterhouse-swiss-grid",
+          "institution": "ポスター・ハウス",
+          "title": "スイスのグリッド：デザイナーと作品",
+          "url": "https://swissgrid.posterhouse.org/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "ch-beethoven-1955",
+          "institution": "クーパー・ヒューイット国立デザイン博物館／スミソニアン協会",
+          "title": "ベートーヴェン（2019-22-6）",
+          "url": "https://collections.si.edu/search/detail/edanmdm:chndm_2019-22-6",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-der-film",
+          "institution": "ニューヨーク近代美術館",
+          "title": "映画展のポスター（57.1960）",
+          "url": "https://www.moma.org/collection/works/4882",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "swiss-style",
+          "role": "チューリヒで情報の組み立てを探ったデザイナー",
+          "description": "音楽や展覧会のポスターを通じ、図形と文字によって情報を伝える仕事を見られます。"
+        }
+      ]
+    },
+    {
+      "id": "armin-hofmann",
+      "entity_type": "person",
+      "name_ja": "アルミン・ホフマン",
+      "name_kana": "アルミン・ホフマン",
+      "name_original": "Armin Hofmann",
+      "birth_year": 1920,
+      "death_year": 2020,
+      "short_bio": "スイスのグラフィックデザイナー・教育者。1947年からバーゼルで教え、点・線・面や、形どうしの対比を重んじました。決まった配置を守るだけではなく、見る人にどう伝わるかを考えたポスターを制作しました。",
+      "representative_works": [
+        {
+          "id": "swiss-hofmann-giselle-moma-380-1963",
+          "title_ja": "ジゼル――バーゼル野外公演",
+          "title_original": "Giselle, Basler Freilichtspiele",
+          "date_label": "1959",
+          "work_type": "舞踊ポスター",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/6775",
+          "accession": "380.1963",
+          "creator_role": "ポスターデザイン",
+          "printer": "Wassermann A.G., Basel",
+          "medium": "フォトリトグラフ",
+          "note": "1959年の舞踊ポスター。印刷はヴァッサーマン社で、これはポスター内の写真の撮影者を示すクレジットではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-hofmann-life",
+          "institution": "ニューヨーク近代美術館",
+          "title": "アルミン・ホフマンの生没年",
+          "url": "https://www.moma.org/artists/2697-armin-hofmann",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "sfg-basel-history",
+          "institution": "バーゼル・デザイン学校",
+          "title": "学校の歴史：ホフマンとヴァインガルト",
+          "url": "https://www.sfgbasel.ch/uber-uns/geschichte",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "posterhouse-swiss-grid",
+          "institution": "ポスター・ハウス",
+          "title": "スイスのグリッド：デザイナーと作品",
+          "url": "https://swissgrid.posterhouse.org/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-giselle",
+          "institution": "ニューヨーク近代美術館",
+          "title": "ジゼル（380.1963）",
+          "url": "https://www.moma.org/collection/works/6775",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "swiss-style",
+          "role": "バーゼルで制作と教育に携わったデザイナー",
+          "description": "舞踊のポスターでは、写真と文字を組み合わせています。整った配置と、視覚的な効果の関係を考えられる例です。"
+        }
+      ]
+    },
+    {
+      "id": "carlo-vivarelli",
+      "entity_type": "person",
+      "name_ja": "カルロ・ヴィヴァレリ",
+      "name_kana": "カルロ・ヴィヴァレリ",
+      "name_original": "Carlo Vivarelli",
+      "birth_year": 1919,
+      "death_year": 1986,
+      "short_bio": "スイスのグラフィックデザイナー。チューリヒとパリで学び、企業の広告を手がけました。『ノイエ・グラフィーク』の共同創刊に加わり、創刊号の表紙をデザインしました。",
+      "representative_works": [
+        {
+          "id": "swiss-vivarelli-neue-grafik-1-1958",
+          "title_ja": "ノイエ・グラフィーク第1号の表紙",
+          "title_original": "Neue Grafik 1",
+          "date_label": "1958年",
+          "work_type": "雑誌表紙・活版印刷",
+          "institution": "チューリヒ・デザイン美術館／チューリヒ芸術大学",
+          "source_url": "https://www.zhdk.ch/file/live/da/da5c890c90dd66931641973a9b4af4ebdea11c9b/20170201092135_58919a8ff3b8d.pdf",
+          "creator_role": "表紙デザイン",
+          "medium": "活版印刷",
+          "dimensions": "28 × 24.8 cm",
+          "note": "1958年の創刊号の表紙。共同編集者全員による表紙の共同デザインではなく、展覧会資料はヴィヴァレリを作者として記録しています。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "posterhouse-swiss-grid",
+          "institution": "ポスター・ハウス",
+          "title": "スイスのグリッド：デザイナーと作品",
+          "url": "https://swissgrid.posterhouse.org/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "zhdk-weingart-exhibition-texts",
+          "institution": "チューリヒ・デザイン美術館／チューリヒ芸術大学",
+          "title": "ヴァインガルト・タイポグラフィ：展覧会解説・研究報告",
+          "url": "https://www.zhdk.ch/file/live/da/da5c890c90dd66931641973a9b4af4ebdea11c9b/20170201092135_58919a8ff3b8d.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "swiss-style",
+          "role": "デザイン誌の創刊に加わり、表紙をつくった人物",
+          "description": "個別の表紙デザインと、複数人による雑誌の編集は、担当の範囲が異なります。"
+        }
+      ]
+    },
+    {
+      "id": "wolfgang-weingart",
+      "entity_type": "person",
+      "name_ja": "ヴォルフガング・ヴァインガルト",
+      "name_kana": "ヴォルフガング・ヴァインガルト",
+      "name_original": "Wolfgang Weingart",
+      "birth_year": 1941,
+      "death_year": 2021,
+      "short_bio": "活字組版を学び、バーゼルで教えたデザイナー。文字を組む手作業や印刷材料を使い、従来の配置の決まりを問い直しました。自分の制作と、学生たちの実験を促す教育を並行して続けました。",
+      "representative_works": [
+        {
+          "id": "newwave-weingart-process-2-moma-264-2002-2",
+          "title_ja": "タイポグラフィック・プロセス第2号：単純から複雑へ",
+          "title_original": "Typographic Process, Nr 2. From Simple to Complex",
+          "date_label": "1973年",
+          "work_type": "文字・印刷の実験を示す印刷物",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/86504",
+          "accession": "264.2002.2",
+          "creator_role": "デザイン",
+          "printer": "G. Gissler Basle",
+          "medium": "リトグラフ",
+          "note": "1973年の第2号。連作全体の年代や、別の番号の作品とは区別します。"
+        },
+        {
+          "id": "newwave-weingart-kunstkredit-moma-208-2006",
+          "title_ja": "クンストハレ・バーゼル：クンストクレディート76–77",
+          "title_original": "Kunsthalle Basel Kunstkredit 76–77",
+          "date_label": "1977年",
+          "work_type": "展覧会ポスター",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/101455",
+          "accession": "208.2006",
+          "creator_role": "デザイン",
+          "medium": "リトグラフ",
+          "note": "作品名に76–77とありますが、所蔵館が示す制作年は1977年です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-weingart-life",
+          "institution": "ニューヨーク近代美術館",
+          "title": "ヴォルフガング・ヴァインガルトの生没年",
+          "url": "https://www.moma.org/artists/6289-wolfgang-weingart",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "sfg-basel-history",
+          "institution": "バーゼル・デザイン学校",
+          "title": "学校の歴史：ホフマンとヴァインガルト",
+          "url": "https://www.sfgbasel.ch/uber-uns/geschichte",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mfg-weingart-context",
+          "institution": "チューリヒ・デザイン美術館",
+          "title": "ヴァインガルト：伝統、技術、実験",
+          "url": "https://museum-gestaltung.ch/en/article/wolfgang-weingart-typography-context",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-process2",
+          "institution": "ニューヨーク近代美術館",
+          "title": "タイポグラフィック・プロセス第2号（264.2002.2）",
+          "url": "https://www.moma.org/collection/works/86504",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-kunstkredit",
+          "institution": "ニューヨーク近代美術館",
+          "title": "クンストクレディート76–77（208.2006）",
+          "url": "https://www.moma.org/collection/works/101455",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "new-wave-typography",
+          "role": "文字組みの実験を制作と教育につないだ人物",
+          "description": "文字の研究を示す印刷物と、展覧会のポスターを比べられます。手作業を重んじた制作を、デジタル制作と同一視しません。"
+        }
+      ]
+    },
+    {
+      "id": "april-greiman",
+      "entity_type": "person",
+      "name_ja": "エイプリル・グレイマン",
+      "name_kana": "エイプリル・グレイマン",
+      "name_original": "April Greiman",
+      "birth_year": 1948,
+      "death_year": null,
+      "short_bio": "米国のグラフィックデザイナー。バーゼルで学んだ後、ロサンゼルスで制作しました。写真や文字を組み合わせ、早い時期からコンピューターを使った画像制作を試みています。",
+      "representative_works": [
+        {
+          "id": "newwave-greiman-dq133-moma-39-2024",
+          "title_ja": "ダズ・イット・メイク・センス？：デザイン・クォータリー第133号",
+          "title_original": "DOES IT MAKE SENSE? Design Quarterly #133 (Design for special issue of Design Quarterly, no. 133)",
+          "date_label": "1986年",
+          "work_type": "雑誌の特別号・ポスター",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/172729",
+          "accession": "39.2024",
+          "creator_role": "デザイン",
+          "publisher": "ウォーカー・アート・センター",
+          "medium": "リトグラフ",
+          "note": "1986年の『デザイン・クォータリー』第133号のためのデザイン。両面を使った折り込み形式で、39.2024は所蔵番号です。"
+        },
+        {
+          "id": "newwave-greiman-seven-pixels-moma-477-1987",
+          "title_ja": "スノー・ホワイトと7つのピクセル：エイプリル・グレイマンとの夕べ",
+          "title_original": "Snow White + the Seven Pixels, An Evening with April Greiman",
+          "date_label": "1986年",
+          "work_type": "講演会ポスター",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/7177",
+          "accession": "477.1987",
+          "creator_role": "デザイン",
+          "printer": "Art Litho. Co., Baltimore",
+          "medium": "オフセット・リトグラフ",
+          "note": "1986年の講演会ポスター。印刷はアート・リト社が担当しました。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-greiman-life",
+          "institution": "ニューヨーク近代美術館",
+          "title": "エイプリル・グレイマンの出生年",
+          "url": "https://www.moma.org/artists/2330-april-greiman",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-greiman-exhibition-2025",
+          "institution": "ニューヨーク近代美術館",
+          "title": "エイプリル・グレイマン：デジタル技術による制作",
+          "url": "https://www.moma.org/calendar/exhibitions/5827",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-greiman-dq133",
+          "institution": "ニューヨーク近代美術館",
+          "title": "デザイン・クォータリー第133号（39.2024）",
+          "url": "https://www.moma.org/collection/works/172729",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-greiman-seven-pixels",
+          "institution": "ニューヨーク近代美術館",
+          "title": "スノー・ホワイトと7つのピクセル（477.1987）",
+          "url": "https://www.moma.org/collection/works/7177",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "1948年生まれ",
+      "life_status": "unknown",
+      "death_year_status": "参照した一次資料に没年の記載なし。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "new-wave-typography",
+          "role": "文字と画像にデジタル技術を取り入れたデザイナー",
+          "description": "雑誌の折り込みと講演会のポスターから、印刷物の形式や制作技術を広げる仕事を見られます。"
+        }
+      ]
+    },
+    {
+      "id": "gustav-klimt",
+      "entity_type": "person",
+      "name_ja": "グスタフ・クリムト",
+      "name_kana": "グスタフ・クリムト",
+      "name_original": "Gustav Klimt",
+      "birth_year": 1862,
+      "death_year": 1918,
+      "short_bio": "ウィーンで活動した画家。1897年に創設された分離派の初代会長を務めました。絵画に加えて展覧会のポスターや壁画も制作し、人の姿と装飾を結びつけました。",
+      "representative_works": [
+        {
+          "id": "klimt-first-secession-1898",
+          "title_ja": "第1回分離派展のポスター",
+          "title_original": "Plakat der 1. Ausstellung der Secession",
+          "date_label": "1898年",
+          "work_type": "作品・制作物",
+          "institution": "ウィーン・ミュージアム",
+          "source_url": "https://sammlung.wienmuseum.at/en/object/224137-plakat-der-1-ausstellung-der-secession/",
+          "accession": "129001/4",
+          "creator_role": "ポスターデザイン",
+          "medium": "色彩リトグラフ",
+          "note": "1898年のポスター。ここで扱うのはウィーン・ミュージアムの所蔵品で、別館の同図柄のポスターとは所蔵個体が異なります。"
+        },
+        {
+          "id": "secession-beethoven-frieze-exhibition-1902",
+          "title_ja": "ベートーヴェン・フリーズ（第14回分離派展）",
+          "title_original": "Beethoven Frieze / XIVth exhibition, 1902",
+          "date_label": "1902",
+          "work_type": "壁画・展示空間・共同制作",
+          "institution": "ウィーン分離派",
+          "source_url": "https://secession.at/beethovenfrieze",
+          "credits": [
+            {
+              "artist_id": "gustav-klimt",
+              "role": "壁画の制作"
+            },
+            {
+              "artist_id": "josef-hoffmann",
+              "role": "展覧会全体の指揮"
+            }
+          ],
+          "note": "クリムトによる壁画と、ホフマンが指揮した展覧会全体とは担当の範囲が異なります。会場にはほかの芸術家の仕事もあり、現在の地下展示室は1902年の展示配置とは異なります。",
+          "creator_role": "壁画の制作"
+        },
+        {
+          "id": "wien-45677-emilie-floege",
+          "title_ja": "エミーリエ・フレーゲの肖像",
+          "title_original": "Bildnis Emilie Flöge",
+          "date_label": "1902",
+          "work_type": "絵画・肖像",
+          "institution": "ウィーン・ミュージアム",
+          "source_url": "https://sammlung.wienmuseum.at/objekt/820521-bildnis-emilie-floege/",
+          "accession": "45677",
+          "creator_role": "絵画の制作",
+          "medium": "カンヴァスに油彩",
+          "note": "1902年の肖像画。作品の作者はクリムトで、掲載画像の撮影者とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "wien-museum-224137",
+          "institution": "ウィーン・ミュージアム",
+          "title": "第1回分離派展のポスター（129001/4）",
+          "url": "https://sammlung.wienmuseum.at/en/object/224137-plakat-der-1-ausstellung-der-secession/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "wien-emilie-45677",
+          "institution": "ウィーン・ミュージアム",
+          "title": "エミーリエ・フレーゲの肖像（45677）",
+          "url": "https://sammlung.wienmuseum.at/objekt/820521-bildnis-emilie-floege/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-association-history",
+          "institution": "ウィーン分離派",
+          "title": "分離派の創設と活動",
+          "url": "https://secession.at/en/association_of_visual_artists_vienna_secession",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-beethoven-frieze",
+          "institution": "ウィーン分離派",
+          "title": "ベートーヴェン・フリーズと1902年の展覧会",
+          "url": "https://secession.at/beethovenfrieze",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "分離派の初代会長を務めた画家",
+          "description": "ポスター、壁面の連作、肖像画を通じ、発表する場所や目的による仕事の違いを見られます。"
+        }
+      ]
+    },
+    {
+      "id": "koloman-moser",
+      "entity_type": "person",
+      "name_ja": "コロマン・モーザー",
+      "name_kana": "コロマン・モーザー",
+      "name_original": "Koloman Moser",
+      "birth_year": 1868,
+      "death_year": 1918,
+      "short_bio": "ウィーンの画家・デザイナー。分離派の創設に参加し、ポスター、家具、展示空間などを手がけました。ホフマンらとウィーン工房も創設し、平面の装飾と暮らしの道具の両方を設計しました。",
+      "representative_works": [
+        {
+          "id": "moser-13th-secession-1902",
+          "title_ja": "第13回分離派展のポスター",
+          "title_original": "Plakat für die 13. Ausstellung der Secession",
+          "date_label": "1902年",
+          "work_type": "作品・制作物",
+          "institution": "ウィーン・ミュージアム",
+          "source_url": "https://sammlung.wienmuseum.at/objekt/227076-plakat-fuer-die-13-ausstellung-der-secession/",
+          "accession": "129060/1",
+          "creator_role": "ポスターデザイン",
+          "printer": "アルベルト・ベルガー美術印刷所",
+          "medium": "色彩リトグラフ",
+          "credits": [
+            {
+              "artist_id": "koloman-moser",
+              "role": "ポスターデザイン"
+            },
+            {
+              "artist_id": "albert-berger-kunstanstalt",
+              "role": "印刷"
+            }
+          ]
+        },
+        {
+          "id": "moser-rich-catch-mak-h1700",
+          "title_ja": "豊かな漁獲",
+          "title_original": "Der reiche Fischzug",
+          "date_label": "1900年",
+          "work_type": "作品・制作物",
+          "institution": "ウィーン応用美術館（MAK）",
+          "source_url": "https://sammlung.mak.at/de/collect/der-reiche-fischzug_184942",
+          "accession": "H 1700",
+          "creator_role": "設計",
+          "manufacturer": "ポルトワ＆フィックス",
+          "note": "1900年の第8回分離派展に出品された戸棚。モーザーが設計し、ポルトワ＆フィックスが製作しました。",
+          "credits": [
+            {
+              "artist_id": "koloman-moser",
+              "role": "設計"
+            },
+            {
+              "artist_id": "portois-and-fix",
+              "role": "製作"
+            }
+          ]
+        },
+        {
+          "id": "moser-fruit-basket-leopold-6090",
+          "title_ja": "小さな果物かご",
+          "title_original": "Small Fruit Basket",
+          "date_label": "1904年（Leopold Museum 6090）",
+          "work_type": "金工・生活の器",
+          "institution": "レオポルド美術館",
+          "source_url": "https://onlinecollection.leopoldmuseum.org/en/object/5902-small-fruit-basket/",
+          "accession": "6090",
+          "creator_role": "設計",
+          "manufacturer": "ウィーン工房",
+          "medium": "銀",
+          "dimensions": "5.4 × 16.4 × 16.4 cm",
+          "note": "1904年製の銀のかご。白く塗られた鉄板製の別製品ではなく、2017年はこの所蔵品の収蔵年です。",
+          "credits": [
+            {
+              "artist_id": "koloman-moser",
+              "role": "設計"
+            },
+            {
+              "artist_id": "wiener-werkstaette",
+              "role": "製作"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "wien-museum-227076",
+          "institution": "ウィーン・ミュージアム",
+          "title": "第13回分離派展のポスター（129060/1）",
+          "url": "https://sammlung.wienmuseum.at/objekt/227076-plakat-fuer-die-13-ausstellung-der-secession/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-rich-catch-1900",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "豊かな漁獲（H 1700）",
+          "url": "https://sammlung.mak.at/de/collect/der-reiche-fischzug_184942",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-hoffmann-moser-2018",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ヨーゼフ・ホフマンとコロマン・モーザー",
+          "url": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/MAK-PressRelease_JOSEFHOFFMANN-KOLOMANMOSER_EN_2018-05-02_1005278.pdf",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-association-history",
+          "institution": "ウィーン分離派",
+          "title": "分離派の創設と活動",
+          "url": "https://secession.at/en/association_of_visual_artists_vienna_secession",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "leopold-moser-basket6090",
+          "institution": "レオポルド美術館",
+          "title": "小さな果物かご（6090）",
+          "url": "https://onlinecollection.leopoldmuseum.org/en/object/5902-small-fruit-basket/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-wiener-werkstaette-history",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ウィーン工房の歴史",
+          "url": "https://www.mak.at/sammlung/sammlung/mak-sammlung_artikel?article_id=1342703965926",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "印刷物と家具、展示空間をつないだデザイナー",
+          "description": "同じ人物の仕事を、展覧会ポスターと、展覧会に出された家具から見られます。"
+        },
+        {
+          "chapter_id": "wiener-werkstaette",
+          "role": "工房の共同創設者・器の設計者",
+          "description": "分離派での印刷物や家具の仕事に加え、ウィーン工房では金属の器も設計しました。ここでは銀の小さな果物かごを取り上げます。"
+        }
+      ]
+    },
+    {
+      "id": "joseph-maria-olbrich",
+      "entity_type": "person",
+      "name_ja": "ヨーゼフ・マリア・オルブリヒ",
+      "name_kana": "ヨーゼフ・マリア・オルブリヒ",
+      "name_original": "Joseph Maria Olbrich",
+      "birth_year": 1867,
+      "death_year": 1908,
+      "short_bio": "ウィーンとダルムシュタットで活動した建築家・デザイナー。分離派の創設に参加し、その展示会館を設計しました。建物だけでなく、室内や家具なども一体として考えました。",
+      "representative_works": [
+        {
+          "id": "secession-building-1898",
+          "title_ja": "ウィーン分離派会館",
+          "title_original": "Secession Building, Vienna",
+          "date_label": "1898年完成",
+          "work_type": "作品・制作物",
+          "institution": "ウィーン分離派",
+          "source_url": "https://secession.at/building/",
+          "creator_role": "建築設計",
+          "note": "建物は1898年に完成。装飾には他の芸術家も参加しました。章に掲載された2024年の写真の撮影者はコニー・ダックで、建築家とは別人です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "leopold-olbrich-biography",
+          "institution": "レオポルド美術館",
+          "title": "オルブリヒ：建築とデザインの仕事",
+          "url": "https://www.leopoldmuseum.org/en/exhibitions/24/art-nouveau-and-secession",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-association-history",
+          "institution": "ウィーン分離派",
+          "title": "分離派の創設と活動",
+          "url": "https://secession.at/en/association_of_visual_artists_vienna_secession",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-building-history",
+          "institution": "ウィーン分離派",
+          "title": "分離派会館の建築と歴史",
+          "url": "https://secession.at/building/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "作品を発表する会館を設計した建築家",
+          "description": "会館そのものも、新しい芸術の考えを伝える場でした。建築の設計と、各部の装飾、後年の写真は別の仕事です。"
+        }
+      ]
+    },
+    {
+      "id": "alfred-roller",
+      "entity_type": "person",
+      "name_ja": "アルフレート・ローラー",
+      "name_kana": "アルフレート・ローラー",
+      "name_original": "Alfred Roller",
+      "birth_year": 1864,
+      "death_year": 1935,
+      "short_bio": "モラヴィアに生まれた美術家。ポスター制作に加え、分離派の雑誌の編集や、1902年の展覧会の壁面装飾にも携わりました。",
+      "representative_works": [
+        {
+          "id": "ver-sacrum-1898-special-vs1-4",
+          "title_ja": "ヴェル・サクルム第1年・特別号",
+          "title_original": "Ver Sacrum, 1. Jahrgang, 1898, Sonderheft",
+          "date_label": "1898",
+          "work_type": "団体の雑誌・共同編集",
+          "institution": "ウィーン分離派",
+          "source_url": "https://secession.at/en/digital_archive/6581",
+          "accession": "VS 1 - 4",
+          "dimensions": "28.5 × 30 × 0.4 cm",
+          "publisher": "ゲルラッハ＆シェンク",
+          "printer": "フィリップ＆クラーマー",
+          "credits": [
+            {
+              "artist_id": "alfred-roller",
+              "role": "編集"
+            },
+            {
+              "artist_id": "peter-behrens",
+              "role": "誌面装飾"
+            },
+            {
+              "artist_id": "leopold-kainradl",
+              "role": "誌面装飾"
+            }
+          ],
+          "note": "通常の創刊号ではなく、1898年の特別号です。複数の人が関わる雑誌であり、編集者や装飾の担当者が、掲載された全作品の作者という意味ではありません。",
+          "creator_role": "編集"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-roller-life",
+          "institution": "ニューヨーク近代美術館",
+          "title": "アルフレート・ローラーの生没年",
+          "url": "https://www.moma.org/artists/37919-alfred-roller",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-ver-sacrum1898-special",
+          "institution": "ウィーン分離派",
+          "title": "ヴェル・サクルム第1年・特別号（VS 1 - 4）",
+          "url": "https://secession.at/en/digital_archive/6581",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-beethoven-frieze",
+          "institution": "ウィーン分離派",
+          "title": "ベートーヴェン・フリーズと1902年の展覧会",
+          "url": "https://secession.at/beethovenfrieze",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "分離派の雑誌を編集した美術家",
+          "description": "特別号における編集の担当を示します。一冊に載る絵や文章を、すべてローラーの作とは扱いません。"
+        }
+      ]
+    },
+    {
+      "id": "peter-behrens",
+      "entity_type": "person",
+      "name_ja": "ペーター・ベーレンス",
+      "name_kana": "ペーター・ベーレンス",
+      "name_original": "Peter Behrens",
+      "birth_year": 1868,
+      "death_year": 1940,
+      "short_bio": "ドイツの画家・建築家・デザイナー。絵画から工芸、建築、工業製品へと仕事を広げました。この章では、分離派の雑誌に誌面装飾を寄せた人物として取り上げます。",
+      "representative_works": [
+        {
+          "id": "ver-sacrum-1898-special-vs1-4",
+          "title_ja": "ヴェル・サクルム第1年・特別号",
+          "title_original": "Ver Sacrum, 1. Jahrgang, 1898, Sonderheft",
+          "date_label": "1898",
+          "work_type": "団体の雑誌・共同編集",
+          "institution": "ウィーン分離派",
+          "source_url": "https://secession.at/en/digital_archive/6581",
+          "accession": "VS 1 - 4",
+          "dimensions": "28.5 × 30 × 0.4 cm",
+          "publisher": "ゲルラッハ＆シェンク",
+          "printer": "フィリップ＆クラーマー",
+          "credits": [
+            {
+              "artist_id": "alfred-roller",
+              "role": "編集"
+            },
+            {
+              "artist_id": "peter-behrens",
+              "role": "誌面装飾"
+            },
+            {
+              "artist_id": "leopold-kainradl",
+              "role": "誌面装飾"
+            }
+          ],
+          "note": "通常の創刊号ではなく、1898年の特別号です。複数の人が関わる雑誌であり、編集者や装飾の担当者が、掲載された全作品の作者という意味ではありません。",
+          "creator_role": "誌面装飾"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dhm-behrens-biography",
+          "institution": "ドイツ歴史博物館",
+          "title": "ペーター・ベーレンスの略歴",
+          "url": "https://www.dhm.de/lemo/biografie/peter-behrens",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-ver-sacrum1898-special",
+          "institution": "ウィーン分離派",
+          "title": "ヴェル・サクルム第1年・特別号（VS 1 - 4）",
+          "url": "https://secession.at/en/digital_archive/6581",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "雑誌の誌面装飾を担当した寄稿者",
+          "description": "1898年の特別号の記録に基づく関係です。ウィーン分離派の創設者や、誌面全体の単独設計者という意味ではありません。"
+        }
+      ]
+    },
+    {
+      "id": "leopold-kainradl",
+      "entity_type": "person",
+      "name_ja": "レオポルト・カインラドル",
+      "name_kana": "レオポルト・カインラドル",
+      "name_original": "Leopold Kainradl",
+      "birth_year": null,
+      "death_year": null,
+      "short_bio": "1898年の『ヴェル・サクルム』特別号で、誌面装飾を手がけた美術家。分離派のアーカイブは、同号の32頁に用いられた装飾図の原画も記録しています。",
+      "representative_works": [
+        {
+          "id": "ver-sacrum-1898-special-vs1-4",
+          "title_ja": "ヴェル・サクルム第1年・特別号",
+          "title_original": "Ver Sacrum, 1. Jahrgang, 1898, Sonderheft",
+          "date_label": "1898",
+          "work_type": "団体の雑誌・共同編集",
+          "institution": "ウィーン分離派",
+          "source_url": "https://secession.at/en/digital_archive/6581",
+          "accession": "VS 1 - 4",
+          "dimensions": "28.5 × 30 × 0.4 cm",
+          "publisher": "ゲルラッハ＆シェンク",
+          "printer": "フィリップ＆クラーマー",
+          "credits": [
+            {
+              "artist_id": "alfred-roller",
+              "role": "編集"
+            },
+            {
+              "artist_id": "peter-behrens",
+              "role": "誌面装飾"
+            },
+            {
+              "artist_id": "leopold-kainradl",
+              "role": "誌面装飾"
+            }
+          ],
+          "note": "通常の創刊号ではなく、1898年の特別号です。複数の人が関わる雑誌であり、編集者や装飾の担当者が、掲載された全作品の作者という意味ではありません。",
+          "creator_role": "誌面装飾"
+        }
+      ],
+      "sources": [
+        {
+          "id": "secession-ver-sacrum1898-special",
+          "institution": "ウィーン分離派",
+          "title": "ヴェル・サクルム第1年・特別号（VS 1 - 4）",
+          "url": "https://secession.at/en/digital_archive/6581",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-kainradl-vignette",
+          "institution": "ウィーン分離派",
+          "title": "特別号32頁の装飾図の原画（745）",
+          "url": "https://secession.at/en/digital_archive/5216",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "生没年未詳",
+      "life_status": "unknown",
+      "birth_year_status": "unknown",
+      "death_year_status": "unknown",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "雑誌の誌面装飾を担当した人物",
+          "description": "特別号の装飾の担当者として紹介します。一冊全体の編集や、他の掲載作品の制作とは役割が異なります。"
+        }
+      ]
+    },
+    {
+      "id": "josef-hoffmann",
+      "entity_type": "person",
+      "name_ja": "ヨーゼフ・ホフマン",
+      "name_kana": "ヨーゼフ・ホフマン",
+      "name_original": "Josef Hoffmann",
+      "birth_year": 1870,
+      "death_year": 1956,
+      "short_bio": "建築、室内、生活用品、展示を手がけたデザイナー・教育者。分離派とウィーン工房の創設に参加しました。1902年のベートーヴェン展では、複数の芸術家の仕事をまとめる指揮を担いました。",
+      "representative_works": [
+        {
+          "id": "secession-beethoven-frieze-exhibition-1902",
+          "title_ja": "ベートーヴェン・フリーズ（第14回分離派展）",
+          "title_original": "Beethoven Frieze / XIVth exhibition, 1902",
+          "date_label": "1902",
+          "work_type": "壁画・展示空間・共同制作",
+          "institution": "ウィーン分離派",
+          "source_url": "https://secession.at/beethovenfrieze",
+          "credits": [
+            {
+              "artist_id": "gustav-klimt",
+              "role": "壁画の制作"
+            },
+            {
+              "artist_id": "josef-hoffmann",
+              "role": "展覧会全体の指揮"
+            }
+          ],
+          "note": "クリムトによる壁画と、ホフマンが指揮した展覧会全体とは担当の範囲が異なります。会場にはほかの芸術家の仕事もあり、現在の地下展示室は1902年の展示配置とは異なります。",
+          "creator_role": "展覧会全体の指揮（壁画の作者ではない）"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mak-hoffmann-biography",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ヨーゼフ・ホフマンの建築・デザイン・教育",
+          "url": "https://www.mak.at/programm/ausstellungen/josef_hoffmann_5",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-beethoven-frieze",
+          "institution": "ウィーン分離派",
+          "title": "ベートーヴェン・フリーズと1902年の展覧会",
+          "url": "https://secession.at/beethovenfrieze",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "secession-association-history",
+          "institution": "ウィーン分離派",
+          "title": "分離派の創設と活動",
+          "url": "https://secession.at/en/association_of_visual_artists_vienna_secession",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "展覧会全体の構成を指揮した建築家",
+          "description": "クリムトの壁画の作者ではなく、壁画や彫刻が一つの会場で出会う展示をまとめた立場です。"
+        }
+      ]
+    },
+    {
+      "id": "dagobert-peche",
+      "entity_type": "person",
+      "name_ja": "ダゴベルト・ペッヒェ",
+      "name_kana": "ダゴベルト・ペッヒェ",
+      "name_original": "Dagobert Peche",
+      "birth_year": 1887,
+      "death_year": 1923,
+      "short_bio": "建築を学んだ後、工芸やデザインを手がけた人物。自然の形をもとにした豊かな装飾を、家具、金工、布、壁紙、印刷物などへ展開しました。1915年からウィーン工房に加わりました。",
+      "representative_works": [
+        {
+          "id": "peche-daphne-mak-wwtamb-1-147",
+          "title_ja": "ダフネ（壁紙）",
+          "title_original": "Daphne",
+          "date_label": "1914年（MAK WWTAMB 1-147）",
+          "work_type": "室内装飾・壁紙・外部製造",
+          "institution": "ウィーン応用美術館（MAK）",
+          "source_url": "https://www.mak.at/pechepop",
+          "accession": "WWTAMB 1-147",
+          "creator_role": "設計",
+          "manufacturer": "Max Schmidt",
+          "medium": "版による印刷（Modeldruck）",
+          "note": "1914年の壁紙。設計はペッヒェ、製造はマックス・シュミットと記録されています。ウィーン工房内部での製造とは区別します。"
+        },
+        {
+          "id": "peche-stoffe-1914",
+          "title_ja": "ウィーン工房の布地を宣伝するポスター",
+          "title_original": "Stoffe der Wiener Werkstätte",
+          "date_label": "1914年",
+          "work_type": "ポスター",
+          "institution": "ハンブルク美術工芸博物館",
+          "source_url": "https://www.mkg-hamburg.de/object/dc00066542",
+          "accession": "EP2014.898",
+          "creator_role": "ポスターデザイン",
+          "medium": "紙にリトグラフ",
+          "note": "1914年の布地の広告ポスター。布の見本そのものではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mak-peche-daphne",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ペッヒェのデザインと壁紙ダフネ",
+          "url": "https://www.mak.at/pechepop",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-wiener-werkstaette-history",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ウィーン工房の歴史",
+          "url": "https://www.mak.at/sammlung/sammlung/mak-sammlung_artikel?article_id=1342703965926",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "peche-stoffe-1914-source",
+          "institution": "ハンブルク美術工芸博物館",
+          "title": "ウィーン工房の布地を宣伝するポスター（EP2014.898）",
+          "url": "https://www.mkg-hamburg.de/object/dc00066542",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "wiener-werkstaette",
+          "role": "素材を横断して装飾を展開したデザイナー",
+          "description": "壁紙と布地の広告ポスターから、生活の空間と印刷物にまたがる仕事を見られます。"
+        }
+      ]
+    },
+    {
+      "id": "vally-wieselthier",
+      "entity_type": "person",
+      "name_ja": "ヴァリー・ヴィーゼルティーア",
+      "name_kana": "ヴァリー・ヴィーゼルティーア",
+      "name_original": "Vally Wieselthier",
+      "birth_year": 1895,
+      "death_year": 1945,
+      "short_bio": "ウィーンに生まれた陶芸家・デザイナー。ウィーン工房で陶の人物像を制作し、布やグラフィックの仕事にも携わりました。1927年から工房の陶芸制作を率い、後には米国でも活動しました。",
+      "representative_works": [
+        {
+          "id": "wieselthier-flora-mak-1928",
+          "title_ja": "フローラ",
+          "title_original": "Flora",
+          "date_label": "1928年（MAK展示記録）",
+          "work_type": "陶芸・人物彫刻",
+          "institution": "ウィーン応用美術館（MAK）",
+          "source_url": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/MAKPressReleaseVallyWieselthier_2026-04-27_1604734.pdf",
+          "creator_role": "制作",
+          "manufacturer": "ウィーン工房",
+          "medium": "赤い陶土、多色の釉薬",
+          "note": "1928年にウィーン工房で制作された陶の人物像。後の米国での作品とは区別します。参照した展示資料には所蔵番号の記載がありません。"
+        },
+        {
+          "id": "ww-anniversary-book-1929",
+          "title_ja": "ウィーン工房1903–1928――記念出版物",
+          "title_original": "Die Wiener Werkstätte 1903–1928. Modernes Kunstgewerbe und sein Weg",
+          "date_label": "1929年（MAK展示記録）",
+          "work_type": "記念出版・グラフィックと装丁",
+          "institution": "ウィーン応用美術館（MAK）",
+          "source_url": "https://www.mak.at/programm/ausstellungen/die_frauen_der_wiener_werkstaette",
+          "credits": [
+            {
+              "artist_id": "mathilde-floegl",
+              "role": "誌面のグラフィックデザイン"
+            },
+            {
+              "artist_id": "vally-wieselthier",
+              "role": "張り子の装丁"
+            }
+          ],
+          "note": "題名の1903〜1928は対象期間で、展示資料はこの出版物を1929年としています。フレーグルの誌面とヴィーゼルティーアの張り子の装丁は、別の担当です。",
+          "creator_role": "装丁",
+          "medium": "張り子（パピエ・マシェ）"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mak-wieselthier2026-release",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ヴァリー・ヴィーゼルティーア：陶による彫刻",
+          "url": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/MAKPressReleaseVallyWieselthier_2026-04-27_1604734.pdf",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-wieselthier2026-credits",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "フローラと記念出版物の装丁：作品データ",
+          "url": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/FotocreditsVallyWieselthier_EN_2026-04-27_1504979.pdf",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-women-ww2021",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ウィーン工房の女性たち",
+          "url": "https://www.mak.at/programm/ausstellungen/die_frauen_der_wiener_werkstaette",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "wiener-werkstaette",
+          "role": "陶の彫刻と装丁を手がけた作り手",
+          "description": "《フローラ》と記念出版物の外装は、異なる材料を使った仕事です。張り子の装丁を陶製とは扱いません。"
+        }
+      ]
+    },
+    {
+      "id": "mathilde-floegl",
+      "entity_type": "person",
+      "name_ja": "マティルデ・フレーグル",
+      "name_kana": "マティルデ・フレーグル",
+      "name_original": "Mathilde Flögl",
+      "birth_year": 1893,
+      "death_year": 1958,
+      "short_bio": "ブルノに生まれた工芸家・グラフィックデザイナー・教育者。ウィーン工房で、布や壁紙、革製品、印刷物など幅広い仕事を担いました。工房の記念出版物では、誌面のデザインに携わりました。",
+      "representative_works": [
+        {
+          "id": "ww-anniversary-book-1929",
+          "title_ja": "ウィーン工房1903–1928――記念出版物",
+          "title_original": "Die Wiener Werkstätte 1903–1928. Modernes Kunstgewerbe und sein Weg",
+          "date_label": "1929年（MAK展示記録）",
+          "work_type": "記念出版・グラフィックと装丁",
+          "institution": "ウィーン応用美術館（MAK）",
+          "source_url": "https://www.mak.at/programm/ausstellungen/die_frauen_der_wiener_werkstaette",
+          "credits": [
+            {
+              "artist_id": "mathilde-floegl",
+              "role": "誌面のグラフィックデザイン"
+            },
+            {
+              "artist_id": "vally-wieselthier",
+              "role": "張り子の装丁"
+            }
+          ],
+          "note": "展示資料が示す出版物の年は1929年。MAKの略歴は、記念出版物のグラフィックデザインを1928年の仕事として記録しています。誌面の設計と出版物の年を区別します。",
+          "creator_role": "誌面のグラフィックデザイン"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mak-floegl-biography",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "マティルデ・フレーグルの略歴",
+          "url": "https://sammlung.mak.at/de/artist/floegl-mathilde_1316",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-women-ww2021",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ウィーン工房の女性たち",
+          "url": "https://www.mak.at/programm/ausstellungen/die_frauen_der_wiener_werkstaette",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-wieselthier2026-credits",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "フローラと記念出版物の装丁：作品データ",
+          "url": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/FotocreditsVallyWieselthier_EN_2026-04-27_1504979.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "wiener-werkstaette",
+          "role": "工房の活動を誌面にまとめたデザイナー",
+          "description": "展示で紹介されたページの作者です。外側の張り子の装丁はヴィーゼルティーアの仕事で、本全体の文章を一人で書いたという意味でもありません。"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -3426,6 +5387,308 @@
           "chapter_id": "art-nouveau",
           "role": "ランプの製作組織",
           "description": "《小型の藤のランプ》の設計者はドリスコル。《チューリップのランプ》では、この所蔵記録から個人の設計者を確定できません。"
+        }
+      ]
+    },
+    {
+      "id": "morris-and-co",
+      "entity_type": "organization",
+      "name_ja": "モリス商会",
+      "name_kana": "モリス・ショウカイ",
+      "name_original": "Morris & Co.",
+      "date_label": "1875〜1940年（所蔵館が示す活動年代。前身の共同商会は1861年創設）",
+      "short_bio": "家具や布、壁紙などを製作・販売した英国の工房・商会。モリスだけでなく、ウェッブやフォークナーらの図案を形にしました。モリスの没後にも製品の製作は続きました。",
+      "representative_works": [
+        {
+          "id": "arts-crafts-morris-strawberry-thief-cma-1937-696",
+          "title_ja": "いちご泥棒",
+          "title_original": "Strawberry Thief",
+          "date_label": "デザイン：1883年／この布：1936年頃",
+          "work_type": "インディゴ抜染・木版捺染の綿布",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1937.696",
+          "credited_creator": "William Morris（デザイン）／Morris & Co.（布の製作）",
+          "accession": "1937.696",
+          "creator_role": "布の製作",
+          "note": "1883年の図案をもとに、1936年頃に製作された布です。モリス本人の没後の製品で、V&Aの同名作品とは別の所蔵品です。"
+        },
+        {
+          "id": "arts-crafts-sussex-chair-wmg-g71",
+          "title_ja": "サセックス・チェア",
+          "title_original": "Sussex chair",
+          "date_label": "設計：1860年代頃／この個体：1890年代頃",
+          "work_type": "家具・生活用品",
+          "institution": "ウィリアム・モリス・ギャラリー",
+          "source_url": "https://wmgallery.org.uk/object/sussex-chair-3/",
+          "credited_creator": "Philip Webb（館が示す設計者）／Morris & Co.（製造・販売）",
+          "accession": "G71",
+          "note": "1860年代頃の設計による、1890年代頃の椅子。設計者をウェッブとするのは、この所蔵品の記録です。製造・販売はモリス商会。",
+          "creator_role": "製造・販売"
+        }
+      ],
+      "sources": [
+        {
+          "id": "slam-morris-co-dates",
+          "institution": "セントルイス美術館",
+          "title": "Occasional Table：Morris & Co.の活動年代",
+          "url": "https://www.slam.org/collection/objects/17641/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nt-red-house-history",
+          "institution": "ナショナル・トラスト",
+          "title": "レッド・ハウスの歴史",
+          "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "wmg-sussex-g71",
+          "institution": "ウィリアム・モリス・ギャラリー",
+          "title": "Sussex chair, G71",
+          "url": "https://wmgallery.org.uk/object/sussex-chair-3/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cma-morris-strawberry",
+          "institution": "クリーヴランド美術館",
+          "title": "Strawberry Thief, 1937.696",
+          "url": "https://www.clevelandart.org/art/1937.696",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "arts-and-crafts",
+          "role": "家具・布の製作と販売",
+          "description": "個々の図案を考えた人と、それを製品にした組織の役割は異なります。"
+        }
+      ]
+    },
+    {
+      "id": "guild-of-handicraft",
+      "entity_type": "organization",
+      "name_ja": "ギルド・オブ・ハンディクラフト",
+      "name_kana": "ギルド・オブ・ハンディクラフト",
+      "name_original": "Guild of Handicraft",
+      "founded_year": 1888,
+      "date_label": "1888年創設",
+      "short_bio": "アシュビーが設立した職人の共同組織。家具、金工、革工芸、宝飾などを製作しました。アシュビーは主要な設計者でしたが、作品は工房の職人たちの仕事によって形になりました。",
+      "representative_works": [
+        {
+          "id": "arts-crafts-ashbee-porringer-spoon-met",
+          "title_ja": "ポリンジャーとスプーン",
+          "title_original": "Porringer and Spoon",
+          "date_label": "1902–1904",
+          "work_type": "銀工・共同工房・器と道具",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/642930",
+          "credited_creator": "Charles Robert Ashbee（設計）／Guild of Handicraft（製作）",
+          "accession": "1979.411.1-.2",
+          "medium": "銀、クリソプレーズ",
+          "note": "器と匙の組物。アシュビーが設計し、ギルド・オブ・ハンディクラフトが製作しました。",
+          "creator_role": "製作"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-ashbee-porringer",
+          "institution": "メトロポリタン美術館",
+          "title": "Porringer and Spoon, 1979.411.1-.2",
+          "url": "https://www.metmuseum.org/art/collection/search/642930",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "arts-and-crafts",
+          "role": "職人の共同工房",
+          "description": "《ポリンジャーとスプーン》では、アシュビーが設計、ギルドが製作として記録されています。"
+        }
+      ]
+    },
+    {
+      "id": "albert-berger-kunstanstalt",
+      "entity_type": "organization",
+      "name_ja": "アルベルト・ベルガー美術印刷所",
+      "name_kana": "アルベルト・ベルガー美術印刷所",
+      "name_original": "Albert Berger (Kunstanstalt)",
+      "date_label": "1902年の印刷記録あり（創業・終了年は未詳）",
+      "short_bio": "美術印刷を担った組織。ウィーン・ミュージアムは、第13回分離派展のポスターで、モーザーを図案の作者、同印刷所を印刷の担当として記録しています。",
+      "representative_works": [
+        {
+          "id": "moser-13th-secession-1902",
+          "title_ja": "第13回分離派展のポスター",
+          "title_original": "Plakat für die 13. Ausstellung der Secession",
+          "date_label": "1902年",
+          "work_type": "作品・制作物",
+          "institution": "ウィーン・ミュージアム",
+          "source_url": "https://sammlung.wienmuseum.at/objekt/227076-plakat-fuer-die-13-ausstellung-der-secession/",
+          "accession": "129060/1",
+          "creator_role": "印刷",
+          "printer": "アルベルト・ベルガー美術印刷所",
+          "medium": "色彩リトグラフ",
+          "credits": [
+            {
+              "artist_id": "koloman-moser",
+              "role": "ポスターデザイン"
+            },
+            {
+              "artist_id": "albert-berger-kunstanstalt",
+              "role": "印刷"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "wien-museum-227076",
+          "institution": "ウィーン・ミュージアム",
+          "title": "第13回分離派展のポスター（129060/1）",
+          "url": "https://sammlung.wienmuseum.at/objekt/227076-plakat-fuer-die-13-ausstellung-der-secession/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "ポスターの印刷を担った組織",
+          "description": "デザインを考えた人と、紙に刷った印刷所を分けて紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "portois-and-fix",
+      "entity_type": "organization",
+      "name_ja": "ポルトワ＆フィックス",
+      "name_kana": "ポルトワ＆フィックス",
+      "name_original": "Portois & Fix",
+      "date_label": "1900年の製作記録あり（創業・終了年は未詳）",
+      "short_bio": "ウィーンで家具の製作を担った組織。モーザーの設計による戸棚《豊かな漁獲》を製作しました。設計者の構想を、材料と製作技術によって形にする役割です。",
+      "representative_works": [
+        {
+          "id": "moser-rich-catch-mak-h1700",
+          "title_ja": "豊かな漁獲",
+          "title_original": "Der reiche Fischzug",
+          "date_label": "1900年",
+          "work_type": "作品・制作物",
+          "institution": "ウィーン応用美術館（MAK）",
+          "source_url": "https://sammlung.mak.at/de/collect/der-reiche-fischzug_184942",
+          "accession": "H 1700",
+          "creator_role": "製作",
+          "manufacturer": "ポルトワ＆フィックス",
+          "note": "1900年の第8回分離派展に出品された戸棚。モーザーが設計し、ポルトワ＆フィックスが製作しました。",
+          "credits": [
+            {
+              "artist_id": "koloman-moser",
+              "role": "設計"
+            },
+            {
+              "artist_id": "portois-and-fix",
+              "role": "製作"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "mak-rich-catch-1900",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "豊かな漁獲（H 1700）",
+          "url": "https://sammlung.mak.at/de/collect/der-reiche-fischzug_184942",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "vienna-secession",
+          "role": "家具を製作した組織",
+          "description": "1900年の戸棚に記録された、モーザーの設計と製作組織の分担を示します。"
+        }
+      ]
+    },
+    {
+      "id": "wiener-werkstaette",
+      "entity_type": "organization",
+      "name_ja": "ウィーン工房",
+      "name_kana": "ウィーン工房",
+      "name_original": "Wiener Werkstätte",
+      "date_label": "1903〜1932年",
+      "short_bio": "生活用品や室内のための品を設計・製作したウィーンの組織。ホフマン、モーザー、実業家ヴェルンドルファーが創設し、家具、金工、製本、布など多くの分野に関わりました。",
+      "representative_works": [
+        {
+          "id": "moser-fruit-basket-leopold-6090",
+          "title_ja": "小さな果物かご",
+          "title_original": "Small Fruit Basket",
+          "date_label": "1904年（Leopold Museum 6090）",
+          "work_type": "金工・生活の器",
+          "institution": "レオポルド美術館",
+          "source_url": "https://onlinecollection.leopoldmuseum.org/en/object/5902-small-fruit-basket/",
+          "accession": "6090",
+          "creator_role": "製作",
+          "manufacturer": "ウィーン工房",
+          "medium": "銀",
+          "dimensions": "5.4 × 16.4 × 16.4 cm",
+          "note": "1904年製の銀のかご。白く塗られた鉄板製の別製品ではなく、2017年はこの所蔵品の収蔵年です。",
+          "credits": [
+            {
+              "artist_id": "koloman-moser",
+              "role": "設計"
+            },
+            {
+              "artist_id": "wiener-werkstaette",
+              "role": "製作"
+            }
+          ]
+        },
+        {
+          "id": "wieselthier-flora-mak-1928",
+          "title_ja": "フローラ",
+          "title_original": "Flora",
+          "date_label": "1928年（MAK展示記録）",
+          "work_type": "陶芸・人物彫刻",
+          "institution": "ウィーン応用美術館（MAK）",
+          "source_url": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/MAKPressReleaseVallyWieselthier_2026-04-27_1604734.pdf",
+          "creator_role": "製作の場",
+          "manufacturer": "ウィーン工房",
+          "medium": "赤い陶土、多色の釉薬",
+          "note": "MAKは、1928年にヴィーゼルティーアがウィーン工房で制作したと記録しています。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mak-wiener-werkstaette-history",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ウィーン工房の歴史",
+          "url": "https://www.mak.at/sammlung/sammlung/mak-sammlung_artikel?article_id=1342703965926",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "leopold-moser-basket6090",
+          "institution": "レオポルド美術館",
+          "title": "小さな果物かご（6090）",
+          "url": "https://onlinecollection.leopoldmuseum.org/en/object/5902-small-fruit-basket/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mak-wieselthier2026-release",
+          "institution": "ウィーン応用美術館（MAK）",
+          "title": "ヴァリー・ヴィーゼルティーア：陶による彫刻",
+          "url": "https://www.mak.at/jart/prj3/mak-resp/data/uploads/MAKPressReleaseVallyWieselthier_2026-04-27_1604734.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "founded_year": 1903,
+      "ended_year": 1932,
+      "chapter_relationships": [
+        {
+          "chapter_id": "wiener-werkstaette",
+          "role": "設計者と職人の仕事を結んだ製作組織",
+          "description": "作品ごとに設計者、製作の場所、外部の製造者を区別します。工房名だけで、すべてを同じ人や材料の仕事にはまとめられません。"
         }
       ]
     }

@@ -13,14 +13,14 @@
 - [年代から見る](https://djnaoyaman.github.io/design-lineage/timeline.html)
 - [項目を比べる](https://djnaoyaman.github.io/design-lineage/compare.html)
 - [編者](https://djnaoyaman.github.io/design-lineage/compiler.html)
-- [アーツ・アンド・クラフツ / Arts & Crafts](https://djnaoyaman.github.io/design-lineage/entries/arts-and-crafts.html): 歴史的な運動。主な展開 1880頃–1920頃（前史は1860–70年代）。
+- [アーツ・アンド・クラフツ / Arts & Crafts](https://djnaoyaman.github.io/design-lineage/entries/arts-and-crafts.html): 歴史的な運動。主な展開 1880頃–1920頃（前史は1860–70年代）。実作品画像3点、作品・制作の例5件、人物5人。画像収録は継続中。
 - [アール・ヌーヴォー / Art Nouveau](https://djnaoyaman.github.io/design-lineage/entries/art-nouveau.html): 暮らしの形を新しくした、国際的なデザインの動き。1890年代を中心に広まり、第一次世界大戦頃まで（前ぶれは1880年代）。実作品画像10点、作品・制作の例13件、人物9人。画像収録は継続中。
 - [アール・デコ / Art Deco](https://djnaoyaman.github.io/design-lineage/entries/art-deco.html): 様式。主な展開 1920–30年代（1925年パリ博覧会が重要）。実作品画像4点、作品・制作の例8件、人物7人。画像収録は継続中。
 - [デ・ステイル / De Stijl](https://djnaoyaman.github.io/design-lineage/entries/de-stijl.html): 雑誌を核とした運動。1917年創刊の雑誌を核に展開（終期と各作家の活動期は区別）。
 - [ロシア構成主義 / Russian Constructivism](https://djnaoyaman.github.io/design-lineage/entries/russian-constructivism.html): 歴史的な運動。年代範囲を一次資料で精査中。
-- [スイス・スタイル／国際タイポグラフィ様式 / Swiss / International Typographic Style](https://djnaoyaman.github.io/design-lineage/entries/swiss-style.html): グラフィックデザインの様式・方法。主な展開 1950–1970頃（教育・作品の前史と継続は別）。
+- [スイス・スタイル／国際タイポグラフィ様式 / Swiss / International Typographic Style](https://djnaoyaman.github.io/design-lineage/entries/swiss-style.html): グラフィックデザインの様式・方法。主な展開 1950–1970頃（教育・作品の前史と継続は別）。実作品画像0点、作品・制作の例4件、人物3人。画像収録は継続中。
 - [ポストモダニズム / Postmodernism](https://djnaoyaman.github.io/design-lineage/entries/postmodernism.html): 複数分野にまたがる歴史的潮流。主な展開 1970頃–1990頃（分野により差異）。
-- [バウハウス / Bauhaus](https://djnaoyaman.github.io/design-lineage/entries/bauhaus.html): 学校・教育。1919–1933。
+- [バウハウス / Bauhaus](https://djnaoyaman.github.io/design-lineage/entries/bauhaus.html): 学校・教育。1919–1933。実作品画像3点、作品・制作の例7件、人物9人。画像収録は継続中。
 - [琳派 / 琳派](https://djnaoyaman.github.io/design-lineage/entries/rinpa.html): 後世に整理された様式・芸術的継承の系譜。主に17–19世紀／近代以降にも再解釈。実作品画像8点、作品・制作の例9件、人物6人。画像収録は継続中。
 - [ニュー・タイポグラフィ / New Typography](https://djnaoyaman.github.io/design-lineage/entries/new-typography.html): 情報・グラフィックの歴史的な潮流。主に1920〜30年代。チヒョルトの後年の仕事も、考え方の変化を知るために紹介します。。実作品画像0点、作品・制作の例6件、人物5人。画像収録は継続中。
 - [インターナショナル・スタイル / International Style](https://djnaoyaman.github.io/design-lineage/entries/international-style.html): 建築の様式・批評用語。成立：1920–30年代の欧州／戦後米国の展開も比較（1952年の例）。実作品画像1点、作品・制作の例4件、人物5人。画像収録は継続中。
@@ -35,14 +35,14 @@
 - [アイソタイプ / Isotype](https://djnaoyaman.github.io/design-lineage/entries/isotype.html): 情報を図で伝える方法・制作体制。1920年代成立／1930–1950年代以降に教育へ展開。
 - [オーストラリアのFirst Nationsによる現代デザイン / Australian Indigenous contemporary design](https://djnaoyaman.github.io/design-lineage/entries/first-nations-australia-design.html): 地域・制作主体別の案内（単一の様式・運動ではない）。現代の実践／本項の検討作例：2019–2021年。
 - [民藝運動 / 民藝運動](https://djnaoyaman.github.io/design-lineage/entries/mingei.html): 歴史的な運動・工芸を評価し伝える思想。1925年に命名／1920年代以降。
-- [ウィーン分離派 / Vienna Secession](https://djnaoyaman.github.io/design-lineage/entries/vienna-secession.html): 歴史的な芸術家団体・展覧会と出版を通じた運動。1897年結成／ここでは世紀転換期を中心に扱う。
+- [ウィーン分離派 / Vienna Secession](https://djnaoyaman.github.io/design-lineage/entries/vienna-secession.html): 歴史的な芸術家団体・展覧会と出版を通じた運動。1897年結成／ここでは世紀転換期を中心に扱う。実作品画像4点、作品・制作の例7件、人物7人。画像収録は継続中。
 - [ウルム造形大学 / HfG Ulm](https://djnaoyaman.github.io/design-lineage/entries/hfg-ulm.html): 学校・教育機関。1953–1968。
 - [シュプレマティスム（絶対主義） / Suprematism](https://djnaoyaman.github.io/design-lineage/entries/suprematism.html): 歴史的な美術運動・理論。1915年に公表／主に1910年代後半–1920年代。
 - [創作版画 / 創作版画](https://djnaoyaman.github.io/design-lineage/entries/sosaku-hanga.html): 歴史的な版画運動・制作理念。1904年前後からの展開／主要対象は20世紀前半。
 - [未来派（イタリア未来派を中心に） / Futurism](https://djnaoyaman.github.io/design-lineage/entries/futurism.html): 歴史・運動（この項目はイタリアの展開を対象）。1909–1944を中心に／死後鋳造などの受容は区別。
 - [ダダ / Dada](https://djnaoyaman.github.io/design-lineage/entries/dada.html): 歴史・芸術／文学運動。第一次世界大戦期–1920年代を中心に、後年の継続・再制作も参照。
 - [メタボリズム / メタボリズム](https://djnaoyaman.github.io/design-lineage/entries/metabolism.html): 建築・都市をめぐる運動と提案。1960年の宣言／主に1960–70年代の展開。
-- [ウィーン工房 / Wiener Werkstätte](https://djnaoyaman.github.io/design-lineage/entries/wiener-werkstaette.html): 制作・販売を行った工房組織。1903–1932。
+- [ウィーン工房 / Wiener Werkstätte](https://djnaoyaman.github.io/design-lineage/entries/wiener-werkstaette.html): 制作・販売を行った工房組織。1903–1932。実作品画像1点、作品・制作の例5件、人物4人。画像収録は継続中。
 - [マテリアル・デザイン / Material Design](https://djnaoyaman.github.io/design-lineage/entries/material-design.html): Googleが公開するデザインシステム（初期M1を中心に）。2014年発表／本稿は初期M1資料を中心に扱う。
 - [ロココ / Rococo](https://djnaoyaman.github.io/design-lineage/entries/rococo.html): 18世紀の装飾・美術様式。フランス1720–30年代に形成／18世紀中葉を中心に展開。
 - [新古典主義 / Neoclassicism](https://djnaoyaman.github.io/design-lineage/entries/neoclassicism.html): 古代の研究と再解釈を基礎とする美術・デザイン様式。1750年代〜19世紀初頭を中心に展開。
@@ -69,7 +69,7 @@
 - [ミッドセンチュリー・モダン / Mid-century Modern](https://djnaoyaman.github.io/design-lineage/entries/mid-century-modern.html): 20世紀半ばの建築・生活用品をまとめる広い呼称。主に1940年代–1960年代の作品を紹介。共通の創立年・終了年は設けない。実作品画像2点、作品・制作の例7件、人物5人。画像収録は継続中。
 - [ラディカル・デザイン / Radical Design](https://djnaoyaman.github.io/design-lineage/entries/radical-design.html): 歴史的な運動・建築と製品をめぐる批判的な実験。主に1960年代後半–1970年代。実作品画像0点、画像収録は継続中。
 - [メンフィス / Memphis](https://djnaoyaman.github.io/design-lineage/entries/memphis.html): デザイナーの集まりと、その制作活動。1980–1981年の結成と1981年の初発表、1980年代の活動を中心に扱う。実作品画像0点、画像収録は継続中。
-- [ニュー・ウェーブ・タイポグラフィ / New Wave Typography](https://djnaoyaman.github.io/design-lineage/entries/new-wave-typography.html): 文字と印刷物のデザインをめぐる潮流。主に1970–1980年代。背景となる実験は1960年代から。実作品画像0点、画像収録は継続中。
+- [ニュー・ウェーブ・タイポグラフィ / New Wave Typography](https://djnaoyaman.github.io/design-lineage/entries/new-wave-typography.html): 文字と印刷物のデザインをめぐる潮流。主に1970–1980年代。背景となる実験は1960年代から。実作品画像0点、作品・制作の例4件、人物2人。画像収録は継続中。
 - [スーパーグラフィックス / Supergraphics](https://djnaoyaman.github.io/design-lineage/entries/supergraphics.html): グラフィックと建築をつなぐ表現・潮流。1960年代から。本文は1960年代の仕事と2018–2023年の展開を比較。実作品画像0点、画像収録は継続中。
 
 - [ベンガル派 / Bengal School](https://djnaoyaman.github.io/design-lineage/entries/bengal-school.html): 絵画の運動・教育をめぐる流れ。19世紀末の前史／20世紀初めを中心に展開。実作品画像1点、画像収録は継続中。
