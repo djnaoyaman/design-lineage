@@ -20372,18 +20372,18 @@
     "type": "美術・文学の運動",
     "period": "1924年の宣言を重要な節目として、1920–30年代を中心に扱う",
     "region": "フランスから国際的に展開",
-    "summary": "時計がやわらかく曲がり、カップが毛皮に包まれる。シュルレアリスムは、夢や、ふだん意識していない心の動きを手がかりに、当たり前の見方を問い直した運動です。日本語では超現実主義（ちょうげんじつしゅぎ）とも呼びます。",
-    "context": "詩人アンドレ・ブルトンは1924年に宣言を発表しました。絵だけでなく文学や立体作品にも広がりました。夢のような景色を細かく描く方法も、普段は出会わない物を組み合わせる方法もあります。ひとつの描き方の名前ではありません。",
+    "summary": "ダリの絵では、硬いはずの時計が曲がっています。シュルレアリスムは、夢や心の奥の動きを手がかりに、当たり前の考え方を問い直した運動です。日本語では超現実主義（ちょうげんじつしゅぎ）といいます。",
+    "context": "1924年、詩人アンドレ・ブルトンがパリで宣言を発表しました。しかし、一人の画家がつくった絵の描き方ではありません。言葉、写真、日用品、共同制作へと広がり、各地の人が、自分の暮らしや社会の問題に引きつけて考え直していきました。",
     "recognition": {
       "color": "決まった配色はありません。現実にありそうな色でも、物の形や組み合わせが変わると不思議に感じるかを見ます。",
       "type": "共通の書体がある運動ではありません。題名が作品の読み方をどう変えるかにも注目できます。",
       "form": "《オブジェ》では、飲むためのカップと、口に入れると困る毛皮が出会います。目で見る形と、想像する手ざわりを比べます。",
       "composition": "《脅かされる暗殺者》は、部屋と人の配置から事件を想像させます。それでも、何が起こったかを一つの答えに決められない場面です。"
     },
-    "comparison": "ダダと人や考えのつながりがありますが、同じ運動ではありません。また、変わった広告や生成画像をすべてシュルレアリスムと呼ぶと、当時の文学や思想との関係が見えなくなります。",
-    "modern": "身近な二つの物を、ふだんは置かない組み合わせで並べてみましょう。形は普通でも、関係を変えると不思議な場面が生まれます。",
+    "comparison": "ダダと人や考えのつながりがありますが、同じ運動ではありません。「変なものが描いてある」という見た目だけでも決まりません。いつ、誰が、どの仲間や出版物と関わってつくったのかを合わせて見ると、歴史上の運動と、現代の夢のような表現を区別できます。",
+    "modern": "身近な物の組み合わせや、言葉と絵の関係を変えると、いつもの見方が揺らぎます。ただし、変わった広告や生成画像をすべて歴史上のシュルレアリスムと呼ぶわけではありません。作品が生まれた時代と、作者の問いを一緒に考えてみましょう。",
     "reading_intro": {
-      "heading": "いつもの物が、知らない世界への入口になる。",
+      "heading": "当たり前を、問い直す。",
       "lead": [
         "時計がやわらかく曲がり、カップが毛皮に包まれる。シュルレアリスムは、夢や、ふだん意識していない心の動きを手がかりに、当たり前の見方を問い直した運動です。日本語では超現実主義（ちょうげんじつしゅぎ）とも呼びます。"
       ]
@@ -20404,6 +20404,96 @@
         "id": "79267",
         "url": "https://www.moma.org/collection/works/79267/",
         "institution": "ニューヨーク近代美術館"
+      },
+      {
+        "id": "met-surrealism-essay",
+        "url": "https://www.metmuseum.org/essays/surrealism",
+        "institution": "メトロポリタン美術館",
+        "title": "シュルレアリスム：文学から美術への展開"
+      },
+      {
+        "id": "moma-breton",
+        "url": "https://www.moma.org/artists/768-andre-breton",
+        "institution": "ニューヨーク近代美術館",
+        "title": "アンドレ・ブルトンと1924年の宣言"
+      },
+      {
+        "id": "menil-ernst-frottage",
+        "url": "https://www.menil.org/collection/objects/1770-the-beautiful-season-la-belle-saison",
+        "institution": "メニル・コレクション",
+        "title": "エルンスト《美しい季節》とフロッタージュ"
+      },
+      {
+        "id": "lacma-women-surrealism",
+        "url": "https://www.lacma.org/press/wonderland-surrealist-adventures-women-artists-mexico-and-united-states",
+        "institution": "ロサンゼルス郡立美術館",
+        "title": "メキシコとアメリカの女性シュルレアリスト"
+      },
+      {
+        "id": "moma-carrington",
+        "url": "https://www.moma.org/artists/993-leonora-carrington",
+        "institution": "ニューヨーク近代美術館",
+        "title": "レオノーラ・キャリントン"
+      },
+      {
+        "id": "met-surrealism-borders",
+        "url": "https://www.metmuseum.org/exhibitions/surrealism-beyond-borders/visiting-guide",
+        "institution": "メトロポリタン美術館",
+        "title": "国境を越えるシュルレアリスム：展覧会ガイド"
+      },
+      {
+        "id": "moma-surreal-dreams",
+        "url": "https://www.moma.org/collection/terms/surrealism/surrealism-and-dreams",
+        "institution": "ニューヨーク近代美術館",
+        "title": "シュルレアリスムと夢"
+      },
+      {
+        "id": "moma-folded-collaboration",
+        "institution": "ニューヨーク近代美術館",
+        "title": "紙を折って描き継ぐ共同制作",
+        "url": "https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/tanguy-miro-morise-manray-nude/"
+      },
+      {
+        "id": "getty-yamamoto-surrealism",
+        "institution": "ゲティ美術館",
+        "title": "山本悍右と日本の写真表現",
+        "url": "https://www.getty.edu/art/exhibitions/japans_moderndivide/yamamoto.html"
+      },
+      {
+        "id": "surrealism-masson-automatic-source",
+        "url": "https://www.moma.org/collection/works/38201",
+        "institution": "ニューヨーク近代美術館",
+        "title": "自動描画：所蔵作品解説"
+      },
+      {
+        "id": "surrealism-carrington-green-tea-source",
+        "url": "https://www.moma.org/collection/works/297568",
+        "institution": "ニューヨーク近代美術館",
+        "title": "緑茶：所蔵作品解説"
+      },
+      {
+        "id": "surrealism-varo-juggler-source",
+        "url": "https://www.moma.org/collection/works/291307",
+        "institution": "ニューヨーク近代美術館",
+        "title": "曲芸師（魔術師）：所蔵作品解説"
+      },
+      {
+        "url": "https://search.artmuseums.go.jp/records.php?sakuhin=4596",
+        "institution": "国立美術館",
+        "title": "古賀春江《海》所蔵記録",
+        "id": "koga-sea-0"
+      },
+      {
+        "url": "https://artplatform.go.jp/ja/artists/A1363",
+        "institution": "国立アートリサーチセンター",
+        "title": "日本アーティスト事典：古賀春江",
+        "id": "koga-sea-1"
+      },
+      {
+        "url": "https://online.bunka.go.jp/heritages/detail/62625",
+        "institution": "文化庁",
+        "title": "文化遺産オンライン：海",
+        "id": "koga-sea-2"
       }
     ],
     "representatives": [
@@ -20463,6 +20553,102 @@
           ]
         },
         "title_ja": "脅かされる暗殺者"
+      },
+      {
+        "id": "surrealism-masson-automatic",
+        "title": "自動描画",
+        "title_original": "Automatic Drawing",
+        "creator": "アンドレ・マッソン",
+        "date": "1924年",
+        "reason": "先に完成図を決めず、動く手から形を探す方法の例。線から現れた形を、意識して描き足す段階もありました。",
+        "look_for": "手の動きが残す線と、体や物の形に見える部分を比べてみましょう。",
+        "domain": "素描（そびょう）",
+        "evidence": "https://www.moma.org/collection/works/38201",
+        "source_url": "https://www.moma.org/collection/works/38201",
+        "institution": "ニューヨーク近代美術館",
+        "reading_intro": {
+          "heading": "自動描画（じどうびょうが）",
+          "lead": [
+            "先に完成図を決めず、動く手から形を探す方法の例。線から現れた形を、意識して描き足す段階もありました。"
+          ]
+        },
+        "identity": {
+          "object_number": "873.1978",
+          "medium": "紙にインク"
+        },
+        "limitation": "このページでは作品画像を掲載していません。所蔵館の出典で作品を確かめられます。"
+      },
+      {
+        "id": "surrealism-carrington-green-tea",
+        "title": "緑茶",
+        "title_original": "Green Tea",
+        "creator": "レオノーラ・キャリントン",
+        "date": "1942年",
+        "reason": "キャリントン自身の想像の世界を示す作品。囲われた人物やつながれた馬が、自由と束縛（そくばく）の関係を考える手がかりになります。",
+        "look_for": "人物を包むもの、馬をつなぐものに注目。意味を一つに決めず、互いの関係を見てみましょう。",
+        "domain": "絵画",
+        "evidence": "https://www.moma.org/collection/works/297568",
+        "source_url": "https://www.moma.org/collection/works/297568",
+        "institution": "ニューヨーク近代美術館",
+        "reading_intro": {
+          "heading": "緑茶",
+          "lead": [
+            "キャリントン自身の想像の世界を示す作品。囲われた人物やつながれた馬が、自由と束縛（そくばく）の関係を考える手がかりになります。"
+          ]
+        },
+        "identity": {
+          "object_number": "145.2019",
+          "medium": "布に油絵の具"
+        },
+        "limitation": "このページでは作品画像を掲載していません。所蔵館の出典で作品を確かめられます。"
+      },
+      {
+        "id": "surrealism-varo-juggler",
+        "title": "曲芸師（魔術師）",
+        "title_original": "The Juggler (The Magician)",
+        "creator": "レメディオス・バロ",
+        "date": "1956年",
+        "reason": "細かな物語の場面と、偶然の模様を組み合わせた作品。衣服や背景には、ぬれた絵の具に別の材料を押しつけて模様を移す方法が使われています。",
+        "look_for": "車の上で演じる人物と、それを見る人々。人物の形を描く線と、木や衣服の複雑な模様を比べましょう。",
+        "domain": "絵画",
+        "evidence": "https://www.moma.org/collection/works/291307",
+        "source_url": "https://www.moma.org/collection/works/291307",
+        "institution": "ニューヨーク近代美術館",
+        "reading_intro": {
+          "heading": "曲芸師（魔術師）",
+          "lead": [
+            "細かな物語の場面と、偶然の模様を組み合わせた作品。衣服や背景には、ぬれた絵の具に別の材料を押しつけて模様を移す方法が使われています。"
+          ]
+        },
+        "identity": {
+          "object_number": "736.2018",
+          "medium": "板に油彩、真珠母貝のはめ込み"
+        },
+        "limitation": "このページでは作品画像を掲載していません。所蔵館の出典で作品を確かめられます。"
+      },
+      {
+        "id": "surrealism-koga-sea",
+        "title": "海",
+        "title_original": "海 / Sea",
+        "creator": "古賀春江（こが はるえ）",
+        "date": "1929年",
+        "domain": "絵画",
+        "institution": "東京国立近代美術館",
+        "evidence": "https://search.artmuseums.go.jp/records.php?sakuhin=4596",
+        "source_url": "https://search.artmuseums.go.jp/records.php?sakuhin=4596",
+        "identity": {
+          "object_number": "O00389",
+          "medium": "キャンバスに油彩（布に油絵の具）",
+          "dimensions": "130.0×162.5cm"
+        },
+        "reason": "日本でシュルレアリスムが広がり始めた時期の重要な作品。夢だけでなく、写真や科学技術の図像を組み合わせる、理性的な方法にも目を向けています。",
+        "limitation": "作品画像はこのページでは掲載していません。所蔵館の出典で作品を確かめられます。",
+        "reading_intro": {
+          "heading": "海",
+          "lead": [
+            "別々の場所から集めたような姿を、一つの画面に組み合わせる。日本で独自に広がったシュルレアリスムを考える手がかりです。"
+          ]
+        }
       }
     ],
     "reader_glossary": [
@@ -20481,21 +20667,244 @@
     "image_count_acquired": 0,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 3,
+    "representative_count": 7,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "本文公開・実作品画像0点収録 / 背景・年表・用語を拡充（画像収集は継続中）",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-02T01:34:37+00:00",
     "period_bands": [
-      "1900-1949"
+      "1900-1949",
+      "1950-1999"
     ],
     "period_band_note": "本文で具体的に紹介する作品の年代を中心に分類。運動・学校の始まりと終わりをこの区分だけで決めるものではありません。",
     "source_ids": [
       "79018",
       "80997",
       "79267"
-    ]
+    ],
+    "deep_dive": [
+      {
+        "id": "words-first",
+        "title": "絵の流行より先に、言葉の実験があった",
+        "paragraphs": [
+          "出発点には詩や文章の実験があります。意味を整えすぎず、浮かんだ言葉を書き続ける。ブルトンは1924年の宣言で、こうした方法から、普段は表に出てこない心の動きを探ろうとしました。",
+          "これは「いいかげんにつくる」ということではありません。理屈や常識だけで世界を説明できるのか、という問いです。絵を見たときも、正解の物語を急いで決めず、何がいつもと違うかを探せます。"
+        ],
+        "source_ids": [
+          "met-surrealism-essay",
+          "moma-breton"
+        ]
+      },
+      {
+        "id": "two-routes",
+        "title": "細かく描く道と、偶然を生かす道",
+        "paragraphs": [
+          "ダリの《記憶の固執（こしつ）》は、ありえない場面を細かく描きます。一方、考えて決める前に手を動かす方法や、偶然できた跡から形を見つける方法も使われました。同じ運動の中に、違うつくり方があるのです。",
+          "マックス・エルンストは、木の床などに置いた紙を鉛筆でこすり、凹凸（おうとつ）の跡を写すフロッタージュを試しました。初めから全部の形を決めるのではなく、出てきた模様から次の形を考えます。"
+        ],
+        "source_ids": [
+          "79018",
+          "menil-ernst-frottage"
+        ]
+      },
+      {
+        "id": "objects",
+        "title": "カップは、毛皮で包むとどうなる？",
+        "paragraphs": [
+          "メレット・オッペンハイムの《オブジェ》は、カップ、受け皿、スプーンを毛皮で覆った作品です。器の形はわかるのに、飲むことを想像すると戸惑います。見た目と、手や口で感じるはずの感覚がぶつかるからです。",
+          "絵の中だけを不思議にするのではなく、本物の日用品の関係を変える。1936年にパリとニューヨークで展示されたこの作品は、小さな道具も考え方を揺さぶる力を持つことを示します。"
+        ],
+        "source_ids": [
+          "80997"
+        ]
+      },
+      {
+        "id": "women",
+        "title": "描かれる人ではなく、つくる人として",
+        "paragraphs": [
+          "この運動の歴史を、男性の画家と、そのモデルになった女性だけで語ることはできません。オッペンハイム、レオノーラ・キャリントン、レメディオス・バロらは、それぞれの作品を生み出した作者です。",
+          "女性たちは、自分の姿や身体、自由を自分の側から表しました。ロサンゼルス郡立美術館の展覧会も、メキシコとアメリカで活動した女性たちを、誰かの妻や「ひらめきを与える人」ではなく、独立した制作者として紹介しています。"
+        ],
+        "source_ids": [
+          "lacma-women-surrealism",
+          "moma-carrington"
+        ]
+      },
+      {
+        "id": "beyond-paris",
+        "title": "パリからの一方通行ではない",
+        "paragraphs": [
+          "日本では、1920年代末から1930年代に、写真や科学との関係を考える試みがありました。エジプトのカイロでは、芸術の自由を守る活動と結びつきました。同じ言葉でも、土地によって問いは変わります。",
+          "戦争や移住も、人と作品のつながりを変えました。メキシコではキャリントンやバロらが交流します。各地の活動を単なる「ヨーロッパのまね」と考えず、何に対して自由を求めたのかを見ることが大切です。"
+        ],
+        "source_ids": [
+          "met-surrealism-borders",
+          "getty-yamamoto-surrealism"
+        ]
+      },
+      {
+        "id": "together",
+        "title": "一人では思いつかない絵をつくる",
+        "paragraphs": [
+          "紙を折り、前の人が描いた部分を隠しながら、別の人が描き足す遊びがあります。「優美な死骸（ゆうびなしがい）」と呼ばれる共同制作です。つなげたとき、一人では考えなかった姿が現れます。",
+          "雑誌も大事な場所でした。詩、宣言、作品の図版を載せて、離れた土地へ考えを届けます。完成した絵だけでなく、人が集まり、やり取りする仕組みも運動の一部でした。"
+        ],
+        "source_ids": [
+          "moma-surreal-dreams",
+          "met-surrealism-borders",
+          "moma-folded-collaboration"
+        ]
+      }
+    ],
+    "regional_variants": [
+      {
+        "place": "フランス・パリ",
+        "name": "宣言と共同の実験",
+        "description": "1924年の宣言は重要な節目です。文学、美術、共同制作の試みが結びつきました。",
+        "source_ids": [
+          "moma-breton"
+        ]
+      },
+      {
+        "place": "ベルギー",
+        "name": "見慣れたものの関係をずらす",
+        "description": "マグリットの絵では、服や部屋などの普通の姿と、説明しきれない出来事が並びます。",
+        "source_ids": [
+          "79267"
+        ]
+      },
+      {
+        "place": "日本",
+        "name": "写真や科学との出会い",
+        "description": "理性や科学との関係を問い直す展開もあり、「夢だけの芸術」には収まりません。",
+        "source_ids": [
+          "met-surrealism-borders",
+          "getty-yamamoto-surrealism"
+        ]
+      },
+      {
+        "place": "エジプト・カイロ",
+        "name": "芸術と自由",
+        "description": "1938年の宣言を出した人々は、政治による芸術への圧力にも反対しました。",
+        "source_ids": [
+          "met-surrealism-borders"
+        ]
+      },
+      {
+        "place": "メキシコとアメリカ",
+        "name": "移住と、女性たちの制作",
+        "description": "土地を移った作者たちの交流から、独自の作品が生まれました。",
+        "source_ids": [
+          "lacma-women-surrealism"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1910年代末〜1920年代初め",
+        "event": "言葉を自由につなぐ文学の実験が進む。",
+        "source_ids": [
+          "met-surrealism-essay"
+        ]
+      },
+      {
+        "date": "1924年",
+        "event": "ブルトンが最初の「シュルレアリスム宣言」を発表。",
+        "source_ids": [
+          "moma-breton"
+        ]
+      },
+      {
+        "date": "1925年",
+        "event": "エルンストがフロッタージュを使い始める。",
+        "source_ids": [
+          "menil-ernst-frottage"
+        ]
+      },
+      {
+        "date": "1931年",
+        "event": "ダリが《記憶の固執》を描く。",
+        "source_ids": [
+          "79018"
+        ]
+      },
+      {
+        "date": "1936年",
+        "event": "オッペンハイムの《オブジェ》がパリ、ニューヨークで紹介される。",
+        "source_ids": [
+          "80997"
+        ]
+      },
+      {
+        "date": "1938年",
+        "event": "カイロの芸術家や作家たちが、芸術の自由を守る宣言を発表。",
+        "source_ids": [
+          "met-surrealism-borders"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "無意識",
+        "reading": "むいしき",
+        "explanation": "自分でははっきり気づいていない心の動き。ここでは、当時の作者が表現の手がかりにした考え方です。"
+      },
+      {
+        "term": "宣言",
+        "reading": "せんげん",
+        "explanation": "目指すことや考えを、人々へはっきり示す文章など。"
+      },
+      {
+        "term": "オートマティスム",
+        "reading": "",
+        "explanation": "あらかじめ内容を決めすぎず、浮かぶ言葉や手の動きから表現を探る方法。自動記述ともいいます。"
+      },
+      {
+        "term": "フロッタージュ",
+        "reading": "",
+        "explanation": "凹凸のある物の上に紙を置き、こすって模様を写す方法。"
+      },
+      {
+        "term": "オブジェ",
+        "reading": "",
+        "explanation": "身近な物を組み合わせたり、普段と違う場所に置いたりして見せる立体作品。"
+      },
+      {
+        "term": "亡命",
+        "reading": "ぼうめい",
+        "explanation": "戦争や政治的な圧力などから逃れ、ほかの国へ移ること。"
+      }
+    ],
+    "related_articles": [
+      {
+        "slug": "dada",
+        "title": "ダダ"
+      },
+      {
+        "slug": "photomontage",
+        "title": "フォトモンタージュ"
+      },
+      {
+        "slug": "collage",
+        "title": "コラージュ"
+      }
+    ],
+    "title_segments": [
+      "シュルレアリスム",
+      "（超現実主義）"
+    ],
+    "compact_title": true,
+    "artist_ids": [
+      "salvador-dali",
+      "meret-oppenheim",
+      "rene-magritte",
+      "andre-masson",
+      "leonora-carrington",
+      "remedios-varo",
+      "koga-harue"
+    ],
+    "title_emergency_wrap": true
   },
   {
     "name": "Jugendstil",

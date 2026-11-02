@@ -141,13 +141,17 @@
     "category": "歴史・運動",
     "region": "欧州",
     "field": "美術",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "本文・作品例7件と人物7人を公開。実作品画像は未掲載。",
     "date": "1924年の宣言を重要な節目として、1920–30年代を中心に扱う",
     "title_ja": "シュルレアリスム",
     "name_note": "",
     "name_translation_unconfirmed": false,
     "aliases": [
       "超現実主義"
+    ],
+    "period_bands": [
+      "1900-1949",
+      "1950-1999"
     ]
   },
   {
