@@ -1,8 +1,8 @@
 {
-  "release": "public-content-russian-constructivism-20261102-2029",
+  "release": "public-content-de-stijl-20261102-2035",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T20:29:00+09:00",
+  "frozen_at": "2026-11-02T20:35:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1387,6 +1387,11 @@
       "sha256": "66ec20cec44cb9bf85e758501d327cde4fb776bb97bcedbdbd261a857afac9f9"
     },
     {
+      "path": "de-stijl-reading.css",
+      "bytes": 110,
+      "sha256": "554618da7e7f2f1dc064c9a685ed18eb27667f6d0f43ad478ca1c92c3a838e9f"
+    },
+    {
       "path": "deep-reading.css",
       "bytes": 2524,
       "sha256": "1cdb3d541116bfd2f263a01c37dce40123b38c5ba45869caa387023628162b84"
@@ -1478,8 +1483,8 @@
     },
     {
       "path": "entries/de-stijl.html",
-      "bytes": 45478,
-      "sha256": "756dbc0afef220945f081e04a184831657d81bd6692d24bf35bee2aba8fa166b"
+      "bytes": 45548,
+      "sha256": "05d918bbc0006755749cf32a4ec1daebf6afc966a3d7205355ce5db48464b720"
     },
     {
       "path": "entries/esdi-rio.html",
@@ -1869,7 +1874,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "fe71e1da1ec4999dc59f5ca49febf8e41b1deeb8498269c3d92a153f37c29d24"
+      "sha256": "b695d45fbc8457c54fb7e2cacff641dd6600789e6054c13800db176d83f4837d"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1934,7 +1939,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "1c3dd294a760b53f53f2d1d03a8f2163b623433c508875d26c74e8dd0e6896bc"
+      "sha256": "289f932eebb6e064f3bac4a101d221d5e4603f73ffffa571833b08561d8ebf3d"
     },
     {
       "path": "site.webmanifest",
@@ -1944,7 +1949,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "f938a507e6dd40cdda425a42c308d3831253f4658983de701de32f84d7fb59bc"
+      "sha256": "fda1ac8d14a580161fdfc8ba2897e55a925ccf11df3dcf55a32eb2673a4a2065"
     },
     {
       "path": "study-images.js",
