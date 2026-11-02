@@ -5843,6 +5843,94 @@
         "height": 4000,
         "sha256": "58048c626498ef81e349484f62a5b37fa9b31a8ad21a1e33f54f343161e1d846"
       }
+    },
+    {
+      "id": "art-deco-gesmar-mistinguett",
+      "work_id": "art-deco-gesmar-mistinguett",
+      "author": "シャルル・ジェスマール",
+      "title": "ミスタンゲット",
+      "title_original": "Mistinguett",
+      "year": "1925年",
+      "source_page": "https://www.mkg-hamburg.de/sammlung/objekt/mistinguett/EP2015.697/mkg-e00134627",
+      "institution": "ハンブルク美術工芸博物館",
+      "accession": "EP2015.697",
+      "local_file": "assets/art-deco-gesmar-mistinguett.jpg",
+      "width": 361,
+      "height": 500,
+      "sha256": "f6b0a9059dee68ac507642121897d8748a608f875c43682172338cb54bb29712",
+      "local_bytes": 66390,
+      "alt": "羽根飾りをまとった女性と、上部に大きく記されたミスタンゲットの名前。",
+      "credit": "シャルル・ジェスマール《ミスタンゲット》1925年、印刷：Imprimerie H. Chachoin。ハンブルク美術工芸博物館。Public Domain。",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "underlying_work_rights": "所蔵館が原作品をパブリックドメインと表示。",
+      "reproduction_rights": "所蔵館が原作品と画像の双方をPublic Domainと表示。",
+      "image_processing": "提供画像の全体を、そのまま表示します。原寸361×500ピクセルを超えて拡大しません。",
+      "visual_notes": [
+        {
+          "title": "名前と、羽根の形を比べる。",
+          "text": "名前の文字は濃く大きく、羽根は淡い色で広がります。文字と人物の違いに注目しましょう。"
+        },
+        {
+          "title": "舞台の華やかさを、街へ。",
+          "text": "顔や装飾を単純な形と色にまとめ、舞台に立つ人の華やかさを伝えています。"
+        }
+      ],
+      "presentation": {
+        "anchor": "art-deco-gesmar-mistinguett",
+        "scope_note": "1925年に制作された劇場ポスターです。所蔵館の配信画像は361×500ピクセルのため、大きく引き伸ばさず掲載しています。"
+      }
+    },
+    {
+      "id": "art-deco-chrysler-shankbone",
+      "work_id": "art-deco-chrysler-building",
+      "author": "ウィリアム・ヴァン・アレン（建築）／David Shankbone（写真）",
+      "title": "クライスラー・ビルの外観",
+      "title_original": "Chrysler Building",
+      "year": "建築1928–1930年／写真2007年8月",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_by_David_Shankbone.jpg",
+      "institution": "ニューヨーク市",
+      "local_file": "assets/art-deco-chrysler-shankbone.jpg",
+      "width": 1214,
+      "height": 3091,
+      "sha256": "f4ff7b9e8c908d136062b2903128a7e15a7ddb07e22205da5c570b19863dc0d7",
+      "local_bytes": 3679548,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chrysler_Building_by_David_Shankbone.jpg",
+      "display_derivatives": {
+        "variants": [
+          {
+            "local_file": "assets/art-deco-chrysler-shankbone-640.webp",
+            "width": 640,
+            "height": 1630
+          },
+          {
+            "local_file": "assets/art-deco-chrysler-shankbone-1000.webp",
+            "width": 1000,
+            "height": 2546
+          }
+        ]
+      },
+      "alt": "段を重ねて細くなる高層ビル。頂部には銀色の弧と三角形の窓が並び、周囲に別のビルが建っている。",
+      "credit": "ウィリアム・ヴァン・アレン設計《クライスラー・ビル》1928–1930年。写真：David Shankbone、2007年8月。Wikimedia Commons、CC BY-SA 3.0。",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "underlying_work_rights": "建築の外観を紹介する写真。建築作品の扱いと写真の利用条件を分けて確認しています。",
+      "reproduction_rights": "撮影者David Shankboneの写真をCC BY-SA 3.0で利用。",
+      "image_processing": "提供画像の全体を保持して縮小し、WebP版も作成。切り抜き、回転、色の変更はしていません。縮小版にもCC BY-SA 3.0を適用。",
+      "visual_notes": [
+        {
+          "title": "段をたどって、上へ。",
+          "text": "建物の幅が段階的に細くなり、頂部へ目を導きます。"
+        },
+        {
+          "title": "曲線と三角形が、くり返される。",
+          "text": "銀色の頂部で、弧を描く線と三角形の窓を探してみましょう。"
+        }
+      ],
+      "presentation": {
+        "anchor": "art-deco-chrysler-shankbone",
+        "scope_note": "2007年8月の外観写真です。地上階の内部は写っていません。元画像の画角をそのまま掲載しています。"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

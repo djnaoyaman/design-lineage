@@ -2616,21 +2616,21 @@
     "type": "様式",
     "period": "主な展開 1920–30年代（1925年パリ博覧会が重要）",
     "region": "フランスほか国際的展開",
-    "summary": "飾る楽しさを、新しい暮らしや産業、ものを買って楽しむ文化と結びつけたのがアール・デコです。一つの形に決まった様式ではありません。高級な工芸品と工場でたくさんつくる製品の両方に見られ、建築、ファッション、広告にも広がりました。",
-    "context": "国際博覧会（こくさいはくらんかい。各国の製品や技術などを紹介する大きな催し）、都市の発展、旅行、映画とのつながりを見ます。1925年の博覧会だけが、すべての始まりだったわけではありません。その前後に、どんな展開があったかも確かめます。",
+    "summary": "宝石のような家具から、家庭のラジオ、旅のポスターまで。アール・デコは、昔からの飾る技術と、機械の時代の新しさを結びつけたデザインです。豪華な一点物も、工場でたくさんつくる品も含みます。",
+    "context": "中心となるのは1920〜30年代です。1925年のパリの装飾美術・産業美術の博覧会は大きな節目でしたが、その年に突然すべてが始まったわけではありません。都市、映画、旅行、買い物の広がりと一緒に見ると、作品の役割がわかります。",
     "recognition": {
       "color": "黒と金だけが特徴ではありません。はっきり違う色の組み合わせや、材料のつやにも注目します。",
       "type": "円や四角などの図形をもとにした文字や、飾りのある文字を探します。縦に細長い文字や、強く目を引く見出しも手がかりです。",
       "form": "階段のような形、中心から外へ広がる形、ジグザグを探します。人や機械を単純な形にまとめた表現にも注目します。",
       "composition": "左右などの形が対応する対称性（たいしょうせい）、縦へ伸びる感じ、視線が集まる場所を見ます。斜めの線が速さを感じさせる例もあります。ただし、どの作品にも当てはまるとは限らないので、一点ずつ確かめます。"
     },
-    "comparison": "ストリームライン・モダン（Streamline Moderne）とは重なる部分がありますが、同じ意味ではありません。空気の流れを思わせる、なめらかな「流線型（りゅうせんけい）」のイメージと、アール・デコの幅広い飾り方を区別します。掲載したワイングラスでは、長方形を階段状に重ねた飾りと、外へ広がる曲面が共存しています。アール・ヌーヴォーのガレの花瓶と比べてみましょう。植物を器の表面に巡らせる飾り方と、軸の一か所に図形を集める飾り方の違いが見えます。ただし、この2点だけで、二つの様式全体を曲線と直線に分けることはできません。",
-    "modern": "ホテルの内装、商品のパッケージ、見出しの書体などでは、昔の雰囲気を取り入れるために使われます。当時の作品と、現代につくられた「アール・デコ風」の表現は区別しましょう。",
+    "comparison": "「アール・ヌーヴォーは曲線、デコは直線」と分けきることはできません。デコにも花や曲線があり、ヌーヴォーにも図形を生かした作品があります。また流線型（りゅうせんけい）はデコと重なる表現の一つですが、すべてのデコが流線型ではありません。",
+    "modern": "階段のような輪郭や左右をそろえた模様は、今のホテルや包装にも使われます。ただし、昔の作品と、昔を思わせる現代のデザインは別です。形だけでなく、材料、つくり方、誰へ売るものだったかを比べてみましょう。",
     "overview_evidence_status": "V&A公式解説と検索で返却された本文を確認。個別作品の画像掲載許諾とは別。",
     "modern_section_label": "現代の作品と比べる（直接の影響は別に確認）",
     "recognition_section_label": "作品と照合する観察の軸。全作品に共通する判定ルールではありません。",
-    "checked_at": "2026-11-01",
-    "representativeness_limit": "ラリックのワイングラスと、バルビエの服飾（ふくしょく。服や装い）の版画を画像で紹介します。ガラスの段状の飾りと、紙面の色や配置を見比べられます。広告・家具・建築まで含む画像の比較は、まだ揃っていません。作者の作品すべてを同じ様式とせず、それぞれの制作年と資料を確かめます。",
+    "checked_at": "2026-11-02T01:33:52+00:00",
+    "representativeness_limit": "ガラス、服飾の版画、劇場ポスター、建物の外観の4画像を掲載しています。家具や建物の内部などは、作品の記録と出典から比べられます。各地の表現をすべて網羅した選定ではなく、画像の収録は継続中です。",
     "slug": "art-deco",
     "sources": [
       {
@@ -2742,10 +2742,46 @@
         "url": "https://www.mkg-hamburg.de/sammlung/objekt/la-villa-deste-dem-mode-almanach-falbalas-et-fanfreluches-1923/EG2017.4.104/mkg",
         "institution": "ハンブルク美術工芸博物館",
         "title": "エステ荘――服飾年鑑の一葉"
+      },
+      {
+        "id": "vam-deco-home",
+        "url": "https://www.vam.ac.uk/articles/art-deco-in-the-home",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title": "家庭のアール・デコ"
+      },
+      {
+        "id": "vam-deco-cliff",
+        "url": "https://www.vam.ac.uk/articles/art-deco-clarice-cliff",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title": "クラリス・クリフの陶器"
+      },
+      {
+        "id": "vam-deco-world",
+        "url": "https://www.vam.ac.uk/articles/art-deco-around-the-world",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title": "世界のアール・デコ"
+      },
+      {
+        "id": "unesco-mumbai-deco",
+        "url": "https://whc.unesco.org/en/list/1480/",
+        "institution": "ユネスコ世界遺産センター",
+        "title": "ムンバイの建築群とインド・デコ"
+      },
+      {
+        "id": "art-deco-cliff-crocus-source",
+        "url": "https://www.vam.ac.uk/articles/art-deco-clarice-cliff",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title": "クリーム入れ《クロッカス》：所蔵作品解説"
+      },
+      {
+        "id": "mkg-gesmar-mistinguett",
+        "institution": "ハンブルク美術工芸博物館",
+        "title": "ジェスマール《ミスタンゲット》",
+        "url": "https://www.mkg-hamburg.de/sammlung/objekt/mistinguett/EP2015.697/mkg-e00134627"
       }
     ],
-    "status": "本文公開・実作品画像2点／画像の収録は継続中",
-    "image_count_acquired": 2,
+    "status": "本文公開・実作品画像4点収録 / 背景・年表・用語を拡充（画像収集は継続中）",
+    "image_count_acquired": 4,
     "representatives": [
       {
         "title": "\"Fuseaux\" Cabinet",
@@ -2811,12 +2847,12 @@
         "date": "1930年（5月27日開館／8月に完成と見なされた）",
         "domain": "超高層建築・素材・内部の動線",
         "reason": "LPCは、Nirosta鋼による外壁や頂部、企業を象徴する建築表現を、アール・デコの特徴として説明しています。内部では、三角形のホールと柱が、エレベーターへ向かう動きを導きます。輪郭の図形だけでなく、材料、街の中での姿、建物に入る体験を見ます。",
-        "limitation": "1930年4月の入居開始、5月の開館、8月に完成とされたことは区別します。建築当局の記録日である1932年2月19日も別です。今の外観やロビーの写真が、1930年の姿をそのまま示すとは限りません。建築作品と現代の写真の権利は、別々に確認します。",
+        "limitation": "1930年4月の入居開始、5月の開館、8月に完成とされたことは区別します。建築当局の記録日である1932年2月19日も別です。今の外観やロビーの写真が、1930年の姿をそのまま示すとは限りません。建築作品と現代の写真の権利は、別々に確認します。 掲載画像はDavid Shankboneが2007年8月に撮影した外観です。内部の写真ではありません。",
         "evidence": "https://s-media.nyc.gov/agencies/lpc/lp/0992.pdf",
-        "work_rights": "未確認",
-        "reproduction_rights": "未確認",
-        "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用",
+        "work_rights": "建築の外観を紹介する写真。建築作品の扱いと写真の利用条件を分けて確認しています。",
+        "reproduction_rights": "撮影者David Shankboneの写真をCC BY-SA 3.0で利用。",
+        "commercial_use": "掲載する外観写真はCC BY-SA 3.0。撮影者・出典・ライセンスを表示し、改変版にも同じ条件を適用。内部写真への許諾ではありません。",
+        "image_adoption": "外観写真1点を掲載。内部写真は未掲載。",
         "identity_checks_original": [
           "Verify architectural element, designer, original material and photograph authorship."
         ],
@@ -2833,7 +2869,12 @@
             "中では、三角形のホールと柱が、エレベーターへの道をつくります。",
             "外の形だけでなく、入って歩く場所も考えるための建物です。"
           ]
-        }
+        },
+        "work_id": "art-deco-chrysler-building",
+        "image_ids": [
+          "art-deco-chrysler-shankbone"
+        ],
+        "image_count": 1
       },
       {
         "title": "Spirit of the Wind, car mascot",
@@ -2888,7 +2929,7 @@
         "title_original": "La Villa d’Este, from Falbalas et Fanfreluches 1923",
         "creator": "ジョルジュ・バルビエ（デザイン）／メイニアル（出版）",
         "date": "デザイン：1922年／刊行：1923年",
-        "domain": "版画・型紙による彩色",
+        "domain": "版画・エッチングと型紙による彩色（ポショワール）",
         "reason": "所蔵館がこの一葉を「Art Déco」に分類しています。服飾年鑑の挿絵を通して、アール・デコとファッション印刷物の関係を見る例です。",
         "limitation": "服飾年鑑『ファルバラとファンフルリュシュ』1923年版の一葉です。配信画像は336×500ピクセルのため、小さな図版として掲載しています。",
         "evidence": "https://www.mkg-hamburg.de/sammlung/objekt/la-villa-deste-dem-mode-almanach-falbalas-et-fanfreluches-1923/EG2017.4.104/mkg",
@@ -2909,6 +2950,53 @@
         },
         "work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
         "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。"
+      },
+      {
+        "id": "art-deco-cliff-crocus",
+        "title": "クリーム入れ《クロッカス》",
+        "title_original": "Crocus, cream jug",
+        "creator": "クラリス・クリフ（デザイン）、ニューポート・ポタリー（製造）",
+        "date": "1928年",
+        "reason": "高価な一点物だけではないアール・デコの例。工場で作った家庭用の器に、女性の絵付け職人たちが手で花を描きました。",
+        "look_for": "花を描く上向きの筆づかいと、細い緑の葉。工場製品にも、一つずつ手で作る工程があることに注目しましょう。",
+        "domain": "陶芸・日用品",
+        "evidence": "https://www.vam.ac.uk/articles/art-deco-clarice-cliff",
+        "source_url": "https://www.vam.ac.uk/articles/art-deco-clarice-cliff",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "reading_intro": {
+          "heading": "クリーム入れ《クロッカス》",
+          "lead": [
+            "高価な一点物だけではないアール・デコの例。工場で作った家庭用の器に、女性の絵付け職人たちが手で花を描きました。"
+          ]
+        },
+        "identity": {
+          "object_number": "CIRC.674-1975",
+          "medium": "絵付けした陶器"
+        },
+        "limitation": "このページでは作品画像を掲載していません。所蔵館の出典で作品を確かめられます。"
+      },
+      {
+        "id": "art-deco-gesmar-mistinguett",
+        "title": "ミスタンゲットのポスター",
+        "title_original": "Mistinguett",
+        "creator": "シャルル・ジェスマール（デザイン）、H. Chachoin（印刷）",
+        "date": "1925年",
+        "domain": "劇場ポスター・リトグラフ（石版画）",
+        "reason": "所蔵館がアール・デコに分類する劇場ポスターです。大きな名前と淡く広がる羽根を組み合わせ、舞台に立つ人の華やかさを街へ伝えます。",
+        "evidence": "https://www.mkg-hamburg.de/sammlung/objekt/mistinguett/EP2015.697/mkg-e00134627",
+        "reading_intro": {
+          "heading": "ミスタンゲットのポスター",
+          "lead": [
+            "大きく濃い名前の文字と、淡い羽根の曲線。同じ画面の中で、目立たせ方を変えています。"
+          ]
+        },
+        "identity": {
+          "institution": "ハンブルク美術工芸博物館",
+          "object_number": "EP2015.697",
+          "medium": "リトグラフ（石版画）",
+          "dimensions": "120 × 77.5 cm"
+        },
+        "limitation": "画像は所蔵館が配信する小さなサイズです。細部の拡大には向きません。"
       }
     ],
     "period_bands": [
@@ -3077,6 +3165,94 @@
           "height": 500,
           "sha256": "5c2d5c0fc41b71e21b48c700a43ec615427b6b9732dc554d1edfe4b68fb36bf0"
         }
+      },
+      {
+        "id": "art-deco-gesmar-mistinguett",
+        "work_id": "art-deco-gesmar-mistinguett",
+        "author": "シャルル・ジェスマール",
+        "title": "ミスタンゲット",
+        "title_original": "Mistinguett",
+        "year": "1925年",
+        "source_page": "https://www.mkg-hamburg.de/sammlung/objekt/mistinguett/EP2015.697/mkg-e00134627",
+        "institution": "ハンブルク美術工芸博物館",
+        "accession": "EP2015.697",
+        "local_file": "assets/art-deco-gesmar-mistinguett.jpg",
+        "width": 361,
+        "height": 500,
+        "sha256": "f6b0a9059dee68ac507642121897d8748a608f875c43682172338cb54bb29712",
+        "local_bytes": 66390,
+        "alt": "羽根飾りをまとった女性と、上部に大きく記されたミスタンゲットの名前。",
+        "credit": "シャルル・ジェスマール《ミスタンゲット》1925年、印刷：Imprimerie H. Chachoin。ハンブルク美術工芸博物館。Public Domain。",
+        "license": "Public Domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "underlying_work_rights": "所蔵館が原作品をパブリックドメインと表示。",
+        "reproduction_rights": "所蔵館が原作品と画像の双方をPublic Domainと表示。",
+        "image_processing": "提供画像の全体を、そのまま表示します。原寸361×500ピクセルを超えて拡大しません。",
+        "visual_notes": [
+          {
+            "title": "名前と、羽根の形を比べる。",
+            "text": "名前の文字は濃く大きく、羽根は淡い色で広がります。文字と人物の違いに注目しましょう。"
+          },
+          {
+            "title": "舞台の華やかさを、街へ。",
+            "text": "顔や装飾を単純な形と色にまとめ、舞台に立つ人の華やかさを伝えています。"
+          }
+        ],
+        "presentation": {
+          "anchor": "art-deco-gesmar-mistinguett",
+          "scope_note": "1925年に制作された劇場ポスターです。所蔵館の配信画像は361×500ピクセルのため、大きく引き伸ばさず掲載しています。"
+        }
+      },
+      {
+        "id": "art-deco-chrysler-shankbone",
+        "work_id": "art-deco-chrysler-building",
+        "author": "ウィリアム・ヴァン・アレン（建築）／David Shankbone（写真）",
+        "title": "クライスラー・ビルの外観",
+        "title_original": "Chrysler Building",
+        "year": "建築1928–1930年／写真2007年8月",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_by_David_Shankbone.jpg",
+        "institution": "ニューヨーク市",
+        "local_file": "assets/art-deco-chrysler-shankbone.jpg",
+        "width": 1214,
+        "height": 3091,
+        "sha256": "f4ff7b9e8c908d136062b2903128a7e15a7ddb07e22205da5c570b19863dc0d7",
+        "local_bytes": 3679548,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chrysler_Building_by_David_Shankbone.jpg",
+        "display_derivatives": {
+          "variants": [
+            {
+              "local_file": "assets/art-deco-chrysler-shankbone-640.webp",
+              "width": 640,
+              "height": 1630
+            },
+            {
+              "local_file": "assets/art-deco-chrysler-shankbone-1000.webp",
+              "width": 1000,
+              "height": 2546
+            }
+          ]
+        },
+        "alt": "段を重ねて細くなる高層ビル。頂部には銀色の弧と三角形の窓が並び、周囲に別のビルが建っている。",
+        "credit": "ウィリアム・ヴァン・アレン設計《クライスラー・ビル》1928–1930年。写真：David Shankbone、2007年8月。Wikimedia Commons、CC BY-SA 3.0。",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "underlying_work_rights": "建築の外観を紹介する写真。建築作品の扱いと写真の利用条件を分けて確認しています。",
+        "reproduction_rights": "撮影者David Shankboneの写真をCC BY-SA 3.0で利用。",
+        "image_processing": "提供画像の全体を保持して縮小し、WebP版も作成。切り抜き、回転、色の変更はしていません。縮小版にもCC BY-SA 3.0を適用。",
+        "visual_notes": [
+          {
+            "title": "段をたどって、上へ。",
+            "text": "建物の幅が段階的に細くなり、頂部へ目を導きます。"
+          },
+          {
+            "title": "曲線と三角形が、くり返される。",
+            "text": "銀色の頂部で、弧を描く線と三角形の窓を探してみましょう。"
+          }
+        ],
+        "presentation": {
+          "anchor": "art-deco-chrysler-shankbone",
+          "scope_note": "2007年8月の外観写真です。地上階の内部は写っていません。元画像の画角をそのまま掲載しています。"
+        }
       }
     ],
     "generated_style_images": [],
@@ -3100,7 +3276,222 @@
         "まっすぐな線と、曲がった線を探すと、どこに見つかりますか。"
       ]
     },
-    "representative_count": 6
+    "representative_count": 8,
+    "deep_dive": [
+      {
+        "id": "1925",
+        "title": "1925年は、始まりではなく大きな節目",
+        "paragraphs": [
+          "1925年、パリで現代の装飾美術を紹介する大きな博覧会が開かれました。リュールマンの家具やラリックのガラスなど、昔からの技術を新しい形へ生かす仕事が集まりました。",
+          "当時の呼び方と、後に広まった「アール・デコ」という名前は同じではありません。一つの団体が守る決まりというより、いくつものデザインの動きをまとめて見る言葉です。"
+        ],
+        "source_ids": [
+          "vam-art-deco-intro"
+        ]
+      },
+      {
+        "id": "luxury",
+        "title": "形が単純でも、仕事は細かい",
+        "paragraphs": [
+          "リュールマンの《フュゾー型キャビネット》は、すっきりした箱形に、細かい木の模様を組み合わせています。木、象牙、絹、金属という材料の違いも表現になります。",
+          "四角い形だから安くつくれるとは限りません。このような高級家具では、材料の選び方と職人の手仕事が重要です。一方、同じ時代には、もっと多くの家庭へ届ける製品もつくられました。"
+        ],
+        "source_ids": [
+          "met-ruhlmann-fuseaux",
+          "vam-deco-home"
+        ]
+      },
+      {
+        "id": "home",
+        "title": "工場の品にも、手で描く楽しさがある",
+        "paragraphs": [
+          "イギリスのクラリス・クリフは、鮮やかな模様を皿や水差しに広げました。《クロッカス》では、上へ伸びる筆の動きで花を描き、細い緑の線で葉を足します。絵付けの担当者たちが、その模様を製品へ展開しました。",
+          "工場生産と手仕事は、いつも正反対ではありません。形をそろえてつくる器に、人の手で色を付ける方法もあります。値段や数量だけでなく、どの工程を誰が担ったかを見ると、製品の成り立ちが見えてきます。"
+        ],
+        "source_ids": [
+          "vam-deco-cliff"
+        ]
+      },
+      {
+        "id": "travel",
+        "title": "旅を売るポスター、速さを飾る製品",
+        "paragraphs": [
+          "鉄道や船の広告は、旅の目的地だけでなく「近代的な生活への憧れ」も伝えました。高級な船に乗れない人も、街のポスターを通してそのイメージに触れます。",
+          "《ノール・エクスプレス》は鉄道旅行の広告です。車の飾り《風の精》とは違う品ですが、移動と速さを魅力として見せる時代のつながりがあります。印刷物、製品、建物を横に並べて見ることができます。"
+        ],
+        "source_ids": [
+          "vam-deco-world",
+          "moma-cassandre-nord",
+          "vam-lalique-art-deco"
+        ]
+      },
+      {
+        "id": "industry",
+        "title": "新しい材料が、外側の形を変える",
+        "paragraphs": [
+          "1930年代には、金属やガラスに加え、型で形をつくりやすいプラスチックが生活用品に使われました。ラジオでは、中の機械を包む外側そのものが、家に置きたいデザインになります。",
+          "角を丸めた、なめらかな流線型は、乗り物以外にも広がりました。止まっている製品まで速そうに見えるのはなぜでしょう。空気の流れに必要な形と、速さを感じさせる見た目を分けて考えられます。"
+        ],
+        "source_ids": [
+          "vam-deco-home",
+          "vam-deco-world"
+        ]
+      },
+      {
+        "id": "many-places",
+        "title": "同じ形が、世界へコピーされたわけではない",
+        "paragraphs": [
+          "アール・デコは旅行、広告、貿易を通じて広まり、各地の表現と混ざりました。インドのムンバイでは、映画館や住まいに、インドのデザインとデコを組み合わせた建築が残っています。",
+          "外国の伝統や古代文化をヒントにした作品も多くあります。ただ「異国風」でまとめず、どこの形を、誰が、どのように取り入れたのかを見ることが大切です。"
+        ],
+        "source_ids": [
+          "unesco-mumbai-deco",
+          "vam-art-deco-intro"
+        ]
+      }
+    ],
+    "regional_variants": [
+      {
+        "place": "フランス",
+        "name": "高級な工芸と博覧会",
+        "description": "家具、ガラス、服飾などを通して、伝統技術を新しい暮らしへ結びつけました。",
+        "source_ids": [
+          "vam-art-deco-intro"
+        ]
+      },
+      {
+        "place": "イギリス",
+        "name": "家庭へ届く陶器",
+        "description": "クラリス・クリフらの仕事では、使う器と鮮やかな絵付けが結びつきます。",
+        "source_ids": [
+          "vam-deco-cliff"
+        ]
+      },
+      {
+        "place": "アメリカ",
+        "name": "摩天楼と流線型",
+        "description": "高い建物や工業製品が、新しさの象徴になります。フランスの高級家具と同じ条件でつくられたわけではありません。",
+        "source_ids": [
+          "nyclpc-chrysler-exterior",
+          "vam-deco-world"
+        ]
+      },
+      {
+        "place": "インド・ムンバイ",
+        "name": "映画館と住まい",
+        "description": "インドの意匠とデコの表現を結びつけた建築群です。",
+        "source_ids": [
+          "unesco-mumbai-deco"
+        ]
+      },
+      {
+        "place": "日本",
+        "name": "伝統と鉄道の広告",
+        "description": "里見宗次（さとみむねつぐ）の1937年の鉄道広告では、桜と近代的な交通設備が同じ画面に置かれます。",
+        "source_ids": [
+          "vam-deco-world"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1910年代〜1920年代初め",
+        "event": "植物の模様や図形、古い文化の形を、新しい装飾へ組み替える試みが進む。",
+        "source_ids": [
+          "vam-art-deco-intro"
+        ]
+      },
+      {
+        "date": "1925年",
+        "event": "パリの装飾美術・産業美術の博覧会が、新しい工芸やデザインを広く紹介する。",
+        "source_ids": [
+          "vam-art-deco-intro"
+        ]
+      },
+      {
+        "date": "1927年",
+        "event": "カッサンドルの鉄道広告《ノール・エクスプレス》。",
+        "source_ids": [
+          "moma-cassandre-nord"
+        ]
+      },
+      {
+        "date": "1928年",
+        "event": "クリフの《クロッカス》の器が生まれる。",
+        "source_ids": [
+          "vam-deco-cliff"
+        ]
+      },
+      {
+        "date": "1930年",
+        "event": "ニューヨークのクライスラー・ビルが開館。",
+        "source_ids": [
+          "nyclpc-chrysler-interior"
+        ]
+      },
+      {
+        "date": "1930年代",
+        "event": "流線型や新しいプラスチックを使う家庭用品が広まる。",
+        "source_ids": [
+          "vam-deco-home"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "装飾",
+        "reading": "そうしょく",
+        "explanation": "形、模様、色、材料などで、ものを飾り表情をつくること。"
+      },
+      {
+        "term": "寄木細工",
+        "reading": "よせぎざいく",
+        "explanation": "色や木目の違う木を組み合わせ、模様をつくる技法。"
+      },
+      {
+        "term": "流線型",
+        "reading": "りゅうせんけい",
+        "explanation": "流れる空気や水を思わせる、なめらかな輪郭。見た目だけに取り入れる例もあります。"
+      },
+      {
+        "term": "量産",
+        "reading": "りょうさん",
+        "explanation": "同じ設計の製品を、まとまった数でつくること。"
+      },
+      {
+        "term": "摩天楼",
+        "reading": "まてんろう",
+        "explanation": "とても高い建物を表す言葉。"
+      },
+      {
+        "term": "意匠",
+        "reading": "いしょう",
+        "explanation": "ものの形や模様を考えたデザイン。"
+      }
+    ],
+    "related_articles": [
+      {
+        "slug": "art-nouveau",
+        "title": "アール・ヌーヴォー"
+      },
+      {
+        "slug": "streamline-moderne",
+        "title": "ストリームライン・モダン"
+      },
+      {
+        "slug": "international-style",
+        "title": "インターナショナル・スタイル"
+      }
+    ],
+    "artist_ids": [
+      "emile-jacques-ruhlmann",
+      "a-m-cassandre",
+      "william-van-alen",
+      "rene-lalique",
+      "george-barbier",
+      "clarice-cliff",
+      "charles-gesmar"
+    ]
   },
   {
     "name": "De Stijl",
