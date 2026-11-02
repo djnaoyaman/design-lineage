@@ -3,7 +3,7 @@
 > デザインの歴史を、作品と一次資料からたどる日本語の図鑑。
 
 ## このサイトについて
-- 本文68項目、収録候補88項目。未公開候補は完成記事ではありません。
+- 本文88項目、収録候補88項目。未公開候補は完成記事ではありません。
 - 歴史的な運動・様式・学校・技法・現代トレンド・人物を区別します。
 - 掲載画像の出典と利用条件は個別記録を参照してください。サイト全体への一括利用許諾はありません。
 - AAGAの試作は実在する作品の写真とは区別します。
@@ -88,3 +88,24 @@
 - [グラフィックにおける和様（わよう） / グラフィックにおける和様](https://djnaoyaman.github.io/design-lineage/entries/wayo-graphic.html): 日本の伝統と近現代の印刷物を比べる編集上の主題。本項は1950年代–1990年代の田中一光を中心に。実作品画像0点、画像収録は継続中。
 - [ブラジル・モダニズム / ブラジル・モダニズム](https://djnaoyaman.github.io/design-lineage/entries/brazilian-modernism.html): 文学・美術・建築などにまたがる近代文化の動き。1920年代を中心に／その後も多様に展開。実作品画像0点、画像収録は継続中。
 - [トロピカル・モダニズム（熱帯の環境を考えた近代建築） / Tropical Modernism](https://djnaoyaman.github.io/design-lineage/entries/tropical-modernism.html): 建築をめぐる動向。1940年代以降を中心に。実作品画像0点、画像収録は継続中。
+
+- [タイポグラフィ／活字組版 / Typography / 活字組版](https://djnaoyaman.github.io/design-lineage/entries/typography-typesetting.html): 技法・制作方法。掲載例：1454–1455年、1896年、1928年。実作品画像0点、画像収録は継続中。
+- [フォトモンタージュ / Photomontage](https://djnaoyaman.github.io/design-lineage/entries/photomontage.html): 技法・制作方法。掲載例：1925–1930年。実作品画像0点、画像収録は継続中。
+- [コラージュ / Collage](https://djnaoyaman.github.io/design-lineage/entries/collage.html): 技法・制作方法。掲載例：1919–1924年。実作品画像0点、画像収録は継続中。
+- [シルクスクリーン / Silkscreen](https://djnaoyaman.github.io/design-lineage/entries/silkscreen.html): 技法・制作方法。掲載例：1967–1983年。実作品画像0点、画像収録は継続中。
+- [リソグラフ / Risograph](https://djnaoyaman.github.io/design-lineage/entries/risograph.html): 技法・制作方法。技術史の参照：1980年、1984年、2013年。掲載印刷作品の制作年は未確認。。実作品画像0点、画像収録は継続中。
+- [ピクセルアート / Pixel art](https://djnaoyaman.github.io/design-lineage/entries/pixel-art.html): 技法・制作方法。掲載例：2021–2023年。実作品画像0点、画像収録は継続中。
+- [ジェネラティブ・デザイン / Generative design](https://djnaoyaman.github.io/design-lineage/entries/generative-design.html): 技法・制作方法。掲載例：2001年以降のシリーズ、2015年の試作。実作品画像0点、画像収録は継続中。
+- [パラメトリック・デザイン / Parametric design](https://djnaoyaman.github.io/design-lineage/entries/parametric-design.html): 技法・制作方法。掲載例：2010–2012年。実作品画像0点、画像収録は継続中。
+- [情報の視覚化 / Information visualization](https://djnaoyaman.github.io/design-lineage/entries/information-visualization.html): 技法・制作方法。掲載例：継続更新されるオンライン教材（開始年は一括しない）。実作品画像0点、画像収録は継続中。
+- [スキューモーフィズム / Skeuomorphism](https://djnaoyaman.github.io/design-lineage/entries/skeuomorphism.html): 現代の画面表現・説明用の分類。掲載例：2011年のアプリと継続更新の音楽ソフト。実作品画像0点、画像収録は継続中。
+- [ニューモーフィズム / Neumorphism](https://djnaoyaman.github.io/design-lineage/entries/neumorphism.html): 現代の画面表現・説明用の分類。近年の画面表現。発祥年はここで断定しない。実作品画像0点、画像収録は継続中。
+- [ガラスモーフィズム / Glassmorphism](https://djnaoyaman.github.io/design-lineage/entries/glassmorphism.html): 現代の画面表現・説明用の分類。近年の画面表現。下記の製品ごとに時期を分ける。実作品画像0点、画像収録は継続中。
+- [ウェブ・ブルータリズム / Web brutalism](https://djnaoyaman.github.io/design-lineage/entries/web-brutalism.html): 現代の画面表現・説明用の分類。近年のウェブの呼び名。統一した開始年はない。実作品画像0点、画像収録は継続中。
+- [ネオ・ブルータリズム / Neo-brutalism](https://djnaoyaman.github.io/design-lineage/entries/neo-brutalism.html): 現代の画面表現・説明用の分類。近年の画面表現。歴史運動の開始年は設定しない。実作品画像0点、画像収録は継続中。
+- [弁当箱のように区切るレイアウト / Bento layouts](https://djnaoyaman.github.io/design-lineage/entries/bento-layouts.html): 現代の画面表現・説明用の分類。掲載例：2023–2024年の制作ほか。実作品画像0点、画像収録は継続中。
+- [Y2Kリバイバル / Y2K revival](https://djnaoyaman.github.io/design-lineage/entries/y2k-revival.html): 現代の表現方法・説明用の分類。掲載例：2021年、2026年ほか。実作品画像0点、画像収録は継続中。
+- [動く文字の表現 / Kinetic typography](https://djnaoyaman.github.io/design-lineage/entries/kinetic-typography.html): 現代の表現方法・説明用の分類。掲載例：2022年ほか。技法の開始年ではない。実作品画像0点、画像収録は継続中。
+- [可変フォントを使う表現 / Variable-font expression](https://djnaoyaman.github.io/design-lineage/entries/variable-font-expression.html): 現代の表現方法・説明用の分類。技術の標準化：OpenType 1.8（2016年）。掲載例の時期は別に示す。実作品画像0点、画像収録は継続中。
+- [3D・粘土のようなイラスト / 3D / clay illustration](https://djnaoyaman.github.io/design-lineage/entries/3d-clay-illustration.html): 現代の表現方法・説明用の分類。近年のデジタル表現。3D全体の起源を示す年代ではない。実作品画像0点、画像収録は継続中。
+- [情報や飾りを重ねるウェブ表現 / Maximalist web](https://djnaoyaman.github.io/design-lineage/entries/maximalist-web.html): 現代の表現方法・説明用の分類。掲載例：2026年の催事、継続公開の制作者サイト。実作品画像0点、画像収録は継続中。

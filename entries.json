@@ -21315,5 +21315,2985 @@
     "reference_image_count": 0,
     "image_status": "実作品画像の掲載許諾を確認中",
     "status": "本文公開・実作品画像0点／画像の収録は継続中"
+  },
+  {
+    "name": "Typography / 活字組版",
+    "title_ja": "タイポグラフィ／活字組版",
+    "slug": "typography-typesetting",
+    "type": "技法・制作方法",
+    "period": "掲載例：1454–1455年、1896年、1928年",
+    "region": "複数の国・地域",
+    "summary": "同じ言葉でも、文字の大きさや並べ方で印象が変わります。タイポグラフィは、文字の形や間隔、行の並び、余白を考えて伝える仕事です。活字組版（かつじくみはん）は、印刷に使う文字を組んで紙面をつくる方法です。",
+    "context": "金属の活字と画面の文字では仕組みが違います。それでも、どこから読むか、何を大切な言葉として見せるかを考える点は共通します。西欧の例を、世界の印刷の始まりと取り違えないようにしましょう。",
+    "recognition": {
+      "color": "黒い文字と紙の明るさの差を見ます。",
+      "type": "書体（しょたい。文字の形のまとまり）と、文字や行の間を見ます。",
+      "form": "中央にそろえるか、左にそろえるかで読む道筋が変わります。",
+      "composition": "本文、見出し、挿絵、余白を一緒に見ます。"
+    },
+    "comparison": "手で文字を書くカリグラフィと、文章全体を組む仕事は重なりますが、同じではありません。",
+    "modern": "ウェブでは画面幅によって行が変わります。小さな画面で本文が読めるかも確かめましょう。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "typography-typesetting-1",
+        "institution": "米国議会図書館",
+        "url": "https://guides.loc.gov/gutenberg",
+        "supports": "Gutenberg Bibleの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "typography-typesetting-2",
+        "institution": "ウィリアム・モリス・ギャラリー",
+        "url": "https://wmgallery.org.uk/object/the-works-of-geoffrey-chaucer/",
+        "supports": "The Works of Geoffrey Chaucerの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "typography-typesetting-3",
+        "institution": "レターフォーム・アーカイブ",
+        "url": "https://exhibitions.letterformarchive.org/bauhaus/artworks/the-new-typography",
+        "supports": "Die neue Typographieの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "gutenberg-layout",
+        "institution": "米国議会図書館",
+        "url": "https://wwws.loc.gov/exhibits/bibles/the-gutenberg-bible.html",
+        "supports": "二段・主に42行、手彩色の見出し",
+        "checked_at": "2026-11-01"
+      },
+      {
+        "id": "new-type-context",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "url": "https://www.moma.org/calendar/exhibitions/1013",
+        "supports": "1928年の著書と左右非対称の配置",
+        "checked_at": "2026-11-01"
+      },
+      {
+        "id": "chaucer-layout",
+        "institution": "マキューン・コレクション",
+        "url": "https://www.mccunecollection.org/kelmscott_chaucer",
+        "supports": "二段組み・装飾・挿絵",
+        "checked_at": "2026-11-01"
+      }
+    ],
+    "source_ids": [
+      "typography-typesetting-1",
+      "typography-typesetting-2",
+      "typography-typesetting-3",
+      "gutenberg-layout",
+      "new-type-context",
+      "chaucer-layout"
+    ],
+    "representatives": [
+      {
+        "title": "グーテンベルク聖書",
+        "creator": "ヨハネス・グーテンベルク、ヨハン・フスト",
+        "date": "1454–1455",
+        "domain": "書籍",
+        "reason": "金属活字で二段に組んだ本文と、手で描き加えた色の飾りを区別して見ます。多くのページは一段42行です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://guides.loc.gov/gutenberg",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "グーテンベルク聖書",
+          "lead": [
+            "金属活字で二段に組んだ本文と、手で描き加えた色の飾りを区別して見ます。多くのページは一段42行です。"
+          ]
+        },
+        "title_original": "Gutenberg Bible",
+        "title_ja": "グーテンベルク聖書",
+        "creator_original": "ヨハネス・グーテンベルク、ヨハン・フスト",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://guides.loc.gov/gutenberg"
+      },
+      {
+        "title": "チョーサー作品集",
+        "creator": "ケルムスコット・プレス／ウィリアム・モリスら",
+        "date": "1896",
+        "domain": "書籍",
+        "reason": "二段組みの文字に、植物の縁飾りと挿絵を合わせた本です。文字の黒い面と、周りの細かな模様のつながりを見ます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://wmgallery.org.uk/object/the-works-of-geoffrey-chaucer/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "チョーサー作品集",
+          "lead": [
+            "二段組みの文字に、植物の縁飾りと挿絵を合わせた本です。文字の黒い面と、周りの細かな模様のつながりを見ます。"
+          ]
+        },
+        "title_original": "The Works of Geoffrey Chaucer",
+        "title_ja": "チョーサー作品集",
+        "creator_original": "ケルムスコット・プレス／ウィリアム・モリスら",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://wmgallery.org.uk/object/the-works-of-geoffrey-chaucer/"
+      },
+      {
+        "title": "新しいタイポグラフィ",
+        "creator": "ヤン・チヒョルト",
+        "date": "1928",
+        "domain": "書籍・活版印刷",
+        "reason": "活版印刷でつくられた、文字の組み方の本です。中央にそろえるだけでなく、左右の釣り合いをずらして情報を整理する考えを示しました。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://exhibitions.letterformarchive.org/bauhaus/artworks/the-new-typography",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "新しいタイポグラフィ",
+          "lead": [
+            "活版印刷でつくられた、文字の組み方の本です。中央にそろえるだけでなく、左右の釣り合いをずらして情報を整理する考えを示しました。"
+          ]
+        },
+        "title_original": "Die neue Typographie",
+        "title_ja": "新しいタイポグラフィ",
+        "creator_original": "ヤン・チヒョルト",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://exhibitions.letterformarchive.org/bauhaus/artworks/the-new-typography"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "タイポグラフィ／活字組版",
+      "lead": [
+        "同じ言葉でも、文字の大きさや並べ方で印象が変わります。タイポグラフィは、文字の形や間隔、行の並び、余白を考えて伝える仕事です。活字組版（かつじくみはん）は、印刷に使う文字を組んで紙面をつくる方法です。"
+      ]
+    },
+    "representativeness_limit": "西欧の書籍三例です。東アジアの活字史、日本語の縦組み、新聞の組版までを代表しません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Photomontage",
+    "title_ja": "フォトモンタージュ",
+    "slug": "photomontage",
+    "type": "技法・制作方法",
+    "period": "掲載例：1925–1930年",
+    "region": "複数の国・地域",
+    "summary": "別々の写真を切り取り、一つの画面に組み合わせます。すると、実際には出会っていない人や物が同じ場所に現れます。フォトモンタージュは、写真の組み合わせで新しい意味をつくる方法です。",
+    "context": "ハンナ・ヘーヒは雑誌などの画像を使い、社会が女性をどう見ているか、といった問題を問い直しました。写真を組み合わせた画面全体が、実際の出来事を示すわけではありません。",
+    "recognition": {
+      "color": "元の写真の明るさの違いが、つなぎ目を目立たせることがあります。",
+      "type": "切り抜きの文字には、もとの広告や記事の意味が残ることがあります。",
+      "form": "顔と体の大きさが合っているか、切り口が残っているかを見ます。",
+      "composition": "画像の組み合わせが、笑いや疑問をどう生むか考えます。"
+    },
+    "comparison": "コラージュは紙や布なども含む広い方法です。写真を中心に組み合わせる方法と重なる部分があります。",
+    "modern": "画像編集ソフトでも似た操作ができます。報道では、合成画像だと伝えることも大切です。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "photomontage-1",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "url": "https://www.moma.org/collection/works/38825",
+        "supports": "Watchedの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "photomontage-2",
+        "institution": "スコットランド国立美術館群",
+        "url": "https://www.nationalgalleries.org/art-and-artists/31343/null",
+        "supports": "Aus der Sammlung: Aus einem ethnographischen Museumの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "photomontage-3",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "url": "https://www.moma.org/collection/works/37360",
+        "supports": "Indian Dancer: From an Ethnographic Museumの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "photomontage-1",
+      "photomontage-2",
+      "photomontage-3"
+    ],
+    "representatives": [
+      {
+        "title": "《ウォッチト》――切り抜きでつくる視線",
+        "creator": "ハンナ・ヘーヒ",
+        "date": "1925",
+        "domain": "切り貼りした印刷物",
+        "reason": "花びらの形と切り抜き画像の関係を見ます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.moma.org/collection/works/38825",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《ウォッチト》――切り抜きでつくる視線",
+          "lead": [
+            "花びらの形と切り抜き画像の関係を見ます。"
+          ]
+        },
+        "title_original": "Watched",
+        "title_ja": "《ウォッチト》――切り抜きでつくる視線",
+        "creator_original": "ハンナ・ヘーヒ",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.moma.org/collection/works/38825"
+      },
+      {
+        "title": "《コレクションより》――民族学博物館シリーズ",
+        "creator": "ハンナ・ヘーヒ",
+        "date": "1929",
+        "domain": "コラージュ・不透明水彩",
+        "reason": "仮面、赤ちゃんの胴体、雑誌の目が組み合わされています。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.nationalgalleries.org/art-and-artists/31343/null",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《コレクションより》――民族学博物館シリーズ",
+          "lead": [
+            "仮面、赤ちゃんの胴体、雑誌の目が組み合わされています。"
+          ]
+        },
+        "title_original": "Aus der Sammlung: Aus einem ethnographischen Museum",
+        "title_ja": "《コレクションより》――民族学博物館シリーズ",
+        "creator_original": "ハンナ・ヘーヒ",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.nationalgalleries.org/art-and-artists/31343/null"
+      },
+      {
+        "title": "《インドの踊り子》――民族学博物館シリーズ",
+        "creator": "ハンナ・ヘーヒ",
+        "date": "1930",
+        "domain": "フォトモンタージュ・コラージュ",
+        "reason": "印刷された紙の切り抜きに、金属箔（きんぞくはく。薄くのばした金属）も合わせています。異なる素材が、一人の姿に見えるように組み合わされています。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.moma.org/collection/works/37360",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《インドの踊り子》――民族学博物館シリーズ",
+          "lead": [
+            "印刷された紙の切り抜きに、金属箔（きんぞくはく。薄くのばした金属）も合わせています。異なる素材が、一人の姿に見えるように組み合わされています。"
+          ]
+        },
+        "title_original": "Indian Dancer: From an Ethnographic Museum",
+        "title_ja": "《インドの踊り子》――民族学博物館シリーズ",
+        "creator_original": "ハンナ・ヘーヒ",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.moma.org/collection/works/37360"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "フォトモンタージュ",
+      "lead": [
+        "別々の写真を切り取り、一つの画面に組み合わせます。すると、実際には出会っていない人や物が同じ場所に現れます。フォトモンタージュは、写真の組み合わせで新しい意味をつくる方法です。"
+      ]
+    },
+    "representativeness_limit": "ヘーヒの三作品に絞った紹介です。政治ポスター、広告、暗室での合成までを代表しません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Collage",
+    "title_ja": "コラージュ",
+    "slug": "collage",
+    "type": "技法・制作方法",
+    "period": "掲載例：1919–1924年",
+    "region": "複数の国・地域",
+    "summary": "紙や布の切れ端を貼ると、描くだけではできない画面が生まれます。コラージュは、別々の材料を組み合わせてつくる方法です。印刷された文字や、紙の手ざわりも作品の一部になります。",
+    "context": "クルト・シュヴィッタースは、捨てられた紙などを使う制作を「メルツ」と呼びました。材料の元の用途が残ることと、新しい形に見えることの両方に注目します。",
+    "recognition": {
+      "color": "塗った色と、もとの紙の色を区別します。",
+      "type": "文字は読める言葉であり、黒い形でもあります。",
+      "form": "紙の切り口や布の織り目、重ねた厚さを見ます。",
+      "composition": "断片が集まって、大きなかたまりや斜めの流れをつくります。"
+    },
+    "comparison": "写真中心のフォトモンタージュと違い、紙や布そのものの性質も使います。立体物を組み合わせる仕事はアサンブラージュとも呼ばれます。",
+    "modern": "デジタルの切り貼りでは、実物の厚さまでは再現できません。どこを切り取り、何を隠したかを見ると考え方が伝わります。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "collage-1",
+        "institution": "ティッセン＝ボルネミッサ国立美術館",
+        "url": "https://www.museothyssen.org/en/collection/artists/schwitters-kurt/merzbild-1a-psychiatrist",
+        "supports": "Merzbild 1A (The Psychiatrist)の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "collage-2",
+        "institution": "ノートン・サイモン美術館",
+        "url": "https://www.nortonsimon.org/art/detail/P.1953.562",
+        "supports": "Mz 457の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "collage-3",
+        "institution": "リッター美術館",
+        "url": "https://www.museum-ritter.de/en/inhalt/collection/artists-a-selection/kuenstler-s-z/kurt-schwitters.html",
+        "supports": "Merzzeichnung 24/18 (Kaiser-Friedrich-Quelle)の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "collage-1",
+      "collage-2",
+      "collage-3"
+    ],
+    "representatives": [
+      {
+        "title": "《メルツ絵画1A》",
+        "creator": "クルト・シュヴィッタース",
+        "date": "1919",
+        "domain": "油彩・コラージュ・物の組み合わせ",
+        "reason": "油絵の具に、切り貼りや実物の材料を加えています。描いた面と貼った物の違いをたどれる例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.museothyssen.org/en/collection/artists/schwitters-kurt/merzbild-1a-psychiatrist",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《メルツ絵画1A》",
+          "lead": [
+            "油絵の具に、切り貼りや実物の材料を加えています。描いた面と貼った物の違いをたどれる例です。"
+          ]
+        },
+        "title_original": "Merzbild 1A (The Psychiatrist)",
+        "title_ja": "《メルツ絵画1A》",
+        "creator_original": "クルト・シュヴィッタース",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.museothyssen.org/en/collection/artists/schwitters-kurt/merzbild-1a-psychiatrist"
+      },
+      {
+        "title": "《エム・ツェット457》",
+        "creator": "クルト・シュヴィッタース",
+        "date": "1921",
+        "domain": "紙と布のコラージュ",
+        "reason": "紙と布を紙の上に貼った作品です。紙面の印刷だけでなく、布の織り目も構成に加わる点を見ます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.nortonsimon.org/art/detail/P.1953.562",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《エム・ツェット457》",
+          "lead": [
+            "紙と布を紙の上に貼った作品です。紙面の印刷だけでなく、布の織り目も構成に加わる点を見ます。"
+          ]
+        },
+        "title_original": "Mz 457",
+        "title_ja": "《エム・ツェット457》",
+        "creator_original": "クルト・シュヴィッタース",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.nortonsimon.org/art/detail/P.1953.562"
+      },
+      {
+        "title": "《メルツ・ドローイング24/18》",
+        "creator": "クルト・シュヴィッタース",
+        "date": "1924",
+        "domain": "紙のコラージュ",
+        "reason": "チョコレートの包み紙、菓子の透明な包装、入場券、飲料のラベルを組み合わせています。捨てられる小さな紙が、画面の色や形に変わるところを見ます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.museum-ritter.de/en/inhalt/collection/artists-a-selection/kuenstler-s-z/kurt-schwitters.html",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《メルツ・ドローイング24/18》",
+          "lead": [
+            "チョコレートの包み紙、菓子の透明な包装、入場券、飲料のラベルを組み合わせています。捨てられる小さな紙が、画面の色や形に変わるところを見ます。"
+          ]
+        },
+        "title_original": "Merzzeichnung 24/18 (Kaiser-Friedrich-Quelle)",
+        "title_ja": "《メルツ・ドローイング24/18》",
+        "creator_original": "クルト・シュヴィッタース",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.museum-ritter.de/en/inhalt/collection/artists-a-selection/kuenstler-s-z/kurt-schwitters.html"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "コラージュ",
+      "lead": [
+        "紙や布の切れ端を貼ると、描くだけではできない画面が生まれます。コラージュは、別々の材料を組み合わせてつくる方法です。印刷された文字や、紙の手ざわりも作品の一部になります。"
+      ]
+    },
+    "representativeness_limit": "シュヴィッタースの三例です。彼一人がこの技法を始めたという意味ではありません。作品と撮影画像の権利は別です。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Silkscreen",
+    "title_ja": "シルクスクリーン",
+    "slug": "silkscreen",
+    "type": "技法・制作方法",
+    "period": "掲載例：1967–1983年",
+    "region": "複数の国・地域",
+    "summary": "細かな網を通して、インクを紙や布に押し出します。インクを通す所と通さない所をつくることで、同じ形を何枚も刷れます。シルクスクリーンは、このような印刷の方法です。",
+    "context": "ウォーホルは、同じ画像の色を変えながら作品をつくりました。紙に刷る版画とキャンバスに刷った絵画は区別します。助手や工房との共同作業も関わります。",
+    "recognition": {
+      "color": "同じ画像でも、背景や輪郭の色で印象が変わります。",
+      "type": "文字の有無は技法を判定する条件ではありません。",
+      "form": "木を彫る木版とは違い、網に設けた通り道からインクを押し出します。",
+      "composition": "同じ画像の繰り返しと、一枚の中の色の配置を分けて見ます。"
+    },
+    "comparison": "リソグラフも穴を通して刷りますが、版と機械の仕組みが違います。色ずれだけでは技法を特定できません。",
+    "modern": "Tシャツやポスターなどにも使われます。色の数と、刷る材料によって、版や作業が変わります。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "silkscreen-1",
+        "institution": "アンディ・ウォーホル美術財団",
+        "url": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/",
+        "supports": "Marilyn Monroeの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "silkscreen-2",
+        "institution": "アンディ・ウォーホル美術財団",
+        "url": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/",
+        "supports": "Sunsetの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "silkscreen-3",
+        "institution": "アンディ・ウォーホル美術財団",
+        "url": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/",
+        "supports": "Endangered Species: Grevy’s Zebraの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "silkscreen-1",
+      "silkscreen-2",
+      "silkscreen-3"
+    ],
+    "representatives": [
+      {
+        "title": "《マリリン・モンロー》",
+        "creator": "アンディ・ウォーホル",
+        "date": "1967",
+        "domain": "紙へのスクリーンプリント",
+        "reason": "同じ人物写真を色を変えて刷ったシリーズです。紙へのスクリーンプリントなので、キャンバスに刷った同じ人物の作品と区別します。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《マリリン・モンロー》",
+          "lead": [
+            "同じ人物写真を色を変えて刷ったシリーズです。紙へのスクリーンプリントなので、キャンバスに刷った同じ人物の作品と区別します。"
+          ]
+        },
+        "title_original": "Marilyn Monroe",
+        "title_ja": "《マリリン・モンロー》",
+        "creator_original": "アンディ・ウォーホル",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/"
+      },
+      {
+        "title": "《サンセット》――日没",
+        "creator": "アンディ・ウォーホル",
+        "date": "1972",
+        "domain": "紙へのスクリーンプリント",
+        "reason": "1972年の紙へのスクリーンプリントです。人物のシリーズと比べ、風景の題材にも同じ印刷方法を使えることが分かります。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《サンセット》――日没",
+          "lead": [
+            "1972年の紙へのスクリーンプリントです。人物のシリーズと比べ、風景の題材にも同じ印刷方法を使えることが分かります。"
+          ]
+        },
+        "title_original": "Sunset",
+        "title_ja": "《サンセット》――日没",
+        "creator_original": "アンディ・ウォーホル",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/"
+      },
+      {
+        "title": "《絶滅危惧種：グレビーシマウマ》",
+        "creator": "アンディ・ウォーホル",
+        "date": "1983",
+        "domain": "ボードへのスクリーンプリント",
+        "reason": "1983年のスクリーンプリントで、厚い紙のボードに刷られています。しま模様を持つ動物を題材にした例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "《絶滅危惧種：グレビーシマウマ》",
+          "lead": [
+            "1983年のスクリーンプリントで、厚い紙のボードに刷られています。しま模様を持つ動物を題材にした例です。"
+          ]
+        },
+        "title_original": "Endangered Species: Grevy’s Zebra",
+        "title_ja": "《絶滅危惧種：グレビーシマウマ》",
+        "creator_original": "アンディ・ウォーホル",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://warholfoundation.org/warhol/catalogue-raisonne/catalogues-raisonnes-print/"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "シルクスクリーン",
+      "lead": [
+        "細かな網を通して、インクを紙や布に押し出します。インクを通す所と通さない所をつくることで、同じ形を何枚も刷れます。シルクスクリーンは、このような印刷の方法です。"
+      ]
+    },
+    "representativeness_limit": "ウォーホルの版画三例です。技法の発祥、商業印刷、他の地域の表現全体を代表しません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Risograph",
+    "title_ja": "リソグラフ",
+    "slug": "risograph",
+    "type": "技法・制作方法",
+    "period": "技術史の参照：1980年、1984年、2013年。掲載印刷作品の制作年は未確認。",
+    "region": "複数の国・地域",
+    "summary": "学校のお知らせのように、同じ紙をたくさん刷る機械が、作品づくりにも使われます。リソグラフは理想科学工業の印刷機です。小さな穴のある版からインクを通して刷ります。",
+    "context": "1958年のリソーグラフは前身の機器です。1980年にはリソグラフの製版機（せいはんき。印刷用の版をつくる機械）と印刷機が登場しました。機械の発売年と、個々の印刷作品がつくられた年は分けて考えましょう。",
+    "recognition": {
+      "color": "重ねたインクの色を見ると、一色ずつ刷る仕組みを考えられます。",
+      "type": "文字も画像も刷れます。特定の書体だけを使う方法ではありません。",
+      "form": "マスターと呼ぶ薄い版を、インクの入った胴に巻きつけます。",
+      "composition": "色が少しずれることもありますが、ずれは必須の特徴ではありません。"
+    },
+    "comparison": "シルクスクリーンと同じく穴を通す印刷ですが、版を機械の胴に巻く仕組みが異なります。コピー機のように見えても、同じ方式ではありません。",
+    "modern": "リゾット・スタジオなどの工房では、リソグラフを作品や小さな出版物の制作に使っています。下の三作品では、一色・二色・三色の刷り方と、紙の色の生かし方を比べられます。機械の歴史は、作品とは別の参考情報として整理しています。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "risograph-1",
+        "institution": "理想科学工業",
+        "url": "https://www.riso.co.jp/english/product/digital_dup/history/index.html",
+        "supports": "リソグラフAP7200／FX7200の1980年発売と機械の役割",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "risograph-2",
+        "institution": "理想科学工業",
+        "url": "https://www.riso.co.jp/english/product/digital_dup/history/index.html",
+        "supports": "リソグラフ007の1984年発売と製版・印刷の一体化",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "risograph-3",
+        "institution": "理想科学工業",
+        "url": "https://www.riso.co.jp/english/product/digital_dup/history/index.html",
+        "supports": "リソーA2の日本での2013年発売",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "riso-process",
+        "institution": "RISO UK（理想科学工業の英国法人）",
+        "url": "https://www.riso.co.uk/print-solutions/risograph-creative/",
+        "supports": "マスターと胴を使う印刷工程",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "risotto",
+        "institution": "リゾット・スタジオ（RISOTTO）",
+        "url": "https://risottostudio.com/",
+        "supports": "現代の工房での利用",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "risograph-print-1",
+        "institution": "リゾット・スタジオ（制作者の公式販売・作品紹介）",
+        "url": "https://risottostudio.com/products/deco-a3-wall-art",
+        "supports": "蛍光（けいこう）オレンジと青の二色で、ゲーム機の斜めの盤面やアール・デコの模様をもとにした形を刷っています。二色の版で一枚をつくる例です。",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式作品紹介本文を直接オープンして確認。画像利用許諾は別。"
+      },
+      {
+        "id": "risograph-print-2",
+        "institution": "リゾット・スタジオ（制作者の公式販売・作品紹介）",
+        "url": "https://risottostudio.com/products/foliage-a3-wall-art",
+        "supports": "マティスの切り紙を手がかりにした葉の形を、水色の一色で灰色の紙に刷っています。インクの色だけでなく、紙の色も画面づくりに使う例です。",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式作品紹介本文を直接オープンして確認。画像利用許諾は別。"
+      },
+      {
+        "id": "risograph-print-3",
+        "institution": "リゾット・スタジオ（制作者の公式販売・作品紹介）",
+        "url": "https://risottostudio.com/products/linescape-a2-wall-art",
+        "supports": "黄・赤・青の三色の線を組み合わせ、色が少しずつ変わるように見せています。ソウルのコーナーズが印刷した、50部限定の作品です。",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式作品紹介本文を直接オープンして確認。画像利用許諾は別。"
+      }
+    ],
+    "source_ids": [
+      "risograph-1",
+      "risograph-2",
+      "risograph-3",
+      "riso-process",
+      "risotto",
+      "risograph-print-1",
+      "risograph-print-2",
+      "risograph-print-3"
+    ],
+    "representatives": [
+      {
+        "title": "デコ――幾何学模様の印刷作品",
+        "creator": "ガブリエラ・マルチェッラ／印刷：リゾット・スタジオ",
+        "date": "制作年未確認",
+        "domain": "リソグラフによる紙の印刷作品",
+        "reason": "蛍光（けいこう）オレンジと青の二色で、ゲーム機の斜めの盤面やアール・デコの模様をもとにした形を刷っています。二色の版で一枚をつくる例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://risottostudio.com/products/deco-a3-wall-art",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "デコ――幾何学模様の印刷作品",
+          "lead": [
+            "蛍光（けいこう）オレンジと青の二色で、ゲーム機の斜めの盤面やアール・デコの模様をもとにした形を刷っています。二色の版で一枚をつくる例です。"
+          ]
+        },
+        "title_original": "Deco A3 Risograph Wall Art",
+        "title_ja": "デコ――幾何学模様の印刷作品",
+        "creator_original": "Gabriella Marcella / RISOTTO Studio",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる印刷作品",
+        "source_url": "https://risottostudio.com/products/deco-a3-wall-art"
+      },
+      {
+        "title": "フォーリッジ――葉の形の印刷作品",
+        "creator": "ガブリエラ・マルチェッラ／印刷：リゾット・スタジオ",
+        "date": "制作年未確認",
+        "domain": "リソグラフによる紙の印刷作品",
+        "reason": "マティスの切り紙を手がかりにした葉の形を、水色の一色で灰色の紙に刷っています。インクの色だけでなく、紙の色も画面づくりに使う例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://risottostudio.com/products/foliage-a3-wall-art",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "フォーリッジ――葉の形の印刷作品",
+          "lead": [
+            "マティスの切り紙を手がかりにした葉の形を、水色の一色で灰色の紙に刷っています。インクの色だけでなく、紙の色も画面づくりに使う例です。"
+          ]
+        },
+        "title_original": "FOLIAGE — Pop Collection: A3 Print",
+        "title_ja": "フォーリッジ――葉の形の印刷作品",
+        "creator_original": "Gabriella Marcella / RISOTTO Studio",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる印刷作品",
+        "source_url": "https://risottostudio.com/products/foliage-a3-wall-art"
+      },
+      {
+        "title": "ラインスケープ――線で色の移り変わりをつくる印刷作品",
+        "creator": "ガブリエラ・マルチェッラ／印刷：コーナーズ（ソウル）",
+        "date": "制作年未確認",
+        "domain": "リソグラフによる紙の印刷作品",
+        "reason": "黄・赤・青の三色の線を組み合わせ、色が少しずつ変わるように見せています。ソウルのコーナーズが印刷した、50部限定の作品です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://risottostudio.com/products/linescape-a2-wall-art",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ラインスケープ――線で色の移り変わりをつくる印刷作品",
+          "lead": [
+            "黄・赤・青の三色の線を組み合わせ、色が少しずつ変わるように見せています。ソウルのコーナーズが印刷した、50部限定の作品です。"
+          ]
+        },
+        "title_original": "Linescape A2 Risograph Wall Art",
+        "title_ja": "ラインスケープ――線で色の移り変わりをつくる印刷作品",
+        "creator_original": "Gabriella Marcella / Corners",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる印刷作品",
+        "source_url": "https://risottostudio.com/products/linescape-a2-wall-art"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "記載した1980年・1984年・2013年は機械の発売年です。三つの印刷作品の制作年とは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "リソグラフ",
+      "lead": [
+        "学校のお知らせのように、同じ紙をたくさん刷る機械が、作品づくりにも使われます。リソグラフは理想科学工業の印刷機です。小さな穴のある版からインクを通して刷ります。"
+      ]
+    },
+    "representativeness_limit": "同じデザイナーの三作品です。色数・紙の色・印刷所の違いを比べる作例であり、リソグラフ表現全体の歴史的代表作と断定しません。機械三例は別の技術史資料として保持しています。",
+    "representative_count_note": "実際の印刷作品3例。機械3例はtechnical_history_examplesに分離し作品数に含めません。",
+    "technical_history_examples": [
+      {
+        "title": "リソグラフ AP7200／FX7200",
+        "creator": "理想科学工業",
+        "date": "1980",
+        "domain": "製版機・印刷機",
+        "reason": "版をつくる機械と刷る機械の組み合わせです。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.riso.co.jp/english/product/digital_dup/history/index.html",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "リソグラフ AP7200／FX7200",
+          "lead": [
+            "版をつくる機械と刷る機械の組み合わせです。"
+          ]
+        },
+        "title_original": "RISOGRAPH AP7200 / FX7200",
+        "title_ja": "リソグラフ AP7200／FX7200",
+        "creator_original": "理想科学工業",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "印刷機の例（印刷作品ではない）"
+      },
+      {
+        "title": "リソグラフ007",
+        "creator": "理想科学工業",
+        "date": "1984",
+        "domain": "印刷機",
+        "reason": "製版と印刷を一台にまとめた製品です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.riso.co.jp/english/product/digital_dup/history/index.html",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "リソグラフ007",
+          "lead": [
+            "製版と印刷を一台にまとめた製品です。"
+          ]
+        },
+        "title_original": "RISOGRAPH 007",
+        "title_ja": "リソグラフ007",
+        "creator_original": "理想科学工業",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "印刷機の例（印刷作品ではない）"
+      },
+      {
+        "title": "リソーA2",
+        "creator": "理想科学工業",
+        "date": "2013",
+        "domain": "印刷機",
+        "reason": "メーカー年表では、日本で2013年に発売された機種です。1980年、1984年の機器と分けて、製品展開を確かめる例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.riso.co.jp/english/product/digital_dup/history/index.html",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "リソーA2",
+          "lead": [
+            "メーカー年表では、日本で2013年に発売された機種です。1980年、1984年の機器と分けて、製品展開を確かめる例です。"
+          ]
+        },
+        "title_original": "RISO A2",
+        "title_ja": "リソーA2",
+        "creator_original": "理想科学工業",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "印刷機の例（印刷作品ではない）"
+      }
+    ],
+    "example_section_label": "表現が確かめられる印刷作品"
+  },
+  {
+    "name": "Pixel art",
+    "title_ja": "ピクセルアート",
+    "slug": "pixel-art",
+    "type": "技法・制作方法",
+    "period": "掲載例：2021–2023年",
+    "region": "複数の国・地域",
+    "summary": "小さな四角を並べて、人や町を描きます。ピクセルは、デジタル画像をつくる小さな点です。ピクセルアートでは、一つひとつの点やその集まりを意識して形をつくります。",
+    "context": "ここではゲームづくりに使えるケニーの素材集を見ます。古いゲームだけの表現ではなく、今の機械でも、限られた形で何を伝えるかを楽しめます。",
+    "recognition": {
+      "color": "色数が少ないと、隣り合う色の違いが大切になります。すべての作品が同じ色数とは限りません。",
+      "type": "小さな文字は、点をどこに置くかで読みやすさが変わります。",
+      "form": "斜めの線は階段状になります。大きくぼかすと、その工夫が見えなくなります。",
+      "composition": "小さな部品を組み合わせるタイル式では、隣の部品とつながる形も考えます。"
+    },
+    "comparison": "単に低解像度の写真にすることとは違います。どの点を残し、どこを空けるかという設計が重要です。",
+    "modern": "紹介する三素材集はCC0で公開されています。ただし、他のゲームのキャラクターまで自由に使えるという意味ではありません。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "pixel-art-1",
+        "institution": "ケニー（Kenney）公式素材配布サイト",
+        "url": "https://kenney.nl/assets/1-bit-platformer-pack",
+        "supports": "1-Bit Platformer Packの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "pixel-art-2",
+        "institution": "ケニー（Kenney）公式素材配布サイト",
+        "url": "https://kenney.nl/assets/tiny-dungeon",
+        "supports": "Tiny Dungeonの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "pixel-art-3",
+        "institution": "ケニー（Kenney）公式素材配布サイト",
+        "url": "https://kenney.nl/assets/tiny-town",
+        "supports": "Tiny Townの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "pixel-art-1",
+      "pixel-art-2",
+      "pixel-art-3"
+    ],
+    "representatives": [
+      {
+        "title": "ワンビット・プラットフォーマー・パック",
+        "creator": "ケニー（Kenney）",
+        "date": "2021",
+        "domain": "ゲーム用画像素材集",
+        "reason": "16×16の小さな部品で場面を組み立てる例です。",
+        "limitation": "公式ページでCC0を確認。画像ファイルの取得と実物確認は未完了です。",
+        "evidence": "https://kenney.nl/assets/1-bit-platformer-pack",
+        "image_adoption": "CC0確認済・画像取得待ち",
+        "reading_intro": {
+          "heading": "ワンビット・プラットフォーマー・パック",
+          "lead": [
+            "16×16の小さな部品で場面を組み立てる例です。"
+          ]
+        },
+        "title_original": "1-Bit Platformer Pack",
+        "title_ja": "ワンビット・プラットフォーマー・パック",
+        "creator_original": "Kenney",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://kenney.nl/assets/1-bit-platformer-pack"
+      },
+      {
+        "title": "タイニー・ダンジョン――小さな地下世界の素材",
+        "creator": "ケニー（Kenney）",
+        "date": "2022",
+        "domain": "ゲーム用画像素材集",
+        "reason": "16×16の部品で地下の場面を描きます。",
+        "limitation": "公式ページでCC0を確認。画像ファイルの取得と実物確認は未完了です。",
+        "evidence": "https://kenney.nl/assets/tiny-dungeon",
+        "image_adoption": "CC0確認済・画像取得待ち",
+        "reading_intro": {
+          "heading": "タイニー・ダンジョン――小さな地下世界の素材",
+          "lead": [
+            "16×16の部品で地下の場面を描きます。"
+          ]
+        },
+        "title_original": "Tiny Dungeon",
+        "title_ja": "タイニー・ダンジョン――小さな地下世界の素材",
+        "creator_original": "Kenney",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://kenney.nl/assets/tiny-dungeon"
+      },
+      {
+        "title": "タイニー・タウン――小さな町の素材",
+        "creator": "ケニー（Kenney）",
+        "date": "2023",
+        "domain": "ゲーム用画像素材集",
+        "reason": "建物や町を小さな部品に分ける例です。",
+        "limitation": "公式ページでCC0を確認。画像ファイルの取得と実物確認は未完了です。",
+        "evidence": "https://kenney.nl/assets/tiny-town",
+        "image_adoption": "CC0確認済・画像取得待ち",
+        "reading_intro": {
+          "heading": "タイニー・タウン――小さな町の素材",
+          "lead": [
+            "建物や町を小さな部品に分ける例です。"
+          ]
+        },
+        "title_original": "Tiny Town",
+        "title_ja": "タイニー・タウン――小さな町の素材",
+        "creator_original": "Kenney",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://kenney.nl/assets/tiny-town"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "ピクセルアート",
+      "lead": [
+        "小さな四角を並べて、人や町を描きます。ピクセルは、デジタル画像をつくる小さな点です。ピクセルアートでは、一つひとつの点やその集まりを意識して形をつくります。"
+      ]
+    },
+    "representativeness_limit": "一人の制作者による近年の素材集三例です。ピクセルアートの発祥やゲーム史全体の代表ではありません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Generative design",
+    "title_ja": "ジェネラティブ・デザイン",
+    "slug": "generative-design",
+    "type": "技法・制作方法",
+    "period": "掲載例：2001年以降のシリーズ、2015年の試作",
+    "region": "複数の国・地域",
+    "summary": "一つずつ形を描く代わりに、形を生むルールをつくります。線の動きや部品のつながりを決めると、コンピューターが多くの形を生み出します。これがジェネラティブ・デザインの考え方です。",
+    "context": "美術では変化を楽しむルール、工業では重さや強さを確かめる条件が使われます。同じ言葉でも、目的と評価の方法は違います。生成AIだけを指す言葉ではありません。",
+    "recognition": {
+      "color": "色を決めるルールと、結果として現れた配色を分けて見ます。",
+      "type": "文字もルールで配置できますが、文字を使わない作品もあります。",
+      "form": "一枚の結果だけでなく、同じ仕組みが生む変化を比べます。",
+      "composition": "何を固定し、何を変えられるようにしたかを調べます。"
+    },
+    "comparison": "パラメトリック・デザインは、寸法や数値の関係を組み立てる方法です。両方を同時に使うこともあり、完全に別々の分類ではありません。",
+    "modern": "作者の仕事は消えません。ルール、入力、選び方、公開する結果を決めることも制作です。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "generative-design-1",
+        "institution": "ケイシー・リース公式サイト",
+        "url": "https://reas.com/",
+        "supports": "MicroImageの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "generative-design-2",
+        "institution": "ケイシー・リース公式サイト",
+        "url": "https://reas.com/process",
+        "supports": "Processの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "generative-design-3",
+        "institution": "オートデスク公式ニュース",
+        "url": "https://adsknews.autodesk.com/en/news/autodesk-and-airbus-show-the-future-of-aerospace-design-and-manufacture-in-pioneering-generatively-d/",
+        "supports": "Bionic Partitionの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "generative-design-1",
+      "generative-design-2",
+      "generative-design-3"
+    ],
+    "representatives": [
+      {
+        "title": "マイクロイメージ",
+        "creator": "ケイシー・リース",
+        "date": "2001年開始のシリーズ",
+        "domain": "ソフトウェア作品",
+        "reason": "簡単なルールと動きから複雑な描画を生む例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://reas.com/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "マイクロイメージ",
+          "lead": [
+            "簡単なルールと動きから複雑な描画を生む例です。"
+          ]
+        },
+        "title_original": "MicroImage",
+        "title_ja": "マイクロイメージ",
+        "creator_original": "ケイシー・リース",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://reas.com/"
+      },
+      {
+        "title": "プロセス",
+        "creator": "ケイシー・リース",
+        "date": "2004年開始のシリーズ",
+        "domain": "ソフトウェア・描画",
+        "reason": "文章で示す手順と、それを動かすソフトウェアを区別します。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://reas.com/process",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "プロセス",
+          "lead": [
+            "文章で示す手順と、それを動かすソフトウェアを区別します。"
+          ]
+        },
+        "title_original": "Process",
+        "title_ja": "プロセス",
+        "creator_original": "ケイシー・リース",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://reas.com/process"
+      },
+      {
+        "title": "バイオニック・パーティション――航空機の仕切りの試作",
+        "creator": "エアバス、オートデスク、エーピーワークス、ザ・リビング",
+        "date": "2015年発表",
+        "domain": "航空機内の仕切りの試作",
+        "reason": "軽さや強さなどの条件を使って形を探す例です。量産導入済みとは断定しません。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://adsknews.autodesk.com/en/news/autodesk-and-airbus-show-the-future-of-aerospace-design-and-manufacture-in-pioneering-generatively-d/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "バイオニック・パーティション――航空機の仕切りの試作",
+          "lead": [
+            "軽さや強さなどの条件を使って形を探す例です。量産導入済みとは断定しません。"
+          ]
+        },
+        "title_original": "Bionic Partition",
+        "title_ja": "バイオニック・パーティション――航空機の仕切りの試作",
+        "creator_original": "Airbus、Autodesk、APWorks、The Living",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://adsknews.autodesk.com/en/news/autodesk-and-airbus-show-the-future-of-aerospace-design-and-manufacture-in-pioneering-generatively-d/"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "ジェネラティブ・デザイン",
+      "lead": [
+        "一つずつ形を描く代わりに、形を生むルールをつくります。線の動きや部品のつながりを決めると、コンピューターが多くの形を生み出します。これがジェネラティブ・デザインの考え方です。"
+      ]
+    },
+    "representativeness_limit": "ソフトウェア美術二シリーズと工業試作一例です。シリーズの開始年と個々の画像の制作年は別です。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Parametric design",
+    "title_ja": "パラメトリック・デザイン",
+    "slug": "parametric-design",
+    "type": "技法・制作方法",
+    "period": "掲載例：2010–2012年",
+    "region": "複数の国・地域",
+    "summary": "窓の幅を変えると、隣の柱の位置も変わる。そんな関係を先に決めて設計する方法です。パラメーターは、幅や角度など、変えられる数値や条件のことです。",
+    "context": "曲がった建物だけの方法ではありません。材料が曲がる力や、部品の間隔を関係づけることにも使えます。見た目が複雑だから使われた、と断定せず、制作記録を確かめます。",
+    "recognition": {
+      "color": "色は設計条件を見分ける補助にも使われます。特定の配色の名称ではありません。",
+      "type": "図面や画面では、数値が何を表すかを読む必要があります。",
+      "form": "一つの数値を変えたとき、どの形が一緒に変わるかを見ます。",
+      "composition": "部品単独ではなく、部品どうしの関係を設計します。"
+    },
+    "comparison": "パラメトリシズムという建築上の主張と、パラメーターを使う設計方法は同じではありません。",
+    "modern": "試作や強度の確認は省けません。画面上でつながることと、実物が安全に立つことは別です。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "parametric-design-1",
+        "institution": "シュトゥットガルト大学・計算による設計と建設の研究所（ICD）",
+        "url": "https://www.icd.uni-stuttgart.de/projects/icditke-research-pavilion-2010/",
+        "supports": "ICD/ITKE Research Pavilion 2010の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "parametric-design-2",
+        "institution": "シュトゥットガルト大学・建築構造と構造設計の研究所（ITKE）",
+        "url": "https://www.itke.uni-stuttgart.de/research/icd-itke-research-pavilions/icd-itke-research-pavilion-2011/",
+        "supports": "ICD/ITKE Research Pavilion 2011の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "parametric-design-3",
+        "institution": "ティレーンスAKT（構造設計を担当した会社）",
+        "url": "https://tyrensakt.com/projects/heydar-aliyev-centre/",
+        "supports": "Heydar Aliyev Centreの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "parametric-design-1",
+      "parametric-design-2",
+      "parametric-design-3"
+    ],
+    "representatives": [
+      {
+        "title": "研究パビリオン2010――曲がる合板の建築",
+        "creator": "シュトゥットガルト大学 アイシーディー・アイティーケー（建築の計算・構造を研究する部門）と学生チーム",
+        "date": "2010",
+        "domain": "研究用仮設建築",
+        "reason": "薄い合板が曲がる性質を設計に組み込みました。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.icd.uni-stuttgart.de/projects/icditke-research-pavilion-2010/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "研究パビリオン2010――曲がる合板の建築",
+          "lead": [
+            "薄い合板が曲がる性質を設計に組み込みました。"
+          ]
+        },
+        "title_original": "ICD/ITKE Research Pavilion 2010",
+        "title_ja": "研究パビリオン2010――曲がる合板の建築",
+        "creator_original": "シュトゥットガルト大学 ICD・ITKEと学生チーム",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.icd.uni-stuttgart.de/projects/icditke-research-pavilion-2010/"
+      },
+      {
+        "title": "研究パビリオン2011――ウニの殻から学ぶ建築",
+        "creator": "シュトゥットガルト大学 アイシーディー・アイティーケー（建築の計算・構造を研究する部門）と学生チーム",
+        "date": "2011",
+        "domain": "研究用仮設建築",
+        "reason": "ウニの殻を手がかりに、形・構造計算・加工をつなぎました。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.itke.uni-stuttgart.de/research/icd-itke-research-pavilions/icd-itke-research-pavilion-2011/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "研究パビリオン2011――ウニの殻から学ぶ建築",
+          "lead": [
+            "ウニの殻を手がかりに、形・構造計算・加工をつなぎました。"
+          ]
+        },
+        "title_original": "ICD/ITKE Research Pavilion 2011",
+        "title_ja": "研究パビリオン2011――ウニの殻から学ぶ建築",
+        "creator_original": "シュトゥットガルト大学 ICD・ITKEと学生チーム",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.itke.uni-stuttgart.de/research/icd-itke-research-pavilions/icd-itke-research-pavilion-2011/"
+      },
+      {
+        "title": "ヘイダル・アリエフ・センター",
+        "creator": "ザハ・ハディド・アーキテクツ／構造設計：エーケーティー",
+        "date": "2012年完成（構造設計者の記録）",
+        "domain": "建築",
+        "reason": "構造設計者は、形と構造を異なる条件で調べたと説明しています。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://tyrensakt.com/projects/heydar-aliyev-centre/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ヘイダル・アリエフ・センター",
+          "lead": [
+            "構造設計者は、形と構造を異なる条件で調べたと説明しています。"
+          ]
+        },
+        "title_original": "Heydar Aliyev Centre",
+        "title_ja": "ヘイダル・アリエフ・センター",
+        "creator_original": "Zaha Hadid Architects／構造設計AKT",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://tyrensakt.com/projects/heydar-aliyev-centre/"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "パラメトリック・デザイン",
+      "lead": [
+        "窓の幅を変えると、隣の柱の位置も変わる。そんな関係を先に決めて設計する方法です。パラメーターは、幅や角度など、変えられる数値や条件のことです。"
+      ]
+    },
+    "representativeness_limit": "建築の三例です。曲面を技法の証拠とせず、大学と構造設計者の制作記録を根拠にしています。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Information visualization",
+    "title_ja": "情報の視覚化",
+    "slug": "information-visualization",
+    "type": "技法・制作方法",
+    "period": "掲載例：継続更新されるオンライン教材（開始年は一括しない）",
+    "region": "複数の国・地域",
+    "summary": "数字の表だけでは見つけにくい違いを、長さ、位置、色などで見えるようにします。情報の視覚化（しかくか）は、調べたことを図にして、比べたり考えたりしやすくする方法です。",
+    "context": "図がきれいでも、数字の選び方や目盛りで印象が変わります。何を数えたか、いつの数字か、どこから来た情報かを一緒に確かめます。",
+    "recognition": {
+      "color": "色が地域を表すのか、数の大小を表すのか、説明を読みます。",
+      "type": "単位、年、項目名は飾りではなく、図を読むための情報です。",
+      "form": "円の面積や棒の長さが、どんな数と対応するか確かめます。",
+      "composition": "目盛りの始まりや間隔を見ます。離れた二つのものが、原因と結果だとは限りません。"
+    },
+    "comparison": "情報を飾るだけのイラストとは違い、形とデータの対応を読み取れることが大切です。",
+    "modern": "操作できる図では、条件を変えたときに何が変わったかを確認します。未来の予測と過去の記録も区別しましょう。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "information-visualization-1",
+        "institution": "ギャップマインダー財団",
+        "url": "https://www.gapminder.org/teaching/materials/",
+        "supports": "Gapminder Bubble Chartsの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "information-visualization-2",
+        "institution": "ギャップマインダー財団",
+        "url": "https://www.gapminder.org/teaching/materials/",
+        "supports": "Gapminder Income Mountainsの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "information-visualization-3",
+        "institution": "ギャップマインダー財団",
+        "url": "https://www.gapminder.org/teaching/materials/",
+        "supports": "Dollar Streetの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "information-visualization-1",
+      "information-visualization-2",
+      "information-visualization-3"
+    ],
+    "representatives": [
+      {
+        "title": "ギャップマインダーのバブルチャート",
+        "creator": "ギャップマインダー",
+        "date": "継続更新",
+        "domain": "対話型グラフ",
+        "reason": "位置、色、円の大きさで国や地域の違いを比べます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.gapminder.org/teaching/materials/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ギャップマインダーのバブルチャート",
+          "lead": [
+            "位置、色、円の大きさで国や地域の違いを比べます。"
+          ]
+        },
+        "title_original": "Gapminder Bubble Charts",
+        "title_ja": "ギャップマインダーのバブルチャート",
+        "creator_original": "Gapminder",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "公開された情報表示ツール",
+        "source_url": "https://www.gapminder.org/teaching/materials/"
+      },
+      {
+        "title": "ギャップマインダーの収入分布図",
+        "creator": "ギャップマインダー",
+        "date": "継続更新",
+        "domain": "分布の可視化",
+        "reason": "収入ごとに何人いるか、その変化を山形で見ます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.gapminder.org/teaching/materials/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ギャップマインダーの収入分布図",
+          "lead": [
+            "収入ごとに何人いるか、その変化を山形で見ます。"
+          ]
+        },
+        "title_original": "Gapminder Income Mountains",
+        "title_ja": "ギャップマインダーの収入分布図",
+        "creator_original": "Gapminder",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "公開された情報表示ツール",
+        "source_url": "https://www.gapminder.org/teaching/materials/"
+      },
+      {
+        "title": "ダラー・ストリート――収入に沿って暮らしを比べる",
+        "creator": "ギャップマインダー",
+        "date": "継続更新",
+        "domain": "写真を用いた比較教材",
+        "reason": "収入に沿って暮らしの写真を並べる例です。写真だけで国全体を代表させません。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.gapminder.org/teaching/materials/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ダラー・ストリート――収入に沿って暮らしを比べる",
+          "lead": [
+            "収入に沿って暮らしの写真を並べる例です。写真だけで国全体を代表させません。"
+          ]
+        },
+        "title_original": "Dollar Street",
+        "title_ja": "ダラー・ストリート――収入に沿って暮らしを比べる",
+        "creator_original": "Gapminder",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "公開された情報表示ツール",
+        "source_url": "https://www.gapminder.org/teaching/materials/"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "情報の視覚化",
+      "lead": [
+        "数字の表だけでは見つけにくい違いを、長さ、位置、色などで見えるようにします。情報の視覚化（しかくか）は、調べたことを図にして、比べたり考えたりしやすくする方法です。"
+      ]
+    },
+    "representativeness_limit": "一団体の教材三例です。統計図の歴史や、地図・ネットワーク図など全分野を代表するものではありません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Skeuomorphism",
+    "title_ja": "スキューモーフィズム",
+    "slug": "skeuomorphism",
+    "type": "現代の画面表現・説明用の分類",
+    "period": "掲載例：2011年のアプリと継続更新の音楽ソフト",
+    "region": "複数の国・地域",
+    "summary": "画面の中に、ピアノの鍵盤や機械のつまみが現れます。本物で知っている形や使い方を、新しいものの理解に役立てる考え方です。ここでは、実物を思わせる画面表現を中心に紹介します。",
+    "context": "木目や革の飾りだけが特徴ではありません。つまみを回す、鍵盤を押す、といった操作のたとえも含めて考えます。似ているから必ず使いやすい、というわけでもありません。",
+    "recognition": {
+      "color": "木、金属、紙などを思わせる色が使われる場合があります。色だけでは決まりません。",
+      "type": "文字は機械の目盛りやラベルのように配置されることがあります。",
+      "form": "鍵盤やケーブルなど、元になった物が何か探します。",
+      "composition": "実物の配置を残す部分と、画面用に変える部分を見比べます。"
+    },
+    "comparison": "ニューモーフィズムは、背景から浮き出るような柔らかな面の表現に重点があります。実物の細部まで写すこととは違います。",
+    "modern": "初めて使う人が操作を想像できるか、本物を知らない人でも使えるか、両方を確かめましょう。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 2,
+    "sources": [
+      {
+        "id": "skeuomorphism-1",
+        "institution": "アップル公式ニュースルーム",
+        "url": "https://www.apple.com/uk/newsroom/2011/11/01GarageBand-Now-Available-for-iPhone-and-iPod-touch-Users/",
+        "supports": "GarageBand for iPad：Touch Instrumentsの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "skeuomorphism-2",
+        "institution": "リーズン・スタジオ公式発表",
+        "url": "https://www.reasonstudios.com/press/reason-studios-announces-reason-free",
+        "supports": "Reason Rackの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "skeuomorphism-1",
+      "skeuomorphism-2"
+    ],
+    "representatives": [
+      {
+        "title": "ガレージバンドのタッチ楽器",
+        "creator": "アップル",
+        "date": "2011",
+        "domain": "音楽アプリ",
+        "reason": "鍵盤、ギター、ドラムを画面の操作に使います。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.apple.com/uk/newsroom/2011/11/01GarageBand-Now-Available-for-iPhone-and-iPod-touch-Users/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ガレージバンドのタッチ楽器",
+          "lead": [
+            "鍵盤、ギター、ドラムを画面の操作に使います。"
+          ]
+        },
+        "title_original": "GarageBand for iPad：Touch Instruments",
+        "title_ja": "ガレージバンドのタッチ楽器",
+        "creator_original": "Apple",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.apple.com/uk/newsroom/2011/11/01GarageBand-Now-Available-for-iPhone-and-iPod-touch-Users/"
+      },
+      {
+        "title": "リーズン・ラック",
+        "creator": "リーズン・スタジオズ",
+        "date": "継続更新／引用記録は2026年",
+        "domain": "音楽ソフト",
+        "reason": "機材の裏を見てケーブルをつなぐ操作を、画面上で行います。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.reasonstudios.com/press/reason-studios-announces-reason-free",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "リーズン・ラック",
+          "lead": [
+            "機材の裏を見てケーブルをつなぐ操作を、画面上で行います。"
+          ]
+        },
+        "title_original": "Reason Rack",
+        "title_ja": "リーズン・ラック",
+        "creator_original": "Reason Studios",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://www.reasonstudios.com/press/reason-studios-announces-reason-free"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "スキューモーフィズム",
+      "lead": [
+        "画面の中に、ピアノの鍵盤や機械のつまみが現れます。本物で知っている形や使い方を、新しいものの理解に役立てる考え方です。ここでは、実物を思わせる画面表現を中心に紹介します。"
+      ]
+    },
+    "representativeness_limit": "音楽ソフト二例です。広い意味での物のデザインや、この概念の起源を代表しません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Neumorphism",
+    "title_ja": "ニューモーフィズム",
+    "slug": "neumorphism",
+    "type": "現代の画面表現・説明用の分類",
+    "period": "近年の画面表現。発祥年はここで断定しない",
+    "region": "複数の国・地域",
+    "summary": "背景と似た色のボタンに、明るい影と暗い影をつけます。すると、同じ材料から少し浮き出たように見えます。ニューモーフィズムは、このような柔らかい凹凸を使う画面表現の呼び名です。",
+    "context": "ミハウ・マレヴィチの解説では、カードの見え方だけでなく、押した状態が分かりにくい問題も扱われています。人気のある見た目と、使いやすさは別に考えます。",
+    "recognition": {
+      "color": "背景と部品を近い色にすると、境目が影に頼りやすくなります。",
+      "type": "本文や記号まで薄くすると読みにくくなります。",
+      "form": "外側の影は浮き出た形、内側の影はくぼみを思わせます。",
+      "composition": "部品が目立たない場合、押せる場所とただの飾りを見分けにくくなります。"
+    },
+    "comparison": "ガラスモーフィズムのように背景を透かすことが中心ではありません。太い輪郭を使うネオ・ブルータリズムとも対照的です。",
+    "modern": "選択中かどうかは、影だけでなく文字、記号、線などでも伝えましょう。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "neumorphism-1",
+        "institution": "ハイプ4アカデミー／スクエアプラネット",
+        "url": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+        "supports": "Neumorphism in user interfaces：カードの比較の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "neumorphism-2",
+        "institution": "ハイプ4アカデミー／スクエアプラネット",
+        "url": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+        "supports": "Neumorphism in user interfaces：押した状態の比較の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "neumorphism-3",
+        "institution": "ニューモーフィズム・ドット・アイオー（制作プロジェクト公式）",
+        "url": "https://neumorphism.io/",
+        "supports": "Neumorphism.ioの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "neumorphism-1",
+      "neumorphism-2",
+      "neumorphism-3"
+    ],
+    "representatives": [
+      {
+        "title": "カードの面を比べる解説図",
+        "creator": "ミハウ・マレヴィチ／ハイプフォー",
+        "date": "公開年未確認",
+        "domain": "制作者による解説図",
+        "reason": "浮いているカードと、背景から浮き出る面を比較する教材です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "カードの面を比べる解説図",
+          "lead": [
+            "浮いているカードと、背景から浮き出る面を比較する教材です。"
+          ]
+        },
+        "title_original": "Neumorphism in user interfaces：カードの比較",
+        "title_ja": "カードの面を比べる解説図",
+        "creator_original": "Michał Malewicz／Hype4",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（同じ記事のカード比較図）",
+        "source_url": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces"
+      },
+      {
+        "title": "押した状態を比べる解説図",
+        "creator": "ミハウ・マレヴィチ／ハイプフォー",
+        "date": "公開年未確認",
+        "domain": "制作者による操作部品の研究",
+        "reason": "内側の影だけで状態を伝える難しさを示しています。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "押した状態を比べる解説図",
+          "lead": [
+            "内側の影だけで状態を伝える難しさを示しています。"
+          ]
+        },
+        "title_original": "Neumorphism in user interfaces：押した状態の比較",
+        "title_ja": "押した状態を比べる解説図",
+        "creator_original": "Michał Malewicz／Hype4",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（同じ記事の押下状態図）",
+        "source_url": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces"
+      },
+      {
+        "title": "ニューモーフィズムの影をつくるツール",
+        "creator": "ニューモーフィズム・ドット・アイオーの制作チーム",
+        "date": "継続公開／初公開年未確認",
+        "domain": "CSS生成ツール",
+        "reason": "色や影を調整して、見え方を試す実装例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://neumorphism.io/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ニューモーフィズムの影をつくるツール",
+          "lead": [
+            "色や影を調整して、見え方を試す実装例です。"
+          ]
+        },
+        "title_original": "Neumorphism.io",
+        "title_ja": "ニューモーフィズムの影をつくるツール",
+        "creator_original": "Neumorphism.io 制作プロジェクト",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考ツール",
+        "source_url": "https://neumorphism.io/"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "ニューモーフィズム",
+      "lead": [
+        "背景と似た色のボタンに、明るい影と暗い影をつけます。すると、同じ材料から少し浮き出たように見えます。ニューモーフィズムは、このような柔らかい凹凸を使う画面表現の呼び名です。"
+      ]
+    },
+    "representativeness_limit": "解説記事の二つの比較と、一つの実装ツールです。独立した歴史作品三点や、広く使われた製品三点としては数えません。",
+    "representative_count_note": "3つの参照箇所です。うち2つは同じ記事の図で、独立した3作品ではありません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
+    "independent_project_count": 2
+  },
+  {
+    "name": "Glassmorphism",
+    "title_ja": "ガラスモーフィズム",
+    "slug": "glassmorphism",
+    "type": "現代の画面表現・説明用の分類",
+    "period": "近年の画面表現。下記の製品ごとに時期を分ける",
+    "region": "複数の国・地域",
+    "summary": "半透明の板の向こうに、背景の色がぼんやり見えます。すりガラスのような重なりを使う画面表現です。前にある操作部分と、後ろの内容の関係を見せられます。",
+    "context": "ガラスらしい画面は一つの運動ではありません。呼び名が広まったことと、各社の半透明表現が開発されたことは区別します。マイクロソフトのアクリリックも、会社独自の設計ルールを持っています。",
+    "recognition": {
+      "color": "背景色が透けるため、置く場所で文字の見え方が変わります。",
+      "type": "どの背景の上でも文字が読めるかを確かめます。",
+      "form": "背景のぼかし、面の透明度、縁の明るさを分けて見ます。",
+      "composition": "重ねすぎると、前後関係がかえって分かりにくくなります。"
+    },
+    "comparison": "アクリリックは具体的な製品の素材表現です。一般的な見た目の呼び名と同一視しません。同じように透けて見えても、何を透かし、どう重ねるかは製品によって異なります。",
+    "modern": "透ける表現を使わない設定や、処理が重い機器での代わりの表示も用意することが大切です。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "glassmorphism-1",
+        "institution": "ハイプ4アカデミー／スクエアプラネット",
+        "url": "https://hype4.academy/tools/glassmorphism-generator",
+        "supports": "Glassmorphism CSS Generatorの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "glassmorphism-2",
+        "institution": "マイクロソフト公式技術資料",
+        "url": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+        "supports": "Acrylic：Background acrylicの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "glassmorphism-3",
+        "institution": "マイクロソフト公式技術資料",
+        "url": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+        "supports": "Acrylic：In-app acrylicの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "glassmorphism-1",
+      "glassmorphism-2",
+      "glassmorphism-3"
+    ],
+    "representatives": [
+      {
+        "title": "ガラスモーフィズムの効果をつくるツール",
+        "creator": "ハイプフォー／スクエアプラネット",
+        "date": "継続公開／初公開年未確認",
+        "domain": "CSS生成ツール",
+        "reason": "透明度やぼかしを調整する実装例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://hype4.academy/tools/glassmorphism-generator",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ガラスモーフィズムの効果をつくるツール",
+          "lead": [
+            "透明度やぼかしを調整する実装例です。"
+          ]
+        },
+        "title_original": "Glassmorphism CSS Generator",
+        "title_ja": "ガラスモーフィズムの効果をつくるツール",
+        "creator_original": "Hype4／SquarePlanet",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考ツール",
+        "source_url": "https://hype4.academy/tools/glassmorphism-generator"
+      },
+      {
+        "title": "アクリリック：アプリの後ろを透かす例",
+        "creator": "マイクロソフト",
+        "date": "継続更新の技術資料",
+        "domain": "画面素材・実装例",
+        "reason": "アプリの後ろにある画面をぼかして見せます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "アクリリック：アプリの後ろを透かす例",
+          "lead": [
+            "アプリの後ろにある画面をぼかして見せます。"
+          ]
+        },
+        "title_original": "Acrylic：Background acrylic",
+        "title_ja": "アクリリック：アプリの後ろを透かす例",
+        "creator_original": "Microsoft",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（同じ製品の背景を透かす例）",
+        "source_url": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic"
+      },
+      {
+        "title": "アクリリック：アプリの中を透かす例",
+        "creator": "マイクロソフト",
+        "date": "継続更新の技術資料",
+        "domain": "画面素材・実装例",
+        "reason": "アプリの中の重なりを見せます。外側の背景を透かす例と区別します。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "アクリリック：アプリの中を透かす例",
+          "lead": [
+            "アプリの中の重なりを見せます。外側の背景を透かす例と区別します。"
+          ]
+        },
+        "title_original": "Acrylic：In-app acrylic",
+        "title_ja": "アクリリック：アプリの中を透かす例",
+        "creator_original": "Microsoft",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（同じ製品の内部を透かす例）",
+        "source_url": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "ガラスモーフィズム",
+      "lead": [
+        "半透明の板の向こうに、背景の色がぼんやり見えます。すりガラスのような重なりを使う画面表現です。前にある操作部分と、後ろの内容の関係を見せられます。"
+      ]
+    },
+    "representativeness_limit": "一つのツールと、同じ素材の二つの実装方式です。独立した歴史作品三点としては数えません。",
+    "representative_count_note": "3つの参照箇所です。アクリリックの2例は同じ製品の異なる使い方で、独立した2作品ではありません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
+    "independent_project_count": 2
+  },
+  {
+    "name": "Web brutalism",
+    "title_ja": "ウェブ・ブルータリズム",
+    "slug": "web-brutalism",
+    "type": "現代の画面表現・説明用の分類",
+    "period": "近年のウェブの呼び名。統一した開始年はない",
+    "region": "複数の国・地域",
+    "summary": "大きな文字、むき出しに見えるリンク、飾りを抑えたページ。ウェブ・ブルータリズムには、こうした画面を指す使い方があります。ただし、意味は制作者や紹介者によって違います。",
+    "context": "作品を集めるブルータリスト・ウェブサイツと、読みやすさや基本操作を重視するデイヴィッド・ブライアント・コープランドの指針を分けて読みます。派手な見た目だけを共通ルールにはできません。",
+    "recognition": {
+      "color": "白黒だけとは限りません。色の少なさが必須でもありません。",
+      "type": "文字の大きさ、下線、見出しの順序を確かめます。",
+      "form": "装飾が少ないことと、操作が乱暴なことは別です。",
+      "composition": "リンク、スクロール、戻る操作が自然に使えるか見ます。"
+    },
+    "comparison": "コンクリート建築のブルータリズムから言葉を借りていますが、同じ材料や組織を持つ歴史運動ではありません。ネオ・ブルータリズムの太い枠や影とも区別します。",
+    "modern": "読めない文字や壊れた操作を、表現の名前だけで正当化しないようにしましょう。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 2,
+    "sources": [
+      {
+        "id": "web-brutalism-1",
+        "institution": "ブルータリスト・ウェブサイツ（選集の公式サイト）",
+        "url": "https://brutalistwebsites.com/",
+        "supports": "Brutalist Websitesの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "web-brutalism-2",
+        "institution": "デイヴィッド・ブライアント・コープランドの公式指針",
+        "url": "https://brutalist-web.design/",
+        "supports": "Guidelines for Brutalist Web Designの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "web-brutalism-1",
+      "web-brutalism-2"
+    ],
+    "representatives": [
+      {
+        "title": "ブルータリスト・ウェブサイツ",
+        "creator": "ブルータリスト・ウェブサイツ編集部",
+        "date": "継続更新",
+        "domain": "ウェブ作品の選集",
+        "reason": "一つの定義ではなく、選者が集めた多様なサイトを見る資料です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://brutalistwebsites.com/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ブルータリスト・ウェブサイツ",
+          "lead": [
+            "一つの定義ではなく、選者が集めた多様なサイトを見る資料です。"
+          ]
+        },
+        "title_original": "Brutalist Websites",
+        "title_ja": "ブルータリスト・ウェブサイツ",
+        "creator_original": "Brutalist Websites 編集プロジェクト",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考資料（ウェブサイトを選ぶ編集企画）",
+        "source_url": "https://brutalistwebsites.com/"
+      },
+      {
+        "title": "ブルータリストなウェブデザインの指針",
+        "creator": "デイヴィッド・ブライアント・コープランド",
+        "date": "2025年6月1日更新の記録",
+        "domain": "指針と実装されたウェブページ",
+        "reason": "文字を読めること、リンクやボタンが分かることを重視する立場です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://brutalist-web.design/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ブルータリストなウェブデザインの指針",
+          "lead": [
+            "文字を読めること、リンクやボタンが分かることを重視する立場です。"
+          ]
+        },
+        "title_original": "Guidelines for Brutalist Web Design",
+        "title_ja": "ブルータリストなウェブデザインの指針",
+        "creator_original": "David Bryant Copeland",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（執筆者による制作指針）",
+        "source_url": "https://brutalist-web.design/"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "ウェブ・ブルータリズム",
+      "lead": [
+        "大きな文字、むき出しに見えるリンク、飾りを抑えたページ。ウェブ・ブルータリズムには、こうした画面を指す使い方があります。ただし、意味は制作者や紹介者によって違います。"
+      ]
+    },
+    "representativeness_limit": "選集と制作者の指針の二例です。掲載サイトすべてが同じ主張に賛成しているとは考えません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+  },
+  {
+    "name": "Neo-brutalism",
+    "title_ja": "ネオ・ブルータリズム",
+    "slug": "neo-brutalism",
+    "type": "現代の画面表現・説明用の分類",
+    "period": "近年の画面表現。歴史運動の開始年は設定しない",
+    "region": "複数の国・地域",
+    "summary": "鮮やかな面を太い線で囲み、ぼかさない影をずらして置きます。カードやボタンが、切り抜いた紙を重ねたように見えます。ここではウェブで使われる呼び名として紹介します。",
+    "context": "同じ呼び名でも実装の決まりは一つではありません。ここではネオブルータリズム部品集が公開する部品を例に、画面のつくり方を見ます。建築の歴史運動と同じものではありません。",
+    "recognition": {
+      "color": "鮮やかな面と暗い輪郭の差を見ます。色だけで情報を区別しない工夫も必要です。",
+      "type": "太い見出しだけでなく、小さな説明が読めるかも見ます。",
+      "form": "影の端がぼけず、形の輪郭がはっきりしています。",
+      "composition": "同じ枠や影を繰り返すと、別々の部品がまとまって見えます。"
+    },
+    "comparison": "ウェブ・ブルータリズムに含める人もいますが、同じ意味とは限りません。こちらは意図して作り込んだ枠や影を使うことがあります。",
+    "modern": "押した状態やキーボードで選んだ位置も、はっきり見せる必要があります。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "neo-brutalism-1",
+        "institution": "サミュエル・ブレジュニャクの公式部品集",
+        "url": "https://www.neobrutalism.dev/docs/button",
+        "supports": "Neobrutalism components：Buttonの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "neo-brutalism-2",
+        "institution": "サミュエル・ブレジュニャクの公式部品集",
+        "url": "https://www.neobrutalism.dev/",
+        "supports": "Neobrutalism componentsの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "neo-brutalism-3",
+        "institution": "ネオブルータリズム・ドット・コム公式資料",
+        "url": "https://neobrutalism.com/docs",
+        "supports": "NeoBrutalism.comの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "neo-brutalism-1",
+      "neo-brutalism-2",
+      "neo-brutalism-3"
+    ],
+    "representatives": [
+      {
+        "title": "ネオブルータリズム部品集：ボタン",
+        "creator": "サミュエル・ブレジュニャク／ネオブルータリズム部品集",
+        "date": "継続更新",
+        "domain": "操作部品・実装例",
+        "reason": "影のあるボタンと、影のない種類を比べられます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.neobrutalism.dev/docs/button",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ネオブルータリズム部品集：ボタン",
+          "lead": [
+            "影のあるボタンと、影のない種類を比べられます。"
+          ]
+        },
+        "title_original": "Neobrutalism components：Button",
+        "title_ja": "ネオブルータリズム部品集：ボタン",
+        "creator_original": "Samuel Brežnjak／Neobrutalism components",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（部品集のボタン）",
+        "source_url": "https://www.neobrutalism.dev/docs/button"
+      },
+      {
+        "title": "ネオブルータリズム部品集の紹介サイト",
+        "creator": "サミュエル・ブレジュニャク／ネオブルータリズム部品集",
+        "date": "継続更新",
+        "domain": "部品集の紹介サイト",
+        "reason": "部品を組み合わせた画面の例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.neobrutalism.dev/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ネオブルータリズム部品集の紹介サイト",
+          "lead": [
+            "部品を組み合わせた画面の例です。"
+          ]
+        },
+        "title_original": "Neobrutalism components",
+        "title_ja": "ネオブルータリズム部品集の紹介サイト",
+        "creator_original": "Samuel Brežnjak／Neobrutalism components",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考プロジェクト（同じ部品集の紹介）",
+        "source_url": "https://www.neobrutalism.dev/"
+      },
+      {
+        "title": "ネオブルータリズム・ドット・コム",
+        "creator": "ネオブルータリズム・ドット・コムの制作チーム",
+        "date": "継続更新",
+        "domain": "別のデザインシステム",
+        "reason": "太い枠や影を組み合わせる、別プロジェクトの説明です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://neobrutalism.com/docs",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ネオブルータリズム・ドット・コム",
+          "lead": [
+            "太い枠や影を組み合わせる、別プロジェクトの説明です。"
+          ]
+        },
+        "title_original": "NeoBrutalism.com",
+        "title_ja": "ネオブルータリズム・ドット・コム",
+        "creator_original": "NeoBrutalism.com 制作プロジェクト",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考プロジェクト",
+        "source_url": "https://neobrutalism.com/docs"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "ネオ・ブルータリズム",
+      "lead": [
+        "鮮やかな面を太い線で囲み、ぼかさない影をずらして置きます。カードやボタンが、切り抜いた紙を重ねたように見えます。ここではウェブで使われる呼び名として紹介します。"
+      ]
+    },
+    "representativeness_limit": "二つの部品制作プロジェクトを比べています。三つの独立した歴史作品ではありません。",
+    "representative_count_note": "3つの参照箇所です。ボタンと紹介サイトは同じ部品集で、独立した3作品ではありません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
+    "independent_project_count": 2
+  },
+  {
+    "name": "Bento layouts",
+    "title_ja": "弁当箱のように区切るレイアウト",
+    "slug": "bento-layouts",
+    "type": "現代の画面表現・説明用の分類",
+    "period": "掲載例：2023–2024年の制作ほか",
+    "region": "複数の国・地域",
+    "summary": "大小の四角い箱に、写真や短い説明を分けて入れます。弁当箱の仕切りに見立てて、「ベントー」レイアウトとも呼ばれます。関連する情報を一まとまりにする方法です。",
+    "context": "日本の弁当そのものの歴史や、特定の国の伝統的な作法を説明する言葉ではありません。ウェブの箱型配置に付けられた、近年の呼び名として扱います。",
+    "recognition": {
+      "color": "箱の色を変えると分類を示せますが、色なしでも違いが分かるようにします。",
+      "type": "一つの箱に何を伝えたいか、短い見出しで示します。",
+      "form": "箱の大きさと情報の大切さが対応しているか見ます。",
+      "composition": "大きな画面で整っていても、スマートフォンで並び替えた順序を確かめます。"
+    },
+    "comparison": "グリッドは、行と列で並べるための広い仕組みです。弁当型の見た目はその一例で、すべてのグリッドが弁当型ではありません。",
+    "modern": "読み上げ順やキーボードの移動順が、見た目の順序と食い違わないことも大切です。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "bento-layouts-1",
+        "institution": "スラム・メディア・ラボ（制作会社）",
+        "url": "https://www.slammedialab.com/case-study/community-solutions",
+        "supports": "Center for Community Solutions ウェブサイトの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "bento-layouts-2",
+        "institution": "ヴィクター・フェレイラ（制作者の公式サイト）",
+        "url": "https://victorferreiradesign.com/inovaxio/",
+        "supports": "Inovaxio ウェブサイトの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "bento-layouts-3",
+        "institution": "MDN Web Docs（ウェブ技術の公式解説プロジェクト）",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout/Common_grid_layouts",
+        "supports": "CSS Grid：共通レイアウトの実装例の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "bento-layouts-1",
+      "bento-layouts-2",
+      "bento-layouts-3"
+    ],
+    "representatives": [
+      {
+        "title": "センター・フォー・コミュニティ・ソリューションズのサイト",
+        "creator": "スラム・メディア・ラボ",
+        "date": "2023年10月–2024年3月の制作",
+        "domain": "ウェブサイト",
+        "reason": "政策資料を整理するために、制作側がベントー・グリッド（弁当箱のような区画）と説明する配置を使いました。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.slammedialab.com/case-study/community-solutions",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "センター・フォー・コミュニティ・ソリューションズのサイト",
+          "lead": [
+            "政策資料を整理するために、制作側がベントー・グリッド（弁当箱のような区画）と説明する配置を使いました。"
+          ]
+        },
+        "title_original": "Center for Community Solutions ウェブサイト",
+        "title_ja": "センター・フォー・コミュニティ・ソリューションズのサイト",
+        "creator_original": "Slam Media Lab",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例",
+        "source_url": "https://www.slammedialab.com/case-study/community-solutions"
+      },
+      {
+        "title": "イノヴァクシオのサイト",
+        "creator": "ヴィクター・フェレイラ",
+        "date": "制作年未確認",
+        "domain": "ウェブサイト",
+        "reason": "制作者がベントー形式の部分と呼ぶ部分を含む企業サイトです。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://victorferreiradesign.com/inovaxio/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "イノヴァクシオのサイト",
+          "lead": [
+            "制作者がベントー形式の部分と呼ぶ部分を含む企業サイトです。"
+          ]
+        },
+        "title_original": "Inovaxio ウェブサイト",
+        "title_ja": "イノヴァクシオのサイト",
+        "creator_original": "Victor Ferreira",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例",
+        "source_url": "https://victorferreiradesign.com/inovaxio/"
+      },
+      {
+        "title": "行と列で領域を並べる技術教材",
+        "creator": "エムディーエヌの共同執筆者",
+        "date": "継続更新",
+        "domain": "技術教材（比較資料）",
+        "reason": "画面幅に応じて一列から三列へ組み替える例があります。見た目の順と読み上げ順を合わせる考え方も説明されています。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout/Common_grid_layouts",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "行と列で領域を並べる技術教材",
+          "lead": [
+            "画面幅に応じて一列から三列へ組み替える例があります。見た目の順と読み上げ順を合わせる考え方も説明されています。"
+          ]
+        },
+        "title_original": "CSS Grid：共通レイアウトの実装例",
+        "title_ja": "行と列で領域を並べる技術教材",
+        "creator_original": "MDN contributors",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（配置をつくる技術）",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout/Common_grid_layouts"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "弁当箱のように区切るレイアウト",
+      "lead": [
+        "大小の四角い箱に、写真や短い説明を分けて入れます。弁当箱の仕切りに見立てて、「ベントー」レイアウトとも呼ばれます。関連する情報を一まとまりにする方法です。"
+      ]
+    },
+    "representativeness_limit": "実際の制作二例と技術教材一例です。エムディーエヌ（ウェブ技術の解説サイト）の例をベントー形式の発祥例として扱いません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+  },
+  {
+    "name": "Y2K revival",
+    "title_ja": "Y2Kリバイバル",
+    "slug": "y2k-revival",
+    "type": "現代の表現方法・説明用の分類",
+    "period": "掲載例：2021年、2026年ほか",
+    "region": "複数の国・地域",
+    "summary": "昔の未来っぽさを、今の画面で楽しむ。Y2Kリバイバルは、2000年前後を思わせる表現を、後の時代につくり直す動きの呼び名です。Y2Kは「2000年」を表す言い方です。",
+    "context": "当時つくられたものと、後から振り返ってつくったものを分けます。銀色、ピクセル、丸い文字などのどれか一つがあれば当てはまる、という決まりではありません。",
+    "recognition": {
+      "color": "金属のような光や明るい色が使われる場合がありますが、作品ごとに違います。",
+      "type": "丸い文字や小さな画面風の文字など、何を昔らしいと感じさせるか見ます。",
+      "form": "昔の機器や画面の形を、今どのように使い直したか探します。",
+      "composition": "見た目は懐かしくても、今の画面幅や操作に合わせて組み直せます。"
+    },
+    "comparison": "2000年前後の実物は「リバイバル」の作品ではなく、その参照先です。ピクセルアートのすべてがY2Kでもありません。",
+    "modern": "昔の技術上の制限をそのまま戻す必要はありません。懐かしさと読みやすさを両立できるか考えましょう。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "y2k-revival-1",
+        "institution": "ヴァイオレット・オフィス（制作会社）",
+        "url": "https://violetoffice.com/work/y2k-group",
+        "supports": "Y2K Group identity and websiteの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "y2k-revival-2",
+        "institution": "ラブド（制作スタジオ）",
+        "url": "https://www.labud.nyc/projects/abacaxi",
+        "supports": "Y2Kと南アジアの着想、クローム色の立体マーク、商品写真に応じて色が変わる画面。写真提供はabacaxi。",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "y2k-revival-3",
+        "institution": "カリフォルニア大学サンディエゴ校・学生会グラフィックスタジオ",
+        "url": "https://asgraphicstudio.ucsd.edu/work/sgf26/",
+        "supports": "Sun God Festival ’26の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "y2k-revival-1",
+      "y2k-revival-2",
+      "y2k-revival-3"
+    ],
+    "representatives": [
+      {
+        "title": "ワイツーケー・グループのブランドとサイト",
+        "creator": "ヴァイオレット・オフィス／ジェームズ・テー",
+        "date": "2021",
+        "domain": "ブランド・ウェブサイト",
+        "reason": "制作者がピクセルや32ビットの時代を参照したと説明しています。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://violetoffice.com/work/y2k-group",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ワイツーケー・グループのブランドとサイト",
+          "lead": [
+            "制作者がピクセルや32ビットの時代を参照したと説明しています。"
+          ]
+        },
+        "title_original": "Y2K Group identity and website",
+        "title_ja": "ワイツーケー・グループのブランドとサイト",
+        "creator_original": "Violet Office／James Tae",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例",
+        "source_url": "https://violetoffice.com/work/y2k-group"
+      },
+      {
+        "title": "アバカシのブランドとサイト",
+        "creator": "デザイン事務所 Labud（ラブド）",
+        "date": "制作年未確認",
+        "domain": "ブランド・ウェブサイト",
+        "reason": "南アジアの模様と、2000年前後を思わせる金属のような光沢を合わせています。商品写真にふれると、その写真の色に画面が染まる仕組みもあります。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.labud.nyc/projects/abacaxi",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "アバカシのブランドとサイト",
+          "lead": [
+            "南アジアの模様と、2000年前後を思わせる金属のような光沢を合わせています。商品写真にふれると、その写真の色に画面が染まる仕組みもあります。"
+          ]
+        },
+        "title_original": "Abacaxi identity and website",
+        "title_ja": "アバカシのブランドとサイト",
+        "creator_original": "Labud",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例",
+        "source_url": "https://www.labud.nyc/projects/abacaxi"
+      },
+      {
+        "title": "サン・ゴッド・フェスティバル2026",
+        "creator": "カリフォルニア大学サンディエゴ校の学生デザイン部門／ライリー・ボイルズら",
+        "date": "2026",
+        "domain": "催事のデザイン・ウェブサイト",
+        "reason": "制作者がワイツーケー（2000年前後の表現）やスケート文化の影響を明記した例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://asgraphicstudio.ucsd.edu/work/sgf26/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "サン・ゴッド・フェスティバル2026",
+          "lead": [
+            "制作者がワイツーケー（2000年前後の表現）やスケート文化の影響を明記した例です。"
+          ]
+        },
+        "title_original": "Sun God Festival ’26",
+        "title_ja": "サン・ゴッド・フェスティバル2026",
+        "creator_original": "UC San Diego A.S. Graphic Studio／Rylee Boylesら",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例",
+        "source_url": "https://asgraphicstudio.ucsd.edu/work/sgf26/"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "Y2Kリバイバル",
+      "lead": [
+        "昔の未来っぽさを、今の画面で楽しむ。Y2Kリバイバルは、2000年前後を思わせる表現を、後の時代につくり直す動きの呼び名です。Y2Kは「2000年」を表す言い方です。"
+      ]
+    },
+    "representativeness_limit": "制作側の説明がある三例です。2000年前後のデザイン全体を代表する歴史区分にはしていません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+  },
+  {
+    "name": "Kinetic typography",
+    "title_ja": "動く文字の表現",
+    "slug": "kinetic-typography",
+    "type": "現代の表現方法・説明用の分類",
+    "period": "掲載例：2022年ほか。技法の開始年ではない",
+    "region": "複数の国・地域",
+    "summary": "文字が伸びる、走る、止まる。動きによって、言葉の強さや読む速さが変わります。キネティック・タイポグラフィは、時間と動きを使う文字の表現です。",
+    "context": "印刷物のような一枚の配置だけでなく、現れる順番や止まる時間も設計します。文字の位置を動かす方法と、文字そのものの形を変える方法は分けて見られます。",
+    "recognition": {
+      "color": "動きながら色が変わると、注目する場所も変わります。",
+      "type": "読める時間があるか、文字の形を変えても言葉を追えるか見ます。",
+      "form": "位置、回転、大きさ、文字の形のうち何が変わるか分けます。",
+      "composition": "一場面だけでなく、前後の場面とのつながりを見ます。"
+    },
+    "comparison": "可変フォントは文字の形を変えられる技術です。動く文字はそれ以外の方法でもつくれますし、可変フォントを静止したまま使うこともできます。",
+    "modern": "動きを止める選択肢や、動かなくても意味が伝わる表示を考えることも大切です。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "kinetic-typography-1",
+        "institution": "スタジオ・ドゥンバー／デプト（制作会社）",
+        "url": "https://studiodumbar.com/work/cities-in-motion",
+        "supports": "Cities in Motionの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "kinetic-typography-2",
+        "institution": "スタジオ・ドゥンバー／デプト（制作会社）",
+        "url": "https://studiodumbar.com/work/demo-2022",
+        "supports": "DEMO 2022：イベントの動くデザインの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "kinetic-typography-3",
+        "institution": "スタジオ・ドゥンバー／デプト（制作会社）",
+        "url": "https://studiodumbar.com/work/google-sans-flex",
+        "supports": "Google Sans Flex — Pushing the boundaries of a fontの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "kinetic-typography-1",
+      "kinetic-typography-2",
+      "kinetic-typography-3"
+    ],
+    "representatives": [
+      {
+        "title": "シティーズ・イン・モーション――動く都市名",
+        "creator": "スタジオ・ドゥンバー／デプト",
+        "date": "制作年未確認",
+        "domain": "駅の画面用モーショングラフィックス",
+        "reason": "都市の名前を、独自の可変書体とプログラムで動かします。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://studiodumbar.com/work/cities-in-motion",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "シティーズ・イン・モーション――動く都市名",
+          "lead": [
+            "都市の名前を、独自の可変書体とプログラムで動かします。"
+          ]
+        },
+        "title_original": "Cities in Motion",
+        "title_ja": "シティーズ・イン・モーション――動く都市名",
+        "creator_original": "Studio Dumbar/DEPT®",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://studiodumbar.com/work/cities-in-motion"
+      },
+      {
+        "title": "デモ2022――催事の動くデザイン",
+        "creator": "スタジオ・ドゥンバー／デプト",
+        "date": "2022",
+        "domain": "催事の視覚表現",
+        "reason": "イベント全体の動く文字や形の仕組みです。参加作品全体を同社の制作とはしません。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://studiodumbar.com/work/demo-2022",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "デモ2022――催事の動くデザイン",
+          "lead": [
+            "イベント全体の動く文字や形の仕組みです。参加作品全体を同社の制作とはしません。"
+          ]
+        },
+        "title_original": "DEMO 2022：イベントの動くデザイン",
+        "title_ja": "デモ2022――催事の動くデザイン",
+        "creator_original": "Studio Dumbar/DEPT®",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://studiodumbar.com/work/demo-2022"
+      },
+      {
+        "title": "グーグル・サンズ・フレックスを使う映像実験",
+        "creator": "スタジオ・ドゥンバー／デプト、グーグル・デザイン",
+        "date": "制作年未確認",
+        "domain": "書体を使った映像実験",
+        "reason": "文字、太さ、色、音の反応を試した共同制作です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://studiodumbar.com/work/google-sans-flex",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "グーグル・サンズ・フレックスを使う映像実験",
+          "lead": [
+            "文字、太さ、色、音の反応を試した共同制作です。"
+          ]
+        },
+        "title_original": "Google Sans Flex — Pushing the boundaries of a font",
+        "title_ja": "グーグル・サンズ・フレックスを使う映像実験",
+        "creator_original": "Studio Dumbar/DEPT®／Google Design",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
+        "source_url": "https://studiodumbar.com/work/google-sans-flex"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "動く文字の表現",
+      "lead": [
+        "文字が伸びる、走る、止まる。動きによって、言葉の強さや読む速さが変わります。キネティック・タイポグラフィは、時間と動きを使う文字の表現です。"
+      ]
+    },
+    "representativeness_limit": "一つのスタジオの三例です。映画タイトルや初期のアニメーションの歴史全体を代表しません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "Variable-font expression",
+    "title_ja": "可変フォントを使う表現",
+    "slug": "variable-font-expression",
+    "type": "現代の表現方法・説明用の分類",
+    "period": "技術の標準化：OpenType 1.8（2016年）。掲載例の時期は別に示す",
+    "region": "複数の国・地域",
+    "summary": "文字をただ横に引き伸ばすのではなく、デザイナーが用意した範囲で太さや幅を変えます。可変（かへん）フォントは、一つのフォントファイルに形の変化を持たせる仕組みです。",
+    "context": "変えられる項目を「軸」と呼びます。どの軸があるかは書体によって違います。すべての可変フォントが、丸さや傾きを変えられるわけではありません。",
+    "recognition": {
+      "color": "文字の色を変えることと、線を太くして黒い面積を変えることは別です。",
+      "type": "太さ、幅、傾きなどを、書体が用意する範囲で調整します。",
+      "form": "単純な画像の拡大縮小とは違い、輪郭の変化が設計されています。",
+      "composition": "見出しの幅を合わせたり、小さな文字の見やすさを調整したりできます。"
+    },
+    "comparison": "キネティック・タイポグラフィは動く文字の広い表現です。可変フォントは、そのためにも使える技術の一つです。",
+    "modern": "変化を見せるだけでなく、本文の読みやすさにも役立てられます。紹介サイトの画像と、フォント自体の利用条件は別々に確かめましょう。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "variable-font-expression-1",
+        "institution": "アロー・タイプ／スティーブン・ニクソン（書体制作者）",
+        "url": "https://www.recursive.design/",
+        "supports": "Recursive Sans & Monoの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "variable-font-expression-2",
+        "institution": "グーグル・フォント／書体プロジェクトの公式リポジトリ",
+        "url": "https://github.com/googlefonts/roboto-flex/blob/main/README.md",
+        "supports": "Roboto Flexの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "variable-font-expression-3",
+        "institution": "グーグル・デザイン",
+        "url": "https://design.google/library/google-sans-flex-font",
+        "supports": "Google Sans Flexの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "variable-spec",
+        "institution": "マイクロソフト公式技術資料",
+        "url": "https://learn.microsoft.com/en-us/typography/opentype/spec/otvaroverview",
+        "supports": "可変フォントの軸・設計の仕組み",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "roboto-date",
+        "institution": "グーグル・フォント／書体プロジェクトの公式リポジトリ",
+        "url": "https://github.com/google/fonts/blob/main/ofl/robotoflex/METADATA.pb",
+        "supports": "登録日2022-05-01と作者",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "recursive-history",
+        "institution": "アロー・タイプ／スティーブン・ニクソン（書体制作者）",
+        "url": "https://www.recursive.design/assets/arrowtype-recursive-sansmono-specimen-230407.pdf",
+        "supports": "2018年の卒業制作に始まる経緯",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "variable-font-expression-1",
+      "variable-font-expression-2",
+      "variable-font-expression-3",
+      "variable-spec",
+      "roboto-date",
+      "recursive-history"
+    ],
+    "representatives": [
+      {
+        "title": "リカーシブ・サンズ＆モノ",
+        "creator": "スティーブン・ニクソン／アロー・タイプ",
+        "date": "2018年の研究をもとに継続開発",
+        "domain": "可変書体・公式見本",
+        "reason": "文字ごとの幅をそろえるかどうかや、線の表情など五つの軸を試せます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://www.recursive.design/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "リカーシブ・サンズ＆モノ",
+          "lead": [
+            "文字ごとの幅をそろえるかどうかや、線の表情など五つの軸を試せます。"
+          ]
+        },
+        "title_original": "Recursive Sans & Mono",
+        "title_ja": "リカーシブ・サンズ＆モノ",
+        "creator_original": "Stephen Nixon／Arrow Type",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "書体の制作プロジェクト",
+        "source_url": "https://www.recursive.design/"
+      },
+      {
+        "title": "ロボト・フレックス",
+        "creator": "フォント・ビューローほか／ロボト・フレックス制作チーム",
+        "date": "Google Fontsへの登録は2022年",
+        "domain": "可変書体",
+        "reason": "文字の幅や太さなどを細かく調整する書体です。2011年のロボトとは区別します。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://github.com/googlefonts/roboto-flex/blob/main/README.md",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "ロボト・フレックス",
+          "lead": [
+            "文字の幅や太さなどを細かく調整する書体です。2011年のロボトとは区別します。"
+          ]
+        },
+        "title_original": "Roboto Flex",
+        "title_ja": "ロボト・フレックス",
+        "creator_original": "Font Bureauほか／Roboto Flex Project Authors",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "書体の制作プロジェクト",
+        "source_url": "https://github.com/googlefonts/roboto-flex/blob/main/README.md"
+      },
+      {
+        "title": "グーグル・サンズ・フレックス",
+        "creator": "グーグル、フォント・ビューロー、パスファインダーズ",
+        "date": "制作年は本項では未確定",
+        "domain": "可変書体",
+        "reason": "グーグルの解説では、太さ、幅、表示サイズ向けの調整、傾き、グレード（文字幅を保って線の濃さを調整する仕組み）、丸さの六軸を説明しています。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://design.google/library/google-sans-flex-font",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "グーグル・サンズ・フレックス",
+          "lead": [
+            "グーグルの解説では、太さ、幅、表示サイズ向けの調整、傾き、グレード（文字幅を保って線の濃さを調整する仕組み）、丸さの六軸を説明しています。"
+          ]
+        },
+        "title_original": "Google Sans Flex",
+        "title_ja": "グーグル・サンズ・フレックス",
+        "creator_original": "Google、Font Bureau、Pathfinders",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "書体の制作プロジェクト",
+        "source_url": "https://design.google/library/google-sans-flex-font"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "可変フォントを使う表現",
+      "lead": [
+        "文字をただ横に引き伸ばすのではなく、デザイナーが用意した範囲で太さや幅を変えます。可変（かへん）フォントは、一つのフォントファイルに形の変化を持たせる仕組みです。"
+      ]
+    },
+    "representativeness_limit": "書体三例です。フォントの著作権表記年を初公開年と取り違えません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+  },
+  {
+    "name": "3D / clay illustration",
+    "title_ja": "3D・粘土のようなイラスト",
+    "slug": "3d-clay-illustration",
+    "type": "現代の表現方法・説明用の分類",
+    "period": "近年のデジタル表現。3D全体の起源を示す年代ではない",
+    "region": "複数の国・地域",
+    "summary": "ふくらんだ顔や、柔らかそうな丸い物が画面に現れます。3Dは奥行きのある形を扱う方法です。その中でも、粘土やおもちゃのような質感に見せる表現を、ここでは取り上げます。",
+    "context": "本物の粘土を撮った写真とは限りません。立体データに光や表面の性質を設定して画像にする方法もあります。また、影だけで立体らしく見せる画面部品は、本物の3Dデータとは別です。",
+    "recognition": {
+      "color": "光が当たる面と影の色を見ると、丸みが伝わる仕組みを考えられます。",
+      "type": "文字まで立体にするか、説明は平面の文字にするかで読みやすさが変わります。",
+      "form": "角の丸さ、表面の反射、ふくらみを分けて見ます。",
+      "composition": "顔や物が画面の案内を助けているか、それとも説明を隠しているか考えます。"
+    },
+    "comparison": "3Dのすべてが粘土風ではありません。写実的な金属やガラスの表現もあります。クレイモーフィズムという画面の呼び名とも、完全には重なりません。",
+    "modern": "人物の素材集では、誰をどんな顔で表すかも大切です。購入した素材でも、素材そのものの再配布まで許されるとは限りません。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "3d-clay-illustration-1",
+        "institution": "アムリット・パル・シン（制作者の公式サイト）",
+        "url": "https://amrit.art/toy-faces",
+        "supports": "Toy Faces Libraryの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "3d-clay-illustration-2",
+        "institution": "スリーディー（制作者の公式更新記録）",
+        "url": "https://threedee.feedbear.com/updates",
+        "supports": "CHARACTERZ 3の構成要素、制作者Sam、公式更新記事。相対日付から公開年を逆算しない。",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "3d-clay-illustration-3",
+        "institution": "ハイプ4アカデミー／スクエアプラネット",
+        "url": "https://hype4.academy/articles/design/claymorphism-in-user-interfaces",
+        "supports": "Claymorphism in User Interfacesの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "3d-clay-illustration-1",
+      "3d-clay-illustration-2",
+      "3d-clay-illustration-3"
+    ],
+    "representatives": [
+      {
+        "title": "トイ・フェイシズ――立体の顔の素材集",
+        "creator": "アムリット・パル・シン",
+        "date": "継続公開／初公開年未確認",
+        "domain": "3D人物画像素材集",
+        "reason": "さまざまな人物を、おもちゃのような立体の顔にする例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://amrit.art/toy-faces",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "トイ・フェイシズ――立体の顔の素材集",
+          "lead": [
+            "さまざまな人物を、おもちゃのような立体の顔にする例です。"
+          ]
+        },
+        "title_original": "Toy Faces Library",
+        "title_ja": "トイ・フェイシズ――立体の顔の素材集",
+        "creator_original": "Amrit Pal Singh",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる素材制作",
+        "source_url": "https://amrit.art/toy-faces"
+      },
+      {
+        "title": "キャラクターズ3――立体の人物素材集",
+        "creator": "サム／スリーディー",
+        "date": "公開年はこの資料だけでは確定しない",
+        "domain": "3Dアバター素材集",
+        "reason": "髪、服、目、表情、姿勢を組み替えて人物をつくる素材集です。光の当て方や顔の丸みが、平らな画面の中でも立体感を生みます。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://threedee.feedbear.com/updates",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "キャラクターズ3――立体の人物素材集",
+          "lead": [
+            "髪、服、目、表情、姿勢を組み替えて人物をつくる素材集です。光の当て方や顔の丸みが、平らな画面の中でも立体感を生みます。"
+          ]
+        },
+        "title_original": "CHARACTERZ 3",
+        "title_ja": "キャラクターズ3――立体の人物素材集",
+        "creator_original": "Sam／ThreeDee",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる素材制作",
+        "source_url": "https://threedee.feedbear.com/updates"
+      },
+      {
+        "title": "粘土のような画面部品の解説",
+        "creator": "ミハウ・マレヴィチ／ハイプフォー",
+        "date": "公開年未確認",
+        "domain": "制作者の解説・画面実験",
+        "reason": "ふくらんだ面と内側・外側の影を説明します。3D作品そのものとは区別します。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://hype4.academy/articles/design/claymorphism-in-user-interfaces",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "粘土のような画面部品の解説",
+          "lead": [
+            "ふくらんだ面と内側・外側の影を説明します。3D作品そのものとは区別します。"
+          ]
+        },
+        "title_original": "Claymorphism in User Interfaces",
+        "title_ja": "粘土のような画面部品の解説",
+        "creator_original": "Michał Malewicz／Hype4",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "参考教材（画面表現の解説）",
+        "source_url": "https://hype4.academy/articles/design/claymorphism-in-user-interfaces"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "3D・粘土のようなイラスト",
+      "lead": [
+        "ふくらんだ顔や、柔らかそうな丸い物が画面に現れます。3Dは奥行きのある形を扱う方法です。その中でも、粘土やおもちゃのような質感に見せる表現を、ここでは取り上げます。"
+      ]
+    },
+    "representativeness_limit": "二つの素材集と画面表現の解説です。粘土アニメや3DCG（スリーディー・シージー。コンピューターでつくる立体画像）の歴史全体を代表する選び方ではありません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+  },
+  {
+    "name": "Maximalist web",
+    "title_ja": "情報や飾りを重ねるウェブ表現",
+    "slug": "maximalist-web",
+    "type": "現代の表現方法・説明用の分類",
+    "period": "掲載例：2026年の催事、継続公開の制作者サイト",
+    "region": "複数の国・地域",
+    "summary": "文字、写真、模様、動きをたっぷり重ねます。情報や飾りの多さそのものを楽しませるウェブ表現です。「マキシマリスト」は、多くの要素を積極的に使う姿勢を表す呼び名です。",
+    "context": "単に詰め込むこととは違います。たくさんの要素があっても、何を先に見せ、どこで一息つけるかを考えます。共通の宣言を持つ一つの歴史運動としては扱いません。",
+    "recognition": {
+      "color": "多くの色を使う場合も、繰り返す色があるか探します。",
+      "type": "書体や文字サイズが多いとき、見出しと本文の役割が分かるか見ます。",
+      "form": "写真、切り抜き、模様など、違う種類の要素をどう組み合わせるか見ます。",
+      "composition": "画面がにぎやかでも、案内や操作の場所を見失わないか確かめます。"
+    },
+    "comparison": "Y2Kの昔らしさと重なることはありますが、過去の時代を参照しなくても成り立ちます。内容の多い図書館サイトすべてが、この表現になるわけでもありません。",
+    "modern": "画面の読み込み、文字の読みやすさ、動きを減らす設定も含めて評価します。要素を増やすことが、そのままよい体験になるとは限りません。",
+    "checked_at": "2026-11-01",
+    "publication_status": "editorial_review_pending_image_gap",
+    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "image_count_acquired": 0,
+    "representative_count": 3,
+    "sources": [
+      {
+        "id": "maximalist-web-1",
+        "institution": "カリフォルニア大学サンディエゴ校・学生会グラフィックスタジオ",
+        "url": "https://asgraphicstudio.ucsd.edu/work/sgf26/",
+        "supports": "Sun God Festival ’26の名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "maximalist-web-2",
+        "institution": "ケイティ・ザナ／パーラー（制作者の公式サイト）",
+        "url": "https://pearler.work/home",
+        "supports": "PEARLER 公式ウェブサイトの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "maximalist-web-3",
+        "institution": "ケイティ・ザナ／パーラー（制作者の公式サイト）",
+        "url": "https://pearler.work/home",
+        "supports": "COSMOの名称・作者・年代または制作方法",
+        "checked_at": "2026-11-01",
+        "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      }
+    ],
+    "source_ids": [
+      "maximalist-web-1",
+      "maximalist-web-2",
+      "maximalist-web-3"
+    ],
+    "representatives": [
+      {
+        "title": "サン・ゴッド・フェスティバル2026",
+        "creator": "カリフォルニア大学サンディエゴ校の学生デザイン部門／ライリー・ボイルズら",
+        "date": "2026",
+        "domain": "催事のデザイン・ウェブサイト",
+        "reason": "制作側がマキシマリスト（多くの要素を積極的に使う姿勢）と説明する表現です。落書きできるカーソルなども組み合わせました。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://asgraphicstudio.ucsd.edu/work/sgf26/",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "サン・ゴッド・フェスティバル2026",
+          "lead": [
+            "制作側がマキシマリスト（多くの要素を積極的に使う姿勢）と説明する表現です。落書きできるカーソルなども組み合わせました。"
+          ]
+        },
+        "title_original": "Sun God Festival ’26",
+        "title_ja": "サン・ゴッド・フェスティバル2026",
+        "creator_original": "UC San Diego A.S. Graphic Studio／Rylee Boylesら",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例",
+        "source_url": "https://asgraphicstudio.ucsd.edu/work/sgf26/"
+      },
+      {
+        "title": "パーラーの公式サイト",
+        "creator": "ケイティ・ザナ／パーラー",
+        "date": "継続公開／制作年未確認",
+        "domain": "制作者サイト",
+        "reason": "制作者が多様な要素を積極的に使う姿勢を説明している例です。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://pearler.work/home",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "パーラーの公式サイト",
+          "lead": [
+            "制作者が多様な要素を積極的に使う姿勢を説明している例です。"
+          ]
+        },
+        "title_original": "PEARLER 公式ウェブサイト",
+        "title_ja": "パーラーの公式サイト",
+        "creator_original": "Katie Zana／PEARLER",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例",
+        "source_url": "https://pearler.work/home"
+      },
+      {
+        "title": "コスモ――ウェブサイト用のひな形",
+        "creator": "ケイティ・ザナ／パーラー",
+        "date": "発売年未確認",
+        "domain": "ウェブサイト用テンプレート",
+        "reason": "一つの見本ページではなく、12のひな形ページを持つ商品です。利用者が組み替える前提の表現と、一つの完成サイトを区別します。",
+        "limitation": "画像の転載条件は未確認。出典の公開は転載許諾ではありません。",
+        "evidence": "https://pearler.work/home",
+        "image_adoption": "未掲載・権利確認が必要",
+        "reading_intro": {
+          "heading": "コスモ――ウェブサイト用のひな形",
+          "lead": [
+            "一つの見本ページではなく、12のひな形ページを持つ商品です。利用者が組み替える前提の表現と、一つの完成サイトを区別します。"
+          ]
+        },
+        "title_original": "COSMO",
+        "title_ja": "コスモ――ウェブサイト用のひな形",
+        "creator_original": "Katie Zana／PEARLER",
+        "title_display_note": "日本語の見出しは読みやすさのための呼び名・説明名です。正式な原題は title_original に記録しています。",
+        "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
+        "example_kind": "表現が確かめられる制作事例（同じ作者のひな形）",
+        "source_url": "https://pearler.work/home"
+      }
+    ],
+    "period_bands": [],
+    "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
+    "external_preview_images": [],
+    "adopted_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "情報や飾りを重ねるウェブ表現",
+      "lead": [
+        "文字、写真、模様、動きをたっぷり重ねます。情報や飾りの多さそのものを楽しませるウェブ表現です。「マキシマリスト」は、多くの要素を積極的に使う姿勢を表す呼び名です。"
+      ]
+    },
+    "representativeness_limit": "催事一例、制作者サイトと同じ作者のテンプレートです。三つの独立した運動や時代を代表するわけではありません。",
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "example_section_label": "表現が確かめられる作例・参考教材",
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
   }
 ]
