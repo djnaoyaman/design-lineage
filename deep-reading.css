@@ -1,0 +1,15 @@
+/* Opt-in reading aids for expanded chapters; shared site branding and cards are unchanged. */
+.article-index{margin:2rem 0 3rem;padding:1.5rem;border:1px solid var(--line,#d6d1c7);background:rgba(255,255,255,.35)}
+.article-index h2{font-size:1rem;margin:0 0 .8rem}.article-index ul{display:flex;flex-wrap:wrap;gap:.6rem 1.4rem;list-style:none;margin:0;padding:0}.article-index a{text-underline-offset:.25em}
+.article-story{margin:4rem 0;scroll-margin-top:1rem}.article-story>section{max-width:76ch;margin:2.2rem 0}.article-story h3{font-size:1.3rem;line-height:1.65;margin-bottom:.8rem}.article-story p{line-height:1.95}.article-story .note{font-size:.8rem}
+.regional-notes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.4rem}.regional-notes article{border-top:1px solid var(--line,#d6d1c7);padding-top:1rem;min-width:0}.regional-notes h4{font-size:1rem;margin:0}.regional-notes p{margin:.65rem 0}
+.article-timeline{max-width:76ch}.article-timeline>div{display:grid;grid-template-columns:7.5rem minmax(0,1fr);gap:1rem;border-top:1px solid var(--line,#d6d1c7);padding:1rem 0}.article-timeline dt{font-weight:700}.article-timeline dd{margin:0;min-width:0}.article-timeline p{margin:0 0 .7rem}
+#article-glossary dt{font-weight:700;margin-top:1.2rem}#article-glossary dd{margin:.4rem 0 1rem;line-height:1.9}#article-glossary rt{font-weight:400;font-size:.65em}
+@media(max-width:650px){.article-index{padding:1rem}.article-index ul{display:block}.article-index li+li{margin-top:.8rem}.regional-notes{grid-template-columns:1fr}.article-timeline>div{grid-template-columns:1fr;gap:.4rem}.article-story h3{font-size:1.15rem}}
+
+.article-image-index{margin:0 0 2rem;padding:1rem 0;border-bottom:1px solid var(--line,#d6d1c7)}.article-image-index li{margin:.6rem 0}.article-image-index summary{cursor:pointer}
+/* Show each entire work within a comfortable viewport; never crop it. */
+.collected-art .art-fullsize img{max-height:82vh;object-fit:contain}
+
+#article-glossary{font-size:16px}#article-glossary dd{font-size:1rem}
+

@@ -73,6 +73,8 @@ def render(entry,template,stamp):
  styles=''.join(re.findall(r'<link rel="stylesheet"[^>]+>',template))
  meta=json.dumps({'@context':'https://schema.org','@graph':[{'@type':'WebPage','@id':canonical+'#page','url':canonical,'name':title+' — DESIGN LINEAGE','description':entry['summary'],'inLanguage':'ja','dateModified':stamp,'isPartOf':{'@id':BASE+'#website'}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'図鑑','item':BASE},{'@type':'ListItem','position':2,'name':title,'item':canonical}]}]},ensure_ascii=False).replace('<','\\u003c')
  head=f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="index,follow"><title>{E(title)} — DESIGN LINEAGE</title><meta name="description" content="{E(entry['summary'])}">{styles}<link rel="canonical" href="{canonical}"><meta name="dateModified" content="{stamp}"><meta property="og:site_name" content="DESIGN LINEAGE"><meta property="og:title" content="{E(title)} — DESIGN LINEAGE"><meta property="og:description" content="{E(entry['summary'])}"><meta property="og:url" content="{canonical}"><meta property="og:type" content="article"><meta property="og:locale" content="ja_JP"><meta property="og:image" content="{BASE}assets/design-lineage-og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="DESIGN LINEAGE — デザイン表現史"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{BASE}assets/design-lineage-og.png"><link rel="icon" type="image/png" sizes="32x32" href="../assets/icon-32.png"><link rel="apple-touch-icon" sizes="180x180" href="../assets/icon-180.png"><link rel="manifest" href="../site.webmanifest"><script type="application/ld+json" id="site-update-metadata">{meta}</script></head><body><a class="skip" href="#main">本文へ</a>{header}'''
+ if entry.get('deep_dive') and slug!='art-nouveau' and 'deep-reading.css' not in head:
+  head=head.replace('</head>','<link rel="stylesheet" href="../deep-reading.css?v=20261102-0953"></head>')
  actual=[i for i in entry.get('adopted_images',[]) if public_asset(i)]
  refs=[i for i in entry.get('reference_images',[]) if public_asset(i)]
  status=f'作品・制作の例{len(entry.get("representatives",[]))}件を紹介しています。実作品画像{len(actual)}点、参照・関連画像{len(refs)}点。画像の収集は継続中です。'
@@ -105,7 +107,12 @@ def render(entry,template,stamp):
    for region in entry['regional_variants']:
     body+='<article><h4>'+E(region['name'])+'</h4>'+pp(region.get('place',''))+pp(region['description'])+source_links(region.get('source_ids',[]))+'</article>'
    body+='</div></section>'
-  body+='<nav aria-label="関連する記事"><p>'+ '<a href="arts-and-crafts.html">アーツ・アンド・クラフツ</a> / <a href="art-deco.html">アール・デコ</a> / <a href="vienna-secession.html">ウィーン分離派</a>'+'</p></nav></section>'
+  related=entry.get('related_articles')
+  if related is None and slug=='art-nouveau':related=[{'slug':'arts-and-crafts','title':'アーツ・アンド・クラフツ'},{'slug':'art-deco','title':'アール・デコ'},{'slug':'vienna-secession','title':'ウィーン分離派'}]
+  if related:
+   if any(not re.fullmatch(r'[a-z0-9-]+',x['slug']) for x in related):raise ValueError('Unsafe related article slug')
+   body+='<nav aria-label="関連する記事"><p>'+ ' / '.join('<a href="'+E(x['slug'])+'.html">'+E(x['title'])+'</a>' for x in related)+'</p></nav>'
+  body+='</section>'
  if entry.get('timeline'):
   body+='<section id="article-timeline" class="article-story"><h2 class="study-section-title">流れを、年表で見る</h2><dl class="article-timeline">'
   for item in entry['timeline']:body+='<div><dt>'+E(item['date'])+'</dt><dd>'+pp(item['event'])+source_links(item.get('source_ids',[]))+'</dd></div>'

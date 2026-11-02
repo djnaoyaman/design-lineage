@@ -1,5 +1,5 @@
 {
-  "release": "public-existing-image-gaps-20261102-0927",
+  "release": "public-deepen-rinpa-20261102-1000",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
@@ -8,7 +8,7 @@
   "pages_path": "/",
   "articles": 88,
   "planned_entries": 88,
-  "historical_representative_images": 69,
+  "historical_representative_images": 74,
   "reference_related_images": 4,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
@@ -47,12 +47,12 @@
     {
       "path": "README.md",
       "bytes": 3794,
-      "sha256": "bf33f0a347a62229ea682b938c443a5bb90b056b6b62f6c8c4d1fb72c2f3fefe"
+      "sha256": "c8afc4b265089f4313aff4050b1134b358cd6a1039970d7a2dfbecf73b78d4f4"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 325436,
-      "sha256": "6e629f656047ba1fe0473389dcaad3675cde8e2cc2f47e436f52f2c5f67d6ad7"
+      "bytes": 342701,
+      "sha256": "eca54d007796af6a36522fca83ee57aab74759537d0de1db7f8c8b8a9c4bb392"
     },
     {
       "path": "analytics-status.json",
@@ -1135,6 +1135,81 @@
       "sha256": "644a2fa6a8cf76817a6fb1d80d71998ea23500bbbbc805a3e4319d365954159d"
     },
     {
+      "path": "assets/rinpa-kenzan-style-dish-1000.webp",
+      "bytes": 137648,
+      "sha256": "729c29c3dc017edcba0fa4375488750f911ff76820c9d16396ee36f904b5272b"
+    },
+    {
+      "path": "assets/rinpa-kenzan-style-dish-640.webp",
+      "bytes": 61506,
+      "sha256": "382e8f6b3e9b9f795ea049e4e837446be64d7be037f3e85ddf55c00c9cefba67"
+    },
+    {
+      "path": "assets/rinpa-kenzan-style-dish.jpg",
+      "bytes": 179638,
+      "sha256": "dec9f168d58419cc0871fd5b50838bea3d8561979e297c88cbca5550b7608ee9"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148398-1000.webp",
+      "bytes": 162894,
+      "sha256": "3692f337314e35988db059ddfbad63d81e0aa6a8584b08708f7563481b1a7888"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148398-640.webp",
+      "bytes": 78928,
+      "sha256": "fed1a80fbf6c62d197a58972766ccba9ea2d2e9ae135468d5350728e2d237651"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148398.jpg",
+      "bytes": 182751,
+      "sha256": "96940245515065a4f48741820e3d70befc4b4d6fbc001f188a103c76a0f55306"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148399-1000.webp",
+      "bytes": 163712,
+      "sha256": "3a008b7e1dc9a9c47edd5f3c9d73843da8c491a3a2ad40fdccc0c40914a0bf7d"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148399-640.webp",
+      "bytes": 78550,
+      "sha256": "aa9027adfff70032b8f3be609221d41935379f30cababa15945b5bcdcace3b4a"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148399.jpg",
+      "bytes": 181325,
+      "sha256": "1a21c630d1ecf3a9c2cfbcebb77809e38eeb7f3ca58a3ea899ff9be140ba8ce9"
+    },
+    {
+      "path": "assets/rinpa-koetsu-style-box-1000.webp",
+      "bytes": 77056,
+      "sha256": "025fe117cbc708116596dcd3ce970a6301f65c5eda6649713bc90459f2a692ca"
+    },
+    {
+      "path": "assets/rinpa-koetsu-style-box-640.webp",
+      "bytes": 34614,
+      "sha256": "e5e1b07b1a6d9f6a3f43a62bc9a1f5ed8f58f865bd4a6b049e12ade3ac4e2a1d"
+    },
+    {
+      "path": "assets/rinpa-koetsu-style-box.jpg",
+      "bytes": 99059,
+      "sha256": "eb9458ae98736cc6fef266edc5a832c2ac3cec890a9306b6fabad0c15eb4042b"
+    },
+    {
+      "path": "assets/rinpa-korin-hyakuzu-1000.webp",
+      "bytes": 184372,
+      "sha256": "7510a9027ff1cf16b8d71f6be3411f755353ee35a599ea85fbab7296762ce8a1"
+    },
+    {
+      "path": "assets/rinpa-korin-hyakuzu-640.webp",
+      "bytes": 76268,
+      "sha256": "a4f28e2449d492b3507b921154279e58c2b422c3d739ed343ded78b8d78e4526"
+    },
+    {
+      "path": "assets/rinpa-korin-hyakuzu.jpg",
+      "bytes": 250097,
+      "sha256": "66a9d73b6ffd57bcff4782768e50706532f6414bb1590d17ab1de502bd52e7db"
+    },
+    {
       "path": "assets/schlemmer-bauhaus-exhibition-flyer-1200.webp",
       "bytes": 607942,
       "sha256": "294e657587f2e74461a41c6bbdd64485c1a5589f2305356045f2254763553078"
@@ -1186,8 +1261,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 36186,
-      "sha256": "ed0285b3e5a5e5642ccbeec415a0c8d89f1fec9e11f3af46996438f924e858cf"
+      "bytes": 36271,
+      "sha256": "e69f0e93130dbb11d954d34d7a5835dde1564afa294a212fb512717ec16dd2b5"
     },
     {
       "path": "chapter-titles.css",
@@ -1208,6 +1283,11 @@
       "path": "compiler.html",
       "bytes": 6288,
       "sha256": "66ec20cec44cb9bf85e758501d327cde4fb776bb97bcedbdbd261a857afac9f9"
+    },
+    {
+      "path": "deep-reading.css",
+      "bytes": 2032,
+      "sha256": "8ca0bb3bf485376dd1af890d19eec6eb1fdb386c6061c58c582706f6a1740381"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1511,8 +1591,8 @@
     },
     {
       "path": "entries/rinpa.html",
-      "bytes": 36205,
-      "sha256": "ada778383479182a4303884f9f05799bb76770b9e55d860cbd849f724b0a606b"
+      "bytes": 58905,
+      "sha256": "1881f8a1a37ca48dce36098e585d3f45ddb7c40f70d50670fa915fdc9ee65c7e"
     },
     {
       "path": "entries/risograph.html",
@@ -1651,8 +1731,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1695063,
-      "sha256": "29dc9f0c4b3027342431e9d789718f42dbe53d9f4f86faf42fabb49e24b889ea"
+      "bytes": 1728098,
+      "sha256": "75f2d70ae2992cc605e2e59bb2e3be50ebfab8d217f2969edcc0a3b77dbc1982"
     },
     {
       "path": "external-preview-rights.json",
@@ -1682,7 +1762,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "a5b034b93de4fccec1e544e3f251b468376a4cebc1b30daa3f087515e1cab676"
+      "sha256": "31de25c205493d64611f372c536bd1c6f0eca69a824fa15b8d6f5f490a8cfbad"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1691,8 +1771,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25029,
-      "sha256": "9751a81c018fa933717b8e544cabda557c1524a0a414d069bb3a560a3a7a8743"
+      "bytes": 25114,
+      "sha256": "88b788839724108e8856418060834ea08849a4bcb4ea3755329c9c2e68b103e7"
     },
     {
       "path": "logo-provenance.json",
@@ -1726,8 +1806,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 16281,
-      "sha256": "7fb975bcbc467f4ca71c8a1273b21262490217aeb16f5706d268bfcfb8175ebd"
+      "bytes": 16799,
+      "sha256": "23670d519dbb97172bee2353072d3a9dd5d76568c1e38555252452ec56c34626"
     },
     {
       "path": "share-copy.json",
@@ -1742,7 +1822,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "778d5547da1138ed26f4266f2b3603b2763f8707402a5d737b215968e67d7077"
+      "sha256": "c291b7914a7a051a0b2f676aca5a8fa76ff36c95a48d1eb521c2e6b191277dd7"
     },
     {
       "path": "site.webmanifest",
@@ -1752,7 +1832,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "8daab666e37448311550f7c3725cfac9eadb7328e06cb2be0b742a0872c13190"
+      "sha256": "9987d6801595011a83724a80bdb74c7ad91614b089af4485858a89a4d5a096ee"
     },
     {
       "path": "study-images.js",
@@ -1771,8 +1851,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 14311,
-      "sha256": "7b3a83eba7276afa396e5cbf561f3923cb4e7cfbf4de9b8ebee0c68048c1e6ac"
+      "bytes": 17204,
+      "sha256": "d4868a67a94efaa68766a064097b1f3570e38b1b145dae5a106cbc46b9ddd536"
     },
     {
       "path": "timeline.css",
@@ -1797,10 +1877,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T09:27:00+09:00",
+  "frozen_at": "2026-11-02T10:00:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 338,
+  "rewritten_representative_cards": 342,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1891,8 +1971,8 @@
     "physical_device_test": false,
     "responsive_ci": "pending exact-commit verification"
   },
-  "representative_image_placements": 71,
-  "unique_representative_image_files": 69,
+  "representative_image_placements": 76,
+  "unique_representative_image_files": 74,
   "catalog_expansion": [
     {
       "batch": "history17",
@@ -1933,5 +2013,13 @@
     "new_example_records": 8,
     "updated_existing_records": 3,
     "complete_catalog": false
+  },
+  "expanded_chapters": {
+    "rinpa": {
+      "actual_image_views": 8,
+      "examples": 9,
+      "deep_sections": 6,
+      "image_collection_complete": false
+    }
   }
 }

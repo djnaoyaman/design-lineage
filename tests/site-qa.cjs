@@ -67,6 +67,32 @@ for(const width of [320,390,1280]){
   }
   if(["punk-diy", "new-bauhaus-chicago", "vkhutemas", "black-mountain-college", "psychedelic-art", "streamline-moderne", "polish-poster-school", "surrealism", "jugendstil", "scandinavian-modern", "brutalism", "critical-regionalism", "mid-century-modern", "radical-design", "memphis", "new-wave-typography", "supergraphics", "bengal-school", "shinkenchiku-kogei-gakuin", "kuwasawa-design-school", "nid-ahmedabad", "esdi-rio", "shinko-shashin", "gutai", "mono-ha", "dansaekhwa", "taller-grafica-popular", "tropicalismo", "negritude-visual-culture", "khartoum-school", "wayo-graphic", "brazilian-modernism", "tropical-modernism", "typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web", "suprematism", "wiener-werkstaette", "russian-constructivism", "metabolism", "art-deco", "international-style", "rococo", "neoclassicism", "postmodernism", "de-stijl"].includes(slug)){await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),`${slug} expanded overflow`);}
   if(["typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web"].includes(slug)){await page.locator("#representative-works").scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/${slug}-expanded-${width}.png`});const parts=await page.locator('.segmented-title .title-part').evaluateAll(xs=>xs.map(x=>{const r=document.createRange();r.selectNodeContents(x);return {lines:r.getClientRects().length,left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right};}));assert(parts.every(x=>x.lines===1&&x.left>=0&&x.right<=width+1),'Semantic title parts fit');await page.locator(".study-title").screenshot({path:`qa-artifacts/${slug}-title-${width}.png`});}
+  if(['rinpa','surrealism','art-deco','mid-century-modern'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
+   const entry=entries.find(e=>e.slug===slug);
+   assert(entry.deep_dive.length>=4);assert(entry.timeline.length>=4);assert(entry.glossary.length>=5);
+   for(const item of [...entry.deep_dive,...entry.timeline,...(entry.regional_variants||[])])for(const id of item.source_ids||[])assert(entry.sources.some(s=>s.id===id),'Every expanded section source exists');
+   await page.locator('.article-index a[href="#deeper-story"]').click();
+   await page.waitForFunction(()=>{const y=document.querySelector('#deeper-story').getBoundingClientRect().top;return y>=-2&&y<100},null,{timeout:5000});
+   await page.screenshot({path:`qa-artifacts/deep-${slug}-story-${width}.png`});
+   await page.locator('.article-image-index summary').click();assert.equal(await page.locator('.article-image-index a').count(),entry.adopted_images.length);
+   if(entry.adopted_images.length)await page.locator('.article-image-index a').first().click();
+   await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
+   assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)), 'Expanded chapter does not overflow');
+   const credits=await page.locator('.collected-art .credit').evaluateAll(xs=>xs.map(x=>({left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right})));assert(credits.every(x=>x.left>=0&&x.right<=width+1),'Expanded chapter credits fit');
+   for(const [label,selector] of [['glossary','#article-glossary'],['timeline','#article-timeline'],['regions','.regional-notes']]){if(await page.locator(selector).count()){await page.locator(selector).scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/deep-${slug}-${label}-${width}.png`});}}
+   await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=false));
+   for(const [i,fig] of (await page.locator('.collected-art').all()).entries()){
+    await fig.locator('img').evaluate(i=>i.decode());
+    for(const edge of ['start','end']){await fig.evaluate((e,edge)=>e.scrollIntoView({block:edge,behavior:'instant'}),edge);await page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))));await page.screenshot({path:`qa-artifacts/deep-${slug}-work-${i+1}-${width}-${edge}.png`});}
+   }
+   for(const zoom of [1,2]){
+    await page.evaluate(z=>{document.documentElement.style.zoom=String(z);window.scrollTo({top:0,behavior:'instant'});},zoom);
+    assert.equal(await page.locator('.study-title h1').textContent(),entry.title_ja);
+    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Expanded chapter 200% layout zoom fits');
+    await page.screenshot({path:`qa-artifacts/deep-${slug}-title-${width}-${zoom}x.png`});
+   }
+   await page.evaluate(()=>document.documentElement.style.zoom='');
+  }
   results.push({slug,width,...r});
  }
  await page.goto('http://127.0.0.1:8793/',{waitUntil:'networkidle'});await page.locator('#query').fill('中島');assert.equal(await page.locator('#items .entry').count(),1);await page.locator('#reset').click();assert.equal(await page.locator('#items .entry').count(),88);assert((await page.locator('#count').innerText()).includes('本文88件公開'));assert.equal(await page.locator('#items .entry a[href^="entries/"]').count(),88);await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/footer-${width}.png`});
