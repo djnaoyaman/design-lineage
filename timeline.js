@@ -1,5 +1,6 @@
 (function () {
   'use strict';
+  const chronology = typeof module !== 'undefined' && module.exports ? require('./chronology.js') : globalThis.LineageChronology;
   const BANDS = [
     { id: 'pre1900', title: '–1899', label: '1900年より前', note: '本文で確認した、この区分に関わる項目。' },
     { id: '1900-1949', title: '1900–49', label: '20世紀前半', note: '成立・主な展開を大区分で辿る入口。' },
@@ -37,7 +38,7 @@
   function groupEntries(entries, query) {
     const q = String(query || '').trim().toLocaleLowerCase();
     const visible = entries.filter(e => [e.name, e.title_ja, e.type, e.region].join(' ').toLocaleLowerCase().includes(q));
-    return { visible, groups: BANDS.map(b => ({ ...b, entries: visible.filter(e => e.bands.includes(b.id)) })) };
+    return { visible, groups: BANDS.map(b => ({ ...b, entries: chronology.sort(visible.filter(e => e.bands.includes(b.id))) })) };
   }
 
   function entryLinks(entry, all) {
@@ -49,8 +50,10 @@
   }
 
   function card(entry, all) {
+    const evidence=chronology.records[entry.slug];
+    const supplement=evidence?.additional_source?`<p class="chronology-source">並び順の補足：${escapeHTML(evidence.sort_label)} <a href="${escapeHTML(evidence.additional_source)}" target="_blank" rel="noreferrer">年代の出典 ↗</a></p>`:'';
     const cross = entry.bands.length > 1 ? `<p class="timeline-cross-band">複数区分に表示：${entry.bands.map(id => escapeHTML(BANDS.find(b => b.id === id).label)).join(' / ')}</p>` : '';
-    return `<article class="timeline-card"><p class="timeline-card-kind">${escapeHTML(entry.type)}</p><h3>${escapeHTML(entry.title_ja)}</h3><p class="timeline-card-ja">${escapeHTML(entry.name)}</p><dl><div><dt>年代</dt><dd>${escapeHTML(entry.period)}</dd></div><div><dt>地域</dt><dd>${escapeHTML(entry.region)}</dd></div></dl>${cross}<p class="timeline-card-status">${escapeHTML(entry.status)}</p><div class="timeline-card-links">${entryLinks(entry, all)}</div></article>`;
+    return `<article class="timeline-card" data-chronology-slug="${escapeHTML(entry.slug||'')}"><p class="timeline-card-kind">${escapeHTML(entry.type)}</p><h3>${escapeHTML(entry.title_ja)}</h3><p class="timeline-card-ja">${escapeHTML(entry.name)}</p><dl><div><dt>年代</dt><dd>${escapeHTML(entry.period)}</dd></div><div><dt>地域</dt><dd>${escapeHTML(entry.region)}</dd></div></dl>${supplement}${cross}<p class="timeline-card-status">${escapeHTML(entry.status)}</p><div class="timeline-card-links">${entryLinks(entry, all)}</div></article>`;
   }
 
   function renderTimeline(entries, query) {
