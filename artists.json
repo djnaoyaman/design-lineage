@@ -1005,6 +1005,173 @@
           "description": "リーバー・ハウスを、1950年代の米国への展開例として扱います。建物を一人だけの仕事として説明しません。"
         }
       ]
+    },
+    {
+      "id": "park-seo-bo",
+      "name_ja": "パク・ソボ（朴栖甫）",
+      "name_kana": "パク・ソボ",
+      "name_original": "Park Seo-Bo / 박서보",
+      "birth_year": 1931,
+      "death_year": 2023,
+      "short_bio": "韓国の画家。《描法》で、絵の具に線を引く反復や、紙を用いる制作を探りました。教育や展覧会の企画にも関わり、単色画の広がりを支えました。",
+      "representative_works": [
+        {
+          "id": "park-ecriture-55-73",
+          "title_ja": "描法No.55-73",
+          "title_original": "Ecriture No.55-73",
+          "date_label": "1973年",
+          "start_year": 1973,
+          "end_year": 1973,
+          "work_type": "キャンバスに黒鉛・油彩",
+          "institution": "ソロモン・R・グッゲンハイム美術館",
+          "source_url": "https://www.guggenheim.org/wp-content/uploads/2020/09/guggenheim-marking-time-digital-wall-text.pdf",
+          "accession": "2015.50"
+        }
+      ],
+      "sources": [
+        {
+          "id": "kams-park-biography",
+          "institution": "韓国芸術経営支援センター／ケー・アートマーケット",
+          "title": "Park Seo-Bo — artist archive",
+          "url": "https://k-artmarket.kr/kada/kada_new/contents/KADA0101.do?dataId=D20240322223907421323&schM=view",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "guggenheim-park55-73",
+          "institution": "ソロモン・R・グッゲンハイム美術館",
+          "title": "Marking Time — Ecriture No.55-73, p.7",
+          "url": "https://www.guggenheim.org/wp-content/uploads/2020/09/guggenheim-marking-time-digital-wall-text.pdf",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mmca-dansaekhwa-2012",
+          "institution": "韓国国立現代美術館",
+          "title": "Dansaekhwa: Korean Monochrome Painting, 2012",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=201202240002871&menuId=1010000000",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "dansaekhwa",
+          "role": "単色画と関わる画家",
+          "description": "単色画の展覧会と研究で扱われる一人。全制作を同一の材料・技法・思想へまとめません。"
+        }
+      ]
+    },
+    {
+      "id": "ha-chong-hyun",
+      "name_ja": "ハ・ジョンヒョン（河鍾賢）",
+      "name_kana": "ハ・ジョンヒョン",
+      "name_original": "Ha Chong-Hyun / 하종현",
+      "birth_year": 1935,
+      "death_year": null,
+      "short_bio": "韓国の画家。前衛的な素材の実験を経て、1974年に《接合》を開始。麻布の裏から絵の具を押し、布の抵抗と圧力によって表面をつくる方法を探りました。",
+      "representative_works": [
+        {
+          "id": "ha-conjunction-74-26",
+          "title_ja": "接合74-26",
+          "title_original": "Conjunction 74-26",
+          "date_label": "1974年",
+          "start_year": 1974,
+          "end_year": 1974,
+          "work_type": "麻布に油彩",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/191856",
+          "accession": "494.2015",
+          "dimensions": "108.9 × 222.9 cm"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ha-official-biography",
+          "institution": "ハ・ジョンヒョン公式サイト",
+          "title": "Biography",
+          "url": "https://www.conjunction1935.com/biography",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-ha7426",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Conjunction 74-26, 494.2015",
+          "url": "https://www.moma.org/collection/works/191856",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mmca-dansaekhwa-2012",
+          "institution": "韓国国立現代美術館",
+          "title": "Dansaekhwa: Korean Monochrome Painting, 2012",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=201202240002871&menuId=1010000000",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "1935年生まれ",
+      "death_year_status": "参照した一次資料に没年記載なし。存命を推測する表示には使わない。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "dansaekhwa",
+          "role": "単色画と関わる画家",
+          "description": "単色画の展覧会と研究で扱われる一人。全制作を同一の材料・技法・思想へまとめません。"
+        }
+      ],
+      "life_status": "unknown"
+    },
+    {
+      "id": "yun-hyong-keun",
+      "name_ja": "ユン・ヒョングン（尹亨根）",
+      "name_kana": "ユン・ヒョングン",
+      "name_original": "Yun Hyong-keun / 윤형근",
+      "birth_year": 1928,
+      "death_year": 2007,
+      "short_bio": "韓国の画家。1973年から絵画に専念し、青と茶色を重ねる独自の表現を深めました。色の面と布ににじむ境界から、一見単純な画面の変化を考えられます。",
+      "representative_works": [
+        {
+          "id": "yun-burnt-umber-ultramarine-1973-mmca",
+          "title_ja": "バーントアンバーとウルトラマリン",
+          "title_original": "Burnt Umber & Ultramarine",
+          "date_label": "1973年",
+          "start_year": 1973,
+          "end_year": 1973,
+          "work_type": "キャンバスに油彩",
+          "institution": "韓国国立現代美術館",
+          "source_url": "https://www.yunhyongkeun.org/works/1970s",
+          "dimensions": "100 × 181.5 cm",
+          "note": "同名・類似題の別年作品と区別する。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "yun-official-biography",
+          "institution": "ユン・ヒョングン・エステート",
+          "title": "Biography",
+          "url": "https://www.yunhyongkeun.org/about/biography",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "yun-official-1970s",
+          "institution": "ユン・ヒョングン・エステート",
+          "title": "Works, 1970s",
+          "url": "https://www.yunhyongkeun.org/works/1970s",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mmca-dansaekhwa-2012",
+          "institution": "韓国国立現代美術館",
+          "title": "Dansaekhwa: Korean Monochrome Painting, 2012",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=201202240002871&menuId=1010000000",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "dansaekhwa",
+          "role": "単色画と関わる画家",
+          "description": "単色画の展覧会と研究で扱われる一人。全制作を同一の材料・技法・思想へまとめません。"
+        }
+      ]
     }
   ]
 }

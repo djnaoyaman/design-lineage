@@ -22785,8 +22785,8 @@
     "type": "絵画をめぐる動向",
     "period": "1970年代を中心に／前史は1960年代",
     "region": "韓国を中心に国際的展開",
-    "summary": "ほとんど同じ色に見える絵も、近づくと、こすった線や布の目が見えてきます。韓国の単色画は、色を少なくするだけの絵ではありません。描く、押す、繰り返すといった行為と、材料の変化を大切にした絵画の流れです。",
-    "context": "画家によって方法は違います。パク・ソボは絵の具の上に鉛筆で繰り返し線を引き、ハ・ジョンヒョンは麻布の裏から絵の具を押し出しました。同じように静かに見える表面でも、できるまでの動作は大きく異なります。",
+    "summary": "一色に見える絵も、近づくと、押し出された絵の具や、何度も引いた線、布へのにじみが現れます。韓国の単色画は、1970年代を中心に、材料と繰り返す動作を探った絵画の流れです。白だけが使われたわけでも、画家全員が同じ方法で描いたわけでもありません。",
+    "context": "この流れを考えるには、作品をつくった時期と、それらをまとめて紹介した展覧会の時期を分ける必要があります。1970年代の制作と日韓の交流、2000年以降に広がる「Dansaekhwa」という表記を、同じ一度の出発点にしません。",
     "recognition": {
       "color": "白だけに限りません。ユン・ヒョングンは、茶色と深い青を用いた作品を制作しました。色数より、重なりやしみ込み方を見ます。",
       "type": "「エクリチュール」は書くことに関わる語ですが、作品を読める文章や特定の書体として扱いません。",
@@ -22811,7 +22811,11 @@
           ]
         },
         "source_url": "https://www.guggenheim.org/wp-content/uploads/2020/09/guggenheim-marking-time-digital-wall-text.pdf",
-        "title_ja": "描法No.55-73（Ecriture No.55-73）"
+        "title_ja": "描法No.55-73（Ecriture No.55-73）",
+        "work_id": "park-ecriture-55-73",
+        "identity": {
+          "accession": "2015.50"
+        }
       },
       {
         "title": "接合74-26（Conjunction 74-26）",
@@ -22828,7 +22832,12 @@
           ]
         },
         "source_url": "https://www.moma.org/collection/works/191856",
-        "title_ja": "接合74-26（Conjunction 74-26）"
+        "title_ja": "接合74-26（Conjunction 74-26）",
+        "work_id": "ha-conjunction-74-26",
+        "identity": {
+          "accession": "494.2015",
+          "dimensions": "108.9 × 222.9 cm"
+        }
       },
       {
         "title": "バーントアンバーとウルトラマリン（Burnt Umber & Ultramarine）",
@@ -22845,7 +22854,11 @@
           ]
         },
         "source_url": "https://www.yunhyongkeun.org/works/1970s",
-        "title_ja": "バーントアンバーとウルトラマリン（Burnt Umber & Ultramarine）"
+        "title_ja": "バーントアンバーとウルトラマリン（Burnt Umber & Ultramarine）",
+        "work_id": "yun-burnt-umber-ultramarine-1973-mmca",
+        "identity": {
+          "dimensions": "100 × 181.5 cm"
+        }
       }
     ],
     "sources": [
@@ -22883,24 +22896,267 @@
         "supports": [
           "接合74-26・1974・材料・寸法・制作手順"
         ]
+      },
+      {
+        "id": "kams-dansaekhwa-term",
+        "institution": "Korea Arts Management Service",
+        "title": "単色画 / Dansaekhwa — 韓国美術多言語用語辞典",
+        "url": "https://www.gokams.or.kr/visual-art/art-terms/glossary/art_view.asp?idx=89",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "mmca-dansaekhwa-2012",
+        "institution": "韓国国立現代美術館",
+        "title": "Dansaekhwa: Korean Monochrome Painting, 2012",
+        "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=201202240002871&menuId=1010000000",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "mmca-five-hinsek-1975",
+        "institution": "韓国国立現代美術館リサーチラボ",
+        "title": "Korea: Five Artists, Five Hinsek—White",
+        "url": "https://www.mmcaresearch.kr/terms/view.do?code=terms4&fid=1215",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "guggenheim-park55-73",
+        "institution": "ソロモン・R・グッゲンハイム美術館",
+        "title": "Marking Time — Ecriture No.55-73, p.7",
+        "url": "https://www.guggenheim.org/wp-content/uploads/2020/09/guggenheim-marking-time-digital-wall-text.pdf",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "kams-park-biography",
+        "institution": "韓国芸術経営支援センター／Kアートマーケット",
+        "title": "Park Seo-Bo — artist archive",
+        "url": "https://k-artmarket.kr/kada/kada_new/contents/KADA0101.do?dataId=D20240322223907421323&schM=view",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "ha-official-biography",
+        "institution": "ハ・ジョンヒョン公式サイト",
+        "title": "Biography",
+        "url": "https://www.conjunction1935.com/biography",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "moma-ha7426",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "title": "Conjunction 74-26, 494.2015",
+        "url": "https://www.moma.org/collection/works/191856",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "yun-official-biography",
+        "institution": "ユン・ヒョングン作品管理団体",
+        "title": "Biography",
+        "url": "https://www.yunhyongkeun.org/about/biography",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "yun-official-1970s",
+        "institution": "ユン・ヒョングン作品管理団体",
+        "title": "Works, 1970s",
+        "url": "https://www.yunhyongkeun.org/works/1970s",
+        "verified_at": "2026-11-02"
       }
     ],
-    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "representativeness_limit": "まず、パク・ソボ、ハ・ジョンヒョン、ユン・ヒョングンの1973〜1974年の三作品を比べます。この三人だけが参加者だったわけではなく、作家の仕事も時期によって変わります。実作品画像の掲載条件は確認中のため、本文の材料や制作方法は一次機関の解説に基づきます。",
     "recognition_section_label": "作品をよく見るための手がかり",
     "modern_section_label": "いま、考えてみること",
     "reading_intro": {
-      "heading": "一色に見えても、手の跡は一つずつ違う。",
+      "heading": "描く、押す、しみ込ませる。",
       "lead": [
-        "ほとんど同じ色に見える絵も、近づくと、こすった線や布の目が見えてきます。韓国の単色画は、色を少なくするだけの絵ではありません。描く、押す、繰り返すといった行為と、材料の変化を大切にした絵画の流れです。"
+        "同じように静かな画面も、できるまでの動きは違います。",
+        "色数だけでなく、線、織り目、にじむ境目を比べてみましょう。"
       ],
-      "looking_questions": []
+      "looking_questions": [
+        "跡をつくったのは、鉛筆、手の圧力、絵の具の重さのどれでしょう。",
+        "同じ題名が繰り返されるとき、年と所蔵先で作品を見分けられますか。"
+      ]
     },
     "adopted_images": [],
     "reference_images": [],
     "image_count_acquired": 0,
     "reference_image_count": 0,
     "image_status": "実作品画像の掲載許諾を確認中",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+    "status": "published_text_with_image_gaps",
+    "deep_dive": [
+      {
+        "id": "name-after-practice",
+        "title": "作品が生まれた時期と、名前が広がった時期",
+        "paragraphs": [
+          "韓国語の「単色画」をローマ字でDansaekhwaと表します。韓国芸術経営支援センターの用語辞典は、この表記が2000年の光州ビエンナーレ特別展で使われ、2012年の国立現代美術館展を通して広く定着したと説明しています。",
+          "1970年代の絵を、後に整理された名前で読み直している面があるのです。名前が広まった年を作品の制作年にせず、一人ずつの材料や活動を確かめます。"
+        ],
+        "source_ids": [
+          "kams-dansaekhwa-term"
+        ]
+      },
+      {
+        "id": "park-lines",
+        "title": "パク・ソボ――線を繰り返す",
+        "paragraphs": [
+          "《描法No.55-73》では、薄くのせた油絵の具に、鉛筆で角張った跡を繰り返しています。グッゲンハイム美術館は、強く押しながら続ける動作に注目しています。線は読める文章ではなく、行為の跡として見ることができます。",
+          "ただし、パクの全作品が同じ材料ではありません。1980年代以降には韓紙を積極的に用いました。初期の鉛筆による線と、後の紙を使う仕事を一つの技法にまとめないことが大切です。"
+        ],
+        "source_ids": [
+          "guggenheim-park55-73",
+          "kams-park-biography"
+        ]
+      },
+      {
+        "id": "ha-front-back",
+        "title": "ハ・ジョンヒョン――裏から表へ押し出す",
+        "paragraphs": [
+          "《接合74-26》では、粗い麻布の織り目を通して、白い油絵の具を押し出しています。布は絵を受け止めるだけの土台ではなく、絵の具の形を変える材料です。",
+          "絵の具が乾き切る前に布を枠へ張り、立てる工程もあります。垂れた跡には、手の操作だけでなく重さと時間も関わります。作者の身振りと材料の抵抗が出会うところに注目します。"
+        ],
+        "source_ids": [
+          "moma-ha7426",
+          "ha-official-biography"
+        ]
+      },
+      {
+        "id": "yun-two-colors",
+        "title": "ユン・ヒョングン――二つの色と、にじむ境目",
+        "paragraphs": [
+          "ユンは、青と茶色を重ねて、黒に近い深い面をつくりました。公式記録には、青を空、茶色を大地に結びつけた本人の考えも残っています。「単色画だから一色だけ」と考えると、この違いを見落としてしまいます。",
+          "1973年の《バーントアンバーとウルトラマリン》を、同じような題名を持つ別年の作品と区別します。色名だけでなく、制作年、寸法、所蔵先を合わせることが、具体的な作品を知る手がかりです。"
+        ],
+        "source_ids": [
+          "yun-official-biography",
+          "yun-official-1970s"
+        ]
+      },
+      {
+        "id": "five-whites",
+        "title": "「五つの白」は、誰が選んだ見方？",
+        "paragraphs": [
+          "1975年、東京画廊で「韓国・五人の作家、五つのヒンセク〈白〉」が開かれました。参加したのはクォン・ヨンウ、パク・ソボ、ソ・スンウォン、イ・ドンヨプ、ホ・ファンの五人です。ハ・ジョンヒョンとユン・ヒョングンを、この五人へ入れ替えてはいけません。",
+          "画廊主の山本孝や批評家の中原佑介らは、白の共通性に注目しました。これは重要な受容の歴史である一方、後に単色画と呼ばれるすべての作品が白いことを意味しません。作品をつくる人と、それをまとめて説明する人の役割も分けて読みます。"
+        ],
+        "source_ids": [
+          "mmca-five-hinsek-1975"
+        ]
+      },
+      {
+        "id": "later-reading",
+        "title": "静かな見た目を、一つの意味に決めない",
+        "paragraphs": [
+          "2012年の国立現代美術館展は、31人の約150点を通して、1970年代以降の広がりを紹介しました。三人の初期作だけでは見えない、世代や時期による違いがあります。",
+          "繰り返しは精神的な集中としても語られますが、すべての作品を同じ宗教や「韓国人に共通する心」へ還元しません。材料、身体、展示、作家自身の説明を照らし合わせて考えます。静かに見えることと、制作や歴史が単純なことは別です。"
+        ],
+        "source_ids": [
+          "mmca-dansaekhwa-2012",
+          "kams-dansaekhwa-term"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1967年",
+        "event": "パク・ソボが《描法》シリーズを始める。",
+        "source_ids": [
+          "guggenheim-park55-73"
+        ]
+      },
+      {
+        "date": "1969年",
+        "event": "ハ・ジョンヒョンが韓国アヴァンギャルド協会（AG）の創設に参加。後の《接合》だけに限らない実験を行う。",
+        "source_ids": [
+          "ha-official-biography"
+        ]
+      },
+      {
+        "date": "1973年",
+        "event": "《描法No.55-73》と、ここで紹介するユンの《バーントアンバーとウルトラマリン》を制作。",
+        "source_ids": [
+          "guggenheim-park55-73",
+          "yun-official-1970s"
+        ]
+      },
+      {
+        "date": "1974年",
+        "event": "ハが《接合》シリーズを開始。《接合74-26》は初期の一作。",
+        "source_ids": [
+          "moma-ha7426",
+          "ha-official-biography"
+        ]
+      },
+      {
+        "date": "1975年",
+        "event": "東京画廊で五人の作家による「五つのヒンセク〈白〉」展。作品と批評が国境を越えて紹介される。",
+        "source_ids": [
+          "mmca-five-hinsek-1975"
+        ]
+      },
+      {
+        "date": "2000年",
+        "event": "用語辞典は、光州ビエンナーレ特別展でDansaekhwaの表記が使われたと記録。制作の始まりをこの年とはしない。",
+        "source_ids": [
+          "kams-dansaekhwa-term"
+        ]
+      },
+      {
+        "date": "2012年",
+        "event": "韓国国立現代美術館が「Dansaekhwa: Korean Monochrome Painting」展を開催。",
+        "source_ids": [
+          "mmca-dansaekhwa-2012"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "単色画（Dansaekhwa）",
+        "source_ids": [
+          "kams-dansaekhwa-term",
+          "yun-official-biography"
+        ],
+        "explanation": "韓国の1970年代を中心とする絵画の流れを説明する呼び名。使う色が厳密に一色だけという意味ではありません。"
+      },
+      {
+        "term": "描法（Ecriture）",
+        "source_ids": [
+          "guggenheim-park55-73"
+        ],
+        "explanation": "パク・ソボのシリーズ名。「書くこと」に関わる語ですが、読める文章が描かれているとは限りません。"
+      },
+      {
+        "term": "支持体（しじたい）",
+        "source_ids": [
+          "ha-official-biography"
+        ],
+        "explanation": "絵の具や線を受け止める土台。麻布の織り目のように、材料自体が画面の形に関わる場合があります。"
+      },
+      {
+        "term": "背面からの加圧",
+        "source_ids": [
+          "ha-official-biography"
+        ],
+        "explanation": "ハが、布の裏側から絵の具を押し、織り目を通して表へ出す方法。表から筆で塗る動作と比較できます。"
+      },
+      {
+        "term": "韓紙（ハンジ）",
+        "source_ids": [
+          "kams-park-biography",
+          "guggenheim-park55-73"
+        ],
+        "explanation": "韓国の紙。パクは1980年代以降の制作で積極的に取り入れました。ここで紹介する1973年の作品の支持体は、韓紙ではなくキャンバスです。"
+      }
+    ],
+    "artist_ids": [
+      "park-seo-bo",
+      "ha-chong-hyun",
+      "yun-hyong-keun"
+    ],
+    "title_segments": [
+      "韓国の単色画",
+      "（たんしょくが／",
+      "ダンセクファ）"
+    ],
+    "compact_title": true,
+    "title_emergency_wrap": true
   },
   {
     "name": "Taller de Gráfica Popular",

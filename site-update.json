@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02T17:28:00+09:00",
+  "updated_at": "2026-11-02T17:35:00+09:00",
   "timezone": "Asia/Tokyo",
   "meaning": "Page-specific substantive HTML/local presentation assets and explicitly fetched JSON hash; date markers excluded; homepage shows aggregate latest; original/source dates unchanged",
   "page_count": 94,
   "pages": {
-    "index.html": "2026-11-02T17:28:00+09:00",
+    "index.html": "2026-11-02T17:35:00+09:00",
     "timeline.html": "2026-11-02T16:43:00+09:00",
     "compare.html": "2026-11-02T09:03:00+09:00",
     "compiler.html": "2026-11-02T07:14:00+09:00",
@@ -69,7 +69,7 @@
     "entries/shinko-shashin.html": "2026-11-02T16:38:00+09:00",
     "entries/gutai.html": "2026-11-02T16:38:00+09:00",
     "entries/mono-ha.html": "2026-11-02T16:38:00+09:00",
-    "entries/dansaekhwa.html": "2026-11-02T16:38:00+09:00",
+    "entries/dansaekhwa.html": "2026-11-02T17:35:00+09:00",
     "entries/taller-grafica-popular.html": "2026-11-02T16:38:00+09:00",
     "entries/tropicalismo.html": "2026-11-02T16:38:00+09:00",
     "entries/negritude-visual-culture.html": "2026-11-02T16:38:00+09:00",
