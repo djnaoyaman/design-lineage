@@ -1958,8 +1958,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 22893,
-      "sha256": "89360f664e1edd1e7a7a41f28f6d6af75d0a4104fee84057735485adeb0cf7ba"
+      "bytes": 23127,
+      "sha256": "0b9ae8957298da69a41bd3d38b2a17915ca1672e4b14bfb186fbcce308a26028"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
