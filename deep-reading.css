@@ -21,3 +21,6 @@ footer .footer-brand img{max-width:100%;height:auto}
 
 /* Biography content must not inherit the compact image-record text size. */
 .artist-record{font-size:16px;line-height:1.95}
+
+/* Preserve complete collection identifiers when profile text is enlarged. */
+#article-artists li{overflow-wrap:anywhere}

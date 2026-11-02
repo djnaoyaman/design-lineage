@@ -1,8 +1,8 @@
 {
-  "release": "public-content-rinpa-20261102-1848",
+  "release": "public-content-rinpa-20261102-1901",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T18:48:00+09:00",
+  "frozen_at": "2026-11-02T19:01:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1378,8 +1378,8 @@
     },
     {
       "path": "deep-reading.css",
-      "bytes": 2401,
-      "sha256": "5b2278298b257639c58216d492c7641830664ae3a948fc321dfcd5524114b36e"
+      "bytes": 2524,
+      "sha256": "1cdb3d541116bfd2f263a01c37dce40123b38c5ba45869caa387023628162b84"
     },
     {
       "path": "entries.json",
@@ -1694,7 +1694,7 @@
     {
       "path": "entries/rinpa.html",
       "bytes": 70697,
-      "sha256": "ca09c732bafc1c7d58fa261d100c7ed249e6a8002bb3c50bb94b34fbbac5e278"
+      "sha256": "6c7a0f28c9a5ec1c9dd3868847ff08402b3eb9b735a1723419f5374ce49a4cb9"
     },
     {
       "path": "entries/risograph.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "4965ed39e575adaee74432cfd43bf03e74128e33c8e2f985f11bfb03dc75e23c"
+      "sha256": "e4ef752058a23dd6d1b6e528a0eeedc9b5dc9397b1d2ea351e15435fe91d98c7"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "560304092455c30a059da97e7d9959e113a73837c661ffa3008049861ff250ea"
+      "sha256": "76cc2458e7df337fcda50ccae980dac90f6672dac0990fed7c1400069ba2450d"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "b8fbf87fdbb91eaa3f0da3283ba15f64ed9e8e6efb73b4f0e5b2b57518a33540"
+      "sha256": "a6ff439e1ea850cb806d5dc6e0725eaababa4909de418a4902f071bdc953b4dc"
     },
     {
       "path": "study-images.js",
