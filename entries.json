@@ -9506,7 +9506,7 @@
       "composition": "Detroitの四方の壁、学校の玄関ホール、Cabañasの礼拝堂と丸天井、《América Tropical》の既存の窓などを含む屋外の壁を比べます。建物のどこから見るのかで、見え方はどう変わるでしょう。画像だけでなく、部分と全体のつながりや、建物の内外の視点が大切です。"
     },
     "comparison": "Detroitの作品は産業と労働を美術館へ、Reyesの作品は教師への暴力を学校へ、Orozcoの作品は歴史を礼拝堂と丸天井へ描き出します。Siqueirosの屋外作品では、社会への発言、検閲（けんえつ、発表内容を調べて制限すること）、素材の実験が関わり合います。多くの人へ届ける点は共通しても、政治の考え方や技法が一つだったわけではありません。作者、共同制作者、設置場所、見る人の関係を分けて見ます。ロシア構成主義とも、社会へ向けた表現という点で比べられます。ただし、制度、使う媒体、地域は異なります。共通点だけで直接の影響とは断定しません。",
-    "modern": "Gettyは、《América Tropical》が後のChicano（チカーノ、メキシコ系米国人）の運動で受け止められたことを記しています。これはこの作品についての記録で、4作すべてに共通する影響ではありません。1932年の制作、その後の段階的な白塗り、2012年の保存を経た公開を分けて見ます。社会への発言が消され、保存され、別の時代に読み直される過程も比較できます。",
+    "modern": "Gettyは、《América Tropical》が後のChicano（チカーノ、メキシコ系米国人）の運動で受け止められたことを記しています。これはこの作品についての記録で、ここで紹介するすべての作品に共通する影響ではありません。1932年の制作、その後の段階的な白塗り、2012年の保存を経た公開を分けて見ます。社会への発言が消され、保存され、別の時代に読み直される過程も比較できます。",
     "modern_section_label": "後の時代の見方と保存を考える",
     "source_ids": [
       "dia-detroit-north",
@@ -10051,8 +10051,8 @@
         "reproduction_rights_reviewed": true,
         "commercial_use_confirmed": true,
         "pixels_inspected": true,
-        "display_verified": false,
-        "status": "candidate_local_image",
+        "display_verified": true,
+        "status": "adopted_actual_image",
         "local_bytes": 474633,
         "width": 1484,
         "height": 835,

@@ -1,8 +1,8 @@
 {
-  "release": "public-content-mexican-muralism-20261102-1625",
+  "release": "public-content-mexican-muralism-20261102-1631",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T16:25:00+09:00",
+  "frozen_at": "2026-11-02T16:31:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 88,
@@ -33,8 +33,8 @@
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 348548,
-      "sha256": "33c9d596fde18a764d37d1ab01b42ca70749b60951f300a67cb59d11bec25b89"
+      "bytes": 348546,
+      "sha256": "4f9fc51a5543d2f5eefb283c54d1231baa26b1ee084786e98bae533127b3573a"
     },
     {
       "path": "analytics-status.json",
@@ -1313,8 +1313,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1745127,
-      "sha256": "fdbb3718eb247adbb3c0ff427c33af08735334633f2fc230f136a286ed41bae8"
+      "bytes": 1745151,
+      "sha256": "c9e40a1838b8548b870804c35443ebf0d8ec9904c66de45c0c34d825168228ba"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1513,8 +1513,8 @@
     },
     {
       "path": "entries/mexican-muralism.html",
-      "bytes": 53773,
-      "sha256": "ae38aca4b30f4b558a03fe32939dd746f08c57e02919ef1ccff0380abd830905"
+      "bytes": 53799,
+      "sha256": "71694f714c64b3c0f1016c6ffc363b49079914807f38ad46521624c2d8a283fd"
     },
     {
       "path": "entries/mid-century-modern.html",
@@ -1784,7 +1784,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "69e54ad50dd3b42fdc82c0506368fd3c55cbd7251df81b34d19c0ce88098ced6"
+      "sha256": "6fc03d2f105db97146ce4550eeea9b88e5cff870e5c61918c0be074cc32e6e52"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1849,7 +1849,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "31af5a43504ff67b5eca2d01bd1d8d513b887793723e131338abbc5c0ed1066c"
+      "sha256": "7ead6937f3f51eda31d6988933134a8ef506ebf358d629d52873167e75f1cd3f"
     },
     {
       "path": "site.webmanifest",
@@ -1859,7 +1859,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "4b7b65e863eac7ba68333d4673937f08425db489998e02a90f731ecf7717dd78"
+      "sha256": "92cc94c9413cb119d4f5bc0912ce2887794678932289987a7a35ac8afb4fc9d9"
     },
     {
       "path": "study-images.js",
