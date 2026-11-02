@@ -1,8 +1,8 @@
 {
-  "release": "public-content-ito-jakuchu-20261102-1653",
+  "release": "public-content-new-typography-20261102-1705",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T16:53:00+09:00",
+  "frozen_at": "2026-11-02T17:05:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -29,7 +29,7 @@
     {
       "path": "README.md",
       "bytes": 5098,
-      "sha256": "ce976e5238d7df231bc25e6b7ec0d7a9bde8c1930fcc194ce0dd53ba55ed316b"
+      "sha256": "87246b565301c87cbcf136da7fbd822a2e2587f2a98ba35a5d3f38352009818a"
     },
     {
       "path": "adopted-image-rights.json",
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 20602,
-      "sha256": "026d84fde614ac45acfe589161583fe16164d2ff0505646cd757d462b47ba5cf"
+      "bytes": 35289,
+      "sha256": "a29593a464d5f47da3029d727e710fb21703a800109568b2ee8262b13020841e"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1293,8 +1293,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 36950,
-      "sha256": "f9fb82b6f6ee720fb3128da74f245246d0d58126de324f58e847ee3dedc8eb97"
+      "bytes": 37006,
+      "sha256": "fdd81177c7401b1fa6fbbc0b097c4101ae6dd4f6cc1574d6921f3a652faf2b14"
     },
     {
       "path": "chapter-navigation.css",
@@ -1343,8 +1343,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1777647,
-      "sha256": "037879018c75d55f6cbc820d689c16ce5b757e374a9c7bd8920470daf21373cf"
+      "bytes": 1776821,
+      "sha256": "d7e4d8d3e8d39e9429297e88131d4a7d72748def2e894a8b51d71e231ec311e9"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1593,8 +1593,8 @@
     },
     {
       "path": "entries/new-typography.html",
-      "bytes": 28024,
-      "sha256": "6e13b542dd9f0e8898b4febfc5b72e0adc203aeca71d24142f9e3c5200279fe6"
+      "bytes": 44152,
+      "sha256": "7a5dbe657d18980108e41d845dfac76586862ab9cc2e01203514bf34651d22c1"
     },
     {
       "path": "entries/new-wave-typography.html",
@@ -1819,7 +1819,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "4e9ad2fe72e01697928f15359f333000d9159fd04e98d0555266e6b6aae45f8d"
+      "sha256": "2b1074385117a06d23be4ffbb2c9ba107441528ce19005b4dc3a95c3428541e6"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1828,8 +1828,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25527,
-      "sha256": "95c9ff77845fb6a1decea45eb6debfe824fb3304f72fe2c994fe66c63791ea45"
+      "bytes": 25667,
+      "sha256": "d5ab37104f9bfea8862c0620393c5448a94c421edc18f8d5cbb3d2ba7c707cc2"
     },
     {
       "path": "logo-provenance.json",
@@ -1884,7 +1884,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "95aeca8e7460dfacdcbe58d34c025a08c513ff91e7b08272ff32f7a3952e63a0"
+      "sha256": "f213d028de58557167beeec1a21d6d824a0bf943282b6f6dfb9858a482ce71a5"
     },
     {
       "path": "site.webmanifest",
@@ -1894,7 +1894,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "9b3feb350131739da0bcb07db704c1196b63f015e6279559efd987fb738ec0cf"
+      "sha256": "9323962219afdfecd12690529f4fea59add1562e57ec540b043058765297f096"
     },
     {
       "path": "study-images.js",
@@ -1938,8 +1938,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 21206,
-      "sha256": "dc6089184068d39fe8bf19e40758342ddc9802d79a4b5c68bdcef00e671b17fb"
+      "bytes": 21223,
+      "sha256": "55c96dde220ff57f41d888362ad8536476374bf63d9359a6cc116d3223333ee5"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",

@@ -450,6 +450,306 @@
           "description": "江戸時代の京都絵画の中で、若冲自身の作品と表現を扱います。琳派の画家として分類しません。"
         }
       ]
+    },
+    {
+      "id": "jan-tschichold",
+      "name_ja": "ヤン・チヒョルト",
+      "name_kana": "ヤン・チヒョルト",
+      "name_original": "Jan Tschichold",
+      "birth_year": 1902,
+      "death_year": 1974,
+      "short_bio": "ドイツに生まれた文字と本のデザイナー。雑誌や著書で新しい組版の考えを伝え、映画ポスターも制作しました。1933年にスイスへ移り、後には古典的な本づくりにも目を向けます。",
+      "representative_works": [
+        {
+          "id": "tschichold-new-typography-book-1928",
+          "title_ja": "ニュー・タイポグラフィ",
+          "title_original": "Die Neue Typographie",
+          "date_label": "1928年",
+          "start_year": 1928,
+          "end_year": 1928,
+          "work_type": "書籍・タイポグラフィの理論と実務",
+          "institution": "Bard Graduate Center（展覧会解説を参照）",
+          "source_url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+          "note": "1928年ベルリン刊行の著書。1925年の雑誌特集号とは別で、特定の所蔵個体を同定した記録ではありません。"
+        },
+        {
+          "id": "tschichold-woman-without-name-1927",
+          "title_ja": "名もなき女――映画ポスター",
+          "title_original": "Die Frau ohne Namen (The Woman Without a Name)",
+          "date_label": "1927年",
+          "start_year": 1927,
+          "end_year": 1927,
+          "work_type": "映画ポスター・フォトリトグラフ",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/5754",
+          "accession": "225.1978",
+          "dimensions": "123.8 × 86.4 cm",
+          "printer": "Gebrüder Obpacher AG, Munich",
+          "note": "ミュンヘンのフォイーブス・パラスト映画館のためのポスター。制作年と映画館の開館年は別です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dnb-tschichold-biography",
+          "institution": "ドイツ国立図書館・ドイツ書籍文字博物館",
+          "title": "Auf den Spuren eines Jahrhunderttypografen",
+          "url": "https://blog.dnb.de/nachlass-tschichold/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "bgc-new-typography",
+          "institution": "バード大学院センター",
+          "title": "Jan Tschichold and the New Typography",
+          "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-tschichold-woman-film",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Die Frau ohne Namen,225.1978",
+          "url": "https://www.moma.org/collection/works/5754",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "new-typography",
+          "role": "理論を整理し、制作と教育へつないだ人物",
+          "description": "各地のデザイナーと作品を交換・収集しました。後年の仕事まで、1920年代と同じ様式だったとはしません。"
+        }
+      ]
+    },
+    {
+      "id": "laszlo-moholy-nagy",
+      "name_ja": "ラースロー・モホリ＝ナジ",
+      "name_kana": "ラースロー・モホリ＝ナジ",
+      "name_original": "László Moholy-Nagy",
+      "birth_year": 1895,
+      "death_year": 1946,
+      "short_bio": "写真、映画、文字の関係を探った美術家・デザイナー。文字と写真を組み合わせる「タイポフォト」を試み、本の中でも読む順序や速さを変える構成を考えました。",
+      "representative_works": [
+        {
+          "id": "moholy-painting-photography-film-1925",
+          "title_ja": "絵画・写真・映画",
+          "title_original": "Malerei, Photographie, Film",
+          "date_label": "1925年",
+          "start_year": 1925,
+          "end_year": 1925,
+          "work_type": "書籍・著述とグラフィックデザイン",
+          "institution": "The Museum of Modern Art Library",
+          "source_url": "https://www.moma.org/interactives/objectphoto/publications/771.html",
+          "publisher": "Albert Langen Verlag, Munich",
+          "series": "Bauhausbücher",
+          "credit": "ラースロー・モホリ＝ナジ（MoMA記載の著者・デザイナー）",
+          "collaboration_note": "Letterform Archiveは、ルチア・モホリとともに書いたと説明しています。本文に収めた写真のすべてを、モホリ＝ナジ一人の撮影とはしません。",
+          "additional_source_urls": [
+            "https://exhibitions.letterformarchive.org/bauhaus/walkthroughs/typophoto-in-moholy-nagy-s-painting-photography-film"
+          ],
+          "note": "MoMA Libraryの1925年刊行本の書誌情報。1927年の改訂版や後年の翻訳・復刻と区別します。この記録の追加は画像取得を意味しません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-moholy-life",
+          "institution": "ニューヨーク近代美術館・写真研究資料",
+          "title": "László Moholy-Nagy",
+          "url": "https://www.moma.org/interactives/objectphoto/artists/4048.html",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-moholy-book1925",
+          "institution": "ニューヨーク近代美術館・図書館／写真研究資料",
+          "title": "Malerei, Photographie, Film",
+          "url": "https://www.moma.org/interactives/objectphoto/publications/771.html",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "letterform-typophoto",
+          "institution": "レターフォーム・アーカイブ",
+          "title": "Typophoto in Moholy-Nagy’s Painting, Photography, Film",
+          "url": "https://exhibitions.letterformarchive.org/bauhaus/walkthroughs/typophoto-in-moholy-nagy-s-painting-photography-film",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "bgc-new-typography",
+          "institution": "バード大学院センター",
+          "title": "Jan Tschichold and the New Typography",
+          "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "new-typography",
+          "role": "文字と写真の統合を探った人物",
+          "description": "バウハウスの出版とニュー・タイポグラフィの接点を示します。書籍への協力者と、個々の写真の作者を一人にまとめません。"
+        }
+      ]
+    },
+    {
+      "id": "herbert-bayer",
+      "name_ja": "ヘルベルト・バイヤー",
+      "name_kana": "ヘルベルト・バイヤー",
+      "name_original": "Herbert Bayer",
+      "birth_year": 1900,
+      "death_year": 1985,
+      "short_bio": "オーストリアに生まれ、バウハウスで教えたデザイナー・美術家。文字の形と紙面の配置を探り、のちに米国で広告や展示など幅広い仕事をしました。",
+      "representative_works": [
+        {
+          "id": "bayer-poelzig-lecture-1926",
+          "title_ja": "建築家ハンス・ペルツィヒのスライド講演――案内ポスター",
+          "title_original": "Architektur Lichtbilder Vortrag Professor Hans Poelzig",
+          "date_label": "1926年",
+          "start_year": 1926,
+          "end_year": 1926,
+          "work_type": "講演ポスター・活版印刷",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/5101",
+          "accession": "108.1968",
+          "dimensions": "48.6 × 65.1 cm",
+          "printer": "Bauhausdruck",
+          "note": "作者はバイヤー。ペルツィヒは講演者で、ポスター制作者ではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "saam-bayer-biography",
+          "institution": "スミソニアン・アメリカ美術館",
+          "title": "Herbert Bayer",
+          "url": "https://americanart.si.edu/artist/herbert-bayer-285",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-bayer-poelzig",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Architektur Lichtbilder Vortrag Professor Hans Poelzig,108.1968",
+          "url": "https://www.moma.org/collection/works/5101",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "bgc-new-typography",
+          "institution": "バード大学院センター",
+          "title": "Jan Tschichold and the New Typography",
+          "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "new-typography",
+          "role": "学校と実用印刷をつないだ人物",
+          "description": "1926年の講演ポスターを、非対称な情報配置の例として扱います。小文字だけを使う書体案と、大文字のこのポスターを区別します。"
+        }
+      ]
+    },
+    {
+      "id": "piet-zwart",
+      "name_ja": "ピート・ツワルト",
+      "name_kana": "ピート・ツワルト",
+      "name_original": "Piet Zwart",
+      "birth_year": 1885,
+      "death_year": 1977,
+      "short_bio": "オランダのデザイナー。映画祭のポスターなどで、直角の線、図形のような文字、原色を組み合わせました。チヒョルトと作品を交換した国際的な交流にも関わります。",
+      "representative_works": [
+        {
+          "id": "zwart-international-film-festival-1928",
+          "title_ja": "国際映画祭――ハーグの催しのポスター",
+          "title_original": "Internationale Tentoonstelling Op Filmgebied",
+          "date_label": "1928年",
+          "start_year": 1928,
+          "end_year": 1928,
+          "work_type": "映画祭ポスター・リトグラフ",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/5677",
+          "accession": "205.1968",
+          "dimensions": "107.9 × 77.7 cm",
+          "note": "MoMAがニュー・タイポグラフィ内のデ・ステイルからの影響を説明する作例です。二つの動きを同一視するものではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-zwart-biography",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Piet Zwart",
+          "url": "https://www.moma.org/artists/6592-piet-zwart",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-zwart-film",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Internationale Tentoonstelling Op Filmgebied,205.1968",
+          "url": "https://www.moma.org/collection/works/5677",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "bgc-new-typography",
+          "institution": "バード大学院センター",
+          "title": "Jan Tschichold and the New Typography",
+          "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "new-typography",
+          "role": "オランダで新しい印刷表現を実践した人物",
+          "description": "MoMAは映画祭ポスターをニュー・タイポグラフィの文脈で説明しています。デ・ステイルとの関係は影響として扱い、正式な会員という分類は加えません。"
+        }
+      ]
+    },
+    {
+      "id": "walter-dexel",
+      "name_ja": "ヴァルター・デクセル",
+      "name_kana": "ヴァルター・デクセル",
+      "name_original": "Walter Dexel",
+      "birth_year": 1890,
+      "death_year": 1973,
+      "short_bio": "ドイツのデザイナー。《現代の写真》のポスターでは、文字と背景の対比で、写真のネガを思わせる表現をつくりました。機械的に見える文字にも、手で彫る細かな作業があります。",
+      "representative_works": [
+        {
+          "id": "dexel-contemporary-photography-1929",
+          "title_ja": "現代の写真――写真展ポスター",
+          "title_original": "Fotografie der Gegenwart",
+          "date_label": "1929年",
+          "start_year": 1929,
+          "end_year": 1929,
+          "work_type": "写真展ポスター・リノカット",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/5153",
+          "accession": "126.1968",
+          "dimensions": "84.5 × 59.0 cm",
+          "printer": "W. Pfannkuch & Co., Magdeburg",
+          "note": "文字を一字ずつリノリウムに彫った印刷物。写真展の広告ですが、ポスター自体の技法は写真プリントではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-dexel-biography",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Walter Dexel",
+          "url": "https://www.moma.org/artists/1520-walter-dexel",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-dexel-photography",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Fotografie der Gegenwart,126.1968",
+          "url": "https://www.moma.org/collection/works/5153",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "new-typography",
+          "role": "この章の写真展ポスターを制作した人物",
+          "description": "対比と文字の配置を考える具体例の作者。写真展という題材と、手で版をつくる印刷技法の関係を見られます。"
+        }
+      ]
     }
   ]
 }
