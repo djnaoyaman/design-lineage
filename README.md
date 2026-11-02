@@ -33,3 +33,11 @@ AAGA｜AI Agent Generated ART。品質を最優先に、代表作品を敬意を
 この公開第一版では完成AAGAは0点です。原作を意図的に変えた旧試作は完成模写として公開せず私有保存。独自の様式比較図とAI制作接続図は、原作模写と別分類です。
 
 Bauhausの実画像3点は、学校の展覧会案内1点と1923年教員版画集の2葉です。家具・建築を含む全分野の画像が揃ったという意味ではありません。愛知県美術館の2画像は個別Public Domain Mark指定で、CC0とは区別します。
+
+## 記事の前後移動
+
+記事末尾の「図録の掲載順で読む」は `catalog.json` の一覧順です。年代や影響関係の順序ではありません。最初・最後で循環しません。左右キーは入力欄やリンクなどにフォーカスがない場合のみ有効です。タッチ移動は本文中央の短い水平操作のみで、縦スクロール、選択、画像・操作部品、画面端、拡大中では作動させません。ブラウザーの戻る操作やスクロールは取り消しません。アニメーションは使いません。
+
+`node tests/chapter-navigation-unit.cjs` と `python tests/chapter-navigation-static.py` が論理・静的検査です。`tests/chapter-navigation-browser.cjs` は通常の Playwright 環境とポート8793のサイトサーバーで別途実行します。単体検査だけでは実機操作の合格とはしません。
+
+記事レンダラーのCLIは `--site` の図録順と `--entries` の記事一覧から前後リンクを生成します。Pythonから `render` を直接呼ぶ場合は `scripts/chapter-navigation.py` の `navigation(site, slug, articles)` が返すHTMLを第4引数へ渡してください。別サイトの配列やテンプレートの前後リンクを流用しないでください。
