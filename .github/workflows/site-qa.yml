@@ -28,8 +28,10 @@ jobs:
       - run: node tests/chapter-navigation-unit.cjs
       - run: python tests/chapter-navigation-static.py
       - run: python tests/reader-copy-consistency.py
+      - run: node tests/swipe-hint-unit.cjs
       - run: npm test
       - run: node tests/chapter-navigation-browser.cjs
+      - run: node tests/swipe-hint-browser.cjs
       - name: Stop local site server
         if: always()
         run: |

@@ -1,0 +1,6 @@
+.chapter-swipe-hint{position:fixed;z-index:60;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);display:flex;align-items:center;gap:10px;width:max-content;max-width:calc(100vw - 32px);padding:12px 19px;border:1px solid rgba(255,255,255,.2);border-radius:18px;background:rgba(32,33,33,.94);color:#faf9f5;box-shadow:0 8px 30px rgba(0,0,0,.16);font-size:13px;line-height:1.6;letter-spacing:.025em;pointer-events:none;user-select:none;animation:swipe-hint-life 3.6s ease both}
+.chapter-swipe-hint span{min-width:0}.swipe-hint-icon{width:82px;height:40px;flex:none;overflow:visible}.swipe-hint-arrows{opacity:.6}.swipe-hint-hand{animation:swipe-hint-hand 1.25s ease-in-out 2;transform-origin:center}
+@keyframes swipe-hint-hand{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}70%{transform:translateX(8px)}}
+@keyframes swipe-hint-life{0%{opacity:0}8%,84%{opacity:1}100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.swipe-hint-hand{animation:none}}
+@media(max-width:360px){.chapter-swipe-hint{padding:11px 14px;gap:6px;font-size:12px}.swipe-hint-icon{width:70px}}
