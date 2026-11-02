@@ -750,6 +750,261 @@
           "description": "対比と文字の配置を考える具体例の作者。写真展という題材と、手で版をつくる印刷技法の関係を見られます。"
         }
       ]
+    },
+    {
+      "id": "ludwig-mies-van-der-rohe",
+      "name_ja": "ルートヴィヒ・ミース・ファン・デル・ローエ",
+      "name_kana": "ルートヴィヒ・ミース・ファン・デル・ローエ",
+      "name_original": "Ludwig Mies van der Rohe",
+      "birth_year": 1886,
+      "death_year": 1969,
+      "short_bio": "ドイツに生まれ、米国でも活動した建築家。トゥーゲントハット邸では、構造の骨組みと室内を仕切る面を組み合わせ、空間のつながりを考えました。",
+      "representative_works": [
+        {
+          "id": "tugendhat-house",
+          "title_ja": "トゥーゲントハット邸",
+          "title_original": "Tugendhat House",
+          "date_label": "1929〜1930年",
+          "start_year": 1929,
+          "end_year": 1930,
+          "work_type": "住宅建築本体",
+          "institution": "チェコ・ブルノ",
+          "source_url": "https://whc.unesco.org/en/list/1052/",
+          "note": "1930年完成。1932年など別年の模型や、2012年の撮影日とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-mies-biography",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Ludwig Mies van der Rohe",
+          "url": "https://www.moma.org/artists/7166-ludwig-mies-van-der-rohe",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "unesco-tugendhat",
+          "institution": "ユネスコ世界遺産センター",
+          "title": "Tugendhat Villa in Brno",
+          "url": "https://whc.unesco.org/en/list/1052/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "international-style",
+          "role": "中心的な建築家",
+          "description": "インターナショナル・スタイルの重要な住宅例を設計。建物、家具、模型、写真は別の対象として記録します。"
+        }
+      ]
+    },
+    {
+      "id": "le-corbusier",
+      "name_ja": "ル・コルビュジエ",
+      "name_kana": "ル・コルビュジエ",
+      "name_original": "Le Corbusier (Charles-Édouard Jeanneret)",
+      "birth_year": 1887,
+      "death_year": 1965,
+      "short_bio": "スイスに生まれ、フランスで活動した建築家。サヴォア邸ではピエール・ジャンヌレとともに、柱、窓、屋上庭園やスロープを組み合わせ、新しい住宅の空間を示しました。",
+      "representative_works": [
+        {
+          "id": "villa-savoye-building",
+          "title_ja": "サヴォア邸",
+          "title_original": "Villa Savoye",
+          "date_label": "設計1928年／引き渡し1931年",
+          "start_year": 1928,
+          "end_year": 1931,
+          "work_type": "住宅建築本体",
+          "institution": "Poissy, France",
+          "source_url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/",
+          "note": "ル・コルビュジエとピエール・ジャンヌレの共同設計。章で紹介する1932年のMoMA模型48.1932とは別の物件です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-savoye-model",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Villa Savoye, scale model 1:33.3, 48.1932",
+          "url": "https://www.moma.org/collection/works/82339",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "flc-savoye-building",
+          "institution": "ル・コルビュジエ財団",
+          "title": "Villa Savoye and Gardener’s Lodge",
+          "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "international-style",
+          "role": "住宅の設計原理を示した建築家",
+          "description": "初期の住宅と五原則を扱います。後年を含む全作品を、一つの様式だけに分類するものではありません。"
+        }
+      ]
+    },
+    {
+      "id": "walter-gropius",
+      "name_ja": "ヴァルター・グロピウス",
+      "name_kana": "ヴァルター・グロピウス",
+      "name_original": "Walter Gropius",
+      "birth_year": 1883,
+      "death_year": 1969,
+      "short_bio": "バウハウスを創設し、1919〜1928年に校長を務めた建築家。デッサウ校舎を設計し、教育、工房、工業生産を結びつけました。のちに米国でも建築と教育に携わります。",
+      "representative_works": [
+        {
+          "id": "bauhaus-dessau-building",
+          "title_ja": "バウハウス・デッサウ校舎",
+          "title_original": "Bauhaus Building, Dessau",
+          "date_label": "1925〜1926年",
+          "start_year": 1925,
+          "end_year": 1926,
+          "work_type": "学校建築本体",
+          "institution": "バウハウス・デッサウ財団",
+          "source_url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+          "note": "グロピウスの個人事務所と複数の協力者が計画・実現を担いました。学校の工房も室内に参加しています。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bauhaus-gropius-biography",
+          "institution": "バウハウス・コオペラツィオン",
+          "title": "Walter Gropius",
+          "url": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "dessau-locations",
+          "institution": "バウハウス・デッサウ財団",
+          "title": "Locations",
+          "url": "https://bauhaus-dessau.de/en/venues/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "dessau-building",
+          "institution": "バウハウス・デッサウ財団",
+          "title": "Bauhaus Building",
+          "url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "international-style",
+          "role": "建築と教育をつないだ人物",
+          "description": "デッサウ校舎を通して近代建築の空間を考えます。バウハウスの全活動が、この様式名に収まるわけではありません。"
+        }
+      ]
+    },
+    {
+      "id": "natalie-de-blois",
+      "name_ja": "ナタリー・ド・ブロワ",
+      "name_kana": "ナタリー・ド・ブロワ",
+      "name_original": "Natalie de Blois (Natalie Griffin de Blois)",
+      "birth_year": 1921,
+      "death_year": 2013,
+      "short_bio": "SOMでバンシャフトらと協働し、リーバー・ハウスなどの設計と建設に携わった米国の建築家。後には教育に取り組み、建築の分野で働く女性のためにも活動しました。",
+      "representative_works": [
+        {
+          "id": "lever-house-building",
+          "title_ja": "リーバー・ハウス",
+          "title_original": "Lever House",
+          "date_label": "1952年完成",
+          "start_year": 1952,
+          "end_year": 1952,
+          "work_type": "オフィス建築本体",
+          "institution": "New York, United States",
+          "source_url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+          "note": "SOMでゴードン・バンシャフトとナタリー・ド・ブロワが担った仕事。共同クレジットはMoMA模型記録730.1959も参照。模型作者セオドア・コンラッドとは役割が異なります。",
+          "additional_source_urls": [
+            "https://www.moma.org/collection/works/82490"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "vt-deblois-biography",
+          "institution": "バージニア工科大学・特別コレクション／大学文書館",
+          "title": "De Blois, Natalie, 1921–2013",
+          "url": "https://aspace.lib.vt.edu/agents/people/1438",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-lever-model",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Lever House, scale model, 730.1959",
+          "url": "https://www.moma.org/collection/works/82490",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "pritzker-bunshaft-biography",
+          "institution": "プリツカー建築賞",
+          "title": "Gordon Bunshaft",
+          "url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "international-style",
+          "role": "戦後の企業建築を担った建築家",
+          "description": "初期の欧州の活動家と同じ役割にせず、米国の戦後展開に関わる人物として紹介します。共同制作のクレジットを省きません。"
+        }
+      ]
+    },
+    {
+      "id": "gordon-bunshaft",
+      "name_ja": "ゴードン・バンシャフト",
+      "name_kana": "ゴードン・バンシャフト",
+      "name_original": "Gordon Bunshaft",
+      "birth_year": 1909,
+      "death_year": 1990,
+      "short_bio": "SOMで長く活動した米国の建築家。リーバー・ハウスなどを通じ、近代的な企業の仕事場をかたちにしました。作品は共同者や設計事務所との関係も含めて読みます。",
+      "representative_works": [
+        {
+          "id": "lever-house-building",
+          "title_ja": "リーバー・ハウス",
+          "title_original": "Lever House",
+          "date_label": "1952年完成",
+          "start_year": 1952,
+          "end_year": 1952,
+          "work_type": "オフィス建築本体",
+          "institution": "New York, United States",
+          "source_url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+          "note": "SOMでゴードン・バンシャフトとナタリー・ド・ブロワが担った仕事。共同クレジットはMoMA模型記録730.1959も参照。模型作者セオドア・コンラッドとは役割が異なります。",
+          "additional_source_urls": [
+            "https://www.moma.org/collection/works/82490"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "pritzker-bunshaft-biography",
+          "institution": "プリツカー建築賞",
+          "title": "Gordon Bunshaft",
+          "url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-lever-model",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Lever House, scale model, 730.1959",
+          "url": "https://www.moma.org/collection/works/82490",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "international-style",
+          "role": "戦後の企業建築を担った建築家",
+          "description": "リーバー・ハウスを、1950年代の米国への展開例として扱います。建物を一人だけの仕事として説明しません。"
+        }
+      ]
     }
   ]
 }
