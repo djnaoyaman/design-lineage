@@ -696,7 +696,18 @@
         "布の中で、同じ鳥や花はどこにくり返されていますか。",
         "本のページでは、文字と絵のまわりにどれくらい空きがありますか。"
       ]
-    }
+    },
+    "artist_ids": [
+      "william-morris",
+      "philip-webb",
+      "jane-morris",
+      "kate-faulkner",
+      "charles-robert-ashbee"
+    ],
+    "organization_ids": [
+      "morris-and-co",
+      "guild-of-handicraft"
+    ]
   },
   {
     "name": "Art Nouveau",
@@ -5047,7 +5058,12 @@
         "ポスターを見るなら、最初に目に入る文字は、ほかの文字と何が違うでしょう。",
         "写真のあるポスターと、文字だけのポスターでは、目の動きがどう変わるでしょう。"
       ]
-    }
+    },
+    "artist_ids": [
+      "josef-muller-brockmann",
+      "armin-hofmann",
+      "carlo-vivarelli"
+    ]
   },
   {
     "name": "Postmodernism",
@@ -6144,7 +6160,18 @@
         "いすを見るなら、体を支えるところは何でできているでしょう。",
         "ポスターを見るなら、どの文字が最初に目に入りますか。"
       ]
-    }
+    },
+    "artist_ids": [
+      "walter-gropius",
+      "laszlo-moholy-nagy",
+      "herbert-bayer",
+      "wassily-kandinsky",
+      "paul-klee",
+      "marcel-breuer",
+      "marianne-brandt",
+      "joost-schmidt",
+      "oskar-schlemmer"
+    ]
   },
   {
     "name": "琳派",
@@ -14035,7 +14062,20 @@
         "会館の写真で、屋根の丸い飾りと、その下の白い壁を見比べてみましょう。",
         "ポスターの文字は、どこに集まっていますか。何もかいていない場所も探してみましょう。"
       ]
-    }
+    },
+    "artist_ids": [
+      "gustav-klimt",
+      "koloman-moser",
+      "joseph-maria-olbrich",
+      "alfred-roller",
+      "peter-behrens",
+      "leopold-kainradl",
+      "josef-hoffmann"
+    ],
+    "organization_ids": [
+      "albert-berger-kunstanstalt",
+      "portois-and-fix"
+    ]
   },
   {
     "name": "HfG Ulm",
@@ -17201,7 +17241,16 @@
         "金属の器と布の服では、飾りのつくり方がどう違いますか。"
       ]
     },
-    "representative_count": 5
+    "representative_count": 5,
+    "artist_ids": [
+      "dagobert-peche",
+      "vally-wieselthier",
+      "mathilde-floegl",
+      "koloman-moser"
+    ],
+    "organization_ids": [
+      "wiener-werkstaette"
+    ]
   },
   {
     "name": "Material Design",
@@ -22835,6 +22884,10 @@
       "moma-kunstkredit",
       "moma-greiman-dq",
       "moma-sevenpixels"
+    ],
+    "artist_ids": [
+      "wolfgang-weingart",
+      "april-greiman"
     ]
   },
   {

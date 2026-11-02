@@ -1,8 +1,8 @@
 {
-  "release": "public-content-surrealism-20261102-1942",
+  "release": "public-content-arts-and-crafts-20261102-1949",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T19:42:00+09:00",
+  "frozen_at": "2026-11-02T19:49:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 159938,
-      "sha256": "6b33e23c1b5d6df478295b8b9047f69ca3a4c441e3aedd64a048f7dc4fc39d60"
+      "bytes": 268941,
+      "sha256": "06e157144c64d990ef836c8c563b0002bc4551d4435adaba613dc4bee0bb784c"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1388,8 +1388,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1865560,
-      "sha256": "baf9aff71d193fe85c8ac5c7f4ab9e249baec2c436016cbc02e259434d24e2b0"
+      "bytes": 1866690,
+      "sha256": "94a29aa55853bf709ad84c3e005311a284cc507a1af2cad0c398317061a72397"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1413,13 +1413,13 @@
     },
     {
       "path": "entries/arts-and-crafts.html",
-      "bytes": 44222,
-      "sha256": "b710c6f3ceea93fa283065e56122bd6658aee99024a76ca6e8e987664f23f6c8"
+      "bytes": 56752,
+      "sha256": "2173b39548c97751d1d4a7c206aaf6463f9d6970d0af137c9c90727321779bbf"
     },
     {
       "path": "entries/bauhaus.html",
-      "bytes": 50925,
-      "sha256": "89aed663c81659d952e6411d8bee8a659c50efe323a76cfebc3ab646ea2c6f9f"
+      "bytes": 68239,
+      "sha256": "977ebc6c601a05d79fcc55859486052b33a1264c80c85ce8762afe9dbc0d0031"
     },
     {
       "path": "entries/bengal-school.html",
@@ -1538,8 +1538,8 @@
     },
     {
       "path": "entries/international-style.html",
-      "bytes": 46593,
-      "sha256": "131a0bc6dea7ef3038e6abed28ff64f2cddeba4c91cfdb36f98a31d29d76da4e"
+      "bytes": 47313,
+      "sha256": "8a32971b9007a0cce2f9429a7eed09a98141abef11894be713d765e0c058789c"
     },
     {
       "path": "entries/isotype.html",
@@ -1638,13 +1638,13 @@
     },
     {
       "path": "entries/new-typography.html",
-      "bytes": 49113,
-      "sha256": "b112e642f154f123a08c821fbfbfe0defd1074bd91a91df511f897e17b72535e"
+      "bytes": 50553,
+      "sha256": "4c030581510646d57d6348a0807557647a58174f3c8549462e0ced25bc5241fc"
     },
     {
       "path": "entries/new-wave-typography.html",
-      "bytes": 15424,
-      "sha256": "0dbb491c579f8aab4ac77e995c2cf093d46f86dd2a8d091ee2f6c3221fa331e3"
+      "bytes": 19929,
+      "sha256": "2a67ce03f002260c54d31dc10a67755044839a8f7053c091e13a59266f95bf22"
     },
     {
       "path": "entries/nid-ahmedabad.html",
@@ -1773,8 +1773,8 @@
     },
     {
       "path": "entries/swiss-style.html",
-      "bytes": 24717,
-      "sha256": "6e579f37c754b65c3d9f95f8fbd6f158a3d73967bcc835cdf9670e03e09cb273"
+      "bytes": 30154,
+      "sha256": "3765274f5a05f8486c05d083cc5f6ed1c8e55cd1bb11fb694ba42f4483719f9f"
     },
     {
       "path": "entries/taller-grafica-popular.html",
@@ -1808,8 +1808,8 @@
     },
     {
       "path": "entries/vienna-secession.html",
-      "bytes": 31393,
-      "sha256": "a7e829803eb185c3c23f5a5628b727d29a5dc704f54d9fc4f6817153051c1c7f"
+      "bytes": 46135,
+      "sha256": "106c9977ade11d31c8998f0984b6226497da9775a169c30b1fa10cc8cf74452b"
     },
     {
       "path": "entries/vkhutemas.html",
@@ -1828,8 +1828,8 @@
     },
     {
       "path": "entries/wiener-werkstaette.html",
-      "bytes": 26510,
-      "sha256": "2aaaf16842c506cefc73a2f8b00db8cefdef000b8ad8633eb3654298ebc3ece8"
+      "bytes": 37318,
+      "sha256": "272fb7038222e6b2e199134d7bf6eee2b678be2687dadbc54cb9b61c4f5f02e9"
     },
     {
       "path": "entries/y2k-revival.html",
@@ -1864,7 +1864,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "429618806f40abd1e15d7b7df0b7438ce4436156d8e2cf912ddc2858a3fd58c6"
+      "sha256": "10f1593b2f39259c4cb66536859f26a8937222b5badada867d0dca4983c5c3d6"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1873,8 +1873,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 26149,
-      "sha256": "87e610f786cd87294e0c72d2bfc2163afc366f8f27b0e366fa485f7b7bd145eb"
+      "bytes": 26640,
+      "sha256": "c75331d7966db2882875b5031f14567e51de9fcf5e96c40598b7942318c6cb09"
     },
     {
       "path": "logo-provenance.json",
@@ -1929,7 +1929,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "2c2fdaac77123afbb2417e98a573b6bceb0193f3877b50ee0fcac793ddaac198"
+      "sha256": "2a7f4a48ae755a5601cf9ade73bc55398d644c6a3038ffd8ed66186d5d4e0065"
     },
     {
       "path": "site.webmanifest",
@@ -1939,7 +1939,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "d638caf2118c7d7f8e14cb42419e8df5332b02804e21b64f3653dfa9e1c251af"
+      "sha256": "f2acdc533a9913c9f1a870b9e9e0406975e88321eb1c5c757871df509e8151fb"
     },
     {
       "path": "study-images.js",
@@ -1983,8 +1983,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 27474,
-      "sha256": "fc2a498029b1231fcda3d7affe318a7443c9a097afcb89989a3a41f7f35e8eae"
+      "bytes": 29950,
+      "sha256": "c9a1c9fe4d3cd7e76c7bd0da50975dbe2c229f48024de0bfa0ac8fe6e4924ee2"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
