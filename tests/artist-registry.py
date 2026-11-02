@@ -3,6 +3,7 @@ import json,re
 from pathlib import Path
 from urllib.parse import urlparse
 from html.parser import HTMLParser
+from html import escape as html_escape
 class Document(HTMLParser):
  def __init__(self,text):
   super().__init__();self.ids=[];self.links=[];self.feed(text)
@@ -32,7 +33,7 @@ for e in entries:
  text=Path('entries',e['slug']+'.html').read_text();html=Document(text)
  assert sum(x.startswith('artist-') for x in html.ids)==len(ids)
  for ident in ids:
-  p=next(p for p in records if p['id']==ident);assert 'artist-'+ident in html.ids and p['short_bio'] in text
+  p=next(p for p in records if p['id']==ident);assert 'artist-'+ident in html.ids and html_escape(p['short_bio'],quote=True) in text
   for source in p['sources']:assert source['url'] in html.links
   for work in p['representative_works']:assert work['source_url'] in html.links
   for key in ['life_dates_label','date_note','date_label']:

@@ -4551,6 +4551,11 @@
           "chapter_id": "new-wave-typography",
           "role": "文字と画像にデジタル技術を取り入れたデザイナー",
           "description": "雑誌の折り込みと講演会のポスターから、印刷物の形式や制作技術を広げる仕事を見られます。"
+        },
+        {
+          "chapter_id": "postmodernism",
+          "role": "文字とデジタル画像を組み合わせたグラフィックデザイナー",
+          "description": "ニュー・ウェイヴの章と同じ1986年の特別号を参照し、印刷物の形式や表現の重なりを比べます。"
         }
       ]
     },
@@ -6130,6 +6135,443 @@
           "description": "住宅の協働者として紹介し、施主というだけで設計への参加を見落とさないようにします。"
         }
       ]
+    },
+    {
+      "id": "robert-venturi",
+      "entity_type": "person",
+      "name_ja": "ロバート・ヴェンチューリ",
+      "name_kana": "ロバート・ヴェンチューリ",
+      "name_original": "Robert Venturi",
+      "birth_year": 1925,
+      "death_year": 2018,
+      "short_bio": "建築の歴史や身近な文化を取り入れ、単純に割り切れない形や意味を考えた米国の建築家。母のための住宅では、昔からある家の形をそのまま繰り返すのではなく、組み替えて用いました。",
+      "representative_works": [
+        {
+          "id": "vanna-venturi-1964",
+          "title_ja": "ヴァンナ・ヴェンチューリ邸",
+          "title_original": "Vanna Venturi House",
+          "date_label": "1962〜1964年建設",
+          "work_type": "住宅建築",
+          "institution": "ドイツ建築博物館（資料所蔵）",
+          "source_url": "https://sammlungen.dam-online.de/detail/collection/b3c6c1b0-ed44-4a4c-8a4c-aff3c5f51cfb",
+          "creator_role": "建築設計",
+          "note": "住宅の設計を紹介します。出典の庭園計画図は1964年7月22日付で、住宅そのものや掲載された2010年の外観写真とは異なる資料です。関係者全員が同じ設計部分を担当したとは限りません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-venturi-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ロバート・ヴェンチューリ：作家情報",
+          "url": "https://www.moma.org/artists/6132-robert-venturi",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "dam-venturi-bio",
+          "institution": "ドイツ建築博物館",
+          "title": "ロバート・ヴェンチューリの略歴",
+          "url": "https://sammlungen.dam-online.de/detail/person/cd44b619-e181-46da-9b0a-dfa359046ff5",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "dam-vanna-garden-drawing",
+          "institution": "ドイツ建築博物館",
+          "title": "ヴァンナ・ヴェンチューリ邸の庭園計画図",
+          "url": "https://sammlungen.dam-online.de/detail/collection/b3c6c1b0-ed44-4a4c-8a4c-aff3c5f51cfb",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "postmodernism",
+          "role": "住宅と建築理論を通じて新しい見方を示した建築家",
+          "description": "住宅、設計資料、後年の写真を分けて、建築の考え方を見ます。"
+        }
+      ]
+    },
+    {
+      "id": "ettore-sottsass",
+      "entity_type": "person",
+      "name_ja": "エットレ・ソットサス",
+      "name_kana": "エットレ・ソットサス",
+      "name_original": "Ettore Sottsass",
+      "birth_year": 1917,
+      "death_year": 2007,
+      "short_bio": "イタリアで活動した建築家・デザイナー。メンフィスの活動を率い、家具や日用品に鮮やかな色、意外な材料、飾りを取り入れました。《カールトン》は家具の用途と彫刻のような姿を重ねた仕事です。",
+      "representative_works": [
+        {
+          "id": "carlton-room-divider-met-1997-460-1a-d",
+          "title_ja": "カールトン：間仕切り家具",
+          "title_original": "\"Carlton\" Room Divider",
+          "date_label": "1981年（メトロポリタン美術館の所蔵個体）",
+          "work_type": "家具・間仕切り",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/486989",
+          "creator_role": "設計",
+          "accession": "1997.460.1a–d",
+          "manufacturer": "メンフィス・ミラノ",
+          "medium": "木、プラスチックの化粧板",
+          "note": "本棚、引き出し、間仕切りを組み合わせた家具。1997年は寄贈に関わる年で、作品年ではありません。別年の製品や復刻とは所蔵個体を分けて扱います。",
+          "credits": [
+            {
+              "artist_id": "ettore-sottsass",
+              "role": "設計"
+            },
+            {
+              "artist_id": "memphis-milano",
+              "role": "製造"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-carlton-exact",
+          "institution": "メトロポリタン美術館",
+          "title": "カールトン（1997.460.1a–d）",
+          "url": "https://www.metmuseum.org/art/collection/search/486989",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "design-museum-memphis",
+          "institution": "デザイン・ミュージアム",
+          "title": "メンフィスの活動と作品",
+          "url": "https://designmuseum.org/memphis",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "postmodernism",
+          "role": "家具の役目と形の意味を問い直したデザイナー",
+          "description": "メンフィスという特定の集団の仕事から、より広いポストモダニズムとの関係を考えます。"
+        },
+        {
+          "chapter_id": "memphis",
+          "role": "メンフィスの活動を率いた建築家・デザイナー",
+          "description": "《カールトン》の設計を、ほかの参加者の家具や照明と並べて見ます。"
+        }
+      ]
+    },
+    {
+      "id": "michael-graves",
+      "entity_type": "person",
+      "name_ja": "マイケル・グレイヴス",
+      "name_kana": "マイケル・グレイヴス",
+      "name_original": "Michael Graves",
+      "birth_year": 1934,
+      "death_year": 2015,
+      "short_bio": "米国の建築家。ポートランドの行政庁舎では、古典建築の柱などを思わせる大きな形や色を使い、公共の建物の表情をつくりました。建物が伝える意味と、人が働く場所としての役割を合わせて考える例です。",
+      "representative_works": [
+        {
+          "id": "graves-portland-building-1982",
+          "title_ja": "ポートランド・ビルディング",
+          "title_original": "Portland Building",
+          "date_label": "1982年完成／改修後の使用再開：2020年",
+          "work_type": "行政庁舎",
+          "institution": "ポートランド市",
+          "source_url": "https://www.portland.gov/fleet-and-facilities/facilities/portland-building",
+          "creator_role": "当初設計の主担当",
+          "note": "グレイヴスによる当初設計と、DLRグループなどによる後の改修は別の仕事です。協力設計のエメリー・ロス＆サンズは設計事務所。玄関上の彫刻《ポートランディア》はレイ・カスキーの別作品です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-graves-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "マイケル・グレイヴス：作家情報",
+          "url": "https://www.moma.org/artists/2308-michael-graves",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "portland-official-building",
+          "institution": "ポートランド市",
+          "title": "ポートランド・ビルディング",
+          "url": "https://www.portland.gov/fleet-and-facilities/facilities/portland-building",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "graves-portland-team",
+          "institution": "マイケル・グレイヴス設計事務所",
+          "title": "ポートランド・ビルディングの設計と改修",
+          "url": "https://michaelgraves.com/legacy-project/the-portland-building/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "portland-monograph-firm",
+          "institution": "ポートランド市",
+          "title": "ポートランド・ビルディングの歴史",
+          "url": "https://www.portland.gov/omf/documents/portland-building-monograph/download",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "postmodernism",
+          "role": "公共建築を設計した建築家",
+          "description": "当初の設計、協力した設計事務所、後年の改修を分けて紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "martine-bedin",
+      "entity_type": "person",
+      "name_ja": "マルティーヌ・ベダン",
+      "name_kana": "マルティーヌ・ベダン",
+      "name_original": "Martine Bedin",
+      "birth_year": 1957,
+      "death_year": null,
+      "short_bio": "フランスに生まれたデザイナー。メンフィスの最初のコレクションに参加しました。《スーパー》では、照明の形に遊びを取り入れています。設計した人と、試作品を実際に製作した人の分担も見られます。",
+      "representative_works": [
+        {
+          "id": "bedin-super-prototype-vam-m1-2011",
+          "title_ja": "スーパー（照明の試作品）",
+          "title_original": "Super lamp prototype",
+          "date_label": "1981年（V&A解説）／1977〜1981年頃（同館の所蔵品一覧）",
+          "work_type": "照明・試作品",
+          "institution": "ヴィクトリア＆アルバート博物館（V&A）",
+          "source_url": "https://www.vam.ac.uk/articles/what-is-postmodernism",
+          "creator_role": "メンフィスのための設計",
+          "accession": "M.1-2011",
+          "note": "ベダンの設計をチェラーティが製作した試作品。V&Aの資料には年代の表記差があるため併記しています。製品としての《スーパー》や、別館の個体とは区別します。",
+          "credits": [
+            {
+              "artist_id": "martine-bedin",
+              "role": "設計"
+            },
+            {
+              "artist_id": "fausto-celati",
+              "role": "試作品の製作"
+            }
+          ]
+        },
+        {
+          "id": "bedin-super-design-1981",
+          "title_ja": "スーパー",
+          "title_original": "Super",
+          "date_label": "1981年（デザイン）",
+          "work_type": "照明のデザイン",
+          "institution": "デザイン・ミュージアム",
+          "source_url": "https://designmuseum.org/memphis",
+          "creator_role": "設計",
+          "note": "メンフィスの照明デザイン。ここではデザインの発表年を扱い、V&Aの試作品M.1-2011の年代や製作者を、すべての製品へ当てはめません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "pompidou-bedin-life",
+          "institution": "ポンピドゥー・センター",
+          "title": "マルティーヌ・ベダン：作者情報",
+          "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cKL5jo",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "design-museum-memphis",
+          "institution": "デザイン・ミュージアム",
+          "title": "メンフィスの活動と作品",
+          "url": "https://designmuseum.org/memphis",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vam-postmodern-intro",
+          "institution": "ヴィクトリア＆アルバート博物館（V&A）",
+          "title": "ポストモダニズムとは",
+          "url": "https://www.vam.ac.uk/articles/what-is-postmodernism",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vam-postmodern-collection",
+          "institution": "ヴィクトリア＆アルバート博物館（V&A）",
+          "title": "ポストモダニズムの所蔵作品",
+          "url": "https://www.vam.ac.uk/collections/postmodernism",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "1957年生まれ",
+      "life_status": "unknown",
+      "death_year_status": "参照した一次資料に没年の記載なし。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "postmodernism",
+          "role": "メンフィスの照明を設計したデザイナー",
+          "description": "試作品と製品を区別し、設計と製作の協働を見ます。"
+        },
+        {
+          "chapter_id": "memphis",
+          "role": "最初のコレクションに参加したデザイナー",
+          "description": "照明《スーパー》のデザインを紹介します。V&Aの試作品とは、記録の対象を分けます。"
+        }
+      ]
+    },
+    {
+      "id": "fausto-celati",
+      "entity_type": "person",
+      "name_ja": "ファウスト・チェラーティ",
+      "name_kana": "ファウスト・チェラーティ",
+      "name_original": "Fausto Celati",
+      "birth_year": null,
+      "death_year": null,
+      "short_bio": "V&A所蔵の照明《スーパー》の試作品を製作した人物。設計者はマルティーヌ・ベダンです。図案を考える仕事と、それを実物にする仕事の分担を伝える製作者として紹介します。",
+      "representative_works": [
+        {
+          "id": "bedin-super-prototype-vam-m1-2011",
+          "title_ja": "スーパー（照明の試作品）",
+          "title_original": "Super lamp prototype",
+          "date_label": "1981年（V&A解説）／1977〜1981年頃（同館の所蔵品一覧）",
+          "work_type": "照明・試作品",
+          "institution": "ヴィクトリア＆アルバート博物館（V&A）",
+          "source_url": "https://www.vam.ac.uk/articles/what-is-postmodernism",
+          "creator_role": "試作品の製作",
+          "accession": "M.1-2011",
+          "note": "ベダンの設計をチェラーティが製作した試作品。V&Aの資料には年代の表記差があるため併記しています。製品としての《スーパー》や、別館の個体とは区別します。",
+          "credits": [
+            {
+              "artist_id": "martine-bedin",
+              "role": "設計"
+            },
+            {
+              "artist_id": "fausto-celati",
+              "role": "試作品の製作"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "vam-postmodern-intro",
+          "institution": "ヴィクトリア＆アルバート博物館（V&A）",
+          "title": "ポストモダニズムとは",
+          "url": "https://www.vam.ac.uk/articles/what-is-postmodernism",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vam-postmodern-collection",
+          "institution": "ヴィクトリア＆アルバート博物館（V&A）",
+          "title": "ポストモダニズムの所蔵作品",
+          "url": "https://www.vam.ac.uk/collections/postmodernism",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "生没年未詳",
+      "life_status": "unknown",
+      "death_year_status": "unknown",
+      "birth_year_status": "unknown",
+      "chapter_relationships": [
+        {
+          "chapter_id": "postmodernism",
+          "role": "照明の試作品を製作した人物",
+          "description": "設計者とは別に、試作品の製作を担った役割を示します。"
+        }
+      ]
+    },
+    {
+      "id": "peter-shire",
+      "entity_type": "person",
+      "name_ja": "ピーター・シャイア",
+      "name_kana": "ピーター・シャイア",
+      "name_original": "Peter Shire",
+      "birth_year": 1947,
+      "death_year": null,
+      "short_bio": "ロサンゼルス生まれの美術家・デザイナー。ユーモアのある陶製のティーポットなどで知られ、メンフィスの仕事では素材や分野を広げました。椅子《ベル・エア》も、その国際的な協働の一例です。",
+      "representative_works": [
+        {
+          "id": "shire-bel-air-vitra-1982",
+          "title_ja": "ベル・エア",
+          "title_original": "Bel-Air",
+          "date_label": "1982年",
+          "work_type": "家具・肘掛け椅子",
+          "institution": "ヴィトラ・デザイン・ミュージアム",
+          "source_url": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+          "creator_role": "設計",
+          "note": "同館の展覧会資料の作品03。資料は個別の所蔵番号を示していません。椅子の作者と、資料に掲載された写真の撮影者は別です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "smithsonian-shire-life",
+          "institution": "スミソニアン・アメリカ美術館",
+          "title": "ピーター・シャイアの略歴",
+          "url": "https://americanart.si.edu/artist/peter-shire-18202",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vitra-memphis-press",
+          "institution": "ヴィトラ・デザイン・ミュージアム",
+          "title": "メンフィス展：作品情報と写真クレジット",
+          "url": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "1947年生まれ",
+      "life_status": "unknown",
+      "death_year_status": "参照した一次資料に没年の記載なし。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "memphis",
+          "role": "陶芸と家具を横断した参加者",
+          "description": "ソットサスだけでなく、異なる地域や専門分野の人が関わった活動を見ます。"
+        }
+      ]
+    },
+    {
+      "id": "masanori-umeda",
+      "entity_type": "person",
+      "name_ja": "梅田正徳",
+      "name_kana": "うめだ まさのり",
+      "name_original": "Masanori Umeda",
+      "birth_year": 1941,
+      "death_year": 2025,
+      "short_bio": "家具や生活用品を手がけた日本のデザイナー。メンフィスには、ボクシングリングの形を家具へ移した《タワラヤ》で参加しました。使い道だけでなく、人が集まる場所や遊びの感覚を考える仕事です。",
+      "representative_works": [
+        {
+          "id": "umeda-tawaraya-design-1981",
+          "title_ja": "タワラヤ",
+          "title_original": "Tawaraya",
+          "date_label": "1981年（デザイン）",
+          "work_type": "家具・ボクシングリング型ベッド",
+          "institution": "ヴィトラ・デザイン・ミュージアム",
+          "source_url": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+          "creator_role": "設計",
+          "note": "メンフィスのために考えられた、ボクシングリングの形の家具。出典の資料はメンバーの集合写真に写る作品を説明しており、別年に製作された個体の記録とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "momak-umeda-lifedates",
+          "institution": "京都国立近代美術館",
+          "title": "令和6年度年報：新収蔵品目録",
+          "url": "https://www.momak.go.jp/wp-content/uploads/2026/02/AnnualReport_R6.pdf",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "design-museum-memphis",
+          "institution": "デザイン・ミュージアム",
+          "title": "メンフィスの活動と作品",
+          "url": "https://designmuseum.org/memphis",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vitra-memphis-press",
+          "institution": "ヴィトラ・デザイン・ミュージアム",
+          "title": "メンフィス展：作品情報と写真クレジット",
+          "url": "https://www.design-museum.de/fileadmin/user_upload/Downloads/Presseseite/VDM-Memphis-Press-images_EN.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "memphis",
+          "role": "メンフィスに参加した日本のデザイナー",
+          "description": "1981年のデザインと、別の年に製作された製品を区別して見ます。"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -6709,6 +7151,63 @@
           "chapter_id": "russian-constructivism",
           "role": "詩集の印刷担当（所蔵館の記録）",
           "description": "構想や文章、デザインを担った個人とは別に、出版・印刷の役割を紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "memphis-milano",
+      "entity_type": "organization",
+      "name_ja": "メンフィス・ミラノ",
+      "name_kana": "メンフィス・ミラノ",
+      "name_original": "Memphis Milano",
+      "date_label": "1981年の製造記録あり（設立・終了年は未詳）",
+      "short_bio": "《カールトン》の製造者として、メトロポリタン美術館に記録されている組織。個々のデザイナーによる設計と、家具を製品にする役割を分けて紹介します。",
+      "representative_works": [
+        {
+          "id": "carlton-room-divider-met-1997-460-1a-d",
+          "title_ja": "カールトン：間仕切り家具",
+          "title_original": "\"Carlton\" Room Divider",
+          "date_label": "1981年（メトロポリタン美術館の所蔵個体）",
+          "work_type": "家具・間仕切り",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/486989",
+          "creator_role": "製造",
+          "accession": "1997.460.1a–d",
+          "manufacturer": "メンフィス・ミラノ",
+          "medium": "木、プラスチックの化粧板",
+          "note": "本棚、引き出し、間仕切りを組み合わせた家具。1997年は寄贈に関わる年で、作品年ではありません。別年の製品や復刻とは所蔵個体を分けて扱います。",
+          "credits": [
+            {
+              "artist_id": "ettore-sottsass",
+              "role": "設計"
+            },
+            {
+              "artist_id": "memphis-milano",
+              "role": "製造"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-carlton-exact",
+          "institution": "メトロポリタン美術館",
+          "title": "カールトン（1997.460.1a–d）",
+          "url": "https://www.metmuseum.org/art/collection/search/486989",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "postmodernism",
+          "role": "家具の製造者",
+          "description": "ソットサスの設計による所蔵個体で、製造の担当を示します。"
+        },
+        {
+          "chapter_id": "memphis",
+          "role": "《カールトン》の製造者",
+          "description": "デザイン集団の活動史と、個別製品の製造者の記録を混同せずに見ます。"
         }
       ]
     }
