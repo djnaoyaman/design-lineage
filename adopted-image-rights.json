@@ -5673,6 +5673,176 @@
         ],
         "method": "NPS配信画像の全体と縦横比を保って縮小し、WebPに変換しました。追加の切り抜き・色補正・描き直しはしていません。"
       }
+    },
+    {
+      "id": "met-jakuchu-grapevine-1975-268-69",
+      "entry": "伊藤若冲",
+      "entry_id": "ito-jakuchu",
+      "author": "伊藤若冲",
+      "title": "葡萄双鶏図（ぶどうそうけいず）",
+      "title_original": "Hen and Rooster with Grapevine",
+      "year": "1792年",
+      "institution": "メトロポリタン美術館",
+      "accession": "1975.268.69",
+      "source_page": "https://www.metmuseum.org/art/collection/search/40459",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-36792-002.jpg",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "checked_at": "2026-11-02",
+      "credit": "伊藤若冲, Hen and Rooster with Grapevine, 1792. The Metropolitan Museum of Art, 1975.268.69. The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975. Image: The Met Open Access, CC0.",
+      "underlying_work_rights": "原作品は著作者の没年から十分な期間が経過し、Metも個別作品をPublic Domainと表示。若冲は1800年没。",
+      "reproduction_rights": "Metの個別作品ページがPublic Domainと表示し、同館のOpen Access方針が対応する画像をCC0として公開しています。",
+      "commercial_use": "Met Open AccessのCC0により商用・非商用の再利用が可能。美術館による当サイトの推奨を意味しません。",
+      "photographer": "個人名の記載なし（The Metropolitan Museum of Art配信）",
+      "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original.jpg",
+      "alt": "葡萄のつるの上に二羽の鶏。大きな雄鶏の白い尾羽が上方へ曲がり、下には白い雌鶏と房状の葡萄がある。",
+      "viewing_point": "白い尾羽の大きな曲線、細かく描き分けられた羽、葡萄の葉と実がつくる密度。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "status": "adopted_actual_image",
+      "local_bytes": 1966063,
+      "width": 2085,
+      "height": 4000,
+      "sha256": "b1f83c1c16b738a9b2a565eb9e61d51d9d1f7e7f942d2c30d4422d481c004775",
+      "original_bytes_unchanged": true,
+      "visual_notes": [
+        {
+          "title": "細かな羽と、大きな尾の曲線。",
+          "text": "胴体の羽毛には小さな形が重なり、尾羽は上へ大きく曲がります。細部の密度と、離れて見える輪郭を比べてみましょう。"
+        },
+        {
+          "title": "描かない場所が、姿を際立たせる。",
+          "text": "二羽の鶏と葡萄は画面の中央から右下に集まり、左側には大きな余白があります。詰まった部分と空いた部分の対比が見どころです。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "作品画像を開く",
+        "eyebrow": "実作品を見る",
+        "scope_note": "絵の本紙と周囲の表装を含む図です。掛軸の軸先などを含めた全体写真ではありません。",
+        "observations_note": "形や配置の説明は取得した実作品写真の観察によります。作者・年代・技法はMetの作品記録に基づきます。",
+        "source_label": "出典：メトロポリタン美術館",
+        "rights_summary": "原作品：Public Domain。画像：The Met Open Access、CC0。",
+        "provenance_note": "Metが提供する原寸JPEGを無加工で取得しました。AI生成画像ではありません。",
+        "policy_label": "美術館の画像利用方針",
+        "license_label": "CC0の条件",
+        "anchor": "met-jakuchu-grapevine-1975-268-69"
+      },
+      "display_derivatives": {
+        "method": "表示用に縦横比を保って縮小し、WebPへ変換。切り抜きや色の変更はしていません。原画像も開けます。",
+        "variants": [
+          {
+            "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original-640.webp",
+            "width": 640,
+            "height": 1228,
+            "bytes": 94048,
+            "sha256": "50fbd5f1205fa98938c66a5a8162532a883ec601f5a26880ded284478f8c1cd9"
+          },
+          {
+            "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original-1200.webp",
+            "width": 1200,
+            "height": 2302,
+            "bytes": 346372,
+            "sha256": "6c4af7b83f49e79e2c1cc436fccfb97c774347883d86e77d2f330fa5edc57e37"
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36792-002.jpg",
+        "width": 2085,
+        "height": 4000,
+        "sha256": "b1f83c1c16b738a9b2a565eb9e61d51d9d1f7e7f942d2c30d4422d481c004775"
+      }
+    },
+    {
+      "id": "met-jakuchu-bean-vine-1985-97",
+      "entry": "伊藤若冲",
+      "entry_id": "ito-jakuchu",
+      "author": "伊藤若冲（画）／無染浄善（むせん じょうぜん）〈丹崖〉（賛）",
+      "title": "豆のつる（Bean Vine）",
+      "title_original": "Bean Vine",
+      "year": "1750年代後半〜1764年より前",
+      "institution": "メトロポリタン美術館",
+      "accession": "1985.97",
+      "source_page": "https://www.metmuseum.org/art/collection/search/40462",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-13583-002.jpg",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "checked_at": "2026-11-02",
+      "credit": "伊藤若冲（画）／無染浄善〈丹崖〉（賛）, Bean Vine, late 1750s–before 1764. The Metropolitan Museum of Art, 1985.97. Purchase, Lita Annenberg Hazen Charitable Trust Gift, in honor of Cynthia and Leon Polsky, 1985. Image: The Met Open Access, CC0.",
+      "underlying_work_rights": "原作品は著作者の没年から十分な期間が経過し、Metも個別作品をPublic Domainと表示。画家の若冲（1800年没）と賛者の無染浄善（1764年没）を区別しています。",
+      "reproduction_rights": "Metの個別作品ページがPublic Domainと表示し、同館のOpen Access方針が対応する画像をCC0として公開しています。",
+      "commercial_use": "Met Open AccessのCC0により商用・非商用の再利用が可能。美術館による当サイトの推奨を意味しません。",
+      "photographer": "個人名の記載なし（The Metropolitan Museum of Art配信）",
+      "local_file": "assets/jakuchu-bean-vine-met-original.jpg",
+      "alt": "薄い紙の地に、右から垂れる豆の葉と実、上部の墨書を配した水墨画。周囲の表装と左端の撮影用階調スケールも写る。",
+      "viewing_point": "葉と実の墨の濃淡、下方の濃い筆跡、上部の賛と余白の釣り合い。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "status": "adopted_actual_image",
+      "local_bytes": 2596718,
+      "width": 3001,
+      "height": 4000,
+      "sha256": "58048c626498ef81e349484f62a5b37fa9b31a8ad21a1e33f54f343161e1d846",
+      "original_bytes_unchanged": true,
+      "visual_notes": [
+        {
+          "title": "墨の濃さで、形を変える。",
+          "text": "葉や実には薄い墨が重なり、下部には黒い筆跡が走ります。同じ墨でも、面と線の違いが画面に動きを生んでいます。"
+        },
+        {
+          "title": "絵と書を別々の作者として見る。",
+          "text": "上部の賛は無染浄善によるものです。植物の絵と文字、それらの間に残された空白の配置を見てみましょう。"
+        }
+      ],
+      "presentation": {
+        "placement": "gallery",
+        "fullsize_label": "作品画像を開く",
+        "eyebrow": "実作品を見る",
+        "scope_note": "絵の本紙と周囲の表装を撮影した図です。左端の階調スケールは作品の一部ではありません。",
+        "observations_note": "形や配置の説明は取得した実作品写真の観察によります。作者・年代・技法はMetの作品記録に基づきます。",
+        "source_label": "出典：メトロポリタン美術館",
+        "rights_summary": "原作品：Public Domain。画像：The Met Open Access、CC0。",
+        "provenance_note": "Metが提供する原寸JPEGを無加工で取得しました。AI生成画像ではありません。",
+        "policy_label": "美術館の画像利用方針",
+        "license_label": "CC0の条件",
+        "anchor": "met-jakuchu-bean-vine-1985-97"
+      },
+      "display_derivatives": {
+        "method": "表示用に縦横比を保って縮小し、WebPへ変換。切り抜きや色の変更はしていません。原画像も開けます。",
+        "variants": [
+          {
+            "local_file": "assets/jakuchu-bean-vine-met-original-640.webp",
+            "width": 640,
+            "height": 853,
+            "bytes": 50738,
+            "sha256": "b8a815023c43ac3fb8aa1101d69491e7ca8f55671486cfef8d09fd8aa4a61361"
+          },
+          {
+            "local_file": "assets/jakuchu-bean-vine-met-original-1200.webp",
+            "width": 1200,
+            "height": 1599,
+            "bytes": 175096,
+            "sha256": "8cfaf5c5020ed986b06a1105cb44120e91e81f271d48ad667db155c99b5f3550"
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP-13583-002.jpg",
+        "width": 3001,
+        "height": 4000,
+        "sha256": "58048c626498ef81e349484f62a5b37fa9b31a8ad21a1e33f54f343161e1d846"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

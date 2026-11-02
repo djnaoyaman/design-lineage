@@ -318,6 +318,138 @@
         }
       ],
       "verified_at": "2026-11-02"
+    },
+    {
+      "id": "ito-jakuchu",
+      "name_ja": "伊藤若冲",
+      "name_kana": "イトウ・ジャクチュウ",
+      "name_reading": "いとう じゃくちゅう",
+      "name_original": "伊藤若冲",
+      "name_romanized": "Itō Jakuchū",
+      "birth_year": 1716,
+      "death_year": 1800,
+      "short_bio": "江戸時代の京都で活躍した画家。野菜を売る商家に生まれ、家の商売を弟へ譲った後に、絵を描く仕事に専念しました。中国絵画の学習や実物の観察をもとに、鮮やかな花鳥画と大胆な水墨画の両方で独自の表現を築きました。",
+      "classification": {
+        "entry_type": "artist",
+        "region": "京都・日本",
+        "period": "江戸時代中期",
+        "movement_memberships": []
+      },
+      "representative_works": [
+        {
+          "id": "jakuchu-hen-rooster-grapevine",
+          "title_ja": "葡萄双鶏図（ぶどうそうけいず）",
+          "title_original": "Hen and Rooster with Grapevine",
+          "date_label": "1792年",
+          "work_type": "掛軸・絹に色で描いた絵",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/40459",
+          "note": "《動植綵絵》とは別の掛軸です。彩色の作品を読み解く具体例として紹介します。"
+        },
+        {
+          "id": "jakuchu-bean-vine",
+          "title_ja": "豆のつる（Bean Vine）",
+          "title_original": "Bean Vine",
+          "date_label": "1750年代後半〜1764年より前",
+          "work_type": "掛軸・紙に墨で描いた絵",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/40462",
+          "note": "書の作者は若冲ではなく無染浄善です。日本語の見出しは英語題の読みやすい訳です。撮影用の階調スケールが写真左端に写っています。"
+        },
+        {
+          "id": "jakuchu-colorful-realm",
+          "title_ja": "動植綵絵（どうしょくさいえ）",
+          "title_original": "動植綵絵",
+          "date_label": "18世紀、約10年にわたる制作（構成作品は1757〜1758年頃から1766年頃）",
+          "work_type": "絹に色で描いた絵・30幅の連作",
+          "institution": "皇居三の丸尚蔵館",
+          "source_url": "https://collection.shozokan.nich.go.jp/object/SZK002949",
+          "note": "30幅の絵に寄進状と一行書が付属します。付属資料を絵の点数に加えません。原作品の保護期間と写真の利用条件は別で、ここでは画像転載を行いません。"
+        },
+        {
+          "id": "jakuchu-jokyoshu-met",
+          "title_ja": "乗興舟（じょうきょうしゅう）",
+          "title_original": "Pleasant Diversions on a Riverboat Journey",
+          "date_label": "1767年頃",
+          "work_type": "紙に刷った木版画・巻物",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/44919",
+          "note": "所蔵品番号1975.268.70はMet所蔵の一本です。千葉市美術館2925015とは別の所蔵本で、寸法を混ぜません。画像は今回未取得です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "jakuchu-kyuhaku-biography",
+          "institution": "九州国立博物館",
+          "title": "美のワンダーランド 十五人の京絵師",
+          "url": "https://www.kyuhaku.jp/exhibition/exhibition_s28.html",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "jakuchu-ndl-authority",
+          "institution": "国立国会図書館",
+          "title": "伊藤, 若沖, 1716–1800 — 典拠情報",
+          "url": "https://id.ndl.go.jp/auth/ndlna/00270128",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "jakuchu-met-grapevine",
+          "institution": "メトロポリタン美術館",
+          "title": "Hen and Rooster with Grapevine",
+          "url": "https://www.metmuseum.org/art/collection/search/40459",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "jakuchu-met-bean-vine",
+          "institution": "メトロポリタン美術館",
+          "title": "Bean Vine",
+          "url": "https://www.metmuseum.org/art/collection/search/40462",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "jakuchu-shozokan-colorful-realm",
+          "institution": "皇居三の丸尚蔵館",
+          "title": "動植綵絵",
+          "url": "https://collection.shozokan.nich.go.jp/object/SZK002949",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "jakuchu-met-jokyoshu",
+          "institution": "メトロポリタン美術館",
+          "title": "Pleasant Diversions on a Riverboat Journey",
+          "url": "https://www.metmuseum.org/art/collection/search/44919",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "jakuchu-chiba-jokyoshu",
+          "institution": "千葉市美術館",
+          "title": "乗興舟",
+          "url": "https://www.ccma-net.jp/collection/works/4561/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "jakuchu-mfa-modern-reception",
+          "institution": "ボストン美術館",
+          "title": "Takashi Murakami: Lineage of Eccentrics — exhibition release, 2017",
+          "url": "https://www.mfa.org/news/takashi-murakami",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-open-access-policy",
+          "institution": "メトロポリタン美術館",
+          "title": "Image and Data Resources",
+          "url": "https://www.metmuseum.org/policies/image-resources",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "ito-jakuchu",
+          "role": "独立した画家の項目",
+          "description": "江戸時代の京都絵画の中で、若冲自身の作品と表現を扱います。琳派の画家として分類しません。"
+        }
+      ]
     }
   ]
 }

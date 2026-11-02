@@ -20,4 +20,4 @@ for e in ordered:
 # Input contract: an external articles list, not script repository records.
 custom=[dict(e,title_ja='TEST '+e['title_ja']) for e in entries]
 assert 'TEST ' in nav(root,'art-deco',custom)
-print('PASS 88 exact mappings/canonicals/assets; navigation links/assets/canonicals and external entry input; optional original-release content audit')
+print(f'PASS {len(ordered)} exact mappings/canonicals/assets; navigation links/assets/canonicals and external entry input; optional original-release content audit')

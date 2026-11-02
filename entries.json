@@ -26655,5 +26655,603 @@
       "ウェブ表現"
     ],
     "compact_title": false
+  },
+  {
+    "name": "Itō Jakuchū",
+    "title_ja": "伊藤若冲",
+    "slug": "ito-jakuchu",
+    "type": "人物・画家",
+    "period": "主な紹介作品：1750年代後半〜1792年（生没年1716〜1800年とは区別）",
+    "region": "日本・京都",
+    "summary": "伊藤若冲（いとう じゃくちゅう）は、江戸時代の京都で活躍した画家です。鶏や植物をよく観察し、鮮やかな色の絵と大胆な墨の絵を描きました。細かな模様、大きな曲線、余白を見比べます。琳派の所属作家ではなく、独立した人物の項目です。",
+    "context": [
+      "京都の野菜を売る商家に生まれた若冲は、40歳で家の商売を弟へ譲り、絵を描く仕事に専念しました。狩野派（かのうは）の絵を学び、中国の絵を写して描き、身近な生きものも観察しました。こうした学びを重ね、自分の画面を築いていきます。"
+    ],
+    "recognition": {
+      "color": "《葡萄双鶏図》の赤いとさかと白い尾羽、《豆のつる》の墨の濃淡を見比べます。",
+      "type": "《豆のつる》の上部の書は、画家とは別の無染浄善（むせん じょうぜん）が書きました。絵と文字の間の空白も見てみましょう。",
+      "form": "縦長の掛軸（かけじく）と、横長に連なる巻物では、目の動かし方が違います。絹、紙、墨、木版という材料や方法の違いも確かめます。",
+      "composition": "細かな羽毛と大きな尾羽の輪郭、濃い墨と何も描かない空間。密な部分と空いた部分が、画面全体の釣り合いをつくります。"
+    },
+    "comparison": "琳派とは別の人物項目です。装飾性や余白は比較できますが、似ていることだけで同じ流派に分類しません。後世との関係は、展覧会など具体的な資料に基づいて紹介します。",
+    "modern": [
+      "若冲の作品は、2012年のワシントン、2016年の東京、2018年のパリなどで《動植綵絵》全30幅を紹介する展覧会を通して、改めて広く見られてきました。これは作品の再評価と受容の歴史です。",
+      "2017年のボストン美術館の村上隆展では、若冲の《松に白鸚鵡図》を村上の作品と並べ、平面と立体の見え方を行き来する表現が比較されました。こうした具体的な比較を手がかりに現代との接点を考えます。似ていることだけで、直接の師弟関係や一つの流派を想定しません。"
+    ],
+    "checked_at": "2026-11-02",
+    "publication_status": "published_person_entry_with_image_gaps",
+    "status": "人物紹介・実作品画像2点／作品例4件。画像の収録は継続中。",
+    "image_count_acquired": 2,
+    "representative_count": 4,
+    "period_bands": [
+      "pre1900"
+    ],
+    "period_band_note": "紹介する18世紀の作品年代による区分です。",
+    "external_preview_images": [],
+    "reference_images": [],
+    "reference_image_count": 0,
+    "generated_style_images": [],
+    "generated_style_image_count": 0,
+    "supplemental_explainer_count": 0,
+    "has_generated_visual_material": false,
+    "reading_intro": {
+      "heading": "伊藤若冲（いとう じゃくちゅう）——よく見て、大きく組み立てる。",
+      "lead": [
+        "細かな観察は、そのまま現実を写すためだけに使われるとは限りません。若冲は鶏や植物を見つめながら、尾羽の曲線、色の密度、余白を組み合わせて独自の画面をつくりました。",
+        "鮮やかな絹の絵、水墨画、木版画を比べると、「鶏の画家」という一言ではおさまらない表現の幅が見えてきます。"
+      ],
+      "looking_questions": [
+        "羽の細かな模様と、大きな尾羽の曲線はどう違いますか。",
+        "墨で描いた植物と、上の文字の間には、どれくらい空白がありますか。"
+      ]
+    },
+    "representativeness_limit": "彩色の掛軸と水墨画の実画像2点、連作と木版を含む4つの作品例から若冲を紹介します。30幅の《動植綵絵》は一つの連作として扱い、掲載写真と取り違えません。琳派の所属作家としては分類しません。",
+    "representatives": [
+      {
+        "id": "jakuchu-hen-rooster-grapevine",
+        "title": "葡萄双鶏図（ぶどうそうけいず）",
+        "title_original": "Hen and Rooster with Grapevine",
+        "creator": "伊藤若冲",
+        "date": "1792年",
+        "domain": "掛軸・絹に色で描いた絵",
+        "institution": "メトロポリタン美術館",
+        "accession": "1975.268.69",
+        "evidence": "https://www.metmuseum.org/art/collection/search/40459",
+        "source_ids": [
+          "jakuchu-met-grapevine"
+        ],
+        "reason": "鶏の羽毛の細かな描写と、上方へ大きく弧を描く尾羽を見比べられます。",
+        "limitation": "《動植綵絵》とは別の掛軸です。彩色の作品を読み解く具体例として紹介します。",
+        "image_id": "met-jakuchu-grapevine-1975-268-69",
+        "reading_intro": {
+          "heading": "葡萄双鶏図（ぶどうそうけいず）",
+          "lead": [
+            "鶏の羽毛の細かな描写と、上方へ大きく弧を描く尾羽を見比べられます。"
+          ]
+        }
+      },
+      {
+        "id": "jakuchu-bean-vine",
+        "title": "豆のつる（Bean Vine）",
+        "title_original": "Bean Vine",
+        "creator": "伊藤若冲（画）／無染浄善（むせん じょうぜん）〈丹崖〉（賛）",
+        "date": "1750年代後半〜1764年より前",
+        "domain": "掛軸・紙に墨で描いた絵",
+        "institution": "メトロポリタン美術館",
+        "accession": "1985.97",
+        "evidence": "https://www.metmuseum.org/art/collection/search/40462",
+        "source_ids": [
+          "jakuchu-met-bean-vine"
+        ],
+        "reason": "絵と書が一つの画面をつくります。墨の濃淡と大きな余白から、細密な彩色画とは異なる表現を見られます。",
+        "limitation": "書の作者は若冲ではなく無染浄善です。日本語の見出しは英語題の読みやすい訳です。撮影用の階調スケールが写真左端に写っています。",
+        "image_id": "met-jakuchu-bean-vine-1985-97",
+        "reading_intro": {
+          "heading": "豆のつる（Bean Vine）",
+          "lead": [
+            "絵と書が一つの画面をつくります。墨の濃淡と大きな余白から、細密な彩色画とは異なる表現を見られます。"
+          ]
+        }
+      },
+      {
+        "id": "jakuchu-colorful-realm",
+        "title": "動植綵絵（どうしょくさいえ）",
+        "title_original": "動植綵絵",
+        "creator": "伊藤若冲",
+        "date": "18世紀、約10年にわたる制作（構成作品は1757〜1758年頃から1766年頃）",
+        "domain": "絹に色で描いた絵・30幅の連作",
+        "institution": "皇居三の丸尚蔵館",
+        "accession": "SZK002949",
+        "evidence": "https://collection.shozokan.nich.go.jp/object/SZK002949",
+        "source_ids": [
+          "jakuchu-shozokan-colorful-realm"
+        ],
+        "reason": "鳥だけでなく魚や虫、植物までが描かれる、若冲を代表する連作です。色彩と観察、画面の大胆な組み立てをまとめて考えられます。",
+        "limitation": "30幅の絵に寄進状と一行書が付属します。付属資料を絵の点数に加えません。原作品の保護期間と写真の利用条件は別で、ここでは画像転載を行いません。",
+        "image_id": null,
+        "reading_intro": {
+          "heading": "動植綵絵（どうしょくさいえ）",
+          "lead": [
+            "鳥だけでなく魚や虫、植物までが描かれる、若冲を代表する連作です。色彩と観察、画面の大胆な組み立てをまとめて考えられます。"
+          ]
+        }
+      },
+      {
+        "id": "jakuchu-jokyoshu-met",
+        "title": "乗興舟（じょうきょうしゅう）",
+        "title_original": "Pleasant Diversions on a Riverboat Journey",
+        "creator": "伊藤若冲（画）／大典顕常（だいてん けんじょう、詩）",
+        "date": "1767年頃",
+        "domain": "紙に刷った木版画・巻物",
+        "institution": "メトロポリタン美術館",
+        "accession": "1975.268.70",
+        "evidence": "https://www.metmuseum.org/art/collection/search/44919",
+        "source_ids": [
+          "jakuchu-met-jokyoshu",
+          "jakuchu-chiba-jokyoshu"
+        ],
+        "reason": "淀川を下った旅を、詩と景色の連なりにした木版画です。黒い面と白い線を使う、彩色画とは別の工夫を示します。",
+        "limitation": "所蔵品番号1975.268.70はMet所蔵の一本です。千葉市美術館2925015とは別の所蔵本で、寸法を混ぜません。画像は今回未取得です。",
+        "image_id": null,
+        "reading_intro": {
+          "heading": "乗興舟（じょうきょうしゅう）",
+          "lead": [
+            "淀川を下った旅を、詩と景色の連なりにした木版画です。黒い面と白い線を使う、彩色画とは別の工夫を示します。"
+          ]
+        }
+      }
+    ],
+    "adopted_images": [
+      {
+        "id": "met-jakuchu-grapevine-1975-268-69",
+        "entry": "伊藤若冲",
+        "entry_id": "ito-jakuchu",
+        "author": "伊藤若冲",
+        "title": "葡萄双鶏図（ぶどうそうけいず）",
+        "title_original": "Hen and Rooster with Grapevine",
+        "year": "1792年",
+        "institution": "メトロポリタン美術館",
+        "accession": "1975.268.69",
+        "source_page": "https://www.metmuseum.org/art/collection/search/40459",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-36792-002.jpg",
+        "license": "CC0 1.0（The Met Open Access）",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+        "checked_at": "2026-11-02",
+        "credit": "伊藤若冲, Hen and Rooster with Grapevine, 1792. The Metropolitan Museum of Art, 1975.268.69. The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975. Image: The Met Open Access, CC0.",
+        "underlying_work_rights": "原作品は著作者の没年から十分な期間が経過し、Metも個別作品をPublic Domainと表示。若冲は1800年没。",
+        "reproduction_rights": "Metの個別作品ページがPublic Domainと表示し、同館のOpen Access方針が対応する画像をCC0として公開しています。",
+        "commercial_use": "Met Open AccessのCC0により商用・非商用の再利用が可能。美術館による当サイトの推奨を意味しません。",
+        "photographer": "個人名の記載なし（The Metropolitan Museum of Art配信）",
+        "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original.jpg",
+        "alt": "葡萄のつるの上に二羽の鶏。大きな雄鶏の白い尾羽が上方へ曲がり、下には白い雌鶏と房状の葡萄がある。",
+        "viewing_point": "白い尾羽の大きな曲線、細かく描き分けられた羽、葡萄の葉と実がつくる密度。",
+        "rights_reviewed": true,
+        "linking_policy_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "pixels_inspected": true,
+        "status": "adopted_actual_image",
+        "local_bytes": 1966063,
+        "width": 2085,
+        "height": 4000,
+        "sha256": "b1f83c1c16b738a9b2a565eb9e61d51d9d1f7e7f942d2c30d4422d481c004775",
+        "original_bytes_unchanged": true,
+        "visual_notes": [
+          {
+            "title": "細かな羽と、大きな尾の曲線。",
+            "text": "胴体の羽毛には小さな形が重なり、尾羽は上へ大きく曲がります。細部の密度と、離れて見える輪郭を比べてみましょう。"
+          },
+          {
+            "title": "描かない場所が、姿を際立たせる。",
+            "text": "二羽の鶏と葡萄は画面の中央から右下に集まり、左側には大きな余白があります。詰まった部分と空いた部分の対比が見どころです。"
+          }
+        ],
+        "presentation": {
+          "placement": "lead",
+          "fullsize_label": "作品画像を開く",
+          "eyebrow": "実作品を見る",
+          "scope_note": "絵の本紙と周囲の表装を含む図です。掛軸の軸先などを含めた全体写真ではありません。",
+          "observations_note": "形や配置の説明は取得した実作品写真の観察によります。作者・年代・技法はMetの作品記録に基づきます。",
+          "source_label": "出典：メトロポリタン美術館",
+          "rights_summary": "原作品：Public Domain。画像：The Met Open Access、CC0。",
+          "provenance_note": "Metが提供する原寸JPEGを無加工で取得しました。AI生成画像ではありません。",
+          "policy_label": "美術館の画像利用方針",
+          "license_label": "CC0の条件",
+          "anchor": "met-jakuchu-grapevine-1975-268-69"
+        },
+        "display_derivatives": {
+          "method": "表示用に縦横比を保って縮小し、WebPへ変換。切り抜きや色の変更はしていません。原画像も開けます。",
+          "variants": [
+            {
+              "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original-640.webp",
+              "width": 640,
+              "height": 1228,
+              "bytes": 94048,
+              "sha256": "50fbd5f1205fa98938c66a5a8162532a883ec601f5a26880ded284478f8c1cd9"
+            },
+            {
+              "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original-1200.webp",
+              "width": 1200,
+              "height": 2302,
+              "bytes": 346372,
+              "sha256": "6c4af7b83f49e79e2c1cc436fccfb97c774347883d86e77d2f330fa5edc57e37"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36792-002.jpg",
+          "width": 2085,
+          "height": 4000,
+          "sha256": "b1f83c1c16b738a9b2a565eb9e61d51d9d1f7e7f942d2c30d4422d481c004775"
+        }
+      },
+      {
+        "id": "met-jakuchu-bean-vine-1985-97",
+        "entry": "伊藤若冲",
+        "entry_id": "ito-jakuchu",
+        "author": "伊藤若冲（画）／無染浄善（むせん じょうぜん）〈丹崖〉（賛）",
+        "title": "豆のつる（Bean Vine）",
+        "title_original": "Bean Vine",
+        "year": "1750年代後半〜1764年より前",
+        "institution": "メトロポリタン美術館",
+        "accession": "1985.97",
+        "source_page": "https://www.metmuseum.org/art/collection/search/40462",
+        "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-13583-002.jpg",
+        "license": "CC0 1.0（The Met Open Access）",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+        "checked_at": "2026-11-02",
+        "credit": "伊藤若冲（画）／無染浄善〈丹崖〉（賛）, Bean Vine, late 1750s–before 1764. The Metropolitan Museum of Art, 1985.97. Purchase, Lita Annenberg Hazen Charitable Trust Gift, in honor of Cynthia and Leon Polsky, 1985. Image: The Met Open Access, CC0.",
+        "underlying_work_rights": "原作品は著作者の没年から十分な期間が経過し、Metも個別作品をPublic Domainと表示。画家の若冲（1800年没）と賛者の無染浄善（1764年没）を区別しています。",
+        "reproduction_rights": "Metの個別作品ページがPublic Domainと表示し、同館のOpen Access方針が対応する画像をCC0として公開しています。",
+        "commercial_use": "Met Open AccessのCC0により商用・非商用の再利用が可能。美術館による当サイトの推奨を意味しません。",
+        "photographer": "個人名の記載なし（The Metropolitan Museum of Art配信）",
+        "local_file": "assets/jakuchu-bean-vine-met-original.jpg",
+        "alt": "薄い紙の地に、右から垂れる豆の葉と実、上部の墨書を配した水墨画。周囲の表装と左端の撮影用階調スケールも写る。",
+        "viewing_point": "葉と実の墨の濃淡、下方の濃い筆跡、上部の賛と余白の釣り合い。",
+        "rights_reviewed": true,
+        "linking_policy_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "pixels_inspected": true,
+        "status": "adopted_actual_image",
+        "local_bytes": 2596718,
+        "width": 3001,
+        "height": 4000,
+        "sha256": "58048c626498ef81e349484f62a5b37fa9b31a8ad21a1e33f54f343161e1d846",
+        "original_bytes_unchanged": true,
+        "visual_notes": [
+          {
+            "title": "墨の濃さで、形を変える。",
+            "text": "葉や実には薄い墨が重なり、下部には黒い筆跡が走ります。同じ墨でも、面と線の違いが画面に動きを生んでいます。"
+          },
+          {
+            "title": "絵と書を別々の作者として見る。",
+            "text": "上部の賛は無染浄善によるものです。植物の絵と文字、それらの間に残された空白の配置を見てみましょう。"
+          }
+        ],
+        "presentation": {
+          "placement": "gallery",
+          "fullsize_label": "作品画像を開く",
+          "eyebrow": "実作品を見る",
+          "scope_note": "絵の本紙と周囲の表装を撮影した図です。左端の階調スケールは作品の一部ではありません。",
+          "observations_note": "形や配置の説明は取得した実作品写真の観察によります。作者・年代・技法はMetの作品記録に基づきます。",
+          "source_label": "出典：メトロポリタン美術館",
+          "rights_summary": "原作品：Public Domain。画像：The Met Open Access、CC0。",
+          "provenance_note": "Metが提供する原寸JPEGを無加工で取得しました。AI生成画像ではありません。",
+          "policy_label": "美術館の画像利用方針",
+          "license_label": "CC0の条件",
+          "anchor": "met-jakuchu-bean-vine-1985-97"
+        },
+        "display_derivatives": {
+          "method": "表示用に縦横比を保って縮小し、WebPへ変換。切り抜きや色の変更はしていません。原画像も開けます。",
+          "variants": [
+            {
+              "local_file": "assets/jakuchu-bean-vine-met-original-640.webp",
+              "width": 640,
+              "height": 853,
+              "bytes": 50738,
+              "sha256": "b8a815023c43ac3fb8aa1101d69491e7ca8f55671486cfef8d09fd8aa4a61361"
+            },
+            {
+              "local_file": "assets/jakuchu-bean-vine-met-original-1200.webp",
+              "width": 1200,
+              "height": 1599,
+              "bytes": 175096,
+              "sha256": "8cfaf5c5020ed986b06a1105cb44120e91e81f271d48ad667db155c99b5f3550"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP-13583-002.jpg",
+          "width": 3001,
+          "height": 4000,
+          "sha256": "58048c626498ef81e349484f62a5b37fa9b31a8ad21a1e33f54f343161e1d846"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "jakuchu-kyuhaku-biography",
+        "institution": "九州国立博物館",
+        "title": "美のワンダーランド 十五人の京絵師",
+        "url": "https://www.kyuhaku.jp/exhibition/exhibition_s28.html",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "jakuchu-ndl-authority",
+        "institution": "国立国会図書館",
+        "title": "伊藤, 若沖, 1716–1800 — 典拠情報",
+        "url": "https://id.ndl.go.jp/auth/ndlna/00270128",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "jakuchu-met-grapevine",
+        "institution": "メトロポリタン美術館",
+        "title": "Hen and Rooster with Grapevine",
+        "url": "https://www.metmuseum.org/art/collection/search/40459",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "jakuchu-met-bean-vine",
+        "institution": "メトロポリタン美術館",
+        "title": "Bean Vine",
+        "url": "https://www.metmuseum.org/art/collection/search/40462",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "jakuchu-shozokan-colorful-realm",
+        "institution": "皇居三の丸尚蔵館",
+        "title": "動植綵絵",
+        "url": "https://collection.shozokan.nich.go.jp/object/SZK002949",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "jakuchu-met-jokyoshu",
+        "institution": "メトロポリタン美術館",
+        "title": "Pleasant Diversions on a Riverboat Journey",
+        "url": "https://www.metmuseum.org/art/collection/search/44919",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "jakuchu-chiba-jokyoshu",
+        "institution": "千葉市美術館",
+        "title": "乗興舟",
+        "url": "https://www.ccma-net.jp/collection/works/4561/",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "jakuchu-mfa-modern-reception",
+        "institution": "ボストン美術館",
+        "title": "Takashi Murakami: Lineage of Eccentrics — exhibition release, 2017",
+        "url": "https://www.mfa.org/news/takashi-murakami",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "met-open-access-policy",
+        "institution": "メトロポリタン美術館",
+        "title": "Image and Data Resources",
+        "url": "https://www.metmuseum.org/policies/image-resources",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "nijl-jakuchu-print-reading",
+        "institution": "国文学研究資料館",
+        "title": "花鳥版画と乗興舟（大典顕常の読み）",
+        "url": "https://www.nijl.ac.jp/koten/kokubun1000/1000kansaku6.html",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "shizuoka-musen-reading",
+        "institution": "静岡県立美術館",
+        "title": "平成22年度年報（無染浄善の読み）",
+        "url": "https://spmoa.shizuoka.shizuoka.jp/japanese/outline/nenpou/pdf/2010.pdf",
+        "verified_at": "2026-11-02"
+      }
+    ],
+    "source_ids": [
+      "jakuchu-kyuhaku-biography",
+      "jakuchu-ndl-authority",
+      "jakuchu-met-grapevine",
+      "jakuchu-met-bean-vine",
+      "jakuchu-shozokan-colorful-realm",
+      "jakuchu-met-jokyoshu",
+      "jakuchu-chiba-jokyoshu",
+      "jakuchu-mfa-modern-reception",
+      "met-open-access-policy",
+      "nijl-jakuchu-print-reading",
+      "shizuoka-musen-reading"
+    ],
+    "source_urls": [
+      "https://www.kyuhaku.jp/exhibition/exhibition_s28.html",
+      "https://id.ndl.go.jp/auth/ndlna/00270128",
+      "https://www.metmuseum.org/art/collection/search/40459",
+      "https://www.metmuseum.org/art/collection/search/40462",
+      "https://collection.shozokan.nich.go.jp/object/SZK002949",
+      "https://www.metmuseum.org/art/collection/search/44919",
+      "https://www.ccma-net.jp/collection/works/4561/",
+      "https://www.mfa.org/news/takashi-murakami",
+      "https://www.metmuseum.org/policies/image-resources",
+      "https://www.nijl.ac.jp/koten/kokubun1000/1000kansaku6.html",
+      "https://spmoa.shizuoka.shizuoka.jp/japanese/outline/nenpou/pdf/2010.pdf"
+    ],
+    "deep_dive": [
+      {
+        "id": "jakuchu-story-1",
+        "title": "京都の商家から、自分の絵へ",
+        "paragraphs": [
+          "京都の野菜を売る商家に生まれた若冲は、40歳で家の商売を弟へ譲り、絵を描く仕事に専念しました。狩野派（かのうは）の絵を学び、中国の絵を写して描き、身近な生きものも観察しました。こうした学びを重ね、自分の画面を築いていきます。"
+        ],
+        "source_ids": [
+          "jakuchu-kyuhaku-biography"
+        ]
+      },
+      {
+        "id": "jakuchu-story-2",
+        "title": "観察と装飾は、反対ではない",
+        "paragraphs": [
+          "《葡萄双鶏図》では、羽の細かな模様と尾の大きな曲線が同居しています。どれだけ本物らしいかだけでなく、形をどこに集め、どこを空けているかにも目を向けると、画面の組み立てが見えてきます。"
+        ],
+        "source_ids": [
+          "jakuchu-met-grapevine"
+        ]
+      },
+      {
+        "id": "jakuchu-story-3",
+        "title": "色の絵だけでなく、墨の絵も",
+        "paragraphs": [
+          "《豆のつる》では、薄い葉や実と、下方の濃い筆跡が対照をつくっています。上部の賛（さん：絵に添える詩や文章）を書いたのは僧の無染浄善（むせん じょうぜん）です。画家と賛者を分けて知ると、一つの掛軸に複数の人の仕事があることもわかります。"
+        ],
+        "source_ids": [
+          "jakuchu-met-bean-vine"
+        ]
+      },
+      {
+        "id": "jakuchu-story-4",
+        "title": "30幅の連作と、寺院での役割",
+        "paragraphs": [
+          "《動植綵絵》は30幅からなる連作で、若冲自身が相国寺（しょうこくじ）へ贈りました。《釈迦三尊像（しゃかさんぞんぞう）》とともに儀式で用いられており、鮮やかな装飾としてだけでなく、信仰の場に置かれた作品でもあります。"
+        ],
+        "source_ids": [
+          "jakuchu-shozokan-colorful-realm"
+        ]
+      },
+      {
+        "id": "jakuchu-story-5",
+        "title": "旅を木版にする",
+        "paragraphs": [
+          "《乗興舟》は、大典顕常（だいてん けんじょう）と淀川を下った旅に基づく木版画です。黒い地に白い線を現す方法は、石に刻んだ文字や絵の拓本を思わせます。絵巻の横長の連なりと、掛軸の縦長の構成を比べてみましょう。"
+        ],
+        "source_ids": [
+          "jakuchu-met-jokyoshu",
+          "jakuchu-chiba-jokyoshu"
+        ]
+      },
+      {
+        "id": "jakuchu-story-6",
+        "title": "後世へのつながりを、具体的にたどる",
+        "paragraphs": [
+          "若冲の作品は、2012年のワシントン、2016年の東京、2018年のパリなどで《動植綵絵》全30幅を紹介する展覧会を通して、改めて広く見られてきました。これは作品の再評価と受容の歴史です。",
+          "2017年のボストン美術館の村上隆展では、若冲の《松に白鸚鵡図》を村上の作品と並べ、平面と立体の見え方を行き来する表現が比較されました。こうした具体的な比較を手がかりに現代との接点を考えます。似ていることだけで、直接の師弟関係や一つの流派を想定しません。"
+        ],
+        "source_ids": [
+          "jakuchu-shozokan-colorful-realm",
+          "jakuchu-mfa-modern-reception"
+        ]
+      }
+    ],
+    "artist_ids": [
+      "ito-jakuchu"
+    ],
+    "movement_memberships": [],
+    "related_articles": [
+      {
+        "slug": "rinpa",
+        "title": "琳派：流派への所属ではなく、画面を比較する"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1716年",
+        "event": "京都の青物問屋に生まれる。作品の制作年ではなく、画家の生年です。",
+        "source_ids": [
+          "jakuchu-kyuhaku-biography",
+          "jakuchu-ndl-authority"
+        ]
+      },
+      {
+        "date": "1750年代後半〜1764年より前",
+        "event": "Met所蔵《豆のつる》の制作時期。絵は若冲、賛は無染浄善です。年代には幅があります。",
+        "source_ids": [
+          "jakuchu-met-bean-vine"
+        ]
+      },
+      {
+        "date": "1757〜1758年頃から1766年頃",
+        "event": "《動植綵絵》の構成作品が制作されたおよその期間。30幅の連作で、一年にまとめて描いた作品ではありません。",
+        "source_ids": [
+          "jakuchu-shozokan-colorful-realm"
+        ]
+      },
+      {
+        "date": "1767年頃",
+        "event": "《乗興舟》を制作。淀川を下った旅を、詩と景色が続く木版画に表す。ここで紹介するMet所蔵本と、千葉市美術館の所蔵本は別の一本です。",
+        "source_ids": [
+          "jakuchu-met-jokyoshu",
+          "jakuchu-chiba-jokyoshu"
+        ]
+      },
+      {
+        "date": "1792年",
+        "event": "《葡萄双鶏図》を制作。鶏と葡萄を描いた掛軸で、《動植綵絵》の一幅ではありません。",
+        "source_ids": [
+          "jakuchu-met-grapevine"
+        ]
+      },
+      {
+        "date": "1800年",
+        "event": "若冲が亡くなる。作品の後世の展覧会や、画像の撮影年代とは分けて記録します。",
+        "source_ids": [
+          "jakuchu-kyuhaku-biography",
+          "jakuchu-ndl-authority"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "掛軸",
+        "reading": "かけじく",
+        "explanation": "掛けて鑑賞する形式の絵や書。《葡萄双鶏図》と《豆のつる》はこの形式です。絵の部分と、その周囲の表装を区別して見ます。",
+        "source_ids": [
+          "jakuchu-met-grapevine",
+          "jakuchu-met-bean-vine"
+        ]
+      },
+      {
+        "term": "絹本着色",
+        "reading": "けんぽんちゃくしょく",
+        "explanation": "絹を土台にして色を用いた絵。《葡萄双鶏図》は絹に墨と色で描かれています。作品の材料を示す言葉で、流派の名前ではありません。",
+        "source_ids": [
+          "jakuchu-met-grapevine"
+        ]
+      },
+      {
+        "term": "水墨画",
+        "reading": "すいぼくが",
+        "explanation": "墨を使った絵。濃い黒と薄い墨、筆の動きや余白に注目します。《豆のつる》は紙に墨で描かれた作品です。",
+        "source_ids": [
+          "jakuchu-met-bean-vine"
+        ]
+      },
+      {
+        "term": "賛",
+        "reading": "さん",
+        "explanation": "絵に添えられる詩や文章。《豆のつる》の上部の文字は無染浄善によるもので、画家の若冲とは別の人の仕事です。",
+        "source_ids": [
+          "jakuchu-met-bean-vine"
+        ]
+      },
+      {
+        "term": "木版画",
+        "reading": "もくはんが",
+        "explanation": "木の版を使って刷る絵。《乗興舟》では黒い面と白い線の関係が特徴です。版画には複数の所蔵本があるため、所蔵先と個体を分けて記録します。",
+        "source_ids": [
+          "jakuchu-met-jokyoshu",
+          "jakuchu-chiba-jokyoshu"
+        ]
+      },
+      {
+        "term": "巻子・絵巻",
+        "reading": "かんす・えまき",
+        "explanation": "横へ広げて見ていく巻物の形式。《乗興舟》では、川の景色と詩が長い画面に連なります。縦に掛ける掛軸とは、画面を見る順序が異なります。",
+        "source_ids": [
+          "jakuchu-met-jokyoshu",
+          "jakuchu-chiba-jokyoshu"
+        ]
+      }
+    ]
   }
 ]

@@ -1,5 +1,6 @@
 // Run in the normal supported Playwright CI environment, not a device-policy bypass.
 const { chromium }=require('playwright');const assert=require('node:assert/strict');const fs=require('node:fs');
+const articles=JSON.parse(fs.readFileSync('entries.json','utf8'));const catalogue=JSON.parse(fs.readFileSync('catalog.json','utf8'));const ordered=catalogue.map(c=>articles.find(e=>e.name===c.name));assert(ordered.every(Boolean));const first=ordered[0].slug,last=ordered.at(-1).slug;
 (async()=>{const browser=await chromium.launch({headless:true});try{
  for(const width of [320,390,1280]){
   const page=await browser.newPage({viewport:{width,height:900},hasTouch:true});
@@ -72,12 +73,12 @@ const { chromium }=require('playwright');const assert=require('node:assert/stric
    await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/chapter-navigation-baseline-zoom-${width}.png`});
   }
   assert(zoomLayout.scroll<=zoomLayout.inner+1,'200% overflow');
-  await page.goto('http://127.0.0.1:8793/entries/arts-and-crafts.html');
+  await page.goto(`http://127.0.0.1:8793/entries/${first}.html`);
   assert.equal(await page.locator('.chapter-navigation a[rel=prev]').count(),0);
-  await gesture(heading(),'right');assert(page.url().endsWith('/arts-and-crafts.html'),'first boundary');
-  await page.goto('http://127.0.0.1:8793/entries/hideki-nakajima.html');
+  await gesture(heading(),'right');assert(page.url().endsWith('/'+first+'.html'),'first boundary');
+  await page.goto(`http://127.0.0.1:8793/entries/${last}.html`);
   assert.equal(await page.locator('.chapter-navigation a[rel=next]').count(),0);
-  await gesture(heading());assert(page.url().endsWith('/hideki-nakajima.html'),'last boundary');
+  await gesture(heading());assert(page.url().endsWith('/'+last+'.html'),'last boundary');
   await page.close();
  }
  console.log('Browser navigation/layout/history PASS; not physical iOS validation');

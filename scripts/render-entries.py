@@ -70,12 +70,14 @@ def artist_section(entry, registry):
  if not ids:return ''
  if registry is None:raise ValueError('Artist registry required for this article')
  people={a['id']:a for a in registry.get('artists',[])}
- out='<section id="article-artists" class="article-story"><h2 class="study-section-title">この項目に関わる人</h2><p>名前を開くと、生没年、主な仕事、作品と出典を読めます。ここに挙げた人だけで、この動きの全体を説明するものではありません。</p>'
+ scope='生涯と作品を調べるための資料をまとめています。' if entry.get('type','').startswith('人物') else 'ここに挙げた人だけで、この項目の全体を説明するものではありません。'
+ out='<section id="article-artists" class="article-story"><h2 class="study-section-title">この項目に関わる人</h2><p>名前を開くと、生没年、主な仕事、作品と出典を読めます。'+scope+'</p>'
  for ident in ids:
   a=people[ident];birth=a.get('birth_year');death=a.get('death_year')
   life=(str(birth)+'年生まれ' if birth is not None else '生年は未確認')+'／'+(str(death)+'年没' if death is not None else ('存命' if a.get('life_status')=='verified_living' else '没年の記載は未確認'))
   relation=next((x for x in a.get('chapter_relationships',[]) if x['chapter_id']==entry['slug']),{})
-  out+='<details class="article-deeper artist-record" id="artist-'+E(ident)+'"><summary>'+E(a['name_ja'])+' — '+E(life)+'</summary><p>'+E(a.get('name_original',''))+'</p>'+pp(a['short_bio'])+pp(relation.get('description',''))+'<h3>代表的な作品・仕事</h3><ul>'
+  name=a['name_ja']+('（'+a['name_reading']+'）' if a.get('name_reading') else '')
+  out+='<details class="article-deeper artist-record" id="artist-'+E(ident)+'"><summary>'+E(name)+' — '+E(life)+'</summary><p>'+E(a.get('name_original',''))+'</p>'+pp(a['short_bio'])+pp(relation.get('description',''))+'<h3>代表的な作品・仕事</h3><ul>'
   for w in a.get('representative_works',[]):out+='<li>'+link(w['source_url'],w['title_ja'])+' — '+E(w.get('date_label','年代は未確認'))+' / '+E(w.get('work_type',''))+pp(w.get('note',''))+'</li>'
   out+='</ul><p class="note">人物の出典：'+' / '.join(link(x['url'],x.get('institution') or x.get('title','人物資料')) for x in a['sources'])+'</p></details>'
  return out+'</section>'
