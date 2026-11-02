@@ -2792,6 +2792,444 @@
           "description": "《ジャンヌ・ダルク／サラ・ベルナール》の図案の作者。印刷や彫版に関わった人・会社とは区別します。"
         }
       ]
+    },
+    {
+      "id": "honami-koetsu",
+      "entity_type": "person",
+      "name_ja": "本阿弥光悦",
+      "name_kana": "ほんあみ こうえつ",
+      "name_original": "Hon’ami Kōetsu",
+      "birth_year": 1558,
+      "death_year": 1637,
+      "short_bio": "京都の刀剣鑑定・研磨の家に生まれ、書や茶碗など多分野で活動しました。職人や町衆とのつながりも制作を支えました。桜の下絵を持つ色紙では、文字をどう配置するかに注目できます。",
+      "representative_works": [
+        {
+          "id": "rinpa-met-44861",
+          "title_ja": "桜下絵和歌色紙（鴨長明の歌）",
+          "title_original": "Poem by Kamo no Chōmei with Underpainting of Cherry Blossoms",
+          "date_label": "1606（Met 1975.268.59）",
+          "work_type": "書・下絵・色紙",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/44861",
+          "credited_creator": "書：本阿弥光悦／下絵：俵屋宗達に帰属（Metの表記）",
+          "accession": "1975.268.59",
+          "note": "光悦の担当は書。桜の下絵は宗達への帰属とされ、歌の作者・鴨長明とも役割を分けます。",
+          "creator_role": "書"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-44861",
+          "institution": "メトロポリタン美術館",
+          "title": "光悦書・宗達に帰属する下絵の和歌色紙",
+          "url": "https://www.metmuseum.org/art/collection/search/44861",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-45562",
+          "institution": "メトロポリタン美術館",
+          "title": "In the style of Hon’ami Kōetsu：Writing Box with Woodcutter",
+          "url": "https://www.metmuseum.org/art/collection/search/45562",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "tnm-koetsu-2024",
+          "institution": "東京国立博物館",
+          "title": "特別展 本阿弥光悦の大宇宙",
+          "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=2617",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "related_works": [
+        {
+          "id": "rinpa-met-45562",
+          "title_ja": "柴を運ぶ人を表した硯箱（すずりばこ）",
+          "title_original": "Writing Box (Suzuribako) with Woodcutter",
+          "date_label": "18世紀または19世紀初め",
+          "work_type": "漆工・筆記用の道具",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/45562",
+          "credited_creator": "本阿弥光悦（ほんあみ・こうえつ）の様式／作者未詳",
+          "accession": "29.100.689",
+          "note": "光悦の様式を用いた、作者未詳の後代の作品です。光悦本人が作った硯箱として扱いません。",
+          "creator_role": "様式の参照元であり、この個体の作者ではない",
+          "attribution_status": "in_the_style_of"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "rinpa",
+          "role": "書と諸工芸を結ぶ先駆的な人物",
+          "description": "書・下絵・器物の制作者は作品ごとに区別します。後世の「光悦の様式」の作品も、本人の作とは別です。"
+        }
+      ],
+      "name_reading": "ほんあみ こうえつ"
+    },
+    {
+      "id": "tawaraya-sotatsu",
+      "entity_type": "person",
+      "name_ja": "俵屋宗達",
+      "name_kana": "たわらや そうたつ",
+      "name_original": "Tawaraya Sōtatsu",
+      "birth_year": null,
+      "death_year": null,
+      "short_bio": "京都で絵画工房「俵屋」を主宰した絵師。扇絵や、光悦の書を受ける下絵などを手がけました。生涯には不明な点が多く、生年・没年は確定していません。",
+      "representative_works": [
+        {
+          "id": "rinpa-sotatsu-wind-thunder",
+          "title_ja": "風神雷神図屏風",
+          "title_original": "風神雷神図屏風",
+          "date_label": "17世紀・江戸時代",
+          "work_type": "絵画・二曲一双屏風",
+          "institution": "建仁寺蔵／京都国立博物館解説",
+          "source_url": "https://www.kyohaku.go.jp/eng/collection/meihin/kinsei/item10/",
+          "credited_creator": "俵屋宗達（京都国立博物館の帰属判断）",
+          "note": "無署名・無印章ですが、京都国立博物館は作風から宗達の作品と判断しています。",
+          "attribution_status": "museum_attribution"
+        },
+        {
+          "id": "rinpa-met-44861",
+          "title_ja": "桜下絵和歌色紙（鴨長明の歌）",
+          "title_original": "Poem by Kamo no Chōmei with Underpainting of Cherry Blossoms",
+          "date_label": "1606（Met 1975.268.59）",
+          "work_type": "書・下絵・色紙",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/44861",
+          "credited_creator": "書：本阿弥光悦／下絵：俵屋宗達に帰属（Metの表記）",
+          "accession": "1975.268.59",
+          "note": "メトロポリタン美術館は下絵を宗達に帰属させています。書は本阿弥光悦で、下絵の作者が署名で確定した作品とはしません。",
+          "creator_role": "下絵（宗達への帰属）",
+          "attribution_status": "attributed_to"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tnm-great-rinpa-2008",
+          "institution": "東京国立博物館",
+          "title": "大琳派展―継承と変奏―：人物紹介",
+          "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=559&lang=ja",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "kyohaku-wind-thunder",
+          "institution": "京都国立博物館",
+          "title": "風神雷神図屏風",
+          "url": "https://www.kyohaku.go.jp/jp/collection/meihin/kinsei/item10/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-44861",
+          "institution": "メトロポリタン美術館",
+          "title": "宗達に帰属する桜下絵と光悦の書",
+          "url": "https://www.metmuseum.org/art/collection/search/44861",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "生没年不詳",
+      "birth_year_status": "unknown",
+      "death_year_status": "unknown",
+      "date_note": "東京国立博物館と京都国立博物館は生没年不詳としています。メトロポリタン美術館には約1570〜約1640年という推定もありますが、確かな生没年はわかっていません。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "rinpa",
+          "role": "琳派の先駆者とされる絵師",
+          "description": "作品ごとに、宗達への帰属判断と、確実な署名の有無を区別して紹介します。"
+        }
+      ],
+      "life_status": "unknown",
+      "name_reading": "たわらや そうたつ"
+    },
+    {
+      "id": "ogata-korin",
+      "entity_type": "person",
+      "name_ja": "尾形光琳",
+      "name_kana": "おがた こうりん",
+      "name_original": "Ogata Kōrin",
+      "birth_year": 1658,
+      "death_year": 1716,
+      "short_bio": "京都の呉服商の家に生まれた画家。古典文学の場面を、屏風や硯箱の意匠へと展開しました。《八橋》では、花と橋という限られた形を、画面や器物の面に合わせて配置しています。",
+      "representative_works": [
+        {
+          "id": "rinpa-met-39664",
+          "title_ja": "八橋図屏風",
+          "title_original": "Irises at Yatsuhashi (Eight Bridges) — 八橋図屏風",
+          "date_label": "1709年以後（Met 53.7.1, .2）",
+          "work_type": "絵画・六曲一双屏風",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/39664",
+          "credited_creator": "尾形光琳",
+          "accession": "53.7.1, .2",
+          "note": "六曲一双。掲載画像一隻だけで作品全体を示したことにはなりません。"
+        },
+        {
+          "id": "rinpa-tnm-h86",
+          "title_ja": "八橋蒔絵螺鈿硯箱",
+          "title_original": "八橋蒔絵螺鈿硯箱",
+          "date_label": "江戸時代・18世紀（東京国立博物館 H-86）",
+          "work_type": "漆工・硯箱",
+          "institution": "東京国立博物館",
+          "source_url": "https://colbase.nich.go.jp/collection_items/tnm/H-86?locale=ja",
+          "credited_creator": "尾形光琳",
+          "accession": "H-86",
+          "note": "18世紀の硯箱。屏風と硯箱の制作順を、この記録だけで確定しません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-39664",
+          "institution": "メトロポリタン美術館",
+          "title": "光琳《Irises at Yatsuhashi》",
+          "url": "https://www.metmuseum.org/art/collection/search/39664",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "tnm-h86",
+          "institution": "東京国立博物館",
+          "title": "八橋蒔絵螺鈿硯箱 H-86",
+          "url": "https://www.tnm.jp/modules/r_collection/index.php?colid=H86&controller=dtl",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "colbase-h86",
+          "institution": "国立文化財機構・ColBase",
+          "title": "八橋蒔絵螺鈿硯箱 H-86",
+          "url": "https://colbase.nich.go.jp/collection_items/tnm/H-86?locale=ja",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-57810",
+          "institution": "メトロポリタン美術館",
+          "title": "抱一『光琳百図』：After Ogata Kōrin",
+          "url": "https://www.metmuseum.org/art/collection/search/57810",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "tnm-great-rinpa-2008",
+          "institution": "東京国立博物館",
+          "title": "大琳派展―継承と変奏―：人物紹介",
+          "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=559&lang=ja",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "related_works": [
+        {
+          "id": "rinpa-met-57810",
+          "title_ja": "『光琳百図（こうりんひゃくず）』",
+          "title_original": "One Hundred Paintings by Kōrin (Kōrin hyakuzu)",
+          "date_label": "1815年（前編二冊）・1826年（続編二冊）",
+          "work_type": "出版・木版の図集",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/57810",
+          "credited_creator": "酒井抱一（さかい・ほういつ）／尾形光琳の作品に基づく",
+          "accession": "JIB118a–d",
+          "note": "光琳の没後、酒井抱一が光琳の作品に基づいてまとめた木版本。光琳自身の刊行物ではありません。",
+          "creator_role": "図様の参照元",
+          "attribution_status": "after"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "rinpa",
+          "role": "絵画と工芸の意匠を横断した人物",
+          "description": "《八橋図屏風》と《八橋蒔絵螺鈿硯箱》は、同じ主題でも素材と用途が異なる作品です。"
+        }
+      ],
+      "name_reading": "おがた こうりん"
+    },
+    {
+      "id": "ogata-kenzan",
+      "entity_type": "person",
+      "name_ja": "尾形乾山",
+      "name_kana": "おがた けんざん",
+      "name_original": "Ogata Kenzan",
+      "birth_year": 1663,
+      "death_year": 1743,
+      "short_bio": "尾形光琳の弟で、陶芸と絵画・書に携わりました。器の仕事で知られる一方、《蔦紅葉図》のように、絵と自らの書を一枚の紙に組み合わせた作品も残しています。",
+      "representative_works": [
+        {
+          "id": "rinpa-kenzan-autumn-ivy-profile",
+          "title_ja": "蔦紅葉図",
+          "title_original": "Autumn Ivy",
+          "date_label": "1732年以後",
+          "work_type": "絵画・書／紙に墨・彩色・金",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/45076",
+          "accession": "1975.268.67",
+          "credited_creator": "尾形乾山",
+          "note": "乾山本人の仕事を紹介するための別作品です。本章の掲載画像である「乾山の様式」の角皿とは同一作品でも、同一の作者帰属でもありません。",
+          "chapter_representative": false,
+          "profile_only": true
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-45076",
+          "institution": "メトロポリタン美術館",
+          "title": "乾山《Autumn Ivy／蔦紅葉図》",
+          "url": "https://www.metmuseum.org/art/collection/search/45076",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-77863",
+          "institution": "メトロポリタン美術館",
+          "title": "Style of Ogata Kenzan：春の草花を描いた角皿",
+          "url": "https://www.metmuseum.org/art/collection/search/77863",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "tnm-great-rinpa-2008",
+          "institution": "東京国立博物館",
+          "title": "大琳派展―継承と変奏―：人物紹介",
+          "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=559&lang=ja",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "related_works": [
+        {
+          "id": "rinpa-met-77863",
+          "title_ja": "春の草花を描いた角皿（かくざら）",
+          "title_original": "Square Dish with Spring Flowers and Grasses",
+          "date_label": "18世紀",
+          "work_type": "陶芸・京焼",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/77863",
+          "credited_creator": "尾形乾山（おがた・けんざん）の様式／作者未詳",
+          "accession": "2015.300.269",
+          "note": "所蔵館の記録は「尾形乾山の様式」。作者未詳の器で、乾山本人の制作とは確定していません。",
+          "creator_role": "様式の参照元であり、この個体の作者とは確定していない",
+          "attribution_status": "style_of"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "rinpa",
+          "role": "陶芸と絵画・書を結ぶ人物",
+          "description": "本章の角皿は「乾山の様式」の作品であり、本人の作とは断定しません。略歴の代表作には、別の所蔵作品《蔦紅葉図》を挙げています。"
+        }
+      ],
+      "name_reading": "おがた けんざん"
+    },
+    {
+      "id": "sakai-hoitsu",
+      "entity_type": "person",
+      "name_ja": "酒井抱一",
+      "name_kana": "さかい ほういつ",
+      "name_original": "Sakai Hōitsu",
+      "birth_year": 1761,
+      "death_year": 1828,
+      "short_bio": "江戸で活動した画家。光琳の仕事を学び、顕彰や図譜の制作にも力を注ぎました。花や樹木を描く屏風と、先人の作品を伝える『光琳百図』から、制作と継承の両方が見えてきます。",
+      "representative_works": [
+        {
+          "id": "rinpa-met-765976",
+          "title_ja": "桜楓図屏風",
+          "title_original": "Cherry and Maple Trees — 桜楓図屏風",
+          "date_label": "1820年代初め（Met 2018.55.1, .2）",
+          "work_type": "絵画・六曲一双屏風",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/765976",
+          "credited_creator": "酒井抱一",
+          "accession": "2018.55.1, .2",
+          "note": "六曲一双の作品。掲載画像は桜と柳を描く一隻です。其一が工房にいた時期の作品という説明を、共同制作の断定には用いません。"
+        },
+        {
+          "id": "rinpa-met-57810",
+          "title_ja": "『光琳百図（こうりんひゃくず）』",
+          "title_original": "One Hundred Paintings by Kōrin (Kōrin hyakuzu)",
+          "date_label": "1815年（前編二冊）・1826年（続編二冊）",
+          "work_type": "出版・木版の図集",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/57810",
+          "credited_creator": "酒井抱一（さかい・ほういつ）／尾形光琳の作品に基づく",
+          "accession": "JIB118a–d",
+          "note": "1815年の前編二冊と1826年の続編二冊。光琳作品に基づく木版の図譜で、掲載画像は一つの見開きです。",
+          "creator_role": "光琳作品に基づく図譜の制作"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-765976",
+          "institution": "メトロポリタン美術館",
+          "title": "抱一《Cherry and Maple Trees》",
+          "url": "https://www.metmuseum.org/art/collection/search/765976",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-57810",
+          "institution": "メトロポリタン美術館",
+          "title": "抱一『One Hundred Paintings by Kōrin』",
+          "url": "https://www.metmuseum.org/art/collection/search/57810",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "tnm-great-rinpa-2008",
+          "institution": "東京国立博物館",
+          "title": "大琳派展―継承と変奏―：人物紹介",
+          "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=559&lang=ja",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "rinpa",
+          "role": "江戸で琳派を継承し変化させた画家",
+          "description": "光琳から直接教わった弟子ではありません。没後の作品研究や刊行を通じた継承として紹介します。"
+        }
+      ],
+      "name_reading": "さかい ほういつ"
+    },
+    {
+      "id": "suzuki-kiitsu",
+      "entity_type": "person",
+      "name_ja": "鈴木其一",
+      "name_kana": "すずき きいつ",
+      "name_original": "Suzuki Kiitsu",
+      "birth_year": 1796,
+      "death_year": 1858,
+      "short_bio": "酒井抱一に絵を学んだ画家。染織の仕事に通じ、金地に鮮やかな色を置く大胆な構成を展開しました。《朝顔図屏風》では、花と葉の密度や動きが、左右の画面で変化します。",
+      "representative_works": [
+        {
+          "id": "rinpa-met-48982",
+          "title_ja": "朝顔図屏風",
+          "title_original": "Morning Glories",
+          "date_label": "19世紀初め（Met個別作品記録）",
+          "work_type": "絵画・六曲一双の屏風",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/48982",
+          "credited_creator": "鈴木其一（すずき・きいつ）",
+          "accession": "54.69.1, .2",
+          "note": "この所蔵作品の個別記録は「19世紀初め」。別の解説や別作品の年代で置き換えません。六曲一双です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-48982",
+          "institution": "メトロポリタン美術館",
+          "title": "其一《Morning Glories》",
+          "url": "https://www.metmuseum.org/art/collection/search/48982",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "tnm-great-rinpa-2008",
+          "institution": "東京国立博物館",
+          "title": "大琳派展―継承と変奏―：人物紹介",
+          "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=559&lang=ja",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "rinpa",
+          "role": "江戸琳派を展開した画家",
+          "description": "抱一からの学習と、その後の独自の表現を分けて紹介します。"
+        }
+      ],
+      "name_reading": "すずき きいつ"
     }
   ],
   "organizations": [

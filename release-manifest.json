@@ -1,8 +1,8 @@
 {
-  "release": "public-content-art-nouveau-20261102-1843",
+  "release": "public-content-rinpa-20261102-1901",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T18:43:00+09:00",
+  "frozen_at": "2026-11-02T19:01:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 132170,
-      "sha256": "1dfbe01adcce238d4e523ef99955cf5648ed0989c83fa8f45b97f9bb86c360bc"
+      "bytes": 153309,
+      "sha256": "bfe76268066fdf45ec1274e23e14e957a2138b39a0aab3a3ddd635ac40901942"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1378,13 +1378,13 @@
     },
     {
       "path": "deep-reading.css",
-      "bytes": 2401,
-      "sha256": "5b2278298b257639c58216d492c7641830664ae3a948fc321dfcd5524114b36e"
+      "bytes": 2524,
+      "sha256": "1cdb3d541116bfd2f263a01c37dce40123b38c5ba45869caa387023628162b84"
     },
     {
       "path": "entries.json",
-      "bytes": 1853930,
-      "sha256": "0264c2803f9ed743010c086fdd5e0ea08461488dc63f8bba11a6b0a812452fae"
+      "bytes": 1854093,
+      "sha256": "7676d6a9bfb7736c21c14332ae757185947b0446cb1e7ededaf492a577791441"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1693,8 +1693,8 @@
     },
     {
       "path": "entries/rinpa.html",
-      "bytes": 60116,
-      "sha256": "08a0d8fcfff8c2f871ead3db1ce4ce38276b08f64891023c68b9f15edd04111b"
+      "bytes": 70697,
+      "sha256": "6c7a0f28c9a5ec1c9dd3868847ff08402b3eb9b735a1723419f5374ce49a4cb9"
     },
     {
       "path": "entries/risograph.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "c6cfef0391f0969804006e564c3e712b8701835fc583390571ec169df696cf9f"
+      "sha256": "e4ef752058a23dd6d1b6e528a0eeedc9b5dc9397b1d2ea351e15435fe91d98c7"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1868,8 +1868,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 26144,
-      "sha256": "81aebc0cdccf34ee6fe9ad3cb360369a68300b99e3999b16580fb28253858447"
+      "bytes": 26149,
+      "sha256": "873229c4dc26eba3f013a3e61c1630457cab35947be6d1fc0838fbb7f6b81eb2"
     },
     {
       "path": "logo-provenance.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "7cc3bdb3d67bf5704a2eb7c750ad378660d9a87447f34c2b704c1b7a3ebab9f8"
+      "sha256": "76cc2458e7df337fcda50ccae980dac90f6672dac0990fed7c1400069ba2450d"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "f9a016bfc1e38499a26d07cb16ce4df94e3dfa95333cfe5330ba90c4207a5e55"
+      "sha256": "a6ff439e1ea850cb806d5dc6e0725eaababa4909de418a4902f071bdc953b4dc"
     },
     {
       "path": "study-images.js",
