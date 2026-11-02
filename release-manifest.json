@@ -1591,8 +1591,8 @@
     },
     {
       "path": "entries/rinpa.html",
-      "bytes": 58836,
-      "sha256": "4cd5e2f110698b6f51ebcad158d3038350dfaa2bd2abece7c61798745da4bceb"
+      "bytes": 59048,
+      "sha256": "b8d66484115fa2d420067558556ae8955cdf37dd0a46298198367be3dd1bc994"
     },
     {
       "path": "entries/risograph.html",
@@ -1806,8 +1806,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 16839,
-      "sha256": "93b20ed0363306cdafb0db0ab0ef5b42a98727d5f41f4d8430dff5d55dcace1b"
+      "bytes": 17033,
+      "sha256": "6e1011d7fa472f4cce75040c113c238feb524bf79a2041834e6fd4ca6262892f"
     },
     {
       "path": "share-copy.json",
@@ -1851,8 +1851,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 17734,
-      "sha256": "f0b2136794b7644551f76667950438fdd55fc0be693ffc2f883cd6f597250d90"
+      "bytes": 18228,
+      "sha256": "5fa39ce4185752eb303ea832c87ab98a993441e685e1f6eda9bdae71beaf4e05"
     },
     {
       "path": "timeline.css",

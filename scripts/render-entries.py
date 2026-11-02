@@ -38,6 +38,8 @@ def image_html(im,reference=False):
  desc=im.get('alt',im.get('title',''))
  variants=im.get('display_derivatives',{}).get('variants',[])
  variants=[v for v in variants if v.get('local_file') and public_asset(v) and isinstance(v.get('width'),int)]
+ # Include the unmodified original when it is larger than the responsive derivatives.
+ if variants and max(v['width'] for v in variants)<w:variants.append({'local_file':f,'width':w,'height':h})
  variants.sort(key=lambda v:v['width'])
  display=next((v['local_file'] for v in variants if v['width']>=min(w,1000)),variants[-1]['local_file'] if variants else f)
  srcset=(' srcset="'+', '.join('../'+E(v['local_file'])+' '+str(v['width'])+'w' for v in variants)+'" sizes="(max-width:700px) 88vw, 1200px"') if variants else '' 
