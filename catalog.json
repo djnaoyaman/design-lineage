@@ -1109,5 +1109,23 @@
     ],
     "name_note": "人物の項目。歴史的な運動や様式とは区別します。",
     "name_translation_unconfirmed": false
+  },
+  {
+    "name": "Itō Jakuchū",
+    "title_ja": "伊藤若冲",
+    "category": "人物",
+    "region": "日本",
+    "field": "絵画・版画",
+    "status": "人物紹介・実作品画像2点／作品例4件。画像の収録は継続中。",
+    "date": "1750年代後半〜1792年の作品",
+    "aliases": [
+      "いとうじゃくちゅう",
+      "いとう じゃくちゅう",
+      "伊藤 若冲",
+      "Ito Jakuchu",
+      "伊藤若沖"
+    ],
+    "name_note": "独立した画家の人物項目。琳派の所属作家として分類しません。",
+    "name_translation_unconfirmed": false
   }
 ]

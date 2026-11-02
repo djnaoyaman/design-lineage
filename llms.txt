@@ -3,7 +3,7 @@
 > デザインの歴史を、作品と一次資料からたどる日本語の図鑑。
 
 ## このサイトについて
-- 一覧88項目すべての本文と出典を公開。実作品画像の収録や記述の確認は継続中で、図録全体の完成を意味しません。
+- 一覧89項目すべての本文と出典を公開。実作品画像の収録や記述の確認は継続中で、図録全体の完成を意味しません。
 - 歴史的な運動・様式・学校・技法・現代トレンド・人物を区別します。
 - 掲載画像の出典と利用条件は個別記録を参照してください。サイト全体への一括利用許諾はありません。
 - AAGAの試作は実在する作品の写真とは区別します。
@@ -109,3 +109,5 @@
 - [可変フォントを使う表現 / Variable-font expression](https://djnaoyaman.github.io/design-lineage/entries/variable-font-expression.html): 現代の表現方法・説明用の分類。技術の標準化：OpenType 1.8（2016年）。掲載例の時期は別に示す。実作品画像0点、画像収録は継続中。
 - [3D・粘土のようなイラスト / 3D / clay illustration](https://djnaoyaman.github.io/design-lineage/entries/3d-clay-illustration.html): 現代の表現方法・説明用の分類。近年のデジタル表現。3D全体の起源を示す年代ではない。実作品画像0点、画像収録は継続中。
 - [情報や飾りを重ねるウェブ表現 / Maximalist web](https://djnaoyaman.github.io/design-lineage/entries/maximalist-web.html): 現代の表現方法・説明用の分類。掲載例：2026年の催事、継続公開の制作者サイト。実作品画像0点、画像収録は継続中。
+
+- [伊藤若冲（いとう じゃくちゅう）](https://djnaoyaman.github.io/design-lineage/entries/ito-jakuchu.html): 人物・画家。主な紹介作品：1750年代後半〜1792年（生没年1716〜1800年とは区別）。実作品画像2点、作品・制作の例4件、人物1人。画像収録は継続中。
