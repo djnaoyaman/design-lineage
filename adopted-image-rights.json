@@ -5589,6 +5589,90 @@
         "provenance_note": "公式配信JPEGの全体を保持。小画面用の縮小WebPを併用します。",
         "anchor": "met-57810-1327808"
       }
+    },
+    {
+      "id": "nps-rivera-detroit-north-detail",
+      "entry": "Mexican Muralism",
+      "author": "ディエゴ・リベラ",
+      "title": "デトロイトの産業：北壁の一部",
+      "year": "壁画：1932–1933年／写真：撮影年不詳",
+      "institution": "デトロイト美術館",
+      "accession": "33.10.N",
+      "source_page": "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm",
+      "work_source_page": "https://dia.org/collection/detroit-industry-north-wall/58538",
+      "image_url": "https://www.nps.gov/common/uploads/cropped_image/primary/157B0E21-EFCB-7434-19C7097B167ACBE0.jpg?mode=crop&quality=90&width=1600",
+      "license": "Public Domain（写真：NPSの個別表示／原作品：DIAが米国内公表について明示）",
+      "license_url": "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm",
+      "rights_policy_url": "https://dia.org/collection/detroit-industry-north-wall/58538",
+      "checked_at": "2026-11-02",
+      "credit": "Diego M. Rivera, Detroit Industry, North Wall, 1932–1933, fresco. Detroit Institute of Arts, Gift of Edsel B. Ford,33.10.N. 部分図。Photo credited to Cactus.man; Public Domain, via National Park Service.",
+      "underlying_work_rights": "DIAは、この壁画が米国内の公表についてPublic Domainであると明記しています。日本では保護期間を確認しています。すべての国で自由に使えるという意味ではありません。",
+      "reproduction_rights": "写真は米国国立公園局（NPS）がCactus.man撮影・Public Domainと表示しています。CC0という表示ではありません。",
+      "photographer": "Cactus.man（NPS掲載クレジットによる）",
+      "commercial_use": "米国・日本についての個別の権利確認に基づく再掲載。全法域の権利保証ではない。",
+      "territory_note": "米国・日本での本サイト掲載を対象とした確認です。ほかの国や別用途での利用条件を保証しません。",
+      "local_file": "assets/rivera-detroit-industry-nps-cactusman.jpg",
+      "viewing_point": "大きな機械と働く人の比率、いくつもの工程を重ねた配置、奥の炉の光。",
+      "alt": "デトロイト産業壁画の北壁の一部。大きな白い機械の間で人々が体を曲げて働き、奥にオレンジ色の炉が見える。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": false,
+      "status": "candidate_local_image",
+      "local_bytes": 474633,
+      "width": 1484,
+      "height": 835,
+      "sha256": "0d0f37c15e5b7da40090262c18e8c5232653d76b683ba11a53168a26ce059e03",
+      "original_bytes_unchanged": true,
+      "visual_notes": [
+        {
+          "title": "機械の大きさを、人の体と比べる。",
+          "text": "白く明るい機械が高く立ち、その下で人々が体を曲げたり腕を伸ばしたりしています。人と設備の大きさの差を見てみましょう。"
+        },
+        {
+          "title": "一つの画面に、いくつもの仕事が重なる。",
+          "text": "手前の作業列から奥の炉まで、梁や管、機械が重なっています。一人の英雄だけでなく、つながった仕事の流れに目が向く配置です。"
+        },
+        {
+          "title": "これは北壁の一部分。",
+          "text": "掲載写真には中央の工場場面と上下の帯状の部分が写っています。北壁の上方の大きな人物像や隅の場面、ほかの三方の壁は含まれていません。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "北壁の部分図を開く",
+        "eyebrow": "MEXICAN MURALISM / FRESCO",
+        "scope_note": "北壁33.10.Nの部分図です。壁画連作の27面すべてや北壁全体を写した写真ではありません。",
+        "observations_note": "画面内の形・色・人の姿勢は取得写真の実見による観察です。作者・年代・技法・所蔵情報はDIAの記録を参照しています。",
+        "source_label": "写真の出典（米国国立公園局）",
+        "rights_summary": "写真：NPSがPublic Domainと表示。原作品：DIAは米国内での公表に関するPublic Domainを明示。",
+        "provenance_note": "NPSが配信する部分図を無加工で取得しました。配信元の切り抜きを含み、原壁画全体の画像ではありません。写真の撮影年は不詳です。",
+        "policy_label": "所蔵館の作品・権利情報",
+        "license_label": "NPSの写真クレジット"
+      },
+      "title_original": "Detroit Industry, North Wall（デトロイト産業壁画・北壁の一部）",
+      "display_derivatives": {
+        "variants": [
+          {
+            "local_file": "assets/rivera-detroit-industry-nps-cactusman-720.webp",
+            "width": 720,
+            "height": 405,
+            "bytes": 145678,
+            "sha256": "42a1bae1ad3a544e906392e8749ee112f0f5afcbab6ee3956d8c1f24d1f439ac"
+          },
+          {
+            "local_file": "assets/rivera-detroit-industry-nps-cactusman-1200.webp",
+            "width": 1200,
+            "height": 675,
+            "bytes": 344072,
+            "sha256": "db45b0de257b2d30c5df6bf432bc0e9b0282d2a48b0375cb4bc561c7df36aaba"
+          }
+        ],
+        "method": "NPS配信画像の全体と縦横比を保って縮小し、WebPに変換しました。追加の切り抜き・色補正・描き直しはしていません。"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "artists": [
+    {
+      "id": "diego-rivera",
+      "name_ja": "ディエゴ・リベラ",
+      "name_kana": "ディエゴ・リベラ",
+      "name_original": "Diego Rivera",
+      "birth_year": 1886,
+      "death_year": 1957,
+      "short_bio": "ヨーロッパで絵画を学び、メキシコと米国の公共の建物に大きな壁画を描いた画家。先住民の歴史や文化、働く人々を描き、社会のあり方を広い人々に伝えようとしました。",
+      "representative_works": [
+        {
+          "id": "rivera-la-creacion-1922",
+          "title_ja": "創造",
+          "title_original": "La Creación",
+          "date_label": "1922年",
+          "start_year": 1922,
+          "end_year": 1922,
+          "work_type": "壁画・エンコースティック",
+          "institution": "サン・イルデフォンソ学院",
+          "source_url": "https://sanildefonso.org.mx/mural_anfiteatro.php?height=100%25&iframe=true&width=810",
+          "note": "シモン・ボリバル講堂の壁画。ろうを使う技法で、フレスコではありません。制作年は同館の個別作品記録に従います。"
+        },
+        {
+          "id": "rivera-detroit-industry-north-wall",
+          "title_ja": "デトロイトの産業：北壁",
+          "title_original": "Detroit Industry — North Wall",
+          "date_label": "1932〜1933年",
+          "start_year": 1932,
+          "end_year": 1933,
+          "work_type": "壁画・フレスコ",
+          "institution": "デトロイト美術館",
+          "source_url": "https://dia.org/collection/detroit-industry-north-wall/58538",
+          "note": "所蔵番号33.10.N。北壁は27面からなる連作の一部です。掲載するNPS写真は、この北壁のさらに一部分を写しています。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-diego-rivera-artist",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "url": "https://www.moma.org/artists/4942-diego-rivera",
+          "title": "Diego Rivera",
+          "supports": [
+            "name_original",
+            "birth_year",
+            "death_year",
+            "chapter_relationship"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-diego-rivera-biography",
+          "institution": "メトロポリタン美術館",
+          "url": "https://www.metmuseum.org/de/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/rivera",
+          "title": "Diego Rivera — The Modern Art Index Project",
+          "supports": [
+            "short_bio",
+            "chapter_relationship"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "dia-detroit-north-wall",
+          "institution": "デトロイト美術館",
+          "url": "https://dia.org/collection/detroit-industry-north-wall/58538",
+          "title": "Detroit Industry, North Wall",
+          "supports": [
+            "representative_works",
+            "short_bio"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "san-ildefonso-creation",
+          "institution": "サン・イルデフォンソ学院",
+          "url": "https://sanildefonso.org.mx/mural_anfiteatro.php?height=100%25&iframe=true&width=810",
+          "title": "La Creación",
+          "supports": [
+            "representative_works"
+          ],
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mexican-muralism",
+          "role": "中心的な画家",
+          "description": "革命後のメキシコで広がった壁画運動を代表する一人。歴史の物語と、近代の工場で働く人々の姿を比較できます。"
+        }
+      ]
+    },
+    {
+      "id": "jose-clemente-orozco",
+      "name_ja": "ホセ・クレメンテ・オロスコ",
+      "name_kana": "ホセ・クレメンテ・オロスコ",
+      "name_original": "José Clemente Orozco",
+      "birth_year": 1883,
+      "death_year": 1949,
+      "short_bio": "メキシコと米国で活動した、壁画運動を代表する画家の一人。革命や征服を人々の痛みからも描きました。《アメリカ文明の叙事詩》では、歴史を一直線の進歩ではなく、破壊と創造の繰り返しとして問い直しています。",
+      "representative_works": [
+        {
+          "id": "orozco-la-trinchera-1926",
+          "title_ja": "塹壕（ざんごう）",
+          "title_original": "La trinchera",
+          "date_label": "1926年",
+          "start_year": 1926,
+          "end_year": 1926,
+          "work_type": "壁画・フレスコ",
+          "institution": "サン・イルデフォンソ学院",
+          "source_url": "https://sanildefonso.org.mx/mural_trinchera.php?height=100%25&iframe=true&width=810",
+          "note": "サン・イルデフォンソの壁画。戦いの中で倒れる三人を描いた作品です。"
+        },
+        {
+          "id": "orozco-epic-american-civilization",
+          "title_ja": "アメリカ文明の叙事詩（じょじし）",
+          "title_original": "The Epic of American Civilization",
+          "date_label": "1932〜1934年",
+          "start_year": 1932,
+          "end_year": 1934,
+          "work_type": "24画面からなる壁画連作・フレスコ",
+          "institution": "フッド美術館（ダートマス大学）",
+          "source_url": "https://hoodmuseum.dartmouth.edu/explore/collection/featured-collections/orozcos-epic",
+          "note": "ダートマス大学ベイカー図書館の連作全体。24画面を24の独立作品として数えません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "benton-orozco-biography",
+          "institution": "ポモナ大学ベントン美術館",
+          "url": "https://www.pomona.edu/museum/collections/jos%C3%A9-clemente-orozcos-prometheus/orozco-papers",
+          "title": "José Clemente Orozco papers 1922–2015 — Biographical/Historical Note",
+          "supports": [
+            "name_original",
+            "birth_year",
+            "death_year",
+            "short_bio",
+            "chapter_relationship"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "san-ildefonso-trench",
+          "institution": "サン・イルデフォンソ学院",
+          "url": "https://sanildefonso.org.mx/mural_trinchera.php?height=100%25&iframe=true&width=810",
+          "title": "La trinchera",
+          "supports": [
+            "representative_works",
+            "short_bio",
+            "chapter_relationship"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "hood-orozco-epic",
+          "institution": "フッド美術館（ダートマス大学）",
+          "url": "https://hoodmuseum.dartmouth.edu/explore/collection/featured-collections/orozcos-epic",
+          "title": "Orozco’s Epic",
+          "supports": [
+            "representative_works",
+            "short_bio",
+            "chapter_relationship"
+          ],
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mexican-muralism",
+          "role": "中心的な画家",
+          "description": "革命後の壁画運動で、戦いの犠牲や歴史の矛盾も描いた一人。リベラの産業壁画とは異なる歴史の見方を比べられます。"
+        }
+      ]
+    },
+    {
+      "id": "david-alfaro-siqueiros",
+      "name_ja": "ダビド・アルファロ・シケイロス",
+      "name_kana": "ダビド・アルファロ・シケイロス",
+      "name_original": "David Alfaro Siqueiros",
+      "birth_year": 1896,
+      "death_year": 1974,
+      "short_bio": "人々のための公共芸術を目指した画家で、政治活動にも参加しました。仲間との共同制作を重視し、当時の新しい塗料や技法を試しました。社会への批判は、描く題材だけでなく、材料や制作方法にも表れています。",
+      "representative_works": [
+        {
+          "id": "siqueiros-america-tropical-1932",
+          "title_ja": "アメリカ・トロピカル",
+          "title_original": "América Tropical",
+          "date_label": "1932年",
+          "start_year": 1932,
+          "end_year": 1932,
+          "work_type": "屋外壁画",
+          "institution": "エル・プエブロ・デ・ロサンゼルス史跡／ゲティ保存研究所",
+          "source_url": "https://www.getty.edu/projects/conservation-america-tropical/",
+          "note": "ロサンゼルスのイタリアン・ホール外壁に制作。2012年は保存修復後の公開年で、制作年ではありません。"
+        },
+        {
+          "id": "siqueiros-collective-suicide-1936",
+          "title_ja": "集団自殺",
+          "title_original": "Collective Suicide",
+          "date_label": "1936年",
+          "start_year": 1936,
+          "end_year": 1936,
+          "work_type": "板にラッカー・部分的に板材を付加した絵画",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/79146",
+          "note": "所蔵番号208.1937。壁画ではなく板絵です。壁画家が工業用塗料や近代の制作方法にも取り組んだ例として紹介します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-siqueiros-artist",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "url": "https://www.moma.org/artists/5454-david-alfaro-siqueiros",
+          "title": "David Alfaro Siqueiros",
+          "supports": [
+            "name_original",
+            "birth_year",
+            "death_year"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "inbal-siqueiros-public-art",
+          "institution": "メキシコ国立芸術文学研究所（INBAL）",
+          "url": "https://inba.gob.mx/prensa/18633/el-museo-de-historia-mexicana-presenta-la-exposicion-david-alfaro-siqueiros-la-construccion-de-lo-publico",
+          "title": "David Alfaro Siqueiros. La construcción de lo público",
+          "supports": [
+            "birth_year",
+            "death_year",
+            "short_bio",
+            "chapter_relationship"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "getty-america-tropical",
+          "institution": "ゲティ保存研究所",
+          "url": "https://www.getty.edu/projects/conservation-america-tropical/",
+          "title": "Conservation of América Tropical",
+          "supports": [
+            "representative_works"
+          ],
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-collective-suicide",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "url": "https://www.moma.org/collection/works/79146",
+          "title": "Collective Suicide",
+          "supports": [
+            "representative_works",
+            "short_bio"
+          ],
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mexican-muralism",
+          "role": "中心的な画家",
+          "description": "壁画を公共の場で社会に働きかける芸術と考えた一人。共同制作と新しい材料の実験から、この運動の技術的な広がりを見られます。"
+        }
+      ]
+    },
+    {
+      "id": "aurora-reyes",
+      "name_ja": "アウロラ・レイエス",
+      "name_kana": "アウロラ・レイエス",
+      "name_original": "Aurora Reyes",
+      "birth_year": 1908,
+      "death_year": 1985,
+      "short_bio": "壁画を描いた画家で、詩人、美術の先生でもありました。教育や女性の権利に関わる問題に取り組み、女性教師の姿も作品に描きました。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mexican-muralism",
+          "role": "壁画を描いた画家",
+          "description": "有名な三人だけでは見えにくい、教育や女性の立場から壁画運動を考える手がかりになります。"
+        }
+      ],
+      "representative_works": [
+        {
+          "id": "reyes-atentado",
+          "title_ja": "地方の女性教師への襲撃",
+          "title_original": "Atentado a las maestras rurales",
+          "date_label": "1930年代（資料に1934年・1936年の記載あり）",
+          "work_type": "壁画",
+          "institution": "メキシコ国立公文書館",
+          "source_url": "https://www.gob.mx/agn/articulos/agnrecuerda-a-aurora-reyes-muralista-y-poeta-revolucionaria?idiom=es",
+          "note": "制作年の資料差は、作品の記録欄でも明記しています。"
+        },
+        {
+          "id": "reyes-humanos-paisajes",
+          "title_ja": "人間の風景",
+          "title_original": "Humanos Paisajes",
+          "date_label": "1953年",
+          "work_type": "詩集",
+          "institution": "メキシコ国立公文書館",
+          "source_url": "https://www.gob.mx/agn/articulos/agnrecuerda-a-aurora-reyes-muralista-y-poeta-revolucionaria?idiom=es",
+          "note": "絵ではなく、言葉による仕事の例です。日本語題は内容を伝えるための訳です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "agn-aurora-reyes",
+          "institution": "メキシコ国立公文書館",
+          "url": "https://www.gob.mx/agn/articulos/agnrecuerda-a-aurora-reyes-muralista-y-poeta-revolucionaria?idiom=es",
+          "title": "アウロラ・レイエスの生涯と仕事",
+          "supports": [
+            "birth_year",
+            "death_year",
+            "short_bio",
+            "representative_works"
+          ],
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02"
+    }
+  ]
+}

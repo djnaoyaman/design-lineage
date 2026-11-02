@@ -1,8 +1,8 @@
 {
-  "release": "public-floating-swipe-hint-20261102-1531",
+  "release": "public-content-mexican-muralism-20261102-1618",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T15:31:00+09:00",
+  "frozen_at": "2026-11-02T16:18:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 88,
@@ -13,8 +13,8 @@
   "files": [
     {
       "path": ".github/workflows/site-qa.yml",
-      "bytes": 1358,
-      "sha256": "80cb703a5be5e405940f79502d13039bbb68876175d38abb44a150a8e0d1a2d1"
+      "bytes": 1403,
+      "sha256": "eb29d5e1f18bcd0df91406587136aa99fc8daf2b304cdcf36431e21c98d4a44f"
     },
     {
       "path": ".nojekyll",
@@ -29,12 +29,12 @@
     {
       "path": "README.md",
       "bytes": 5104,
-      "sha256": "cbbf29df7741ec883cccddc888529613531470811795cc0947cca87f26c916df"
+      "sha256": "9c8e20e21019fb1abc85342288e6a9a5d25ce71c658d1988a3664ff15584dcbb"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 342701,
-      "sha256": "eca54d007796af6a36522fca83ee57aab74759537d0de1db7f8c8b8a9c4bb392"
+      "bytes": 348548,
+      "sha256": "33c9d596fde18a764d37d1ab01b42ca70749b60951f300a67cb59d11bec25b89"
     },
     {
       "path": "analytics-status.json",
@@ -50,6 +50,11 @@
       "path": "art-nouveau.css",
       "bytes": 2309,
       "sha256": "5af132912a8ec0313c3d8d41b59937067d50c365c93488eb5e60f3c9a6c135ad"
+    },
+    {
+      "path": "artists.json",
+      "bytes": 14286,
+      "sha256": "53bea7e8f83c014756e4cf225a5ff685452fecadf6cd2266bebbf0a3eee74328"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1192,6 +1197,21 @@
       "sha256": "66a9d73b6ffd57bcff4782768e50706532f6414bb1590d17ab1de502bd52e7db"
     },
     {
+      "path": "assets/rivera-detroit-industry-nps-cactusman-1200.webp",
+      "bytes": 344072,
+      "sha256": "db45b0de257b2d30c5df6bf432bc0e9b0282d2a48b0375cb4bc561c7df36aaba"
+    },
+    {
+      "path": "assets/rivera-detroit-industry-nps-cactusman-720.webp",
+      "bytes": 145678,
+      "sha256": "42a1bae1ad3a544e906392e8749ee112f0f5afcbab6ee3956d8c1f24d1f439ac"
+    },
+    {
+      "path": "assets/rivera-detroit-industry-nps-cactusman.jpg",
+      "bytes": 474633,
+      "sha256": "0d0f37c15e5b7da40090262c18e8c5232653d76b683ba11a53168a26ce059e03"
+    },
+    {
       "path": "assets/schlemmer-bauhaus-exhibition-flyer-1200.webp",
       "bytes": 607942,
       "sha256": "294e657587f2e74461a41c6bbdd64485c1a5589f2305356045f2254763553078"
@@ -1243,8 +1263,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 36271,
-      "sha256": "e69f0e93130dbb11d954d34d7a5835dde1564afa294a212fb512717ec16dd2b5"
+      "bytes": 36332,
+      "sha256": "f9adb30244dd8884113150204c002f0aa5519fa7314244e130e92a569ce8e22d"
     },
     {
       "path": "chapter-navigation.css",
@@ -1293,8 +1313,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1728049,
-      "sha256": "e32212f0c7d1ef0cd61a0ad9aaa0ab3cf37cde42b56fdae4b19de9bcd2a77155"
+      "bytes": 1745127,
+      "sha256": "fdbb3718eb247adbb3c0ff427c33af08735334633f2fc230f136a286ed41bae8"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1493,8 +1513,8 @@
     },
     {
       "path": "entries/mexican-muralism.html",
-      "bytes": 27095,
-      "sha256": "95ceced1a048c6ee19f040af338a5bd2113fbb8339df6e1392c878dc967e0d33"
+      "bytes": 53773,
+      "sha256": "036b6e3a348149e8072c6a5c282e8ba3bbd886453bf9d53cfe54d4026653fb69"
     },
     {
       "path": "entries/mid-century-modern.html",
@@ -1764,7 +1784,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "088680a55ae5c70a27dc019d4e925e0ecc1ff9353597e6264e84266a8ca30141"
+      "sha256": "89315bb7a0377ef0edcb85184190244cc3491651f6f713ac894301ccd7bd0ee9"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1773,8 +1793,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25114,
-      "sha256": "88b788839724108e8856418060834ea08849a4bcb4ea3755329c9c2e68b103e7"
+      "bytes": 25204,
+      "sha256": "fddb51c7d6035ba7407bc5be5fca737db0de6f6db2f19fd75ca29dc380226b83"
     },
     {
       "path": "logo-provenance.json",
@@ -1813,8 +1833,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 17334,
-      "sha256": "4acddff46b839998c227b31e625be571a5fe78c25e3bf7d87e703318b8281ba6"
+      "bytes": 19344,
+      "sha256": "e2c960ee63ac06f1d0a7d05d4346b252f602b449b492edd94b3f09fa531bcbc0"
     },
     {
       "path": "share-copy.json",
@@ -1829,7 +1849,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "d8a519f4b22e5b0885289c97d923a8149354783cab3117e000618dfe4b306347"
+      "sha256": "08cc7acfb3fabb5c4460fe38af5309bf3add21ca1ac7cd059dd68fac3acedb2b"
     },
     {
       "path": "site.webmanifest",
@@ -1839,7 +1859,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "ff7abbe03a3631069b154aa0045512021b36d66eb060d6589e4738dddf83399e"
+      "sha256": "0cea09201a95eda8bff26bf35bcb8573d7b91fa2ea7fd270f49d242eca3a4891"
     },
     {
       "path": "study-images.js",
@@ -1855,6 +1875,11 @@
       "path": "style.css",
       "bytes": 22864,
       "sha256": "91a3e5c0695a9aa84c69db32e7d683f2d07082a92db07bb83561aa38e38ef886"
+    },
+    {
+      "path": "tests/artist-registry.py",
+      "bytes": 2226,
+      "sha256": "0fb4a44d47820796524723481e7440fbe7d885085cc56cb08f7fa4a09fa488f2"
     },
     {
       "path": "tests/chapter-navigation-browser.cjs",
@@ -1878,8 +1903,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 19176,
-      "sha256": "fcb56f4331649998d7ecab940654316899027c5768e283adb8b447453d0313c6"
+      "bytes": 20220,
+      "sha256": "c05276903a4aa0c109aecaad0006d01461367fb1e38311e1e781bc4df9a475aa"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",

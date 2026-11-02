@@ -9497,8 +9497,8 @@
     "type": "公共的・教育的な美術運動（単一技法・固定様式ではない）",
     "period": "1920年代に展開・定着し20世紀後半へ継続。1921年の先行例と1922年の集団的実験を区別する。",
     "region": "メキシコを中心とする運動。今回の個別候補には米国デトロイトでの展開例を含む。",
-    "summary": "メキシコ壁画運動は、建物の壁を、社会や歴史について語る場にした美術運動です。革命後の社会や教育と深く関わりました。ここで選んだ4作だけでも、労働、教育をめぐる暴力、歴史、政治への批判など、題材も設置場所も異なります。MPBAは、1920年代から20世紀後半にかけて、技法、美しさの考え方、政治的な立場が多様に展開したと説明しています。",
-    "context": "INBALは、1922年のサン・イルデフォンソでの活動を、公教育に関わる集団での実験と説明しています。初期のRivera、Leal、Charlot、Alva、Revueltasだけでなく、後のOrozco、Siqueiros、助手たちも含めて考えます。1921年にはMontenegroの先行例もあります。一つの年や、有名な三人だけで始まりを説明しきることはできません。",
+    "summary": "学校や美術館、市場の壁が、歴史や社会について考える場になりました。メキシコ壁画運動は、革命後の1920年代に広がった美術の動きです。働く人や先住民の歴史、争いの痛みなどを、大きな画面で多くの人へ届けます。ただし、画家の考え方も、材料も、依頼した人も一つではありません。",
+    "context": "革命後のメキシコでは、社会を立て直す中で、公教育と新しい国の文化が重視されました。教育を担当したホセ・バスコンセロスは、公共の建物の壁を絵で語る場にしようとしました。サン・イルデフォンソでは、複数の画家や助手が異なる考えを持ち寄ります。政府の支援を受けたことと、作品がすべて同じ政治的主張をしたことは、分けて考えます。",
     "recognition": {
       "color": "共通の配色は決めず、作品ごとの材料と保存状態を見ます。《América Tropical》の今の表面は、色が薄くなっています。これを1932年の完成時の色だとは考えません。",
       "type": "共通の書体は確認できていません。作品の中の文字、作品名、後から付けられた解説表示は分けて見ます。",
@@ -9518,7 +9518,17 @@
       "inbal-reyes-education-violence",
       "unesco-cabanas-orozco",
       "getty-america-tropical",
-      "getty-siqueiros-technique"
+      "getty-siqueiros-technique",
+      "san-ildefonso-history",
+      "san-ildefonso-1922",
+      "san-ildefonso-creation",
+      "san-ildefonso-trench",
+      "moma-rivera-chronology",
+      "hood-orozco-epic",
+      "whitney-vida-americana",
+      "whitney-market-murals",
+      "whitney-experimental-workshop",
+      "nps-detroit-photo"
     ],
     "source_urls": [
       "https://dia.org/collection/detroit-industry-north-wall/58538",
@@ -9530,188 +9540,34 @@
       "https://inba.gob.mx/prensa/20860/ultimos-dias-para-ver-la-muestra-arte-y-lucha-aurora-reyes-en-el-museo-nacional-de-san-carlos",
       "https://whc.unesco.org/en/list/815",
       "https://www.getty.edu/projects/conservation-america-tropical/",
-      "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/siqueiros_legacy_rev_feb14.pdf"
+      "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/siqueiros_legacy_rev_feb14.pdf",
+      "https://sanildefonso.org.mx/acervo.php",
+      "https://www.sanildefonso.org.mx/espiritudel22/index.html",
+      "https://sanildefonso.org.mx/mural_anfiteatro.php?height=100%25&iframe=true&width=810",
+      "https://sanildefonso.org.mx/mural_trinchera.php?height=100%25&iframe=true&width=810",
+      "https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+      "https://hoodmuseum.dartmouth.edu/explore/collection/featured-collections/orozcos-epic",
+      "https://whitney.org/exhibitions/vida-americana",
+      "https://whitney.org/exhibitions/vida-americana/art?section=7",
+      "https://whitney.org/exhibitions/vida-americana/art?section=8",
+      "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm"
     ],
     "overview_evidence_status": "primary_supported_text_review_with_explicit_identity_and_date_limits",
     "primary_reviewed": true,
-    "representative_count": 4,
+    "representative_count": 7,
     "ideal_target_count": "3–5",
-    "representativeness_limit": "4作品を、労働、教育、歴史と建築空間、政治への批判と材料の実験という役割から組み合わせました。メキシコ国内外の複数の作者を含みますが、すべての地域や時期をカバーする選び方ではありません。Reyesの作品に1936年と1934年の記載がある不一致は、そのまま明示しています。本文の説明を一次資料で確かめることと、画像を掲載する許可を得ることは、別に判断します。",
+    "representativeness_limit": "メキシコ国内の学校や礼拝堂と、米国の美術館・図書館・街の壁を比べます。大きな連作の全体と、その中の一場面は同じものではありません。有名な三人だけで運動全体を説明せず、ほかの画家や共同制作者の仕事にも目を向けます。画像を載せていない作品は、出典先の作品情報へ案内します。",
     "rights_cleared_adoptable_candidates": [],
-    "image_count_acquired": 0,
+    "image_count_acquired": 1,
     "publication_allowed": true,
-    "image_publication_allowed": false,
-    "publication_status": "text_draft_published_images_not_cleared",
+    "image_publication_allowed": true,
+    "publication_status": "published_article_with_image_gaps",
     "slug": "mexican-muralism",
-    "reviewed_representatives": [
-      {
-        "title": "Detroit Industry — North Wall",
-        "creator": "Diego Rivera",
-        "date": "1932–1933",
-        "domain": "フレスコ壁画・産業と労働・公共美術館",
-        "reason": "DIAは連作を、技術・労働・人の営みを美術館の中庭の四方の壁へ展開する作品と説明する。その北壁を通し、工業生産を公共的な鑑賞空間へ描き込むという、対象と場所の関係を読む。",
-        "limitation": "27面は連作全体の数で、北壁だけの数ではない。対象は33.10.N。壁画の一部分・全景・制作中の写真を混同しない。メキシコ国外の展開例なので、メキシコ内の代表作も必要。",
-        "evidence": "https://dia.org/collection/detroit-industry-north-wall/58538",
-        "identity_checks": [
-          "北壁と南壁、部分図と全景の撮影範囲を照合する。",
-          "壁画作品の国別権利と写真そのものの権利を別々に確認する。"
-        ],
-        "work_rights": "DIAは米国内で公表する場合のPD例外を明示。全世界の自由利用とは判断しない",
-        "reproduction_rights": "個別写真未確認。制作記録写真には©DIA/All rights reserved表示あり",
-        "commercial_use": "今回の用途全体に対する条件未確定・掲載不可",
-        "image_adoption": "未採用",
-        "source_ids": [
-          "dia-detroit-north",
-          "dia-rivera-court",
-          "dia-detroit-facts"
-        ],
-        "image_count_acquired": 0,
-        "identity": {
-          "object_kind": "壁画連作の北壁",
-          "medium": "フレスコ",
-          "record_year": "1932–1933",
-          "accession": "33.10.N",
-          "whole_cycle_panel_count": 27,
-          "north_wall_panel_count": null,
-          "photograph_date": null,
-          "date_note": "全27面は四方の壁に展開する連作全体。北壁のみを全連作と呼ばない。"
-        },
-        "visual_inspection_status": "実画像未実見。保持されたDIAの記録・解説に基づく。",
-        "selection_role": "産業・労働と美術館の鑑賞空間"
-      },
-      {
-        "title": "Atentado a las maestras rurales",
-        "creator": "Aurora Reyes",
-        "date": "1936（INBAL。AGNの1934記載と不一致、未解決）",
-        "domain": "学校のフレスコ壁画・女性教師への暴力と公教育",
-        "reason": "学校の玄関広間で、女性教師への暴力と子どもの目撃を扱う。教育をめぐる争いを公共教育の場で問う作例として、Detroitの産業・労働とは異なる主題とメキシコ国内の展開を補う。",
-        "limitation": "本壁画と準備素描・近年の展覧会用複製を区別。年代はINBALによる1936を採用し、異なるAGN記載は照合課題として残す。",
-        "evidence": "https://inba.gob.mx/prensa/8556/el-museo-de-arte-de-ciudad-juarez-alberga-la-exposicionaurora-reyes-la-primera-muralista-mexicana",
-        "identity_checks": [
-          "学校現地の壁画と別施設の複製展示を区別する。",
-          "準備素描のハッチングに関する解説を壁面の技法へそのまま転用しない。",
-          "INBALの1936とAGNの1934の違いを、設計・制作・完成・記録対象の区別も含め追加照合する。根拠なしに原因を推定しない。"
-        ],
-        "work_rights": "未確認。没年1985のみでPD判断しない",
-        "reproduction_rights": "未確認",
-        "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用",
-        "source_ids": [
-          "inbal-reyes-school-mural",
-          "inbal-reyes-education-violence"
-        ],
-        "source_urls": [
-          "https://inba.gob.mx/prensa/8556/el-museo-de-arte-de-ciudad-juarez-alberga-la-exposicionaurora-reyes-la-primera-muralista-mexicana",
-          "https://inba.gob.mx/prensa/20860/ultimos-dias-para-ver-la-muestra-arte-y-lucha-aurora-reyes-en-el-museo-nacional-de-san-carlos"
-        ],
-        "image_count_acquired": 0,
-        "identity": {
-          "object_kind": "学校の玄関広間にある壁画本体",
-          "medium": "フレスコ",
-          "record_year": "1936（INBAL）",
-          "conflicting_year": "1934（AGN）",
-          "date_conflict": {
-            "institution": "AGN",
-            "url": "https://www.gob.mx/agn/es/articulos/agnrecuerda-a-aurora-reyes-muralista-y-poeta-revolucionaria",
-            "claim": "1934",
-            "resolution": "unresolved; multiple INBAL records identify1936, show attribution not silently reconcile"
-          },
-          "preparatory_drawing": "別対象。壁画本体の技法分析へ素描のハッチング説明を転用しない。",
-          "modern_exhibition_reproduction": "別対象。別施設で展示された複製を学校現地の原作としない。",
-          "photograph_date": null
-        },
-        "visual_inspection_status": "実画像未実見。保持されたINBAL解説に基づく。",
-        "selection_role": "公教育をめぐる暴力と学校"
-      },
-      {
-        "title": "Hospicio Cabañas礼拝堂壁画群—El Hombre de Fuegoを中心に",
-        "creator": "José Clemente Orozco",
-        "date": "1930年代後半（UNESCO）",
-        "domain": "フレスコ連作・礼拝堂のドームと建築空間",
-        "reason": "スペインと先住民の歴史を扱う壁画群が礼拝堂に展開し、ドームのEl Hombre de Fuegoが焦点になる。平らな独立絵画とは違う、建築内での視点と歴史叙述の関係を説明できる。",
-        "limitation": "57点は壁画群全体の数。ドーム単独、礼拝堂全景、他壁面を識別。UNESCOの1936–39はGuadalajaraでの活動期とも記されるため、個別作の制作開始年へ機械的に移さない。",
-        "evidence": "https://whc.unesco.org/en/list/815",
-        "identity_checks": [
-          "El Hombre de Fuegoのドーム図と57壁画の連作全景を区別する。",
-          "建築家Manuel Tolsáと壁画家Orozcoの役割/年代を混同しない。"
-        ],
-        "work_rights": "未確認",
-        "reproduction_rights": "UNESCO掲載写真の個別許諾未確認",
-        "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用",
-        "source_ids": [
-          "unesco-cabanas-orozco"
-        ],
-        "source_urls": [
-          "https://whc.unesco.org/en/list/815"
-        ],
-        "image_count_acquired": 0,
-        "identity": {
-          "object_kind": "礼拝堂のフレスコ壁画連作",
-          "mural_artist": "José Clemente Orozco",
-          "building_architect": "Manuel Tolsá",
-          "record_period": "1930年代後半",
-          "whole_cycle_work_count": 57,
-          "featured_component": "ドームのEl Hombre de Fuego",
-          "individual_component_start_year": null,
-          "individual_component_completion_year": null,
-          "building_date": null,
-          "photograph_date": null,
-          "date_note": "建築設計と壁画制作を分ける。1936–39という活動期を個別壁画の開始・完成年へ転記しない。"
-        },
-        "visual_inspection_status": "実画像未実見。保持されたUNESCOの一次解説に基づく。",
-        "selection_role": "歴史叙述と礼拝堂・ドーム"
-      },
-      {
-        "title": "América Tropical",
-        "creator": "David Alfaro Siqueiros／Bloc of Mural Paintersの協働",
-        "date": "1932",
-        "domain": "屋外壁画・政治的批判・素材実験と検閲",
-        "reason": "ロサンゼルスの屋外壁面で、依頼された牧歌的風景とは異なる政治的イメージを描き、白塗りによる抹消を受けた。公共空間での発言と検閲、近代的道具を使う改変フレスコの実験を一緒に説明できる。",
-        "limitation": "1932年の制作、白塗り、後年の保存処置を区別。現存する退色状態を完成当初の色と見なさず、2012年は保存公開の年。",
-        "evidence": "https://www.getty.edu/projects/conservation-america-tropical/",
-        "identity_checks": [
-          "Italian Hallの現地壁画・保存写真・記録写真を識別する。",
-          "既存の扉や窓を含む構図と、切り抜き部分写真を区別する。"
-        ],
-        "work_rights": "Getty明示: Mural©2022Artists Rights Society (ARS), New York / SOMAAP, Mexico City",
-        "reproduction_rights": "写真ごとの権利別確認が必要",
-        "commercial_use": "未許諾・掲載不可",
-        "image_adoption": "不採用（権利許諾なし）",
-        "source_ids": [
-          "getty-america-tropical",
-          "getty-siqueiros-technique"
-        ],
-        "source_urls": [
-          "https://www.getty.edu/projects/conservation-america-tropical/",
-          "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/siqueiros_legacy_rev_feb14.pdf"
-        ],
-        "image_count_acquired": 0,
-        "identity": {
-          "object_kind": "Italian Hallの屋外壁画",
-          "location_context": "ロサンゼルス、建物外部の2階壁面",
-          "artist": "David Alfaro Siqueiros",
-          "collaborating_group": "Bloc of Mural Painters",
-          "creation_year": "1932",
-          "technique": "セメント系プラスター上の改変フレスコ、近代的道具による実験",
-          "whitewashing_sequence": [
-            "部分的な白塗り",
-            "後に全面の白塗り"
-          ],
-          "whitewashing_dates": null,
-          "conservation_public_presentation_year": "2012",
-          "photograph_date": null,
-          "date_note": "2012は保存公開の年で、制作・再制作・全面塗り直しの年ではない。白塗り各段階の具体年は保持根拠にないため補わない。"
-        },
-        "visual_inspection_status": "実画像未実見。取得済Gettyの保存・技法解説に基づく。",
-        "selection_role": "政治的批判・検閲・協働と素材実験"
-      }
-    ],
     "sources": [
       {
         "id": "dia-detroit-north",
         "url": "https://dia.org/collection/detroit-industry-north-wall/58538",
-        "institution": "Detroit Institute of Arts",
+        "institution": "デトロイト美術館",
         "inspection": "official-domain search returned collection record",
         "supports": [
           "Rivera1932–33 NorthWall fresco33.10.N",
@@ -9722,7 +9578,7 @@
       {
         "id": "dia-rivera-court",
         "url": "https://dia.org/riveracourt",
-        "institution": "Detroit Institute of Arts",
+        "institution": "デトロイト美術館",
         "inspection": "official-domain search returned interpretation text",
         "supports": [
           "1932–33 cycle surrounds4walls",
@@ -9734,7 +9590,7 @@
       {
         "id": "dia-detroit-facts",
         "url": "https://dia.org/sites/default/files/2024-09/Rivera%20Court%20Fact%20Sheet.pdf",
-        "institution": "Detroit Institute of Arts",
+        "institution": "デトロイト美術館",
         "inspection": "official-domain search returned official fact sheet text",
         "supports": [
           "27panels entirecycle notnorthwallalone",
@@ -9745,7 +9601,7 @@
       {
         "id": "inbal-muralism-san-ildefonso",
         "url": "https://inba.gob.mx/prensa/17120/el-espiritu-del-22-un-siglo-de-muralismo-en-san-ildefonso-exposicion-que-propone-un-dialogo-dinamico-y-actual-con-el-legado-mural-del-recinto-universitario",
-        "institution": "Instituto Nacional de Bellas Artes y Literatura（INBAL）",
+        "institution": "メキシコ国立芸術文学研究所（INBAL）",
         "inspection": "official-domain search returned institutional exhibition text",
         "supports": [
           "1922 SanIldefonso collective experiment tiedpubliceducation",
@@ -9758,7 +9614,7 @@
       {
         "id": "mpba-muralism-booklet",
         "url": "https://museopalaciodebellasartes.inba.gob.mx/wp-content/uploads/2023/11/mpba_cuadernillo.pdf",
-        "institution": "Museo del Palacio de Bellas Artes（MPBA / INBAL）",
+        "institution": "ベジャス・アルテス宮殿美術館",
         "inspection": "official-domain search returned booklet introduction",
         "supports": [
           "postrevolution public pedagogical avantgarde movement",
@@ -9770,7 +9626,7 @@
       {
         "id": "inbal-reyes-school-mural",
         "url": "https://inba.gob.mx/prensa/8556/el-museo-de-arte-de-ciudad-juarez-alberga-la-exposicionaurora-reyes-la-primera-muralista-mexicana",
-        "institution": "INBAL",
+        "institution": "メキシコ国立芸術文学研究所（INBAL）",
         "inspection": "official search excerpt",
         "supports": [
           "Atentado a las maestras rurales1936, fresco, Centro Escolar Revolución; preparatory sketches separate from final wall"
@@ -9780,7 +9636,7 @@
       {
         "id": "inbal-reyes-education-violence",
         "url": "https://inba.gob.mx/prensa/20860/ultimos-dias-para-ver-la-muestra-arte-y-lucha-aurora-reyes-en-el-museo-nacional-de-san-carlos",
-        "institution": "INBAL / Museo Nacional de San Carlos",
+        "institution": "メキシコ国立芸術文学研究所／サン・カルロス国立美術館",
         "inspection": "official search excerpt plus same bulletin PDF text",
         "supports": [
           "LEAR competition for school vestibule; violence against women teachers and child witnesses; 1936"
@@ -9790,7 +9646,7 @@
       {
         "id": "unesco-cabanas-orozco",
         "url": "https://whc.unesco.org/en/list/815",
-        "institution": "UNESCO World Heritage Centre",
+        "institution": "ユネスコ世界遺産センター",
         "inspection": "official-domain search returned OUV text",
         "supports": [
           "late1930s57frescoes byOrozco in chapel; dome ElHombredeFuego",
@@ -9801,7 +9657,7 @@
       {
         "id": "getty-america-tropical",
         "url": "https://www.getty.edu/projects/conservation-america-tropical/",
-        "institution": "Getty Conservation Institute",
+        "institution": "ゲティ保存研究所",
         "inspection": "official-domain search returned project text",
         "supports": [
           "1932 Siqueiros ItalianHall exterior secondstory, censorship partial then fullwhitewash",
@@ -9812,38 +9668,98 @@
       {
         "id": "getty-siqueiros-technique",
         "url": "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/siqueiros_legacy_rev_feb14.pdf",
-        "institution": "Getty Conservation Institute",
+        "institution": "ゲティ保存研究所",
         "inspection": "official-domain search excerpt, Leslie Rainer preservation chapter",
         "supports": [
           "cementplaster modifiedfresco modern tools; BlocofMuralPainters collaborative process; existing shutters/door incorporated"
         ],
         "image_reuse": "not established"
+      },
+      {
+        "id": "san-ildefonso-history",
+        "institution": "サン・イルデフォンソ学院",
+        "title": "壁画コレクションと運動の成立",
+        "url": "https://sanildefonso.org.mx/acervo.php"
+      },
+      {
+        "id": "san-ildefonso-1922",
+        "institution": "サン・イルデフォンソ学院",
+        "title": "1922年の精神：壁画運動100年",
+        "url": "https://www.sanildefonso.org.mx/espiritudel22/index.html"
+      },
+      {
+        "id": "san-ildefonso-creation",
+        "institution": "サン・イルデフォンソ学院",
+        "title": "リベラ《創造》の個別解説",
+        "url": "https://sanildefonso.org.mx/mural_anfiteatro.php?height=100%25&iframe=true&width=810"
+      },
+      {
+        "id": "san-ildefonso-trench",
+        "institution": "サン・イルデフォンソ学院",
+        "title": "オロスコ《塹壕》の個別解説",
+        "url": "https://sanildefonso.org.mx/mural_trinchera.php?height=100%25&iframe=true&width=810"
+      },
+      {
+        "id": "moma-rivera-chronology",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "title": "ディエゴ・リベラの年表",
+        "url": "https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html"
+      },
+      {
+        "id": "hood-orozco-epic",
+        "institution": "ダートマス大学フッド美術館",
+        "title": "オロスコ《アメリカ文明の叙事詩》",
+        "url": "https://hoodmuseum.dartmouth.edu/explore/collection/featured-collections/orozcos-epic"
+      },
+      {
+        "id": "whitney-vida-americana",
+        "institution": "ホイットニー美術館",
+        "title": "メキシコの壁画家と米国美術の交流",
+        "url": "https://whitney.org/exhibitions/vida-americana"
+      },
+      {
+        "id": "whitney-market-murals",
+        "institution": "ホイットニー美術館",
+        "title": "アベラルド・L・ロドリゲス市場の壁画",
+        "url": "https://whitney.org/exhibitions/vida-americana/art?section=7"
+      },
+      {
+        "id": "whitney-experimental-workshop",
+        "institution": "ホイットニー美術館",
+        "title": "シケイロスと実験工房",
+        "url": "https://whitney.org/exhibitions/vida-americana/art?section=8"
+      },
+      {
+        "id": "nps-detroit-photo",
+        "institution": "米国国立公園局（NPS）",
+        "title": "デトロイト産業壁画の紹介と写真",
+        "url": "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
+    "status": "本文・作品例と実作品画像1点を公開。画像の収録は継続中。",
     "representatives": [
       {
-        "title": "Detroit Industry — North Wall",
-        "creator": "Diego Rivera",
+        "title": "デトロイトの産業：北壁",
+        "creator": "ディエゴ・リベラ（Diego Rivera）",
         "date": "1932–1933",
         "domain": "フレスコ壁画・産業と労働・公共美術館",
         "reason": "DIAは、この連作を、技術、労働、人の営みを、美術館の中庭の四方の壁に描いた作品と説明しています。ここでは北側の壁を見ます。工場での生産を、多くの人が鑑賞する場所に描くことで、題材と場所がどう結びつくかを考えます。",
-        "limitation": "27面という数は連作全体で、北壁だけの数ではありません。対象は33.10.Nです。壁画の一部、全体を写したもの、制作途中の写真は区別します。メキシコ国外への広がりを示す例なので、メキシコ国内の代表作も必要です。",
+        "limitation": "27面という数は連作全体で、北壁だけの数ではありません。対象は33.10.Nです。壁画の一部、全体を写したもの、制作途中の写真は区別します。メキシコ国外への広がりを示す例なので、メキシコ国内の代表作も必要です。 掲載写真は北壁中央の工場場面などを写した部分図です。撮影年は不詳です。",
         "evidence": "https://dia.org/collection/detroit-industry-north-wall/58538",
         "identity_checks": [
           "北壁と南壁、部分図と全景の撮影範囲を照合する。",
           "壁画作品の国別権利と写真そのものの権利を別々に確認する。"
         ],
         "work_rights": "DIAは米国内で公表する場合のPD例外を明示。全世界の自由利用とは判断しない",
-        "reproduction_rights": "個別写真未確認。制作記録写真には©DIA/All rights reserved表示あり",
-        "commercial_use": "今回の用途全体に対する条件未確定・掲載不可",
-        "image_adoption": "未採用",
+        "reproduction_rights": "写真は米国国立公園局（NPS）がCactus.man撮影・Public Domainと表示しています。CC0という表示ではありません。",
+        "commercial_use": "今回掲載するNPS配信写真について条件を確認。ほかの写真や全世界での利用を許諾する表示ではありません。",
+        "image_adoption": "北壁の部分図1点を掲載",
         "source_ids": [
           "dia-detroit-north",
           "dia-rivera-court",
           "dia-detroit-facts"
         ],
-        "image_count_acquired": 0,
+        "image_count_acquired": 1,
         "identity": {
           "object_kind": "壁画連作の北壁",
           "medium": "フレスコ",
@@ -9854,7 +9770,7 @@
           "photograph_date": null,
           "date_note": "全27面は四方の壁に展開する連作全体。北壁のみを全連作と呼ばない。"
         },
-        "visual_inspection_status": "実画像未実見。保持されたDIAの記録・解説に基づく。",
+        "visual_inspection_status": "NPS配信の北壁中央部分図を実見。北壁全体や連作全27面の実見ではありません。",
         "selection_role": "産業・労働と美術館の鑑賞空間",
         "reading_intro": {
           "heading": "働く人と機械を、中庭の壁に描く。",
@@ -9863,11 +9779,15 @@
             "ここで取り上げるのは、北側の壁です。",
             "工場の仕事を、多くの人が見る場所に描く意味を考えます。"
           ]
-        }
+        },
+        "title_original": "Detroit Industry — North Wall",
+        "image_ids": [
+          "nps-rivera-detroit-north-detail"
+        ]
       },
       {
-        "title": "Atentado a las maestras rurales",
-        "creator": "Aurora Reyes",
+        "title": "地方の女性教師への襲撃",
+        "creator": "アウロラ・レイエス（Aurora Reyes）",
         "date": "1936（INBAL。AGNの1934記載と不一致、未解決）",
         "domain": "学校のフレスコ壁画・女性教師への暴力と公教育",
         "reason": "学校の玄関広間で、女性教師への暴力と、それを目撃する子どもを描いています。教育をめぐる争いを、公共教育の場で問いかける例です。デトロイトの産業や労働とは異なる題材と、メキシコ国内での展開を補います。",
@@ -9915,11 +9835,12 @@
             "学校の入口の広間にあります。",
             "学ぶための場所に、教育をめぐる争いが描かれています。"
           ]
-        }
+        },
+        "title_original": "Atentado a las maestras rurales"
       },
       {
-        "title": "Hospicio Cabañas礼拝堂壁画群—El Hombre de Fuegoを中心に",
-        "creator": "José Clemente Orozco",
+        "title": "カバーニャス礼拝堂の壁画群：《炎の人》を中心に",
+        "creator": "ホセ・クレメンテ・オロスコ（José Clemente Orozco）",
         "date": "1930年代後半（UNESCO）",
         "domain": "フレスコ連作・礼拝堂のドームと建築空間",
         "reason": "礼拝堂には、スペインと先住民の歴史を扱う壁画が広がっています。ドームに描かれた《El Hombre de Fuego》が、視線を集める中心です。一枚の平らな絵とは違い、建物の中のどこから見るかと、歴史をどう語るかの関係を説明できます。",
@@ -9965,8 +9886,8 @@
         }
       },
       {
-        "title": "América Tropical",
-        "creator": "David Alfaro Siqueiros／Bloc of Mural Paintersの協働",
+        "title": "アメリカ・トロピカル",
+        "creator": "ダビド・アルファロ・シケイロス（David Alfaro Siqueiros／Bloc of Mural Paintersの協働）",
         "date": "1932",
         "domain": "屋外壁画・政治的批判・素材実験と検閲",
         "reason": "ロサンゼルスの屋外の壁に、依頼されたのどかな風景とは違う、政治的なイメージを描きました。作品は白く塗りつぶされました。公共の場所で意見を表すことと、それを制限する検閲（けんえつ）を考えられます。新しい道具を使い、フレスコ技法を変えた実験も一緒に説明できます。",
@@ -10014,7 +9935,83 @@
             "注文されたのどかな風景とは違い、政治への意見を表す絵になりました。",
             "後に白く塗りつぶされ、さらに後の時代に保存の作業が行われました。"
           ]
-        }
+        },
+        "title_original": "América Tropical"
+      },
+      {
+        "title": "創造",
+        "title_original": "La Creación",
+        "creator": "ディエゴ・リベラ（Diego Rivera）",
+        "date": "1922年（サン・イルデフォンソの個別記録）",
+        "domain": "講堂の壁画・エンコースティック",
+        "reason": "学校の講堂に描かれた初期の作品です。ろうを使う技法を用い、知識や音楽などの考えを人物の姿で表しています。壁画運動が、工場や労働だけを描いたわけではないことがわかります。",
+        "limitation": "サン・イルデフォンソのシモン・ボリバル講堂にある壁画です。個別記録の1922年を表示します。後年のリベラ作品と同じフレスコ技法とはしません。",
+        "evidence": "https://sanildefonso.org.mx/mural_anfiteatro.php?height=100%25&iframe=true&width=810",
+        "source_ids": [
+          "san-ildefonso-creation"
+        ],
+        "reading_intro": {
+          "heading": "創造",
+          "lead": [
+            "学校の講堂で、知識や芸術を人の姿に表した壁画です。",
+            "ろうを使う絵の方法にも注目します。"
+          ]
+        },
+        "work_rights": "画像の利用条件は未確認。本文で作品を紹介します。",
+        "reproduction_rights": "所蔵・管理機関の解説ページへ案内します。画像の転載許可を示すものではありません。",
+        "commercial_use": "画像は未掲載。個別の利用条件を確認する必要があります。",
+        "image_adoption": "未掲載",
+        "image_count_acquired": 0
+      },
+      {
+        "title": "塹壕（ざんごう）",
+        "title_original": "La trinchera",
+        "creator": "ホセ・クレメンテ・オロスコ（José Clemente Orozco）",
+        "date": "1926年",
+        "domain": "学校の壁画・フレスコ",
+        "reason": "戦いの中で倒れる三人が、斜めの流れをつくります。サン・イルデフォンソの解説は、革命の力と痛みを読む作品として紹介しています。勝利を祝う絵だけではないことがわかります。",
+        "limitation": "サン・イルデフォンソにある壁画本体です。公式解説の図像説明に基づきます。ウェブ掲載画像への機関の複製許可表記は、このサイトへの転載許可とは別です。",
+        "evidence": "https://sanildefonso.org.mx/mural_trinchera.php?height=100%25&iframe=true&width=810",
+        "source_ids": [
+          "san-ildefonso-trench"
+        ],
+        "reading_intro": {
+          "heading": "塹壕（ざんごう）",
+          "lead": [
+            "地面を掘った防御の場所が、作品の題名です。",
+            "倒れる人の斜めの配置から、戦いの痛みを考えます。"
+          ]
+        },
+        "work_rights": "画像の利用条件は未確認。本文で作品を紹介します。",
+        "reproduction_rights": "所蔵・管理機関の解説ページへ案内します。画像の転載許可を示すものではありません。",
+        "commercial_use": "画像は未掲載。個別の利用条件を確認する必要があります。",
+        "image_adoption": "未掲載",
+        "image_count_acquired": 0
+      },
+      {
+        "title": "アメリカ文明の叙事詩（じょじし）",
+        "title_original": "The Epic of American Civilization",
+        "creator": "ホセ・クレメンテ・オロスコ（José Clemente Orozco）",
+        "date": "1932〜1934年",
+        "domain": "図書館の壁画連作・フレスコ",
+        "reason": "ダートマス大学の図書館で、24の画面が歴史を問い直します。大学美術館は、破壊と創造が繰り返される物語として説明しています。一方向に進歩する歴史だけではない見方を考えられます。",
+        "limitation": "米国ニューハンプシャー州のベイカー図書館にある連作全体です。24は画面数で、24の独立した代表作として数えません。個々の画面番号と所蔵番号の対応は別途確認が必要なため、ここでは断定しません。",
+        "evidence": "https://hoodmuseum.dartmouth.edu/explore/collection/featured-collections/orozcos-epic",
+        "source_ids": [
+          "hood-orozco-epic"
+        ],
+        "reading_intro": {
+          "heading": "アメリカ文明の叙事詩（じょじし）",
+          "lead": [
+            "図書館の壁に、長い歴史の物語が広がります。",
+            "「アメリカ」を米国だけと考えず、破壊と創造のつながりをたどります。"
+          ]
+        },
+        "work_rights": "画像の利用条件は未確認。本文で作品を紹介します。",
+        "reproduction_rights": "所蔵・管理機関の解説ページへ案内します。画像の転載許可を示すものではありません。",
+        "commercial_use": "画像は未掲載。個別の利用条件を確認する必要があります。",
+        "image_adoption": "未掲載",
+        "image_count_acquired": 0
       }
     ],
     "period_bands": [
@@ -10023,7 +10020,92 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "nps-rivera-detroit-north-detail",
+        "entry": "Mexican Muralism",
+        "author": "ディエゴ・リベラ",
+        "title": "デトロイトの産業：北壁の一部",
+        "year": "壁画：1932–1933年／写真：撮影年不詳",
+        "institution": "デトロイト美術館",
+        "accession": "33.10.N",
+        "source_page": "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm",
+        "work_source_page": "https://dia.org/collection/detroit-industry-north-wall/58538",
+        "image_url": "https://www.nps.gov/common/uploads/cropped_image/primary/157B0E21-EFCB-7434-19C7097B167ACBE0.jpg?mode=crop&quality=90&width=1600",
+        "license": "Public Domain（写真：NPSの個別表示／原作品：DIAが米国内公表について明示）",
+        "license_url": "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm",
+        "rights_policy_url": "https://dia.org/collection/detroit-industry-north-wall/58538",
+        "checked_at": "2026-11-02",
+        "credit": "Diego M. Rivera, Detroit Industry, North Wall, 1932–1933, fresco. Detroit Institute of Arts, Gift of Edsel B. Ford,33.10.N. 部分図。Photo credited to Cactus.man; Public Domain, via National Park Service.",
+        "underlying_work_rights": "DIAは、この壁画が米国内の公表についてPublic Domainであると明記しています。日本では保護期間を確認しています。すべての国で自由に使えるという意味ではありません。",
+        "reproduction_rights": "写真は米国国立公園局（NPS）がCactus.man撮影・Public Domainと表示しています。CC0という表示ではありません。",
+        "photographer": "Cactus.man（NPS掲載クレジットによる）",
+        "commercial_use": "米国・日本についての個別の権利確認に基づく再掲載。全法域の権利保証ではない。",
+        "territory_note": "米国・日本での本サイト掲載を対象とした確認です。ほかの国や別用途での利用条件を保証しません。",
+        "local_file": "assets/rivera-detroit-industry-nps-cactusman.jpg",
+        "viewing_point": "大きな機械と働く人の比率、いくつもの工程を重ねた配置、奥の炉の光。",
+        "alt": "デトロイト産業壁画の北壁の一部。大きな白い機械の間で人々が体を曲げて働き、奥にオレンジ色の炉が見える。",
+        "rights_reviewed": true,
+        "linking_policy_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "pixels_inspected": true,
+        "display_verified": false,
+        "status": "candidate_local_image",
+        "local_bytes": 474633,
+        "width": 1484,
+        "height": 835,
+        "sha256": "0d0f37c15e5b7da40090262c18e8c5232653d76b683ba11a53168a26ce059e03",
+        "original_bytes_unchanged": true,
+        "visual_notes": [
+          {
+            "title": "機械の大きさを、人の体と比べる。",
+            "text": "白く明るい機械が高く立ち、その下で人々が体を曲げたり腕を伸ばしたりしています。人と設備の大きさの差を見てみましょう。"
+          },
+          {
+            "title": "一つの画面に、いくつもの仕事が重なる。",
+            "text": "手前の作業列から奥の炉まで、梁や管、機械が重なっています。一人の英雄だけでなく、つながった仕事の流れに目が向く配置です。"
+          },
+          {
+            "title": "これは北壁の一部分。",
+            "text": "掲載写真には中央の工場場面と上下の帯状の部分が写っています。北壁の上方の大きな人物像や隅の場面、ほかの三方の壁は含まれていません。"
+          }
+        ],
+        "presentation": {
+          "placement": "lead",
+          "fullsize_label": "北壁の部分図を開く",
+          "eyebrow": "MEXICAN MURALISM / FRESCO",
+          "scope_note": "北壁33.10.Nの部分図です。壁画連作の27面すべてや北壁全体を写した写真ではありません。",
+          "observations_note": "画面内の形・色・人の姿勢は取得写真の実見による観察です。作者・年代・技法・所蔵情報はDIAの記録を参照しています。",
+          "source_label": "写真の出典（米国国立公園局）",
+          "rights_summary": "写真：NPSがPublic Domainと表示。原作品：DIAは米国内での公表に関するPublic Domainを明示。",
+          "provenance_note": "NPSが配信する部分図を無加工で取得しました。配信元の切り抜きを含み、原壁画全体の画像ではありません。写真の撮影年は不詳です。",
+          "policy_label": "所蔵館の作品・権利情報",
+          "license_label": "NPSの写真クレジット"
+        },
+        "title_original": "Detroit Industry, North Wall（デトロイト産業壁画・北壁の一部）",
+        "display_derivatives": {
+          "variants": [
+            {
+              "local_file": "assets/rivera-detroit-industry-nps-cactusman-720.webp",
+              "width": 720,
+              "height": 405,
+              "bytes": 145678,
+              "sha256": "42a1bae1ad3a544e906392e8749ee112f0f5afcbab6ee3956d8c1f24d1f439ac"
+            },
+            {
+              "local_file": "assets/rivera-detroit-industry-nps-cactusman-1200.webp",
+              "width": 1200,
+              "height": 675,
+              "bytes": 344072,
+              "sha256": "db45b0de257b2d30c5df6bf432bc0e9b0282d2a48b0375cb4bc561c7df36aaba"
+            }
+          ],
+          "method": "NPS配信画像の全体と縦横比を保って縮小し、WebPに変換しました。追加の切り抜き・色補正・描き直しはしていません。"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -10031,18 +10113,244 @@
     "supplemental_explainer_count": 0,
     "has_generated_visual_material": false,
     "reading_intro": {
-      "heading": "建物の壁いっぱいに、働く人や歴史を描く。",
+      "heading": "壁の前に立つと、社会が見えてくる。",
       "lead": [
-        "絵をかく場所は、紙や布だけではありません。",
-        "メキシコでは、建物の壁に、人々の仕事や歴史、社会の争いを描く活動が広がりました。",
-        "学校の入口や、人々が集まる建物にも描かれました。",
-        "どこに立って見るかで、絵の見え方も変わります。"
+        "絵を買わなくても、学校や美術館の壁で大きな作品に出会える。メキシコ壁画運動は、そうした場所を使い、歴史や働く人の姿を描きました。",
+        "リベラ、オロスコ、シケイロスの表現は同じではありません。アウロラ・レイエスなど、ほかの画家の仕事も一緒に見ていきましょう。"
       ],
       "looking_questions": [
-        "壁の絵を見るなら、人物は壁のどこに、どれくらいの大きさで描かれているでしょう。",
-        "建物全体の写真を見るなら、その絵は入口や天井とどんな位置にあるでしょう。"
+        "人の体と、大きな機械はどう並んでいますか。",
+        "壁に描かれた絵は、紙の絵と見え方がどう違うでしょう。",
+        "誰が描き、誰が依頼し、誰が見た作品でしょう。"
       ]
-    }
+    },
+    "deep_dive": [
+      {
+        "id": "public-wall",
+        "title": "なぜ、絵を壁に描いたの？",
+        "paragraphs": [
+          "革命後の社会では、教育をどう広げ、どんな歴史を共有するかが大きな課題でした。学校などの壁は、絵を買って家に飾る人だけでなく、その建物を使う人へ語りかけられる場所です。",
+          "一方で、何を描けるかは、建物を管理する人や費用を出す人とも関係します。「公共のための絵」だから、いつでも誰でも自由に見られた、とは限りません。誰が依頼し、誰が見ていたのかも調べてみましょう。"
+        ],
+        "source_ids": [
+          "san-ildefonso-history",
+          "moma-rivera-chronology"
+        ]
+      },
+      {
+        "id": "different-voices",
+        "title": "リベラ、オロスコ、シケイロスはどう違う？",
+        "paragraphs": [
+          "リベラの《デトロイトの産業》では、工場の仕事や機械が美術館の四方の壁へ広がります。技術をたたえるだけでなく、戦争に使われる面も描きます。オロスコの《塹壕（ざんごう）》は、戦いの力強さとともに、人が倒れる痛みに目を向けます。",
+          "シケイロスの《アメリカ・トロピカル》は、米国の力を批判する図像を街の壁に描き、後に白く塗りつぶされました。この違いは、三人の全作品を決めつける分類ではありません。一作ずつ、題材と場所を比べるための入口です。"
+        ],
+        "source_ids": [
+          "dia-rivera-court",
+          "san-ildefonso-trench",
+          "getty-america-tropical"
+        ]
+      },
+      {
+        "id": "materials-team",
+        "title": "壁画は、全部フレスコなの？",
+        "paragraphs": [
+          "フレスコは、まだ乾いていないしっくいに絵具をのせる方法です。でも、この運動が使った技法はそれだけではありません。リベラの《創造》は、ろうや樹脂を用いるエンコースティックで描かれました。",
+          "シケイロスは1936年、ニューヨークで実験工房を開きました。参加者は床に置いた画面へ塗料を流すなど、新しい材料と動きを試します。壁画運動を見るときは、完成した大きな絵だけでなく、それを支える下描き、材料、共同制作にも注目できます。"
+        ],
+        "source_ids": [
+          "san-ildefonso-creation",
+          "whitney-experimental-workshop"
+        ]
+      },
+      {
+        "id": "patrons-public",
+        "title": "支援する人と、描かれる人は同じ？",
+        "paragraphs": [
+          "デトロイトでは、リベラの制作を美術館長が後押しし、エドセル・フォードが資金を出しました。働く人を描く画家と、企業に関わる支援者の関係には、緊張もあります。支援者の立場と絵の内容を、同じものとして読まないことが大切です。",
+          "メキシコ市のアベラルド・L・ロドリゲス市場では、食品や健康を扱う計画に対し、労働者の貧しさや不公平へ目を向けた画家たちもいました。リベラは技術面の助言役、パブロ・オヒギンズは制作を監督する役でした。すべてを一人の画家の仕事としないで見ましょう。"
+        ],
+        "source_ids": [
+          "dia-rivera-court",
+          "whitney-market-murals"
+        ]
+      },
+      {
+        "id": "space-history",
+        "title": "絵の前で、体を動かして見る",
+        "paragraphs": [
+          "礼拝堂の丸天井、美術館の中庭、図書館の壁。壁画は、建物の形と切り離せません。カバーニャスの《炎の人》は、礼拝堂に広がる連作の一部です。天井の一場面だけを写した写真から、建物全体を見たように説明しないようにしましょう。",
+          "オロスコがダートマス大学で描いた《アメリカ文明の叙事詩》は24面の連作です。大学美術館は、これを一直線の進歩の物語ではなく、破壊と創造が繰り返される歴史として説明しています。視線を移しながら、どの場面が隣り合うかを考えられます。"
+        ],
+        "source_ids": [
+          "unesco-cabanas-orozco",
+          "hood-orozco-epic"
+        ]
+      },
+      {
+        "id": "afterlife",
+        "title": "消された絵が、もう一度読まれる",
+        "paragraphs": [
+          "《アメリカ・トロピカル》は1932年の制作後、段階的に白く塗りつぶされました。後のチカーノ、つまりメキシコ系米国人の壁画運動の中で関心が高まり、保存を経て2012年に公開されました。現在の薄れた色を、完成当時の色とは考えません。",
+          "メキシコと米国の画家は、国境を越えて制作し、学び合いました。ホイットニー美術館は、1925〜1945年の交流が米国の美術へ与えた影響を紹介しています。今日の街の壁画やグラフィティにも社会へ語る表現がありますが、似ているという理由だけで、すべてをこの運動の直接の子孫とはしません。"
+        ],
+        "source_ids": [
+          "getty-america-tropical",
+          "whitney-vida-americana"
+        ]
+      }
+    ],
+    "regional_variants": [
+      {
+        "place": "メキシコ市",
+        "name": "学校から始まる実験",
+        "description": "サン・イルデフォンソでは、リベラだけでなく、シャルロ、レアル、レブエルタスらも壁に描きました。フレスコと、ろうを使う技法が並びます。",
+        "source_ids": [
+          "san-ildefonso-history"
+        ]
+      },
+      {
+        "place": "グアダラハラ",
+        "name": "礼拝堂と丸天井",
+        "description": "カバーニャスでは、オロスコの壁画が建物の内側に広がります。建物の設計者と、後から壁画を描いた人を分けて見ます。",
+        "source_ids": [
+          "unesco-cabanas-orozco"
+        ]
+      },
+      {
+        "place": "米国・デトロイト",
+        "name": "産業都市の美術館",
+        "description": "リベラは工場を観察し、労働と機械を美術館の中庭へ描きました。北壁は、四方の壁に広がる連作の一部です。",
+        "source_ids": [
+          "dia-rivera-court"
+        ]
+      },
+      {
+        "place": "米国・ロサンゼルス",
+        "name": "街での発言と保存",
+        "description": "シケイロスの屋外壁画は白塗りを経験し、後の世代に読み直されました。制作の年と、保存後に公開した年を分けます。",
+        "source_ids": [
+          "getty-america-tropical"
+        ]
+      },
+      {
+        "place": "米国・ニューハンプシャー",
+        "name": "図書館で歴史を問い直す",
+        "description": "ダートマス大学のオロスコ作品は、ベイカー図書館にあります。「アメリカ」を米国だけの歴史に限定せずに考える入口です。",
+        "source_ids": [
+          "hood-orozco-epic"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1920〜1921年",
+        "event": "革命後の社会の再建が進み、バスコンセロスが文化と公教育の計画を進める。1921年には教育大臣となる。",
+        "source_ids": [
+          "moma-rivera-chronology"
+        ]
+      },
+      {
+        "date": "1922年",
+        "event": "サン・イルデフォンソで複数の画家による壁画制作が進む。単独の発明というより、共同の実験の場となる。",
+        "source_ids": [
+          "san-ildefonso-1922"
+        ]
+      },
+      {
+        "date": "1926年",
+        "event": "オロスコが《塹壕》を描く。革命の争いを、勝利だけでなく痛みからも考えさせる。",
+        "source_ids": [
+          "san-ildefonso-trench"
+        ]
+      },
+      {
+        "date": "1932〜1934年",
+        "event": "リベラはデトロイトで1932〜1933年に制作。シケイロスはロサンゼルスで1932年、オロスコはダートマスで1932〜1934年に壁画を描く。",
+        "source_ids": [
+          "dia-rivera-court",
+          "getty-america-tropical",
+          "hood-orozco-epic"
+        ]
+      },
+      {
+        "date": "1936年",
+        "event": "シケイロスがニューヨークで実験工房を開き、材料や塗り方を試す。",
+        "source_ids": [
+          "whitney-experimental-workshop"
+        ]
+      },
+      {
+        "date": "1930年代後半",
+        "event": "オロスコがカバーニャスの礼拝堂に壁画連作を描く。年はユネスコの詳しい解説の表記に従う。",
+        "source_ids": [
+          "unesco-cabanas-orozco"
+        ]
+      },
+      {
+        "date": "2012年",
+        "event": "《アメリカ・トロピカル》が保存を経て公開される。新しく描き直した年ではない。",
+        "source_ids": [
+          "getty-america-tropical"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "壁画",
+        "reading": "へきが",
+        "explanation": "建物の壁や天井などに描かれた絵。写真では、全体か一部分かも確かめます。"
+      },
+      {
+        "term": "公教育",
+        "reading": "こうきょういく",
+        "explanation": "国や地域の公共的な仕組みによって行う教育。ここでは学校や教育政策と美術の関係を考えます。"
+      },
+      {
+        "term": "フレスコ",
+        "reading": "",
+        "explanation": "湿ったしっくいの上に絵具をのせる壁画の技法。すべての壁画がこの方法とは限りません。"
+      },
+      {
+        "term": "エンコースティック",
+        "reading": "",
+        "explanation": "ろうを用いて色の材料を定着させる技法。リベラの《創造》では樹脂や蜜ろうも用いられました。"
+      },
+      {
+        "term": "連作",
+        "reading": "れんさく",
+        "explanation": "関係する複数の作品や画面を、一つのまとまりとしてつくったもの。部分の写真と全体を区別します。"
+      },
+      {
+        "term": "塹壕",
+        "reading": "ざんごう",
+        "explanation": "戦いの中で、身を守るために地面を掘ってつくる場所。ここではオロスコの作品名にも使われます。"
+      },
+      {
+        "term": "検閲",
+        "reading": "けんえつ",
+        "explanation": "発表する内容を調べ、制限したり取り除いたりすること。"
+      },
+      {
+        "term": "支援者",
+        "reading": "しえんしゃ",
+        "explanation": "制作費や場所などを提供する人・組織。描く人と、絵に描かれる人とは別の役割です。"
+      },
+      {
+        "term": "チカーノ",
+        "reading": "",
+        "explanation": "メキシコ系米国人の文化や運動を語るときに用いられる呼び名。すべての人が同じ考えを持つという意味ではありません。"
+      }
+    ],
+    "title_segments": [
+      "メキシコ",
+      "壁画運動"
+    ],
+    "artist_ids": [
+      "diego-rivera",
+      "jose-clemente-orozco",
+      "david-alfaro-siqueiros",
+      "aurora-reyes"
+    ]
   },
   {
     "name": "Nsukka School",

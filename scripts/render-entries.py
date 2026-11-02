@@ -49,6 +49,7 @@ def image_html(im,reference=False):
  rights=''.join(pp(im.get(k,'')) for k in ['license','underlying_work_rights','reproduction_rights','reuse_notice','image_processing','territory_note','role'])
  rights+=pp(im.get('presentation',{}).get('provenance_note',''))
  if im.get('original_image',{}).get('url'):rights+=link(im['original_image']['url'],'出典先の原画像を開く')
+ if im.get('work_source_page'):rights+=link(im['work_source_page'],'作品の所蔵・権利情報')
  if im.get('license_url'):rights+=link(im['license_url'],'画像の利用条件')
  if im.get('display_derivatives'):rights+=pp(im['display_derivatives'].get('method',''))
  return f'''<figure id="{E(im.get('presentation',{}).get('anchor') or im.get('id',''))}" class="collected-art{' reference-art' if reference else ''}"><p class="eyebrow">{label}</p><a class="art-fullsize" href="../{E(f)}" target="_blank" rel="noopener noreferrer"><img src="../{E(display)}"{srcset} width="{w}" height="{h}" alt="{E(desc)}" style="width:{min(w,1200)}px;max-width:100%;height:auto;object-fit:contain{chr(59)+"image-rendering:pixelated" if im.get("rendering")=="pixelated" else ""}" loading="lazy" decoding="async"></a><p class="preview-error" hidden>画像を表示できませんでした。下の出典ページで確認できます。</p><figcaption><h2>{E(im.get('title',''))}</h2>{pp(' / '.join(str(im.get(k,'')) for k in ['author','year'] if im.get(k)))}{pp(im.get('presentation',{}).get('scope_note',''))}<div class="art-observations">{observations}</div><p class="credit">{E(im.get('credit',''))}</p>{link(im['source_page'],'出典で作品・資料を見る')}<details><summary>画像の記録と、利用条件</summary>{rights}</details></figcaption></figure>'''
@@ -64,7 +65,22 @@ def representative(w,n):
  if w.get('reason') and w.get('reason') not in lines:record+=pp(w['reason'])
  return f'''<article class="representative"><span class="work-no">{n:02}</span><div><h3>{E(heading)}</h3><p class="note">{E(kind)}</p>{pp(lines)}{link(w.get('evidence') or w.get('source_url'),'作品・資料の出典を見る')}<details class="work-record"><summary>作品・資料の記録を読む</summary><p>{label}：{E(original)}</p>{record}</details></div></article>'''
 
-def render(entry,template,stamp,navigation_html=""):
+def artist_section(entry, registry):
+ ids=entry.get('artist_ids',[])
+ if not ids:return ''
+ if registry is None:raise ValueError('Artist registry required for this article')
+ people={a['id']:a for a in registry.get('artists',[])}
+ out='<section id="article-artists" class="article-story"><h2 class="study-section-title">この項目に関わる人</h2><p>名前を開くと、生没年、主な仕事、作品と出典を読めます。ここに挙げた人だけで、この動きの全体を説明するものではありません。</p>'
+ for ident in ids:
+  a=people[ident];birth=a.get('birth_year');death=a.get('death_year')
+  life=(str(birth)+'年生まれ' if birth is not None else '生年は未確認')+'／'+(str(death)+'年没' if death is not None else ('存命' if a.get('life_status')=='verified_living' else '没年の記載は未確認'))
+  relation=next((x for x in a.get('chapter_relationships',[]) if x['chapter_id']==entry['slug']),{})
+  out+='<details class="article-deeper artist-record" id="artist-'+E(ident)+'"><summary>'+E(a['name_ja'])+' — '+E(life)+'</summary><p>'+E(a.get('name_original',''))+'</p>'+pp(a['short_bio'])+pp(relation.get('description',''))+'<h3>代表的な作品・仕事</h3><ul>'
+  for w in a.get('representative_works',[]):out+='<li>'+link(w['source_url'],w['title_ja'])+' — '+E(w.get('date_label','年代は未確認'))+' / '+E(w.get('work_type',''))+pp(w.get('note',''))+'</li>'
+  out+='</ul><p class="note">人物の出典：'+' / '.join(link(x['url'],x.get('institution') or x.get('title','人物資料')) for x in a['sources'])+'</p></details>'
+ return out+'</section>'
+
+def render(entry,template,stamp,navigation_html="",artist_registry=None):
  slug=entry['slug'];title=entry['title_ja'];canonical=BASE+'entries/'+slug+'.html'
  if not re.fullmatch(r'[a-z0-9-]+',slug):raise ValueError('Unsafe slug')
  header=re.search(r'<header\b.*?</header>',template,re.S)[0]
@@ -90,7 +106,7 @@ def render(entry,template,stamp,navigation_html=""):
   if 'chapter-titles.css' not in head:head=head.replace('</head>','<link rel="stylesheet" href="../chapter-titles.css?v=20261102-0921"></head>')
  questions=''.join('<li>'+E(x)+'</li>' for x in intro.get('looking_questions',[]))
  body=f'''<main id="main" tabindex="-1" class="study"><p class="study-status">{status}</p><div class="study-title"><p class="eyebrow">{E(entry['type'])}</p><h1{title_attrs}>{title_markup}</h1>{('<p class="ja-title">'+E(entry['name'])+'</p>') if entry['name']!=title else ''}<dl><div><dt>時期</dt><dd>{E(entry['period'])}</dd></div><div><dt>地域</dt><dd>{E(entry['region'])}</dd></div></dl></div><section class="reading-entrance"><h2>{E(intro.get('heading') or title)}</h2>{pp(lead)}{('<ul class="looking-questions" aria-label="見るときの問い">'+questions+'</ul>') if questions else ''}</section>'''
- body+='<nav class="article-index" aria-label="このページの目次"><h2>気になるところから読む</h2><ul><li><a href="#actual-works">'+('実作品を大きく見る' if actual else '作品画像の掲載状況')+'</a></li><li><a href="#representative-works">作品の記録を読む</a></li><li><a href="#deeper-story">背景と地域の違い</a></li><li><a href="#article-timeline">年表</a></li><li><a href="#article-glossary">ことばの意味</a></li></ul></nav>' if entry.get('deep_dive') else ''
+ body+='<nav class="article-index" aria-label="このページの目次"><h2>気になるところから読む</h2><ul><li><a href="#actual-works">'+('実作品を大きく見る' if actual else '作品画像の掲載状況')+'</a></li><li><a href="#representative-works">作品の記録を読む</a></li><li><a href="#deeper-story">背景と地域の違い</a></li><li><a href="#article-timeline">年表</a></li><li><a href="#article-glossary">ことばの意味</a></li>'+('<li><a href="#article-artists">関わる人と代表作</a></li>' if entry.get('artist_ids') else '')+'</ul></nav>' if entry.get('deep_dive') else ''
  if entry.get('deep_dive') and actual:
   body+='<details class="article-image-index"><summary>掲載画像から選ぶ（'+str(len(actual))+'点）</summary><ul>'+''.join('<li><a href="#'+E(im.get('presentation',{}).get('anchor') or im['id'])+'">'+E(im['title'])+'</a></li>' for im in actual)+'</ul></details>'
  body+='<div id="actual-works">'+''.join(image_html(i).replace('loading="lazy"','loading="eager"',1) if n==0 else image_html(i) for n,i in enumerate(actual))+''.join(image_html(i,True) for i in refs)+'</div>'
@@ -129,6 +145,7 @@ def render(entry,template,stamp,navigation_html=""):
  body+='</div></section><section class="study-context"><h2>ほかの表現との、つながり</h2>'+pp(entry['comparison'])+'<h2>'+E(entry.get('modern_section_label') or 'いま、考えてみること')+'</h2>'+pp(entry['modern'])+'</section></details>'
  if entry.get('technical_history_examples'):
   body+='<details class="article-deeper"><summary>つくる道具の歴史：作品とは別の参考資料</summary>'+''.join(representative(w,i) for i,w in enumerate(entry['technical_history_examples'],1))+'</details>'
+ body+=artist_section(entry,artist_registry)
  body+='<section class="sources"><h2>調べた資料</h2><ol>'
  seen_sources=set()
  for s in entry['sources']:
@@ -152,7 +169,8 @@ def main():
  for e in entries:
   import runpy
   nav=runpy.run_path(str(Path(__file__).with_name('chapter-navigation.py')))['navigation'](site,e['slug'],json.loads(args.entries.read_text()))
-  text=render(e,template,stamp,nav)
+  registry=json.loads((site/'artists.json').read_text()) if (site/'artists.json').exists() else None
+  text=render(e,template,stamp,nav,registry)
   for prohibited in ['/tmp/','/workspace/','libfile_','sediment://','QA-ONLY-manifest']:
    if prohibited in text:raise ValueError('Private data in rendered HTML')
   (out/'entries'/f'{e["slug"]}.html').write_text(text)
