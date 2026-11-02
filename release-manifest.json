@@ -1771,8 +1771,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 13216,
-      "sha256": "2966ef9bd65714d266e4773998fa2737001016d01d6cd4ba4dde6f33711ca0ab"
+      "bytes": 14311,
+      "sha256": "7b3a83eba7276afa396e5cbf561f3923cb4e7cfbf4de9b8ebee0c68048c1e6ac"
     },
     {
       "path": "timeline.css",

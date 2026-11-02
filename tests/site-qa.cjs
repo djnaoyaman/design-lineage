@@ -22,7 +22,19 @@ for(const width of [320,390,1280]){
    fs.writeFileSync(`qa-artifacts/${slug}-images-${width}.json`,JSON.stringify(images,null,2));
    assert(images.every(i=>i.ok),`${slug} images`);
    if(["punk-diy", "new-bauhaus-chicago", "vkhutemas", "black-mountain-college", "psychedelic-art", "streamline-moderne", "polish-poster-school", "surrealism", "jugendstil", "scandinavian-modern", "brutalism", "critical-regionalism", "mid-century-modern", "radical-design", "memphis", "new-wave-typography", "supergraphics", "bengal-school", "shinkenchiku-kogei-gakuin", "kuwasawa-design-school", "nid-ahmedabad", "esdi-rio", "shinko-shashin", "gutai", "mono-ha", "dansaekhwa", "taller-grafica-popular", "tropicalismo", "negritude-visual-culture", "khartoum-school", "wayo-graphic", "brazilian-modernism", "tropical-modernism", "typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web", "suprematism", "wiener-werkstaette", "russian-constructivism", "metabolism", "art-deco", "international-style", "rococo", "neoclassicism", "postmodernism", "de-stijl"].includes(slug)){assert.equal(images.length,(entries.find(e=>e.slug===slug).adopted_images?.length||0)+(entries.find(e=>e.slug===slug).reference_images?.length||0));assert(images.every(i=>i.width<=i.natural),'New article no image upsampling');}
-   if(["suprematism", "wiener-werkstaette", "russian-constructivism", "metabolism", "art-deco", "international-style", "rococo", "neoclassicism", "postmodernism", "de-stijl"].includes(slug)){for(const [i,figure] of (await page.locator(".collected-art").all()).entries()){await figure.screenshot({path:`qa-artifacts/existing-${slug}-${i+1}-${width}.png`});}}
+   if(["suprematism", "wiener-werkstaette", "russian-constructivism", "metabolism", "art-deco", "international-style", "rococo", "neoclassicism", "postmodernism", "de-stijl"].includes(slug)){for(const [i,figure] of (await page.locator(".collected-art").all()).entries()){await figure.screenshot({path:`qa-artifacts/existing-${slug}-${i+1}-${width}.png`});
+    if(width<400){
+     await page.evaluate(()=>document.fonts.ready);
+     for(const edge of ['start','end']){
+      await figure.evaluate((e,edge)=>e.scrollIntoView({block:edge,behavior:'instant'}),edge);
+      await page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))));
+      const state=await figure.evaluate(e=>{const skip=document.querySelector('.skip'),r=skip.getBoundingClientRect(),b=e.getBoundingClientRect();return {active:document.activeElement?.tagName,skipFocused:skip===document.activeElement,skipTop:r.top,skipBottom:r.bottom,figureTop:b.top,figureBottom:b.bottom,viewport:innerHeight};});
+      assert(state.skipBottom<=0||state.skipFocused,'Skip link hidden unless keyboard focused');
+      assert(edge==='start'?state.figureTop>=-1:state.figureBottom<=state.viewport+1,'Figure edge fits viewport');
+      fs.writeFileSync(`qa-artifacts/existing-viewport-${slug}-${i+1}-${width}-${edge}.json`,JSON.stringify(state,null,2));
+      await page.screenshot({path:`qa-artifacts/existing-viewport-${slug}-${i+1}-${width}-${edge}.png`});
+     }
+    }}}
    if(slug==='pixel-art'){assert.equal(images.length,1);assert.equal(images[0].natural,256);assert.equal(await page.locator('.collected-art img').evaluate(i=>getComputedStyle(i).imageRendering),'pixelated');assert(images[0].width<=256);}
    if(slug==='hideki-nakajima'){assert.equal(images.length,9);assert(images.every(i=>i.width<=i.natural), 'No image upsampling');}
    if(slug==='art-nouveau'){
