@@ -27,6 +27,7 @@ jobs:
           echo $! > "$RUNNER_TEMP/site-http.pid"
       - run: node tests/chapter-navigation-unit.cjs
       - run: python tests/chapter-navigation-static.py
+      - run: python tests/reader-copy-consistency.py
       - run: npm test
       - run: node tests/chapter-navigation-browser.cjs
       - name: Stop local site server

@@ -14,6 +14,13 @@ for(const width of [320,390,1280]){
   await page.goto(`http://127.0.0.1:8793/entries/${slug}.html`,{waitUntil:'load'});
   await page.locator('footer').scrollIntoViewIfNeeded();
   const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
+  if(['rinpa','rococo','art-deco','russian-constructivism'].includes(slug)&&width<400){
+   await page.evaluate(()=>document.fonts.ready);
+   const scope=page.locator('#sources');
+   if(await scope.count()){await scope.evaluate(e=>e.scrollIntoView({block:'end',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/copy-scope-${slug}-${width}.png`});}
+   await page.locator('.representative').first().evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
+   await page.screenshot({path:`qa-artifacts/copy-card-${slug}-${width}.png`});
+  }
   if(r.overflow||r.cards.some(x=>x.body<x.card*.6)||r.footer!=='invert(1)'||r.header!=='none')failures.push({slug,width,...r});
   if(['hideki-nakajima','vienna-secession','art-nouveau'].includes(slug)||(entries.find(e=>e.slug===slug).adopted_images?.length||entries.find(e=>e.slug===slug).reference_images?.length)){
    for(const im of await page.locator('.collected-art img').all()){await im.scrollIntoViewIfNeeded();await im.evaluate(i=>i.decode());}
