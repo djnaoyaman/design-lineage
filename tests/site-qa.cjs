@@ -88,8 +88,10 @@ for(const width of [320,390,1280]){
    for(const zoom of [1,2]){
     await page.evaluate(z=>{document.documentElement.style.zoom=String(z);window.scrollTo({top:0,behavior:'instant'});},zoom);
     assert.equal(await page.locator('.study-title h1').textContent(),entry.title_ja);
-    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Expanded chapter 200% layout zoom fits');
+    const zoomState=await page.evaluate(()=>({inner:innerWidth,scroll:document.documentElement.scrollWidth,overflow:[...document.querySelectorAll('body *')].filter(e=>{const r=e.getBoundingClientRect();return r.width>0&&(r.right>innerWidth+1||r.left< -1)}).map(e=>({tag:e.tagName,class:e.className,text:e.textContent.slice(0,80),width:e.getBoundingClientRect().width,left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right})).slice(0,30)}));
+    fs.writeFileSync(`qa-artifacts/deep-${slug}-zoom-${width}-${zoom}x.json`,JSON.stringify(zoomState,null,2));
     await page.screenshot({path:`qa-artifacts/deep-${slug}-title-${width}-${zoom}x.png`});
+    assert(zoomState.scroll<=zoomState.inner+1,'Expanded chapter 200% layout zoom fits');
    }
    await page.evaluate(()=>document.documentElement.style.zoom='');
   }
