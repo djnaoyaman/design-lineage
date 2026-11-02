@@ -61,8 +61,17 @@ const { chromium }=require('playwright');const assert=require('node:assert/stric
   assert(page.url().endsWith('/art-deco.html'),'zoomed pan');
   await cdp.send('Emulation.setPageScaleFactor',{pageScaleFactor:1});
   await page.evaluate(()=>document.documentElement.style.zoom='2');await heading().scrollIntoViewIfNeeded();
-  assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'200% overflow');
+  const diagnose=()=>page.evaluate(()=>({inner:innerWidth,scroll:document.documentElement.scrollWidth,client:document.documentElement.clientWidth,offenders:[...document.querySelectorAll('body *')].map(e=>({tag:e.tagName,cls:e.className,left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right,width:e.getBoundingClientRect().width})).filter(r=>r.right>innerWidth+1||r.left< -1).slice(0,40)}));
+  const zoomLayout=await diagnose();fs.writeFileSync(`qa-artifacts/chapter-navigation-zoom-layout-${width}.json`,JSON.stringify(zoomLayout,null,2));console.log('ZOOM_LAYOUT',width,JSON.stringify(zoomLayout));
   await page.screenshot({path:`qa-artifacts/chapter-navigation-zoom-${width}.png`});
+  if(zoomLayout.scroll>zoomLayout.inner+1){
+   const baseline=require('node:child_process').execFileSync('git',['show','33bdad12bdfd50466652b1ed833396d299d7fb67:entries/art-deco.html'],{encoding:'utf8'});
+   await page.route('**/entries/art-deco.html',r=>r.fulfill({status:200,contentType:'text/html',body:baseline}));
+   await page.goto('http://127.0.0.1:8793/entries/art-deco.html');await page.evaluate(()=>document.documentElement.style.zoom='2');
+   const old=await diagnose();fs.writeFileSync(`qa-artifacts/chapter-navigation-baseline-zoom-${width}.json`,JSON.stringify(old,null,2));console.log('BASELINE_ZOOM_LAYOUT',width,JSON.stringify(old));
+   await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/chapter-navigation-baseline-zoom-${width}.png`});
+  }
+  assert(zoomLayout.scroll<=zoomLayout.inner+1,'200% overflow');
   await page.close();
  }
  console.log('Browser navigation/layout/history PASS; not physical iOS validation');

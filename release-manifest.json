@@ -1,32 +1,14 @@
 {
   "release": "public-chapter-navigation-20261102-1351",
-  "private_source_version": 83,
-  "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "pages_branch": "main",
-  "pages_path": "/",
-  "articles": 88,
-  "planned_entries": 88,
-  "historical_representative_images": 69,
-  "reference_related_images": 4,
-  "generated_studies": 0,
-  "new_original_comparison_diagrams": 4,
-  "three_image_sets": 9,
-  "qa": {
-    "html_pages": 40,
-    "canonical_sitemap_pages": 39,
-    "local_links_checked": "all local references checked, zero missing",
-    "dom_suites_passed": 6,
-    "viewports": [
-      320,
-      390,
-      768,
-      1280
-    ],
-    "reading_matrix_cases": 136,
-    "horizontal_overflow_failures": 0,
-    "physical_device_tests": false
+  "frozen_at": "2026-11-02T13:51:00+09:00",
+  "chapter_navigation": {
+    "order": "catalog listing order; not chronology",
+    "articles": 88,
+    "wrap": false,
+    "test_suite": "tests/chapter-navigation-browser.cjs",
+    "physical_ios_tested": false
   },
   "files": [
     {
@@ -47,7 +29,7 @@
     {
       "path": "README.md",
       "bytes": 5104,
-      "sha256": "43e51117059840cd8450057a3a7872f345073a186df340f7dc895bd4971e2278"
+      "sha256": "440c61093e280145fa90085389a6e132c1d732e371a6f8b309e9ea3fae66571a"
     },
     {
       "path": "adopted-image-rights.json",
@@ -1786,8 +1768,8 @@
     },
     {
       "path": "tests/chapter-navigation-browser.cjs",
-      "bytes": 5882,
-      "sha256": "9f6fca1494cdfe14e4ca8147f4af2f02c3d43f6d9a3fc795997473b2dea8b509"
+      "bytes": 7268,
+      "sha256": "1d9fc36b81a6f60c320fe319fff76ba6d22bf0518ddd2e1688eae4ed8ff80d5a"
     },
     {
       "path": "tests/chapter-navigation-static.py",
@@ -1824,151 +1806,5 @@
       "bytes": 4284,
       "sha256": "9ef2a97c1fcde0d0b194cfce504f0e2360a67a3fee90e9f5f1525bba2bf3034d"
     }
-  ],
-  "generated_connection_explainers": 1,
-  "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T13:51:00+09:00",
-  "selected_logo": 10,
-  "rewritten_articles": 34,
-  "rewritten_representative_cards": 338,
-  "compiler_profile": "compiler.html",
-  "launch_package": {
-    "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
-    "checklist_items": 30,
-    "checklist_origin": "Existing original table unavailable; reconstructed without overlap from owner requirements",
-    "source_checks": "39 HTML,886 local links,38 sitemap/canonical URLs; JSON-LD dates consistent",
-    "browser_matrix": "320/390/768/1280 on home,Vienna,compare,compiler,timeline:20 cases, no horizontal overflow after load; gallery srcset and contain separately checked",
-    "share": "browser shows copied confirmation; DOM unit verifies a/b query and visible URL fallback",
-    "mobile_feature": "19.2px inset at320 /23.4px at390 in managed browser; no crop",
-    "analytics": "no site-specific approved GA ID; no GA or outbound event transmission installed; no Google reception test",
-    "unverified": [
-      "physical notch-device safe area",
-      "Safari/Firefox",
-      "X/OGP crawler rendering",
-      "Core Web Vitals field data",
-      "GA configuration pending ID"
-    ],
-    "not_included": [
-      "held AAGA count wording change",
-      "held Moser AAGA trials",
-      "Nakajima draft",
-      "all34 readability-v2 entrances"
-    ]
-  },
-  "reading_v2": {
-    "short_entrances": 34,
-    "representative_entrances": 143,
-    "source_records_sha256_matched": 143,
-    "original_detailed_prose_preserved": true,
-    "ruby_and_term_explanations": "first-layer difficult terms",
-    "independent_prose_review": "three precision issues corrected",
-    "reading_level": "middle-school knowledge with simpler entry; not a tested guarantee for every child"
-  },
-  "bauhaus_aichi_release": {
-    "new_images": 2,
-    "entry_images": 3,
-    "scope": "school exhibition leaflet1 and masters portfolio leaves2; furniture/architecture images still incomplete",
-    "private_person_index_changes": false,
-    "held_aaga_wording_unchanged": true
-  },
-  "person_entry": {
-    "slug": "hideki-nakajima",
-    "category": "person",
-    "actual_images": 9,
-    "image_set_complete": true,
-    "public_credit": "author,work,year,officialsource,copyright; no third-party reuse grant",
-    "scope": "Selected flat graphic works and logotypes; not a complete career survey",
-    "validation": {
-      "image_hashes": "9 matched",
-      "local_references": "1177 checked; zero missing",
-      "other_articles": "34 entries unchanged",
-      "responsive_rules": "original size capped at 100% available width; no crop",
-      "browser_verification": "pending live verification",
-      "mobile_device_test": false
-    }
-  },
-  "public_metadata_cleanup": {
-    "date": "2026-11-01",
-    "scope": "Internal archival identifiers and transfer notes removed; public artwork/source/license metadata unchanged."
-  },
-  "vienna_emilie": {
-    "original_photo_added": 1,
-    "entry_images": 4,
-    "photo_license": "CC BY4.0",
-    "AAGA_added": 0
-  },
-  "display_fixes": {
-    "vienna": {
-      "scope": "single-child work card width",
-      "static_regression": "passed",
-      "browser_pixels": "pending verification"
-    },
-    "footer": {
-      "scope": "footer-only logo contrast",
-      "static_regression": "passed",
-      "browser_pixels": "pending verification"
-    },
-    "art_nouveau_title": {
-      "scope": "word-preserving heading wrap only; artwork content unchanged",
-      "responsive_ci": "pending exact-head 320/390/1280 and 200% CSS layout zoom",
-      "physical_device_test": false
-    }
-  },
-  "art_nouveau_expansion": {
-    "actual_images": 10,
-    "representative_examples": 13,
-    "scope": "posters, decorative print, furniture, glass, lighting, jewelry and architecture; sourced reader guide",
-    "physical_device_test": false,
-    "responsive_ci": "pending exact-commit verification"
-  },
-  "representative_image_placements": 71,
-  "unique_representative_image_files": 69,
-  "catalog_expansion": [
-    {
-      "batch": "history17",
-      "new_articles": 17,
-      "new_examples": 55,
-      "catalog_complete": false,
-      "image_collection": "in progress; text publication is not image completion"
-    },
-    {
-      "batch": "global16",
-      "new_articles": 16,
-      "new_examples": 51,
-      "catalog_complete": false,
-      "image_collection": "in progress; text publication is not image completion"
-    },
-    {
-      "batch": "methods20",
-      "new_articles": 20,
-      "new_examples": 59,
-      "catalog_complete": false,
-      "image_collection": "18 of 20 new chapters have no actual images; the two illustrated chapters are still incomplete",
-      "new_unique_images": 1,
-      "reused_image_placements": 1,
-      "actual_image_placements": 2
-    }
-  ],
-  "catalog_text_coverage": {
-    "published_articles": 88,
-    "catalog_entries": 88,
-    "image_collection_complete": false,
-    "note": "All listed entries have text and sources; examples include artworks, technical demonstrations and references. Image gaps remain."
-  },
-  "example_count_basis": "Chapter-level example records, including repeated works, production resources and reference materials; not a count of unique artworks.",
-  "existing_image_expansion": {
-    "articles": 10,
-    "image_views": 14,
-    "distinct_work_records": 11,
-    "new_example_records": 8,
-    "updated_existing_records": 3,
-    "complete_catalog": false
-  },
-  "chapter_navigation": {
-    "order": "catalog listing order; not chronology",
-    "articles": 88,
-    "wrap": false,
-    "browser_qa": "pending exact-head CI",
-    "physical_ios_tested": false
-  }
+  ]
 }
