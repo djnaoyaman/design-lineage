@@ -1,8 +1,8 @@
 {
-  "release": "public-content-ito-jakuchu-20261102-1643",
+  "release": "public-content-ito-jakuchu-20261102-1653",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T16:43:00+09:00",
+  "frozen_at": "2026-11-02T16:53:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 20566,
-      "sha256": "c95e17f4f83603696c8bfe1c734b8b700347fbdaf8acfc733ba780363cc487ce"
+      "bytes": 20602,
+      "sha256": "026d84fde614ac45acfe589161583fe16164d2ff0505646cd757d462b47ba5cf"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1343,8 +1343,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1777413,
-      "sha256": "4b7e72ad0a17bd064ea6259b274ff0a1591fe6e7e7487090ef1b058b276673dd"
+      "bytes": 1777647,
+      "sha256": "037879018c75d55f6cbc820d689c16ce5b757e374a9c7bd8920470daf21373cf"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1503,8 +1503,8 @@
     },
     {
       "path": "entries/ito-jakuchu.html",
-      "bytes": 35879,
-      "sha256": "67ab968a8171db826738ac761e8b23fbf5b1c9da8dd4a164c24c815faceb2b14"
+      "bytes": 36119,
+      "sha256": "767cfd1ee4afb4c0b49a3b7450b15cf553e8bf1b6dfb016b3ffe7f8cec6f907f"
     },
     {
       "path": "entries/jugendstil.html",
@@ -1819,7 +1819,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "e2de3ec24ac3b4bd3643484ccf3534791caeb5af7bbddc449dc71763db58e738"
+      "sha256": "4e9ad2fe72e01697928f15359f333000d9159fd04e98d0555266e6b6aae45f8d"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1868,8 +1868,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 19421,
-      "sha256": "d60b16600be5d4ee3adbf2f4a617fdded8f41be93a481f81c26127f937b315c6"
+      "bytes": 19562,
+      "sha256": "59607d34a554dc67c4c9bd7aa29bee5cc523057e7dd9eb078111201a3c1f752b"
     },
     {
       "path": "share-copy.json",
@@ -1884,7 +1884,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "2aa3522bcb795bdf218f79256699f467ab3bd84059d69b28325de43bc2648abe"
+      "sha256": "95aeca8e7460dfacdcbe58d34c025a08c513ff91e7b08272ff32f7a3952e63a0"
     },
     {
       "path": "site.webmanifest",
@@ -1894,7 +1894,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "8a1a9e01f25ff931a130ed94aa991260a110f575e1050ddf843f012d56d74f3d"
+      "sha256": "9b3feb350131739da0bcb07db704c1196b63f015e6279559efd987fb738ec0cf"
     },
     {
       "path": "study-images.js",
