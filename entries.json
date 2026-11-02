@@ -9799,7 +9799,13 @@
         "大波の絵では、富士山はどこに、どれくらい小さく描かれていますか。",
         "役者の絵では、顔の向きと、両手の指の開き方にどんな特徴がありますか。"
       ]
-    }
+    },
+    "artist_ids": [
+      "kaigetsudo-dohan",
+      "toshusai-sharaku",
+      "katsushika-hokusai",
+      "suzuki-harunobu"
+    ]
   },
   {
     "name": "中国新興木刻運動",
@@ -13407,7 +13413,15 @@
         "器を見るなら、手に持つところや口がふれるところは、どんな形ですか。",
         "布や器の色は、何の材料から生まれているのでしょう。"
       ]
-    }
+    },
+    "artist_ids": [
+      "hamada-shoji",
+      "serizawa-keisuke",
+      "yanagi-muneyoshi"
+    ],
+    "organization_ids": [
+      "jurakusha"
+    ]
   },
   {
     "name": "Vienna Secession",
