@@ -13,3 +13,8 @@
 
 #article-glossary{font-size:16px}#article-glossary dd{font-size:1rem}
 
+
+/* Keep the identity within the available width at enlarged text/layout sizes. */
+footer .footer-brand{max-width:100%;min-width:0}
+footer .footer-brand img{max-width:100%;height:auto}
+.reading-entrance h2,.collected-art h2{text-wrap:balance}

@@ -1286,8 +1286,8 @@
     },
     {
       "path": "deep-reading.css",
-      "bytes": 2032,
-      "sha256": "8ca0bb3bf485376dd1af890d19eec6eb1fdb386c6061c58c582706f6a1740381"
+      "bytes": 2275,
+      "sha256": "95812a2f9f77dcaa35e3836564445790fdf20f349e1f4660920d38df696e72e3"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1591,8 +1591,8 @@
     },
     {
       "path": "entries/rinpa.html",
-      "bytes": 58905,
-      "sha256": "1881f8a1a37ca48dce36098e585d3f45ddb7c40f70d50670fa915fdc9ee65c7e"
+      "bytes": 58836,
+      "sha256": "4cd5e2f110698b6f51ebcad158d3038350dfaa2bd2abece7c61798745da4bceb"
     },
     {
       "path": "entries/risograph.html",
@@ -1731,8 +1731,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1728098,
-      "sha256": "75f2d70ae2992cc605e2e59bb2e3be50ebfab8d217f2969edcc0a3b77dbc1982"
+      "bytes": 1728059,
+      "sha256": "a8b9425b061471b1a7dca11a7e4a71fe37c0b784c254c7cdb57339b4a098a44f"
     },
     {
       "path": "external-preview-rights.json",
@@ -1806,8 +1806,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 16799,
-      "sha256": "23670d519dbb97172bee2353072d3a9dd5d76568c1e38555252452ec56c34626"
+      "bytes": 16839,
+      "sha256": "93b20ed0363306cdafb0db0ab0ef5b42a98727d5f41f4d8430dff5d55dcace1b"
     },
     {
       "path": "share-copy.json",
