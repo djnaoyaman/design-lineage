@@ -9,6 +9,8 @@
   if (!targets.length) return;
   let shown = false, pending, expiry, hint;
   const visibleTargets = new Set();
+  const imageTargets = new Set(document.querySelectorAll('.collected-art img'));
+  const visibleImages = new Set();
   const zoomed = () => Math.abs((window.visualViewport?.scale || 1) - 1) > 0.01;
   const selected = () => Boolean(window.getSelection()?.toString());
   const hide = () => {
@@ -23,7 +25,7 @@
   const show = target => {
     pending = null;
     const rect = target.getBoundingClientRect();
-    if (shown || zoomed() || document.visibilityState !== 'visible' || rect.bottom <= 80 || rect.top >= innerHeight - 96 || selected() || document.querySelector('dialog[open],[role="dialog"][aria-modal="true"]')) return;
+    if (shown || visibleImages.size || zoomed() || document.visibilityState !== 'visible' || rect.bottom <= 80 || rect.top >= innerHeight - 96 || selected() || document.querySelector('dialog[open],[role="dialog"][aria-modal="true"]')) return;
     if (document.activeElement?.matches('input,textarea,select,[contenteditable="true"]')) return;
     shown = true;
     // If storage is unavailable, skip the transient hint rather than repeat it on every page.
@@ -50,11 +52,11 @@
     }, 180);
   };
   const observer = new IntersectionObserver(entries => {
-    entries.forEach(e => { if (e.isIntersecting) visibleTargets.add(e.target); else visibleTargets.delete(e.target); });
-    if (shown) { if (hint && !visibleTargets.size) hide(); return; }
+    entries.forEach(e => { const visible=imageTargets.has(e.target)?visibleImages:visibleTargets; if (e.isIntersecting) visible.add(e.target); else visible.delete(e.target); });
+    if (shown) { if (hint && (!visibleTargets.size || visibleImages.size)) hide(); return; }
     if (visibleTargets.size) schedule();
   }, {rootMargin:'-80px 0px -96px 0px', threshold:0.15});
-  targets.forEach(target => observer.observe(target));
+  [...targets,...imageTargets].forEach(target => observer.observe(target));
   window.visualViewport?.addEventListener('resize', () => { if (zoomed()) { clearTimeout(pending); pending=null; hide(); } else schedule(); });
   window.addEventListener('pageshow', schedule);
   window.addEventListener('pagehide', () => { clearTimeout(pending); pending = null; hide(); });

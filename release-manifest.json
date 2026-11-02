@@ -1263,8 +1263,8 @@
     },
     {
       "path": "chapter-swipe-hint.js",
-      "bytes": 4091,
-      "sha256": "933a95efc42d301c96162d9ba26be5728815dc674751255c014e8f77e71fe4b0"
+      "bytes": 4331,
+      "sha256": "f745c7d0e0c196d67f19ef3c9f3aa29a2e899d5a3d80b59d7460efb59a6507fb"
     },
     {
       "path": "chapter-titles.css",
@@ -1888,8 +1888,8 @@
     },
     {
       "path": "tests/swipe-hint-unit.cjs",
-      "bytes": 4150,
-      "sha256": "636ed72df3e10a650531b4906f9e73cdf0a79f0edda93ce61be389290c8222e1"
+      "bytes": 4497,
+      "sha256": "5f75ac18805ad2f8032c97277c68ef113e0e5dedca5b2ada64e2a06a6e5ea15d"
     },
     {
       "path": "timeline.css",
