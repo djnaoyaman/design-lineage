@@ -1,5 +1,5 @@
 {
-  "release": "public-catalog-methods20-20261102",
+  "release": "public-existing-image-gaps-20261102-0927",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
@@ -8,7 +8,7 @@
   "pages_path": "/",
   "articles": 88,
   "planned_entries": 88,
-  "historical_representative_images": 55,
+  "historical_representative_images": 69,
   "reference_related_images": 4,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
@@ -47,12 +47,12 @@
     {
       "path": "README.md",
       "bytes": 3794,
-      "sha256": "7256c2ef9b15cb1fa60775dd5a1c95558b8c41252f8466e2ffdbbdeeeec1a84f"
+      "sha256": "bf33f0a347a62229ea682b938c443a5bb90b056b6b62f6c8c4d1fb72c2f3fefe"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 273216,
-      "sha256": "f9a2238d456c29d7e81c238ed5b261dfa256b51b3cc4340d1d0aaded005db146"
+      "bytes": 325436,
+      "sha256": "6e629f656047ba1fe0473389dcaad3675cde8e2cc2f47e436f52f2c5f67d6ad7"
     },
     {
       "path": "analytics-status.json",
@@ -790,6 +790,146 @@
       "sha256": "1b83eb1ef0eceb146ec637da2c87961e71d0aa62347a9e0d4c7a54020001a381"
     },
     {
+      "path": "assets/lineage-existing-barbier-villa-1923.jpg",
+      "bytes": 39956,
+      "sha256": "5c2d5c0fc41b71e21b48c700a43ec615427b6b9732dc554d1edfe4b68fb36bf0"
+    },
+    {
+      "path": "assets/lineage-existing-black-square-1915-shakko-1000.webp",
+      "bytes": 65348,
+      "sha256": "e45eeceb393ff960585a70e50af2093f15c1a23e4e18c0b82a53ff0ce440a26b"
+    },
+    {
+      "path": "assets/lineage-existing-black-square-1915-shakko-640.webp",
+      "bytes": 29724,
+      "sha256": "c17ad9d9e3a89729da0086ba74578443b4ef9790a264a56ac5ffd5fa682e0e8a"
+    },
+    {
+      "path": "assets/lineage-existing-black-square-1915-shakko-web.jpg",
+      "bytes": 303754,
+      "sha256": "a817d9b3ae178d2302c307acd9e38814509585d5bc861408d059c6d91eb53e45"
+    },
+    {
+      "path": "assets/lineage-existing-cma-1953.676-print-1000.webp",
+      "bytes": 474782,
+      "sha256": "513f04c8cd3bfefb3f5ddb25ad83e4dc1a8455192373cc4952e080f2647557ec"
+    },
+    {
+      "path": "assets/lineage-existing-cma-1953.676-print-640.webp",
+      "bytes": 202466,
+      "sha256": "38376aae8690fa63cd25e5136c74e903ff9bf10a9d6a6d240f83bb8951a0281d"
+    },
+    {
+      "path": "assets/lineage-existing-cma-1953.676-web.jpg",
+      "bytes": 596625,
+      "sha256": "1f202286f00a1aaa71bc1a015c33e1c651c0f7cbee3de9b527182909e4ac747b"
+    },
+    {
+      "path": "assets/lineage-existing-cma-1968.212-print-1000.webp",
+      "bytes": 61242,
+      "sha256": "853e846e1da4bc0ddc8229e5b71bf31128b1e31d8cf937a8560565f72d136ef4"
+    },
+    {
+      "path": "assets/lineage-existing-cma-1968.212-print-640.webp",
+      "bytes": 33204,
+      "sha256": "0297dee4f24555499162f5ac4c2da4475ec27f100a3c90e7c82a7843c7a49c4b"
+    },
+    {
+      "path": "assets/lineage-existing-cma-1968.212-web.jpg",
+      "bytes": 193354,
+      "sha256": "454351f4e994da58d8740d1fb25a4fb264a54d1ead773fffb348e438d514809e"
+    },
+    {
+      "path": "assets/lineage-existing-lissitzky-pressa-1928-0.jpg",
+      "bytes": 64989,
+      "sha256": "f14cf1a91a810e49346ab728f62cb334044e9daf59c6006baacd0f6dde956282"
+    },
+    {
+      "path": "assets/lineage-existing-lissitzky-pressa-1928-1.jpg",
+      "bytes": 52254,
+      "sha256": "62aae836bd9ffc377bd8552c74c1763813cded3364bc840fde63b78b47bd967c"
+    },
+    {
+      "path": "assets/lineage-existing-nakagin-2013-meow-1000.webp",
+      "bytes": 288692,
+      "sha256": "4bdc9fb25acd607ed6448a19c1c63d13f5086438dcb099662f2f0256f3877116"
+    },
+    {
+      "path": "assets/lineage-existing-nakagin-2013-meow-640.webp",
+      "bytes": 128302,
+      "sha256": "c1a1094a6dbf01654a7498aa1c027a74d731e59d1ce6a1a295c13573c9457b79"
+    },
+    {
+      "path": "assets/lineage-existing-nakagin-2013-meow-web.jpg",
+      "bytes": 523593,
+      "sha256": "d012055305940897b29c0ed825685a812926442f9c87fd4fdc281e210ae61de9"
+    },
+    {
+      "path": "assets/lineage-existing-peche-stoffe-1914.jpg",
+      "bytes": 52390,
+      "sha256": "1d80dc52e499461f48a65fc656d948157ed84715f442d44d2dec4517c934975e"
+    },
+    {
+      "path": "assets/lineage-existing-risd-dlia-golosa-cover.jpg",
+      "bytes": 67786,
+      "sha256": "fe95ac2171d4a526bf40c0a72ab979af4af72427e4da30cbaebf81b4ff62b042"
+    },
+    {
+      "path": "assets/lineage-existing-risd-dlia-golosa-question.jpg",
+      "bytes": 63451,
+      "sha256": "3b9ceeee0df9dc757fd4289d42f3b4861b6e66d4ff7c6a22ad66a5a442dc40a3"
+    },
+    {
+      "path": "assets/lineage-existing-risd-dlia-golosa-ship.jpg",
+      "bytes": 64220,
+      "sha256": "ec456d2898d3f5f19a1135294eb690354745cb4df735c82413e53c434b49c727"
+    },
+    {
+      "path": "assets/lineage-existing-schroder-2014-steven-lek-1000.webp",
+      "bytes": 125464,
+      "sha256": "ec79182ff7c29a6826d38cec5d9f940f134c03285bbdbcec3117f8acdcffaa6b"
+    },
+    {
+      "path": "assets/lineage-existing-schroder-2014-steven-lek-640.webp",
+      "bytes": 56524,
+      "sha256": "f781dc3179a23e6d79853d31b2499221a42b4037df4cc50c453ecba263b068b1"
+    },
+    {
+      "path": "assets/lineage-existing-schroder-2014-steven-lek-web.jpg",
+      "bytes": 462599,
+      "sha256": "69807f753b5e9df6c5ceba0ac206095ab94035f73c11509ae4cab46398da00ee"
+    },
+    {
+      "path": "assets/lineage-existing-tugendhat-street-2012-harold-1000.webp",
+      "bytes": 56584,
+      "sha256": "d9b1951ca52821e24ad7d8b308b8e58fc951a7fd27546a54b7399f6f855ed124"
+    },
+    {
+      "path": "assets/lineage-existing-tugendhat-street-2012-harold-640.webp",
+      "bytes": 27680,
+      "sha256": "9424bc200b9d87d2eab538f274995563775f3041b5068498d5adcff784a0a768"
+    },
+    {
+      "path": "assets/lineage-existing-tugendhat-street-2012-harold-web.jpg",
+      "bytes": 233034,
+      "sha256": "1a909b20984bcf688d70243fde8e986431ba9296233b3ec3debc7e76fd6d050d"
+    },
+    {
+      "path": "assets/lineage-existing-vanna-venturi-2010-smallbones-1000.webp",
+      "bytes": 174692,
+      "sha256": "8f50908dd880550d30915e60c27d67605e762eedba4c861af9e79dcd2725f887"
+    },
+    {
+      "path": "assets/lineage-existing-vanna-venturi-2010-smallbones-640.webp",
+      "bytes": 77752,
+      "sha256": "6345e0a189e4137e450b3b9135e1c03f1847268715d0501ee519768fdf6a3727"
+    },
+    {
+      "path": "assets/lineage-existing-vanna-venturi-2010-smallbones-web.jpg",
+      "bytes": 523807,
+      "sha256": "ee9d7b25a214b718bf7019b7408aa17c8f3b8b7a80278bc3a3c7392e94819a39"
+    },
+    {
       "path": "assets/lineage-nakayama-1932-1000.webp",
       "bytes": 360828,
       "sha256": "8e7a8efd0a382633fc29e6e26c26603d132c574bb1c0ab12d8a18329d21383cc"
@@ -1046,8 +1186,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 35801,
-      "sha256": "f895a7b866e91c7436d0be8403aee5ec4105d8a78faf4d82ca1fa555f90b2162"
+      "bytes": 36186,
+      "sha256": "ed0285b3e5a5e5642ccbeec415a0c8d89f1fec9e11f3af46996438f924e858cf"
     },
     {
       "path": "chapter-titles.css",
@@ -1081,8 +1221,8 @@
     },
     {
       "path": "entries/art-deco.html",
-      "bytes": 31349,
-      "sha256": "304e77d62d55b597824c9a1a1f8bf94c4493764c8f0955acebc2f152cd8dd009"
+      "bytes": 35577,
+      "sha256": "4d88ab29fa298704acf5d31c0e6dd0763732b4708860b4a593b3bb66cade88ee"
     },
     {
       "path": "entries/art-nouveau.html",
@@ -1151,8 +1291,8 @@
     },
     {
       "path": "entries/de-stijl.html",
-      "bytes": 29703,
-      "sha256": "5779219e98270a962801d10a94d9702d05ba52a05eba4807b961c192676badbc"
+      "bytes": 34306,
+      "sha256": "bb0006f2a5450fd547059dfb366b4db2a95e3668bbd29b819a439e24cbcb4dd6"
     },
     {
       "path": "entries/esdi-rio.html",
@@ -1216,8 +1356,8 @@
     },
     {
       "path": "entries/international-style.html",
-      "bytes": 23334,
-      "sha256": "428c17af241b3c43b26cc637da46152006543e90310caa3a0409125652c4bf36"
+      "bytes": 26217,
+      "sha256": "9722097ed6efb12eb56d7ce540dc2520de34fe5f2027e84643ac65c7f5a2390d"
     },
     {
       "path": "entries/isotype.html",
@@ -1261,8 +1401,8 @@
     },
     {
       "path": "entries/metabolism.html",
-      "bytes": 21161,
-      "sha256": "79a405f999f9d01e860771d1a8ff1b304b359d5e68971e5eaff9741cbfb3a001"
+      "bytes": 25441,
+      "sha256": "59e46606b6414207f7a89220604b2755f5817a12caf480cbbec4fdd4232f1b32"
     },
     {
       "path": "entries/mexican-muralism.html",
@@ -1296,8 +1436,8 @@
     },
     {
       "path": "entries/neoclassicism.html",
-      "bytes": 24108,
-      "sha256": "9b2eb9a16fbbbb33ad8fec6fc8e8e54852cb51e91eae2cec1b453bc2050d6519"
+      "bytes": 27914,
+      "sha256": "9c0c88fd7c209a7180cc1128762e3aacd0dfc609258dc40aeea8556d5cfe67f5"
     },
     {
       "path": "entries/neumorphism.html",
@@ -1351,8 +1491,8 @@
     },
     {
       "path": "entries/postmodernism.html",
-      "bytes": 22118,
-      "sha256": "dc289d035ebb2aeefd3abe43df72fceba86a84314f02899ddcf948fab3517709"
+      "bytes": 25738,
+      "sha256": "cb16c9960aa854c646a553412f571862cecce6c5dc775b5823011c6fdd960ec9"
     },
     {
       "path": "entries/psychedelic-art.html",
@@ -1381,13 +1521,13 @@
     },
     {
       "path": "entries/rococo.html",
-      "bytes": 22002,
-      "sha256": "7e1390deeed128d1e9709253d7079dd1ae6eedbffc09ae4f0d7507f4ce33e287"
+      "bytes": 25824,
+      "sha256": "4e0c8f69c88a746c7c6ba3abc2191a960a7d264e0c62680f1c89477107d0c2c3"
     },
     {
       "path": "entries/russian-constructivism.html",
-      "bytes": 32140,
-      "sha256": "068ba20e98c4fa6f51e86d013e061a8e2c58d85b1b38a8a627b6789ddfc80706"
+      "bytes": 49100,
+      "sha256": "68d6cc00e5e9e0d23bcdf80606badcc60b54d9545d1cfe02c1f941da6e7322c9"
     },
     {
       "path": "entries/santiniketan.html",
@@ -1436,8 +1576,8 @@
     },
     {
       "path": "entries/suprematism.html",
-      "bytes": 21634,
-      "sha256": "5abecc4dcc13c324b3684a9978d9f5525b929d135e88826e40b20dcea01463be"
+      "bytes": 24519,
+      "sha256": "7bd1e4f4513cdb703f3f5654adc77f1e5076a6e07dfb11757e19b18b125fdc76"
     },
     {
       "path": "entries/surrealism.html",
@@ -1501,8 +1641,8 @@
     },
     {
       "path": "entries/wiener-werkstaette.html",
-      "bytes": 22382,
-      "sha256": "2fdf24b90f47e0a421329704a0cf448d3d6e0cb6db3af6c5d55610b2bab294c3"
+      "bytes": 25657,
+      "sha256": "4360e7bf301a33e3aea0f08a46bbecfe8dd2ea5657b8865720ba82dc0bad9e56"
     },
     {
       "path": "entries/y2k-revival.html",
@@ -1511,8 +1651,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1621592,
-      "sha256": "2e5ffa20289927bed7e0389d617b6275be50daef18c5033b7e418b6c9da68843"
+      "bytes": 1695063,
+      "sha256": "29dc9f0c4b3027342431e9d789718f42dbe53d9f4f86faf42fabb49e24b889ea"
     },
     {
       "path": "external-preview-rights.json",
@@ -1542,7 +1682,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "7faeae6ed8d14bfa34d29ec051b96efacaa5279ae2ce419b1e2bb4d8b7453db9"
+      "sha256": "a5b034b93de4fccec1e544e3f251b468376a4cebc1b30daa3f087515e1cab676"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1602,7 +1742,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "dd37274b1b8f515e4740788e2b66e2d8372fbd4b9b9baaf91c58718269910bc0"
+      "sha256": "778d5547da1138ed26f4266f2b3603b2763f8707402a5d737b215968e67d7077"
     },
     {
       "path": "site.webmanifest",
@@ -1612,7 +1752,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "e3ec998c773879a5d8da99a4c1f3e9f5e3cbd63188903e5cc96cb536ea1980f7"
+      "sha256": "8daab666e37448311550f7c3725cfac9eadb7328e06cb2be0b742a0872c13190"
     },
     {
       "path": "study-images.js",
@@ -1631,8 +1771,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 12522,
-      "sha256": "002c777544de7baa6f6412362ac25308e1f32567f2f35a1254173f54f02ab67e"
+      "bytes": 14311,
+      "sha256": "7b3a83eba7276afa396e5cbf561f3923cb4e7cfbf4de9b8ebee0c68048c1e6ac"
     },
     {
       "path": "timeline.css",
@@ -1657,10 +1797,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T09:12:00+09:00",
+  "frozen_at": "2026-11-02T09:27:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 330,
+  "rewritten_representative_cards": 338,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1751,8 +1891,8 @@
     "physical_device_test": false,
     "responsive_ci": "pending exact-commit verification"
   },
-  "representative_image_placements": 57,
-  "unique_representative_image_files": 55,
+  "representative_image_placements": 71,
+  "unique_representative_image_files": 69,
   "catalog_expansion": [
     {
       "batch": "history17",
@@ -1785,5 +1925,13 @@
     "image_collection_complete": false,
     "note": "All listed entries have text and sources; examples include artworks, technical demonstrations and references. Image gaps remain."
   },
-  "example_count_basis": "Chapter-level example records, including repeated works, production resources and reference materials; not a count of unique artworks."
+  "example_count_basis": "Chapter-level example records, including repeated works, production resources and reference materials; not a count of unique artworks.",
+  "existing_image_expansion": {
+    "articles": 10,
+    "image_views": 14,
+    "distinct_work_records": 11,
+    "new_example_records": 8,
+    "updated_existing_records": 3,
+    "complete_catalog": false
+  }
 }

@@ -2736,10 +2736,16 @@
           "Threeentrancesleadtotriangularconcourse/twooctagonalpiers/channelstoelevatorhalls;richmaterialsandentryexperience."
         ],
         "image_reuse": "Government publication is not automatically PD; building/image rights and photographer unconfirmed, no adoption."
+      },
+      {
+        "id": "barbier-villa-1923-source",
+        "url": "https://www.mkg-hamburg.de/sammlung/objekt/la-villa-deste-dem-mode-almanach-falbalas-et-fanfreluches-1923/EG2017.4.104/mkg",
+        "institution": "ハンブルク美術工芸博物館",
+        "title": "エステ荘――服飾年鑑の一葉"
       }
     ],
-    "status": "本文試作・実作品画像1点収録 / 代表画像セットは整備中",
-    "image_count_acquired": 1,
+    "status": "本文公開・実作品画像2点／画像の収録は継続中",
+    "image_count_acquired": 2,
     "representatives": [
       {
         "title": "\"Fuseaux\" Cabinet",
@@ -2874,6 +2880,35 @@
             "まっすぐな線と曲がった線が、一つの物にあります。"
           ]
         }
+      },
+      {
+        "work_id": "barbier-villa-1923",
+        "title": "エステ荘――服飾年鑑の一葉",
+        "title_ja": "エステ荘――服飾年鑑の一葉",
+        "title_original": "La Villa d’Este, from Falbalas et Fanfreluches 1923",
+        "creator": "ジョルジュ・バルビエ（デザイン）／メイニアル（出版）",
+        "date": "デザイン：1922年／刊行：1923年",
+        "domain": "版画・型紙による彩色",
+        "reason": "所蔵館がこの一葉を「Art Déco」に分類しています。服飾年鑑の挿絵を通して、アール・デコとファッション印刷物の関係を見る例です。",
+        "limitation": "服飾年鑑『ファルバラとファンフルリュシュ』1923年版の一葉です。配信画像は336×500ピクセルのため、小さな図版として掲載しています。",
+        "evidence": "https://www.mkg-hamburg.de/sammlung/objekt/la-villa-deste-dem-mode-almanach-falbalas-et-fanfreluches-1923/EG2017.4.104/mkg",
+        "source_ids": [
+          "barbier-villa-1923-source"
+        ],
+        "image_ids": [
+          "barbier-villa-1923"
+        ],
+        "image_count_acquired": 1,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "エステ荘――服飾年鑑の一葉",
+          "lead": [
+            "ひし形模様の服を着た女性が、身をかがめる男性に手を差し出しています。人物の曲線と、背景の細長い木を見比べられます。"
+          ]
+        },
+        "work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。"
       }
     ],
     "period_bands": [
@@ -2994,6 +3029,54 @@
             }
           ]
         }
+      },
+      {
+        "local_file": "assets/lineage-existing-barbier-villa-1923.jpg",
+        "width": 336,
+        "height": 500,
+        "sha256": "5c2d5c0fc41b71e21b48c700a43ec615427b6b9732dc554d1edfe4b68fb36bf0",
+        "local_bytes": 39956,
+        "id": "barbier-villa-1923",
+        "work_id": "barbier-villa-1923",
+        "entry": "Art Deco",
+        "title": "エステ荘――服飾年鑑の一葉",
+        "author": "ジョルジュ・バルビエ（デザイン）／メイニアル（出版）",
+        "year": "デザイン：1922年／刊行：1923年",
+        "institution": "ハンブルク美術工芸博物館",
+        "source_page": "https://www.mkg-hamburg.de/sammlung/objekt/la-villa-deste-dem-mode-almanach-falbalas-et-fanfreluches-1923/EG2017.4.104/mkg",
+        "image_url": "https://www.mkg-hamburg.de/sites/default/files/externals/b/0/b0adbb4914596f017f5a5112dd5632e8.jpg",
+        "license": "Public Domain Mark 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "credit": "ジョルジュ・バルビエ（デザイン）／メイニアル（出版）《エステ荘――服飾年鑑の一葉》、デザイン：1922年／刊行：1923年。ハンブルク美術工芸博物館、EG2017.4.104。Public Domain Mark 1.0。",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "ひし形模様の服を着た女性が、身をかがめる男性に手を差し出しています。人物の曲線と、背景の細長い木を見比べられます。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "ひし形模様の服を着た女性が、身をかがめる男性に手を差し出しています。人物の曲線と、背景の細長い木を見比べられます。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "服飾年鑑『ファルバラとファンフルリュシュ』1923年版の一葉です。配信画像は336×500ピクセルのため、小さな図版として掲載しています。",
+          "anchor": "barbier-villa-1923"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "配信された原画像を無加工で保持しています。",
+        "accession": "EG2017.4.104",
+        "original_image": {
+          "url": "https://www.mkg-hamburg.de/sites/default/files/externals/b/0/b0adbb4914596f017f5a5112dd5632e8.jpg",
+          "width": 336,
+          "height": 500,
+          "sha256": "5c2d5c0fc41b71e21b48c700a43ec615427b6b9732dc554d1edfe4b68fb36bf0"
+        }
       }
     ],
     "generated_style_images": [],
@@ -3016,7 +3099,8 @@
         "段になった飾りは、グラスのどこに集まっていますか。",
         "まっすぐな線と、曲がった線を探すと、どこに見つかりますか。"
       ]
-    }
+    },
+    "representative_count": 6
   },
   {
     "name": "De Stijl",
@@ -3157,10 +3241,22 @@
           "ImageswithindividualPD/CC0notice availableforpersonal/commercialuse;notallimages."
         ],
         "image_reuse": "Individualexceptionsapply;noimagefileobtained."
+      },
+      {
+        "id": "rietveld-schroder-1924-source",
+        "url": "https://whc.unesco.org/en/list/965/",
+        "institution": "ユトレヒト、オランダ",
+        "title": "リートフェルト・シュレーダー邸"
+      },
+      {
+        "id": "rietveld-schroder-1924-image",
+        "url": "https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6der_House.JPG",
+        "institution": "ウィキメディア・コモンズ",
+        "title": "リートフェルト・シュレーダー邸の画像と利用条件"
       }
     ],
-    "status": "本文試作・実作品画像1点収録 / 代表画像セットは整備中",
-    "image_count_acquired": 1,
+    "status": "本文公開・実作品画像2点／画像の収録は継続中",
+    "image_count_acquired": 2,
     "representatives": [
       {
         "title": "Composition No. II, with Red and Blue",
@@ -3295,6 +3391,35 @@
             "何色かだけでなく、色が占める広さにも注目してみましょう。"
           ]
         }
+      },
+      {
+        "work_id": "rietveld-schroder-1924",
+        "title": "リートフェルト・シュレーダー邸",
+        "title_ja": "リートフェルト・シュレーダー邸",
+        "title_original": "Rietveld Schröder House",
+        "creator": "ヘリット・リートフェルト（設計）／トゥルース・シュレーダー＝シュラーダー（施主・協働）",
+        "date": "1924年",
+        "domain": "建築",
+        "reason": "白と灰色の面から、赤・青・黄色の細い部材が伸びています。平らな面と線が、立体の家を組み立てています。",
+        "limitation": "2014年3月11日撮影。周囲の街路とともに写した外観です。家具や室内の画像ではありません。",
+        "evidence": "https://whc.unesco.org/en/list/965/",
+        "source_ids": [
+          "rietveld-schroder-1924-source"
+        ],
+        "image_ids": [
+          "rietveld-schroder-1924"
+        ],
+        "image_count_acquired": 1,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "リートフェルト・シュレーダー邸",
+          "lead": [
+            "白と灰色の面から、赤・青・黄色の細い部材が伸びています。平らな面と線が、立体の家を組み立てています。"
+          ]
+        },
+        "work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Steven Lek（Tukka）。CC BY-SA 4.0。"
       }
     ],
     "period_bands": [
@@ -3412,6 +3537,82 @@
             }
           ]
         }
+      },
+      {
+        "local_file": "assets/lineage-existing-schroder-2014-steven-lek-web.jpg",
+        "width": 1600,
+        "height": 1060,
+        "sha256": "69807f753b5e9df6c5ceba0ac206095ab94035f73c11509ae4cab46398da00ee",
+        "local_bytes": 462599,
+        "id": "rietveld-schroder-1924",
+        "work_id": "rietveld-schroder-1924",
+        "entry": "De Stijl",
+        "title": "リートフェルト・シュレーダー邸",
+        "author": "ヘリット・リートフェルト（設計）／トゥルース・シュレーダー＝シュラーダー（施主・協働）",
+        "year": "1924年",
+        "institution": "ユトレヒト、オランダ",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6der_House.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rietveld_Schr%C3%B6der_House.JPG",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "ヘリット・リートフェルト（設計）／トゥルース・シュレーダー＝シュラーダー（施主・協働）《リートフェルト・シュレーダー邸》、1924年。ユトレヒト、オランダ。CC BY-SA 4.0。写真：Steven Lek（Tukka）、2014年3月11日。ウィキメディア・コモンズより。",
+        "underlying_work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Steven Lek（Tukka）。CC BY-SA 4.0。",
+        "territory_note": "この掲載は日本・米国向けの作品解説としての利用です。他国での再利用や、室内・家具・図面の転載まで許諾するものではありません。",
+        "alt": "白と灰色の面から、赤・青・黄色の細い部材が伸びています。平らな面と線が、立体の家を組み立てています。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "白と灰色の面から、赤・青・黄色の細い部材が伸びています。平らな面と線が、立体の家を組み立てています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "2014年3月11日撮影。周囲の街路とともに写した外観です。家具や室内の画像ではありません。",
+          "anchor": "rietveld-schroder-1924"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "表示用画像は縦横比を保って縮小しています。原画像の寸法と取得時のハッシュは出典記録に残しています。",
+        "display_derivatives": {
+          "method": "全体を残して縮小したJPEGとWebPです。切り抜き、拡大、色補正はしていません。原画像は出典先のリンクで開けます。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-existing-schroder-2014-steven-lek-640.webp",
+              "width": 640,
+              "height": 424,
+              "bytes": 56524,
+              "sha256": "f781dc3179a23e6d79853d31b2499221a42b4037df4cc50c453ecba263b068b1",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-schroder-2014-steven-lek-1000.webp",
+              "width": 1000,
+              "height": 662,
+              "bytes": 125464,
+              "sha256": "ec79182ff7c29a6826d38cec5d9f940f134c03285bbdbcec3117f8acdcffaa6b",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-schroder-2014-steven-lek-web.jpg",
+              "width": 1600,
+              "height": 1060,
+              "sha256": "69807f753b5e9df6c5ceba0ac206095ab94035f73c11509ae4cab46398da00ee",
+              "bytes": 462599,
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rietveld_Schr%C3%B6der_House.JPG",
+          "width": 4928,
+          "height": 3264,
+          "sha256": "6162d604837d2e1c77780677eaae8429418f373db62288982eb15591d9c358e7"
+        }
       }
     ],
     "generated_style_images": [],
@@ -3432,7 +3633,8 @@
         "いちばん広い白い四角は、どこにありますか。",
         "赤・黄・青は、それぞれどこに、どれくらいの広さで置かれていますか。"
       ]
-    }
+    },
+    "representative_count": 7
   },
   {
     "name": "Russian Constructivism",
@@ -3622,10 +3824,22 @@
           "LEF no2 1924,309.2001.E1-6, letterpress journal, publisherGosudarstvennoe izdatelstvo Moscow-Leningrad; Rodchenko cover incorporating Popova design, other patterns inside; journal not cloth."
         ],
         "image_reuse": "Not established; no image adopted."
+      },
+      {
+        "id": "pressa-catalogue-1928-source",
+        "url": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+        "institution": "ハンブルク美術工芸博物館",
+        "title": "国際新聞博覧会「プレスサ」ソ連館の図録"
+      },
+      {
+        "id": "lissitzky-for-voice-1923-source",
+        "url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+        "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+        "title": "声のために"
       }
     ],
-    "status": "本文試作・代表実作品画像未掲載 / 関連実作品1点を別枠で収録",
-    "image_count_acquired": 0,
+    "status": "本文公開・実作品画像5点／画像の収録は継続中",
+    "image_count_acquired": 5,
     "representatives": [
       {
         "title": "Monument to the Third International（未建設計画／1920年刊行資料）",
@@ -3748,6 +3962,67 @@
             "この紙があるだけでは、同じ模様の布がつくられたとはいえません。"
           ]
         }
+      },
+      {
+        "work_id": "pressa-catalogue-1928",
+        "title": "国際新聞博覧会「プレスサ」ソ連館の図録",
+        "title_ja": "国際新聞博覧会「プレスサ」ソ連館の図録",
+        "title_original": "Katalog des Sowjet-Pavillons auf der Internationalen Presse-Ausstellung Köln 1928",
+        "creator": "エル・リシツキー（デザイン）／ソ連館委員会／M・デュモン・シャウベルク（印刷）",
+        "date": "デザイン：1927–1928年／刊行：1928年",
+        "domain": "図録・ブックデザイン",
+        "reason": "表紙と扉を比べると、文字の大きさや置き方が変わっています。赤と黒、余白の使い方を見てみましょう。",
+        "limitation": "同じ図録の表紙と扉です。この所蔵本には折り込み写真モンタージュがなく、ここにも写っていません。",
+        "evidence": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+        "source_ids": [
+          "pressa-catalogue-1928-source"
+        ],
+        "image_ids": [
+          "pressa-catalogue-1928-1",
+          "pressa-catalogue-1928-2"
+        ],
+        "image_count_acquired": 2,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "国際新聞博覧会「プレスサ」ソ連館の図録",
+          "lead": [
+            "表紙と扉を比べると、文字の大きさや置き方が変わっています。赤と黒、余白の使い方を見てみましょう。"
+          ]
+        },
+        "work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。"
+      },
+      {
+        "work_id": "lissitzky-for-voice-1923",
+        "title": "声のために",
+        "title_ja": "声のために",
+        "title_original": "Dlia golosa (For the Voice)",
+        "creator": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）",
+        "date": "1923年",
+        "domain": "詩集・ブックデザイン",
+        "reason": "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。",
+        "limitation": "同じ詩集の表紙と二つの見開きです。3作品ではなく、1冊の異なる部分として見比べます。",
+        "evidence": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+        "source_ids": [
+          "lissitzky-for-voice-1923-source"
+        ],
+        "image_ids": [
+          "lissitzky-for-voice-1923-1",
+          "lissitzky-for-voice-1923-2",
+          "lissitzky-for-voice-1923-3"
+        ],
+        "image_count_acquired": 3,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "声のために",
+          "lead": [
+            "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。"
+          ]
+        },
+        "work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。"
       }
     ],
     "period_bands": [
@@ -3755,7 +4030,251 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "local_file": "assets/lineage-existing-lissitzky-pressa-1928-0.jpg",
+        "width": 367,
+        "height": 500,
+        "sha256": "f14cf1a91a810e49346ab728f62cb334044e9daf59c6006baacd0f6dde956282",
+        "local_bytes": 64989,
+        "id": "pressa-catalogue-1928-1",
+        "work_id": "pressa-catalogue-1928",
+        "entry": "Russian Constructivism",
+        "title": "国際新聞博覧会「プレスサ」ソ連館の図録――表紙",
+        "author": "エル・リシツキー（デザイン）／ソ連館委員会／M・デュモン・シャウベルク（印刷）",
+        "year": "デザイン：1927–1928年／刊行：1928年",
+        "institution": "ハンブルク美術工芸博物館",
+        "source_page": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+        "image_url": "https://www.mkg-hamburg.de/sites/default/files/externals/a/7/a7ed4f970b2fc06cf9e2b926a3ca53ea.jpg",
+        "license": "Public Domain Mark 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "credit": "エル・リシツキー（デザイン）／ソ連館委員会／M・デュモン・シャウベルク（印刷）《国際新聞博覧会「プレスサ」ソ連館の図録》、デザイン：1927–1928年／刊行：1928年。ハンブルク美術工芸博物館、BZV1999.63。Public Domain Mark 1.0。",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "表紙と扉を比べると、文字の大きさや置き方が変わっています。赤と黒、余白の使い方を見てみましょう。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "表紙と扉を比べると、文字の大きさや置き方が変わっています。赤と黒、余白の使い方を見てみましょう。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "同じ図録の表紙と扉です。この所蔵本には折り込み写真モンタージュがなく、ここにも写っていません。",
+          "anchor": "pressa-catalogue-1928-1"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "配信された原画像を無加工で保持しています。",
+        "accession": "BZV1999.63",
+        "original_image": {
+          "url": "https://www.mkg-hamburg.de/sites/default/files/externals/a/7/a7ed4f970b2fc06cf9e2b926a3ca53ea.jpg",
+          "width": 367,
+          "height": 500,
+          "sha256": "f14cf1a91a810e49346ab728f62cb334044e9daf59c6006baacd0f6dde956282"
+        }
+      },
+      {
+        "local_file": "assets/lineage-existing-lissitzky-pressa-1928-1.jpg",
+        "width": 359,
+        "height": 500,
+        "sha256": "62aae836bd9ffc377bd8552c74c1763813cded3364bc840fde63b78b47bd967c",
+        "local_bytes": 52254,
+        "id": "pressa-catalogue-1928-2",
+        "work_id": "pressa-catalogue-1928",
+        "entry": "Russian Constructivism",
+        "title": "国際新聞博覧会「プレスサ」ソ連館の図録――扉",
+        "author": "エル・リシツキー（デザイン）／ソ連館委員会／M・デュモン・シャウベルク（印刷）",
+        "year": "デザイン：1927–1928年／刊行：1928年",
+        "institution": "ハンブルク美術工芸博物館",
+        "source_page": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+        "image_url": "https://www.mkg-hamburg.de/sites/default/files/externals/8/9/89c2fe06ffcfd2dd126f18d928e04338.jpg",
+        "license": "Public Domain Mark 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "credit": "エル・リシツキー（デザイン）／ソ連館委員会／M・デュモン・シャウベルク（印刷）《国際新聞博覧会「プレスサ」ソ連館の図録》、デザイン：1927–1928年／刊行：1928年。ハンブルク美術工芸博物館、BZV1999.63。Public Domain Mark 1.0。",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "表紙と扉を比べると、文字の大きさや置き方が変わっています。赤と黒、余白の使い方を見てみましょう。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "表紙と扉を比べると、文字の大きさや置き方が変わっています。赤と黒、余白の使い方を見てみましょう。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "同じ図録の表紙と扉です。この所蔵本には折り込み写真モンタージュがなく、ここにも写っていません。",
+          "anchor": "pressa-catalogue-1928-2"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "配信された原画像を無加工で保持しています。",
+        "accession": "BZV1999.63",
+        "original_image": {
+          "url": "https://www.mkg-hamburg.de/sites/default/files/externals/8/9/89c2fe06ffcfd2dd126f18d928e04338.jpg",
+          "width": 359,
+          "height": 500,
+          "sha256": "62aae836bd9ffc377bd8552c74c1763813cded3364bc840fde63b78b47bd967c"
+        }
+      },
+      {
+        "local_file": "assets/lineage-existing-risd-dlia-golosa-cover.jpg",
+        "width": 900,
+        "height": 900,
+        "sha256": "fe95ac2171d4a526bf40c0a72ab979af4af72427e4da30cbaebf81b4ff62b042",
+        "local_bytes": 67786,
+        "id": "lissitzky-for-voice-1923-1",
+        "work_id": "lissitzky-for-voice-1923",
+        "entry": "Russian Constructivism",
+        "title": "声のために――表紙",
+        "author": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）",
+        "year": "1923年",
+        "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+        "source_page": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+        "image_url": "https://risdmuseum.cdn.picturepark.com/v/AHTXmWGD/",
+        "license": "CC0 1.0 Universal",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）《声のために》、1923年。ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）、RISD2006.92.1。CC0 1.0 Universal。 Mary B. Jackson Fund, 2006.92.1.",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "同じ詩集の表紙と二つの見開きです。3作品ではなく、1冊の異なる部分として見比べます。",
+          "anchor": "lissitzky-for-voice-1923-1"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "配信された原画像を無加工で保持しています。",
+        "accession": "RISD2006.92.1",
+        "reuse_notice": "この画像はRISD美術館の所蔵番号2006.92.1の画像です。他館の同じ書名の所蔵本や、その画像に付された別の権利表示には適用されません。",
+        "original_image": {
+          "url": "https://risdmuseum.cdn.picturepark.com/v/AHTXmWGD/",
+          "width": 900,
+          "height": 900,
+          "sha256": "fe95ac2171d4a526bf40c0a72ab979af4af72427e4da30cbaebf81b4ff62b042"
+        }
+      },
+      {
+        "local_file": "assets/lineage-existing-risd-dlia-golosa-ship.jpg",
+        "width": 900,
+        "height": 675,
+        "sha256": "ec456d2898d3f5f19a1135294eb690354745cb4df735c82413e53c434b49c727",
+        "local_bytes": 64220,
+        "id": "lissitzky-for-voice-1923-2",
+        "work_id": "lissitzky-for-voice-1923",
+        "entry": "Russian Constructivism",
+        "title": "声のために――船のある見開き",
+        "author": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）",
+        "year": "1923年",
+        "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+        "source_page": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+        "image_url": "https://risdmuseum.cdn.picturepark.com/v/PktjNav2/",
+        "license": "CC0 1.0 Universal",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）《声のために》、1923年。ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）、RISD2006.92.1。CC0 1.0 Universal。 Mary B. Jackson Fund, 2006.92.1.",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "同じ詩集の表紙と二つの見開きです。3作品ではなく、1冊の異なる部分として見比べます。",
+          "anchor": "lissitzky-for-voice-1923-2"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "配信された原画像を無加工で保持しています。",
+        "accession": "RISD2006.92.1",
+        "reuse_notice": "この画像はRISD美術館の所蔵番号2006.92.1の画像です。他館の同じ書名の所蔵本や、その画像に付された別の権利表示には適用されません。",
+        "original_image": {
+          "url": "https://risdmuseum.cdn.picturepark.com/v/PktjNav2/",
+          "width": 900,
+          "height": 675,
+          "sha256": "ec456d2898d3f5f19a1135294eb690354745cb4df735c82413e53c434b49c727"
+        }
+      },
+      {
+        "local_file": "assets/lineage-existing-risd-dlia-golosa-question.jpg",
+        "width": 900,
+        "height": 675,
+        "sha256": "3b9ceeee0df9dc757fd4289d42f3b4861b6e66d4ff7c6a22ad66a5a442dc40a3",
+        "local_bytes": 63451,
+        "id": "lissitzky-for-voice-1923-3",
+        "work_id": "lissitzky-for-voice-1923",
+        "entry": "Russian Constructivism",
+        "title": "声のために――疑問符のある見開き",
+        "author": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）",
+        "year": "1923年",
+        "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+        "source_page": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+        "image_url": "https://risdmuseum.cdn.picturepark.com/v/ArEZyVPV/",
+        "license": "CC0 1.0 Universal",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）《声のために》、1923年。ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）、RISD2006.92.1。CC0 1.0 Universal。 Mary B. Jackson Fund, 2006.92.1.",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "文字や線、丸い形が、読むための記号であると同時に、絵のようにも働いています。ページの右端には、詩を探すための目印があります。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "同じ詩集の表紙と二つの見開きです。3作品ではなく、1冊の異なる部分として見比べます。",
+          "anchor": "lissitzky-for-voice-1923-3"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "配信された原画像を無加工で保持しています。",
+        "accession": "RISD2006.92.1",
+        "reuse_notice": "この画像はRISD美術館の所蔵番号2006.92.1の画像です。他館の同じ書名の所蔵本や、その画像に付された別の権利表示には適用されません。",
+        "original_image": {
+          "url": "https://risdmuseum.cdn.picturepark.com/v/ArEZyVPV/",
+          "width": 900,
+          "height": 675,
+          "sha256": "3b9ceeee0df9dc757fd4289d42f3b4861b6e66d4ff7c6a22ad66a5a442dc40a3"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [
@@ -3898,7 +4417,8 @@
         "広告を見るなら、写真と文字のどちらに、先に目が向くでしょう。",
         "共同で使う机の図を見るなら、作業する面と、本を読む面はどう違うでしょう。"
       ]
-    }
+    },
+    "representative_count": 6
   },
   {
     "name": "Swiss / International Typographic Style",
@@ -4164,23 +4684,35 @@
           "museum_no": "M.1-2011",
           "country": "Italy"
         }
+      },
+      {
+        "id": "vanna-venturi-1964-source",
+        "url": "https://sammlungen.dam-online.de/detail/collection/b3c6c1b0-ed44-4a4c-8a4c-aff3c5f51cfb",
+        "institution": "フィラデルフィア、米国",
+        "title": "ヴァンナ・ヴェンチューリ邸"
+      },
+      {
+        "id": "vanna-venturi-1964-image",
+        "url": "https://commons.wikimedia.org/wiki/File:V_Venturi_H_720am.JPG",
+        "institution": "ウィキメディア・コモンズ",
+        "title": "ヴァンナ・ヴェンチューリ邸の画像と利用条件"
       }
     ],
-    "status": "本文公開・自作解説図1点 / 実作品画像は未掲載",
-    "image_count_acquired": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "image_count_acquired": 1,
     "representatives": [
       {
         "title": "Vanna Venturi House",
         "creator": "Robert Venturi; collaboration to verify",
-        "date": "制作年・所蔵個体を個別資料で確認中",
+        "date": "1962–1964",
         "domain": "architecture",
         "reason": "昔からある建築の形を取り入れ、いくつもの意味を読み取れる住宅として見る候補です。",
-        "limitation": "代表例として取り上げたい候補です。どの版か、いつつくられたか、誰の作か、なぜ代表例といえるかを、それぞれの一次資料で確認するまでは確定しません。",
-        "evidence": null,
-        "work_rights": "未確認",
-        "reproduction_rights": "未確認",
-        "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留",
+        "limitation": "1962–1964年の住宅を対象とし、掲載写真は2010年12月11日の外観です。この一軒だけで、ポストモダニズムの建築全体を説明するものではありません。後年の改変や共同設計者の詳細は、この写真だけでは確定できません。",
+        "evidence": "https://sammlungen.dam-online.de/detail/collection/b3c6c1b0-ed44-4a4c-8a4c-aff3c5f51cfb",
+        "work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Smallbones。撮影者自身によるPD-selfの提供。提供が法的に認められない地域でも、無条件の利用許可が併記されています。CC0ではありません。",
+        "commercial_use": "掲載画像の利用条件と地域別の注意は、画像に付した記録をご覧ください。",
+        "image_adoption": "実作品の画像を収録。",
         "identity_checks_original": [
           "Verify architectural authorship, dates, specific view and later modifications."
         ],
@@ -4194,7 +4726,12 @@
             "この家では、昔からある建物の形をどう使ったかを考えます。",
             "ただ古い形をまねるのではなく、変えて使うことに目を向けます。"
           ]
-        }
+        },
+        "work_id": "vanna-venturi-1964",
+        "image_ids": [
+          "vanna-venturi-1964"
+        ],
+        "image_count_acquired": 1
       },
       {
         "title": "Carlton room divider",
@@ -4305,7 +4842,85 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "local_file": "assets/lineage-existing-vanna-venturi-2010-smallbones-web.jpg",
+        "width": 1600,
+        "height": 1066,
+        "sha256": "ee9d7b25a214b718bf7019b7408aa17c8f3b8b7a80278bc3a3c7392e94819a39",
+        "local_bytes": 523807,
+        "id": "vanna-venturi-1964",
+        "work_id": "vanna-venturi-1964",
+        "entry": "Postmodernism",
+        "title": "ヴァンナ・ヴェンチューリ邸",
+        "author": "ロバート・ヴェンチューリ",
+        "year": "1962–1964年建設",
+        "institution": "フィラデルフィア、米国",
+        "source_page": "https://commons.wikimedia.org/wiki/File:V_Venturi_H_720am.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/V_Venturi_H_720am.JPG",
+        "license": "PD-self：撮影者によるパブリックドメインへの提供と、利用許可の補足条項",
+        "license_url": "https://commons.wikimedia.org/wiki/File:V_Venturi_H_720am.JPG",
+        "credit": "ロバート・ヴェンチューリ《ヴァンナ・ヴェンチューリ邸》、1962–1964年建設。フィラデルフィア、米国。PD-self：撮影者によるパブリックドメインへの提供と、利用許可の補足条項。写真：Smallbones、2010年12月11日。ウィキメディア・コモンズより。",
+        "underlying_work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Smallbones。撮影者自身によるPD-selfの提供。提供が法的に認められない地域でも、無条件の利用許可が併記されています。CC0ではありません。",
+        "territory_note": "この掲載は日本・米国向けの作品解説としての利用です。他国での再利用や、室内・家具・図面の転載まで許諾するものではありません。",
+        "alt": "大きな三角屋根が中央で割れ、その奥に煙突が立っています。左右で異なる窓と、入口の上の弧にも注目できます。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "大きな三角屋根が中央で割れ、その奥に煙突が立っています。左右で異なる窓と、入口の上の弧にも注目できます。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "2010年12月11日に撮影された正面外観です。建設当時の写真ではありません。",
+          "anchor": "vanna-venturi-1964"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "表示用画像は縦横比を保って縮小しています。原画像の寸法と取得時のハッシュは出典記録に残しています。",
+        "reuse_notice": "正面外観の写真です。撮影位置が公道であったとは断定していません。",
+        "display_derivatives": {
+          "method": "全体を残して縮小したJPEGとWebPです。切り抜き、拡大、色補正はしていません。原画像は出典先のリンクで開けます。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-existing-vanna-venturi-2010-smallbones-640.webp",
+              "width": 640,
+              "height": 427,
+              "bytes": 77752,
+              "sha256": "6345e0a189e4137e450b3b9135e1c03f1847268715d0501ee519768fdf6a3727",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-vanna-venturi-2010-smallbones-1000.webp",
+              "width": 1000,
+              "height": 667,
+              "bytes": 174692,
+              "sha256": "8f50908dd880550d30915e60c27d67605e762eedba4c861af9e79dcd2725f887",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-vanna-venturi-2010-smallbones-web.jpg",
+              "width": 1600,
+              "height": 1066,
+              "sha256": "ee9d7b25a214b718bf7019b7408aa17c8f3b8b7a80278bc3a3c7392e94819a39",
+              "bytes": 523807,
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/V_Venturi_H_720am.JPG",
+          "width": 2438,
+          "height": 1625,
+          "sha256": "e61c79dbce081350cfec02b6d58391fe01273b46bc33b98eced2d18fce5c6c55"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -4326,7 +4941,8 @@
         "家具の作品を見るなら、どんな色や材料が組み合わされているでしょう。",
         "昔の建物の形を取り入れた作品を見るなら、元の形から何が変わっているでしょう。"
       ]
-    }
+    },
+    "representative_count": 5
   },
   {
     "name": "Bauhaus",
@@ -6507,7 +7123,7 @@
     "ideal_target_count": 3,
     "representativeness_limit": "代表例として紹介したい候補は3件です。一つは住宅そのもの、一つは別の住宅を示す1932年の展覧会模型、もう一つは1952年に完成した米国の建物です。空間の組み立て方、展覧会で考えを伝えること、住宅以外の使い道や後の時代への広がりを比べます。ただし、建物と模型の違いは保ちます。欧米以外の地域差、都市計画、ほかの用途、現代への具体的な影響は、まだ十分に取り上げていません。3作品とも画像を採用済みという意味ではありません。",
     "rights_cleared_adoptable_candidates": [],
-    "image_count_acquired": 0,
+    "image_count_acquired": 1,
     "publication_status": "parent_review_required_not_added_to_public_entries",
     "image_publication_allowed": false,
     "slug": "international-style",
@@ -6782,9 +7398,21 @@
           "copyrightSOMLLP"
         ],
         "image_reuse": "copyright displayed; not adopted"
+      },
+      {
+        "id": "tugendhat-street-2012-source",
+        "url": "https://whc.unesco.org/en/list/1052/",
+        "institution": "ブルノ、チェコ",
+        "title": "トゥーゲントハット邸――道路側の外観"
+      },
+      {
+        "id": "tugendhat-street-2012-image",
+        "url": "https://commons.wikimedia.org/wiki/File:Brno,_Černá_Pole,_Černopolní,_vila_Tugendhat_(01).jpg",
+        "institution": "ウィキメディア・コモンズ",
+        "title": "トゥーゲントハット邸――道路側の外観の画像と利用条件"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
     "representatives": [
       {
         "title": "Tugendhat House",
@@ -6806,7 +7434,7 @@
           "restoration_period": "2010–2012",
           "restoration_goal": "1930年当初の姿を目指す",
           "model_fabrication_date": null,
-          "photograph_date": null,
+          "photograph_date": "2012-05-31",
           "date_note": "UNESCOの建築本体の年を使用。MoMA模型記録の1928–1930を本体建設年へ転記していない。"
         },
         "source_based_observation": "鋼の梁とコンクリートの床スラブ、大きな窓、ローズウッドとオニキスによる内部区分。親が転送したUNESCO解説では空間の連続を示す。",
@@ -6821,12 +7449,12 @@
           "撮影日と撮影箇所、修復前後の状態を確認する。",
           "建築作品と写真それぞれの権利者・商用条件を確認する。"
         ],
-        "work_rights": "未確認",
-        "reproduction_rights": "未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は取得済一次機関解説の保持情報に基づく。",
+        "work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Harold。CC BY-SA 3.0。",
+        "commercial_use": "掲載画像の利用条件と地域別の注意は、画像に付した記録をご覧ください。",
+        "image_adoption": "実作品の画像を収録。",
+        "image_count_acquired": 1,
+        "visual_inspection_status": "掲載する街路側の外観写真を取得し、実画像を確認済みです。2012年5月31日撮影。室内や庭側の空間をこの写真で確認したとはしません。",
         "evidence": "https://whc.unesco.org/en/list/1052",
         "reading_intro": {
           "heading": "部屋を細かく区切らず、つなげる。",
@@ -6834,7 +7462,11 @@
             "部屋の区切り方と、つながり方を考えるための住宅です。",
             "家を支える材料と、中をゆるやかに分ける方法を、一緒に見ます。"
           ]
-        }
+        },
+        "work_id": "tugendhat-street-2012",
+        "image_ids": [
+          "tugendhat-street-2012"
+        ]
       },
       {
         "title": "Villa Savoye, Poissy-sur-Seine, France (Scale model, 1:33.3)",
@@ -6981,7 +7613,84 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "local_file": "assets/lineage-existing-tugendhat-street-2012-harold-web.jpg",
+        "width": 1600,
+        "height": 1067,
+        "sha256": "1a909b20984bcf688d70243fde8e986431ba9296233b3ec3debc7e76fd6d050d",
+        "local_bytes": 233034,
+        "id": "tugendhat-street-2012",
+        "work_id": "tugendhat-street-2012",
+        "entry": "International Style",
+        "title": "トゥーゲントハット邸――道路側の外観",
+        "author": "ルートヴィヒ・ミース・ファン・デル・ローエ",
+        "year": "1929–1930年",
+        "institution": "ブルノ、チェコ",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Brno,_Černá_Pole,_Černopolní,_vila_Tugendhat_(01).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Brno%2C_%C4%8Cern%C3%A1_Pole%2C_%C4%8Cernopoln%C3%AD%2C_vila_Tugendhat_%2801%29.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "ルートヴィヒ・ミース・ファン・デル・ローエ《トゥーゲントハット邸――道路側の外観》、1929–1930年。ブルノ、チェコ。CC BY-SA 3.0。写真：Harold、2012年5月31日。ウィキメディア・コモンズより。",
+        "underlying_work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Harold。CC BY-SA 3.0。",
+        "territory_note": "この掲載は日本・米国向けの作品解説としての利用です。他国での再利用や、室内・家具・図面の転載まで許諾するものではありません。",
+        "alt": "平らな屋根と、横に長い窓が見えます。低く伸びる白い壁と、道路との関係を観察できます。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "平らな屋根と、横に長い窓が見えます。低く伸びる白い壁と、道路との関係を観察できます。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "2012年5月31日撮影。庭側や室内ではなく、道路側の外観です。",
+          "anchor": "tugendhat-street-2012"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "表示用画像は縦横比を保って縮小しています。原画像の寸法と取得時のハッシュは出典記録に残しています。",
+        "display_derivatives": {
+          "method": "全体を残して縮小したJPEGとWebPです。切り抜き、拡大、色補正はしていません。原画像は出典先のリンクで開けます。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-existing-tugendhat-street-2012-harold-640.webp",
+              "width": 640,
+              "height": 427,
+              "bytes": 27680,
+              "sha256": "9424bc200b9d87d2eab538f274995563775f3041b5068498d5adcff784a0a768",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-tugendhat-street-2012-harold-1000.webp",
+              "width": 1000,
+              "height": 667,
+              "bytes": 56584,
+              "sha256": "d9b1951ca52821e24ad7d8b308b8e58fc951a7fd27546a54b7399f6f855ed124",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-tugendhat-street-2012-harold-web.jpg",
+              "width": 1600,
+              "height": 1067,
+              "sha256": "1a909b20984bcf688d70243fde8e986431ba9296233b3ec3debc7e76fd6d050d",
+              "bytes": 233034,
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Brno%2C_%C4%8Cern%C3%A1_Pole%2C_%C4%8Cernopoln%C3%AD%2C_vila_Tugendhat_%2801%29.jpg",
+          "width": 3888,
+          "height": 2592,
+          "sha256": "84dce5d6353e2425917e8635facf906c81ea544ee55dbf3f3c0fbd6d2c03eb67"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -12148,22 +12857,28 @@
           "Malevich vsTatlinmaterialpractice"
         ],
         "image_reuse": "Not cleared; no image adopted"
+      },
+      {
+        "id": "black-square-1915-image",
+        "url": "https://commons.wikimedia.org/wiki/File:Black_Square_(Malevich,_1915,_GTG)_by_shakko_01.jpg",
+        "institution": "ウィキメディア・コモンズ",
+        "title": "黒の正方形の画像と利用条件"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
-    "image_count_acquired": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "image_count_acquired": 1,
     "representatives": [
       {
-        "work_rights": "原作品の個別・地域別確認未完",
-        "reproduction_rights": "当該個体の写真・複製画像の商用許諾未確認",
-        "commercial_use": "未確認・掲載不可",
-        "image_adoption": "未採用",
+        "work_rights": "作者は1935年没。原作品の保護期間と、写真の利用条件を区別しています。",
+        "reproduction_rights": "写真：Shakko（ソフィア・バグダサロワ）。CC BY-SA 4.0。",
+        "commercial_use": "掲載画像の利用条件と地域別の注意は、画像に付した記録をご覧ください。",
+        "image_adoption": "実作品の画像を収録。",
         "title": "Black Suprematist Square（黒い正方形）",
         "creator": "Kazimir Malevich",
         "date": "1915（トレチャコフ美術館の表記）",
         "domain": "絵画・運動の象徴",
         "reason": "自然の姿を写すことから離れ、図形でつくった絵画が、運動の象徴となった例です。「0.10」展と、考え方を公表したことを結びつけて見ます。",
-        "limitation": "館が1915年作とする作品を候補にしています。作者が1929年に作った別の版、今のグッズ、展覧会の写真とは区別します。この個体の登録番号と、画像を使う条件は未確認です。",
+        "limitation": "館が1915年作とする作品です。作者が1929年に作った別の版や、今のグッズとは区別します。この個体の登録番号は未確認です。掲載写真の利用条件は画像の記録に示しています。",
         "evidence": "https://www.tretyakovgallery.ru/events/o/seminar-chernyy-suprematicheskiy-kvadrat/",
         "reading_intro": {
           "heading": "黒い四角を、絵にする。",
@@ -12171,7 +12886,12 @@
             "自然の景色を写すのではなく、図形そのものを見せる作品です。",
             "新しい絵の考え方を知らせる、大切な一枚になりました。"
           ]
-        }
+        },
+        "work_id": "black-square-1915",
+        "image_ids": [
+          "black-square-1915"
+        ],
+        "image_count_acquired": 1
       },
       {
         "work_rights": "原作品の個別・地域別確認未完",
@@ -12239,7 +12959,84 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "local_file": "assets/lineage-existing-black-square-1915-shakko-web.jpg",
+        "width": 1598,
+        "height": 1600,
+        "sha256": "a817d9b3ae178d2302c307acd9e38814509585d5bc861408d059c6d91eb53e45",
+        "local_bytes": 303754,
+        "id": "black-square-1915",
+        "work_id": "black-square-1915",
+        "entry": "Suprematism",
+        "title": "黒の正方形",
+        "author": "カジミール・マレーヴィチ",
+        "year": "1915年",
+        "institution": "トレチャコフ美術館",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Black_Square_(Malevich,_1915,_GTG)_by_shakko_01.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Black_Square_%28Malevich%2C_1915%2C_GTG%29_by_shakko_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "カジミール・マレーヴィチ《黒の正方形》、1915年。トレチャコフ美術館。CC BY-SA 4.0。写真：Shakko（ソフィア・バグダサロワ）、2021年6月2日。ウィキメディア・コモンズより。",
+        "underlying_work_rights": "作者は1935年没。原作品の保護期間と、写真の利用条件を区別しています。",
+        "reproduction_rights": "写真：Shakko（ソフィア・バグダサロワ）。CC BY-SA 4.0。",
+        "territory_note": "原作品の保護期間は国により異なります。写真の再利用には表示されたCCライセンスが適用されます。",
+        "alt": "淡い地に、大きな黒い四角が置かれています。黒い面のひび割れや、周りに残る余白にも注目してみましょう。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "淡い地に、大きな黒い四角が置かれています。黒い面のひび割れや、周りに残る余白にも注目してみましょう。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "1915年の絵を2021年6月2日に撮影した写真です。",
+          "anchor": "black-square-1915"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "表示用画像は縦横比を保って縮小しています。原画像の寸法と取得時のハッシュは出典記録に残しています。",
+        "display_derivatives": {
+          "method": "全体を残して縮小したJPEGとWebPです。切り抜き、拡大、色補正はしていません。原画像は出典先のリンクで開けます。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-existing-black-square-1915-shakko-640.webp",
+              "width": 640,
+              "height": 641,
+              "bytes": 29724,
+              "sha256": "c17ad9d9e3a89729da0086ba74578443b4ef9790a264a56ac5ffd5fa682e0e8a",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-black-square-1915-shakko-1000.webp",
+              "width": 1000,
+              "height": 1001,
+              "bytes": 65348,
+              "sha256": "e45eeceb393ff960585a70e50af2093f15c1a23e4e18c0b82a53ff0ce440a26b",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-black-square-1915-shakko-web.jpg",
+              "width": 1598,
+              "height": 1600,
+              "sha256": "a817d9b3ae178d2302c307acd9e38814509585d5bc861408d059c6d91eb53e45",
+              "bytes": 303754,
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Black_Square_%28Malevich%2C_1915%2C_GTG%29_by_shakko_01.jpg",
+          "width": 2115,
+          "height": 2117,
+          "sha256": "570050c508a94405439d3770cf593af122a77b8dc99059ad1361f6308d3c78ff"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -12258,7 +13055,8 @@
         "作品を見るなら、形はまっすぐ置かれていますか。それとも傾いていますか。",
         "形のまわりに何もかかれていない場所は、どのくらいありますか。"
       ]
-    }
+    },
+    "representative_count": 4
   },
   {
     "name": "創作版画",
@@ -14146,10 +14944,22 @@
           "Image licensing ArtResource/Scala; no commercial clearance"
         ],
         "image_reuse": "Not cleared, not acquired"
+      },
+      {
+        "id": "nakagin-tower-1972-source",
+        "url": "https://www.moma.org/collection/works/434291",
+        "institution": "東京都中央区（撮影当時）",
+        "title": "中銀カプセルタワービルの外観"
+      },
+      {
+        "id": "nakagin-tower-1972-image",
+        "url": "https://commons.wikimedia.org/wiki/File:Nakagin.jpg",
+        "institution": "ウィキメディア・コモンズ",
+        "title": "中銀カプセルタワービルの外観の画像と利用条件"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
-    "image_count_acquired": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "image_count_acquired": 1,
     "representatives": [
       {
         "title": "Metabolism : the proposals for new urbanism（都市への提案）",
@@ -14230,6 +15040,35 @@
             "文章や平らな図では分かりにくい形も、伝えられます。"
           ]
         }
+      },
+      {
+        "work_id": "nakagin-tower-1972",
+        "title": "中銀カプセルタワービルの外観",
+        "title_ja": "中銀カプセルタワービルの外観",
+        "title_original": "Nakagin Capsule Tower",
+        "creator": "黒川紀章建築都市設計事務所",
+        "date": "1972年竣工",
+        "domain": "建築",
+        "reason": "丸い窓が付いた箱が、二つの塔から突き出しています。同じ形の部品を重ねた建物として見てみましょう。",
+        "limitation": "2013年5月4日撮影。解体前の建物全体であり、美術館所蔵のカプセルA1305だけを撮影した画像ではありません。",
+        "evidence": "https://www.moma.org/collection/works/434291",
+        "source_ids": [
+          "nakagin-tower-1972-source"
+        ],
+        "image_ids": [
+          "nakagin-tower-1972"
+        ],
+        "image_count_acquired": 1,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "中銀カプセルタワービルの外観",
+          "lead": [
+            "丸い窓が付いた箱が、二つの塔から突き出しています。同じ形の部品を重ねた建物として見てみましょう。"
+          ]
+        },
+        "work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Jordy Meow。CC BY-SA 3.0。"
       }
     ],
     "period_bands": [
@@ -14237,7 +15076,84 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "local_file": "assets/lineage-existing-nakagin-2013-meow-web.jpg",
+        "width": 1068,
+        "height": 1600,
+        "sha256": "d012055305940897b29c0ed825685a812926442f9c87fd4fdc281e210ae61de9",
+        "local_bytes": 523593,
+        "id": "nakagin-tower-1972",
+        "work_id": "nakagin-tower-1972",
+        "entry": "メタボリズム",
+        "title": "中銀カプセルタワービルの外観",
+        "author": "黒川紀章建築都市設計事務所",
+        "year": "1972年竣工",
+        "institution": "東京都中央区（撮影当時）",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Nakagin.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nakagin.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "黒川紀章建築都市設計事務所《中銀カプセルタワービルの外観》、1972年竣工。東京都中央区（撮影当時）。CC BY-SA 3.0。写真：Jordy Meow、2013年5月4日。ウィキメディア・コモンズより。",
+        "underlying_work_rights": "建築の著作権が世界中で消滅したという意味ではありません。日本の著作権法46条による建築の写真利用と、米国の1990年以前に建設された建築の扱いを区別しています。",
+        "reproduction_rights": "写真：Jordy Meow。CC BY-SA 3.0。",
+        "territory_note": "この掲載は日本・米国向けの作品解説としての利用です。他国での再利用や、室内・家具・図面の転載まで許諾するものではありません。",
+        "alt": "丸い窓が付いた箱が、二つの塔から突き出しています。同じ形の部品を重ねた建物として見てみましょう。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "丸い窓が付いた箱が、二つの塔から突き出しています。同じ形の部品を重ねた建物として見てみましょう。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "2013年5月4日撮影。解体前の建物全体であり、美術館所蔵のカプセルA1305だけを撮影した画像ではありません。",
+          "anchor": "nakagin-tower-1972"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "表示用画像は縦横比を保って縮小しています。原画像の寸法と取得時のハッシュは出典記録に残しています。",
+        "display_derivatives": {
+          "method": "全体を残して縮小したJPEGとWebPです。切り抜き、拡大、色補正はしていません。原画像は出典先のリンクで開けます。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-existing-nakagin-2013-meow-640.webp",
+              "width": 640,
+              "height": 959,
+              "bytes": 128302,
+              "sha256": "c1a1094a6dbf01654a7498aa1c027a74d731e59d1ce6a1a295c13573c9457b79",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-nakagin-2013-meow-1000.webp",
+              "width": 1000,
+              "height": 1498,
+              "bytes": 288692,
+              "sha256": "4bdc9fb25acd607ed6448a19c1c63d13f5086438dcb099662f2f0256f3877116",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-nakagin-2013-meow-web.jpg",
+              "width": 1068,
+              "height": 1600,
+              "sha256": "d012055305940897b29c0ed825685a812926442f9c87fd4fdc281e210ae61de9",
+              "bytes": 523593,
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nakagin.jpg",
+          "width": 3278,
+          "height": 4912,
+          "sha256": "3da0906a37c6de436d0cc595e79e872e1f05b9a190601912a9dea12f9d54fb0a"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -14256,7 +15172,8 @@
         "計画の図を見るなら、どの部分を残し、どの部分を取り替える考えでしょう。",
         "その計画のうち、実際に建ったのはどこまででしょう。"
       ]
-    }
+    },
+    "representative_count": 5
   },
   {
     "name": "Wiener Werkstätte",
@@ -14425,10 +15342,16 @@
           "Independent1903craftsenterprise foundedHoffmann/Moser/Waerndorfer"
         ],
         "image_reuse": "No image adopted. Specific artwork and reproduction commercial conditions unresolved."
+      },
+      {
+        "id": "peche-stoffe-1914-source",
+        "url": "https://www.mkg-hamburg.de/object/dc00066542",
+        "institution": "ハンブルク美術工芸博物館",
+        "title": "ウィーン工房の布地を宣伝するポスター"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
-    "image_count_acquired": 0,
+    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "image_count_acquired": 1,
     "representatives": [
       {
         "work_rights": "個別・地域別の権利評価は未完",
@@ -14509,6 +15432,35 @@
             "中のページと、外側のつくりでは、担当した人が違います。"
           ]
         }
+      },
+      {
+        "work_id": "peche-stoffe-1914",
+        "title": "ウィーン工房の布地を宣伝するポスター",
+        "title_ja": "ウィーン工房の布地を宣伝するポスター",
+        "title_original": "Stoffe der Wiener Werkstätte",
+        "creator": "ダゴベルト・ペッヒェ",
+        "date": "1914年",
+        "domain": "ポスター",
+        "reason": "暗い地に、明るい文字と星のような模様が広がっています。文字の形も装飾の一部になっています。",
+        "limitation": "布そのものではなく、ウィーン工房の布地を宣伝するポスターです。",
+        "evidence": "https://www.mkg-hamburg.de/object/dc00066542",
+        "source_ids": [
+          "peche-stoffe-1914-source"
+        ],
+        "image_ids": [
+          "peche-stoffe-1914"
+        ],
+        "image_count_acquired": 1,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "ウィーン工房の布地を宣伝するポスター",
+          "lead": [
+            "暗い地に、明るい文字と星のような模様が広がっています。文字の形も装飾の一部になっています。"
+          ]
+        },
+        "work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。"
       }
     ],
     "period_bands": [
@@ -14516,7 +15468,56 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "local_file": "assets/lineage-existing-peche-stoffe-1914.jpg",
+        "width": 500,
+        "height": 484,
+        "sha256": "1d80dc52e499461f48a65fc656d948157ed84715f442d44d2dec4517c934975e",
+        "local_bytes": 52390,
+        "id": "peche-stoffe-1914",
+        "work_id": "peche-stoffe-1914",
+        "entry": "Wiener Werkstätte",
+        "title": "ウィーン工房の布地を宣伝するポスター",
+        "author": "ダゴベルト・ペッヒェ",
+        "year": "1914年",
+        "institution": "ハンブルク美術工芸博物館",
+        "source_page": "https://www.mkg-hamburg.de/object/dc00066542",
+        "image_url": "https://www.mkg-hamburg.de/sites/default/files/externals/e/9/e96bf39c86a8aee2c49d3fe73521a431.jpg",
+        "license": "Public Domain Mark 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "credit": "ダゴベルト・ペッヒェ《ウィーン工房の布地を宣伝するポスター》、1914年。ハンブルク美術工芸博物館、EP2014.898。Public Domain Mark 1.0。",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をPublic Domain Mark 1.0で公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "暗い地に、明るい文字と星のような模様が広がっています。文字の形も装飾の一部になっています。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "暗い地に、明るい文字と星のような模様が広がっています。文字の形も装飾の一部になっています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "布そのものではなく、ウィーン工房の布地を宣伝するポスターです。",
+          "anchor": "peche-stoffe-1914"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "配信された原画像を無加工で保持しています。",
+        "accession": "EP2014.898",
+        "original_image": {
+          "url": "https://www.mkg-hamburg.de/sites/default/files/externals/e/9/e96bf39c86a8aee2c49d3fe73521a431.jpg",
+          "width": 500,
+          "height": 484,
+          "sha256": "1d80dc52e499461f48a65fc656d948157ed84715f442d44d2dec4517c934975e"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -14535,7 +15536,8 @@
         "作品を見るなら、同じ形はどこで繰り返されていますか。",
         "金属の器と布の服では、飾りのつくり方がどう違いますか。"
       ]
-    }
+    },
+    "representative_count": 5
   },
   {
     "name": "Material Design",
@@ -14899,8 +15901,8 @@
     "checked_at": "2026-11-01",
     "modern_section_label": "現代の作品と比べる",
     "publication_status": "published_source_reviewed_draft",
-    "image_count_acquired": 1,
-    "representative_count": 4,
+    "image_count_acquired": 2,
+    "representative_count": 5,
     "overview_evidence_status": "歴史本文と4作品の公式機関記録を確認。既存CMA画像1点のみ取得済み。残り3点は本文候補・画像未取得未採用。",
     "representativeness_limit": "4作品は、比べるために選んだものです。すべての地域や分野をカバーしてはいません。3–5点の画像セットが完成したという意味でもありません。",
     "sources": [
@@ -14963,9 +15965,15 @@
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "1ef6f045d1d87aef52e607f4e3320b7d5d2d0a0bd3fc221eda52520ffacdcf7c"
+      },
+      {
+        "id": "huquier-fountains-7-source",
+        "url": "https://clevelandart.org/art/1953.676",
+        "institution": "クリーブランド美術館",
+        "title": "噴水の図案集：第7図"
       }
     ],
-    "status": "本文試作・実作品画像1点収録 / 代表画像セットは整備中",
+    "status": "本文公開・実作品画像2点／画像の収録は継続中",
     "representatives": [
       {
         "title": "Covered Tureen on Stand (Pot-à-oille) — 台付き蓋付きスープ容器",
@@ -15062,6 +16070,35 @@
             "ほかの器や家具と比べられます。"
           ]
         }
+      },
+      {
+        "work_id": "huquier-fountains-7",
+        "title": "噴水の図案集：第7図",
+        "title_ja": "噴水の図案集：第7図",
+        "title_original": "Book of Fountains: No. 7",
+        "creator": "ガブリエル・ユキエ（フランソワ・ブーシェの原図による）",
+        "date": "1736年頃",
+        "domain": "エッチング",
+        "reason": "貝のような形、流れる水、子どもや動物が一つの噴水の図案になっています。曲がった輪郭が、上下の形をつないでいます。",
+        "limitation": "実在の噴水の写真ではなく、紙に刷られた装飾の図案です。",
+        "evidence": "https://clevelandart.org/art/1953.676",
+        "source_ids": [
+          "huquier-fountains-7-source"
+        ],
+        "image_ids": [
+          "huquier-fountains-7"
+        ],
+        "image_count_acquired": 1,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "噴水の図案集：第7図",
+          "lead": [
+            "貝のような形、流れる水、子どもや動物が一つの噴水の図案になっています。曲がった輪郭が、上下の形をつないでいます。"
+          ]
+        },
+        "work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。"
       }
     ],
     "period_bands": [
@@ -15178,6 +16215,83 @@
               "format": "image/webp"
             }
           ]
+        }
+      },
+      {
+        "local_file": "assets/lineage-existing-cma-1953.676-web.jpg",
+        "width": 1031,
+        "height": 1600,
+        "sha256": "1f202286f00a1aaa71bc1a015c33e1c651c0f7cbee3de9b527182909e4ac747b",
+        "local_bytes": 596625,
+        "id": "huquier-fountains-7",
+        "work_id": "huquier-fountains-7",
+        "entry": "Rococo",
+        "title": "噴水の図案集：第7図",
+        "author": "ガブリエル・ユキエ（フランソワ・ブーシェの原図による）",
+        "year": "1736年頃",
+        "institution": "クリーブランド美術館",
+        "source_page": "https://clevelandart.org/art/1953.676",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1953.676/1953.676_print.jpg",
+        "license": "CC0 1.0 Universal",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "ガブリエル・ユキエ（フランソワ・ブーシェの原図による）《噴水の図案集：第7図》、1736年頃。クリーブランド美術館、1953.676。CC0 1.0 Universal。 Gift of Erich Lederer.",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "貝のような形、流れる水、子どもや動物が一つの噴水の図案になっています。曲がった輪郭が、上下の形をつないでいます。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "貝のような形、流れる水、子どもや動物が一つの噴水の図案になっています。曲がった輪郭が、上下の形をつないでいます。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "実在の噴水の写真ではなく、紙に刷られた装飾の図案です。",
+          "anchor": "huquier-fountains-7"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "表示用画像は縦横比を保って縮小しています。原画像の寸法と取得時のハッシュは出典記録に残しています。",
+        "accession": "1953.676",
+        "display_derivatives": {
+          "method": "全体を残して縮小したJPEGとWebPです。切り抜き、拡大、色補正はしていません。原画像は出典先のリンクで開けます。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-existing-cma-1953.676-print-640.webp",
+              "width": 640,
+              "height": 994,
+              "bytes": 202466,
+              "sha256": "38376aae8690fa63cd25e5136c74e903ff9bf10a9d6a6d240f83bb8951a0281d",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-cma-1953.676-print-1000.webp",
+              "width": 1000,
+              "height": 1553,
+              "bytes": 474782,
+              "sha256": "513f04c8cd3bfefb3f5ddb25ad83e4dc1a8455192373cc4952e080f2647557ec",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-cma-1953.676-web.jpg",
+              "width": 1031,
+              "height": 1600,
+              "sha256": "1f202286f00a1aaa71bc1a015c33e1c651c0f7cbee3de9b527182909e4ac747b",
+              "bytes": 596625,
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.676/1953.676_print.jpg",
+          "width": 2190,
+          "height": 3400,
+          "sha256": "47af41bea22fa1e545237353d2adab056e81ce89801ea18ebb22fc9b819d3713"
         }
       }
     ],
@@ -15301,8 +16415,8 @@
     "checked_at": "2026-11-01",
     "modern_section_label": "現代の作品と比べる",
     "publication_status": "published_source_reviewed_draft",
-    "image_count_acquired": 1,
-    "representative_count": 4,
+    "image_count_acquired": 2,
+    "representative_count": 5,
     "overview_evidence_status": "歴史本文と4作品の公式機関記録を確認。既存CMA画像1点のみ取得済み。残り3点は本文候補・画像未取得未採用。",
     "representativeness_limit": "4作品は、比べるために選んだものです。すべての地域や分野をカバーしてはいません。3–5点の画像セットが完成したという意味でもありません。",
     "sources": [
@@ -15390,9 +16504,15 @@
         "evidence_format": "tool-response-verbatim-excerpt-transcribed-from-conversation",
         "raw_response_preserved": false,
         "evidence_sha256": "55d43fa558749ae09d0c0c37b56c04e51efc250575df0ee2d2560cf8930d8b56"
+      },
+      {
+        "id": "canova-terpsichore-source",
+        "url": "https://clevelandart.org/art/1968.212",
+        "institution": "クリーブランド美術館",
+        "title": "竪琴を持つテルプシコレー"
       }
     ],
-    "status": "本文試作・実作品画像1点収録 / 代表画像セットは整備中",
+    "status": "本文公開・実作品画像2点／画像の収録は継続中",
     "representatives": [
       {
         "title": "Portland Vase — ポートランドの壺",
@@ -15490,6 +16610,35 @@
             "何もかかれていない場所の広さも、見え方に関わっています。"
           ]
         }
+      },
+      {
+        "work_id": "canova-terpsichore",
+        "title": "竪琴を持つテルプシコレー",
+        "title_ja": "竪琴を持つテルプシコレー",
+        "title_original": "Terpsichore Lyran (Muse of Lyric Poetry)",
+        "creator": "アントニオ・カノーヴァ",
+        "date": "1816年",
+        "domain": "大理石彫刻",
+        "reason": "白い大理石の人物が、竪琴のそばに立っています。布のひだ、交差する足、横を向く顔を見てみましょう。",
+        "limitation": "英国の注文主のために制作された1816年の像です。古代の女神を表していますが、古代に作られた彫刻ではありません。",
+        "evidence": "https://clevelandart.org/art/1968.212",
+        "source_ids": [
+          "canova-terpsichore-source"
+        ],
+        "image_ids": [
+          "canova-terpsichore"
+        ],
+        "image_count_acquired": 1,
+        "work_count": 1,
+        "image_adoption": "実作品の画像を収録。",
+        "reading_intro": {
+          "heading": "竪琴を持つテルプシコレー",
+          "lead": [
+            "白い大理石の人物が、竪琴のそばに立っています。布のひだ、交差する足、横を向く顔を見てみましょう。"
+          ]
+        },
+        "work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。"
       }
     ],
     "period_bands": [
@@ -15606,6 +16755,83 @@
               "format": "image/webp"
             }
           ]
+        }
+      },
+      {
+        "local_file": "assets/lineage-existing-cma-1968.212-web.jpg",
+        "width": 1068,
+        "height": 1600,
+        "sha256": "454351f4e994da58d8740d1fb25a4fb264a54d1ead773fffb348e438d514809e",
+        "local_bytes": 193354,
+        "id": "canova-terpsichore",
+        "work_id": "canova-terpsichore",
+        "entry": "Neoclassicism",
+        "title": "竪琴を持つテルプシコレー",
+        "author": "アントニオ・カノーヴァ",
+        "year": "1816年",
+        "institution": "クリーブランド美術館",
+        "source_page": "https://clevelandart.org/art/1968.212",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1968.212/1968.212_print.jpg",
+        "license": "CC0 1.0 Universal",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "アントニオ・カノーヴァ《竪琴を持つテルプシコレー》、1816年。クリーブランド美術館、1968.212。CC0 1.0 Universal。 Leonard C. Hanna Jr. Fund.",
+        "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+        "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。",
+        "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+        "alt": "白い大理石の人物が、竪琴のそばに立っています。布のひだ、交差する足、横を向く顔を見てみましょう。",
+        "visual_notes": [
+          {
+            "title": "ここを見てみよう。",
+            "text": "白い大理石の人物が、竪琴のそばに立っています。布のひだ、交差する足、横を向く顔を見てみましょう。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "英国の注文主のために制作された1816年の像です。古代の女神を表していますが、古代に作られた彫刻ではありません。",
+          "anchor": "canova-terpsichore"
+        },
+        "pixels_inspected": true,
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "status": "adopted_local_image",
+        "original_bytes_unchanged": true,
+        "image_processing": "表示用画像は縦横比を保って縮小しています。原画像の寸法と取得時のハッシュは出典記録に残しています。",
+        "accession": "1968.212",
+        "display_derivatives": {
+          "method": "全体を残して縮小したJPEGとWebPです。切り抜き、拡大、色補正はしていません。原画像は出典先のリンクで開けます。",
+          "variants": [
+            {
+              "local_file": "assets/lineage-existing-cma-1968.212-print-640.webp",
+              "width": 640,
+              "height": 959,
+              "bytes": 33204,
+              "sha256": "0297dee4f24555499162f5ac4c2da4475ec27f100a3c90e7c82a7843c7a49c4b",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-cma-1968.212-print-1000.webp",
+              "width": 1000,
+              "height": 1498,
+              "bytes": 61242,
+              "sha256": "853e846e1da4bc0ddc8229e5b71bf31128b1e31d8cf937a8560565f72d136ef4",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/lineage-existing-cma-1968.212-web.jpg",
+              "width": 1068,
+              "height": 1600,
+              "sha256": "454351f4e994da58d8740d1fb25a4fb264a54d1ead773fffb348e438d514809e",
+              "bytes": 193354,
+              "format": "image/jpeg"
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://openaccess-cdn.clevelandart.org/1968.212/1968.212_print.jpg",
+          "width": 2269,
+          "height": 3400,
+          "sha256": "12324d177983c69cefc0ac22f587062fed7eda06ef74a6f82a9db87e655483a1"
         }
       }
     ],
