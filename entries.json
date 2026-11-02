@@ -2608,6 +2608,20 @@
           "vam-deco"
         ]
       }
+    ],
+    "artist_ids": [
+      "alphonse-mucha",
+      "victor-horta",
+      "hector-guimard",
+      "emile-galle",
+      "clara-wolcott-driscoll",
+      "aubrey-beardsley",
+      "william-griggs",
+      "eugene-grasset",
+      "rene-lalique"
+    ],
+    "organization_ids": [
+      "tiffany-studios"
     ]
   },
   {

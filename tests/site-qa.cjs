@@ -1,6 +1,7 @@
 const {chromium}=require('playwright'),fs=require('fs'),path=require('path'),assert=require('assert');
 const entries=JSON.parse(fs.readFileSync('entries.json','utf8'));
-const artistRegistry=JSON.parse(fs.readFileSync('artists.json','utf8')).artists;
+const registryData=JSON.parse(fs.readFileSync('artists.json','utf8'));
+const artistRegistry=[...registryData.artists,...(registryData.organizations||[])];
 const catalog=JSON.parse(fs.readFileSync('catalog.json','utf8'));
 assert.equal(new Set(entries.map(e=>e.slug)).size,entries.length);
 assert.equal(catalog.length,89);
@@ -80,7 +81,7 @@ for(const width of [320,390,1280]){
   }
   if(["punk-diy", "new-bauhaus-chicago", "vkhutemas", "black-mountain-college", "psychedelic-art", "streamline-moderne", "polish-poster-school", "surrealism", "jugendstil", "scandinavian-modern", "brutalism", "critical-regionalism", "mid-century-modern", "radical-design", "memphis", "new-wave-typography", "supergraphics", "bengal-school", "shinkenchiku-kogei-gakuin", "kuwasawa-design-school", "nid-ahmedabad", "esdi-rio", "shinko-shashin", "gutai", "mono-ha", "dansaekhwa", "taller-grafica-popular", "tropicalismo", "negritude-visual-culture", "khartoum-school", "wayo-graphic", "brazilian-modernism", "tropical-modernism", "typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web", "suprematism", "wiener-werkstaette", "russian-constructivism", "metabolism", "art-deco", "international-style", "rococo", "neoclassicism", "postmodernism", "de-stijl"].includes(slug)){await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),`${slug} expanded overflow`);}
   if(["typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web"].includes(slug)){await page.locator("#representative-works").scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/${slug}-expanded-${width}.png`});const parts=await page.locator('.segmented-title .title-part').evaluateAll(xs=>xs.map(x=>{const r=document.createRange();r.selectNodeContents(x);return {lines:r.getClientRects().length,left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right};}));assert(parts.every(x=>x.lines===1&&x.left>=0&&x.right<=width+1),'Semantic title parts fit');await page.locator(".study-title").screenshot({path:`qa-artifacts/${slug}-title-${width}.png`});}
-  if(['rinpa','surrealism','art-deco','mid-century-modern','mexican-muralism','ito-jakuchu','new-typography','international-style','dansaekhwa'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
+  if(['art-nouveau','rinpa','surrealism','art-deco','mid-century-modern','mexican-muralism','ito-jakuchu','new-typography','international-style','dansaekhwa'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
    const entry=entries.find(e=>e.slug===slug);
    const sourceSizes=await page.locator('.collected-art img').evaluateAll(async xs=>Promise.all(xs.map(async i=>{const raw=new Image();raw.src=i.currentSrc;await raw.decode();return {width:i.getBoundingClientRect().width,natural:raw.naturalWidth,src:i.currentSrc};})));
    assert(sourceSizes.every(x=>x.width<=x.natural+0.5),'Expanded chapter actual image source is not enlarged');
@@ -96,10 +97,11 @@ for(const width of [320,390,1280]){
    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)), 'Expanded chapter does not overflow');
    const credits=await page.locator('.collected-art .credit').evaluateAll(xs=>xs.map(x=>({left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right})));assert(credits.every(x=>x.left>=0&&x.right<=width+1),'Expanded chapter credits fit');
    for(const [label,selector] of [['glossary','#article-glossary'],['timeline','#article-timeline'],['regions','.regional-notes']]){if(await page.locator(selector).count()){await page.locator(selector).scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/deep-${slug}-${label}-${width}.png`});}}
-   if(entry.artist_ids){
-    assert.equal(await page.locator('#article-artists .artist-record').count(),entry.artist_ids.length);
+   if(entry.artist_ids||entry.organization_ids){
+    const profileIds=[...(entry.artist_ids||[]),...(entry.organization_ids||[])];
+    assert.equal(await page.locator('#article-artists .artist-record').count(),profileIds.length);
     for(const [i,person] of (await page.locator('#article-artists .artist-record').all()).entries()){
-     assert(await person.locator('p').first().evaluate(p=>parseFloat(getComputedStyle(p).fontSize)>=16),'Artist profile text is readable');assert(await person.getAttribute('open')!==null);const record=artistRegistry.find(a=>a.id===entry.artist_ids[i]);const label=await person.locator('summary').textContent();assert(label.includes(record.death_year!==null&&record.death_year!==undefined?`${record.death_year}年没`:record.life_status==='verified_living'?'存命':'没年の記載は未確認'));if(record.life_status==='unknown')assert(!label.includes('存命'));
+     assert(await person.locator('p').first().evaluate(p=>parseFloat(getComputedStyle(p).fontSize)>=16),'Artist profile text is readable');assert(await person.getAttribute('open')!==null);const record=artistRegistry.find(a=>a.id===profileIds[i]);const label=await person.locator('summary').textContent();assert(label.includes(record.entity_type==='organization'?record.date_label:(record.birth_year_status==='conflicting_primary_catalogues'||(record.birth_year_status==='unknown'&&record.death_year_status==='unknown'))?record.life_dates_label:record.death_year!==null&&record.death_year!==undefined?`${record.death_year}年没`:record.life_status==='verified_living'?'存命':'没年の記載は未確認'));if(record.life_status==='unknown')assert(!label.includes('存命'));
      await person.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
      await page.screenshot({path:`qa-artifacts/deep-${slug}-artist-${i+1}-${width}.png`});
     }
@@ -122,7 +124,7 @@ for(const width of [320,390,1280]){
     }
     assert(zoomState.scroll<=zoomState.inner+1,'Expanded chapter 200% layout zoom fits');
     await page.locator('.study-title h1').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/deep-${slug}-visible-heading-${width}-${zoom}x.png`});
-    if(entry.artist_ids){
+    if(entry.artist_ids||entry.organization_ids){
      await page.locator('#article-artists details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
      assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Expanded artist biographies fit at layout zoom');
      await page.locator('#article-artists').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));

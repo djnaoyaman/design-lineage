@@ -14,7 +14,7 @@
 - [項目を比べる](https://djnaoyaman.github.io/design-lineage/compare.html)
 - [編者](https://djnaoyaman.github.io/design-lineage/compiler.html)
 - [アーツ・アンド・クラフツ / Arts & Crafts](https://djnaoyaman.github.io/design-lineage/entries/arts-and-crafts.html): 歴史的な運動。主な展開 1880頃–1920頃（前史は1860–70年代）。
-- [アール・ヌーヴォー / Art Nouveau](https://djnaoyaman.github.io/design-lineage/entries/art-nouveau.html): 国際的な様式と改革の潮流。1890年代初め–第一次世界大戦頃。
+- [アール・ヌーヴォー / Art Nouveau](https://djnaoyaman.github.io/design-lineage/entries/art-nouveau.html): 暮らしの形を新しくした、国際的なデザインの動き。1890年代を中心に広まり、第一次世界大戦頃まで（前ぶれは1880年代）。実作品画像10点、作品・制作の例13件、人物9人。画像収録は継続中。
 - [アール・デコ / Art Deco](https://djnaoyaman.github.io/design-lineage/entries/art-deco.html): 様式。主な展開 1920–30年代（1925年パリ博覧会が重要）。実作品画像4点、作品・制作の例8件、人物7人。画像収録は継続中。
 - [デ・ステイル / De Stijl](https://djnaoyaman.github.io/design-lineage/entries/de-stijl.html): 雑誌を核とした運動。1917年創刊の雑誌を核に展開（終期と各作家の活動期は区別）。
 - [ロシア構成主義 / Russian Constructivism](https://djnaoyaman.github.io/design-lineage/entries/russian-constructivism.html): 歴史的な運動。年代範囲を一次資料で精査中。
