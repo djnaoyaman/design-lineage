@@ -5326,6 +5326,810 @@
           "description": "展示で紹介されたページの作者です。外側の張り子の装丁はヴィーゼルティーアの仕事で、本全体の文章を一人で書いたという意味でもありません。"
         }
       ]
+    },
+    {
+      "id": "vladimir-tatlin",
+      "entity_type": "person",
+      "name_ja": "ウラジーミル・タトリン",
+      "name_kana": "ウラジーミル・タトリン",
+      "name_original": "Vladimir Tatlin",
+      "birth_year": 1885,
+      "death_year": 1953,
+      "short_bio": "絵画、舞台美術、建築や工学に関わる構想に取り組んだ美術家。絵画や図案だけでなく、建築物や機械の構想も手がけました。第三インターナショナル記念塔は、その構想を伝える代表的な仕事です。",
+      "representative_works": [
+        {
+          "id": "tatlin-punin-monument-book-1920-moma-215-2001",
+          "title_ja": "第三インターナショナル記念塔（1920年の刊行物）",
+          "title_original": "Pamiatnik III Internatsionala (Monument to the Third International)",
+          "date_label": "1920年",
+          "work_type": "構想を紹介する書物",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/13818",
+          "creator_role": "記念塔の構想",
+          "accession": "215.2001.1-2",
+          "note": "記念塔の構想を紹介する本で、塔の実物や後年の再構成模型ではありません。書物の著者はプーニンです。",
+          "credits": [
+            {
+              "artist_id": "vladimir-tatlin",
+              "role": "記念塔の構想"
+            },
+            {
+              "artist_id": "nikolai-punin",
+              "role": "書物の著者"
+            },
+            {
+              "artist_id": "izo-nkp",
+              "role": "出版"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-tatlin-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ウラジーミル・タトリン：作家情報",
+          "url": "https://www.moma.org/artists/5811-vladimir-tatlin",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "russian-museum-tatlin-bio",
+          "institution": "国立ロシア美術館",
+          "title": "タトリンの作品と略歴",
+          "url": "https://rmgallery.rusmuseumvrm.ru/en/1440",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-tatlin-monument-book",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "第三インターナショナル記念塔：1920年の刊行物",
+          "url": "https://www.moma.org/collection/works/13818",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "記念塔を構想した美術家",
+          "description": "構想そのものと、それを伝える書物や後年の再構成を分けて見ます。"
+        }
+      ]
+    },
+    {
+      "id": "nikolai-punin",
+      "entity_type": "person",
+      "name_ja": "ニコライ・プーニン",
+      "name_kana": "ニコライ・プーニン",
+      "name_original": "Nikolai Punin",
+      "birth_year": 1888,
+      "death_year": 1953,
+      "short_bio": "美術史家・批評家。美術館での研究や雑誌の執筆・編集に携わりました。タトリンの記念塔構想を紹介する1920年の本では、文章の著者として記録されています。",
+      "representative_works": [
+        {
+          "id": "tatlin-punin-monument-book-1920-moma-215-2001",
+          "title_ja": "第三インターナショナル記念塔（1920年の刊行物）",
+          "title_original": "Pamiatnik III Internatsionala (Monument to the Third International)",
+          "date_label": "1920年",
+          "work_type": "構想を紹介する書物",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/13818",
+          "creator_role": "書物の著者",
+          "accession": "215.2001.1-2",
+          "note": "記念塔の構想を紹介する本で、塔の実物や後年の再構成模型ではありません。書物の著者はプーニンです。",
+          "credits": [
+            {
+              "artist_id": "vladimir-tatlin",
+              "role": "記念塔の構想"
+            },
+            {
+              "artist_id": "nikolai-punin",
+              "role": "書物の著者"
+            },
+            {
+              "artist_id": "izo-nkp",
+              "role": "出版"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "hrc-punin-archive",
+          "institution": "テキサス大学オースティン校ハリー・ランサム・センター",
+          "title": "ニコライ・プーニン文書の目録と略歴",
+          "url": "https://research.hrc.utexas.edu/fasearch/pdf/00253.pdf",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-tatlin-monument-book",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "第三インターナショナル記念塔：1920年の刊行物",
+          "url": "https://www.moma.org/collection/works/13818",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "記念塔構想を紹介した書物の著者",
+          "description": "塔の設計者ではなく、構想を文章で伝えた人物として紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "alexander-rodchenko",
+      "entity_type": "person",
+      "name_ja": "アレクサンドル・ロトチェンコ",
+      "name_kana": "アレクサンドル・ロトチェンコ",
+      "name_original": "Alexander Rodchenko / Aleksandr Rodchenko",
+      "birth_year": 1891,
+      "death_year": 1956,
+      "short_bio": "広告や家具、展示空間を手がけた美術家。文字を使って伝える仕事と、人が集まり学ぶ場所の設計に取り組みました。労働者クラブでは、一つの家具を複数の用途に使う工夫も考えました。",
+      "representative_works": [
+        {
+          "id": "rodchenko-books-frye-2015-010s-30",
+          "title_ja": "本を！あらゆる分野の知識を",
+          "title_original": "Books (Please)! In All Branches of Knowledge",
+          "date_label": "1924年のデザイン／1967年の印刷",
+          "work_type": "広告ポスターの複製",
+          "institution": "フライ美術館",
+          "source_url": "https://fryemuseum.org/artwork/books-please-2015.010S.30",
+          "creator_role": "広告デザイン",
+          "accession": "2015.010S.30",
+          "note": "フライ美術館の所蔵品は1967年に印刷された複製です。1924年当時の印刷物や、現代の撮影者による作品写真とは区別します。"
+        },
+        {
+          "id": "rodchenko-workers-club-design-1925",
+          "title_ja": "労働者クラブ（1925年パリ博覧会の設計）",
+          "title_original": "Workers’ Club, 1925 Paris exposition design",
+          "date_label": "1925年（設計・展示）",
+          "work_type": "家具・展示空間",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/interactives/exhibitions/1998/rodchenko/texts/workers_club.html",
+          "creator_role": "家具と空間の設計",
+          "note": "共同で読む・働くための家具と空間の設計です。1925年の設計と、後年の再構成やその写真を同一の制作物として扱いません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "frye-rodchenko-books",
+          "institution": "フライ美術館",
+          "title": "本を！あらゆる分野の知識を（2015.010S.30）",
+          "url": "https://fryemuseum.org/artwork/books-please-2015.010S.30",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-rodchenko-workers-club",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ロトチェンコの労働者クラブ（1925年）",
+          "url": "https://www.moma.org/interactives/exhibitions/1998/rodchenko/texts/workers_club.html",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "広告と生活空間を設計した美術家",
+          "description": "ポスターと共同で使う空間を比べ、伝達と日常の道具への取り組みを見ます。"
+        }
+      ]
+    },
+    {
+      "id": "liubov-popova",
+      "entity_type": "person",
+      "name_ja": "リュボーフィ・ポポーワ",
+      "name_kana": "リュボーフィ・ポポーワ",
+      "name_original": "Liubov Popova",
+      "birth_year": 1889,
+      "death_year": 1924,
+      "short_bio": "絵画から抽象的な構成へ、さらに日常で使うもののデザインへと仕事を広げた美術家。美術や色彩の理論も教えました。布のための図案では、紙の上で形と色の組み合わせを考えています。",
+      "representative_works": [
+        {
+          "id": "popova-textile-design-costakis-349-282",
+          "title_ja": "テキスタイルの図案（34.9 × 28.2 cm）",
+          "title_original": "Textile design",
+          "date_label": "1923〜1924年",
+          "work_type": "紙に描いた布の図案",
+          "institution": "ギリシャ国立現代美術館・コスタキス・コレクション（2010年出品リスト表記）",
+          "source_url": "https://www.moma.org/interactives/exhibitions/2010/online/checklist.pdf",
+          "creator_role": "図案の制作",
+          "medium": "紙にグアッシュ、インク、鉛筆",
+          "dimensions": "34.9 × 28.2 cm",
+          "note": "紙の図案で、製造された布ではありません。同じ出品リストにある23.6 × 14.3 cmの図案とは別の作品です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-popova-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "リュボーフィ・ポポーワ：作家情報",
+          "url": "https://www.moma.org/artists/4694-liubov-popova",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-popova-retrospective",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "リュボーフィ・ポポーワ回顧展",
+          "url": "https://www.moma.org/calendar/exhibitions/328",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-online2010-checklist",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "線をめぐる展覧会：2010年出品リスト",
+          "url": "https://www.moma.org/interactives/exhibitions/2010/online/checklist.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "絵画と実用品の図案を結びつけた美術家",
+          "description": "ここでは製品としての布ではなく、紙に描かれた図案を取り上げます。"
+        }
+      ]
+    },
+    {
+      "id": "el-lissitzky",
+      "entity_type": "person",
+      "name_ja": "エル・リシツキー",
+      "name_kana": "エル・リシツキー",
+      "name_original": "El Lissitzky",
+      "birth_year": 1890,
+      "death_year": 1941,
+      "short_bio": "絵画、文字の設計、出版物、展示空間に取り組んだ美術家。詩集《声のために》をデザインし、1928年のプレスサではソ連館の美術面を指揮して図録も制作しました。",
+      "representative_works": [
+        {
+          "id": "pressa-catalogue-1928",
+          "title_ja": "国際新聞博覧会「プレスサ」ソ連館の図録",
+          "title_original": "Katalog des Sowjet-Pavillons auf der Internationalen Presse-Ausstellung Köln 1928",
+          "date_label": "デザイン：1927〜1928年／刊行：1928年",
+          "work_type": "図録・ブックデザイン",
+          "institution": "ハンブルク美術工芸博物館",
+          "source_url": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+          "creator_role": "表紙・文字・写真の構成",
+          "accession": "BZV1999.63",
+          "note": "この所蔵本には折り込みの写真モンタージュがありません。表紙と扉は、同じ1冊の異なる部分です。",
+          "credits": [
+            {
+              "artist_id": "el-lissitzky",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "pressa-soviet-pavilion-committee",
+              "role": "出版"
+            },
+            {
+              "artist_id": "m-dumont-schauberg",
+              "role": "印刷"
+            }
+          ]
+        },
+        {
+          "id": "lissitzky-for-voice-1923",
+          "title_ja": "声のために",
+          "title_original": "Dlia golosa (For the Voice)",
+          "date_label": "1923年",
+          "work_type": "詩集・ブックデザイン",
+          "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+          "source_url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+          "creator_role": "デザイン",
+          "accession": "2006.92.1",
+          "note": "RISD美術館所蔵の詩集です。詩の作者とデザインの担当は異なります。表紙と見開きは同じ本の部分であり、他館の同じ書名の所蔵本とは別の個体です。",
+          "credits": [
+            {
+              "artist_id": "el-lissitzky",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "vladimir-mayakovsky",
+              "role": "詩"
+            },
+            {
+              "artist_id": "rsfsr-state-publishing-house",
+              "role": "印刷（所蔵館の記録）"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "staedel-lissitzky-life",
+          "institution": "シュテーデル美術館",
+          "title": "エル・リシツキー：作家情報",
+          "url": "https://sammlung.staedelmuseum.de/en/person/lissitzky-el",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mkg-pressa-bzv199963",
+          "institution": "ハンブルク美術工芸博物館",
+          "title": "プレスサ・ソ連館図録（BZV1999.63）",
+          "url": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "risd-for-voice2006921",
+          "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+          "title": "声のために（2006.92.1）",
+          "url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "出版物と展示を設計した美術家",
+          "description": "詩の作者、出版した組織、印刷所との分担を通じて、共同で本をつくる仕事を見ます。"
+        }
+      ]
+    },
+    {
+      "id": "vladimir-mayakovsky",
+      "entity_type": "person",
+      "name_ja": "ウラジーミル・マヤコフスキー",
+      "name_kana": "ウラジーミル・マヤコフスキー",
+      "name_original": "Vladimir Vladimirovich Mayakovsky",
+      "birth_year": 1893,
+      "death_year": 1930,
+      "short_bio": "ロシア語で詩を書いた詩人。1923年の詩集《声のために》では、マヤコフスキーの詩とリシツキーのデザインが一つの本になりました。言葉を書く仕事と、本の見せ方を考える仕事の分担がわかる例です。",
+      "representative_works": [
+        {
+          "id": "lissitzky-for-voice-1923",
+          "title_ja": "声のために",
+          "title_original": "Dlia golosa (For the Voice)",
+          "date_label": "1923年",
+          "work_type": "詩集・ブックデザイン",
+          "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+          "source_url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+          "creator_role": "詩",
+          "accession": "2006.92.1",
+          "note": "RISD美術館所蔵の詩集です。詩の作者とデザインの担当は異なります。表紙と見開きは同じ本の部分であり、他館の同じ書名の所蔵本とは別の個体です。",
+          "credits": [
+            {
+              "artist_id": "el-lissitzky",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "vladimir-mayakovsky",
+              "role": "詩"
+            },
+            {
+              "artist_id": "rsfsr-state-publishing-house",
+              "role": "印刷（所蔵館の記録）"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "risd-for-voice2006921",
+          "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+          "title": "声のために（2006.92.1）",
+          "url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "詩集の言葉を担った詩人",
+          "description": "本のデザイナーとは異なる、詩の作者として紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "piet-mondrian",
+      "entity_type": "person",
+      "name_ja": "ピート・モンドリアン",
+      "name_kana": "ピート・モンドリアン",
+      "name_original": "Piet Mondrian",
+      "birth_year": 1872,
+      "death_year": 1944,
+      "short_bio": "自然の姿を描く絵画から、水平・垂直の線と色の面による抽象絵画へ進んだ画家。形や色のつり合いを通じ、調和のある世界を表そうとしました。デ・ステイルを考えるうえで重要な人物です。",
+      "representative_works": [
+        {
+          "id": "mondrian-composition-ii-1929-moma-486-1941",
+          "title_ja": "コンポジション第II番、赤と青",
+          "title_original": "Composition No. II, with Red and Blue",
+          "date_label": "1929年",
+          "work_type": "絵画",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/79816",
+          "creator_role": "絵画の制作",
+          "accession": "486.1941",
+          "note": "館は1929年作としています。画面には、消えかかった日付を作者が誤って1925年と書き直したという注記があります。"
+        },
+        {
+          "id": "cma-1967.215-mondrian",
+          "title_ja": "赤・黄・青のコンポジション",
+          "title_original": "Composition with Red, Yellow, and Blue",
+          "date_label": "1927年",
+          "work_type": "絵画",
+          "institution": "クリーブランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1967.215",
+          "creator_role": "絵画の制作",
+          "accession": "1967.215",
+          "note": "クリーブランド美術館の1927年作。ニューヨーク近代美術館所蔵の1929年作や、似た題名の別作品とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-mondrian1929",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "コンポジション第II番、赤と青（486.1941）",
+          "url": "https://www.moma.org/collection/works/79816",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cma-mondrian1967215",
+          "institution": "クリーブランド美術館",
+          "title": "赤・黄・青のコンポジション（1967.215）",
+          "url": "https://www.clevelandart.org/art/1967.215",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-rietveld-chair4871953",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "レッド・ブルー・チェア（487.1953）",
+          "url": "https://www.moma.org/collection/works/4044",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "de-stijl",
+          "role": "線と色面による抽象絵画を探った画家",
+          "description": "家具や建築と比べるために、異なる年の絵画2点を区別して紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "gerrit-rietveld",
+      "entity_type": "person",
+      "name_ja": "ヘリット・リートフェルト",
+      "name_kana": "ヘリット・リートフェルト",
+      "name_original": "Gerrit Rietveld",
+      "birth_year": 1888,
+      "death_year": 1964,
+      "short_bio": "家具と建築を設計したオランダのデザイナー・建築家。板や棒、平らな面を組み合わせ、部品の間の空間にも目を向けました。シュレーダー邸では施主と協働し、暮らしに合わせて使える住宅を考えました。",
+      "representative_works": [
+        {
+          "id": "rietveld-red-blue-chair-moma-487-1953",
+          "title_ja": "レッド・ブルー・チェア",
+          "title_original": "Red Blue Chair",
+          "date_label": "1918年の設計／1923年頃の彩色（館の表記：1918〜1923年）",
+          "work_type": "家具",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/4044",
+          "creator_role": "設計",
+          "accession": "487.1953",
+          "medium": "塗装した木材",
+          "note": "ニューヨーク近代美術館の所蔵個体です。ユトレヒト中央美術館の別の椅子に記録された製作者や製作年を、この個体には当てはめません。"
+        },
+        {
+          "id": "rietveld-schroder-1924",
+          "title_ja": "リートフェルト・シュレーダー邸",
+          "title_original": "Rietveld Schröder House",
+          "date_label": "1924年",
+          "work_type": "住宅建築",
+          "institution": "リートフェルト・シュレーダー邸美術館",
+          "source_url": "https://whc.unesco.org/en/list/965/",
+          "creator_role": "設計",
+          "note": "シュレーダーが施主として希望を伝え、設計にも協働した住宅です。建築の制作年と、現在の外観を写した写真の撮影年は異なります。",
+          "credits": [
+            {
+              "artist_id": "gerrit-rietveld",
+              "role": "設計"
+            },
+            {
+              "artist_id": "truus-schroder-schrader",
+              "role": "施主・設計への協働"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-rietveld-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ヘリット・リートフェルト：作家情報",
+          "url": "https://www.moma.org/artists/4922-gerrit-rietveld",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-rietveld-chair4871953",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "レッド・ブルー・チェア（487.1953）",
+          "url": "https://www.moma.org/collection/works/4044",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "unesco-rietveld965",
+          "institution": "ユネスコ世界遺産センター",
+          "title": "リートフェルト・シュレーダー邸",
+          "url": "https://whc.unesco.org/en/list/965/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "schroderhouse-history",
+          "institution": "リートフェルト・シュレーダー邸美術館",
+          "title": "邸宅の成り立ちと暮らし",
+          "url": "https://www.rietveldschroderhuis.nl/en",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "de-stijl",
+          "role": "家具と住宅を設計した建築家",
+          "description": "椅子の設計・彩色と、住宅の設計での協働を分けて見ます。"
+        }
+      ]
+    },
+    {
+      "id": "theo-van-doesburg",
+      "entity_type": "person",
+      "name_ja": "テオ・ファン・ドゥースブルフ",
+      "name_kana": "テオ・ファン・ドゥースブルフ",
+      "name_original": "Theo van Doesburg",
+      "birth_year": 1883,
+      "death_year": 1931,
+      "short_bio": "画家・著述家で、デ・ステイルの創設に関わった人物。絵画と建築に共通する平らな面に注目し、室内の色や空間の組み立て方を探りました。ファン・エーステレンとは住宅の構想を共同で考えました。",
+      "representative_works": [
+        {
+          "id": "doesburg-eesteren-contra-1923-moma-149-1947",
+          "title_ja": "コントラ・コンストラクション（軸測図）",
+          "title_original": "Contra-Construction Project (Axonometric)",
+          "date_label": "1923年",
+          "work_type": "空間を考える図",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/232?art_term_slug=de-stijl&sov_referrer=art_term",
+          "creator_role": "共同制作",
+          "accession": "149.1947",
+          "medium": "リトグラフにグアッシュ",
+          "note": "共同で考えた住宅の設計をもとに、平らな面どうしの関係を探った作品です。特定の建物を建てるための設計図ではありません。",
+          "credits": [
+            {
+              "artist_id": "theo-van-doesburg",
+              "role": "共同制作"
+            },
+            {
+              "artist_id": "cornelis-van-eesteren",
+              "role": "共同制作"
+            }
+          ]
+        },
+        {
+          "id": "doesburg-colour-solution-rpt201355",
+          "title_ja": "室内の配色案",
+          "title_original": "Colour solution / Kleuroplossing voor een kamer",
+          "date_label": "1920〜1929年頃",
+          "work_type": "室内の配色案・コラージュ",
+          "institution": "アムステルダム国立美術館",
+          "source_url": "https://www.rijksmuseum.nl/en/collection/object/Colour-solution--dcdb1ced64619e06776a8073bfcbea5f",
+          "creator_role": "配色案の制作",
+          "accession": "RP-T-2013-55",
+          "note": "1919年の室内計画と、この紙の作品の年代、1925年の出版は異なります。初めの室内の青・緑・赤を、後の出版では赤・黄・青に組み直しています。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-doesburg-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "テオ・ファン・ドゥースブルフ：作家情報",
+          "url": "https://www.moma.org/artists/6076-theo-van-doesburg",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-contra1491947",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "コントラ・コンストラクション（軸測図、149.1947）",
+          "url": "https://www.moma.org/collection/works/232?art_term_slug=de-stijl&sov_referrer=art_term",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "rijks-colour-rpt201355",
+          "institution": "アムステルダム国立美術館",
+          "title": "室内の配色案（RP-T-2013-55）",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Colour-solution--dcdb1ced64619e06776a8073bfcbea5f",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "de-stijl",
+          "role": "絵画と建築の関係を探った画家・著述家",
+          "description": "平面の構成、室内の配色、建築家との共同制作をつなげて見ます。"
+        }
+      ]
+    },
+    {
+      "id": "cornelis-van-eesteren",
+      "entity_type": "person",
+      "name_ja": "コルネリス・ファン・エーステレン",
+      "name_kana": "コルネリス・ファン・エーステレン",
+      "name_original": "Cornelis van Eesteren",
+      "birth_year": 1897,
+      "death_year": 1988,
+      "short_bio": "オランダの建築家。ファン・ドゥースブルフと住宅の構想を共同で考え、1923年にパリで発表しました。絵画の平面と建築の空間を結びつける試みに関わりました。",
+      "representative_works": [
+        {
+          "id": "doesburg-eesteren-contra-1923-moma-149-1947",
+          "title_ja": "コントラ・コンストラクション（軸測図）",
+          "title_original": "Contra-Construction Project (Axonometric)",
+          "date_label": "1923年",
+          "work_type": "空間を考える図",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/232?art_term_slug=de-stijl&sov_referrer=art_term",
+          "creator_role": "共同制作",
+          "accession": "149.1947",
+          "medium": "リトグラフにグアッシュ",
+          "note": "共同で考えた住宅の設計をもとに、平らな面どうしの関係を探った作品です。特定の建物を建てるための設計図ではありません。",
+          "credits": [
+            {
+              "artist_id": "theo-van-doesburg",
+              "role": "共同制作"
+            },
+            {
+              "artist_id": "cornelis-van-eesteren",
+              "role": "共同制作"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-eesteren-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "コルネリス・ファン・エーステレン：作家情報",
+          "url": "https://www.moma.org/artists/8112-cornelis-van-eesteren",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-contra1491947",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "コントラ・コンストラクション（軸測図、149.1947）",
+          "url": "https://www.moma.org/collection/works/232?art_term_slug=de-stijl&sov_referrer=art_term",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "de-stijl",
+          "role": "ファン・ドゥースブルフと協働した建築家",
+          "description": "共同名義の空間研究を通じ、画家一人の仕事ではないことを示します。"
+        }
+      ]
+    },
+    {
+      "id": "vilmos-huszar",
+      "entity_type": "person",
+      "name_ja": "ヴィルモス・フサール",
+      "name_kana": "ヴィルモス・フサール",
+      "name_original": "Vilmos Huszár",
+      "birth_year": 1884,
+      "death_year": 1960,
+      "short_bio": "ハンガリーに生まれ、オランダで活動した画家・デザイナー。絵画だけでなく、刊行物やポスターなどのグラフィックにも取り組みました。ここでは1917年の《デ・ステイル》を取り上げます。",
+      "representative_works": [
+        {
+          "id": "huszar-de-stijl-1917-moma-672-1999",
+          "title_ja": "デ・ステイル",
+          "title_original": "De Stijl",
+          "date_label": "1917年",
+          "work_type": "出版・グラフィック",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/7893",
+          "creator_role": "グラフィックデザイン",
+          "accession": "672.1999",
+          "medium": "オフセット・リトグラフ",
+          "note": "公開記録には号・巻・頁の指定がないため、創刊号や冊子全体とは断定しません。チヒョルトの旧蔵品ですが、作者はフサールです。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-huszar-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ヴィルモス・フサール：作家情報",
+          "url": "https://www.moma.org/artists/2781-vilmos-huszar",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-huszar6721999",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "デ・ステイル（672.1999）",
+          "url": "https://www.moma.org/collection/works/7893",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "de-stijl",
+          "role": "刊行物のデザインに関わった画家・デザイナー",
+          "description": "運動の考えを伝えた印刷物の仕事を、所蔵品の記録に沿って見ます。"
+        }
+      ]
+    },
+    {
+      "id": "truus-schroder-schrader",
+      "entity_type": "person",
+      "name_ja": "トゥルース・シュレーダー＝シュラーダー",
+      "name_kana": "トゥルース・シュレーダー＝シュラーダー",
+      "name_original": "Truus Schröder-Schräder",
+      "birth_year": 1889,
+      "death_year": 1985,
+      "short_bio": "リートフェルト・シュレーダー邸の施主で、設計にも深く関わった人物。自分と子どもたちがどのように暮らしたいかを伝え、リートフェルトと住宅や室内を考えました。建築を依頼する人も空間づくりに参加した例です。",
+      "representative_works": [
+        {
+          "id": "rietveld-schroder-1924",
+          "title_ja": "リートフェルト・シュレーダー邸",
+          "title_original": "Rietveld Schröder House",
+          "date_label": "1924年",
+          "work_type": "住宅建築",
+          "institution": "リートフェルト・シュレーダー邸美術館",
+          "source_url": "https://whc.unesco.org/en/list/965/",
+          "creator_role": "施主・設計への協働",
+          "note": "シュレーダーが施主として希望を伝え、設計にも協働した住宅です。建築の制作年と、現在の外観を写した写真の撮影年は異なります。",
+          "credits": [
+            {
+              "artist_id": "gerrit-rietveld",
+              "role": "設計"
+            },
+            {
+              "artist_id": "truus-schroder-schrader",
+              "role": "施主・設計への協働"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "centraal-truus-life",
+          "institution": "ユトレヒト中央美術館",
+          "title": "トゥルース・シュレーダー＝シュラーダー：作家情報",
+          "url": "https://www.centraalmuseum.nl/en/maker/truus-schroeder-schraeder",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "schroderhouse-truus",
+          "institution": "リートフェルト・シュレーダー邸美術館",
+          "title": "トゥルース・シュレーダーの物語",
+          "url": "https://www.rietveldschroderhuis.nl/en/explore/truus-schroder-schrader",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "schroderhouse-history",
+          "institution": "リートフェルト・シュレーダー邸美術館",
+          "title": "邸宅の成り立ちと暮らし",
+          "url": "https://www.rietveldschroderhuis.nl/en",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "unesco-rietveld965",
+          "institution": "ユネスコ世界遺産センター",
+          "title": "リートフェルト・シュレーダー邸",
+          "url": "https://whc.unesco.org/en/list/965/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "de-stijl",
+          "role": "施主・設計の協働者",
+          "description": "住宅の協働者として紹介し、施主というだけで設計への参加を見落とさないようにします。"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -5689,6 +6493,222 @@
           "chapter_id": "wiener-werkstaette",
           "role": "設計者と職人の仕事を結んだ製作組織",
           "description": "作品ごとに設計者、製作の場所、外部の製造者を区別します。工房名だけで、すべてを同じ人や材料の仕事にはまとめられません。"
+        }
+      ]
+    },
+    {
+      "id": "izo-nkp",
+      "entity_type": "organization",
+      "name_ja": "イゾ・エヌケーペー（Izo NKP）",
+      "name_kana": "イゾ・エヌケーペー（Izo NKP）",
+      "name_original": "Izo NKP, Petersburg",
+      "date_label": "1920年の出版記録あり（設立・終了年は未詳）",
+      "short_bio": "ピーターズバーグで《第三インターナショナル記念塔》を出版した組織として、所蔵館に記録されています。塔の構想、プーニンの文章、出版の役割はそれぞれ異なります。",
+      "representative_works": [
+        {
+          "id": "tatlin-punin-monument-book-1920-moma-215-2001",
+          "title_ja": "第三インターナショナル記念塔（1920年の刊行物）",
+          "title_original": "Pamiatnik III Internatsionala (Monument to the Third International)",
+          "date_label": "1920年",
+          "work_type": "構想を紹介する書物",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/13818",
+          "creator_role": "出版",
+          "accession": "215.2001.1-2",
+          "note": "記念塔の構想を紹介する本で、塔の実物や後年の再構成模型ではありません。書物の著者はプーニンです。",
+          "credits": [
+            {
+              "artist_id": "vladimir-tatlin",
+              "role": "記念塔の構想"
+            },
+            {
+              "artist_id": "nikolai-punin",
+              "role": "書物の著者"
+            },
+            {
+              "artist_id": "izo-nkp",
+              "role": "出版"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-tatlin-monument-book",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "第三インターナショナル記念塔：1920年の刊行物",
+          "url": "https://www.moma.org/collection/works/13818",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "記念塔の刊行物を出版した組織",
+          "description": "構想や文章、デザインを担った個人とは別に、出版・印刷の役割を紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "pressa-soviet-pavilion-committee",
+      "entity_type": "organization",
+      "name_ja": "プレスサ・ソ連館委員会",
+      "name_kana": "プレスサ・ソ連館委員会",
+      "name_original": "Komitee des Sowjet-Pavillons",
+      "date_label": "1928年の出版記録あり（設立・終了年は未詳）",
+      "short_bio": "ケルンの国際新聞博覧会プレスサで、ソ連館図録の出版を担った委員会。リシツキーのデザインを含む図録の出版者として記録されています。",
+      "representative_works": [
+        {
+          "id": "pressa-catalogue-1928",
+          "title_ja": "国際新聞博覧会「プレスサ」ソ連館の図録",
+          "title_original": "Katalog des Sowjet-Pavillons auf der Internationalen Presse-Ausstellung Köln 1928",
+          "date_label": "デザイン：1927〜1928年／刊行：1928年",
+          "work_type": "図録・ブックデザイン",
+          "institution": "ハンブルク美術工芸博物館",
+          "source_url": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+          "creator_role": "出版",
+          "accession": "BZV1999.63",
+          "note": "この所蔵本には折り込みの写真モンタージュがありません。表紙と扉は、同じ1冊の異なる部分です。",
+          "credits": [
+            {
+              "artist_id": "el-lissitzky",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "pressa-soviet-pavilion-committee",
+              "role": "出版"
+            },
+            {
+              "artist_id": "m-dumont-schauberg",
+              "role": "印刷"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "mkg-pressa-bzv199963",
+          "institution": "ハンブルク美術工芸博物館",
+          "title": "プレスサ・ソ連館図録（BZV1999.63）",
+          "url": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "ソ連館図録の出版者",
+          "description": "構想や文章、デザインを担った個人とは別に、出版・印刷の役割を紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "m-dumont-schauberg",
+      "entity_type": "organization",
+      "name_ja": "M・デュモン・シャウベルク",
+      "name_kana": "M・デュモン・シャウベルク",
+      "name_original": "M. DuMont Schauberg",
+      "date_label": "1928年の印刷記録あり（創業・終了年は未詳）",
+      "short_bio": "ケルンでプレスサ・ソ連館図録を印刷した組織。図録のデザインや出版を担った人・委員会とは別に、紙に刷る役割を担いました。",
+      "representative_works": [
+        {
+          "id": "pressa-catalogue-1928",
+          "title_ja": "国際新聞博覧会「プレスサ」ソ連館の図録",
+          "title_original": "Katalog des Sowjet-Pavillons auf der Internationalen Presse-Ausstellung Köln 1928",
+          "date_label": "デザイン：1927〜1928年／刊行：1928年",
+          "work_type": "図録・ブックデザイン",
+          "institution": "ハンブルク美術工芸博物館",
+          "source_url": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+          "creator_role": "印刷",
+          "accession": "BZV1999.63",
+          "note": "この所蔵本には折り込みの写真モンタージュがありません。表紙と扉は、同じ1冊の異なる部分です。",
+          "credits": [
+            {
+              "artist_id": "el-lissitzky",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "pressa-soviet-pavilion-committee",
+              "role": "出版"
+            },
+            {
+              "artist_id": "m-dumont-schauberg",
+              "role": "印刷"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "mkg-pressa-bzv199963",
+          "institution": "ハンブルク美術工芸博物館",
+          "title": "プレスサ・ソ連館図録（BZV1999.63）",
+          "url": "https://www.mkg-hamburg.de/sammlung/objekt/katalog-des-sowjet-pavillons-auf-internationalen-presse-ausstellung-koln-1928",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "図録の印刷所",
+          "description": "構想や文章、デザインを担った個人とは別に、出版・印刷の役割を紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "rsfsr-state-publishing-house",
+      "entity_type": "organization",
+      "name_ja": "ロシア社会主義連邦ソビエト共和国国立出版所",
+      "name_kana": "ロシア社会主義連邦ソビエト共和国国立出版所",
+      "name_original": "R.S.F.S.R. State Publishing House",
+      "date_label": "1923年の印刷記録あり（設立・終了年は未詳）",
+      "short_bio": "RISD美術館は、1923年の詩集《声のために》の印刷を担った組織として記録しています。詩の作者、デザインの担当、印刷の担当を分けて紹介します。",
+      "representative_works": [
+        {
+          "id": "lissitzky-for-voice-1923",
+          "title_ja": "声のために",
+          "title_original": "Dlia golosa (For the Voice)",
+          "date_label": "1923年",
+          "work_type": "詩集・ブックデザイン",
+          "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+          "source_url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+          "creator_role": "印刷（所蔵館の記録）",
+          "accession": "2006.92.1",
+          "note": "RISD美術館所蔵の詩集です。詩の作者とデザインの担当は異なります。表紙と見開きは同じ本の部分であり、他館の同じ書名の所蔵本とは別の個体です。",
+          "credits": [
+            {
+              "artist_id": "el-lissitzky",
+              "role": "デザイン"
+            },
+            {
+              "artist_id": "vladimir-mayakovsky",
+              "role": "詩"
+            },
+            {
+              "artist_id": "rsfsr-state-publishing-house",
+              "role": "印刷（所蔵館の記録）"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "risd-for-voice2006921",
+          "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+          "title": "声のために（2006.92.1）",
+          "url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "russian-constructivism",
+          "role": "詩集の印刷担当（所蔵館の記録）",
+          "description": "構想や文章、デザインを担った個人とは別に、出版・印刷の役割を紹介します。"
         }
       ]
     }
