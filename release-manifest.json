@@ -1,8 +1,8 @@
 {
-  "release": "public-content-rinpa-20261102-1901",
+  "release": "public-content-new-typography-20261102-1907",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T19:01:00+09:00",
+  "frozen_at": "2026-11-02T19:07:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1383,8 +1383,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1854093,
-      "sha256": "7676d6a9bfb7736c21c14332ae757185947b0446cb1e7ededaf492a577791441"
+      "bytes": 1859753,
+      "sha256": "594ce9858fefaf2f16a2bcc378216bbd5759ef9687306932546a5f6f68445852"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1633,8 +1633,8 @@
     },
     {
       "path": "entries/new-typography.html",
-      "bytes": 44167,
-      "sha256": "06b5b289b772ddd7aebcfb06c5b5408d16bc42bf7f37a3cb86cdc94a35743315"
+      "bytes": 49113,
+      "sha256": "b112e642f154f123a08c821fbfbfe0defd1074bd91a91df511f897e17b72535e"
     },
     {
       "path": "entries/new-wave-typography.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "e4ef752058a23dd6d1b6e528a0eeedc9b5dc9397b1d2ea351e15435fe91d98c7"
+      "sha256": "f9b4878ab6c78f0d3f30774a558a9aa4e28e317166b6f7f9cf85194cd4037213"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1893,8 +1893,8 @@
     },
     {
       "path": "reference-image-rights.json",
-      "bytes": 19900,
-      "sha256": "237c52cb62185baeea44722f84e5bb5c1e2419e9ca1d5f58ec2476e3f9ec172d"
+      "bytes": 23939,
+      "sha256": "760090eb6fb391f2f71fe2148b9ac1f35b3629b5cf6606ce8b41f591dc62c742"
     },
     {
       "path": "robots.txt",
@@ -1908,8 +1908,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 20443,
-      "sha256": "bd7af4999b35cc607aa9ab1286bae8dd4586eb04f3de2ce6a4ffddc1d745485d"
+      "bytes": 20486,
+      "sha256": "19ed306912e326cc2d7610b6c517d09c3f8587a438ca13ddabc0805af1f30692"
     },
     {
       "path": "share-copy.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "76cc2458e7df337fcda50ccae980dac90f6672dac0990fed7c1400069ba2450d"
+      "sha256": "80b54e0c5b9543d42ef85effab5ac5c63a0759dd452e39e66aab8acfa7e1eab1"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "a6ff439e1ea850cb806d5dc6e0725eaababa4909de418a4902f071bdc953b4dc"
+      "sha256": "1b9a17eb7b87d6242bd9315a705aa9b50737eb72835392958f1134e92169355c"
     },
     {
       "path": "study-images.js",
@@ -1978,8 +1978,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 23551,
-      "sha256": "cd3be11a5db05ae013bb6c67c17280e3518ce49c417e6ca0cfb58a6868fba158"
+      "bytes": 24277,
+      "sha256": "e2599b8564c1732dffd0c8d00dd3e317aa5c4b4ff2e67131ffd7be6517cfb3c8"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",

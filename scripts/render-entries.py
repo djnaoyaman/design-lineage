@@ -119,7 +119,7 @@ def render(entry,template,stamp,navigation_html="",artist_registry=None):
  if entry.get('deep_dive') and actual:
   body+='<details class="article-image-index"><summary>掲載画像から選ぶ（'+str(len(actual))+'点）</summary><ul>'+''.join('<li><a href="#'+E(im.get('presentation',{}).get('anchor') or im['id'])+'">'+E(im['title'])+'</a></li>' for im in actual)+'</ul></details>'
  body+='<div id="actual-works">'+''.join(image_html(i).replace('loading="lazy"','loading="eager"',1) if n==0 else image_html(i) for n,i in enumerate(actual))+''.join(image_html(i,True) for i in refs)+'</div>'
- if not actual:body+='<p class="note">実作品の画像は、まだ掲載していません。下の出典リンクから作品を確かめられます。参照図や説明図は、実作品の画像とは別に数えます。</p>'
+ if not actual:body+='<p class="note">'+E(entry.get('image_status_note') or '実作品の画像は、まだ掲載していません。下の出典リンクから作品を確かめられます。参照図や説明図は、実作品の画像とは別に数えます。')+'</p>'
  body+='<section id="representative-works"><h2 class="study-section-title">'+E(entry.get('example_section_label') or '作品・制作の例を見比べる。')+'</h2>'+pp(entry.get('canonical_status_note',''))
  body+=''.join(representative(w,i) for i,w in enumerate(entry.get('representatives',[]),1))+'</section>'
  if entry.get('deep_dive'):
