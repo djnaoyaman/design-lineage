@@ -1,8 +1,8 @@
 {
-  "release": "public-content-international-style-20261102-1724",
+  "release": "public-content-international-style-20261102-1728",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T17:24:00+09:00",
+  "frozen_at": "2026-11-02T17:28:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1494,7 +1494,7 @@
     {
       "path": "entries/international-style.html",
       "bytes": 46593,
-      "sha256": "0f43ac9d7cfaf36519ccf85e4c07f233848526a9cbfbcba0b8ae410c75a55aa8"
+      "sha256": "131a0bc6dea7ef3038e6abed28ff64f2cddeba4c91cfdb36f98a31d29d76da4e"
     },
     {
       "path": "entries/isotype.html",
@@ -1819,7 +1819,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "722bca5047f31b8fdc111bfed61b281171fa8ad1b80b24ab8cbb2a87615cfa82"
+      "sha256": "77cce56e83b8438b6c629ffebc0e542d8501271811fe62623513d56fd6e6cd04"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1884,7 +1884,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "b1678664a81e7d7694b8f8f37dccea9e704cb63105154cdbcd6a1c5f207ff1ac"
+      "sha256": "f2e6415bad149cfb5cb8973cb62c73cc5522d2b9829c43e2830c0bbb46c4b1f0"
     },
     {
       "path": "site.webmanifest",
@@ -1894,7 +1894,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "757a87723a600415111b56c5eff76356bccdcdec9e438f4aaf49cb82363efdc2"
+      "sha256": "7c99dce03ba357528f5ebfa75a74e003da41144274cdba76270a72d08a03536e"
     },
     {
       "path": "study-images.js",
@@ -1938,8 +1938,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 22114,
-      "sha256": "3107443c02335c7f6840818015b7b9be5a1508b44062d6912cc2a4187e016596"
+      "bytes": 22497,
+      "sha256": "d71d285de21828999a2fb76c17b47e1426602b39235689bdbc3a8683eb098fa3"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",

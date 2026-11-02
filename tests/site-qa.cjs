@@ -87,7 +87,7 @@ for(const width of [320,390,1280]){
    await page.locator('.article-index a[href="#deeper-story"]').click();
    await page.waitForFunction(()=>{const y=document.querySelector('#deeper-story').getBoundingClientRect().top;return y>=-2&&y<100},null,{timeout:5000});
    await page.screenshot({path:`qa-artifacts/deep-${slug}-story-${width}.png`});
-   if(entry.adopted_images.length){await page.locator('.article-image-index summary').click();assert.equal(await page.locator('.article-image-index a').count(),entry.adopted_images.length);await page.locator('.article-image-index a').first().click();}
+   if(entry.adopted_images.length){await page.locator('.article-image-index').evaluate(e=>e.open=false);await page.locator('.article-image-index summary').click();assert(await page.locator('.article-image-index').evaluate(e=>e.open),'Image index opens from closed state');assert.equal(await page.locator('.article-image-index a').count(),entry.adopted_images.length);await page.locator('.article-image-index a').first().click();}
    else {assert.equal(await page.locator('.article-image-index').count(),0);assert.equal(await page.locator('.article-index a[href="#actual-works"]').textContent(),'作品画像の掲載状況');}
    await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)), 'Expanded chapter does not overflow');
@@ -118,6 +118,7 @@ for(const width of [320,390,1280]){
      await page.locator('.study-title h1').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/deep-${slug}-overflow-title-${width}-${zoom}x.png`});
     }
     assert(zoomState.scroll<=zoomState.inner+1,'Expanded chapter 200% layout zoom fits');
+    await page.locator('.study-title h1').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/deep-${slug}-visible-heading-${width}-${zoom}x.png`});
     if(entry.artist_ids){
      await page.locator('#article-artists details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
      assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Expanded artist biographies fit at layout zoom');
