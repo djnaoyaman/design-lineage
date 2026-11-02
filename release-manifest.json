@@ -1,8 +1,8 @@
 {
-  "release": "public-content-surrealism-20261102-1933",
+  "release": "public-content-surrealism-20261102-1942",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T19:33:00+09:00",
+  "frozen_at": "2026-11-02T19:42:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1388,8 +1388,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1865467,
-      "sha256": "80c5f0b96c1a5638b4269b06f63add18dfce109fd0a72b1e90aa499d05ec5edb"
+      "bytes": 1865560,
+      "sha256": "baf9aff71d193fe85c8ac5c7f4ab9e249baec2c436016cbc02e259434d24e2b0"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1768,8 +1768,8 @@
     },
     {
       "path": "entries/surrealism.html",
-      "bytes": 48220,
-      "sha256": "7267e70e9ef84ff7bfc193277148117977eee6a1c4ef514354828eb48dd72f34"
+      "bytes": 48320,
+      "sha256": "dbe215ea2c627cad58c8b2cb4b383d619de9d65e464d7fcb7a34f67e3d3723cc"
     },
     {
       "path": "entries/swiss-style.html",
@@ -1864,7 +1864,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "16220a9cb47bed981b6330941717c56d6c9f9429e2a78915489c17a2269c20bb"
+      "sha256": "429618806f40abd1e15d7b7df0b7438ce4436156d8e2cf912ddc2858a3fd58c6"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1898,8 +1898,8 @@
     },
     {
       "path": "reference-image-rights.json",
-      "bytes": 27645,
-      "sha256": "bca8cc91ed1ba9c9eb300a270d38cfbcf4a03bad8498d3e62ee2accbbba1fc52"
+      "bytes": 27738,
+      "sha256": "37ebe361aa336e8354ff19a9f95cc6d0135595c2d3564bfdab38fa9708957763"
     },
     {
       "path": "robots.txt",
@@ -1929,7 +1929,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "106aa43bdb47ee37807e7710da42881950cae0f8ea885c94a669aa084709043a"
+      "sha256": "2c2fdaac77123afbb2417e98a573b6bceb0193f3877b50ee0fcac793ddaac198"
     },
     {
       "path": "site.webmanifest",
@@ -1939,7 +1939,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "3162d31845a178966b2cd4a46ff0ca896f320fc8c6bffd717a924a5f06bd6f84"
+      "sha256": "d638caf2118c7d7f8e14cb42419e8df5332b02804e21b64f3653dfa9e1c251af"
     },
     {
       "path": "study-images.js",
