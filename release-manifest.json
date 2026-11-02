@@ -1,14 +1,14 @@
 {
-  "release": "public-catalog-global16-20261102",
+  "release": "public-catalog-methods20-20261102",
   "private_source_version": 83,
   "source_commit_before_public_adaptation": "1933a0f9bbeae718c37c2b8cfa214ce2cd2eb5d3",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
   "pages_branch": "main",
   "pages_path": "/",
-  "articles": 68,
+  "articles": 88,
   "planned_entries": 88,
-  "historical_representative_images": 54,
+  "historical_representative_images": 55,
   "reference_related_images": 4,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
@@ -46,13 +46,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3670,
-      "sha256": "d56f7b68abc9768da5110864eaaf752c3b1e17426f8c967c8551529900db0e68"
+      "bytes": 3794,
+      "sha256": "7256c2ef9b15cb1fa60775dd5a1c95558b8c41252f8466e2ffdbbdeeeec1a84f"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 266203,
-      "sha256": "87b205ac593c2f5eebca6ec947389180619db65b1fceccb49c522ed0fc6f4c99"
+      "bytes": 273216,
+      "sha256": "f9a2238d456c29d7e81c238ed5b261dfa256b51b3cc4340d1d0aaded005db146"
     },
     {
       "path": "analytics-status.json",
@@ -61,8 +61,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 6774,
-      "sha256": "6ddcd8129c2d59d326e8e5a1c769aff8a5847967f2fbee8c6574fff3d21a5f28"
+      "bytes": 6861,
+      "sha256": "b8de36500034c67664175ab6db9a4bf955a01dab619471e52e0a8a4ccf723668"
     },
     {
       "path": "art-nouveau.css",
@@ -1035,19 +1035,29 @@
       "sha256": "64177ed327113b781c215a6dd7af9e579d557728a5574a92a5295d5997b1b184"
     },
     {
+      "path": "assets/wareya-ufeff-tiles-v2.png",
+      "bytes": 38880,
+      "sha256": "2bf4bde7d57bcda8607c0f5c2e02979d7d9d9e5eec4ccc73e8126b3e1cd934b6"
+    },
+    {
       "path": "bauhaus-explainer-provenance.json",
       "bytes": 2064,
       "sha256": "4deb846066703eb255ae1ad59ef3f0dcc7645fdfaeb720dae139cbe6f3f08671"
     },
     {
       "path": "catalog.json",
-      "bytes": 34222,
-      "sha256": "fa184900879abd41ae73887ce83e44eb2d24038c1265f03f97557b08b71f9dcc"
+      "bytes": 35801,
+      "sha256": "f895a7b866e91c7436d0be8403aee5ec4105d8a78faf4d82ca1fa555f90b2162"
+    },
+    {
+      "path": "chapter-titles.css",
+      "bytes": 321,
+      "sha256": "0914cc73480c5b33cf6c3f342ef8bf025232d9f30e9e1e15e0118d5573ec6ec2"
     },
     {
       "path": "compare.html",
       "bytes": 6460,
-      "sha256": "51f8f63ed001edb4f3129875800e09c794687e7f89f731cc1bd613f9a169fe69"
+      "sha256": "d4d3e16bc5a2778ce232f767fc05ee50d75ffdd800222483e7265362bdcd2f6f"
     },
     {
       "path": "compare.js",
@@ -1058,6 +1068,11 @@
       "path": "compiler.html",
       "bytes": 6288,
       "sha256": "66ec20cec44cb9bf85e758501d327cde4fb776bb97bcedbdbd261a857afac9f9"
+    },
+    {
+      "path": "entries/3d-clay-illustration.html",
+      "bytes": 12036,
+      "sha256": "cb6fb534b4f9b1f9fe62a537db42fad696138911c1f9e59eaadb276c65eff31c"
     },
     {
       "path": "entries/africobra.html",
@@ -1090,6 +1105,11 @@
       "sha256": "f764db16eeb21f9a665cc088e27aaece153beafdbbf20031ba76d51c1aa8d16b"
     },
     {
+      "path": "entries/bento-layouts.html",
+      "bytes": 11934,
+      "sha256": "c407c8fea9a50a7386e495d3eb27e3ffb6cd1d34b5ee6c97642ecf0aced38c7e"
+    },
+    {
       "path": "entries/black-mountain-college.html",
       "bytes": 12112,
       "sha256": "4c17d85f5a5dcb7af6e79d60f7dd78ac0ec13df9f65f18f821f44c9f6a2a5614"
@@ -1108,6 +1128,11 @@
       "path": "entries/china-new-woodcut.html",
       "bytes": 21486,
       "sha256": "866016b948a2a6aee884eb896e1514077c46274f065d67c0c67c75380ef219cf"
+    },
+    {
+      "path": "entries/collage.html",
+      "bytes": 11438,
+      "sha256": "ca1a7bec1660c72f9e51e8048409dee8291de0398e067db01ce8c3ea9f2f442f"
     },
     {
       "path": "entries/critical-regionalism.html",
@@ -1150,6 +1175,16 @@
       "sha256": "a2dd7f3e2367fa4418738199f2d14ba8f47927ce90cbc61d848d7fb890279536"
     },
     {
+      "path": "entries/generative-design.html",
+      "bytes": 11569,
+      "sha256": "fcdc147a869495ea3158cde776e6428134ead5511c4b4662fde28296389886b6"
+    },
+    {
+      "path": "entries/glassmorphism.html",
+      "bytes": 11365,
+      "sha256": "b2e5a1778da3043453d7e58c9b81d96c5840705449edb0ce50352b4aeef34cb7"
+    },
+    {
       "path": "entries/grid-systems.html",
       "bytes": 24171,
       "sha256": "a1d38bef9f67f20f97279d1257193111400566a86e8b0d9928e5da4b39f2287b"
@@ -1175,6 +1210,11 @@
       "sha256": "c1a907d95bfb29ec866735e8a8af9f66e4bc632a0e363097d93ca36f5d302887"
     },
     {
+      "path": "entries/information-visualization.html",
+      "bytes": 10746,
+      "sha256": "04cae7382b713c26a5e6f239e6f1b0718eece8592bdd0c6fa3faa3b01df69f5f"
+    },
+    {
       "path": "entries/international-style.html",
       "bytes": 23334,
       "sha256": "428c17af241b3c43b26cc637da46152006543e90310caa3a0409125652c4bf36"
@@ -1195,6 +1235,11 @@
       "sha256": "52e00fa3ffed84c649f5da2e3e6a8df38a21b16b0facd5f9f8ba5d404e8ed6a2"
     },
     {
+      "path": "entries/kinetic-typography.html",
+      "bytes": 11386,
+      "sha256": "d518a681341acb6ac0f2a67d1f0c3c3a967f610eeb456ce0f1676aa3b6ed635f"
+    },
+    {
       "path": "entries/kuwasawa-design-school.html",
       "bytes": 11772,
       "sha256": "05fbf7f4a67a6313f43cafaee4cfd4314562999c6f204b0d1631abbbe1c4a122"
@@ -1203,6 +1248,11 @@
       "path": "entries/material-design.html",
       "bytes": 21426,
       "sha256": "cdea54ff8ddbb65754373ab1d5f2eaa40b8655ba36670c9a11c9bec1465de3df"
+    },
+    {
+      "path": "entries/maximalist-web.html",
+      "bytes": 11887,
+      "sha256": "21395a9dbf734ef3db4088174101977112df50946c5bb24f83f222d4ef8a513f"
     },
     {
       "path": "entries/memphis.html",
@@ -1240,9 +1290,19 @@
       "sha256": "8c378e190795d73a428c9cead999523a5c7464edc8135ade2f22618747089b2e"
     },
     {
+      "path": "entries/neo-brutalism.html",
+      "bytes": 11495,
+      "sha256": "5efed5939a5b24b32ab998af684c337e757a9b25526f5b28cce0d764bc819493"
+    },
+    {
       "path": "entries/neoclassicism.html",
       "bytes": 24108,
       "sha256": "9b2eb9a16fbbbb33ad8fec6fc8e8e54852cb51e91eae2cec1b453bc2050d6519"
+    },
+    {
+      "path": "entries/neumorphism.html",
+      "bytes": 11498,
+      "sha256": "64ec3dbcf5eac0b8f8a4b0fa6d68be4712e18de200eb6963713dd4b78dbe17cb"
     },
     {
       "path": "entries/new-bauhaus-chicago.html",
@@ -1268,6 +1328,21 @@
       "path": "entries/nsukka-school.html",
       "bytes": 21437,
       "sha256": "49f2c1aa84fc415119e48097136eeb87cd72b2fa14e11f8a26b9b6d10cd6115f"
+    },
+    {
+      "path": "entries/parametric-design.html",
+      "bytes": 11783,
+      "sha256": "cf692679586834229882ac65c617e6c8223e49073d72496238c5b07a818a63be"
+    },
+    {
+      "path": "entries/photomontage.html",
+      "bytes": 11496,
+      "sha256": "805e7c539fdcb13f7f3f880b4daf3f70510294af94ecea6113959977755d8025"
+    },
+    {
+      "path": "entries/pixel-art.html",
+      "bytes": 14936,
+      "sha256": "df024605f01bc8c65bbf81b65ab00c5235d41fe3b66293a1b592d28d839b2e99"
     },
     {
       "path": "entries/polish-poster-school.html",
@@ -1300,6 +1375,11 @@
       "sha256": "ada778383479182a4303884f9f05799bb76770b9e55d860cbd849f724b0a606b"
     },
     {
+      "path": "entries/risograph.html",
+      "bytes": 15258,
+      "sha256": "0403125cba39a7693a9b2477c1b4d9d48e8938e43a40ffd20127e31b2aab4ac1"
+    },
+    {
       "path": "entries/rococo.html",
       "bytes": 22002,
       "sha256": "7e1390deeed128d1e9709253d7079dd1ae6eedbffc09ae4f0d7507f4ce33e287"
@@ -1328,6 +1408,16 @@
       "path": "entries/shinko-shashin.html",
       "bytes": 15539,
       "sha256": "ab1efad2b2c9f9b27ad0ae8959059fd92d4be6da65be461643951f312e331d0e"
+    },
+    {
+      "path": "entries/silkscreen.html",
+      "bytes": 11185,
+      "sha256": "93cb4b0b97c38039933fce142d4512f9e697d87800812969d14047801db7daaf"
+    },
+    {
+      "path": "entries/skeuomorphism.html",
+      "bytes": 10430,
+      "sha256": "8af1259764d0fdf2aacca9f6c39cf9380091f580017efa4c41739d1aaf70bdf9"
     },
     {
       "path": "entries/sosaku-hanga.html",
@@ -1375,9 +1465,19 @@
       "sha256": "55b32acd3451dd7e3ee9e108495af9fad0d3146445d9dfdebd2e29c7140a323a"
     },
     {
+      "path": "entries/typography-typesetting.html",
+      "bytes": 15686,
+      "sha256": "592dfde0501f8f6585384145530fa762383b91042ac57a4cf676bec84b88d7fb"
+    },
+    {
       "path": "entries/ukiyoe.html",
       "bytes": 36199,
       "sha256": "ac65a7f2f1055770a1b095edea958be9ef4aff92b5ba8eb64875c953857e874b"
+    },
+    {
+      "path": "entries/variable-font-expression.html",
+      "bytes": 12347,
+      "sha256": "a4ed918010fdc7497d670ad4d20493fb739b9ca601f96b2869e438c55762df59"
     },
     {
       "path": "entries/vienna-secession.html",
@@ -1395,14 +1495,24 @@
       "sha256": "73e80da86c803d3a082451421ef78efb26f646ce013ca5d04d55bc7a0cd2565b"
     },
     {
+      "path": "entries/web-brutalism.html",
+      "bytes": 10639,
+      "sha256": "51b6349316597762ddfd807cbcf7322cd8f90f2ea14516ee14a0d2e56a9e764d"
+    },
+    {
       "path": "entries/wiener-werkstaette.html",
       "bytes": 22382,
       "sha256": "2fdf24b90f47e0a421329704a0cf448d3d6e0cb6db3af6c5d55610b2bab294c3"
     },
     {
+      "path": "entries/y2k-revival.html",
+      "bytes": 11444,
+      "sha256": "512baa2d0f8f4089f4a8269a4075f20ce8a0214729aa63f3968031a71b56d956"
+    },
+    {
       "path": "entries.json",
-      "bytes": 1419489,
-      "sha256": "771a044b65294c6857d214d7fb26d17ae64b67c1b186fec880cb86edd74b5d13"
+      "bytes": 1621592,
+      "sha256": "2e5ffa20289927bed7e0389d617b6275be50daef18c5033b7e418b6c9da68843"
     },
     {
       "path": "external-preview-rights.json",
@@ -1431,8 +1541,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 23953,
-      "sha256": "bde8bd8b6e999990cae5a773b99dcb19a20436578060e385aae608a311e7b31f"
+      "bytes": 23944,
+      "sha256": "7faeae6ed8d14bfa34d29ec051b96efacaa5279ae2ce419b1e2bb4d8b7453db9"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1441,8 +1551,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 19586,
-      "sha256": "5b4a1ab504b7c7ba65d11201a55c7ea2260bb5120d3d7ae659a83bfa0993d15f"
+      "bytes": 25029,
+      "sha256": "9751a81c018fa933717b8e544cabda557c1524a0a414d069bb3a560a3a7a8743"
     },
     {
       "path": "logo-provenance.json",
@@ -1476,8 +1586,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 15675,
-      "sha256": "6d8e945972e6c98c58ef9c36fc531d3a912faacf73cc84388cae87a9ec82bac0"
+      "bytes": 16281,
+      "sha256": "7fb975bcbc467f4ca71c8a1273b21262490217aeb16f5706d268bfcfb8175ebd"
     },
     {
       "path": "share-copy.json",
@@ -1491,8 +1601,8 @@
     },
     {
       "path": "site-update.json",
-      "bytes": 4854,
-      "sha256": "ac01289b6e150bff3348d6f7b28ef79ef7baf68d498a515fa420b7799b353711"
+      "bytes": 6145,
+      "sha256": "dd37274b1b8f515e4740788e2b66e2d8372fbd4b9b9baaf91c58718269910bc0"
     },
     {
       "path": "site.webmanifest",
@@ -1501,8 +1611,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 9855,
-      "sha256": "cedf2da6ab81a38ad9883741c837511aedd21196bc81b0b952b3669dc0d46000"
+      "bytes": 12606,
+      "sha256": "e3ec998c773879a5d8da99a4c1f3e9f5e3cbd63188903e5cc96cb536ea1980f7"
     },
     {
       "path": "study-images.js",
@@ -1521,8 +1631,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 10389,
-      "sha256": "e0aa09b195b75ef530c76c5cbf24b8278446045e3530cc0e6e733ffef8ba6117"
+      "bytes": 12522,
+      "sha256": "002c777544de7baa6f6412362ac25308e1f32567f2f35a1254173f54f02ab67e"
     },
     {
       "path": "timeline.css",
@@ -1532,7 +1642,7 @@
     {
       "path": "timeline.html",
       "bytes": 8708,
-      "sha256": "418bfb461070c13879e9b6809b6a8a9310f54baed3df614e1c5f739063fcb606"
+      "sha256": "8c8fdcc9d61f7a943965577d950871f8d1c33fcbcf3f304769ea0f8713732449"
     },
     {
       "path": "timeline.js",
@@ -1547,10 +1657,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T08:55:00+09:00",
+  "frozen_at": "2026-11-02T09:12:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 271,
+  "rewritten_representative_cards": 330,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1641,8 +1751,8 @@
     "physical_device_test": false,
     "responsive_ci": "pending exact-commit verification"
   },
-  "representative_image_placements": 55,
-  "unique_representative_image_files": 54,
+  "representative_image_placements": 57,
+  "unique_representative_image_files": 55,
   "catalog_expansion": [
     {
       "batch": "history17",
@@ -1657,6 +1767,23 @@
       "new_examples": 51,
       "catalog_complete": false,
       "image_collection": "in progress; text publication is not image completion"
+    },
+    {
+      "batch": "methods20",
+      "new_articles": 20,
+      "new_examples": 59,
+      "catalog_complete": false,
+      "image_collection": "18 of 20 new chapters have no actual images; the two illustrated chapters are still incomplete",
+      "new_unique_images": 1,
+      "reused_image_placements": 1,
+      "actual_image_placements": 2
     }
-  ]
+  ],
+  "catalog_text_coverage": {
+    "published_articles": 88,
+    "catalog_entries": 88,
+    "image_collection_complete": false,
+    "note": "All listed entries have text and sources; examples include artworks, technical demonstrations and references. Image gaps remain."
+  },
+  "example_count_basis": "Chapter-level example records, including repeated works, production resources and reference materials; not a count of unique artworks."
 }

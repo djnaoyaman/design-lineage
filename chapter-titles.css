@@ -1,0 +1,3 @@
+/* Opt-in to semantic wrapping for newly added chapter titles only. */
+.study-title .segmented-title .title-part{display:inline-block;max-width:100%;white-space:normal;line-break:strict;word-break:normal;overflow-wrap:normal;text-wrap:balance}
+.study-title .segmented-title.compact-title{font-size:clamp(40px,7vw,100px)}
