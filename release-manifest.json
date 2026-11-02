@@ -1,8 +1,8 @@
 {
-  "release": "public-content-de-stijl-20261102-2035",
+  "release": "public-content-russian-constructivism-20261102-2038",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T20:35:00+09:00",
+  "frozen_at": "2026-11-02T20:38:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1398,8 +1398,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1867406,
-      "sha256": "cabf1366670849f9472c2aa5a9bb94fc40c17d569fad556df5985c6b14e86208"
+      "bytes": 1867439,
+      "sha256": "0e073542ac6e9b85fc33c36831fbc5d188ed7981aceb5eb24a94d83f65abadc4"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1723,8 +1723,8 @@
     },
     {
       "path": "entries/russian-constructivism.html",
-      "bytes": 65040,
-      "sha256": "29a60b9eff699e8a15faf482e583cf99ab73e25bb7cf250e428de6cf8b7c1bec"
+      "bytes": 65073,
+      "sha256": "4e1e98b66e38b4676db538f614533b0313388bb3c8e637021061f26748ebb658"
     },
     {
       "path": "entries/santiniketan.html",
@@ -1874,7 +1874,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "b695d45fbc8457c54fb7e2cacff641dd6600789e6054c13800db176d83f4837d"
+      "sha256": "0e0293a7eb6c5ae1efc33d78b35999f063018a858ecae4901ab89be1b9478f16"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1939,7 +1939,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "289f932eebb6e064f3bac4a101d221d5e4603f73ffffa571833b08561d8ebf3d"
+      "sha256": "49d0c17d4f285d33c4f13fb0be307098753f7b37ffafc4cdf6cd6c1f6075ba98"
     },
     {
       "path": "site.webmanifest",
@@ -1949,7 +1949,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "fda1ac8d14a580161fdfc8ba2897e55a925ccf11df3dcf55a32eb2673a4a2065"
+      "sha256": "b6417b57578c4c2130dd02a7a943c44a8569a1af2bf81326fb388a1d5c4bd096"
     },
     {
       "path": "study-images.js",
