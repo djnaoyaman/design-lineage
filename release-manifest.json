@@ -1,8 +1,8 @@
 {
-  "release": "public-content-ito-jakuchu-20261102-1653",
+  "release": "public-content-new-typography-20261102-1715",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T16:53:00+09:00",
+  "frozen_at": "2026-11-02T17:15:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -29,7 +29,7 @@
     {
       "path": "README.md",
       "bytes": 5098,
-      "sha256": "ce976e5238d7df231bc25e6b7ec0d7a9bde8c1930fcc194ce0dd53ba55ed316b"
+      "sha256": "87246b565301c87cbcf136da7fbd822a2e2587f2a98ba35a5d3f38352009818a"
     },
     {
       "path": "adopted-image-rights.json",
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 20602,
-      "sha256": "026d84fde614ac45acfe589161583fe16164d2ff0505646cd757d462b47ba5cf"
+      "bytes": 35289,
+      "sha256": "a29593a464d5f47da3029d727e710fb21703a800109568b2ee8262b13020841e"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1293,8 +1293,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 36950,
-      "sha256": "f9fb82b6f6ee720fb3128da74f245246d0d58126de324f58e847ee3dedc8eb97"
+      "bytes": 37006,
+      "sha256": "fdd81177c7401b1fa6fbbc0b097c4101ae6dd4f6cc1574d6921f3a652faf2b14"
     },
     {
       "path": "chapter-navigation.css",
@@ -1318,8 +1318,8 @@
     },
     {
       "path": "chapter-titles.css",
-      "bytes": 321,
-      "sha256": "0914cc73480c5b33cf6c3f342ef8bf025232d9f30e9e1e15e0118d5573ec6ec2"
+      "bytes": 529,
+      "sha256": "14c612b7e099ee6e36646a479eb80447c250b91a4112cefc18554b47a8b5f1b2"
     },
     {
       "path": "compare.html",
@@ -1343,8 +1343,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1777647,
-      "sha256": "037879018c75d55f6cbc820d689c16ce5b757e374a9c7bd8920470daf21373cf"
+      "bytes": 1776855,
+      "sha256": "0361d39044baffbfa1cb43e5bcda211fcf211a41f9f4a6b55df746924731dece"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1593,8 +1593,8 @@
     },
     {
       "path": "entries/new-typography.html",
-      "bytes": 28024,
-      "sha256": "6e13b542dd9f0e8898b4febfc5b72e0adc203aeca71d24142f9e3c5200279fe6"
+      "bytes": 44167,
+      "sha256": "06b5b289b772ddd7aebcfb06c5b5408d16bc42bf7f37a3cb86cdc94a35743315"
     },
     {
       "path": "entries/new-wave-typography.html",
@@ -1819,7 +1819,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "4e9ad2fe72e01697928f15359f333000d9159fd04e98d0555266e6b6aae45f8d"
+      "sha256": "ae53a052790f928176d00480ad6596d5cec41606cfd85cf752ab2c4aa57d8468"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1828,8 +1828,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25527,
-      "sha256": "95c9ff77845fb6a1decea45eb6debfe824fb3304f72fe2c994fe66c63791ea45"
+      "bytes": 25667,
+      "sha256": "d5ab37104f9bfea8862c0620393c5448a94c421edc18f8d5cbb3d2ba7c707cc2"
     },
     {
       "path": "logo-provenance.json",
@@ -1868,8 +1868,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 19562,
-      "sha256": "59607d34a554dc67c4c9bd7aa29bee5cc523057e7dd9eb078111201a3c1f752b"
+      "bytes": 19627,
+      "sha256": "f67e2331d164f713854f120f7fcff6ba9352f8c846799fbc7c690885717d5c4c"
     },
     {
       "path": "share-copy.json",
@@ -1884,7 +1884,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "95aeca8e7460dfacdcbe58d34c025a08c513ff91e7b08272ff32f7a3952e63a0"
+      "sha256": "d386a2870dd1c31507bfab4e87a5aba51c942b52c20590e96f9f6f9af46cb095"
     },
     {
       "path": "site.webmanifest",
@@ -1894,7 +1894,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "9b3feb350131739da0bcb07db704c1196b63f015e6279559efd987fb738ec0cf"
+      "sha256": "f24eeb49696ac932022779e5d3f033cd7c9f21d4685a119bdcacfe7973aee528"
     },
     {
       "path": "study-images.js",
@@ -1938,8 +1938,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 21206,
-      "sha256": "dc6089184068d39fe8bf19e40758342ddc9802d79a4b5c68bdcef00e671b17fb"
+      "bytes": 22092,
+      "sha256": "8ab4bac45504270d4660b55ed64785a111bc4a676d924829d7d254dab9ab2789"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",

@@ -104,8 +104,8 @@ def render(entry,template,stamp,navigation_html="",artist_registry=None):
  if entry.get('title_segments'):
   if ''.join(entry['title_segments'])!=title:raise ValueError('Title segments must preserve exact title')
   title_markup='<wbr>'.join('<span class="title-part">'+E(part)+'</span>' for part in entry['title_segments'])
-  title_attrs=' class="segmented-title'+(' compact-title' if entry.get('compact_title') else '')+'"'
-  if 'chapter-titles.css' not in head:head=head.replace('</head>','<link rel="stylesheet" href="../chapter-titles.css?v=20261102-0921"></head>')
+  title_attrs=' class="segmented-title'+(' compact-title' if entry.get('compact_title') else '')+(' emergency-wrap' if entry.get('title_emergency_wrap') else '')+'"'
+  if 'chapter-titles.css' not in head:head=head.replace('</head>','<link rel="stylesheet" href="../chapter-titles.css?v=20261102-1715"></head>')
  questions=''.join('<li>'+E(x)+'</li>' for x in intro.get('looking_questions',[]))
  body=f'''<main id="main" tabindex="-1" class="study"><p class="study-status">{status}</p><div class="study-title"><p class="eyebrow">{E(entry['type'])}</p><h1{title_attrs}>{title_markup}</h1>{('<p class="ja-title">'+E(entry['name'])+'</p>') if entry['name']!=title else ''}<dl><div><dt>時期</dt><dd>{E(entry['period'])}</dd></div><div><dt>地域</dt><dd>{E(entry['region'])}</dd></div></dl></div><section class="reading-entrance"><h2>{E(intro.get('heading') or title)}</h2>{pp(lead)}{('<ul class="looking-questions" aria-label="見るときの問い">'+questions+'</ul>') if questions else ''}</section>'''
  body+='<nav class="article-index" aria-label="このページの目次"><h2>気になるところから読む</h2><ul><li><a href="#actual-works">'+('実作品を大きく見る' if actual else '作品画像の掲載状況')+'</a></li><li><a href="#representative-works">作品の記録を読む</a></li><li><a href="#deeper-story">背景と地域の違い</a></li><li><a href="#article-timeline">年表</a></li><li><a href="#article-glossary">ことばの意味</a></li>'+('<li><a href="#article-artists">関わる人と代表作</a></li>' if entry.get('artist_ids') else '')+'</ul></nav>' if entry.get('deep_dive') else ''

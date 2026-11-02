@@ -22,7 +22,7 @@
 - [ポストモダニズム / Postmodernism](https://djnaoyaman.github.io/design-lineage/entries/postmodernism.html): 複数分野にまたがる歴史的潮流。主な展開 1970頃–1990頃（分野により差異）。
 - [バウハウス / Bauhaus](https://djnaoyaman.github.io/design-lineage/entries/bauhaus.html): 学校・教育。1919–1933。
 - [琳派 / 琳派](https://djnaoyaman.github.io/design-lineage/entries/rinpa.html): 後世に整理された様式・芸術的継承の系譜。主に17–19世紀／近代以降にも再解釈。実作品画像8点、背景・年表・用語を拡充。画像収録は継続中。
-- [ニュー・タイポグラフィ / New Typography](https://djnaoyaman.github.io/design-lineage/entries/new-typography.html): 情報・グラフィックの歴史的な潮流。1920–30年代（MoMAの保持解説が支持する主な範囲）。
+- [ニュー・タイポグラフィ / New Typography](https://djnaoyaman.github.io/design-lineage/entries/new-typography.html): 情報・グラフィックの歴史的な潮流。主に1920〜30年代。チヒョルトの後年の仕事も、考え方の変化を知るために紹介します。。実作品画像0点、作品・制作の例6件、人物5人。画像収録は継続中。
 - [インターナショナル・スタイル / International Style](https://djnaoyaman.github.io/design-lineage/entries/international-style.html): 建築の様式・批評用語。成立：1920–30年代の欧州／戦後米国の展開も比較（1952年の例）。
 - [浮世絵 / 浮世絵](https://djnaoyaman.github.io/design-lineage/entries/ukiyoe.html): 絵画・木版画にまたがる表現の領域（木版技法そのものとは区別）。17–19世紀の展開を中心に扱う。1765年は多色の一枚摺・錦絵の重要な節目。。
 - [中国新興木刻運動 / 中国新興木刻運動](https://djnaoyaman.github.io/design-lineage/entries/china-new-woodcut.html): 社会・文化的な版画運動（木版技法そのものとは区別）。1930年代の形成と展開を中心に扱う／1940年代以降の変化は別に精査。

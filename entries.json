@@ -7005,19 +7005,19 @@
     "name": "New Typography",
     "title_ja": "ニュー・タイポグラフィ",
     "type": "情報・グラフィックの歴史的な潮流",
-    "period": "1920–30年代（MoMAの保持解説が支持する主な範囲）",
+    "period": "主に1920〜30年代。チヒョルトの後年の仕事も、考え方の変化を知るために紹介します。",
     "region": "中央ヨーロッパ。個別の制作地・流通範囲は作品ごとに確認。",
-    "summary": "ニュー・タイポグラフィは、1920〜30年代の中央ヨーロッパで広がった、文字や画像の配置を考え直す動きです。左右対称の紙面に代えて、左右を違う形に配置しながら、全体のつり合いをつくる構成を試しました。文字と画像のまとまりを、紙面の中で自由に働かせようとしたのです。",
-    "context": "MoMA（ニューヨーク近代美術館）は、ソ連の動きと、ヴァイマル時代のバウハウスからの影響を記録しています。名刺、パンフレット、雑誌、本、広告など、身近な印刷物にも取り組みました。チヒョルトが集めた印刷物は、教育や出版にも使われました。",
+    "summary": "文字は、読む順番もつくります。ニュー・タイポグラフィは、1920〜30年代の中央ヨーロッパで、文字や写真の置き方を考え直した動きです。大きさ、太さ、向き、余白を使い、何を先に伝えるかを組み立てました。",
+    "context": "映画や展覧会のお知らせ、本、広告、名刺。新しい表現の実験は、美術作品だけでなく身近な印刷物にも広がりました。ヤン・チヒョルトは各地の制作者と交流し、集めた例を教育や出版に生かします。1928年の著書『ニュー・タイポグラフィ』も、その一つです。",
     "recognition": {
-      "color": "全体に共通する決まった配色は確認できません。ツワルトの映画祭ポスターでは原色、チヒョルトの映画ポスターでは赤い円が資料に取り上げられています。それぞれの作品の特徴として見ます。",
-      "type": "文字は内容を伝えるだけでなく、形としても働きます。MoMAは、Bayerの講演ポスターのサンセリフ（文字の端に飾りのない書体）の大文字、ツワルトの図形を組み立てたような文字、デクセルの手彫りによる精密な文字を説明しています。資料にない具体的な書体名は推測しません。",
-      "form": "文字と画像をまとまりとして配置し、しばしばフォトモンタージュ（複数の写真を組み合わせる表現）も使います。デクセルの反転した文字の帯にも注目です。写真を直接見せなくても、文字によって、宣伝している媒体の制作工程をほのめかす方法を考えられます。",
-      "composition": "左右が対称でない紙面を、具体的な作品で見ます。Bayerのグリッド（配置をそろえるための格子状の基準線）と非対称な配置、ツワルトの直角に交わる線が比較の手掛かりです。すべてを同じ構図には当てはめません。配置の細部は、実際の画像を入手してから確かめます。"
+      "color": "黒と赤など、強い色の差が使われる例があります。ただし、全作品に共通する決まった配色ではありません。色がどの情報を目立たせているかを見ます。",
+      "type": "太字、大文字、大小の差で情報を分けます。サンセリフは文字の端に小さな飾りのない書体。新しい書体を発明するだけでなく、すでにあった書体の使い方も変えました。",
+      "form": "文字、写真、線、円を紙面の要素として組み合わせます。写真がある作品だけが、この動きの例になるわけではありません。",
+      "composition": "非対称（ひたいしょう）は、左右を同じ形にしない配置のこと。片側に寄せても、文字の大きさや余白で全体のつり合いを考えます。"
     },
-    "comparison": "バウハウスやソ連の動きとの関係には、保存された資料の裏付けがあります。MoMAはツワルトのポスターにデ・ステイルの影響を指摘しています。ただし、学校、別の運動、一つ一つの作品を同じ名前でまとめないようにします。スイス・スタイルへ何が受け継がれたかは、この資料だけでは補えません。",
-    "modern": "今の情報の配置を見るときにも、「文字と画像をどうまとめているか」「左右対称にするか、しないか」「何のための媒体か」と問いかけられます。ただし、特定の現代作品へ直接影響したという説明には、別の根拠が必要です。",
-    "modern_section_label": "現代の作品と比べる",
+    "comparison": "バウハウスは学校、デ・ステイルやロシア構成主義は関係のある運動、ニュー・タイポグラフィは印刷物の組み立てをめぐる国際的な動きです。重なる人物や考えはあっても、同義ではありません。後のスイス・スタイルとも、各作品の年代と目的を分けて比べます。",
+    "modern": "駅のお知らせやスマートフォンの画面でも、見出し・日時・本文の順番は重要です。「どれを先に読んでほしいか」「線や余白は何を分けているか」と考えると、歴史の紙面と今の情報を比較できます。形が似ているだけで、直接影響したと決めることはできません。",
+    "modern_section_label": "今の情報の見せ方と比べる",
     "overview_evidence_status": "保持されたMoMAの一次機関解説と個別作品記録から、用途・媒体・具体的な視覚論点を補強。実画像未取得・未実見。理想5候補の画像権利は未採用のまま。",
     "source_ids": [
       "moma-new-typography",
@@ -7025,7 +7025,13 @@
       "moma-rediscovering-new-typography",
       "moma-dexel-photography",
       "moma-zwart-film",
-      "moma-bayer-poelzig"
+      "moma-bayer-poelzig",
+      "dnb-tschichold-biography",
+      "letterform-typophoto",
+      "letterform-bauhaus-typefaces",
+      "designmuseum-penguin",
+      "bgc-new-typography",
+      "moma-elementare-1925"
     ],
     "source_urls": [
       "https://www.moma.org/calendar/exhibitions/1013",
@@ -7033,12 +7039,18 @@
       "https://www.moma.org/explore/inside_out/2010/02/12/rediscovering-the-new-typography/",
       "https://www.moma.org/collection/works/5153",
       "https://www.moma.org/collection/works/5677",
-      "https://www.moma.org/collection/works/5101"
+      "https://www.moma.org/collection/works/5101",
+      "https://blog.dnb.de/nachlass-tschichold/",
+      "https://exhibitions.letterformarchive.org/bauhaus/walkthroughs/typophoto-in-moholy-nagy-s-painting-photography-film",
+      "https://letterformarchive.org/news/bauhaus-typefaces-part-one/",
+      "https://designmuseum.org/penguin-books",
+      "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+      "https://www.moma.org/collection/works/168064"
     ],
-    "representativeness_limit": "代表例として紹介したい5点を、4人の作者から選びました。チヒョルトの本と映画ポスターに、デクセルの写真展、ツワルトの映画祭、Bayerのバウハウス講演ポスターを加えています。使い道やつくり方、作品ごとの見どころを広げるためです。ただし、本とポスターに偏っています。MoMAが挙げる名刺、パンフレット、雑誌などはまだ含めていません。国際的な動きの全体をカバーした選定ではありません。",
+    "representativeness_limit": "映画・講演・写真展のポスターと、考えを広める本・雑誌を中心に見ます。これだけで各国の商業印刷物や、関わったすべての人を代表するわけではありません。",
     "rights_cleared_adoptable_candidates": [],
     "image_count_acquired": 0,
-    "publication_status": "parent_review_required_not_added_to_public_entries",
+    "publication_status": "published_text_with_image_gaps",
     "image_publication_allowed": false,
     "alternates": [
       {
@@ -7085,259 +7097,30 @@
       }
     ],
     "representative_author_count": 4,
-    "representative_count": 5,
+    "representative_count": 6,
     "slug": "new-typography",
     "primary_reviewed": true,
-    "reviewed_representatives": [
-      {
-        "title": "Die Neue Typographie",
-        "creator": "Jan Tschichold（ヤン・チヒョルト）",
-        "date": "1928（書籍の年。掲載対象の版・個体は未特定）",
-        "domain": "書籍・理論と教育",
-        "reason": "潮流を言葉と印刷例によって捉えるための候補。MoMAはチヒョルトの収集した印刷物が教育や1928年の書籍に使われたことを記録しており、個々のポスターだけでは見えにくい整理・伝達の側面を補う。",
-        "limitation": "個別の版・頁をまだ同定していないため、表紙の配色、書体名、頁ごとの構成を断定しない。著者一人の整理を国際的な潮流の全体や、全参加者の統一見解として扱わない。",
-        "identity": {
-          "record_title": "Die Neue Typographie",
-          "record_year": "1928",
-          "medium_label": "書籍",
-          "edition": null,
-          "page_or_spread": null,
-          "publisher": null,
-          "object_accession": null,
-          "place_label": null,
-          "country_label": null,
-          "date_note": "1928は取得済機関解説が書籍に与える年。未特定の複製画像や後年の版の制作年ではない。"
-        },
-        "source_based_observation": "現時点で裏付けがあるのは書籍と収集・教育の関係。特定の頁の視覚分析は未実施。",
-        "source_ids": [
-          "moma-new-typography",
-          "moma-rediscovering-new-typography"
-        ],
-        "source_urls": [
-          "https://www.moma.org/calendar/exhibitions/1013",
-          "https://www.moma.org/explore/inside_out/2010/02/12/rediscovering-the-new-typography/"
-        ],
-        "identity_checks": [
-          "対象の原版・版次・ページと所蔵個体を特定する。",
-          "原書と後年の復刻・翻訳版を区別する。",
-          "対象頁の印刷物の作者・写真・複製に関する帰属を確認する。",
-          "原作品と選択する画像の権利・商用条件を別に確認する。"
-        ],
-        "work_rights": "未確認",
-        "reproduction_rights": "未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
-        "evidence": "https://www.moma.org/calendar/exhibitions/1013"
-      },
-      {
-        "title": "Die Frau ohne Namen",
-        "creator": "Jan Tschichold（ヤン・チヒョルト）",
-        "date": "1927（MoMA作品記録）",
-        "domain": "映画ポスター・photolithograph",
-        "reason": "理論書に対し、映画を宣伝する実用的な印刷物の候補。MoMAの解説が写真と映画の投影を関連づけて読むため、文字と画像を情報の場に組織する方法を個別の仕事として検討できる。",
-        "limitation": "列車や赤い円についての記述はこの作品の解説に限る。赤や特定の形を潮流全体の固定規則にはしない。対象作品と同じデザインの後年複製や、別版の画像を無条件に代用しない。",
-        "identity": {
-          "record_title": "Die Frau ohne Namen",
-          "record_year": "1927",
-          "medium_label": "photolithograph",
-          "venue_or_client_label": "Phoebus-Palast, Munich（保持資料の表記）",
-          "printer": "Gebrüder Obpacher AG",
-          "object_accession": "225.1978",
-          "moma_work_id": "5754",
-          "collection_credit": "Peter Stone Poster Fund",
-          "place_label": "Munich",
-          "country_label": null,
-          "country_note": "国名は現在の保持supportsに記載がないため補わない。",
-          "exhibition_context": "1927年Mannheimのcontemporary publicity exhibitionで展示された旨を保持資料が記録。"
-        },
-        "source_based_observation": "MoMAの保持ラベルは、写真と映画の投影・物語との関係、および列車と赤い円に言及する。写真の具体的な位置や色面全体は、実画像を見た結果としては述べない。",
-        "source_ids": [
-          "moma-tschichold-woman-film"
-        ],
-        "source_urls": [
-          "https://www.moma.org/collection/works/5754"
-        ],
-        "identity_checks": [
-          "MoMA所蔵番号225.1978と掲載予定画像の個体を照合する。",
-          "作者、印刷者、写真の撮影者・使用権利を別々に確認する。",
-          "1927年のポスターと、後年の復刻や別版を区別する。",
-          "館の解説にある視覚要素を実画像取得後に照合する。",
-          "Peter Stone Poster Fundは収蔵クレジットであり、印刷者や作者として表示しない。"
-        ],
-        "work_rights": "未確認",
-        "reproduction_rights": "未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
-        "evidence": "https://www.moma.org/collection/works/5754"
-      },
-      {
-        "title": "Fotografie der Gegenwart",
-        "creator": "Dexel（デクセル）",
-        "date": "1929（MoMA作品記録）",
-        "domain": "写真展ポスター・linocut",
-        "reason": "文字の表現によって、宣伝する写真という媒体そのものの工程を示す候補。MoMAのラベルは、反転した文字の帯を写真のネガ工程への言及として読み、機械的に精密に見える文字が一字ずつリノリウムに手彫りされたことを説明している。",
-        "limitation": "文字の反転を、展示写真の内容そのものの描写と説明しない。機械的な見た目を、機械だけによる制作や量産の証拠にしない。新しい視覚言語と制作の手仕事が両立する、この作品の具体的な例として扱う。",
-        "identity": {
-          "record_title": "Fotografie der Gegenwart",
-          "record_year": "1929",
-          "medium_label": "linocut",
-          "function": "photography exhibition poster",
-          "place_label": "Magdeburg",
-          "country_label": null,
-          "printer": "W. Pfannkuch & Co.",
-          "object_accession": "126.1968",
-          "moma_work_id": "5153",
-          "collection_credit": "Gift of the designer（保持資料：gift designer）",
-          "date_note": "所蔵記録の作品年。後年複製の制作年ではない。"
-        },
-        "source_based_observation": "反転文字の帯は写真のネガ工程を示唆する。機械的な精密さに見える字形は、リノリウムへ一字ずつ手で彫られたものだとMoMAが解説する。具体的な位置・色・書体ファミリー名は追加しない。",
-        "source_ids": [
-          "moma-dexel-photography"
-        ],
-        "source_urls": [
-          "https://www.moma.org/collection/works/5153"
-        ],
-        "evidence": "https://www.moma.org/collection/works/5153",
-        "identity_checks": [
-          "MoMA所蔵番号126.1968と対象画像の同一性を照合する。",
-          "ポスターのデザイナー、印刷者、画像の複製者を別々に記録する。",
-          "反転文字の説明を実画像取得後に照合し、写真作品の図版を使用していると推測しない。",
-          "1929年の原作品と後年の複製を区別する。",
-          "原作品と複製画像の商用条件をそれぞれ確認する。"
-        ],
-        "work_rights": "未確認",
-        "reproduction_rights": "写真・複製画像の商用利用許諾は未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。"
-      },
-      {
-        "title": "Internationale Tentoonstelling op Filmgebied",
-        "creator": "Piet Zwart（ピート・ツワルト）",
-        "date": "1928（MoMA作品記録）",
-        "domain": "ハーグの映画祭ポスター・lithograph",
-        "reason": "New Typographyの内部に異なる前衛の語彙が関わることを示す候補。MoMAのラベルは直交する線、幾何学的な文字、原色を挙げ、この作品におけるDe Stijlとの関係を説明している。",
-        "limitation": "De Stijlとの関係はこの作品の解説に基づく。作者の全作品やNew Typography全体を同じ配色・字形へ固定しない。デザイン上の関連と、運動への正式な所属は別に確認する。",
-        "identity": {
-          "record_title": "Internationale Tentoonstelling op Filmgebied",
-          "record_year": "1928",
-          "medium_label": "lithograph",
-          "function": "film festival poster",
-          "place_label": "Hague",
-          "country_label": null,
-          "printer": null,
-          "object_accession": "205.1968",
-          "moma_work_id": "5677",
-          "collection_credit": "Acquired by exchange（保持資料：acquiredbyexchange）",
-          "date_note": "所蔵記録の作品年。後年複製の制作年ではない。"
-        },
-        "source_based_observation": "直交する線、幾何学的な文字、原色をMoMAが指摘し、New Typography内におけるDe Stijlの影響として説明する。原色の具体的な配置や書体名は未保持のため補わない。",
-        "source_ids": [
-          "moma-zwart-film"
-        ],
-        "source_urls": [
-          "https://www.moma.org/collection/works/5677"
-        ],
-        "evidence": "https://www.moma.org/collection/works/5677",
-        "identity_checks": [
-          "MoMA所蔵番号205.1968と対象画像の同一性を照合する。",
-          "1928年のポスターと後年の復刻や別版を区別する。",
-          "印刷者を未確認のまま推定して埋めない。",
-          "ARS/PICTORIGHTの著作権表示を保存し、表示がある画像を自由利用として扱わない。",
-          "原作品と複製画像の商用条件をそれぞれ確認する。"
-        ],
-        "work_rights": "著作権表示あり：© 2026 ARS/PICTORIGHT。転載許諾未確認。",
-        "reproduction_rights": "写真・複製画像の商用利用許諾は未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。"
-      },
-      {
-        "title": "Architektur Lichtbilder Vortrag Professor Hans Poelzig",
-        "creator": "Herbert Bayer",
-        "date": "1926（MoMA作品記録）",
-        "domain": "Bauhaus講演ポスター・letterpress",
-        "reason": "学校内の実際の情報伝達において、文字の配置と明快さの関係を示す候補。MoMAの解説は、サンセリフの大文字だけを使うこと、グリッドと非対称配置を挙げ、講演情報を伝える仕事として説明している。",
-        "limitation": "題名中のHans Poelzigは講師であり、このポスターのデザイナーではない。この作品は大文字のみを使用する記録なので、BauhausやBayerの仕事はすべて小文字といった一般化をしない。具体的な書体名と配色は未保持。",
-        "identity": {
-          "record_title": "Architektur Lichtbilder Vortrag Professor Hans Poelzig",
-          "record_year": "1926",
-          "medium_label": "letterpress",
-          "function": "Bauhaus lecture poster",
-          "designer": "Herbert Bayer",
-          "guest_lecturer": "Hans Poelzig",
-          "printer": "Bauhausdruck",
-          "object_accession": "108.1968",
-          "moma_work_id": "5101",
-          "collection_credit": "Gift of Philip Johnson（保持資料：giftPhilipJohnson）",
-          "place_label": null,
-          "country_label": null,
-          "date_note": "所蔵記録の作品年。講師名や後年複製の年と混同しない。"
-        },
-        "source_based_observation": "MoMAはサンセリフの大文字、グリッド、非対称な配置と明快さの関係を説明している。文字の形を特定の書体ファミリーと結びつけたり、未見の配色を補ったりしない。",
-        "source_ids": [
-          "moma-bayer-poelzig"
-        ],
-        "source_urls": [
-          "https://www.moma.org/collection/works/5101"
-        ],
-        "evidence": "https://www.moma.org/collection/works/5101",
-        "identity_checks": [
-          "MoMA所蔵番号108.1968と対象画像の同一性を照合する。",
-          "Herbert Bayer＝デザイナー、Hans Poelzig＝講師、Bauhausdruck＝印刷者を分離する。",
-          "1926年の原ポスターと後年の複製を区別する。",
-          "ARS/VG Bild-Kunstの著作権表示を保存し、古い制作年だけで自由利用としない。",
-          "原作品と複製画像の商用条件をそれぞれ確認する。"
-        ],
-        "work_rights": "著作権表示あり：© 2026 ARS/VG Bild-Kunst。転載許諾未確認。",
-        "reproduction_rights": "写真・複製画像の商用利用許諾は未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。"
-      }
-    ],
     "sources": [
       {
         "id": "moma-new-typography",
+        "institution": "ニューヨーク近代美術館（MoMA）",
         "url": "https://www.moma.org/calendar/exhibitions/1013",
-        "institution": "Museum of Modern Art",
-        "inspection": "official-domain search returned exhibition text",
         "supports": [
-          "1920s1930s CentralEuropean information/graphic movement",
-          "Tschichold DieNeueTypographie1928",
-          "influence of Soviet currents and WeimarBauhaus",
-          "printed page as openfield of type/image blocks often photomontage",
-          "striking asymmetry instead of symmetric columns",
-          "businesscards brochures magazines books ads",
-          "Tschicholdcollection used teaching/publication c1927–1937"
-        ],
-        "image_reuse": "not established"
+          "1920〜30年代の中央ヨーロッパ、非対称な構成、印刷物の種類、1928年の著書。"
+        ]
       },
       {
         "id": "moma-tschichold-woman-film",
+        "institution": "ニューヨーク近代美術館（MoMA）",
         "url": "https://www.moma.org/collection/works/5754",
-        "institution": "MoMA",
-        "inspection": "individual record and NewTypography gallery label returned in search2026-10-30",
         "supports": [
-          "DieFrauohneNamen1927 PhoebusPalastMunich",
-          "photolithograph printerGebrüderObpacherAG",
-          "225.1978 PeterStonePosterFund",
-          "photos/cinematicprojection narrative; train redcircle",
-          "shown1927Mannheim contemporarypublicityexhibition"
-        ],
-        "image_reuse": "no free commercial permission established"
+          "1927年の映画ポスター、写真と赤い円、225.1978。"
+        ]
       },
       {
         "id": "moma-rediscovering-new-typography",
         "url": "https://www.moma.org/explore/inside_out/2010/02/12/rediscovering-the-new-typography/",
-        "institution": "MoMA",
+        "institution": "ニューヨーク近代美術館（MoMA）",
         "inspection": "official curatorial interview text returned in search2026-10-30",
         "supports": [
           "PlakatederAvantgarde1930 Munich exhibitionposter letterpress PeterStoneFund",
@@ -7348,52 +7131,82 @@
       },
       {
         "id": "moma-dexel-photography",
+        "institution": "ニューヨーク近代美術館（MoMA）",
         "url": "https://www.moma.org/collection/works/5153",
-        "institution": "MoMA",
-        "inspection": "individual object and NewTypography gallery-label text returned in search2026-10-30",
         "supports": [
-          "FotografiederGegenwart1929 Magdeburg",
-          "linocut W.Pfannkuch&Co printer",
-          "126.1968 gift designer",
-          "reversedletterstrips refer photographicnegative not exhibitionimagecontent",
-          "apparentlymachinepreciseletters laboriously handcut linoleum"
-        ],
-        "image_reuse": "no commercial permission established"
+          "1929年の写真展ポスター。文字を手で彫ったリノカット、126.1968。"
+        ]
       },
       {
         "id": "moma-zwart-film",
+        "institution": "ニューヨーク近代美術館（MoMA）",
         "url": "https://www.moma.org/collection/works/5677",
-        "institution": "MoMA",
-        "inspection": "individual object and NewTypography gallery-label text returned in search2026-10-30",
         "supports": [
-          "InternationaleTentoonstellingOpFilmgebied1928 Hague festivalposter",
-          "lithograph205.1968 acquiredbyexchange",
-          "orthogonallines geometriclettering primarycolors DeStijlwithinNewTypography",
-          "copyright2026ARS/PICTORIGHT"
-        ],
-        "image_reuse": "copyright asserted; not adopted"
+          "1928年のハーグ映画祭ポスター、デ・ステイルとの関係、205.1968。"
+        ]
       },
       {
         "id": "moma-bayer-poelzig",
+        "institution": "ニューヨーク近代美術館（MoMA）",
         "url": "https://www.moma.org/collection/works/5101",
-        "institution": "MoMA",
-        "inspection": "individual record and MoMAHighlights excerpt returned in search2026-10-30",
         "supports": [
-          "ArchitekturLichtbilderVortragProfessorHansPoelzig1926",
-          "HerbertBayer designer; HansPoelzig guestlecturer",
-          "letterpress printerBauhausdruck108.1968 giftPhilipJohnson",
-          "sansserif uppercase grid asymmetry forclarity",
-          "Bayer newprintingworkshop director1925",
-          "copyright2026ARS/VGBildKunst"
-        ],
-        "image_reuse": "copyright asserted; not adopted"
+          "1926年の講演ポスター。大文字、非対称な配置、格子状の基準線、108.1968。"
+        ]
+      },
+      {
+        "id": "dnb-tschichold-biography",
+        "institution": "ドイツ国立図書館・ドイツ書籍文字博物館",
+        "url": "https://blog.dnb.de/nachlass-tschichold/",
+        "supports": [
+          "1923年のバウハウス展訪問、1925年の特集号、1933年の移住、1930年代の考え方の変化。"
+        ]
+      },
+      {
+        "id": "letterform-typophoto",
+        "institution": "レターフォーム・アーカイブ",
+        "url": "https://exhibitions.letterformarchive.org/bauhaus/walkthroughs/typophoto-in-moholy-nagy-s-painting-photography-film",
+        "supports": [
+          "『絵画・写真・映画』の太字や線、写真・文字・記号を組み合わせる試み。"
+        ]
+      },
+      {
+        "id": "letterform-bauhaus-typefaces",
+        "institution": "レターフォーム・アーカイブ",
+        "url": "https://letterformarchive.org/news/bauhaus-typefaces-part-one/",
+        "supports": [
+          "新しい字形の発明だけでなく、既存書体の新しい使い方。1923年の展覧会図録、1926年の雑誌。"
+        ]
+      },
+      {
+        "id": "designmuseum-penguin",
+        "institution": "デザイン・ミュージアム（ロンドン）",
+        "url": "https://designmuseum.org/penguin-books",
+        "supports": [
+          "1940年代後半のペンギン・ブックスの仕事。既存の表紙形式を引き継いだ統一と組版規則。"
+        ]
+      },
+      {
+        "id": "bgc-new-typography",
+        "institution": "バード大学院センター・ギャラリー",
+        "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/89/jan-tschichold-and-the-new",
+        "supports": [
+          "国際的な交流と小さな商業印刷物、1925年特集号、1927年頃のポンプのパンフレット。"
+        ]
+      },
+      {
+        "id": "moma-elementare-1925",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "url": "https://www.moma.org/collection/works/168064",
+        "supports": [
+          "『ティポグラフィッシェ・ミッタイルンゲン』特集号、1925年、活版印刷、698.2013。"
+        ]
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
+    "status": "本文・作品例6件と人物5人を公開。実作品画像は未掲載。",
     "representatives": [
       {
-        "title": "Die Neue Typographie",
-        "creator": "Jan Tschichold（ヤン・チヒョルト）",
+        "title": "ニュー・タイポグラフィ",
+        "creator": "ヤン・チヒョルト（Jan Tschichold）",
         "date": "1928（書籍の年。掲載対象の版・個体は未特定）",
         "domain": "書籍・理論と教育",
         "reason": "この動きを、言葉と印刷の実例から知るための候補です。MoMAは、チヒョルトが集めた印刷物を、教育や1928年の本に使ったと記録しています。一枚のポスターだけでは見えにくい、考えを整理して伝える活動にも目を向けられます。",
@@ -7433,19 +7246,20 @@
         "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
         "evidence": "https://www.moma.org/calendar/exhibitions/1013",
         "reading_intro": {
-          "heading": "文字の新しい見せ方を、本にまとめる。",
+          "heading": "ニュー・タイポグラフィ",
           "lead": [
             "文字や印刷物の見せ方を考えるための本です。",
             "作者は印刷物を集め、教えることや、本づくりに使いました。",
             "一枚のポスターだけでなく、考えをまとめて伝える仕事も見ます。"
           ]
-        }
+        },
+        "title_original": "Die Neue Typographie"
       },
       {
-        "title": "Die Frau ohne Namen",
-        "creator": "Jan Tschichold（ヤン・チヒョルト）",
+        "title": "名もなき女――映画ポスター",
+        "creator": "ヤン・チヒョルト（Jan Tschichold）",
         "date": "1927（MoMA作品記録）",
-        "domain": "映画ポスター・photolithograph",
+        "domain": "映画ポスター・フォトリトグラフ",
         "reason": "理論をまとめた本と比べるために、映画を宣伝する印刷物を選ぶ候補です。MoMAの解説は、写真と、映画を映し出すことを結びつけて読んでいます。実際の仕事の中で、文字と画像をどう並べて情報を伝えたかを考えられます。",
         "limitation": "列車や赤い円の説明は、この作品についてのものです。赤や特定の形を、この動き全体の決まりにはしません。同じデザインでも、後からつくった複製や別の版の画像を、そのまま代わりには使いません。",
         "identity": {
@@ -7484,19 +7298,20 @@
         "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
         "evidence": "https://www.moma.org/collection/works/5754",
         "reading_intro": {
-          "heading": "映画の楽しみを、ポスターで知らせる。",
+          "heading": "名もなき女――映画ポスター",
           "lead": [
             "映画を宣伝するポスターです。",
             "写真と文字を組み合わせて、見る人に情報を伝えます。",
             "本にまとめられた考え方と、実際のポスターの工夫を比べる例です。"
           ]
-        }
+        },
+        "title_original": "Die Frau ohne Namen"
       },
       {
-        "title": "Fotografie der Gegenwart",
-        "creator": "Dexel（デクセル）",
+        "title": "現代の写真――写真展ポスター",
+        "creator": "ヴァルター・デクセル（Walter Dexel）",
         "date": "1929（MoMA作品記録）",
-        "domain": "写真展ポスター・linocut",
+        "domain": "写真展ポスター・リノカット",
         "reason": "写真展の宣伝で、文字を使って写真づくりの工程を表す候補です。MoMAの解説ラベルは、反転した文字の帯を、明暗などが逆になった「ネガ」から写真をつくる工程に結びつけています。また、機械でつくったように精密な文字が、実はリノリウムという床材に、一文字ずつ手で彫られていたと説明しています。",
         "limitation": "反転した文字は、展示写真に写るものをそのまま描いた、という説明にはしません。機械的に見えるからといって、機械だけでつくられた証拠や、量産された証拠にはなりません。新しい見せ方と手仕事が両立していた、この作品の具体例として扱います。",
         "identity": {
@@ -7534,19 +7349,20 @@
         "image_count_acquired": 0,
         "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
         "reading_intro": {
-          "heading": "機械のように見える文字も、手でほった。",
+          "heading": "現代の写真――写真展ポスター",
           "lead": [
             "写真展を知らせるためのポスターです。",
             "きっちりした文字は、一文字ずつ手でほってつくられました。",
             "文字の見た目と、つくり方が同じとは限らないところが面白い作品です。"
           ]
-        }
+        },
+        "title_original": "Fotografie der Gegenwart"
       },
       {
-        "title": "Internationale Tentoonstelling op Filmgebied",
-        "creator": "Piet Zwart（ピート・ツワルト）",
+        "title": "国際映画祭――ハーグの催しのポスター",
+        "creator": "ピート・ツワルト（Piet Zwart）",
         "date": "1928（MoMA作品記録）",
-        "domain": "ハーグの映画祭ポスター・lithograph",
+        "domain": "映画祭ポスター・リトグラフ（石版印刷）",
         "reason": "ニュー・タイポグラフィに、ほかの新しい芸術の考え方も関わっていたことを示す候補です。MoMAの解説ラベルは、直角に交わる線、図形のような文字、原色を挙げています。それらをもとに、この作品とデ・ステイルの関係を説明しています。",
         "limitation": "デ・ステイルとの関係は、この作品の解説に基づいています。作者のすべての作品や、ニュー・タイポグラフィ全体が、同じ配色や文字の形だったとはしません。デザインのつながりと、運動の正式な参加者だったかどうかは、別に確認します。",
         "identity": {
@@ -7584,19 +7400,20 @@
         "image_count_acquired": 0,
         "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
         "reading_intro": {
-          "heading": "映画を知らせる文字を、図形で組み立てる。",
+          "heading": "国際映画祭――ハーグの催しのポスター",
           "lead": [
             "映画の催しを知らせるポスターです。",
             "たて・よこに交わる線や、図形を組んだような文字を使っています。",
             "ほかのポスターと、文字のつくり方を比べる例です。"
           ]
-        }
+        },
+        "title_original": "Internationale Tentoonstelling op Filmgebied"
       },
       {
-        "title": "Architektur Lichtbilder Vortrag Professor Hans Poelzig",
-        "creator": "Herbert Bayer",
+        "title": "建築家ハンス・ペルツィヒのスライド講演――案内ポスター",
+        "creator": "ヘルベルト・バイヤー（Herbert Bayer）",
         "date": "1926（MoMA作品記録）",
-        "domain": "Bauhaus講演ポスター・letterpress",
+        "domain": "講演ポスター・活版印刷",
         "reason": "学校で講演の情報を伝えるとき、文字の置き方が、わかりやすさとどう結びつくかを見る候補です。MoMAは、サンセリフ（端に小さな飾りのない書体）の大文字だけを使っていると説明しています。グリッドという配置の補助線や、左右対称にしない配置も挙げています。",
         "limitation": "題名にあるHans Poelzigは講師で、ポスターのデザイナーではありません。この作品は、大文字だけを使ったと記録されています。そのため、バウハウスやBayerの仕事が、すべて小文字だったとはいえません。具体的な書体名や配色は、まだ記録にそろっていません。",
         "identity": {
@@ -7636,13 +7453,43 @@
         "image_count_acquired": 0,
         "visual_inspection_status": "実画像未取得・未実見。記述は保持されたMoMA一次解説の要約に基づく。",
         "reading_intro": {
-          "heading": "講演のお知らせを、文字の置き方で伝える。",
+          "heading": "建築家ハンス・ペルツィヒのスライド講演――案内ポスター",
           "lead": [
             "学校で開く講演を知らせるポスターです。",
             "大文字だけを使い、右と左が同じにならないように並べています。",
             "何から目に入り、次に何を読むかが、見る手がかりになります。"
           ]
-        }
+        },
+        "title_original": "Architektur Lichtbilder Vortrag Professor Hans Poelzig"
+      },
+      {
+        "title": "『ティポグラフィッシェ・ミッタイルンゲン』特集号「エレメンターレ・ティポグラフィ」",
+        "title_original": "Sonderheft Typographische Mitteilungen",
+        "creator": "ヤン・チヒョルト（Jan Tschichold）",
+        "date": "1925年（特集号は10月）",
+        "domain": "雑誌の特集号・活版印刷",
+        "reason": "ポスターだけでなく、印刷に関わる人へ考えを伝える出版物も、この動きの重要な部分だったことを示します。1928年の単行本とは別の資料です。",
+        "limitation": "MoMA所蔵番号698.2013。画像は未掲載。1928年の著書や後年の復刻と区別します。",
+        "evidence": "https://www.moma.org/collection/works/168064",
+        "source_ids": [
+          "moma-elementare-1925",
+          "bgc-new-typography"
+        ],
+        "reading_intro": {
+          "heading": "つくり方を、雑誌で伝える。",
+          "lead": [
+            "1925年の雑誌の特集号です。",
+            "ポスターを見るだけでなく、文字を組む人が考え方を学ぶための出版物にも注目します。"
+          ]
+        },
+        "identity": {
+          "object_accession": "698.2013",
+          "record_year": "1925",
+          "medium_label": "Book, letterpress printed",
+          "collection_credit": "Gift of Suzanne Slesin"
+        },
+        "image_adoption": "未掲載",
+        "image_count_acquired": 0
       }
     ],
     "period_bands": [
@@ -7658,18 +7505,274 @@
     "supplemental_explainer_count": 0,
     "has_generated_visual_material": false,
     "reading_intro": {
-      "heading": "文字は、読むもの。でも、形も見てみよう。",
+      "heading": "大きな文字は、何を先に伝えている？",
       "lead": [
-        "ポスターの文字は、何が書いてあるかだけでなく、形や置く場所も大切です。",
-        "大きな文字と小さな文字を、写真と組み合わせる。",
-        "右と左を同じ並びにせず、違う形に組み立てる。",
-        "ニュー・タイポグラフィでは、本やポスターなどで、こうした見せ方を試しました。"
+        "まず題名、次に日時、最後に細かな説明。紙面の中には、読む順番をつくる工夫があります。",
+        "左右を同じ形にしないことも、写真を文字のそばに置くことも、目的はただ目立つことだけではありません。",
+        "何を、誰に、どう伝えるか。文字の形と情報の働きをいっしょに見てみましょう。"
       ],
       "looking_questions": [
-        "ポスターを見るなら、文字の大きさや向きは、どこで変わっているでしょう。",
-        "文字と写真のかたまりを探すと、右と左でどんな違いがあるでしょう。"
+        "最初に目に入る文字は、何を知らせていますか。",
+        "文字と写真の間には、どんな余白がありますか。",
+        "映画の広告と本の本文では、同じ配置が役立つでしょうか。"
       ]
-    }
+    },
+    "deep_dive": [
+      {
+        "id": "everyday-print",
+        "title": "街や仕事で使う、小さな紙から",
+        "paragraphs": [
+          "この動きを、名作ポスターだけで考えると大切な部分を見落とします。旅行案内、商品カタログ、手紙の用紙など、日々使う印刷物も実験の場でした。",
+          "チヒョルトは、リシツキー、モホリ＝ナジ、バイヤー、ツワルト、ストゥナルらとやり取りし、作品を交換・収集しました。一人が完成形を発明して各地へ配った、というだけの歴史ではありません。"
+        ],
+        "source_ids": [
+          "bgc-new-typography"
+        ]
+      },
+      {
+        "id": "asymmetry-and-order",
+        "title": "左右をそろえず、情報をそろえる",
+        "paragraphs": [
+          "バイヤーの1926年の講演ポスターは、大文字だけを使い、非対称に組んだ例です。格子状の基準線で位置を整えながら、講師や催しの情報を伝えています。",
+          "左右対称をやめることと、自由に散らかすことは違います。どの文字をまとめ、どこを離すか。大きさ、太さ、位置の差から、情報のまとまりを探しましょう。"
+        ],
+        "source_ids": [
+          "moma-bayer-poelzig"
+        ]
+      },
+      {
+        "id": "photo-and-type",
+        "title": "写真を添えるだけではない",
+        "paragraphs": [
+          "チヒョルトの映画ポスター『名もなき女』では、列車の写真と赤い円が、こちらへ進んでくるような動きをつくります。MoMAは、写真が映画の物語や映写の仕組みを連想させると解説しています。",
+          "モホリ＝ナジが試みたタイポフォトは、文字と写真を一体として伝える方法です。『絵画・写真・映画』の「大都市の動態」では、写真、記号、文字、太い線を連ね、読む速さまで変えるように組み立てています。"
+        ],
+        "source_ids": [
+          "moma-tschichold-woman-film",
+          "letterform-typophoto"
+        ]
+      },
+      {
+        "id": "making-and-reading",
+        "title": "機械的に見えても、手でつくる",
+        "paragraphs": [
+          "デクセルの1929年の写真展ポスターでは、反転した文字が写真のネガを思わせます。ところが、そろった文字は一字ずつ手でリノリウムに彫られたものでした。",
+          "見た目が機械的だから、機械が自動でつくったとは限りません。文字の形、版をつくる作業、印刷する作業を分けて見ると、紙面に残る技術がわかります。"
+        ],
+        "source_ids": [
+          "moma-dexel-photography"
+        ]
+      },
+      {
+        "id": "not-one-font",
+        "title": "一つの書体、一つの国ではない",
+        "paragraphs": [
+          "レターフォーム・アーカイブは、バウハウスの文字の歴史を、新奇な書体の発明だけでなく既存の書体を新しく使う試みとして説明しています。同じ学校の印刷物にも、書体や大文字・小文字の扱いに違いがあります。",
+          "オランダのツワルトの映画祭ポスターには、直角に交わる線、図形のような文字、原色が見られます。MoMAは、そこにデ・ステイルの影響を指摘します。関係のある動きでも、同じ名前にまとめてしまわないことが大切です。"
+        ],
+        "source_ids": [
+          "letterform-bauhaus-typefaces",
+          "moma-zwart-film"
+        ]
+      },
+      {
+        "id": "later-choices",
+        "title": "「新しい」が、ずっと同じ形とは限らない",
+        "paragraphs": [
+          "1933年、チヒョルトはナチスに拘束された後、スイスのバーゼルへ移りました。1930年代には、以前の考えから少しずつ距離を取り、本や文字の古典的なつくり方へ目を向けます。",
+          "1940年代後半のペンギン・ブックスでは、題名や著者名の位置、表紙から背・裏表紙までの統一、組版の規則を整えました。最初のペンギンの表紙をゼロから発明したのではありません。読むための目的に向き合う仕事は、非対称という一つの答えだけではなかったのです。"
+        ],
+        "source_ids": [
+          "dnb-tschichold-biography",
+          "designmuseum-penguin"
+        ]
+      }
+    ],
+    "regional_variants": [
+      {
+        "place": "ドイツ",
+        "name": "学校・映画館・印刷の現場",
+        "description": "バイヤーの講演ポスター、チヒョルトの映画広告、デクセルの写真展。用途も印刷技法も違う例を比べられます。",
+        "source_ids": [
+          "moma-bayer-poelzig",
+          "moma-tschichold-woman-film",
+          "moma-dexel-photography"
+        ]
+      },
+      {
+        "place": "オランダ",
+        "name": "映画を伝える、図形のような文字",
+        "description": "ツワルトの1928年のポスターでは、映画という新しい表現と、デ・ステイルからの影響が交わります。",
+        "source_ids": [
+          "moma-zwart-film"
+        ]
+      },
+      {
+        "place": "国を越えた交流",
+        "name": "送る、集める、本にする",
+        "description": "紙の印刷物は制作者の間を移動しました。チヒョルトの収集には、有名な作品だけでなく、広告や仕事用の小さな紙も含まれています。",
+        "source_ids": [
+          "bgc-new-typography"
+        ]
+      },
+      {
+        "place": "スイスとイギリス",
+        "name": "後年の本づくりへ",
+        "description": "チヒョルトの移住と、ペンギン・ブックスでの仕事をたどります。1920年代の様式が、そのまま一直線に続いたわけではありません。",
+        "source_ids": [
+          "dnb-tschichold-biography",
+          "designmuseum-penguin"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "タイポグラフィ",
+        "reading": "",
+        "explanation": "文字を選び、大きさや間隔、並べ方を整えて、内容を伝えること。"
+      },
+      {
+        "term": "非対称",
+        "reading": "ひたいしょう",
+        "explanation": "左右や上下を、同じ形にそろえない構成。つり合いがない、という意味ではありません。"
+      },
+      {
+        "term": "余白",
+        "reading": "よはく",
+        "explanation": "文字や画像のない部分。情報を区切り、目を休める働きもあります。"
+      },
+      {
+        "term": "情報の優先順位",
+        "reading": "じょうほうのゆうせんじゅんい",
+        "explanation": "何を先に、何を後に読んでほしいかという順番。文字の大小や位置でも表せます。"
+      },
+      {
+        "term": "サンセリフ",
+        "reading": "",
+        "explanation": "文字の端に小さな飾りのない欧文書体。特定の一種類の書体名ではありません。"
+      },
+      {
+        "term": "グリッド",
+        "reading": "",
+        "explanation": "文字や画像の位置をそろえるための、格子状の基準線。完成した紙面には見えないこともあります。"
+      },
+      {
+        "term": "タイポフォト",
+        "reading": "",
+        "explanation": "文字と写真を、一体の伝達として組み合わせる考え方。モホリ＝ナジが用いた呼び名です。"
+      },
+      {
+        "term": "活版印刷",
+        "reading": "かっぱんいんさつ",
+        "explanation": "文字などの出っ張った面にインクを付け、紙へ押して刷る方法。"
+      },
+      {
+        "term": "リノカット",
+        "reading": "",
+        "explanation": "リノリウムという材料を彫って版にし、残った面にインクを付けて刷る版画。"
+      },
+      {
+        "term": "組版",
+        "reading": "くみはん",
+        "explanation": "文章を印刷するために、文字や行の並びを組み立てる作業。"
+      }
+    ],
+    "related_articles": [
+      {
+        "slug": "bauhaus",
+        "title": "バウハウス"
+      },
+      {
+        "slug": "russian-constructivism",
+        "title": "ロシア構成主義"
+      },
+      {
+        "slug": "de-stijl",
+        "title": "デ・ステイル"
+      },
+      {
+        "slug": "swiss-style",
+        "title": "スイス・スタイル"
+      },
+      {
+        "slug": "photomontage",
+        "title": "フォトモンタージュ"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1923年",
+        "event": "チヒョルトがヴァイマルのバウハウス展を訪れる。",
+        "source_ids": [
+          "dnb-tschichold-biography"
+        ]
+      },
+      {
+        "date": "1925年",
+        "event": "チヒョルトが雑誌の特集号「エレメンターレ・ティポグラフィ」をまとめる。",
+        "source_ids": [
+          "dnb-tschichold-biography",
+          "moma-elementare-1925"
+        ]
+      },
+      {
+        "date": "1926年",
+        "event": "バイヤーがハンス・ペルツィヒの講演を知らせるポスターを制作。",
+        "source_ids": [
+          "moma-bayer-poelzig"
+        ]
+      },
+      {
+        "date": "1927年",
+        "event": "チヒョルトの映画ポスター『名もなき女』。写真と文字で映画を知らせる。",
+        "source_ids": [
+          "moma-tschichold-woman-film"
+        ]
+      },
+      {
+        "date": "1928年",
+        "event": "チヒョルトの著書『ニュー・タイポグラフィ』が刊行。ツワルトはハーグの映画祭ポスターを制作。",
+        "source_ids": [
+          "moma-new-typography",
+          "moma-zwart-film"
+        ]
+      },
+      {
+        "date": "1929年",
+        "event": "デクセルの写真展ポスター。手で彫った文字で写真の仕組みを連想させる。",
+        "source_ids": [
+          "moma-dexel-photography"
+        ]
+      },
+      {
+        "date": "1933年",
+        "event": "ナチスによる拘束の後、チヒョルトがバーゼルへ移住。",
+        "source_ids": [
+          "dnb-tschichold-biography"
+        ]
+      },
+      {
+        "date": "1940年代後半",
+        "event": "チヒョルトがペンギン・ブックスの本のデザインや組版規則を整える。",
+        "source_ids": [
+          "designmuseum-penguin"
+        ]
+      }
+    ],
+    "checked_at": "2026-11-02",
+    "title_segments": [
+      "ニュー・",
+      "タイポグラフィ"
+    ],
+    "compact_title": true,
+    "artist_ids": [
+      "jan-tschichold",
+      "laszlo-moholy-nagy",
+      "herbert-bayer",
+      "piet-zwart",
+      "walter-dexel"
+    ],
+    "title_emergency_wrap": true
   },
   {
     "name": "International Style",
