@@ -1883,8 +1883,8 @@
     },
     {
       "path": "tests/home-features.cjs",
-      "bytes": 3714,
-      "sha256": "fe2d07ff5263dd41ea844864836357d85fc0ae9b2b6c85a79309f6c7a0720855"
+      "bytes": 3922,
+      "sha256": "5ee464fcbd41e9b075390a4a3b06de9c26fad346c1e5838ce80968a683d17f9c"
     },
     {
       "path": "tests/reader-copy-consistency.py",
