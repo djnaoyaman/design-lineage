@@ -42,7 +42,7 @@ def image_html(im,reference=False):
  if variants and max(v['width'] for v in variants)<w:variants.append({'local_file':f,'width':w,'height':h})
  variants.sort(key=lambda v:v['width'])
  display=next((v['local_file'] for v in variants if v['width']>=min(w,1000)),variants[-1]['local_file'] if variants else f)
- srcset=(' srcset="'+', '.join('../'+E(v['local_file'])+' '+str(v['width'])+'w' for v in variants)+'" sizes="(max-width:700px) 88vw, 1200px"') if variants else '' 
+ srcset=(' srcset="'+', '.join('../'+E(v['local_file'])+' '+str(v['width'])+'w' for v in variants)+'" sizes="(max-width:700px) 88vw, 1200px"') if variants else ''
  notes=im.get('visual_notes') or ([dict(title='ここを見てみよう。',text=im['viewing_point'])] if im.get('viewing_point') else [])
  # A single note spans all columns; no empty three-column desktop layout.
  observations=''.join(f'<article{chr(32)+"style="+chr(34)+"grid-column:1/-1"+chr(34) if len(notes)==1 else ""}><h3>{E(n.get("title","見る手がかり"))}</h3>{pp(n.get("text",""))}</article>' for n in notes)
@@ -64,7 +64,7 @@ def representative(w,n):
  if w.get('reason') and w.get('reason') not in lines:record+=pp(w['reason'])
  return f'''<article class="representative"><span class="work-no">{n:02}</span><div><h3>{E(heading)}</h3><p class="note">{E(kind)}</p>{pp(lines)}{link(w.get('evidence') or w.get('source_url'),'作品・資料の出典を見る')}<details class="work-record"><summary>作品・資料の記録を読む</summary><p>{label}：{E(original)}</p>{record}</details></div></article>'''
 
-def render(entry,template,stamp):
+def render(entry,template,stamp,navigation_html=""):
  slug=entry['slug'];title=entry['title_ja'];canonical=BASE+'entries/'+slug+'.html'
  if not re.fullmatch(r'[a-z0-9-]+',slug):raise ValueError('Unsafe slug')
  header=re.search(r'<header\b.*?</header>',template,re.S)[0]
@@ -90,8 +90,8 @@ def render(entry,template,stamp):
   if 'chapter-titles.css' not in head:head=head.replace('</head>','<link rel="stylesheet" href="../chapter-titles.css?v=20261102-0921"></head>')
  questions=''.join('<li>'+E(x)+'</li>' for x in intro.get('looking_questions',[]))
  body=f'''<main id="main" tabindex="-1" class="study"><p class="study-status">{status}</p><div class="study-title"><p class="eyebrow">{E(entry['type'])}</p><h1{title_attrs}>{title_markup}</h1>{('<p class="ja-title">'+E(entry['name'])+'</p>') if entry['name']!=title else ''}<dl><div><dt>時期</dt><dd>{E(entry['period'])}</dd></div><div><dt>地域</dt><dd>{E(entry['region'])}</dd></div></dl></div><section class="reading-entrance"><h2>{E(intro.get('heading') or title)}</h2>{pp(lead)}{('<ul class="looking-questions" aria-label="見るときの問い">'+questions+'</ul>') if questions else ''}</section>'''
- body+='<nav class="article-index" aria-label="このページの目次"><h2>気になるところから読む</h2><ul><li><a href="#actual-works">実作品を大きく見る</a></li><li><a href="#representative-works">作品の記録を読む</a></li><li><a href="#deeper-story">背景と地域の違い</a></li><li><a href="#article-timeline">年表</a></li><li><a href="#article-glossary">ことばの意味</a></li></ul></nav>' if entry.get('deep_dive') else ''
- if entry.get('deep_dive'):
+ body+='<nav class="article-index" aria-label="このページの目次"><h2>気になるところから読む</h2><ul><li><a href="#actual-works">'+('実作品を大きく見る' if actual else '作品画像の掲載状況')+'</a></li><li><a href="#representative-works">作品の記録を読む</a></li><li><a href="#deeper-story">背景と地域の違い</a></li><li><a href="#article-timeline">年表</a></li><li><a href="#article-glossary">ことばの意味</a></li></ul></nav>' if entry.get('deep_dive') else ''
+ if entry.get('deep_dive') and actual:
   body+='<details class="article-image-index"><summary>掲載画像から選ぶ（'+str(len(actual))+'点）</summary><ul>'+''.join('<li><a href="#'+E(im.get('presentation',{}).get('anchor') or im['id'])+'">'+E(im['title'])+'</a></li>' for im in actual)+'</ul></details>'
  body+='<div id="actual-works">'+''.join(image_html(i).replace('loading="lazy"','loading="eager"',1) if n==0 else image_html(i) for n,i in enumerate(actual))+''.join(image_html(i,True) for i in refs)+'</div>'
  if not actual:body+='<p class="note">実作品の画像は、まだ掲載していません。下の出典リンクから作品を確かめられます。参照図や説明図は、実作品の画像とは別に数えます。</p>'
@@ -137,6 +137,7 @@ def render(entry,template,stamp):
   body+='<li>'+link(s['url'],' — '.join(v for v in [s.get('institution'),s.get('title')] if v) or '出典資料')+'</li>'
  body+='</ol>'+pp(entry.get('representativeness_limit',''))+'<p class="note">'+status+'</p></section></main>'
  scripts=''.join(re.findall(r'<script src="[^\"]+"[^>]*></script>',template))
+ body=body.replace('</main>',navigation_html+'</main>')
  return head+body+footer+scripts+'</body></html>\n'
 
 def main():
@@ -149,7 +150,9 @@ def main():
  stamp=args.stamp or datetime.now(timezone(timedelta(hours=9))).replace(second=0,microsecond=0).isoformat()
  template=(site/'entries/flat-design.html').read_text();(out/'entries').mkdir(parents=True,exist_ok=True)
  for e in entries:
-  text=render(e,template,stamp)
+  import runpy
+  nav=runpy.run_path(str(Path(__file__).with_name('chapter-navigation.py')))['navigation'](site,e['slug'],json.loads(args.entries.read_text()))
+  text=render(e,template,stamp,nav)
   for prohibited in ['/tmp/','/workspace/','libfile_','sediment://','QA-ONLY-manifest']:
    if prohibited in text:raise ValueError('Private data in rendered HTML')
   (out/'entries'/f'{e["slug"]}.html').write_text(text)
