@@ -97,6 +97,9 @@ for(const width of [320,390,1280]){
     fs.writeFileSync(`qa-artifacts/nakajima-profile-${width}-${zoom}x.json`,JSON.stringify(geometry));
     await page.screenshot({path:`qa-artifacts/nakajima-profile-before-assert-${width}-${zoom}x.png`});
     assert(geometry.scroll<=geometry.inner+1,'Nakajima expanded profile fits at layout zoom');
+    assert.equal(geometry.overflow.length,0,'Nakajima blocks fit');assert.equal(geometry.textOverflow.length,0,'Nakajima rendered text fits');
+    await page.locator('h1').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/nakajima-heading-${width}-${zoom}x.png`});
+    await profile.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
     await page.screenshot({path:`qa-artifacts/nakajima-profile-${width}-${zoom}x.png`});
    }
    await page.evaluate(()=>document.documentElement.style.zoom='1');
