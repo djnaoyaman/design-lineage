@@ -1,0 +1,2 @@
+/* A direct link into a feature is an explicit request to reveal its contents. */
+(()=>{'use strict';function revealTarget(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}if(!id)return;const target=document.getElementById(id),feature=target?.closest('details.home-feature-banner');if(feature&&target!==feature){feature.open=true;requestAnimationFrame(()=>target.scrollIntoView({block:'start',behavior:'instant'}));}}window.addEventListener('hashchange',revealTarget);revealTarget();})();
