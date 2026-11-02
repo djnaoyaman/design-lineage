@@ -1,8 +1,8 @@
 {
-  "release": "public-content-dansaekhwa-20261102-1735",
+  "release": "public-content-dansaekhwa-20261102-1743",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T17:35:00+09:00",
+  "frozen_at": "2026-11-02T17:43:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1343,8 +1343,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1794665,
-      "sha256": "70596d7385951bb2aedafbee3a0e1194677ad8262e3698911bf1b27acaa6ebda"
+      "bytes": 1794672,
+      "sha256": "70be4283e101327da9f1f275091199da6d90f7f3aabd9ff7cdf40d151b1f41ee"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1423,8 +1423,8 @@
     },
     {
       "path": "entries/dansaekhwa.html",
-      "bytes": 30654,
-      "sha256": "2d36881ff56ff87e60c49ff90a535a99f0ff54db0168c6cfddaf6510be74640d"
+      "bytes": 30682,
+      "sha256": "18aa1df547dbb152d0cce0a10d30f7dfd47ceb2aed3ad1031e922bc96bfe4e16"
     },
     {
       "path": "entries/de-stijl.html",
@@ -1819,7 +1819,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "4350a78dd1ad45138c794659037da6489fb58c3490648922547236509cc5e435"
+      "sha256": "50c4f2323931a5b583a6c3d21af8fa56e620ecab281ff599a55639f98a25dc37"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1884,7 +1884,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "3ccee0efab346b05650953c6e4e3c752e957bf02d1f1480a981865045288511e"
+      "sha256": "523f5e95680a69ca1bea1b87b802aa41d97fd1fc571ff55f72ab8f4683c28145"
     },
     {
       "path": "site.webmanifest",
@@ -1894,7 +1894,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "4981ba38e342fc7670f98238d4c1904c56c5fb761de7e6fd3b5a3ee10019768a"
+      "sha256": "b5abbe48bf020ae3ff14024d98d135967ec808555056380a6740f9a1d44c1e3c"
     },
     {
       "path": "study-images.js",
