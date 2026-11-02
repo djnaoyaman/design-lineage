@@ -6572,6 +6572,415 @@
           "description": "1981年のデザインと、別の年に製作された製品を区別して見ます。"
         }
       ]
+    },
+    {
+      "id": "kaigetsudo-dohan",
+      "entity_type": "person",
+      "name_ja": "懐月堂度繁",
+      "name_kana": "かいげつどう どはん",
+      "name_original": "Kaigetsudō Dohan",
+      "birth_year": null,
+      "death_year": null,
+      "short_bio": "18世紀初めに活動した浮世絵師。筆で直接描いた女性像では、大きな筆の動きと衣服の模様を組み合わせています。生没年はわかっていません。",
+      "representative_works": [
+        {
+          "id": "met-45381-dohan",
+          "title_ja": "美人（館題の訳）",
+          "title_original": "Beautiful Woman",
+          "date_label": "18世紀初頭",
+          "work_type": "肉筆画・掛軸",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/45381",
+          "creator_role": "描画",
+          "accession": "1975.268.125",
+          "medium": "紙に墨と彩色",
+          "note": "懐月堂度繁の作品として記録された掛軸です。懐月堂安度や別の絵師による同題の作品とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-dohan-45381",
+          "institution": "メトロポリタン美術館",
+          "title": "美人（1975.268.125）",
+          "url": "https://www.metmuseum.org/art/collection/search/45381",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "momak-ukiyoe-1972-names",
+          "institution": "京都国立近代美術館",
+          "title": "シカゴ美術館 浮世絵名品展：出品目録",
+          "url": "https://www.momak.go.jp/Japanese/exhibitionArchive/1972/89.html",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "ukiyoe",
+          "role": "肉筆による人物画を描いた絵師",
+          "description": "版を彫って刷る作品とは異なる、筆で直接描く浮世絵を紹介します。"
+        }
+      ],
+      "life_dates_label": "生没年未詳（1710〜1716年に活動）",
+      "birth_year_status": "unknown",
+      "death_year_status": "unknown",
+      "life_status": "unknown",
+      "date_note": "メトロポリタン美術館が示す1710〜1716年は活動年で、生没年ではありません。",
+      "name_reading": "かいげつどう どはん"
+    },
+    {
+      "id": "toshusai-sharaku",
+      "entity_type": "person",
+      "name_ja": "東洲斎写楽",
+      "name_kana": "とうしゅうさい しゃらく",
+      "name_original": "Tōshūsai Sharaku",
+      "birth_year": null,
+      "death_year": null,
+      "short_bio": "1794〜1795年に活動した浮世絵師。役者の顔や手の形を通して、舞台の役柄と演じる人の個性を描き分けました。ここでは正体や生没年を特定していません。",
+      "representative_works": [
+        {
+          "id": "met-37358-sharaku",
+          "title_ja": "三代目大谷鬼次の奴江戸兵衛",
+          "title_original": "Kabuki Actor Ōtani Oniji III as Yakko Edobei",
+          "date_label": "1794年",
+          "work_type": "役者絵・木版画",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/37358",
+          "creator_role": "絵師・図案",
+          "accession": "JP2822",
+          "medium": "紙に墨・色・白雲母",
+          "note": "大谷鬼次は役者、奴江戸兵衛は役名、写楽は絵師です。彫師・摺師・版元の個人名は、この所蔵記録からは特定していません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-sharaku-37358",
+          "institution": "メトロポリタン美術館",
+          "title": "三代目大谷鬼次の奴江戸兵衛（JP2822）",
+          "url": "https://www.metmuseum.org/art/collection/search/37358",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "ukiyoe",
+          "role": "役者絵を描いた絵師",
+          "description": "舞台の人物と演じる役者、絵を設計する人の役割を分けて見ます。"
+        }
+      ],
+      "life_dates_label": "生没年未詳（1794〜1795年に活動）",
+      "birth_year_status": "unknown",
+      "death_year_status": "unknown",
+      "life_status": "unknown",
+      "date_note": "メトロポリタン美術館の活動年を示しています。実在の別人と同一視したり、活動の終わりを没年としたりはしません。",
+      "name_reading": "とうしゅうさい しゃらく"
+    },
+    {
+      "id": "katsushika-hokusai",
+      "entity_type": "person",
+      "name_ja": "葛飾北斎",
+      "name_kana": "かつしか ほくさい",
+      "name_original": "Katsushika Hokusai",
+      "birth_year": 1760,
+      "death_year": 1849,
+      "short_bio": "江戸で活動した浮世絵師。藍やベロ藍と呼ばれる青を使った風景版画で知られます。《神奈川沖浪裏》では、近くの波と遠くの富士の大きさを対照させています。",
+      "representative_works": [
+        {
+          "id": "met-45434-hokusai",
+          "title_ja": "富嶽三十六景 神奈川沖浪裏",
+          "title_original": "Under the Wave off Kanagawa (Kanagawa oki nami ura), from the series Thirty-six Views of Mount Fuji",
+          "date_label": "1830〜1832年頃",
+          "work_type": "風景版画・木版画",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/45434",
+          "creator_role": "絵師・図案",
+          "accession": "JP1847",
+          "medium": "紙に墨と色",
+          "note": "対象はJP1847の一枚です。同館のJP2569・JP2972など、同じ図柄を刷った別の紙とは区別します。絵の設計と彫り・刷りの仕事も同一視しません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-hokusai-45434",
+          "institution": "メトロポリタン美術館",
+          "title": "富嶽三十六景 神奈川沖浪裏（JP1847）",
+          "url": "https://www.metmuseum.org/art/collection/search/45434",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "ukiyoe",
+          "role": "風景版画を描いた絵師",
+          "description": "大波と小さな富士の配置から、風景を画面に組み立てる方法を見ます。"
+        }
+      ],
+      "name_reading": "かつしか ほくさい"
+    },
+    {
+      "id": "suzuki-harunobu",
+      "entity_type": "person",
+      "name_ja": "鈴木春信",
+      "name_kana": "すずき はるのぶ",
+      "name_original": "Suzuki Harunobu",
+      "birth_year": null,
+      "death_year": 1770,
+      "short_bio": "多色で刷る錦絵の初期に活躍した浮世絵師。古典の風景や物語を身近な暮らしに置き換える「見立て」を用いました。生年には資料による違いがあり、確定していません。",
+      "representative_works": [
+        {
+          "id": "harunobu-parlor-snow-met-jp1273",
+          "title_ja": "座敷八景 塗桶の暮雪（館題の訳）",
+          "title_original": "Evening Snow on the Nurioke, from the series Eight Parlor Views",
+          "date_label": "1766年頃",
+          "work_type": "室内風俗・木版画",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/55194",
+          "creator_role": "絵師・図案",
+          "accession": "JP1273",
+          "medium": "紙に墨と色",
+          "note": "中国の瀟湘八景を室内の道具へ置き換えた連作の一図。塗桶は、絹の真綿を乾かす漆塗りの木製の型です。所蔵個体はJP1273で、別館の同じ図柄の摺りとは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-harunobu-55194",
+          "institution": "メトロポリタン美術館",
+          "title": "座敷八景 塗桶の暮雪（JP1273）",
+          "url": "https://www.metmuseum.org/art/collection/search/55194",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "ccma-harunobu-life",
+          "institution": "千葉市美術館",
+          "title": "青春の浮世絵師 鈴木春信",
+          "url": "https://www.ccma-net.jp/exhibitions/special/02-9-14-10-20/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-dohan-45381",
+          "institution": "メトロポリタン美術館",
+          "title": "美人（1975.268.125）",
+          "url": "https://www.metmuseum.org/art/collection/search/45381",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "ukiyoe",
+          "role": "錦絵の初期を担った絵師",
+          "description": "古典の題材と身近な道具を重ねる「見立て」を紹介します。"
+        }
+      ],
+      "life_dates_label": "生年は1725年？とされる（異説あり）、1770年没",
+      "birth_year_status": "conflicting_primary_catalogues",
+      "date_note": "千葉市美術館は1725年？、メトロポリタン美術館のJP1273の記録は1725年としています。同館の別作品の解説には1724年という表記もあります。",
+      "name_reading": "すずき はるのぶ"
+    },
+    {
+      "id": "hamada-shoji",
+      "entity_type": "person",
+      "name_ja": "濱田庄司",
+      "name_kana": "はまだ しょうじ",
+      "name_original": "Hamada Shōji",
+      "birth_year": 1894,
+      "death_year": 1978,
+      "short_bio": "益子を拠点に器を作った陶芸家。身近な土や釉薬を使い、柳宗悦や河井寬次郎と民藝運動を支えました。1961年には日本民藝館の館長に就任しています。",
+      "representative_works": [
+        {
+          "id": "hamada-kibi-teabowl-mingeikan-1955",
+          "title_ja": "地掛鉄絵黍文茶碗",
+          "title_original": "地掛鉄絵黍文茶碗",
+          "date_label": "1955年",
+          "work_type": "陶器・茶碗",
+          "institution": "日本民藝館",
+          "source_url": "https://mingeikan.or.jp/collection/hamada_14/",
+          "creator_role": "制作",
+          "production_place": "益子・濱田窯",
+          "dimensions": "10.5 × 12.0 cm（寸法の軸は所蔵ページに記載なし）",
+          "note": "濱田庄司が作った作者名のある茶碗です。民藝運動が評価した、作者のわからない昔の英国スリップウェアとは別の作品です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mingeikan-hamada-life",
+          "institution": "日本民藝館",
+          "title": "濱田庄司作品",
+          "url": "https://mingeikan.or.jp/collection_series/hamada_shoji/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mingeikan-hamada-1955-bowl",
+          "institution": "日本民藝館",
+          "title": "地掛鉄絵黍文茶碗",
+          "url": "https://mingeikan.or.jp/collection/hamada_14/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mingei",
+          "role": "陶芸家・民藝運動の推進者",
+          "description": "運動の考えを、新しい日用品の制作でも実践した人物として紹介します。"
+        }
+      ],
+      "name_reading": "はまだ しょうじ"
+    },
+    {
+      "id": "serizawa-keisuke",
+      "entity_type": "person",
+      "name_ja": "芹沢銈介",
+      "name_kana": "せりざわ けいすけ",
+      "name_original": "Serizawa Keisuke",
+      "birth_year": 1895,
+      "death_year": 1984,
+      "short_bio": "型紙を使った染色を手がけた作家。沖縄の紅型などに学び、着物や屏風に加え、本の装幀にも仕事を広げました。柳宗悦に依頼された雑誌『工藝』の装幀を通じて、民藝運動に本格的に参加しました。",
+      "representative_works": [
+        {
+          "id": "serizawa-isopo-screen-mingeikan-1932",
+          "title_ja": "伊曽保物語屏風",
+          "title_original": "伊曽保物語屏風",
+          "date_label": "1932年",
+          "work_type": "染織・屏風",
+          "institution": "日本民藝館",
+          "source_url": "https://mingeikan.or.jp/special/ex202409/?id=link_event",
+          "creator_role": "制作",
+          "medium": "紬・型染",
+          "format": "4曲1隻",
+          "note": "日本民藝館の展覧会で紹介された1932年の屏風です。紹介図は部分図で、別の所蔵先にある同題の屏風と同一とはしていません。"
+        },
+        {
+          "id": "kogei-issue1-1931",
+          "title_ja": "雑誌『工藝』第1号・石皿特集",
+          "title_original": "工藝 第一号",
+          "date_label": "1931年1月",
+          "work_type": "雑誌・装幀",
+          "institution": "日本民藝館",
+          "source_url": "https://mingeikan.or.jp/annex/annex201609/",
+          "creator_role": "装幀",
+          "publisher": "聚楽社",
+          "note": "創刊号を対象とします。柳宗悦による創刊、芹沢銈介の装幀、聚楽社の刊行を分けて示します。1年分を納める帙や後の号とは別で、全120号の装幀を芹沢に帰属させるものではありません。",
+          "credits": [
+            {
+              "artist_id": "yanagi-muneyoshi",
+              "role": "創刊"
+            },
+            {
+              "artist_id": "serizawa-keisuke",
+              "role": "装幀"
+            },
+            {
+              "artist_id": "jurakusha",
+              "role": "刊行"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "mingeikan-serizawa-life",
+          "institution": "日本民藝館",
+          "title": "芹沢銈介作品",
+          "url": "https://mingeikan.or.jp/collection_series/serizawa_keisuke/?lang=ja",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mingeikan-serizawa-isopo1932",
+          "institution": "日本民藝館",
+          "title": "生誕130年 芹沢銈介の世界",
+          "url": "https://mingeikan.or.jp/special/ex202409/?id=link_event",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mingeikan-kogei-issue1",
+          "institution": "日本民藝館",
+          "title": "柳宗悦・蒐集の軌跡：『工藝』第1号",
+          "url": "https://mingeikan.or.jp/annex/annex201609/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mingei",
+          "role": "染色家・装幀の作家",
+          "description": "布や屏風だけでなく、雑誌そのものの作りにも工芸の考えを生かしました。"
+        }
+      ],
+      "name_reading": "せりざわ けいすけ"
+    },
+    {
+      "id": "yanagi-muneyoshi",
+      "entity_type": "person",
+      "name_ja": "柳宗悦",
+      "name_kana": "やなぎ むねよし",
+      "name_original": "Yanagi Muneyoshi",
+      "birth_year": 1889,
+      "death_year": 1961,
+      "short_bio": "日常の道具を調べ、集め、その美しさを文章や展示で伝えた思想家。民藝運動を進め、1936年に開館した日本民藝館の初代館長となりました。古い道具の収集・評価と、その道具を作った職人の仕事は別の役割です。",
+      "representative_works": [
+        {
+          "id": "kogei-issue1-1931",
+          "title_ja": "雑誌『工藝』第1号・石皿特集",
+          "title_original": "工藝 第一号",
+          "date_label": "1931年1月",
+          "work_type": "雑誌・装幀",
+          "institution": "日本民藝館",
+          "source_url": "https://mingeikan.or.jp/annex/annex201609/",
+          "creator_role": "創刊",
+          "publisher": "聚楽社",
+          "note": "創刊号を対象とします。柳宗悦による創刊、芹沢銈介の装幀、聚楽社の刊行を分けて示します。1年分を納める帙や後の号とは別で、全120号の装幀を芹沢に帰属させるものではありません。",
+          "credits": [
+            {
+              "artist_id": "yanagi-muneyoshi",
+              "role": "創刊"
+            },
+            {
+              "artist_id": "serizawa-keisuke",
+              "role": "装幀"
+            },
+            {
+              "artist_id": "jurakusha",
+              "role": "刊行"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "mingeikan-yanagi-life",
+          "institution": "日本民藝館",
+          "title": "柳宗悦と日本民藝館",
+          "url": "https://mingeikan.or.jp/about/soetsu/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mingeikan-kogei-issue1",
+          "institution": "日本民藝館",
+          "title": "柳宗悦・蒐集の軌跡：『工藝』第1号",
+          "url": "https://mingeikan.or.jp/annex/annex201609/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mingeikan-serizawa-life",
+          "institution": "日本民藝館",
+          "title": "芹沢銈介作品",
+          "url": "https://mingeikan.or.jp/collection_series/serizawa_keisuke/?lang=ja",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mingei",
+          "role": "思想家・収集家・出版活動の中心人物",
+          "description": "雑誌『工藝』の創刊を通じて考えを伝えた役割を示します。英国の古い鉢の作者としては扱いません。"
+        }
+      ],
+      "name_reading": "やなぎ むねよし"
     }
   ],
   "organizations": [
@@ -7210,6 +7619,61 @@
           "description": "デザイン集団の活動史と、個別製品の製造者の記録を混同せずに見ます。"
         }
       ]
+    },
+    {
+      "id": "jurakusha",
+      "entity_type": "organization",
+      "name_ja": "聚楽社",
+      "name_kana": "じゅらくしゃ",
+      "name_original": "聚楽社",
+      "date_label": "1931年の刊行記録あり（設立・終了年は未詳）",
+      "short_bio": "雑誌『工藝』創刊号の刊行者として記録される出版社。工芸を紹介する雑誌を届ける役割を担い、記事の執筆や表紙の装幀を行った個人とは区別します。",
+      "representative_works": [
+        {
+          "id": "kogei-issue1-1931",
+          "title_ja": "雑誌『工藝』第1号・石皿特集",
+          "title_original": "工藝 第一号",
+          "date_label": "1931年1月",
+          "work_type": "雑誌・装幀",
+          "institution": "日本民藝館",
+          "source_url": "https://mingeikan.or.jp/annex/annex201609/",
+          "creator_role": "刊行",
+          "publisher": "聚楽社",
+          "note": "創刊号を対象とします。柳宗悦による創刊、芹沢銈介の装幀、聚楽社の刊行を分けて示します。1年分を納める帙や後の号とは別で、全120号の装幀を芹沢に帰属させるものではありません。",
+          "credits": [
+            {
+              "artist_id": "yanagi-muneyoshi",
+              "role": "創刊"
+            },
+            {
+              "artist_id": "serizawa-keisuke",
+              "role": "装幀"
+            },
+            {
+              "artist_id": "jurakusha",
+              "role": "刊行"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "mingeikan-kogei-issue1",
+          "institution": "日本民藝館",
+          "title": "柳宗悦・蒐集の軌跡：『工藝』第1号",
+          "url": "https://mingeikan.or.jp/annex/annex201609/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mingei",
+          "role": "雑誌『工藝』創刊号の刊行者",
+          "description": "1931年1月の創刊号について紹介します。雑誌の全刊行期間を、この出版社の存続期間とはしません。"
+        }
+      ],
+      "name_reading": "じゅらくしゃ"
     }
   ]
 }
