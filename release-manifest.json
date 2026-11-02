@@ -2018,8 +2018,8 @@
     },
     {
       "path": "tests/home-features.cjs",
-      "bytes": 4772,
-      "sha256": "185a599e3f4b1b544a34d51d5a72a7494d10bd1a267511043b8b3232e60cfb44"
+      "bytes": 5035,
+      "sha256": "bc7a8e76d22c84838d86c01b955ff68392605501f9d2ac4923f7a453d1cbf860"
     },
     {
       "path": "tests/reader-copy-consistency.py",
