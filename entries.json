@@ -3632,7 +3632,7 @@
         "institution": "Museum of Modern Art",
         "inspection": "official-domain search returned collection interpretation",
         "supports": [
-          "unbuilt house design",
+          "共同の住宅設計をもとにした抽象的な空間研究。特定の建物の設計図ではない。",
           "asymmetric planar architecture as integration of art and life"
         ],
         "image_reuse": "not established"
@@ -3729,16 +3729,16 @@
         "date": "1923",
         "domain": "建築構想",
         "reason": "MoMAは、色のついた平面の部品が、空いた中心の周りで、左右対称ではないつり合いをつくる案と説明しています。絵画、彫刻、建築を一つにしようとした考え方を見る例です。",
-        "limitation": "実際に完成した住宅ではありません。建てられなかった住宅を立体的に示した、軸測図（じくそくず）です。完成した建物の写真の代わりには使いません。",
+        "limitation": "共同で考えた住宅の設計をもとに、平らな面どうしの関係を探った軸測図（じくそくず）です。MoMAは、特定の建物を建てるための設計図ではないと説明しています。完成した建物の写真でもありません。",
         "evidence": "https://www.moma.org/collection/works/232?art_term_slug=de-stijl&sov_referrer=art_term",
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
         "image_adoption": "保留",
         "reading_intro": {
-          "heading": "建てられなかった家の案を、立体の図で考える。",
+          "heading": "建てる家の設計図から離れ、空間の関係を考える。",
           "lead": [
-            "建てるために考えられた家の案です。",
+            "共同で考えた住宅の設計をもとに、空間の関係を探った作品です。",
             "色のついた平らな部品を、空いた中心のまわりに組み合わせています。",
             "完成した家を写した写真ではありません。"
           ]
@@ -4050,7 +4050,15 @@
         "赤・黄・青は、それぞれどこに、どれくらいの広さで置かれていますか。"
       ]
     },
-    "representative_count": 7
+    "representative_count": 7,
+    "artist_ids": [
+      "piet-mondrian",
+      "gerrit-rietveld",
+      "theo-van-doesburg",
+      "cornelis-van-eesteren",
+      "vilmos-huszar",
+      "truus-schroder-schrader"
+    ]
   },
   {
     "name": "Russian Constructivism",
@@ -4368,7 +4376,7 @@
         "identity_checks": [
           "34.9 × 28.2 cmの紙図案を選定。別寸法の同名作品と区別。",
           "実布を追加する際は図案年と製造年、工場、素材、所蔵番号を確認。",
-          "作者PopovaとStepanovaを入替可能な表記にしない。"
+          "この図案の作者はポポーワです。ステパノーワの作品とは区別します。"
         ],
         "reading_intro": {
           "heading": "布をつくる前に、紙で模様を考える。",
@@ -4834,7 +4842,21 @@
         "共同で使う机の図を見るなら、作業する面と、本を読む面はどう違うでしょう。"
       ]
     },
-    "representative_count": 6
+    "representative_count": 6,
+    "artist_ids": [
+      "vladimir-tatlin",
+      "nikolai-punin",
+      "alexander-rodchenko",
+      "liubov-popova",
+      "el-lissitzky",
+      "vladimir-mayakovsky"
+    ],
+    "organization_ids": [
+      "izo-nkp",
+      "pressa-soviet-pavilion-committee",
+      "m-dumont-schauberg",
+      "rsfsr-state-publishing-house"
+    ]
   },
   {
     "name": "Swiss / International Typographic Style",

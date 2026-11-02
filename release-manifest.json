@@ -1,8 +1,8 @@
 {
-  "release": "public-content-bauhaus-20261102-2006",
+  "release": "public-content-russian-constructivism-20261102-2038",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T20:06:00+09:00",
+  "frozen_at": "2026-11-02T20:38:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 268941,
-      "sha256": "06e157144c64d990ef836c8c563b0002bc4551d4435adaba613dc4bee0bb784c"
+      "bytes": 316900,
+      "sha256": "4c84b9f89649ccde9162c42665f44b4594dd6ad895f69e0d17ca5c0506bb1ea0"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1387,14 +1387,19 @@
       "sha256": "66ec20cec44cb9bf85e758501d327cde4fb776bb97bcedbdbd261a857afac9f9"
     },
     {
+      "path": "de-stijl-reading.css",
+      "bytes": 110,
+      "sha256": "554618da7e7f2f1dc064c9a685ed18eb27667f6d0f43ad478ca1c92c3a838e9f"
+    },
+    {
       "path": "deep-reading.css",
       "bytes": 2524,
       "sha256": "1cdb3d541116bfd2f263a01c37dce40123b38c5ba45869caa387023628162b84"
     },
     {
       "path": "entries.json",
-      "bytes": 1866690,
-      "sha256": "94a29aa55853bf709ad84c3e005311a284cc507a1af2cad0c398317061a72397"
+      "bytes": 1867439,
+      "sha256": "0e073542ac6e9b85fc33c36831fbc5d188ed7981aceb5eb24a94d83f65abadc4"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1478,8 +1483,8 @@
     },
     {
       "path": "entries/de-stijl.html",
-      "bytes": 34989,
-      "sha256": "2eb2ba15f9884adf9357f8832fac22f32d31500862f016458a526669f58ed1d8"
+      "bytes": 45548,
+      "sha256": "05d918bbc0006755749cf32a4ec1daebf6afc966a3d7205355ce5db48464b720"
     },
     {
       "path": "entries/esdi-rio.html",
@@ -1718,8 +1723,8 @@
     },
     {
       "path": "entries/russian-constructivism.html",
-      "bytes": 49934,
-      "sha256": "a1e1d969c14faf246ce64e343ba405865171fab727f2d29a086623ce50c0b9d8"
+      "bytes": 65073,
+      "sha256": "4e1e98b66e38b4676db538f614533b0313388bb3c8e637021061f26748ebb658"
     },
     {
       "path": "entries/santiniketan.html",
@@ -1869,7 +1874,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "9f14b1f4aca2d82e95bd5756ddb6b492d492b36fba5373044efec03e10d17853"
+      "sha256": "0e0293a7eb6c5ae1efc33d78b35999f063018a858ecae4901ab89be1b9478f16"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1878,8 +1883,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 26640,
-      "sha256": "c75331d7966db2882875b5031f14567e51de9fcf5e96c40598b7942318c6cb09"
+      "bytes": 26820,
+      "sha256": "01950f34201af19b2e2d0cc0ae6951842aa2cec1d42cf94189c5e3ef69597c4d"
     },
     {
       "path": "logo-provenance.json",
@@ -1934,7 +1939,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "f74d84f866a79919625081a99e58e994a3d0276aae4c2ad7c5364cf0f2dbb843"
+      "sha256": "49d0c17d4f285d33c4f13fb0be307098753f7b37ffafc4cdf6cd6c1f6075ba98"
     },
     {
       "path": "site.webmanifest",
@@ -1944,7 +1949,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "b7a310e76d38364182a1363b339364128a510578a245ff129df9289b8e8157a7"
+      "sha256": "b6417b57578c4c2130dd02a7a943c44a8569a1af2bf81326fb388a1d5c4bd096"
     },
     {
       "path": "study-images.js",
@@ -1988,8 +1993,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 29950,
-      "sha256": "c9a1c9fe4d3cd7e76c7bd0da50975dbe2c229f48024de0bfa0ac8fe6e4924ee2"
+      "bytes": 30027,
+      "sha256": "847a49b44c7f6d6b94581b196677e2c695509b8f6e1f08a07334b7ad57708be9"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
