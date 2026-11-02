@@ -40,7 +40,7 @@ def image_html(im,reference=False):
  variants=[v for v in variants if v.get('local_file') and public_asset(v) and isinstance(v.get('width'),int)]
  variants.sort(key=lambda v:v['width'])
  display=next((v['local_file'] for v in variants if v['width']>=min(w,1000)),variants[-1]['local_file'] if variants else f)
- srcset=(' srcset="'+', '.join('../'+E(v['local_file'])+' '+str(v['width'])+'w' for v in variants)+'" sizes="(max-width:700px) 88vw, 1200px"') if variants else '' 
+ srcset=(' srcset="'+', '.join('../'+E(v['local_file'])+' '+str(v['width'])+'w' for v in variants)+'" sizes="(max-width:700px) 88vw, 1200px"') if variants else ''
  notes=im.get('visual_notes') or ([dict(title='ここを見てみよう。',text=im['viewing_point'])] if im.get('viewing_point') else [])
  # A single note spans all columns; no empty three-column desktop layout.
  observations=''.join(f'<article{chr(32)+"style="+chr(34)+"grid-column:1/-1"+chr(34) if len(notes)==1 else ""}><h3>{E(n.get("title","見る手がかり"))}</h3>{pp(n.get("text",""))}</article>' for n in notes)
@@ -62,7 +62,7 @@ def representative(w,n):
  if w.get('reason') and w.get('reason') not in lines:record+=pp(w['reason'])
  return f'''<article class="representative"><span class="work-no">{n:02}</span><div><h3>{E(heading)}</h3><p class="note">{E(kind)}</p>{pp(lines)}{link(w.get('evidence') or w.get('source_url'),'作品・資料の出典を見る')}<details class="work-record"><summary>作品・資料の記録を読む</summary><p>{label}：{E(original)}</p>{record}</details></div></article>'''
 
-def render(entry,template,stamp):
+def render(entry,template,stamp,navigation_html=""):
  slug=entry['slug'];title=entry['title_ja'];canonical=BASE+'entries/'+slug+'.html'
  if not re.fullmatch(r'[a-z0-9-]+',slug):raise ValueError('Unsafe slug')
  header=re.search(r'<header\b.*?</header>',template,re.S)[0]
@@ -128,6 +128,7 @@ def render(entry,template,stamp):
   body+='<li>'+link(s['url'],' — '.join(v for v in [s.get('institution'),s.get('title')] if v) or '出典資料')+'</li>'
  body+='</ol>'+pp(entry.get('representativeness_limit',''))+'<p class="note">'+status+'</p></section></main>'
  scripts=''.join(re.findall(r'<script src="[^\"]+"[^>]*></script>',template))
+ body = body.replace('</main>', navigation_html+'</main>')
  return head+body+footer+scripts+'</body></html>\n'
 
 def main():
@@ -140,7 +141,9 @@ def main():
  stamp=args.stamp or datetime.now(timezone(timedelta(hours=9))).replace(second=0,microsecond=0).isoformat()
  template=(site/'entries/flat-design.html').read_text();(out/'entries').mkdir(parents=True,exist_ok=True)
  for e in entries:
-  text=render(e,template,stamp)
+  import runpy
+  nav = runpy.run_path(str(Path(__file__).with_name('chapter-navigation.py')))['navigation'](site, e['slug'], json.loads(args.entries.read_text()))
+  text=render(e,template,stamp,nav)
   for prohibited in ['/tmp/','/workspace/','libfile_','sediment://','QA-ONLY-manifest']:
    if prohibited in text:raise ValueError('Private data in rendered HTML')
   (out/'entries'/f'{e["slug"]}.html').write_text(text)
