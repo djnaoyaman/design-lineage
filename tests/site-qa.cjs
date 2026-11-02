@@ -83,6 +83,13 @@ for(const width of [320,390,1280]){
   if(["typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web"].includes(slug)){await page.locator("#representative-works").scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/${slug}-expanded-${width}.png`});const parts=await page.locator('.segmented-title .title-part').evaluateAll(xs=>xs.map(x=>{const r=document.createRange();r.selectNodeContents(x);return {lines:r.getClientRects().length,left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right};}));assert(parts.every(x=>x.lines===1&&x.left>=0&&x.right<=width+1),'Semantic title parts fit');await page.locator(".study-title").screenshot({path:`qa-artifacts/${slug}-title-${width}.png`});}
   if(['art-nouveau','rinpa','surrealism','art-deco','mid-century-modern','mexican-muralism','ito-jakuchu','new-typography','international-style','dansaekhwa'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
    const entry=entries.find(e=>e.slug===slug);
+   if(slug==='new-typography'){
+    assert.equal(entry.adopted_images.length,0);assert.equal(entry.representatives.length,6);assert.equal(entry.reference_images.length,1);
+    const precedent=entry.reference_images[0],original=entries.find(e=>e.slug==='russian-constructivism').adopted_images.find(i=>i.id===precedent.id);
+    for(const key of ['work_id','local_file','sha256','accession','license','license_url','source_page'])assert.equal(precedent[key],original[key]);
+    assert.equal(await page.locator('.reference-art').count(),1);assert((await page.locator('.reference-art').textContent()).includes('関連する先行例'));
+    assert.equal(await page.getByText(entry.image_status_note,{exact:true}).count(),1);
+   }
    const sourceSizes=await page.locator('.collected-art img').evaluateAll(async xs=>Promise.all(xs.map(async i=>{const raw=new Image();raw.src=i.currentSrc;await raw.decode();return {width:i.getBoundingClientRect().width,natural:raw.naturalWidth,src:i.currentSrc};})));
    assert(sourceSizes.every(x=>x.width<=x.natural+0.5),'Expanded chapter actual image source is not enlarged');
    fs.writeFileSync(`qa-artifacts/deep-${slug}-source-sizes-${width}.json`,JSON.stringify(sourceSizes,null,2));
