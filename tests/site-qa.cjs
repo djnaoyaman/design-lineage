@@ -106,6 +106,13 @@ for(const width of [320,390,1280]){
   }
   if(['art-nouveau','rinpa','surrealism','art-deco','mid-century-modern','mexican-muralism','ito-jakuchu','new-typography','international-style','dansaekhwa'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
    const entry=entries.find(e=>e.slug===slug);
+   if(slug==='surrealism'){
+    assert.equal(entry.adopted_images.length,0);assert.equal(entry.representatives.length,7);assert.equal(entry.reference_images.length,1);
+    const precedent=entry.reference_images[0];assert.equal(precedent.reference_role,'related_precedent');assert.equal(precedent.accession,'2009.53');assert.equal(precedent.year,'1881年');
+    assert.equal(await page.locator('.reference-art').count(),1);assert((await page.locator('.reference-art').textContent()).includes('正式なメンバー作品ではなく'));
+    assert.equal(await page.getByText(entry.image_status_note,{exact:true}).count(),1);
+    const originalLink=page.locator('.reference-art .art-fullsize');assert((await originalLink.getAttribute('href')).endsWith('klinger-abduction-met-original.jpg'));
+   }
    if(slug==='new-typography'){
     assert.equal(entry.adopted_images.length,0);assert.equal(entry.representatives.length,6);assert.equal(entry.reference_images.length,1);
     const precedent=entry.reference_images[0],original=entries.find(e=>e.slug==='russian-constructivism').adopted_images.find(i=>i.id===precedent.id);

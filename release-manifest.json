@@ -1,8 +1,8 @@
 {
-  "release": "public-content-hideki-nakajima-20261102-1931",
+  "release": "public-content-surrealism-20261102-1933",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T19:31:00+09:00",
+  "frozen_at": "2026-11-02T19:33:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 156547,
-      "sha256": "fd7d5fda4100418ec05332733869f6470a5ba389b776859775ba4e5b77871b4c"
+      "bytes": 159938,
+      "sha256": "6b33e23c1b5d6df478295b8b9047f69ca3a4c441e3aedd64a048f7dc4fc39d60"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -772,6 +772,11 @@
       "sha256": "a8f92d13926b183184a46783e0ae3a318ea7d93d1c6ac2c761bfcac07a922814"
     },
     {
+      "path": "assets/klinger-abduction-met-original.jpg",
+      "bytes": 1069972,
+      "sha256": "6159889c2b83f00c4eb06e0cc804a7ab6c20e0570a6900ab43adedf122df961e"
+    },
+    {
       "path": "assets/korin-yatsuhashi-single-screen-720.jpg",
       "bytes": 165786,
       "sha256": "49bb34f692f0dee635e9843724757abcc4808e1c6cc19525dc724857f2513b69"
@@ -1383,8 +1388,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1859804,
-      "sha256": "b68f47d802dfec4a6869d1b7d66dd921d05d9ac75ebeba33f33df94069c39921"
+      "bytes": 1865467,
+      "sha256": "80c5f0b96c1a5638b4269b06f63add18dfce109fd0a72b1e90aa499d05ec5edb"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1763,8 +1768,8 @@
     },
     {
       "path": "entries/surrealism.html",
-      "bytes": 41464,
-      "sha256": "dde65443382e08d3998b01d5bc6236734a2ca1e17230bb1c142c86374925b8ae"
+      "bytes": 48220,
+      "sha256": "7267e70e9ef84ff7bfc193277148117977eee6a1c4ef514354828eb48dd72f34"
     },
     {
       "path": "entries/swiss-style.html",
@@ -1859,7 +1864,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "9432fb8745cc446e924a80c0ab6ea5eee41eb8018867b7b124da6eceef18dc5d"
+      "sha256": "16220a9cb47bed981b6330941717c56d6c9f9429e2a78915489c17a2269c20bb"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1869,7 +1874,7 @@
     {
       "path": "llms.txt",
       "bytes": 26149,
-      "sha256": "873229c4dc26eba3f013a3e61c1630457cab35947be6d1fc0838fbb7f6b81eb2"
+      "sha256": "87e610f786cd87294e0c72d2bfc2163afc366f8f27b0e366fa485f7b7bd145eb"
     },
     {
       "path": "logo-provenance.json",
@@ -1893,8 +1898,8 @@
     },
     {
       "path": "reference-image-rights.json",
-      "bytes": 23939,
-      "sha256": "760090eb6fb391f2f71fe2148b9ac1f35b3629b5cf6606ce8b41f591dc62c742"
+      "bytes": 27645,
+      "sha256": "bca8cc91ed1ba9c9eb300a270d38cfbcf4a03bad8498d3e62ee2accbbba1fc52"
     },
     {
       "path": "robots.txt",
@@ -1924,7 +1929,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "2402e7b999da00770a04143170c97987bdcb3cc9ba31077761bbfd227ac9767a"
+      "sha256": "106aa43bdb47ee37807e7710da42881950cae0f8ea885c94a669aa084709043a"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1939,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "9a378dbb7b0e33056a894052114dd57eb0ddd0b86afa36113ee1b2c23f973701"
+      "sha256": "3162d31845a178966b2cd4a46ff0ca896f320fc8c6bffd717a924a5f06bd6f84"
     },
     {
       "path": "study-images.js",
@@ -1978,8 +1983,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 26679,
-      "sha256": "000fff36e9015b4d4d82b8a3f8018903fd2f26896083538a8c79c3ef1f57a3c4"
+      "bytes": 27474,
+      "sha256": "fc2a498029b1231fcda3d7affe318a7443c9a097afcb89989a3a41f7f35e8eae"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
