@@ -7780,16 +7780,16 @@
     "type": "建築の様式・批評用語",
     "period": "成立：1920–30年代の欧州／戦後米国の展開も比較（1952年の例）",
     "region": "欧州の1920–30年代の例と、米国の1950年代の展開例。その他地域は未充足",
-    "summary": "インターナショナル・スタイルは、1920〜30年代のヨーロッパの近代建築を説明する言葉です。直線的な形や、鋼・鉄筋コンクリート・ガラスの使い方に注目します。MoMAは、この名前をHitchcockとJohnsonによる命名と結びつけています。「白い箱」とひとまとめにせず、建物を支える仕組み、部屋の仕切り、窓などの開口部、室内のつながりを見比べます。",
-    "context": "工業生産が進み、新しい暮らし方が求められる中で、建物の構造や材料、住まいの空間を考え直す試みが進みました。UNESCOは、Tugendhat邸の空間のつくり方と工業生産の関係を評価しています。1932年のMoMA建築展には、Villa Savoyeの模型などが出品されました。その後の米国では、Lever Houseのような企業のオフィスにも展開しました。住宅、展示のための資料、オフィスは、それぞれの目的を分けて比較します。",
+    "summary": "ガラスの外壁や白い箱だけでなく、柱が支える空間、窓の繰り返し、人が歩く道筋を見てみましょう。インターナショナル・スタイルは、1920〜30年代の欧州の近代建築をまとめて説明する批評の言葉です。1932年のMoMA建築展と結びつき、後には米国の企業建築を考える言葉にもなりました。一つの組織や、全員共通の設計規則を指すわけではありません。",
+    "context": "新しい材料や工業生産を使って、住まい、学校、仕事場をどうつくるか。近代の建築家は、この問いに異なる答えを出しました。1932年のニューヨークの展覧会は、欧州を中心とする作品を模型や写真で紹介し、共通する形を読み取りました。ただし、展示に含まれた建築家が全員、その分類に賛成したわけではありません。",
     "recognition": {
       "color": "決まった共通の配色は確認できません。Tugendhat邸のローズウッド（木材）やオニキス（石材）、Lever Houseの青緑色のガラスやステンレス鋼など、材料と色の関係を見ます。白い外壁だけでは判断できません。",
       "type": "建築そのものに共通する書体はありません。建物の名前を示す文字、展覧会の印刷物、案内表示の文字は、それぞれ別の対象として調べます。",
       "form": "直線的な形や材料に加えて、何が建物を支えているかを見ます。Tugendhat邸では鋼の梁（はり）、床を支えるコンクリートの板、大きな窓を確認できます。MoMAはVilla Savoyeについて、ピロティ（柱で建物を持ち上げた地上部分）、自由な平面と立面（部屋の配置と外壁の構成）、横につながる窓、屋上庭園という五原則を説明しています。",
       "composition": "Tugendhat邸では、空間がつながりながら、ローズウッドやオニキスでゆるやかに区切られます。Villa Savoyeでは、自由な部屋の配置と、スロープやテラスの関係を見ます。Lever Houseでは、縦に立つ板状の建物と低く横に広がる部分、開かれた地上階、中庭を比べます。これらは各作品の工夫であり、全作品に当てはまる条件ではありません。"
     },
-    "comparison": "近代建築の広い動きを指すModern Movementと、International Styleは同じ意味ではありません。UNESCOのル・コルビュジエ作品群の解説は、Purism（ピュリスム）、Brutalism（ブルータリズム）、彫刻のような形を区別し、近代建築の幅広い展開を示しています。また、建築のInternational Styleと、文字や紙面のデザインのInternational Typographic Styleも別の項目です。",
-    "modern": "Tugendhat邸では、2010〜12年の修復で1930年当初の姿を目指したと記録されています。Lever Houseは1952年の完成、2001年の外装の復元、2023年の改修を分けて記録します。今の写真が、完成当初の姿をそのまま写しているとは限りません。近代建築が世界に広がった理由を、すべてInternational Styleの影響とはいえません。ほかの地域や後の時代への具体的な影響は、追加の調査が必要です。",
+    "comparison": "インターナショナル・スタイルは、近代建築全体や、バウハウスという学校全体と同じ意味ではありません。建築の共通点を読み取る批評上の枠組みです。建築家本人がその分類を拒む場合もありました。また、スイスを中心とするグラフィックデザインの「インターナショナル・タイポグラフィック・スタイル」とは別の章です。",
+    "modern": "トゥーゲントハット邸では、2010〜12年の修復で1930年当初の姿を目指したと記録されています。リーバー・ハウスは1952年の完成、2001年の外装の復元、2023年の改修を分けて記録します。今の写真が、完成当初の姿をそのまま写しているとは限りません。近代建築が世界に広がった理由を、すべてインターナショナル・スタイルの影響とはいえません。ほかの地域や後の時代への具体的な影響は、追加の調査が必要です。",
     "modern_section_label": "後の時代の見方と保存（影響の範囲は未確認）",
     "overview_evidence_status": "partial_primary_support_retained_source_summaries_not_visual_inspection",
     "source_ids": [
@@ -7800,200 +7800,56 @@
       "nyc-lever-designation",
       "som-lever-designers",
       "som-lever-project",
-      "moma-lever-model"
+      "moma-lever-model",
+      "tugendhat-street-2012-source",
+      "tugendhat-street-2012-image",
+      "moma-1932-exhibition",
+      "moma-wright-boundary",
+      "cac-international-principles",
+      "flc-savoye-building",
+      "dessau-building",
+      "dessau-locations",
+      "bauhaus-gropius-biography",
+      "moma-mies-biography",
+      "vt-deblois-biography",
+      "pritzker-bunshaft-biography"
     ],
     "source_urls": [
       "https://www.moma.org/collection/terms/international-style",
-      "https://whc.unesco.org/en/list/1052",
-      "https://www.moma.org/collection/works/82339?locale=en",
+      "https://whc.unesco.org/en/list/1052/",
+      "https://www.moma.org/collection/works/82339",
       "https://whc.unesco.org/en/list/1321/",
       "https://s-media.nyc.gov/agencies/lpc/lp/1277.pdf",
       "https://www.som.com/news/building-of-the-day-lever-house/",
       "https://www.som.com/projects/lever-house/",
-      "https://www.moma.org/collection/works/82490?artist_id=8170&page=1&sov_referrer=artist"
+      "https://www.moma.org/collection/works/82490",
+      "https://commons.wikimedia.org/wiki/File:Brno,_Černá_Pole,_Černopolní,_vila_Tugendhat_(01).jpg",
+      "https://www.moma.org/calendar/exhibitions/2044",
+      "https://www.moma.org/calendar/exhibitions/418",
+      "https://www.architecture.org/online-resources/architecture-encyclopedia/international-style/",
+      "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/",
+      "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+      "https://bauhaus-dessau.de/en/venues/",
+      "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
+      "https://www.moma.org/artists/7166-ludwig-mies-van-der-rohe",
+      "https://aspace.lib.vt.edu/agents/people/1438",
+      "https://www.pritzkerprize.com/laureates/1988-bunshaft"
     ],
     "pending_representative_slots": [],
-    "representative_count": 3,
+    "representative_count": 4,
     "ideal_target_count": 3,
-    "representativeness_limit": "代表例として紹介したい候補は3件です。一つは住宅そのもの、一つは別の住宅を示す1932年の展覧会模型、もう一つは1952年に完成した米国の建物です。空間の組み立て方、展覧会で考えを伝えること、住宅以外の使い道や後の時代への広がりを比べます。ただし、建物と模型の違いは保ちます。欧米以外の地域差、都市計画、ほかの用途、現代への具体的な影響は、まだ十分に取り上げていません。3作品とも画像を採用済みという意味ではありません。",
+    "representativeness_limit": "デッサウの学校、ブルノとポワシーの住宅、ニューヨークの企業建築を比べます。サヴォア邸の代表資料はMoMAが1932年と記録する模型で、実際の建物とは別です。この選択だけで世界の近代建築を代表させず、学校教育、住宅、企業の仕事場という用途の違いを読みます。画像がない作品は、一次資料の作品情報へ案内します。",
     "rights_cleared_adoptable_candidates": [],
     "image_count_acquired": 1,
-    "publication_status": "parent_review_required_not_added_to_public_entries",
+    "publication_status": "published_article_with_image_gaps",
     "image_publication_allowed": false,
     "slug": "international-style",
     "primary_reviewed": true,
-    "reviewed_representatives": [
-      {
-        "title": "Tugendhat House",
-        "creator": "Ludwig Mies van der Rohe（建築設計）",
-        "date": "建設1929–1930／完成1930",
-        "domain": "住宅建築本体",
-        "reason": "UNESCOがInternational Styleの顕著な例と明記。構造材と内部の緩やかな区分、連続する空間の関係を説明する作例として選ぶ。",
-        "limitation": "一住宅の空間構成を様式全体に一般化しない。現在の修復後写真と1930年の状態、MoMA所蔵模型と建築本体は別々の記録である。",
-        "identity": {
-          "object_kind": "建築本体",
-          "architect": "Ludwig Mies van der Rohe",
-          "patrons": [
-            "Grete Tugendhat",
-            "Frits Tugendhat"
-          ],
-          "construction_period": "1929–1930",
-          "building_completion_date": "1930",
-          "building_design_date": null,
-          "restoration_period": "2010–2012",
-          "restoration_goal": "1930年当初の姿を目指す",
-          "model_fabrication_date": null,
-          "photograph_date": null,
-          "date_note": "UNESCOの建築本体の年を使用。MoMA模型記録の1928–1930を本体建設年へ転記していない。"
-        },
-        "source_based_observation": "鋼の梁とコンクリートの床スラブ、大きな窓、ローズウッドとオニキスによる内部区分。親が転送したUNESCO解説では空間の連続を示す。",
-        "source_ids": [
-          "unesco-tugendhat"
-        ],
-        "source_urls": [
-          "https://whc.unesco.org/en/list/1052"
-        ],
-        "identity_checks": [
-          "掲載対象が建築本体の写真か模型かを確定する。",
-          "撮影日と撮影箇所、修復前後の状態を確認する。",
-          "建築作品と写真それぞれの権利者・商用条件を確認する。"
-        ],
-        "work_rights": "未確認",
-        "reproduction_rights": "未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は取得済一次機関解説の保持情報に基づく。",
-        "evidence": "https://whc.unesco.org/en/list/1052"
-      },
-      {
-        "title": "Villa Savoye, Poissy-sur-Seine, France (Scale model, 1:33.3)",
-        "creator": "Le Corbusier (Charles-Édouard Jeanneret), Pierre Jeanneret（建築設計者として区別。模型製作者は未確認）",
-        "date": "1932（MoMA模型記録の年。建築竣工年ではない）",
-        "domain": "建築を表す縮尺模型・展覧会資料",
-        "reason": "五原則を説明する建築の模型であり、1932年MoMA初の建築展で提示された歴史的資料でもある。建築の設計思想と展覧会を通した伝達の両面を補う。",
-        "limitation": "模型の実物・画像は未実見。模型に全五原則の細部がどこまで再現されているかは未確認。建築設計者の名から模型の実制作担当を推定しない。",
-        "identity": {
-          "object_kind": "縮尺模型",
-          "scale": "1:33.3",
-          "record_year": "1932",
-          "building_architects": [
-            "Le Corbusier (Charles-Édouard Jeanneret)",
-            "Pierre Jeanneret"
-          ],
-          "model_maker": null,
-          "model_fabrication_date": null,
-          "building_design_date": null,
-          "building_completion_date": null,
-          "exhibition_year": "1932",
-          "exhibition_context": "MoMA初の建築展",
-          "photograph_date": null,
-          "date_note": "1932は模型記録および出展の年。建築完成年や、未確認の模型制作担当・制作工程を補わない。"
-        },
-        "source_based_observation": "MoMA解説はピロティ、自由な平面、自由な立面、水平連続窓、屋上庭園を説明し、ランプ、テラス、上部サンデッキにも言及する。",
-        "source_ids": [
-          "moma-savoye-model",
-          "unesco-corbusier-series"
-        ],
-        "source_urls": [
-          "https://www.moma.org/collection/works/82339?locale=en",
-          "https://whc.unesco.org/en/list/1321/"
-        ],
-        "identity_checks": [
-          "模型の製作者と制作年の意味、所蔵個体の詳細を確認する。",
-          "建築本体の設計・建設・竣工年を独立した資料で確認する。",
-          "五原則のうち模型写真で確認できる箇所を実見して限定する。",
-          "建築設計・模型・撮影画像の権利と商用条件をそれぞれ確認する。"
-        ],
-        "work_rights": "未確認",
-        "reproduction_rights": "未確認",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。記述は取得済一次機関解説の保持情報に基づく。",
-        "evidence": "https://www.moma.org/collection/works/82339?locale=en"
-      },
-      {
-        "title": "Lever House",
-        "creator": "Gordon Bunshaft、Natalie de Blois／Skidmore, Owings & Merrill（建築設計）",
-        "date": "建設1950–1952／完成1952（建築本体）",
-        "domain": "建築本体・住宅以外の作例",
-        "reason": "NYCのランドマーク指定報告がInternational Styleの展開における重要な建築と位置づける。垂直の板状ボリュームと水平の基壇、開放された地上階・中庭の関係を通して、住宅2例とは異なる用途と1950年代の展開を説明する。",
-        "limitation": "米国の一作例だけで世界的展開を代表させない。「米国初」等の最上級表現や階数は資料間の表記差を解消していないため採用しない。現況写真には外装復元・改修後の状態が含まれうる。MoMAの模型は本体とは別の物件として記録する。",
-        "identity": {
-          "object_kind": "建築本体",
-          "architectural_firm": "Skidmore, Owings & Merrill",
-          "building_designers": [
-            "Gordon Bunshaft",
-            "Natalie de Blois"
-          ],
-          "designer_name_variant_note": "MoMA模型記録ではNatalie Griffin de Bloisと表記。建築設計者としての役割と模型製作者を分ける。",
-          "construction_period": "1950–1952",
-          "building_completion_date": "1952",
-          "building_design_date": null,
-          "facade_restoration_year": "2001",
-          "renovation_year": "2023",
-          "photograph_date": null,
-          "date_note": "建設・完成はNYCとSOMの建築本体記述に基づく。2001と2023は後年の介入であり、建築の原作年代や未特定写真の撮影年ではない。"
-        },
-        "source_based_observation": "NYCは垂直の板状ボリュームと水平の基壇、ガラス・ステンレス鋼、開放された地上階・中庭を記述する。SOMは青緑色のガラスとステンレス鋼の外装、広場と塔状部分の関係を説明する。これをInternational Style全体の固定配色や統一構成とはしない。",
-        "source_ids": [
-          "nyc-lever-designation",
-          "som-lever-designers",
-          "som-lever-project",
-          "moma-lever-model"
-        ],
-        "source_urls": [
-          "https://s-media.nyc.gov/agencies/lpc/lp/1277.pdf",
-          "https://www.som.com/news/building-of-the-day-lever-house/",
-          "https://www.som.com/projects/lever-house/",
-          "https://www.moma.org/collection/works/82490?artist_id=8170&page=1&sov_referrer=artist"
-        ],
-        "identity_checks": [
-          "画像が建築本体かMoMA模型かを確認する。",
-          "建築設計者と模型製作者Theodore Conradを区別する。",
-          "写真の撮影時期と外装復元・改修前後の状態を確認する。",
-          "建築・模型・写真の各権利と商用利用条件を確認する。"
-        ],
-        "work_rights": "未確認。模型記録には©SOM LLPの表示あり。",
-        "reproduction_rights": "未確認。SOMの写真には写真家の著作権表示がある。",
-        "commercial_use": "自由な商用利用の許諾未確認・画像掲載不可",
-        "image_adoption": "未採用",
-        "image_count_acquired": 0,
-        "visual_inspection_status": "実画像未取得・未実見。保持された一次解説の要約に基づく。",
-        "evidence": "https://s-media.nyc.gov/agencies/lpc/lp/1277.pdf",
-        "related_object_records": [
-          {
-            "record_title": "Lever House, New York, New York (Scale model, 1/8\" = 1')",
-            "object_kind": "縮尺模型。本体とは別記録",
-            "scale": "1/8\" = 1'",
-            "record_date_label": "1950–1952",
-            "model_maker": "Theodore Conrad",
-            "listed_building_designers": [
-              "Skidmore, Owings & Merrill",
-              "Gordon Bunshaft",
-              "Natalie Griffin de Blois"
-            ],
-            "accession": "730.1959",
-            "gift": "Gift of Lever Brothers, 1953",
-            "gift_year": "1953",
-            "medium": "paper, wood, plastic, plexiglass, metal, aluminum paint（保持資料の材質列挙）",
-            "building_completion_date": null,
-            "photograph_date": null,
-            "date_note": "1950–1952はMoMA模型記録の年。所蔵番号の1959、寄贈1953、建築完成1952、撮影年を混同しない。模型の具体的制作工程と各年の関係は補わない。",
-            "copyright_notice": "©SOM LLP",
-            "source_id": "moma-lever-model",
-            "source_url": "https://www.moma.org/collection/works/82490?artist_id=8170&page=1&sov_referrer=artist",
-            "image_adoption": "未採用"
-          }
-        ]
-      }
-    ],
     "sources": [
       {
         "id": "moma-international-style",
         "url": "https://www.moma.org/collection/terms/international-style",
-        "institution": "Museum of Modern Art",
+        "institution": "ニューヨーク近代美術館（MoMA）",
         "inspection": "official-domain search returned full definition and collection list",
         "supports": [
           "European modern architecture1920s1930s",
@@ -8004,35 +7860,22 @@
       },
       {
         "id": "unesco-tugendhat",
-        "url": "https://whc.unesco.org/en/list/1052",
-        "institution": "UNESCO World Heritage Centre",
-        "inspection": "official property text returned in search2026-10-30",
-        "supports": [
-          "explicit outstanding InternationalStyle example",
-          "MiesvanderRohe architect; Grete/FritsTugendhat patrons",
-          "built1929–1930 finished1930",
-          "steel beams/concrete slabs/largewindows; rosewoodonyx subtleinterior divisions",
-          "2010–2012restoration sought original1930appearance"
-        ],
-        "image_reuse": "textCCBYSAIGO is not image/building-photo permission; no images adopted"
+        "institution": "ユネスコ世界遺産センター",
+        "title": "Tugendhat Villa in Brno",
+        "url": "https://whc.unesco.org/en/list/1052/",
+        "verified_at": "2026-11-02"
       },
       {
         "id": "moma-savoye-model",
-        "url": "https://www.moma.org/collection/works/82339?locale=en",
-        "institution": "MoMA",
-        "inspection": "object text and MoMAHighlights excerpt returned in search2026-10-30",
-        "supports": [
-          "LeCorbusier/PierreJeanneret VillaSavoye model1:33.3 recorddate1932",
-          "model included1932 firstMoMAarchitectureexhibition InternationalStyle context",
-          "pilotis freeplan freefacade horizontalwindows roofgarden",
-          "ramp terrace upper sun deck"
-        ],
-        "image_reuse": "no free commercial image permission established"
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "title": "Villa Savoye, scale model 1:33.3, 48.1932",
+        "url": "https://www.moma.org/collection/works/82339",
+        "verified_at": "2026-11-02"
       },
       {
         "id": "unesco-corbusier-series",
         "url": "https://whc.unesco.org/en/list/1321/",
-        "institution": "UNESCO World Heritage Centre",
+        "institution": "ユネスコ世界遺産センター",
         "inspection": "official property text returned in search2026-10-30",
         "supports": [
           "VillaSavoye iconicModernMovement FivePoints",
@@ -8044,7 +7887,7 @@
       {
         "id": "nyc-lever-designation",
         "url": "https://s-media.nyc.gov/agencies/lpc/lp/1277.pdf",
-        "institution": "NYC Landmarks Preservation Commission",
+        "institution": "ニューヨーク市歴史建造物保存委員会",
         "inspection": "1982designation report text returned in search2026-10-30; used for building history, not current legal advice",
         "supports": [
           "built1950–52 SOM GordonBunshaft named",
@@ -8057,7 +7900,7 @@
       {
         "id": "som-lever-designers",
         "url": "https://www.som.com/news/building-of-the-day-lever-house/",
-        "institution": "SOM",
+        "institution": "建築設計事務所SOM",
         "inspection": "official2016article text returned in search2026-10-30",
         "supports": [
           "GordonBunshaft/NataliedeBlois designers SOM",
@@ -8069,7 +7912,7 @@
       {
         "id": "som-lever-project",
         "url": "https://www.som.com/projects/lever-house/",
-        "institution": "SOM",
+        "institution": "建築設計事務所SOM",
         "inspection": "official project text returned in search2026-10-30",
         "supports": [
           "completion1952 renovation2023",
@@ -8081,36 +7924,99 @@
       },
       {
         "id": "moma-lever-model",
-        "url": "https://www.moma.org/collection/works/82490?artist_id=8170&page=1&sov_referrer=artist",
-        "institution": "MoMA",
-        "inspection": "individualmodel record text returned in search2026-10-30",
-        "supports": [
-          "SOM/GordonBunshaft/NatalieGriffindeBlois designers",
-          "modelmakerTheodoreConrad",
-          "modeldate1950–1952 record730.1959 giftLeverBrothers1953",
-          "paperwoodplasticplexiglassmetalaluminumpaint",
-          "copyrightSOMLLP"
-        ],
-        "image_reuse": "copyright displayed; not adopted"
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "title": "Lever House, scale model, 730.1959",
+        "url": "https://www.moma.org/collection/works/82490",
+        "verified_at": "2026-11-02"
       },
       {
         "id": "tugendhat-street-2012-source",
         "url": "https://whc.unesco.org/en/list/1052/",
-        "institution": "ブルノ、チェコ",
-        "title": "トゥーゲントハット邸――道路側の外観"
+        "institution": "ユネスコ世界遺産センター",
+        "title": "トゥーゲントハット邸（世界遺産記録）"
       },
       {
         "id": "tugendhat-street-2012-image",
         "url": "https://commons.wikimedia.org/wiki/File:Brno,_Černá_Pole,_Černopolní,_vila_Tugendhat_(01).jpg",
         "institution": "ウィキメディア・コモンズ",
         "title": "トゥーゲントハット邸――道路側の外観の画像と利用条件"
+      },
+      {
+        "id": "moma-1932-exhibition",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "title": "Modern Architecture: International Exhibition",
+        "url": "https://www.moma.org/calendar/exhibitions/2044",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "moma-wright-boundary",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "title": "Frank Lloyd Wright: Architect",
+        "url": "https://www.moma.org/calendar/exhibitions/418",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "cac-international-principles",
+        "institution": "シカゴ建築センター",
+        "title": "International Style",
+        "url": "https://www.architecture.org/online-resources/architecture-encyclopedia/international-style/",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "flc-savoye-building",
+        "institution": "ル・コルビュジエ財団",
+        "title": "Villa Savoye and Gardener’s Lodge",
+        "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "dessau-building",
+        "institution": "バウハウス・デッサウ財団",
+        "title": "Bauhaus Building",
+        "url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "dessau-locations",
+        "institution": "バウハウス・デッサウ財団",
+        "title": "Locations",
+        "url": "https://bauhaus-dessau.de/en/venues/",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "bauhaus-gropius-biography",
+        "institution": "バウハウス・コオペラツィオン",
+        "title": "Walter Gropius",
+        "url": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "moma-mies-biography",
+        "institution": "ニューヨーク近代美術館（MoMA）",
+        "title": "Ludwig Mies van der Rohe",
+        "url": "https://www.moma.org/artists/7166-ludwig-mies-van-der-rohe",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "vt-deblois-biography",
+        "institution": "バージニア工科大学・特別コレクション／大学文書館",
+        "title": "De Blois, Natalie, 1921–2013",
+        "url": "https://aspace.lib.vt.edu/agents/people/1438",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "pritzker-bunshaft-biography",
+        "institution": "プリツカー建築賞",
+        "title": "Gordon Bunshaft",
+        "url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+        "verified_at": "2026-11-02"
       }
     ],
-    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "status": "本文・作品例4件と人物5人、実作品画像1点を公開。画像の収録は継続中。",
     "representatives": [
       {
-        "title": "Tugendhat House",
-        "creator": "Ludwig Mies van der Rohe（建築設計）",
+        "title": "トゥーゲントハット邸",
+        "creator": "ルートヴィヒ・ミース・ファン・デル・ローエ（建築設計）",
         "date": "建設1929–1930／完成1930",
         "domain": "住宅建築本体",
         "reason": "UNESCOが、インターナショナル・スタイルの特に重要な例と明記しています。建物を支える材料と、室内をゆるやかに区切る方法、つながる空間の関係を説明するために選んでいます。",
@@ -8151,7 +8057,7 @@
         "visual_inspection_status": "掲載する街路側の外観写真を取得し、実画像を確認済みです。2012年5月31日撮影。室内や庭側の空間をこの写真で確認したとはしません。",
         "evidence": "https://whc.unesco.org/en/list/1052",
         "reading_intro": {
-          "heading": "部屋を細かく区切らず、つなげる。",
+          "heading": "トゥーゲントハット邸",
           "lead": [
             "部屋の区切り方と、つながり方を考えるための住宅です。",
             "家を支える材料と、中をゆるやかに分ける方法を、一緒に見ます。"
@@ -8160,15 +8066,16 @@
         "work_id": "tugendhat-street-2012",
         "image_ids": [
           "tugendhat-street-2012"
-        ]
+        ],
+        "title_original": "Tugendhat House"
       },
       {
-        "title": "Villa Savoye, Poissy-sur-Seine, France (Scale model, 1:33.3)",
-        "creator": "Le Corbusier (Charles-Édouard Jeanneret), Pierre Jeanneret（建築設計者として区別。模型製作者は未確認）",
+        "title": "サヴォア邸の模型（縮尺1:33.3）",
+        "creator": "ル・コルビュジエ、ピエール・ジャンヌレ（建築設計）／ル・コルビュジエ、セオドア・コンラッド（MoMA記載の模型制作）",
         "date": "1932（MoMA模型記録の年。建築竣工年ではない）",
         "domain": "建築を表す縮尺模型・展覧会資料",
         "reason": "建築の「五原則」という設計の考え方を説明する模型です。1932年にMoMAで開かれた最初の建築展で展示された、歴史的な資料でもあります。建物の設計思想と、それを展覧会で伝える活動の両方を見られます。",
-        "limitation": "模型そのものも、その画像も、まだ実際に見ていません。五原則の細部が、模型にどこまで再現されているかも未確認です。建物の設計者の名前だけで、実際に模型をつくった人は推測しません。",
+        "limitation": "建築本体の1931年の引き渡しと、模型記録の1932年を区別します。模型画像は新たに掲載していません。模型に表れた細部を実画像で確認したとはしません。",
         "identity": {
           "object_kind": "縮尺模型",
           "scale": "1:33.3",
@@ -8177,14 +8084,18 @@
             "Le Corbusier (Charles-Édouard Jeanneret)",
             "Pierre Jeanneret"
           ],
-          "model_maker": null,
+          "model_maker": [
+            "Le Corbusier (Charles-Édouard Jeanneret)",
+            "Theodore Conrad"
+          ],
           "model_fabrication_date": null,
-          "building_design_date": null,
-          "building_completion_date": null,
+          "building_design_date": "1928",
+          "building_completion_date": "1931",
           "exhibition_year": "1932",
           "exhibition_context": "MoMA初の建築展",
           "photograph_date": null,
-          "date_note": "1932は模型記録および出展の年。建築完成年や、未確認の模型制作担当・制作工程を補わない。"
+          "date_note": "1932はMoMA模型の記録年。模型制作担当はMoMAの明記による。建築本体は1928年設計、1931年夏に引き渡し。制作工程の詳細や撮影日は補わない。",
+          "accession": "48.1932"
         },
         "source_based_observation": "MoMA解説はピロティ、自由な平面、自由な立面、水平連続窓、屋上庭園を説明し、ランプ、テラス、上部サンデッキにも言及する。",
         "source_ids": [
@@ -8196,7 +8107,7 @@
           "https://whc.unesco.org/en/list/1321/"
         ],
         "identity_checks": [
-          "模型の製作者と制作年の意味、所蔵個体の詳細を確認する。",
+          "模型制作担当と1932年の記録を、建築本体の設計・完成年と区別する。",
           "建築本体の設計・建設・竣工年を独立した資料で確認する。",
           "五原則のうち模型写真で確認できる箇所を実見して限定する。",
           "建築設計・模型・撮影画像の権利と商用条件をそれぞれ確認する。"
@@ -8209,17 +8120,18 @@
         "visual_inspection_status": "実画像未取得・未実見。記述は取得済一次機関解説の保持情報に基づく。",
         "evidence": "https://www.moma.org/collection/works/82339?locale=en",
         "reading_intro": {
-          "heading": "建物の考え方を、小さな模型で伝える。",
+          "heading": "サヴォア邸の模型（縮尺1:33.3）",
           "lead": [
             "家の形を伝えるための、小さな模型です。",
             "1932年に美術館で開かれた、建築の展覧会でも使われました。",
             "実際の家と、家を説明する模型の違いにも目を向けます。"
           ]
-        }
+        },
+        "title_original": "Villa Savoye, Poissy-sur-Seine, France (Scale model, 1:33.3)"
       },
       {
-        "title": "Lever House",
-        "creator": "Gordon Bunshaft、Natalie de Blois／Skidmore, Owings & Merrill（建築設計）",
+        "title": "リーバー・ハウス",
+        "creator": "ゴードン・バンシャフト、ナタリー・ド・ブロワ／SOM（建築設計）",
         "date": "建設1950–1952／完成1952（建築本体）",
         "domain": "建築本体・住宅以外の作例",
         "reason": "ニューヨーク市のランドマーク指定報告は、この建物をインターナショナル・スタイルの広がりの中で重要なものとしています。縦に立つ板のような部分と、横に広がる土台、開かれた地上階や中庭の関係に注目します。住宅2例とは違う使い道と、1950年代の展開を説明する例です。",
@@ -8292,13 +8204,57 @@
           }
         ],
         "reading_intro": {
-          "heading": "たてに伸びる建物と、横に広がる土台。",
+          "heading": "リーバー・ハウス",
           "lead": [
             "会社のための建物です。",
             "たてに立つ板のような部分と、横に広がる土台を組み合わせています。",
             "地上階や中庭の開かれた場所も、家とは違う使い方を考える手がかりです。"
           ]
-        }
+        },
+        "title_original": "Lever House"
+      },
+      {
+        "title": "バウハウス・デッサウ校舎",
+        "title_original": "Bauhaus Building, Dessau",
+        "creator": "ヴァルター・グロピウスと個人事務所の協力者（建築設計）",
+        "date": "1925〜1926年（1926年に使用開始）",
+        "domain": "学校建築本体",
+        "reason": "住宅やオフィスに加え、教育と工房のための建築を比べます。用途ごとに違う大きさの部分がつながる構成です。",
+        "limitation": "学校としてのバウハウス全体を、インターナショナル・スタイルと同じ意味にしません。建物には戦災と修復の歴史があり、現在の写真と当初の材料は区別します。",
+        "identity": {
+          "object_kind": "建築本体",
+          "architectural_office": "Walter Gropius private office",
+          "building_designers": [
+            "Walter Gropius"
+          ],
+          "documented_associates": [
+            "Carl Fieger",
+            "Ernst Neufert",
+            "Otto Meyer-Ottens",
+            "Bernhard Sturtzkopf"
+          ],
+          "construction_period": "1925–1926",
+          "building_opening_year": "1926",
+          "interior_color_design": "Hinnerk Scheper and mural painting workshop"
+        },
+        "source_ids": [
+          "dessau-building",
+          "dessau-locations"
+        ],
+        "source_urls": [
+          "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+          "https://bauhaus-dessau.de/en/venues/"
+        ],
+        "image_count_acquired": 0,
+        "image_ids": [],
+        "reading_intro": {
+          "heading": "工房、教室、住む場所を、つなげる。",
+          "lead": [
+            "用途の違う部分を、違う大きさで組み合わせた校舎です。",
+            "一つの正面だけでなく、建物の周りを歩くことが大切になります。"
+          ]
+        },
+        "evidence": "https://bauhaus-dessau.de/en/venues/bauhaus-building/"
       }
     ],
     "period_bands": [
@@ -8392,18 +8348,232 @@
     "supplemental_explainer_count": 0,
     "has_generated_visual_material": false,
     "reading_intro": {
-      "heading": "柱、窓、部屋のつながりから、家を見る。",
+      "heading": "壁の形から、空間のつながりへ。",
       "lead": [
-        "家を見るとき、外の形だけでなく、中にも目を向けてみましょう。",
-        "柱はどこにあり、部屋はどうつながっているでしょうか。",
-        "インターナショナル・スタイルと呼ばれる建物では、鉄やコンクリート、ガラスの使い方が手がかりになります。",
-        "家だけでなく、会社の建物にも広がりました。"
+        "建物は、何で支えられているでしょう。",
+        "柱が支えるとき、壁や窓の配置にはどんな自由が生まれるでしょう。",
+        "住宅、学校、オフィスを比べ、見た目が似ていても目的は違うことを確かめます。"
       ],
       "looking_questions": [
-        "建物の写真を見るなら、窓はどこに、どれくらいの大きさで作られているでしょう。",
-        "部屋の図を見るなら、壁で仕切られた所と、つながっている所はどこでしょう。"
+        "掲載写真に写るのは道路側、庭側、室内のどこでしょう。",
+        "建物そのものの写真と、建物を説明する模型を見分けられますか。"
       ]
-    }
+    },
+    "deep_dive": [
+      {
+        "id": "name-and-exhibition",
+        "title": "1932年、展覧会が建築に名前を与える",
+        "paragraphs": [
+          "ヘンリー＝ラッセル・ヒッチコックとフィリップ・ジョンソンは、近代建築の共通点を「インターナショナル・スタイル」と説明しました。1932年のMoMA展では、建物を会場へ運ぶ代わりに模型や写真が考え方を伝えます。サヴォア邸の模型も、この展覧会で紹介された資料です。",
+          "これは全員が署名した団体名ではありません。MoMAによると、出品したフランク・ロイド・ライトは、この分類を拒みました。展覧会に参加したこと、共通の形が見えること、同じ思想を持つことは分けて考えます。"
+        ],
+        "source_ids": [
+          "moma-1932-exhibition",
+          "moma-savoye-model",
+          "moma-wright-boundary"
+        ]
+      },
+      {
+        "id": "volume-structure",
+        "title": "「白い箱」ではなく、支え方を見る",
+        "paragraphs": [
+          "当時の批評で重視されたのは、重いかたまりに見せるより、薄い面で空間を包むこと。左右対称の正面をつくるより、窓や構造の規則的な繰り返しを生かすこと。そして、後から飾りを貼り付けるより材料や比率を生かすことでした。",
+          "その見方を手がかりに、柱と外壁が同じ役目を持つか、窓は何に沿って並ぶかを確かめます。ただし、これだけで暮らしやすさや建物の社会的役割まで分かるわけではありません。色が白いという理由だけで分類することもできません。"
+        ],
+        "source_ids": [
+          "cac-international-principles",
+          "moma-savoye-model"
+        ]
+      },
+      {
+        "id": "school-not-single-front",
+        "title": "デッサウの校舎を、一周して考える",
+        "paragraphs": [
+          "1925〜1926年のバウハウス・デッサウ校舎では、工房、教室、管理部門、住む場所が異なる大きさの部分に分かれ、つながっています。一つの正面だけでは全体が分からず、周りを歩くことで構成が見えてきます。",
+          "設計はグロピウスの個人事務所と協力者が担い、室内には学校の工房も参加しました。ヒンネルク・シェーパーの色彩計画は、場所の区別や空間の感じ方を助けます。「近代建築は無色」「一人の作者だけで完成する」という見方を問い直せる例です。"
+        ],
+        "source_ids": [
+          "dessau-building",
+          "dessau-locations"
+        ]
+      },
+      {
+        "id": "two-houses",
+        "title": "二つの住宅で、壁と歩く道筋を比べる",
+        "paragraphs": [
+          "トゥーゲントハット邸では、柱や梁が支える室内を、木やオニキスの面がゆるやかに分けます。サヴォア邸では、柱で持ち上げた建物へ入り、スロープで上がるにつれ、室内や外の景色が変わります。二つの家は、同じ「箱」ではなく、空間を体験する違った提案です。",
+          "いずれも個人から依頼された住宅です。工業的な材料を使うことと、誰にでも手の届く価格の住宅になることは同じではありません。依頼者、用途、材料を一緒に読むと、外観だけの比較を超えられます。"
+        ],
+        "source_ids": [
+          "unesco-tugendhat",
+          "flc-savoye-building"
+        ]
+      },
+      {
+        "id": "corporate-and-collaboration",
+        "title": "住宅から企業へ。誰の仕事として記録する？",
+        "paragraphs": [
+          "1952年に完成したリーバー・ハウスは、米国の企業建築への展開を考える例です。住宅や学校とは異なり、会社の仕事場としてつくられました。初期の欧州の住宅と、戦後の高層オフィスを同じ目的の建物とはしません。",
+          "設計者の記録では、SOMとゴードン・バンシャフトだけでなく、ナタリー・ド・ブロワの仕事も残します。MoMAは、彼女の設計への貢献が共同者の名に隠れがちだったことを説明しています。一方、MoMAの展示模型をつくった人はセオドア・コンラッドです。建築設計と模型制作の役割を区別します。"
+        ],
+        "source_ids": [
+          "pritzker-bunshaft-biography",
+          "moma-lever-model"
+        ]
+      },
+      {
+        "id": "photograph-and-preservation",
+        "title": "今の写真は、完成した日の写真ではない",
+        "paragraphs": [
+          "トゥーゲントハット邸は2010〜2012年に修復されました。このページの2012年の写真は道路側の外観で、室内や庭側を見せているわけではありません。内部の説明は、写真からの推測ではなく、建物を調べた機関の記録に基づきます。",
+          "デッサウ校舎も戦災と修復を経ています。今ある材料、元の設計、模型が示す形は、それぞれ別の証拠です。また、この章の欧米の例だけで世界各地の近代建築を説明せず、別の地域では気候、制度、材料がどう関わったかを個別に調べる必要があります。"
+        ],
+        "source_ids": [
+          "unesco-tugendhat",
+          "dessau-building"
+        ]
+      }
+    ],
+    "regional_variants": [
+      {
+        "place": "ドイツ・デッサウ",
+        "name": "学校と工房",
+        "description": "校舎を、学ぶ場所、つくる場所、住む場所の組み合わせとして読みます。バウハウスという学校の全活動と、この建築の様式名を同一視しません。",
+        "source_ids": [
+          "dessau-building"
+        ]
+      },
+      {
+        "place": "チェコ・ブルノ",
+        "name": "住宅の連続する室内",
+        "description": "トゥーゲントハット邸を通して、構造と室内の仕切りの関係を考えます。掲載写真が示すのは道路側だけです。",
+        "source_ids": [
+          "unesco-tugendhat"
+        ]
+      },
+      {
+        "place": "フランス・ポワシー",
+        "name": "移動によって変わる眺め",
+        "description": "サヴォア邸は1931年に引き渡された週末住宅。1932年のMoMA模型は、その考えを伝えた別の資料です。",
+        "source_ids": [
+          "flc-savoye-building",
+          "moma-savoye-model"
+        ]
+      },
+      {
+        "place": "米国・ニューヨーク",
+        "name": "展覧会と企業の建築",
+        "description": "1932年のMoMA展による紹介と、1952年のリーバー・ハウスを分けて読みます。展示による普及と、建物の利用目的は同じ出来事ではありません。",
+        "source_ids": [
+          "moma-1932-exhibition",
+          "pritzker-bunshaft-biography"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1919年",
+        "event": "グロピウスがバウハウスを創設。これは学校の始まりで、インターナショナル・スタイルの団体結成ではありません。",
+        "source_ids": [
+          "bauhaus-gropius-biography"
+        ]
+      },
+      {
+        "date": "1925〜1926年",
+        "event": "バウハウス・デッサウ校舎を建設。用途の異なる部分を組み合わせる。",
+        "source_ids": [
+          "dessau-locations",
+          "dessau-building"
+        ]
+      },
+      {
+        "date": "1929〜1930年",
+        "event": "トゥーゲントハット邸を建設。1930年完成。",
+        "source_ids": [
+          "unesco-tugendhat"
+        ]
+      },
+      {
+        "date": "1931年",
+        "event": "サヴォア邸の建築本体を引き渡す。MoMA模型の1932年とは別です。",
+        "source_ids": [
+          "flc-savoye-building"
+        ]
+      },
+      {
+        "date": "1932年",
+        "event": "MoMAで「Modern Architecture: International Exhibition」を開催。サヴォア邸の模型も紹介される。",
+        "source_ids": [
+          "moma-1932-exhibition",
+          "moma-savoye-model"
+        ]
+      },
+      {
+        "date": "1952年",
+        "event": "ニューヨークのリーバー・ハウスが完成。企業のオフィスへの展開を考える例。",
+        "source_ids": [
+          "pritzker-bunshaft-biography"
+        ]
+      },
+      {
+        "date": "2010〜2012年",
+        "event": "トゥーゲントハット邸の修復。建物の完成年や掲載写真の撮影年とは区別する。",
+        "source_ids": [
+          "unesco-tugendhat"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "ヴォリューム",
+        "source_ids": [
+          "cac-international-principles"
+        ],
+        "explanation": "建築では、面で囲まれた空間や、建物の立体的なまとまりを考える言葉。重いかたまりとしての量感との違いに注目します。",
+        "reading": ""
+      },
+      {
+        "term": "ピロティ",
+        "source_ids": [
+          "moma-savoye-model"
+        ],
+        "explanation": "柱で上の階を支え、地上に開いた場所をつくる仕組み。サヴォア邸の五原則の一つです。",
+        "reading": ""
+      },
+      {
+        "term": "自由な平面・自由な立面",
+        "source_ids": [
+          "flc-savoye-building"
+        ],
+        "explanation": "建物を支える柱と壁の役割を分け、部屋の仕切りや外壁の構成を考える方法。何の制約もないという意味ではありません。",
+        "reading": "じゆうなへいめん・じゆうなりつめん"
+      },
+      {
+        "term": "カーテンウォール",
+        "source_ids": [
+          "dessau-building"
+        ],
+        "explanation": "建物を支える骨組みの外側を包む外壁。デッサウ校舎の工房では、ガラス面と骨組みの関係が手がかりになります。",
+        "reading": ""
+      },
+      {
+        "term": "建築模型",
+        "source_ids": [
+          "moma-savoye-model",
+          "moma-lever-model"
+        ],
+        "explanation": "建物の形や構成を縮尺で表す物。建築設計者、模型の制作担当、模型の年、建物の完成年を分けて記録します。",
+        "reading": "けんちくもけい"
+      }
+    ],
+    "checked_at": "2026-11-02",
+    "artist_ids": [
+      "ludwig-mies-van-der-rohe",
+      "le-corbusier",
+      "walter-gropius",
+      "natalie-de-blois",
+      "gordon-bunshaft"
+    ]
   },
   {
     "name": "浮世絵",
