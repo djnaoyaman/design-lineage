@@ -1,0 +1,2 @@
+/* Retain complete original titles when text is enlarged; never clip or shrink them. */
+#school-document h2,.representative .note{overflow-wrap:anywhere}

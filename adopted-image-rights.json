@@ -5589,6 +5589,404 @@
         "provenance_note": "公式配信JPEGの全体を保持。小画面用の縮小WebPを併用します。",
         "anchor": "met-57810-1327808"
       }
+    },
+    {
+      "id": "nps-rivera-detroit-north-detail",
+      "entry": "Mexican Muralism",
+      "author": "ディエゴ・リベラ",
+      "title": "デトロイトの産業：北壁の一部",
+      "year": "壁画：1932–1933年／写真：撮影年不詳",
+      "institution": "デトロイト美術館",
+      "accession": "33.10.N",
+      "source_page": "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm",
+      "work_source_page": "https://dia.org/collection/detroit-industry-north-wall/58538",
+      "image_url": "https://www.nps.gov/common/uploads/cropped_image/primary/157B0E21-EFCB-7434-19C7097B167ACBE0.jpg?mode=crop&quality=90&width=1600",
+      "license": "Public Domain（写真：NPSの個別表示／原作品：DIAが米国内公表について明示）",
+      "license_url": "https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm",
+      "rights_policy_url": "https://dia.org/collection/detroit-industry-north-wall/58538",
+      "checked_at": "2026-11-02",
+      "credit": "Diego M. Rivera, Detroit Industry, North Wall, 1932–1933, fresco. Detroit Institute of Arts, Gift of Edsel B. Ford,33.10.N. 部分図。Photo credited to Cactus.man; Public Domain, via National Park Service.",
+      "underlying_work_rights": "DIAは、この壁画が米国内の公表についてPublic Domainであると明記しています。日本では保護期間を確認しています。すべての国で自由に使えるという意味ではありません。",
+      "reproduction_rights": "写真は米国国立公園局（NPS）がCactus.man撮影・Public Domainと表示しています。CC0という表示ではありません。",
+      "photographer": "Cactus.man（NPS掲載クレジットによる）",
+      "commercial_use": "米国・日本についての個別の権利確認に基づく再掲載。全法域の権利保証ではない。",
+      "territory_note": "米国・日本での本サイト掲載を対象とした確認です。ほかの国や別用途での利用条件を保証しません。",
+      "local_file": "assets/rivera-detroit-industry-nps-cactusman.jpg",
+      "viewing_point": "大きな機械と働く人の比率、いくつもの工程を重ねた配置、奥の炉の光。",
+      "alt": "デトロイト産業壁画の北壁の一部。大きな白い機械の間で人々が体を曲げて働き、奥にオレンジ色の炉が見える。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "display_verified": true,
+      "status": "adopted_actual_image",
+      "local_bytes": 474633,
+      "width": 1484,
+      "height": 835,
+      "sha256": "0d0f37c15e5b7da40090262c18e8c5232653d76b683ba11a53168a26ce059e03",
+      "original_bytes_unchanged": true,
+      "visual_notes": [
+        {
+          "title": "機械の大きさを、人の体と比べる。",
+          "text": "白く明るい機械が高く立ち、その下で人々が体を曲げたり腕を伸ばしたりしています。人と設備の大きさの差を見てみましょう。"
+        },
+        {
+          "title": "一つの画面に、いくつもの仕事が重なる。",
+          "text": "手前の作業列から奥の炉まで、梁や管、機械が重なっています。一人の英雄だけでなく、つながった仕事の流れに目が向く配置です。"
+        },
+        {
+          "title": "これは北壁の一部分。",
+          "text": "掲載写真には中央の工場場面と上下の帯状の部分が写っています。北壁の上方の大きな人物像や隅の場面、ほかの三方の壁は含まれていません。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "北壁の部分図を開く",
+        "eyebrow": "MEXICAN MURALISM / FRESCO",
+        "scope_note": "北壁33.10.Nの部分図です。壁画連作の27面すべてや北壁全体を写した写真ではありません。",
+        "observations_note": "画面内の形・色・人の姿勢は取得写真の実見による観察です。作者・年代・技法・所蔵情報はDIAの記録を参照しています。",
+        "source_label": "写真の出典（米国国立公園局）",
+        "rights_summary": "写真：NPSがPublic Domainと表示。原作品：DIAは米国内での公表に関するPublic Domainを明示。",
+        "provenance_note": "NPSが配信する部分図を無加工で取得しました。配信元の切り抜きを含み、原壁画全体の画像ではありません。写真の撮影年は不詳です。",
+        "policy_label": "所蔵館の作品・権利情報",
+        "license_label": "NPSの写真クレジット"
+      },
+      "title_original": "Detroit Industry, North Wall（デトロイト産業壁画・北壁の一部）",
+      "display_derivatives": {
+        "variants": [
+          {
+            "local_file": "assets/rivera-detroit-industry-nps-cactusman-720.webp",
+            "width": 720,
+            "height": 405,
+            "bytes": 145678,
+            "sha256": "42a1bae1ad3a544e906392e8749ee112f0f5afcbab6ee3956d8c1f24d1f439ac"
+          },
+          {
+            "local_file": "assets/rivera-detroit-industry-nps-cactusman-1200.webp",
+            "width": 1200,
+            "height": 675,
+            "bytes": 344072,
+            "sha256": "db45b0de257b2d30c5df6bf432bc0e9b0282d2a48b0375cb4bc561c7df36aaba"
+          }
+        ],
+        "method": "NPS配信画像の全体と縦横比を保って縮小し、WebPに変換しました。追加の切り抜き・色補正・描き直しはしていません。"
+      }
+    },
+    {
+      "id": "met-jakuchu-grapevine-1975-268-69",
+      "entry": "伊藤若冲",
+      "entry_id": "ito-jakuchu",
+      "author": "伊藤若冲",
+      "title": "葡萄双鶏図（ぶどうそうけいず）",
+      "title_original": "Hen and Rooster with Grapevine",
+      "year": "1792年",
+      "institution": "メトロポリタン美術館",
+      "accession": "1975.268.69",
+      "source_page": "https://www.metmuseum.org/art/collection/search/40459",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-36792-002.jpg",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "checked_at": "2026-11-02",
+      "credit": "伊藤若冲, Hen and Rooster with Grapevine, 1792. The Metropolitan Museum of Art, 1975.268.69. The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975. Image: The Met Open Access, CC0.",
+      "underlying_work_rights": "原作品は著作者の没年から十分な期間が経過し、Metも個別作品をPublic Domainと表示。若冲は1800年没。",
+      "reproduction_rights": "Metの個別作品ページがPublic Domainと表示し、同館のOpen Access方針が対応する画像をCC0として公開しています。",
+      "commercial_use": "Met Open AccessのCC0により商用・非商用の再利用が可能。美術館による当サイトの推奨を意味しません。",
+      "photographer": "個人名の記載なし（The Metropolitan Museum of Art配信）",
+      "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original.jpg",
+      "alt": "葡萄のつるの上に二羽の鶏。大きな雄鶏の白い尾羽が上方へ曲がり、下には白い雌鶏と房状の葡萄がある。",
+      "viewing_point": "白い尾羽の大きな曲線、細かく描き分けられた羽、葡萄の葉と実がつくる密度。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "status": "adopted_actual_image",
+      "local_bytes": 1966063,
+      "width": 2085,
+      "height": 4000,
+      "sha256": "b1f83c1c16b738a9b2a565eb9e61d51d9d1f7e7f942d2c30d4422d481c004775",
+      "original_bytes_unchanged": true,
+      "visual_notes": [
+        {
+          "title": "細かな羽と、大きな尾の曲線。",
+          "text": "胴体の羽毛には小さな形が重なり、尾羽は上へ大きく曲がります。細部の密度と、離れて見える輪郭を比べてみましょう。"
+        },
+        {
+          "title": "描かない場所が、姿を際立たせる。",
+          "text": "二羽の鶏と葡萄は画面の中央から右下に集まり、左側には大きな余白があります。詰まった部分と空いた部分の対比が見どころです。"
+        }
+      ],
+      "presentation": {
+        "placement": "lead",
+        "fullsize_label": "作品画像を開く",
+        "eyebrow": "実作品を見る",
+        "scope_note": "絵の本紙と周囲の表装を含む図です。掛軸の軸先などを含めた全体写真ではありません。",
+        "observations_note": "形や配置の説明は取得した実作品写真の観察によります。作者・年代・技法はMetの作品記録に基づきます。",
+        "source_label": "出典：メトロポリタン美術館",
+        "rights_summary": "原作品：Public Domain。画像：The Met Open Access、CC0。",
+        "provenance_note": "Metが提供する原寸JPEGを無加工で取得しました。AI生成画像ではありません。",
+        "policy_label": "美術館の画像利用方針",
+        "license_label": "CC0の条件",
+        "anchor": "met-jakuchu-grapevine-1975-268-69"
+      },
+      "display_derivatives": {
+        "method": "表示用に縦横比を保って縮小し、WebPへ変換。切り抜きや色の変更はしていません。原画像も開けます。",
+        "variants": [
+          {
+            "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original-640.webp",
+            "width": 640,
+            "height": 1228,
+            "bytes": 94048,
+            "sha256": "50fbd5f1205fa98938c66a5a8162532a883ec601f5a26880ded284478f8c1cd9"
+          },
+          {
+            "local_file": "assets/jakuchu-hen-rooster-grapevine-met-original-1200.webp",
+            "width": 1200,
+            "height": 2302,
+            "bytes": 346372,
+            "sha256": "6c4af7b83f49e79e2c1cc436fccfb97c774347883d86e77d2f330fa5edc57e37"
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP-36792-002.jpg",
+        "width": 2085,
+        "height": 4000,
+        "sha256": "b1f83c1c16b738a9b2a565eb9e61d51d9d1f7e7f942d2c30d4422d481c004775"
+      }
+    },
+    {
+      "id": "met-jakuchu-bean-vine-1985-97",
+      "entry": "伊藤若冲",
+      "entry_id": "ito-jakuchu",
+      "author": "伊藤若冲（画）／無染浄善（むせん じょうぜん）〈丹崖〉（賛）",
+      "title": "豆のつる（Bean Vine）",
+      "title_original": "Bean Vine",
+      "year": "1750年代後半〜1764年より前",
+      "institution": "メトロポリタン美術館",
+      "accession": "1985.97",
+      "source_page": "https://www.metmuseum.org/art/collection/search/40462",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-13583-002.jpg",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "checked_at": "2026-11-02",
+      "credit": "伊藤若冲（画）／無染浄善〈丹崖〉（賛）, Bean Vine, late 1750s–before 1764. The Metropolitan Museum of Art, 1985.97. Purchase, Lita Annenberg Hazen Charitable Trust Gift, in honor of Cynthia and Leon Polsky, 1985. Image: The Met Open Access, CC0.",
+      "underlying_work_rights": "原作品は著作者の没年から十分な期間が経過し、Metも個別作品をPublic Domainと表示。画家の若冲（1800年没）と賛者の無染浄善（1764年没）を区別しています。",
+      "reproduction_rights": "Metの個別作品ページがPublic Domainと表示し、同館のOpen Access方針が対応する画像をCC0として公開しています。",
+      "commercial_use": "Met Open AccessのCC0により商用・非商用の再利用が可能。美術館による当サイトの推奨を意味しません。",
+      "photographer": "個人名の記載なし（The Metropolitan Museum of Art配信）",
+      "local_file": "assets/jakuchu-bean-vine-met-original.jpg",
+      "alt": "薄い紙の地に、右から垂れる豆の葉と実、上部の墨書を配した水墨画。周囲の表装と左端の撮影用階調スケールも写る。",
+      "viewing_point": "葉と実の墨の濃淡、下方の濃い筆跡、上部の賛と余白の釣り合い。",
+      "rights_reviewed": true,
+      "linking_policy_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "pixels_inspected": true,
+      "status": "adopted_actual_image",
+      "local_bytes": 2596718,
+      "width": 3001,
+      "height": 4000,
+      "sha256": "58048c626498ef81e349484f62a5b37fa9b31a8ad21a1e33f54f343161e1d846",
+      "original_bytes_unchanged": true,
+      "visual_notes": [
+        {
+          "title": "墨の濃さで、形を変える。",
+          "text": "葉や実には薄い墨が重なり、下部には黒い筆跡が走ります。同じ墨でも、面と線の違いが画面に動きを生んでいます。"
+        },
+        {
+          "title": "絵と書を別々の作者として見る。",
+          "text": "上部の賛は無染浄善によるものです。植物の絵と文字、それらの間に残された空白の配置を見てみましょう。"
+        }
+      ],
+      "presentation": {
+        "placement": "gallery",
+        "fullsize_label": "作品画像を開く",
+        "eyebrow": "実作品を見る",
+        "scope_note": "絵の本紙と周囲の表装を撮影した図です。左端の階調スケールは作品の一部ではありません。",
+        "observations_note": "形や配置の説明は取得した実作品写真の観察によります。作者・年代・技法はMetの作品記録に基づきます。",
+        "source_label": "出典：メトロポリタン美術館",
+        "rights_summary": "原作品：Public Domain。画像：The Met Open Access、CC0。",
+        "provenance_note": "Metが提供する原寸JPEGを無加工で取得しました。AI生成画像ではありません。",
+        "policy_label": "美術館の画像利用方針",
+        "license_label": "CC0の条件",
+        "anchor": "met-jakuchu-bean-vine-1985-97"
+      },
+      "display_derivatives": {
+        "method": "表示用に縦横比を保って縮小し、WebPへ変換。切り抜きや色の変更はしていません。原画像も開けます。",
+        "variants": [
+          {
+            "local_file": "assets/jakuchu-bean-vine-met-original-640.webp",
+            "width": 640,
+            "height": 853,
+            "bytes": 50738,
+            "sha256": "b8a815023c43ac3fb8aa1101d69491e7ca8f55671486cfef8d09fd8aa4a61361"
+          },
+          {
+            "local_file": "assets/jakuchu-bean-vine-met-original-1200.webp",
+            "width": 1200,
+            "height": 1599,
+            "bytes": 175096,
+            "sha256": "8cfaf5c5020ed986b06a1105cb44120e91e81f271d48ad667db155c99b5f3550"
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP-13583-002.jpg",
+        "width": 3001,
+        "height": 4000,
+        "sha256": "58048c626498ef81e349484f62a5b37fa9b31a8ad21a1e33f54f343161e1d846"
+      }
+    },
+    {
+      "id": "art-deco-gesmar-mistinguett",
+      "work_id": "art-deco-gesmar-mistinguett",
+      "author": "シャルル・ジェスマール",
+      "title": "ミスタンゲット",
+      "title_original": "Mistinguett",
+      "year": "1925年",
+      "source_page": "https://www.mkg-hamburg.de/sammlung/objekt/mistinguett/EP2015.697/mkg-e00134627",
+      "institution": "ハンブルク美術工芸博物館",
+      "accession": "EP2015.697",
+      "local_file": "assets/art-deco-gesmar-mistinguett.jpg",
+      "width": 361,
+      "height": 500,
+      "sha256": "f6b0a9059dee68ac507642121897d8748a608f875c43682172338cb54bb29712",
+      "local_bytes": 66390,
+      "alt": "羽根飾りをまとった女性と、上部に大きく記されたミスタンゲットの名前。",
+      "credit": "シャルル・ジェスマール《ミスタンゲット》1925年、印刷：Imprimerie H. Chachoin。ハンブルク美術工芸博物館。Public Domain。",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "underlying_work_rights": "所蔵館が原作品をパブリックドメインと表示。",
+      "reproduction_rights": "所蔵館が原作品と画像の双方をPublic Domainと表示。",
+      "image_processing": "提供画像の全体を、そのまま表示します。原寸361×500ピクセルを超えて拡大しません。",
+      "visual_notes": [
+        {
+          "title": "名前と、羽根の形を比べる。",
+          "text": "名前の文字は濃く大きく、羽根は淡い色で広がります。文字と人物の違いに注目しましょう。"
+        },
+        {
+          "title": "舞台の華やかさを、街へ。",
+          "text": "顔や装飾を単純な形と色にまとめ、舞台に立つ人の華やかさを伝えています。"
+        }
+      ],
+      "presentation": {
+        "anchor": "art-deco-gesmar-mistinguett",
+        "scope_note": "1925年に制作された劇場ポスターです。所蔵館の配信画像は361×500ピクセルのため、大きく引き伸ばさず掲載しています。"
+      }
+    },
+    {
+      "id": "art-deco-chrysler-shankbone",
+      "work_id": "art-deco-chrysler-building",
+      "author": "ウィリアム・ヴァン・アレン（建築）／David Shankbone（写真）",
+      "title": "クライスラー・ビルの外観",
+      "title_original": "Chrysler Building",
+      "year": "建築1928–1930年／写真2007年8月",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_by_David_Shankbone.jpg",
+      "institution": "ニューヨーク市",
+      "local_file": "assets/art-deco-chrysler-shankbone.jpg",
+      "width": 1214,
+      "height": 3091,
+      "sha256": "f4ff7b9e8c908d136062b2903128a7e15a7ddb07e22205da5c570b19863dc0d7",
+      "local_bytes": 3679548,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chrysler_Building_by_David_Shankbone.jpg",
+      "display_derivatives": {
+        "variants": [
+          {
+            "local_file": "assets/art-deco-chrysler-shankbone-640.webp",
+            "width": 640,
+            "height": 1630
+          },
+          {
+            "local_file": "assets/art-deco-chrysler-shankbone-1000.webp",
+            "width": 1000,
+            "height": 2546
+          }
+        ]
+      },
+      "alt": "段を重ねて細くなる高層ビル。頂部には銀色の弧と三角形の窓が並び、周囲に別のビルが建っている。",
+      "credit": "ウィリアム・ヴァン・アレン設計《クライスラー・ビル》1928–1930年。写真：David Shankbone、2007年8月。Wikimedia Commons、CC BY-SA 3.0。",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "underlying_work_rights": "建築の外観を紹介する写真。建築作品の扱いと写真の利用条件を分けて確認しています。",
+      "reproduction_rights": "撮影者David Shankboneの写真をCC BY-SA 3.0で利用。",
+      "image_processing": "提供画像の全体を保持して縮小し、WebP版も作成。切り抜き、回転、色の変更はしていません。縮小版にもCC BY-SA 3.0を適用。",
+      "visual_notes": [
+        {
+          "title": "段をたどって、上へ。",
+          "text": "建物の幅が段階的に細くなり、頂部へ目を導きます。"
+        },
+        {
+          "title": "曲線と三角形が、くり返される。",
+          "text": "銀色の頂部で、弧を描く線と三角形の窓を探してみましょう。"
+        }
+      ],
+      "presentation": {
+        "anchor": "art-deco-chrysler-shankbone",
+        "scope_note": "2007年8月の外観写真です。地上階の内部は写っていません。元画像の画角をそのまま掲載しています。"
+      }
+    },
+    {
+      "id": "mid-century-kresge-daderot",
+      "work_id": "mid-century-kresge-auditorium",
+      "author": "エーロ・サーリネン（建築）／Daderot（写真）",
+      "title": "クレスゲ講堂の外観",
+      "title_original": "Kresge Auditorium",
+      "year": "建築1955年／写真2005年8月",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kresge_Auditorium,_MIT_(view_with_Green_Building).JPG",
+      "institution": "マサチューセッツ工科大学（MIT）",
+      "local_file": "assets/mid-century-kresge-daderot.jpg",
+      "width": 2560,
+      "height": 1683,
+      "sha256": "1717ce260575310213ccdeda28aa8656daa69b5abe362791f39bfcf4f169527e",
+      "local_bytes": 893724,
+      "alt": "大きく湾曲した緑色の屋根の下に、縦横の枠で区切られたガラス面が広がる講堂。",
+      "credit": "エーロ・サーリネン設計《クレスゲ講堂》1955年。写真：Daderot、2005年8月。Wikimedia Commons、CC BY-SA 3.0。",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "underlying_work_rights": "建築の外観を紹介する写真。建築作品の扱いと、写真の利用条件を分けて確認しています。",
+      "reproduction_rights": "撮影者Daderotの写真をCC BY-SA 3.0で利用。",
+      "image_processing": "全体を保持して縮小し、WebP版も作成。切り抜きや色の変更はしていません。縮小版にもCC BY-SA 3.0を適用。",
+      "visual_notes": [
+        {
+          "title": "曲がる屋根と、まっすぐな窓枠。",
+          "text": "大きな屋根の曲線と、ガラス面を区切る細い線を比べてみましょう。"
+        },
+        {
+          "title": "住宅だけでなく、集まる場所へ。",
+          "text": "この建物は、音楽や舞台、大学の行事に使う講堂です。人が集まる広い空間を、薄い殻のような屋根で包んでいます。"
+        }
+      ],
+      "presentation": {
+        "anchor": "mid-century-kresge-daderot",
+        "scope_note": "2005年8月の外観写真です。完成した1955年の姿をそのまま記録した写真ではありません。"
+      },
+      "display_derivatives": {
+        "variants": [
+          {
+            "local_file": "assets/mid-century-kresge-daderot-640.webp",
+            "width": 640,
+            "height": 421
+          },
+          {
+            "local_file": "assets/mid-century-kresge-daderot-1000.webp",
+            "width": 1000,
+            "height": 657
+          },
+          {
+            "local_file": "assets/mid-century-kresge-daderot-1600.webp",
+            "width": 1600,
+            "height": 1052
+          }
+        ]
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kresge_Auditorium%2C_MIT_%28view_with_Green_Building%29.JPG"
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

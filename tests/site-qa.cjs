@@ -1,8 +1,12 @@
 const {chromium}=require('playwright'),fs=require('fs'),path=require('path'),assert=require('assert');
 const entries=JSON.parse(fs.readFileSync('entries.json','utf8'));
+const registryData=JSON.parse(fs.readFileSync('artists.json','utf8'));
+const artistRegistry=[...registryData.artists,...(registryData.organizations||[])];
 const catalog=JSON.parse(fs.readFileSync('catalog.json','utf8'));
 assert.equal(new Set(entries.map(e=>e.slug)).size,entries.length);
-assert.equal(catalog.length,88);
+assert.equal(catalog.length,89);
+assert.equal(JSON.parse(fs.readFileSync('release-manifest.json','utf8')).chapter_navigation.articles,entries.length);
+const pageDates=JSON.parse(fs.readFileSync('site-update.json','utf8'));assert.equal(pageDates.page_count,Object.keys(pageDates.pages).length);
 for(const e of entries){assert(catalog.some(c=>c.name===e.name),e.name);assert(fs.existsSync(`entries/${e.slug}.html`));for(const im of [...(e.adopted_images||[]),...(e.reference_images||[])])if(im.local_file)assert(fs.existsSync(im.local_file),im.local_file);}
 fs.mkdirSync('qa-artifacts',{recursive:true});
 let browser;
@@ -16,7 +20,9 @@ for(const width of [320,390,1280]){
   const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
   if(['rinpa','rococo','art-deco','russian-constructivism'].includes(slug)&&width<400){
    await page.evaluate(()=>document.fonts.ready);
-   const scope=page.locator('p').filter({hasText:slug==='rinpa'?'書・屏風（びょうぶ）・器・箱・本を見比べます。':'この項目の実作品画像は'}).last();
+   const scopeText=slug==='art-deco'?entries.find(e=>e.slug===slug).representativeness_limit:(slug==='rinpa'?'書・屏風（びょうぶ）・器・箱・本を見比べます。':'この項目の実作品画像は');
+   assert(scopeText&&scopeText.trim(),'Reader scope text is defined');
+   const scope=slug==='art-deco'?page.getByText(scopeText,{exact:true}):page.locator('p').filter({hasText:scopeText}).last();
    assert.equal(await scope.count(),1,'Visible reader scope/count exists');
    await scope.evaluate(e=>e.scrollIntoView({block:'end',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/copy-scope-${slug}-${width}.png`});
    await page.locator('.representative').first().evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
@@ -75,8 +81,64 @@ for(const width of [320,390,1280]){
   }
   if(["punk-diy", "new-bauhaus-chicago", "vkhutemas", "black-mountain-college", "psychedelic-art", "streamline-moderne", "polish-poster-school", "surrealism", "jugendstil", "scandinavian-modern", "brutalism", "critical-regionalism", "mid-century-modern", "radical-design", "memphis", "new-wave-typography", "supergraphics", "bengal-school", "shinkenchiku-kogei-gakuin", "kuwasawa-design-school", "nid-ahmedabad", "esdi-rio", "shinko-shashin", "gutai", "mono-ha", "dansaekhwa", "taller-grafica-popular", "tropicalismo", "negritude-visual-culture", "khartoum-school", "wayo-graphic", "brazilian-modernism", "tropical-modernism", "typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web", "suprematism", "wiener-werkstaette", "russian-constructivism", "metabolism", "art-deco", "international-style", "rococo", "neoclassicism", "postmodernism", "de-stijl"].includes(slug)){await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),`${slug} expanded overflow`);}
   if(["typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web"].includes(slug)){await page.locator("#representative-works").scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/${slug}-expanded-${width}.png`});const parts=await page.locator('.segmented-title .title-part').evaluateAll(xs=>xs.map(x=>{const r=document.createRange();r.selectNodeContents(x);return {lines:r.getClientRects().length,left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right};}));assert(parts.every(x=>x.lines===1&&x.left>=0&&x.right<=width+1),'Semantic title parts fit');await page.locator(".study-title").screenshot({path:`qa-artifacts/${slug}-title-${width}.png`});}
-  if(['rinpa','surrealism','art-deco','mid-century-modern'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
+  if(['arts-and-crafts','bauhaus','swiss-style','new-wave-typography','vienna-secession','wiener-werkstaette','russian-constructivism','de-stijl','postmodernism','memphis','ukiyoe','mingei'].includes(slug)){
+   if(slug==='new-wave-typography')assert((await page.locator('#artist-april-greiman summary').textContent()).includes('1948年生まれ／没年の記載は未確認'));
+   if(slug==='vienna-secession')assert((await page.locator('#artist-leopold-kainradl summary').textContent()).includes('生没年未詳'));
+   if(slug==='postmodernism')assert((await page.locator('#artist-fausto-celati summary').textContent()).includes('生没年未詳'));
+   if(slug==='ukiyoe'){assert((await page.locator('#artist-suzuki-harunobu summary').textContent()).includes('1725年？'));assert((await page.locator('#artist-toshusai-sharaku summary').textContent()).includes('生没年未詳'));assert((await page.locator('#artist-suzuki-harunobu summary').textContent()).includes('すずき はるのぶ'));}
+   if(slug==='memphis')assert((await page.locator('#artist-masanori-umeda summary').textContent()).includes('1941年生まれ／2025年没'));
+   const entry=entries.find(e=>e.slug===slug),profiles=page.locator('#article-artists .artist-record');const expected={'arts-and-crafts':7,'bauhaus':9,'swiss-style':3,'new-wave-typography':2,'vienna-secession':9,'wiener-werkstaette':5,'russian-constructivism':10,'de-stijl':6,'postmodernism':7,'memphis':5,'ukiyoe':4,'mingei':4};assert.equal(await profiles.count(),expected[slug]);
+   for(let n=0;n<await profiles.count();n++){
+    const profile=profiles.nth(n);await profile.evaluate(e=>e.open=false);await profile.locator('summary').click();assert(await profile.evaluate(e=>e.open));assert(await profile.locator('p').first().evaluate(p=>parseFloat(getComputedStyle(p).fontSize)>=16));
+    await profile.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/${slug}-profile-${n+1}-${width}.png`});
+   }
+   for(const zoom of [1,2]){
+    await page.evaluate(z=>document.documentElement.style.zoom=String(z),zoom);
+    const geometry=await page.evaluate(()=>{const textOverflow=[];const walker=document.createTreeWalker(document.querySelector('main'),NodeFilter.SHOW_TEXT);let n;while(n=walker.nextNode()){if(!n.textContent.trim()||!n.parentElement.checkVisibility())continue;const r=document.createRange();r.selectNodeContents(n);for(const b of r.getClientRects())if(b.left < -1||b.right>innerWidth+1)textOverflow.push({text:n.textContent.slice(0,160),tag:n.parentElement.tagName,cls:n.parentElement.className,left:b.left,right:b.right});}return{inner:innerWidth,scroll:document.documentElement.scrollWidth,textOverflow};});fs.writeFileSync(`qa-artifacts/${slug}-profiles-${width}-${zoom}x.json`,JSON.stringify(geometry));
+    await page.screenshot({path:`qa-artifacts/${slug}-profiles-before-assert-${width}-${zoom}x.png`});assert(geometry.scroll<=geometry.inner+1,'Artist profiles fit at layout zoom');
+    await page.locator('#article-artists').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/${slug}-profiles-${width}-${zoom}x.png`});
+   }
+   await page.evaluate(()=>document.documentElement.style.zoom='1');
+  }
+  if(slug==='hideki-nakajima'){
+   const profile=page.locator('#article-artists .artist-record');assert.equal(await profile.count(),1);
+   await profile.locator('summary').click();assert(await profile.getAttribute('open')!==null);
+   assert((await profile.locator('summary').textContent()).includes('1961年生まれ／2022年没'));
+   assert(await profile.locator('p').first().evaluate(p=>parseFloat(getComputedStyle(p).fontSize)>=16));
+   for(const zoom of [1,2]){
+    await page.evaluate(z=>document.documentElement.style.zoom=String(z),zoom);
+    await profile.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
+    const geometry=await page.evaluate(()=>{
+     const overflow=[...document.querySelectorAll('main *')].map(e=>({tag:e.tagName,cls:e.className,text:e.textContent.slice(0,160),left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right})).filter(r=>r.left < -1||r.right>innerWidth+1);
+     const textOverflow=[];const walker=document.createTreeWalker(document.querySelector('main'),NodeFilter.SHOW_TEXT);let n;while(n=walker.nextNode()){if(!n.textContent.trim()||!n.parentElement.checkVisibility())continue;const r=document.createRange();r.selectNodeContents(n);for(const b of r.getClientRects())if(b.left < -1||b.right>innerWidth+1)textOverflow.push({text:n.textContent.slice(0,160),tag:n.parentElement.tagName,cls:n.parentElement.className,left:b.left,right:b.right});}
+     return {inner:innerWidth,scroll:document.documentElement.scrollWidth,overflow,textOverflow};
+    });
+    fs.writeFileSync(`qa-artifacts/nakajima-profile-${width}-${zoom}x.json`,JSON.stringify(geometry));
+    await page.screenshot({path:`qa-artifacts/nakajima-profile-before-assert-${width}-${zoom}x.png`});
+    assert(geometry.scroll<=geometry.inner+1,'Nakajima expanded profile fits at layout zoom');
+    assert.equal(geometry.overflow.length,0,'Nakajima blocks fit');assert.equal(geometry.textOverflow.length,0,'Nakajima rendered text fits');
+    await page.locator('h1').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/nakajima-heading-${width}-${zoom}x.png`});
+    await profile.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
+    await page.screenshot({path:`qa-artifacts/nakajima-profile-${width}-${zoom}x.png`});
+   }
+   await page.evaluate(()=>document.documentElement.style.zoom='1');
+  }
+  if(['art-nouveau','rinpa','surrealism','art-deco','mid-century-modern','mexican-muralism','ito-jakuchu','new-typography','international-style','dansaekhwa'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
    const entry=entries.find(e=>e.slug===slug);
+   if(slug==='surrealism'){
+    assert.equal(entry.adopted_images.length,0);assert.equal(entry.representatives.length,7);assert.equal(entry.reference_images.length,1);
+    const precedent=entry.reference_images[0];assert.equal(precedent.reference_role,'related_precedent');assert.equal(precedent.accession,'2009.53');assert.equal(precedent.year,'1881年');
+    assert.equal(await page.locator('.reference-art').count(),1);assert((await page.locator('.reference-art').textContent()).includes('正式なメンバー作品ではなく'));
+    assert.equal(await page.getByText(entry.image_status_note,{exact:true}).count(),1);
+    const originalLink=page.locator('.reference-art .art-fullsize');assert((await originalLink.getAttribute('href')).endsWith('klinger-abduction-met-original.jpg'));
+   }
+   if(slug==='new-typography'){
+    assert.equal(entry.adopted_images.length,0);assert.equal(entry.representatives.length,6);assert.equal(entry.reference_images.length,1);
+    const precedent=entry.reference_images[0],original=entries.find(e=>e.slug==='russian-constructivism').adopted_images.find(i=>i.id===precedent.id);
+    for(const key of ['work_id','local_file','sha256','accession','license','license_url','source_page'])assert.equal(precedent[key],original[key]);
+    assert.equal(await page.locator('.reference-art').count(),1);assert((await page.locator('.reference-art').textContent()).includes('関連する先行例'));
+    assert.equal(await page.getByText(entry.image_status_note,{exact:true}).count(),1);
+   }
    const sourceSizes=await page.locator('.collected-art img').evaluateAll(async xs=>Promise.all(xs.map(async i=>{const raw=new Image();raw.src=i.currentSrc;await raw.decode();return {width:i.getBoundingClientRect().width,natural:raw.naturalWidth,src:i.currentSrc};})));
    assert(sourceSizes.every(x=>x.width<=x.natural+0.5),'Expanded chapter actual image source is not enlarged');
    fs.writeFileSync(`qa-artifacts/deep-${slug}-source-sizes-${width}.json`,JSON.stringify(sourceSizes,null,2));
@@ -85,12 +147,21 @@ for(const width of [320,390,1280]){
    await page.locator('.article-index a[href="#deeper-story"]').click();
    await page.waitForFunction(()=>{const y=document.querySelector('#deeper-story').getBoundingClientRect().top;return y>=-2&&y<100},null,{timeout:5000});
    await page.screenshot({path:`qa-artifacts/deep-${slug}-story-${width}.png`});
-   if(entry.adopted_images.length){await page.locator('.article-image-index summary').click();assert.equal(await page.locator('.article-image-index a').count(),entry.adopted_images.length);await page.locator('.article-image-index a').first().click();}
+   if(entry.adopted_images.length){await page.locator('.article-image-index').evaluate(e=>e.open=false);await page.locator('.article-image-index summary').click();assert(await page.locator('.article-image-index').evaluate(e=>e.open),'Image index opens from closed state');assert.equal(await page.locator('.article-image-index a').count(),entry.adopted_images.length);await page.locator('.article-image-index a').first().click();}
    else {assert.equal(await page.locator('.article-image-index').count(),0);assert.equal(await page.locator('.article-index a[href="#actual-works"]').textContent(),'作品画像の掲載状況');}
    await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)), 'Expanded chapter does not overflow');
    const credits=await page.locator('.collected-art .credit').evaluateAll(xs=>xs.map(x=>({left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right})));assert(credits.every(x=>x.left>=0&&x.right<=width+1),'Expanded chapter credits fit');
    for(const [label,selector] of [['glossary','#article-glossary'],['timeline','#article-timeline'],['regions','.regional-notes']]){if(await page.locator(selector).count()){await page.locator(selector).scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/deep-${slug}-${label}-${width}.png`});}}
+   if(entry.artist_ids||entry.organization_ids){
+    const profileIds=[...(entry.artist_ids||[]),...(entry.organization_ids||[])];
+    assert.equal(await page.locator('#article-artists .artist-record').count(),profileIds.length);
+    for(const [i,person] of (await page.locator('#article-artists .artist-record').all()).entries()){
+     assert(await person.locator('p').first().evaluate(p=>parseFloat(getComputedStyle(p).fontSize)>=16),'Artist profile text is readable');assert(await person.getAttribute('open')!==null);const record=artistRegistry.find(a=>a.id===profileIds[i]);const label=await person.locator('summary').textContent();assert(label.includes(record.entity_type==='organization'?record.date_label:(record.birth_year_status==='conflicting_primary_catalogues'||(record.birth_year_status==='unknown'&&record.death_year_status==='unknown'))?record.life_dates_label:record.death_year!==null&&record.death_year!==undefined?`${record.death_year}年没`:record.life_status==='verified_living'?'存命':'没年の記載は未確認'));if(record.life_status==='unknown')assert(!label.includes('存命'));
+     await person.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
+     await page.screenshot({path:`qa-artifacts/deep-${slug}-artist-${i+1}-${width}.png`});
+    }
+   }
    await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=false));
    for(const [i,fig] of (await page.locator('.collected-art').all()).entries()){
     await fig.locator('img').evaluate(i=>i.decode());
@@ -102,13 +173,28 @@ for(const width of [320,390,1280]){
     const zoomState=await page.evaluate(()=>({inner:innerWidth,scroll:document.documentElement.scrollWidth,overflow:[...document.querySelectorAll('body *')].filter(e=>{const r=e.getBoundingClientRect();return r.width>0&&(r.right>innerWidth+1||r.left< -1)}).map(e=>({tag:e.tagName,class:e.className,text:e.textContent.slice(0,80),width:e.getBoundingClientRect().width,left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right})).slice(0,30)}));
     fs.writeFileSync(`qa-artifacts/deep-${slug}-zoom-${width}-${zoom}x.json`,JSON.stringify(zoomState,null,2));
     await page.screenshot({path:`qa-artifacts/deep-${slug}-title-${width}-${zoom}x.png`});
+    if(zoomState.scroll>zoomState.inner+1){
+     const textOverflow=await page.evaluate(()=>{const result=[],walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let node;while(node=walker.nextNode()){if(!node.textContent.trim())continue;const range=document.createRange();range.selectNodeContents(node);for(const rect of range.getClientRects())if(rect.right>innerWidth+1||rect.left< -1){result.push({text:node.textContent.slice(0,180),parent:node.parentElement.outerHTML.slice(0,600),left:rect.left,right:rect.right,top:rect.top});break;}}return result;});
+     fs.writeFileSync(`qa-artifacts/deep-${slug}-text-overflow-${width}-${zoom}x.json`,JSON.stringify(textOverflow,null,2));
+     await page.locator('.study-title h1').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/deep-${slug}-overflow-title-${width}-${zoom}x.png`});
+    }
     assert(zoomState.scroll<=zoomState.inner+1,'Expanded chapter 200% layout zoom fits');
+    await page.locator('.study-title h1').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/deep-${slug}-visible-heading-${width}-${zoom}x.png`});
+    if(entry.artist_ids||entry.organization_ids){
+     await page.locator('#article-artists details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
+     assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Expanded artist biographies fit at layout zoom');
+     await page.locator('#article-artists').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
+     await page.screenshot({path:`qa-artifacts/deep-${slug}-artists-${width}-${zoom}x.png`});
+    }
+
    }
    await page.evaluate(()=>document.documentElement.style.zoom='');
   }
   results.push({slug,width,...r});
  }
- await page.goto('http://127.0.0.1:8793/',{waitUntil:'networkidle'});await page.locator('#query').fill('中島');assert.equal(await page.locator('#items .entry').count(),1);await page.locator('#reset').click();assert.equal(await page.locator('#items .entry').count(),88);assert((await page.locator('#count').innerText()).includes('本文88件公開'));assert.equal(await page.locator('#items .entry a[href^="entries/"]').count(),88);await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/footer-${width}.png`});
+ await page.goto('http://127.0.0.1:8793/',{waitUntil:'networkidle'});await page.locator('#query').fill('中島');assert.equal(await page.locator('#items .entry').count(),1);await page.locator('#reset').click();assert.equal(await page.locator('#items .entry').count(),89);assert((await page.locator('#count').innerText()).includes('本文89件公開'));assert.equal(await page.locator('#items .entry a[href^="entries/"]').count(),89);await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/footer-${width}.png`});
+ await page.locator('#query').fill('じゃくちゅう');assert.equal(await page.locator('#items .entry').count(),1);assert.equal(await page.locator('#items .entry a[href^="entries/"]').getAttribute('href'),'entries/ito-jakuchu.html');await page.locator('#reset').click();
+ await page.goto('http://127.0.0.1:8793/compare.html?a=ito-jakuchu&b=rinpa',{waitUntil:'networkidle'});const jakuchuCompare=await page.locator('#compare-result').innerText();assert(jakuchuCompare.includes('伊藤若冲')&&jakuchuCompare.includes('琳派'));assert(!jakuchuCompare.includes('undefined'));
  await page.goto('http://127.0.0.1:8793/compare.html?a=hideki-nakajima&b=vienna-secession',{waitUntil:'networkidle'});assert((await page.locator('#compare-result').innerText()).includes('中島'));assert(!(await page.locator('#compare-result').innerText()).includes('undefined'));
  await page.locator('#select-b').selectOption('hideki-nakajima');assert((await page.locator('#compare-status').innerText()).includes('同じ項目'));
  await page.goto('http://127.0.0.1:8793/compare.html?a=art-nouveau&b=art-deco',{waitUntil:'networkidle'});const comparison=await page.locator('#compare-result').innerText();assert(comparison.includes('ジスモンダ'));assert(comparison.includes('Gismonda'));assert(!comparison.includes('undefined'));

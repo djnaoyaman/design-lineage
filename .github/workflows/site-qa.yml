@@ -28,6 +28,7 @@ jobs:
       - run: node tests/chapter-navigation-unit.cjs
       - run: python tests/chapter-navigation-static.py
       - run: python tests/reader-copy-consistency.py
+      - run: python tests/artist-registry.py
       - run: node tests/swipe-hint-unit.cjs
       - run: npm test
       - run: node tests/chapter-navigation-browser.cjs

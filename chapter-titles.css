@@ -1,3 +1,5 @@
 /* Opt-in to semantic wrapping for newly added chapter titles only. */
 .study-title .segmented-title .title-part{display:inline-block;max-width:100%;white-space:normal;line-break:strict;word-break:normal;overflow-wrap:normal;text-wrap:balance}
 .study-title .segmented-title.compact-title{font-size:clamp(40px,7vw,100px)}
+/* A long Japanese run may exceed its box at layout zoom; retain normal word grouping until emergency wrapping is required. */
+.study-title .segmented-title.emergency-wrap .title-part{overflow-wrap:anywhere}

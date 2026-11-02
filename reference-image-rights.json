@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-01",
-  "counting": "参照・関連作品2点。歴史代表作品24点や代表3点セットと別集計。",
+  "checked_at": "2026-11-02",
+  "counting": "参照・関連画像6配置。既存の作品画像と同じ画像の再利用を含みます。この数は、新たに取得した画像の数ではありません。",
   "images": [
     {
       "id": "cma-1961.154-reference",
@@ -316,6 +316,113 @@
       "presentation": {
         "scope_note": "学校の識別マークを示す参考図です。学生の制作例ではありません。"
       }
+    },
+    {
+      "local_file": "assets/lineage-existing-risd-dlia-golosa-question.jpg",
+      "width": 900,
+      "height": 675,
+      "sha256": "3b9ceeee0df9dc757fd4289d42f3b4861b6e66d4ff7c6a22ad66a5a442dc40a3",
+      "local_bytes": 63451,
+      "id": "lissitzky-for-voice-1923-3",
+      "work_id": "lissitzky-for-voice-1923",
+      "entry": "New Typography",
+      "title": "関連する先行例：声のために――疑問符のある見開き",
+      "author": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）",
+      "year": "1923年",
+      "institution": "ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）",
+      "source_page": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
+      "image_url": "https://risdmuseum.cdn.picturepark.com/v/ArEZyVPV/",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "エル・リシツキー（デザイン）／ウラジーミル・マヤコフスキー（詩）／ロシア社会主義連邦ソビエト共和国国立出版所（印刷）《声のために》、1923年。ロードアイランド・スクール・オブ・デザイン美術館（RISD美術館）、RISD2006.92.1。CC0 1.0 Universal。 Mary B. Jackson Fund, 2006.92.1.",
+      "underlying_work_rights": "所蔵館は原作品をパブリックドメインとして公開しています。",
+      "reproduction_rights": "所蔵館が、この画像をCC0 1.0 Universalで公開しています。",
+      "territory_note": "所蔵館による個別の指定に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+      "alt": "詩集の見開き。左は赤い格子と疑問符に大きな黒い文字が重なり、右は赤と黒の大小の文字、本文、ページ番号41、右端の索引が並ぶ。",
+      "visual_notes": [
+        {
+          "title": "文字の大きさで、読む順番をつくる。",
+          "text": "大きな疑問符と小さな本文を分けることで、同じページの中に違う強さが生まれます。赤と黒も、文字を見分ける手がかりです。"
+        },
+        {
+          "title": "読みたい詩を、手で探す。",
+          "text": "右端に小さな文字や記号の目印があります。モマの解説は、この索引が読みたい詩をすばやく探すためにつくられたと説明しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "1923年の詩集から、右ページに41とある見開きです。文字を大小や色で組み合わせ、目的の詩を探しやすくする工夫を見比べます。チヒョルトの作品ではありません。ロシア構成主義の項目と同じ所蔵本・同じ画像を使っています。",
+        "anchor": "lissitzky-for-voice-1923-3"
+      },
+      "pixels_inspected": true,
+      "rights_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true,
+      "status": "adopted_reference_image",
+      "original_bytes_unchanged": true,
+      "image_processing": "配信された原画像を無加工で保持しています。",
+      "accession": "RISD2006.92.1",
+      "reuse_notice": "この画像はRISD美術館の所蔵番号2006.92.1の画像です。他館の同じ書名の所蔵本や、その画像に付された別の権利表示には適用されません。",
+      "original_image": {
+        "url": "https://risdmuseum.cdn.picturepark.com/v/ArEZyVPV/",
+        "width": 900,
+        "height": 675,
+        "sha256": "3b9ceeee0df9dc757fd4289d42f3b4861b6e66d4ff7c6a22ad66a5a442dc40a3"
+      },
+      "reference_role": "related_precedent"
+    },
+    {
+      "id": "klinger-abduction-1881-met",
+      "work_id": "klinger-glove-abduction-1881-met-2009-53",
+      "entry": "Surrealism",
+      "reference_role": "related_precedent",
+      "title": "関連する先行例：手袋をさらう怪物――版画集「拾った手袋についてのパラフレーズ」第9図",
+      "author": "マックス・クリンガー（版画）／F・フェルジング（印刷）",
+      "year": "1881年",
+      "institution": "メトロポリタン美術館",
+      "accession": "2009.53",
+      "source_page": "https://www.metmuseum.org/art/collection/search/420618",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP334017.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "マックス・クリンガー《Abduction》、1881年。F・フェルジング印刷。メトロポリタン美術館、2009.53。Purchase, The Isaacson-Draper Foundation Gift, 2009。Public Domain／CC0。",
+      "underlying_work_rights": "所蔵館は、この1881年の版画をパブリックドメインとして公開しています。",
+      "reproduction_rights": "所蔵館のオープンアクセス方針により、このパブリックドメイン作品の画像はCC0で公開されています。",
+      "territory_note": "所蔵館による個別の指定と画像公開方針に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+      "local_file": "assets/klinger-abduction-met-original.jpg",
+      "width": 3915,
+      "height": 2837,
+      "sha256": "6159889c2b83f00c4eb06e0cc804a7ab6c20e0570a6900ab43adedf122df961e",
+      "local_bytes": 1069972,
+      "alt": "広い白い紙の中央に小さな横長の版画。翼のある怪物が手袋をくわえて飛び、左の窓から伸びる二本の腕が追いかける。下には花が咲く。",
+      "visual_notes": [
+        {
+          "title": "いつもの物が、夢の中で別の役になる。",
+          "text": "手袋という小さな持ち物が、怪物にさらわれる大事件の中心になっています。窓から伸びる腕と、右へ飛ぶ翼の向きを見比べてみましょう。"
+        },
+        {
+          "title": "物語の一場面を、細い線で描く。",
+          "text": "怪物も窓も花も、白と黒の細かな線で描かれています。現実にありそうな描き方と、ありえない出来事が同じ画面に並びます。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "日本語の見出しは、場面を伝えるための説明名です。1881年の版画集の第9図です。初版で、版を直して刷った五つの段階のうち第2段階にあたる所蔵品です。紙の余白と端を含め、提供画像の全体を保持しています。細部を見たいときは、画像をタップすると大きな原画像を開けます。1924年に始まる運動の正式なメンバー作品ではなく、関連する先行例として紹介します。",
+        "anchor": "klinger-abduction-1881-met"
+      },
+      "original_image": {
+        "url": "https://images.metmuseum.org/CRDImages/dp/original/DP334017.jpg",
+        "width": 3915,
+        "height": 2837,
+        "sha256": "6159889c2b83f00c4eb06e0cc804a7ab6c20e0570a6900ab43adedf122df961e"
+      },
+      "image_processing": "提供された原JPEGを無加工で保持しています。",
+      "original_bytes_unchanged": true,
+      "pixels_inspected": true,
+      "status": "adopted_reference_image",
+      "rights_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true
     }
   ]
 }
