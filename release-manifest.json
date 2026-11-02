@@ -1,8 +1,8 @@
 {
-  "release": "public-content-new-typography-20261102-1907",
+  "release": "public-content-hideki-nakajima-20261102-1908",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T19:07:00+09:00",
+  "frozen_at": "2026-11-02T19:08:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 153309,
-      "sha256": "bfe76268066fdf45ec1274e23e14e957a2138b39a0aab3a3ddd635ac40901942"
+      "bytes": 156547,
+      "sha256": "fd7d5fda4100418ec05332733869f6470a5ba389b776859775ba4e5b77871b4c"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1383,8 +1383,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1859753,
-      "sha256": "594ce9858fefaf2f16a2bcc378216bbd5759ef9687306932546a5f6f68445852"
+      "bytes": 1859804,
+      "sha256": "b68f47d802dfec4a6869d1b7d66dd921d05d9ac75ebeba33f33df94069c39921"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1518,8 +1518,8 @@
     },
     {
       "path": "entries/hideki-nakajima.html",
-      "bytes": 37924,
-      "sha256": "bf4a6abd74c79a01399a7a4d89242c825c1458fcd75ae9a88ca3e15eca8f4480"
+      "bytes": 40250,
+      "sha256": "1b31b4820d5fe1b12f7d6c9f40c78bc39e25b5ede2b401daa8fef97b11b34faf"
     },
     {
       "path": "entries/hurufiyya.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "f9b4878ab6c78f0d3f30774a558a9aa4e28e317166b6f7f9cf85194cd4037213"
+      "sha256": "7b4f4b2902f49b3337fb3a4139647e6ee69ae79f143e8705d11374901873287f"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "80b54e0c5b9543d42ef85effab5ac5c63a0759dd452e39e66aab8acfa7e1eab1"
+      "sha256": "8fbd7975c1ab691e7820251b7d8119fa5f953a192b2c1b8ecdb0e331061eda86"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "1b9a17eb7b87d6242bd9315a705aa9b50737eb72835392958f1134e92169355c"
+      "sha256": "7af78223e9442e48c3d14a5eff09e71ade3ee2a8bd7739b8b1edcef6721c94fa"
     },
     {
       "path": "study-images.js",
@@ -1978,8 +1978,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 24277,
-      "sha256": "e2599b8564c1732dffd0c8d00dd3e317aa5c4b4ff2e67131ffd7be6517cfb3c8"
+      "bytes": 25385,
+      "sha256": "402906186147d5c31a83cbc853638fd131e851e33c36e0defc3008c579545492"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
