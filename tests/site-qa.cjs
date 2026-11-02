@@ -81,6 +81,29 @@ for(const width of [320,390,1280]){
   }
   if(["punk-diy", "new-bauhaus-chicago", "vkhutemas", "black-mountain-college", "psychedelic-art", "streamline-moderne", "polish-poster-school", "surrealism", "jugendstil", "scandinavian-modern", "brutalism", "critical-regionalism", "mid-century-modern", "radical-design", "memphis", "new-wave-typography", "supergraphics", "bengal-school", "shinkenchiku-kogei-gakuin", "kuwasawa-design-school", "nid-ahmedabad", "esdi-rio", "shinko-shashin", "gutai", "mono-ha", "dansaekhwa", "taller-grafica-popular", "tropicalismo", "negritude-visual-culture", "khartoum-school", "wayo-graphic", "brazilian-modernism", "tropical-modernism", "typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web", "suprematism", "wiener-werkstaette", "russian-constructivism", "metabolism", "art-deco", "international-style", "rococo", "neoclassicism", "postmodernism", "de-stijl"].includes(slug)){await page.locator('main details').evaluateAll(ds=>ds.forEach(d=>d.open=true));assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),`${slug} expanded overflow`);}
   if(["typography-typesetting", "photomontage", "collage", "silkscreen", "risograph", "pixel-art", "generative-design", "parametric-design", "information-visualization", "skeuomorphism", "neumorphism", "glassmorphism", "web-brutalism", "neo-brutalism", "bento-layouts", "y2k-revival", "kinetic-typography", "variable-font-expression", "3d-clay-illustration", "maximalist-web"].includes(slug)){await page.locator("#representative-works").scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/${slug}-expanded-${width}.png`});const parts=await page.locator('.segmented-title .title-part').evaluateAll(xs=>xs.map(x=>{const r=document.createRange();r.selectNodeContents(x);return {lines:r.getClientRects().length,left:x.getBoundingClientRect().left,right:x.getBoundingClientRect().right};}));assert(parts.every(x=>x.lines===1&&x.left>=0&&x.right<=width+1),'Semantic title parts fit');await page.locator(".study-title").screenshot({path:`qa-artifacts/${slug}-title-${width}.png`});}
+  if(slug==='hideki-nakajima'){
+   const profile=page.locator('#article-artists .artist-record');assert.equal(await profile.count(),1);
+   await profile.locator('summary').click();assert(await profile.getAttribute('open')!==null);
+   assert((await profile.locator('summary').textContent()).includes('1961年生まれ／2022年没'));
+   assert(await profile.locator('p').first().evaluate(p=>parseFloat(getComputedStyle(p).fontSize)>=16));
+   for(const zoom of [1,2]){
+    await page.evaluate(z=>document.documentElement.style.zoom=String(z),zoom);
+    await profile.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
+    const geometry=await page.evaluate(()=>{
+     const overflow=[...document.querySelectorAll('main *')].map(e=>({tag:e.tagName,cls:e.className,text:e.textContent.slice(0,160),left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right})).filter(r=>r.left < -1||r.right>innerWidth+1);
+     const textOverflow=[];const walker=document.createTreeWalker(document.querySelector('main'),NodeFilter.SHOW_TEXT);let n;while(n=walker.nextNode()){if(!n.textContent.trim()||!n.parentElement.checkVisibility())continue;const r=document.createRange();r.selectNodeContents(n);for(const b of r.getClientRects())if(b.left < -1||b.right>innerWidth+1)textOverflow.push({text:n.textContent.slice(0,160),tag:n.parentElement.tagName,cls:n.parentElement.className,left:b.left,right:b.right});}
+     return {inner:innerWidth,scroll:document.documentElement.scrollWidth,overflow,textOverflow};
+    });
+    fs.writeFileSync(`qa-artifacts/nakajima-profile-${width}-${zoom}x.json`,JSON.stringify(geometry));
+    await page.screenshot({path:`qa-artifacts/nakajima-profile-before-assert-${width}-${zoom}x.png`});
+    assert(geometry.scroll<=geometry.inner+1,'Nakajima expanded profile fits at layout zoom');
+    assert.equal(geometry.overflow.length,0,'Nakajima blocks fit');assert.equal(geometry.textOverflow.length,0,'Nakajima rendered text fits');
+    await page.locator('h1').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/nakajima-heading-${width}-${zoom}x.png`});
+    await profile.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
+    await page.screenshot({path:`qa-artifacts/nakajima-profile-${width}-${zoom}x.png`});
+   }
+   await page.evaluate(()=>document.documentElement.style.zoom='1');
+  }
   if(['art-nouveau','rinpa','surrealism','art-deco','mid-century-modern','mexican-muralism','ito-jakuchu','new-typography','international-style','dansaekhwa'].includes(slug)&&entries.find(e=>e.slug===slug).deep_dive){
    const entry=entries.find(e=>e.slug===slug);
    if(slug==='new-typography'){

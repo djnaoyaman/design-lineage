@@ -3230,6 +3230,79 @@
         }
       ],
       "name_reading": "すずき きいつ"
+    },
+    {
+      "id": "hideki-nakajima",
+      "name_ja": "中島英樹",
+      "name_kana": "なかじま ひでき",
+      "name_reading": "なかじま ひでき",
+      "name_original": "Hideki Nakajima",
+      "birth_year": 1961,
+      "death_year": 2022,
+      "short_bio": "雑誌、本、音楽のジャケットなどを手がけた日本のグラフィックデザイナー。ロッキング・オンなどで仕事をした後、1995年に中島デザインを設立しました。文字の形や紙の質感を生かし、読むことと見ることを結びつけました。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "hideki-nakajima",
+          "role": "この人物項目の主題",
+          "description": "この項目では、雑誌の仕事と、展覧会のためにつくったポスターや作品集を見比べます。"
+        }
+      ],
+      "representative_works": [
+        {
+          "id": "nakajima-seven-2005",
+          "title_ja": "セブン・エキシビションのポスター",
+          "title_original": "SEVEN EXHIBITION",
+          "date_label": "2005年",
+          "work_type": "展覧会ポスター",
+          "institution": "東京タイプディレクターズクラブ",
+          "source_url": "https://tokyotypedirectorsclub.org/award/2006_grandprix/",
+          "note": "香港の展覧会のためのポスター。2006年は東京TDCグランプリの受賞年で、制作年とは異なります。"
+        },
+        {
+          "id": "nakajima-sn-2002",
+          "title_ja": "エス・エヌ",
+          "title_original": "S/N",
+          "date_label": "2002年",
+          "work_type": "書籍",
+          "institution": "中島デザイン",
+          "source_url": "https://www.nkjm-d.com/jp/about_us.html",
+          "note": "坂本龍一との共同制作として刊行された本です。"
+        },
+        {
+          "id": "nakajima-clear-fog-2006",
+          "title_ja": "クリア・イン・ザ・フォグ",
+          "title_original": "CLEAR in the FOG",
+          "date_label": "2006年",
+          "work_type": "作品集",
+          "institution": "中島デザイン",
+          "source_url": "https://www.nkjm-d.com/jp/about_us.html",
+          "note": "2006年刊。翌年の『CLEAR in the FOG 2』とは別の本です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "nkjm-bio",
+          "institution": "中島デザイン",
+          "title": "中島英樹 略歴",
+          "url": "https://www.nkjm-d.com/jp/about_us.html",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "ddd-nakajima",
+          "institution": "DNP文化振興財団・dddデータベース",
+          "title": "中島 英樹",
+          "url": "https://www.ddddb.online/ja/people/hideki-nakajima/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "tdc-seven",
+          "institution": "東京タイプディレクターズクラブ",
+          "title": "SEVEN EXHIBITION（2006年グランプリ）",
+          "url": "https://tokyotypedirectorsclub.org/award/2006_grandprix/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02"
     }
   ],
   "organizations": [
