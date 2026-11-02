@@ -27,7 +27,7 @@
 - [浮世絵 / 浮世絵](https://djnaoyaman.github.io/design-lineage/entries/ukiyoe.html): 絵画・木版画にまたがる表現の領域（木版技法そのものとは区別）。17–19世紀の展開を中心に扱う。1765年は多色の一枚摺・錦絵の重要な節目。。
 - [中国新興木刻運動 / 中国新興木刻運動](https://djnaoyaman.github.io/design-lineage/entries/china-new-woodcut.html): 社会・文化的な版画運動（木版技法そのものとは区別）。1930年代の形成と展開を中心に扱う／1940年代以降の変化は別に精査。
 - [サンティニケタン / Santiniketan](https://djnaoyaman.github.io/design-lineage/entries/santiniketan.html): 教育共同体・芸術教育の場所（単一の造形様式ではない）。1863年のアシュラム、1901年の学校、1921年の大学をそれぞれの節目として区別。。
-- [メキシコ壁画運動 / Mexican Muralism](https://djnaoyaman.github.io/design-lineage/entries/mexican-muralism.html): 公共的・教育的な美術運動（単一技法・固定様式ではない）。1920年代に展開・定着し20世紀後半へ継続。1921年の先行例と1922年の集団的実験を区別する。。
+- [メキシコ壁画運動 / Mexican Muralism](https://djnaoyaman.github.io/design-lineage/entries/mexican-muralism.html): 公共的・教育的な美術運動（単一技法・固定様式ではない）。1920年代に展開・定着し20世紀後半へ継続。1921年の先行例と1922年の集団的実験を区別する。。実作品画像1点、作品・制作の例7件、人物4人。画像収録は継続中。
 - [ヌスカ学派 / Nsukka School](https://djnaoyaman.github.io/design-lineage/entries/nsukka-school.html): 教育拠点に結びつく現代美術の学派。取得済資料では1970年代の教育と制作の展開を確認。全体の始期・終期は未精査。。
 - [フルーフィーヤ / Hurufiyya](https://djnaoyaman.github.io/design-lineage/entries/hurufiyya.html): 文字を造形要素として扱う近現代美術の動向。20世紀半ばの形成に関する根拠と1968・1986・2010年の作品例。単一集団の創始年や統一した終期は設定しない。。
 - [フラットデザイン / Flat design](https://djnaoyaman.github.io/design-lineage/entries/flat-design.html): 近年のUI・デジタルデザインのトレンド。2010年代に普及（NNGは2012年頃を指摘）。
