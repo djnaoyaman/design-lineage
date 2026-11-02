@@ -94,7 +94,7 @@ for(const width of [320,390,1280]){
    if(entry.artist_ids){
     assert.equal(await page.locator('#article-artists .artist-record').count(),entry.artist_ids.length);
     for(const [i,person] of (await page.locator('#article-artists .artist-record').all()).entries()){
-     assert(await person.getAttribute('open')!==null);assert((await person.locator('summary').textContent()).includes('年没'));
+     assert(await person.locator('p').first().evaluate(p=>parseFloat(getComputedStyle(p).fontSize)>=16),'Artist profile text is readable');assert(await person.getAttribute('open')!==null);assert((await person.locator('summary').textContent()).includes('年没'));
      await person.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
      await page.screenshot({path:`qa-artifacts/deep-${slug}-artist-${i+1}-${width}.png`});
     }

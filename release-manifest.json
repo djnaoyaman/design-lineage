@@ -1,8 +1,8 @@
 {
-  "release": "public-content-mexican-muralism-20261102-1618",
+  "release": "public-content-mexican-muralism-20261102-1625",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T16:18:00+09:00",
+  "frozen_at": "2026-11-02T16:25:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 88,
@@ -1308,8 +1308,8 @@
     },
     {
       "path": "deep-reading.css",
-      "bytes": 2275,
-      "sha256": "95812a2f9f77dcaa35e3836564445790fdf20f349e1f4660920d38df696e72e3"
+      "bytes": 2401,
+      "sha256": "5b2278298b257639c58216d492c7641830664ae3a948fc321dfcd5524114b36e"
     },
     {
       "path": "entries.json",
@@ -1514,7 +1514,7 @@
     {
       "path": "entries/mexican-muralism.html",
       "bytes": 53773,
-      "sha256": "036b6e3a348149e8072c6a5c282e8ba3bbd886453bf9d53cfe54d4026653fb69"
+      "sha256": "ae38aca4b30f4b558a03fe32939dd746f08c57e02919ef1ccff0380abd830905"
     },
     {
       "path": "entries/mid-century-modern.html",
@@ -1784,7 +1784,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "89315bb7a0377ef0edcb85184190244cc3491651f6f713ac894301ccd7bd0ee9"
+      "sha256": "69e54ad50dd3b42fdc82c0506368fd3c55cbd7251df81b34d19c0ce88098ced6"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1834,7 +1834,7 @@
     {
       "path": "scripts/render-entries.py",
       "bytes": 19344,
-      "sha256": "e2c960ee63ac06f1d0a7d05d4346b252f602b449b492edd94b3f09fa531bcbc0"
+      "sha256": "1407f543c90bfdfae3dc573328fd944f0b38ead5f40f26f923c90273d55d77fb"
     },
     {
       "path": "share-copy.json",
@@ -1849,7 +1849,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "08cc7acfb3fabb5c4460fe38af5309bf3add21ca1ac7cd059dd68fac3acedb2b"
+      "sha256": "31af5a43504ff67b5eca2d01bd1d8d513b887793723e131338abbc5c0ed1066c"
     },
     {
       "path": "site.webmanifest",
@@ -1859,7 +1859,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "0cea09201a95eda8bff26bf35bcb8573d7b91fa2ea7fd270f49d242eca3a4891"
+      "sha256": "4b7b65e863eac7ba68333d4673937f08425db489998e02a90f731ecf7717dd78"
     },
     {
       "path": "study-images.js",
@@ -1903,8 +1903,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 20220,
-      "sha256": "c05276903a4aa0c109aecaad0006d01461367fb1e38311e1e781bc4df9a475aa"
+      "bytes": 20354,
+      "sha256": "75d6c18e5624b77888fa0de6401f02fe78d3422020d68b4b739d6ab8320594d2"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
