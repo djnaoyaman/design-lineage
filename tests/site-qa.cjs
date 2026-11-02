@@ -16,8 +16,9 @@ for(const width of [320,390,1280]){
   const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
   if(['rinpa','rococo','art-deco','russian-constructivism'].includes(slug)&&width<400){
    await page.evaluate(()=>document.fonts.ready);
-   const scope=page.locator('#sources');
-   if(await scope.count()){await scope.evaluate(e=>e.scrollIntoView({block:'end',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/copy-scope-${slug}-${width}.png`});}
+   const scope=page.locator('p').filter({hasText:slug==='rinpa'?'書・屏風（びょうぶ）・器・箱・本を見比べます。':'この項目の実作品画像は'}).last();
+   assert.equal(await scope.count(),1,'Visible reader scope/count exists');
+   await scope.evaluate(e=>e.scrollIntoView({block:'end',behavior:'instant'}));await page.screenshot({path:`qa-artifacts/copy-scope-${slug}-${width}.png`});
    await page.locator('.representative').first().evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
    await page.screenshot({path:`qa-artifacts/copy-card-${slug}-${width}.png`});
   }
