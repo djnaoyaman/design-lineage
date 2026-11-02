@@ -1905,6 +1905,398 @@
           "description": "家具や建築だけでなく、同時代の視覚伝達を示す例として紹介します。この章で扱うのは映画のポスターで、タイトル映像そのものではありません。"
         }
       ]
+    },
+    {
+      "id": "salvador-dali",
+      "name_ja": "サルバドール・ダリ",
+      "name_kana": "サルバドール・ダリ",
+      "name_original": "Salvador Dalí",
+      "birth_year": 1904,
+      "death_year": 1989,
+      "short_bio": "スペインの画家。1920年代末にパリのシュルレアリスムと深く関わり、夢のような場面を精密に描きました。絵画だけでなく、文章や映画にも活動を広げました。",
+      "representative_works": [
+        {
+          "id": "surrealism-work-1",
+          "title_ja": "記憶の固執",
+          "title_original": "The Persistence of Memory",
+          "date_label": "1931年",
+          "start_year": 1931,
+          "end_year": 1931,
+          "work_type": "絵画",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/79018",
+          "accession": "162.1934",
+          "medium": "キャンバスに油彩",
+          "dimensions": "24.1 × 33 cm",
+          "note": "MoMA所蔵の1931年の絵画。作品番号に含まれる1934年を制作年とはしません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-salvador-dali-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Salvador Dali",
+          "url": "https://www.moma.org/artists/1364-salvador-dali",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-memory-object",
+          "institution": "ニューヨーク近代美術館",
+          "title": "The Persistence of Memory",
+          "url": "https://www.moma.org/collection/works/79018",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-surrealism-essay",
+          "institution": "メトロポリタン美術館",
+          "title": "Surrealism",
+          "url": "https://www.metmuseum.org/essays/surrealism",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "精密な描写で、現実にない場面を描く画家",
+          "description": "《記憶の固執》を、運動にあった多様な方法の一つとして紹介します。ダリの描き方だけがシュルレアリスムだったわけではありません。"
+        }
+      ]
+    },
+    {
+      "id": "meret-oppenheim",
+      "name_ja": "メレット・オッペンハイム",
+      "name_kana": "メレット・オッペンハイム",
+      "name_original": "Meret Oppenheim",
+      "birth_year": 1913,
+      "death_year": 1985,
+      "short_bio": "スイスの美術家。1930年代にシュルレアリストたちと作品を発表し、日用品の意外な組み合わせを試しました。絵画、立体、コラージュ、宝飾など、長い活動を通じて幅広い制作を続けました。",
+      "representative_works": [
+        {
+          "id": "surrealism-work-2",
+          "title_ja": "オブジェ",
+          "title_original": "Object",
+          "date_label": "1936年",
+          "start_year": 1936,
+          "end_year": 1936,
+          "work_type": "立体作品",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/80997",
+          "accession": "130.1946.a-c",
+          "medium": "毛皮で覆ったカップ、受け皿、スプーン",
+          "dimensions": "カップ直径10.9 cm、受け皿直径23.7 cm、スプーン長20.2 cm、全高7.3 cm",
+          "note": "1936年、パリで制作された一組の作品。所蔵番号のa–cは構成する三点を示します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-meret-oppenheim-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Meret Oppenheim",
+          "url": "https://www.moma.org/artists/4416-meret-oppenheim",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-object-object",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Object",
+          "url": "https://www.moma.org/collection/works/80997",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-oppenheim-my-exhibition",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Meret Oppenheim: My Exhibition",
+          "url": "https://www.moma.org/calendar/exhibitions/5368",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "身近な物の感覚と使い方を変える美術家",
+          "description": "毛皮で覆った器を制作した作者として紹介します。有名な一作品や、他の作家のモデルという役割だけに活動を限定しません。"
+        }
+      ]
+    },
+    {
+      "id": "rene-magritte",
+      "name_ja": "ルネ・マグリット",
+      "name_kana": "ルネ・マグリット",
+      "name_original": "René Magritte",
+      "birth_year": 1898,
+      "death_year": 1967,
+      "short_bio": "ベルギーの画家。見慣れた人物や物を描きながら、説明しきれない関係をつくりました。1927年にパリへ移り、シュルレアリスムの絵画に重要な役割を果たしました。",
+      "representative_works": [
+        {
+          "id": "surrealism-work-3",
+          "title_ja": "脅かされる暗殺者",
+          "title_original": "The Menaced Assassin",
+          "date_label": "1927年",
+          "start_year": 1927,
+          "end_year": 1927,
+          "work_type": "絵画",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/79267",
+          "accession": "247.1966",
+          "medium": "キャンバスに油彩",
+          "dimensions": "150.4 × 195.2 cm",
+          "note": "MoMAは制作地をブリュッセルと記録しています。同じ年に作者がパリへ移ったことから、この絵をパリ制作としません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-rene-magritte-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Rene Magritte",
+          "url": "https://www.moma.org/artists/3692-rene-magritte",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-assassin-object",
+          "institution": "ニューヨーク近代美術館",
+          "title": "The Menaced Assassin",
+          "url": "https://www.moma.org/collection/works/79267",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-surrealism-essay",
+          "institution": "メトロポリタン美術館",
+          "title": "Surrealism",
+          "url": "https://www.metmuseum.org/essays/surrealism",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "見慣れた姿と不可解な関係を組み合わせる画家",
+          "description": "細かく描かれた室内の中で、物語が一つに定まらない絵画の例として紹介します。作品の制作地と作者の移住歴は区別します。"
+        }
+      ]
+    },
+    {
+      "id": "andre-masson",
+      "name_ja": "アンドレ・マッソン",
+      "name_kana": "アンドレ・マッソン",
+      "name_original": "André Masson",
+      "birth_year": 1896,
+      "death_year": 1987,
+      "short_bio": "フランスの画家。あらかじめ主題を決めずに線を引く、自動描画の実験を進めました。生まれた線から形を見つけ、ときには意識して描き足す方法で、無意識と制作の関係を探りました。",
+      "representative_works": [
+        {
+          "id": "surrealism-masson-automatic",
+          "title_ja": "自動描画",
+          "title_original": "Automatic Drawing",
+          "date_label": "1924年",
+          "start_year": 1924,
+          "end_year": 1924,
+          "work_type": "素描",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/38201",
+          "accession": "873.1978",
+          "medium": "紙にインク",
+          "dimensions": "23.5 × 20.6 cm",
+          "note": "MoMAの年代表記は「(1924)」。同名の別の素描ではなく、作品番号873.1978の一点を参照します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-andre-masson-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Andre Masson",
+          "url": "https://www.moma.org/artists/3821-andre-masson",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-automatic-object",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Automatic Drawing",
+          "url": "https://www.moma.org/collection/works/38201",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-surrealism-essay",
+          "institution": "メトロポリタン美術館",
+          "title": "Surrealism",
+          "url": "https://www.metmuseum.org/essays/surrealism",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "自動描画を試みた画家",
+          "description": "文学の自動記述と関係する素描の実験を示します。「最初から最後まで意識を使わない制作」とは説明しません。"
+        }
+      ]
+    },
+    {
+      "id": "leonora-carrington",
+      "name_ja": "レオノーラ・キャリントン",
+      "name_kana": "レオノーラ・キャリントン",
+      "name_original": "Leonora Carrington",
+      "birth_year": 1917,
+      "death_year": 2011,
+      "short_bio": "英国に生まれた画家・作家。欧州でシュルレアリストたちと交流し、戦争を逃れてニューヨークを経由し、メキシコへ移りました。動物と人の境界を越える姿や、不思議な出来事を、絵と文章で表しました。",
+      "representative_works": [
+        {
+          "id": "surrealism-carrington-green-tea",
+          "title_ja": "緑茶",
+          "title_original": "Green Tea",
+          "date_label": "1942年",
+          "start_year": 1942,
+          "end_year": 1942,
+          "work_type": "絵画",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/297568",
+          "accession": "145.2019",
+          "medium": "キャンバスに油彩",
+          "dimensions": "61 × 76.2 cm",
+          "note": "MoMAはニューヨークへ移った後の経験と結びつけて解説しています。囲われた人物を作者自身と見る解釈はありますが、唯一の答えではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-leonora-carrington-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Leonora Carrington",
+          "url": "https://www.moma.org/artists/993-leonora-carrington",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-green-object",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Green Tea",
+          "url": "https://www.moma.org/collection/works/297568",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nmwa-carrington-bio",
+          "institution": "National Museum of Women in the Arts",
+          "title": "Leonora Carrington",
+          "url": "https://nmwa.org/art/artists/leonora-carrington/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "絵画と文章で独自の世界をつくった作者",
+          "description": "移住によって広がった運動を示す一人です。メキシコでの長い活動と、1942年の《緑茶》の制作背景を一括りにしません。"
+        }
+      ]
+    },
+    {
+      "id": "remedios-varo",
+      "name_ja": "レメディオス・バロ",
+      "name_kana": "レメディオス・バロ",
+      "name_original": "Remedios Varo",
+      "birth_year": 1908,
+      "death_year": 1963,
+      "short_bio": "スペインに生まれた画家。パリのシュルレアリストたちと交流し、戦争を逃れて1941年にメキシコへ渡りました。細かな描写と偶然できる模様を組み合わせ、幻想的な人物や出来事を描きました。",
+      "representative_works": [
+        {
+          "id": "surrealism-varo-juggler",
+          "title_ja": "曲芸師（魔術師）",
+          "title_original": "The Juggler (The Magician)",
+          "date_label": "1956年",
+          "start_year": 1956,
+          "end_year": 1956,
+          "work_type": "絵画",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/291307",
+          "accession": "736.2018",
+          "medium": "板に油彩、真珠母貝のはめ込み",
+          "dimensions": "91 × 122 cm",
+          "note": "板に描かれた作品で、キャンバス画ではありません。表面の模様にはデカルコマニーが使われています。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-remedios-varo-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Remedios Varo",
+          "url": "https://www.moma.org/artists/8317-remedios-varo",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-juggler-object",
+          "institution": "ニューヨーク近代美術館",
+          "title": "The Juggler (The Magician)",
+          "url": "https://www.moma.org/collection/works/291307",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nmwa-varo-bio",
+          "institution": "National Museum of Women in the Arts",
+          "title": "Remedios Varo",
+          "url": "https://nmwa.org/art/artists/remedios-varo/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "亡命後のメキシコで独自の絵画を展開した画家",
+          "description": "《曲芸師》では、下描きを移す方法と、絵の具の模様を転写する方法を併用しています。精密な描写と偶然の利用を対立させずに見られます。"
+        }
+      ]
+    },
+    {
+      "id": "koga-harue",
+      "name_ja": "古賀春江",
+      "name_kana": "コガ・ハルエ",
+      "name_original": "Koga Harue",
+      "birth_year": 1895,
+      "death_year": 1933,
+      "short_bio": "福岡県久留米市に生まれた画家。水彩画から出発し、さまざまな前衛表現を試しました。晩年は、写真や科学雑誌などの図像を一つの画面へ組み合わせる絵画を制作し、詩作も続けました。",
+      "representative_works": [
+        {
+          "id": "surrealism-koga-sea",
+          "title_ja": "海",
+          "title_original": "海 / Sea",
+          "date_label": "1929年",
+          "start_year": 1929,
+          "end_year": 1929,
+          "work_type": "絵画",
+          "institution": "東京国立近代美術館",
+          "source_url": "https://search.artmuseums.go.jp/records.php?sakuhin=4596",
+          "accession": "O00389",
+          "medium": "キャンバスに油彩",
+          "dimensions": "130.0 × 162.5 cm",
+          "note": "1929年の第16回二科展に出品。1964年度の購入は所蔵に関する年で、制作年ではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "koga-sea-1",
+          "institution": "国立アートリサーチセンター",
+          "title": "日本アーティスト事典：古賀春江",
+          "url": "https://artplatform.go.jp/ja/artists/A1363",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "koga-sea-0",
+          "institution": "国立美術館",
+          "title": "古賀春江《海》所蔵記録",
+          "url": "https://search.artmuseums.go.jp/records.php?sakuhin=4596",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "日本でシュルレアリスムの受容に関わった画家",
+          "description": "《海》以降の作品は日本の受容の端緒に位置づけられますが、合理的な構成や同時代のメディアとの関係もあります。パリのグループの正式なメンバーとはしません。"
+        }
+      ]
     }
   ]
 }

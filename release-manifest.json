@@ -1,8 +1,8 @@
 {
-  "release": "public-content-mid-century-modern-20261102-1809",
+  "release": "public-content-surrealism-20261102-1816",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T18:09:00+09:00",
+  "frozen_at": "2026-11-02T18:16:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -29,7 +29,7 @@
     {
       "path": "README.md",
       "bytes": 5098,
-      "sha256": "29bd0c18d05683e723322d91a70a52c90d67d67f57fdd148b531515c36343bc8"
+      "sha256": "12f0b59df8260cdbb99d5fa7cf23b52f206499900be0304fc3cfdadec1d6f899"
     },
     {
       "path": "adopted-image-rights.json",
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 88451,
-      "sha256": "ec395e8c7693a33631e288f7358af3ae11e226af37169194805837d49a7833a0"
+      "bytes": 105716,
+      "sha256": "7e859555539595192b59202ba6706089beb71ff71de86f0cff9f927a9dc3f61a"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1333,8 +1333,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 37064,
-      "sha256": "accb5567d1c5605c9f2b50df0a224ce6140540c65026c15153a96b4fcf8acb91"
+      "bytes": 37143,
+      "sha256": "a76ae74674789774cf88900a04e814bec57ccdb120234da8bcd795887b61321f"
     },
     {
       "path": "chapter-navigation.css",
@@ -1383,8 +1383,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1834519,
-      "sha256": "8707c548b8a417a52d3288c8a3aa353ed08c563375157e4a22cff749b5d154a8"
+      "bytes": 1853628,
+      "sha256": "bb3e91b4e165892c86b266916209ebd8583aa1036937b65c1a523350739c1db4"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1763,8 +1763,8 @@
     },
     {
       "path": "entries/surrealism.html",
-      "bytes": 13029,
-      "sha256": "42929081bc49c509d14eae488548a2cc440af44fa40714815c894152f3eef71f"
+      "bytes": 41464,
+      "sha256": "dde65443382e08d3998b01d5bc6236734a2ca1e17230bb1c142c86374925b8ae"
     },
     {
       "path": "entries/swiss-style.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "5f3468c67ccce254d3a7e3f735429bef650a2758b6b0a573e5c4039ab37a3bab"
+      "sha256": "6e3d307bca3195c9ee86c2a4cc5efebd63f6ee6d2b9c83fc6e8b6ab68e4f9f6e"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1868,8 +1868,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25929,
-      "sha256": "c5be717e052eb690becdf37df6055b7b45c5c0beec10f937ed776756ce406c38"
+      "bytes": 25970,
+      "sha256": "9a2c047361ecebac2a62dd29757d194b25a64585b9e80a2b0dd98ce5c5270a13"
     },
     {
       "path": "logo-provenance.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "d322dec5a2d2374a41dee93961f7da1ab08c0985db8c7e9269888336295e4fb4"
+      "sha256": "69edb5caeaa2b843d91748a9796cc9c489395ee628b29d32e884f4734d4c59df"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "3dc0844b5491f8379884b405cc7fde79e308991d3a496c20124a542202713e55"
+      "sha256": "c06b7e9ddf33fcbe652ba964cfd95267bd9253b46b5d45b3907bb7298f133faa"
     },
     {
       "path": "study-images.js",
