@@ -89,8 +89,13 @@ for(const width of [320,390,1280]){
    for(const zoom of [1,2]){
     await page.evaluate(z=>document.documentElement.style.zoom=String(z),zoom);
     await profile.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));
-    const geometry=await page.evaluate(()=>({inner:innerWidth,scroll:document.documentElement.scrollWidth}));
+    const geometry=await page.evaluate(()=>{
+     const overflow=[...document.querySelectorAll('main *')].map(e=>({tag:e.tagName,cls:e.className,text:e.textContent.slice(0,160),left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right})).filter(r=>r.left < -1||r.right>innerWidth+1);
+     const textOverflow=[];const walker=document.createTreeWalker(document.querySelector('main'),NodeFilter.SHOW_TEXT);let n;while(n=walker.nextNode()){if(!n.textContent.trim()||!n.parentElement.checkVisibility())continue;const r=document.createRange();r.selectNodeContents(n);for(const b of r.getClientRects())if(b.left < -1||b.right>innerWidth+1)textOverflow.push({text:n.textContent.slice(0,160),tag:n.parentElement.tagName,cls:n.parentElement.className,left:b.left,right:b.right});}
+     return {inner:innerWidth,scroll:document.documentElement.scrollWidth,overflow,textOverflow};
+    });
     fs.writeFileSync(`qa-artifacts/nakajima-profile-${width}-${zoom}x.json`,JSON.stringify(geometry));
+    await page.screenshot({path:`qa-artifacts/nakajima-profile-before-assert-${width}-${zoom}x.png`});
     assert(geometry.scroll<=geometry.inner+1,'Nakajima expanded profile fits at layout zoom');
     await page.screenshot({path:`qa-artifacts/nakajima-profile-${width}-${zoom}x.png`});
    }

@@ -1,8 +1,8 @@
 {
-  "release": "public-content-hideki-nakajima-20261102-1908",
+  "release": "public-content-hideki-nakajima-20261102-1927",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T19:08:00+09:00",
+  "frozen_at": "2026-11-02T19:27:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1519,7 +1519,7 @@
     {
       "path": "entries/hideki-nakajima.html",
       "bytes": 40250,
-      "sha256": "1b31b4820d5fe1b12f7d6c9f40c78bc39e25b5ede2b401daa8fef97b11b34faf"
+      "sha256": "75e34999886a307fa6fa080fca5c043d532feb00f0f9656a60988ab8d2b07cfd"
     },
     {
       "path": "entries/hurufiyya.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "7b4f4b2902f49b3337fb3a4139647e6ee69ae79f143e8705d11374901873287f"
+      "sha256": "171419ea2e5b17e277cff33f63000c107d5ffa3dacc75631502513d509d28fcc"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "8fbd7975c1ab691e7820251b7d8119fa5f953a192b2c1b8ecdb0e331061eda86"
+      "sha256": "b9ec3bfcf4867a589629fdd62ba5cd855540b68af62c20da4eea83eb58cf5cd1"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "7af78223e9442e48c3d14a5eff09e71ade3ee2a8bd7739b8b1edcef6721c94fa"
+      "sha256": "231e01b05df4220a570f9f1a5b0f3c96ce416d7a11ab1098b501da48120bb1e2"
     },
     {
       "path": "study-images.js",
@@ -1978,8 +1978,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 25385,
-      "sha256": "402906186147d5c31a83cbc853638fd131e851e33c36e0defc3008c579545492"
+      "bytes": 26271,
+      "sha256": "895b1a73c3aa842294b3f610f5b66fd97e696a92eb45c3781d08fcb79f1ed42d"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
