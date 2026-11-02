@@ -21566,7 +21566,12 @@
       ]
     },
     "representativeness_limit": "西欧の書籍三例です。東アジアの活字史、日本語の縦組み、新聞の組版までを代表しません。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "タイポグラフィ",
+      "／活字組版"
+    ],
+    "compact_title": true
   },
   {
     "name": "Photomontage",
@@ -21709,7 +21714,12 @@
       ]
     },
     "representativeness_limit": "ヘーヒの三作品に絞った紹介です。政治ポスター、広告、暗室での合成までを代表しません。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "フォト",
+      "モンタージュ"
+    ],
+    "compact_title": false
   },
   {
     "name": "Collage",
@@ -21995,7 +22005,12 @@
       ]
     },
     "representativeness_limit": "ウォーホルの版画三例です。技法の発祥、商業印刷、他の地域の表現全体を代表しません。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "シルク",
+      "スクリーン"
+    ],
+    "compact_title": false
   },
   {
     "name": "Risograph",
@@ -22463,7 +22478,11 @@
       ]
     },
     "representativeness_limit": "二人の制作者による近年の制作素材の例です。ピクセルアートの発祥やゲーム史全体の代表ではありません。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "ピクセルアート"
+    ],
+    "compact_title": true
   },
   {
     "name": "Generative design",
@@ -22606,7 +22625,12 @@
       ]
     },
     "representativeness_limit": "ソフトウェア美術二シリーズと工業試作一例です。シリーズの開始年と個々の画像の制作年は別です。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "ジェネラティブ",
+      "・デザイン"
+    ],
+    "compact_title": true
   },
   {
     "name": "Parametric design",
@@ -22749,7 +22773,12 @@
       ]
     },
     "representativeness_limit": "建築の三例です。曲面を技法の証拠とせず、大学と構造設計者の制作記録を根拠にしています。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "パラメトリック",
+      "・デザイン"
+    ],
+    "compact_title": true
   },
   {
     "name": "Information visualization",
@@ -23003,7 +23032,12 @@
       ]
     },
     "representativeness_limit": "音楽ソフト二例です。広い意味での物のデザインや、この概念の起源を代表しません。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "スキュー",
+      "モーフィズム"
+    ],
+    "compact_title": false
   },
   {
     "name": "Neumorphism",
@@ -23149,7 +23183,12 @@
     "representative_count_note": "3つの参照箇所です。うち2つは同じ記事の図で、独立した3作品ではありません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
-    "independent_project_count": 2
+    "independent_project_count": 2,
+    "title_segments": [
+      "ニュー",
+      "モーフィズム"
+    ],
+    "compact_title": false
   },
   {
     "name": "Glassmorphism",
@@ -23295,7 +23334,12 @@
     "representative_count_note": "3つの参照箇所です。アクリリックの2例は同じ製品の異なる使い方で、独立した2作品ではありません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
-    "independent_project_count": 2
+    "independent_project_count": 2,
+    "title_segments": [
+      "ガラス",
+      "モーフィズム"
+    ],
+    "compact_title": false
   },
   {
     "name": "Web brutalism",
@@ -23408,7 +23452,12 @@
     "representativeness_limit": "選集と制作者の指針の二例です。掲載サイトすべてが同じ主張に賛成しているとは考えません。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
-    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
+    "title_segments": [
+      "ウェブ・",
+      "ブルータリズム"
+    ],
+    "compact_title": true
   },
   {
     "name": "Neo-brutalism",
@@ -23554,7 +23603,12 @@
     "representative_count_note": "3つの参照箇所です。ボタンと紹介サイトは同じ部品集で、独立した3作品ではありません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
-    "independent_project_count": 2
+    "independent_project_count": 2,
+    "title_segments": [
+      "ネオ・",
+      "ブルータリズム"
+    ],
+    "compact_title": true
   },
   {
     "name": "Bento layouts",
@@ -23699,7 +23753,13 @@
     "representativeness_limit": "実際の制作二例と技術教材一例です。エムディーエヌ（ウェブ技術の解説サイト）の例をベントー形式の発祥例として扱いません。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
-    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
+    "title_segments": [
+      "弁当箱の",
+      "ように区切る",
+      "レイアウト"
+    ],
+    "compact_title": false
   },
   {
     "name": "Y2K revival",
@@ -23987,7 +24047,12 @@
       ]
     },
     "representativeness_limit": "一つのスタジオの三例です。映画タイトルや初期のアニメーションの歴史全体を代表しません。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "動く文字の",
+      "表現"
+    ],
+    "compact_title": false
   },
   {
     "name": "Variable-font expression",
@@ -24157,7 +24222,12 @@
       ]
     },
     "representativeness_limit": "書体三例です。フォントの著作権表記年を初公開年と取り違えません。",
-    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
+    "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
+    "title_segments": [
+      "可変フォントを",
+      "使う表現"
+    ],
+    "compact_title": true
   },
   {
     "name": "3D / clay illustration",
@@ -24302,7 +24372,13 @@
     "representativeness_limit": "二つの素材集と画面表現の解説です。粘土アニメや3DCG（スリーディー・シージー。コンピューターでつくる立体画像）の歴史全体を代表する選び方ではありません。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
-    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
+    "title_segments": [
+      "3D・",
+      "粘土のような",
+      "イラスト"
+    ],
+    "compact_title": false
   },
   {
     "name": "Maximalist web",
@@ -24447,6 +24523,12 @@
     "representativeness_limit": "催事一例、制作者サイトと同じ作者のテンプレートです。三つの独立した運動や時代を代表するわけではありません。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
-    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
+    "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
+    "title_segments": [
+      "情報や飾りを",
+      "重ねる",
+      "ウェブ表現"
+    ],
+    "compact_title": false
   }
 ]

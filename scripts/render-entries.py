@@ -78,8 +78,14 @@ def render(entry,template,stamp):
  status=f'作品・制作の例{len(entry.get("representatives",[]))}件を紹介しています。実作品画像{len(actual)}点、参照・関連画像{len(refs)}点。画像の収集は継続中です。'
  intro=entry.get('reading_intro') or {};lead=intro.get('lead') or [entry['summary']]
  title_markup='<span class="title-word">アール・</span><wbr><span class="title-word">ヌーヴォー</span>' if slug=='art-nouveau' and title=='アール・ヌーヴォー' else E(title)
+ title_attrs=''
+ if entry.get('title_segments'):
+  if ''.join(entry['title_segments'])!=title:raise ValueError('Title segments must preserve exact title')
+  title_markup='<wbr>'.join('<span class="title-part">'+E(part)+'</span>' for part in entry['title_segments'])
+  title_attrs=' class="segmented-title'+(' compact-title' if entry.get('compact_title') else '')+'"'
+  if 'chapter-titles.css' not in head:head=head.replace('</head>','<link rel="stylesheet" href="../chapter-titles.css?v=20261102-0921"></head>')
  questions=''.join('<li>'+E(x)+'</li>' for x in intro.get('looking_questions',[]))
- body=f'''<main id="main" tabindex="-1" class="study"><p class="study-status">{status}</p><div class="study-title"><p class="eyebrow">{E(entry['type'])}</p><h1>{title_markup}</h1><p class="ja-title">{E(entry['name'])}</p><dl><div><dt>時期</dt><dd>{E(entry['period'])}</dd></div><div><dt>地域</dt><dd>{E(entry['region'])}</dd></div></dl></div><section class="reading-entrance"><h2>{E(intro.get('heading') or title)}</h2>{pp(lead)}{('<ul class="looking-questions" aria-label="見るときの問い">'+questions+'</ul>') if questions else ''}</section>'''
+ body=f'''<main id="main" tabindex="-1" class="study"><p class="study-status">{status}</p><div class="study-title"><p class="eyebrow">{E(entry['type'])}</p><h1{title_attrs}>{title_markup}</h1><p class="ja-title">{E(entry['name'])}</p><dl><div><dt>時期</dt><dd>{E(entry['period'])}</dd></div><div><dt>地域</dt><dd>{E(entry['region'])}</dd></div></dl></div><section class="reading-entrance"><h2>{E(intro.get('heading') or title)}</h2>{pp(lead)}{('<ul class="looking-questions" aria-label="見るときの問い">'+questions+'</ul>') if questions else ''}</section>'''
  body+='<nav class="article-index" aria-label="このページの目次"><h2>気になるところから読む</h2><ul><li><a href="#actual-works">実作品を大きく見る</a></li><li><a href="#representative-works">作品の記録を読む</a></li><li><a href="#deeper-story">背景と地域の違い</a></li><li><a href="#article-timeline">年表</a></li><li><a href="#article-glossary">ことばの意味</a></li></ul></nav>' if entry.get('deep_dive') else ''
  if entry.get('deep_dive'):
   body+='<details class="article-image-index"><summary>掲載画像から選ぶ（'+str(len(actual))+'点）</summary><ul>'+''.join('<li><a href="#'+E(im.get('presentation',{}).get('anchor') or im['id'])+'">'+E(im['title'])+'</a></li>' for im in actual)+'</ul></details>'

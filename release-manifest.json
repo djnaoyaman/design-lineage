@@ -46,8 +46,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3710,
-      "sha256": "8f5ff9b13d52ce42cca3b6f0326f9caf3d3d3e06350203cc3be09456cc3977be"
+      "bytes": 3794,
+      "sha256": "7256c2ef9b15cb1fa60775dd5a1c95558b8c41252f8466e2ffdbbdeeeec1a84f"
     },
     {
       "path": "adopted-image-rights.json",
@@ -1050,6 +1050,11 @@
       "sha256": "f895a7b866e91c7436d0be8403aee5ec4105d8a78faf4d82ca1fa555f90b2162"
     },
     {
+      "path": "chapter-titles.css",
+      "bytes": 321,
+      "sha256": "0914cc73480c5b33cf6c3f342ef8bf025232d9f30e9e1e15e0118d5573ec6ec2"
+    },
+    {
       "path": "compare.html",
       "bytes": 6460,
       "sha256": "d4d3e16bc5a2778ce232f767fc05ee50d75ffdd800222483e7265362bdcd2f6f"
@@ -1066,8 +1071,8 @@
     },
     {
       "path": "entries/3d-clay-illustration.html",
-      "bytes": 11838,
-      "sha256": "cb65293ec76538908fcf2c67a60350e0082d7249581f5af2d303e73a8eb84ceb"
+      "bytes": 12036,
+      "sha256": "cb6fb534b4f9b1f9fe62a537db42fad696138911c1f9e59eaadb276c65eff31c"
     },
     {
       "path": "entries/africobra.html",
@@ -1101,8 +1106,8 @@
     },
     {
       "path": "entries/bento-layouts.html",
-      "bytes": 11736,
-      "sha256": "c37aeb504ea4614638e1d84fd837ed3ca489d6ffb54569bb144b2a3edd5b40a3"
+      "bytes": 11934,
+      "sha256": "c407c8fea9a50a7386e495d3eb27e3ffb6cd1d34b5ee6c97642ecf0aced38c7e"
     },
     {
       "path": "entries/black-mountain-college.html",
@@ -1171,13 +1176,13 @@
     },
     {
       "path": "entries/generative-design.html",
-      "bytes": 11394,
-      "sha256": "1ca3d243476a55ef26d86fc98dc2b861b9f95f674628947a00dbf9d89db6ea13"
+      "bytes": 11569,
+      "sha256": "fcdc147a869495ea3158cde776e6428134ead5511c4b4662fde28296389886b6"
     },
     {
       "path": "entries/glassmorphism.html",
-      "bytes": 11204,
-      "sha256": "0e41f3b8eac2c9b3693832b01c54d8a3e494c30b7d29772c96d19cc2e972dbc7"
+      "bytes": 11365,
+      "sha256": "b2e5a1778da3043453d7e58c9b81d96c5840705449edb0ce50352b4aeef34cb7"
     },
     {
       "path": "entries/grid-systems.html",
@@ -1231,8 +1236,8 @@
     },
     {
       "path": "entries/kinetic-typography.html",
-      "bytes": 11225,
-      "sha256": "e62a4eb855e3fe2930c14c80c196251857756b2020cbef6b0ed235fda2e7b92f"
+      "bytes": 11386,
+      "sha256": "d518a681341acb6ac0f2a67d1f0c3c3a967f610eeb456ce0f1676aa3b6ed635f"
     },
     {
       "path": "entries/kuwasawa-design-school.html",
@@ -1246,8 +1251,8 @@
     },
     {
       "path": "entries/maximalist-web.html",
-      "bytes": 11689,
-      "sha256": "8d0dcb94fd9cd5357e980d27fce75a85ce23c276e9f97f3c944220847b8e5601"
+      "bytes": 11887,
+      "sha256": "21395a9dbf734ef3db4088174101977112df50946c5bb24f83f222d4ef8a513f"
     },
     {
       "path": "entries/memphis.html",
@@ -1286,8 +1291,8 @@
     },
     {
       "path": "entries/neo-brutalism.html",
-      "bytes": 11320,
-      "sha256": "1cc5b1e0b40f8c3f59ccf067cb8cb28573b5ed814e12f1485a044e08f30b135b"
+      "bytes": 11495,
+      "sha256": "5efed5939a5b24b32ab998af684c337e757a9b25526f5b28cce0d764bc819493"
     },
     {
       "path": "entries/neoclassicism.html",
@@ -1296,8 +1301,8 @@
     },
     {
       "path": "entries/neumorphism.html",
-      "bytes": 11337,
-      "sha256": "2559dbae0372414ec824c2c9eefd2b37aa48864d335fa8995bdcccbb2b787a63"
+      "bytes": 11498,
+      "sha256": "64ec3dbcf5eac0b8f8a4b0fa6d68be4712e18de200eb6963713dd4b78dbe17cb"
     },
     {
       "path": "entries/new-bauhaus-chicago.html",
@@ -1326,18 +1331,18 @@
     },
     {
       "path": "entries/parametric-design.html",
-      "bytes": 11608,
-      "sha256": "3c9107230bf3e07f17ab27f11f1d9e404ca9fecb84f86e61e1fbad3bdf8fdd33"
+      "bytes": 11783,
+      "sha256": "cf692679586834229882ac65c617e6c8223e49073d72496238c5b07a818a63be"
     },
     {
       "path": "entries/photomontage.html",
-      "bytes": 11335,
-      "sha256": "aa3689dcd3db53481191e88c4964585a4e78028581e92363213f4c7728a9c30b"
+      "bytes": 11496,
+      "sha256": "805e7c539fdcb13f7f3f880b4daf3f70510294af94ecea6113959977755d8025"
     },
     {
       "path": "entries/pixel-art.html",
-      "bytes": 14798,
-      "sha256": "c6f6b1ec80b43b10a900d5149a802feaae7538c99f69c22f840b34b1ae4d9997"
+      "bytes": 14936,
+      "sha256": "df024605f01bc8c65bbf81b65ab00c5235d41fe3b66293a1b592d28d839b2e99"
     },
     {
       "path": "entries/polish-poster-school.html",
@@ -1406,13 +1411,13 @@
     },
     {
       "path": "entries/silkscreen.html",
-      "bytes": 11024,
-      "sha256": "644036bea11891072e0dbb6f6ceb62e82c410b32c1d2f9cf52ec9e0bd1619f88"
+      "bytes": 11185,
+      "sha256": "93cb4b0b97c38039933fce142d4512f9e697d87800812969d14047801db7daaf"
     },
     {
       "path": "entries/skeuomorphism.html",
-      "bytes": 10269,
-      "sha256": "bd2c6a77a4a6caaea7d6a829c70dffd385414a86debf1786c3c5c93433dcc68e"
+      "bytes": 10430,
+      "sha256": "8af1259764d0fdf2aacca9f6c39cf9380091f580017efa4c41739d1aaf70bdf9"
     },
     {
       "path": "entries/sosaku-hanga.html",
@@ -1461,8 +1466,8 @@
     },
     {
       "path": "entries/typography-typesetting.html",
-      "bytes": 15511,
-      "sha256": "2e6daaa86ced8240c9fe26ed3625f96c7adaa2ba100fa619016be906ae3e3733"
+      "bytes": 15686,
+      "sha256": "592dfde0501f8f6585384145530fa762383b91042ac57a4cf676bec84b88d7fb"
     },
     {
       "path": "entries/ukiyoe.html",
@@ -1471,8 +1476,8 @@
     },
     {
       "path": "entries/variable-font-expression.html",
-      "bytes": 12172,
-      "sha256": "7640230d8ad8bd8745f03121772c7a6a10adf1494683bef84c8c245de27a538a"
+      "bytes": 12347,
+      "sha256": "a4ed918010fdc7497d670ad4d20493fb739b9ca601f96b2869e438c55762df59"
     },
     {
       "path": "entries/vienna-secession.html",
@@ -1491,8 +1496,8 @@
     },
     {
       "path": "entries/web-brutalism.html",
-      "bytes": 10464,
-      "sha256": "da870ff63653738b212b2765c31034582f72d40b0dbf023498c038ff37ade32d"
+      "bytes": 10639,
+      "sha256": "51b6349316597762ddfd807cbcf7322cd8f90f2ea14516ee14a0d2e56a9e764d"
     },
     {
       "path": "entries/wiener-werkstaette.html",
@@ -1506,8 +1511,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1619828,
-      "sha256": "8b9b5be76f26fa62caa5a29824dccc1b33900e0ef21776fa419801cf7c50a410"
+      "bytes": 1621592,
+      "sha256": "2e5ffa20289927bed7e0389d617b6275be50daef18c5033b7e418b6c9da68843"
     },
     {
       "path": "external-preview-rights.json",
@@ -1581,8 +1586,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 15756,
-      "sha256": "564fb8757007fd4345b1caa309f49ad23ff255b628b2e8ae597b81d74451dce1"
+      "bytes": 16281,
+      "sha256": "7fb975bcbc467f4ca71c8a1273b21262490217aeb16f5706d268bfcfb8175ebd"
     },
     {
       "path": "share-copy.json",
@@ -1626,8 +1631,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 12166,
-      "sha256": "5aa0549abe53b4e63e292e1208615e9499446511b88135bebe73e3afbc43c9fc"
+      "bytes": 12522,
+      "sha256": "002c777544de7baa6f6412362ac25308e1f32567f2f35a1254173f54f02ab67e"
     },
     {
       "path": "timeline.css",
@@ -1779,5 +1784,6 @@
     "catalog_entries": 88,
     "image_collection_complete": false,
     "note": "All listed entries have text and sources; examples include artworks, technical demonstrations and references. Image gaps remain."
-  }
+  },
+  "example_count_basis": "Chapter-level example records, including repeated works, production resources and reference materials; not a count of unique artworks."
 }
