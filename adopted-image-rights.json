@@ -4300,6 +4300,121 @@
           }
         ]
       }
+    },
+    {
+      "id": "nga-70239-p288",
+      "author": "ウィリアム・モリス",
+      "title": "ケルムスコット版『チョーサー作品集』288頁",
+      "year": "1896年刊",
+      "institution": "ナショナル・ギャラリー・オブ・アート（米国）",
+      "accession": "1987.73.3",
+      "source_page": "https://www.nga.gov/artworks/70239-leaf-kelmscott-chaucer",
+      "image_url": "https://api.nga.gov/iiif/05331419-8840-45be-ac9c-4258e562a2c1/full/full/0/default.jpg?attachment_filename=a_leaf_from_the_kelmscott_chaucer_1987.73.3-10.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.nga.gov/terms-and-notices",
+      "credit": "William Morris, A Leaf from the Kelmscott Chaucer, published 1896, p.288. Gift of William B. O’Neal, 1987.73.3. Courtesy National Gallery of Art, Washington. CC0.",
+      "underlying_work_rights": "所蔵館が原作品をパブリックドメインと表示しています。",
+      "reproduction_rights": "NGAの個別画像表示と公開画像方針に基づくCC0。",
+      "territory_note": "米国の所蔵機関による個別PD・CC0指定に基づきます。全法域の権利保証や美術館の推奨を意味しません。",
+      "width": 2843,
+      "height": 4096,
+      "sha256": "8e408abaac95b1ad6c6db67d1ab9c09d9999d3db20520fabe11ff438db1dc447",
+      "alt": "1896年刊Kelmscott Chaucerの288頁。淡い紙に黒い二段組の本文、赤い見出しと装飾頭文字。紙の四辺と広い余白が見える。",
+      "visual_notes": [
+        {
+          "title": "文字の面を、二つに分ける。",
+          "text": "黒い本文が二本の縦長の柱を作ります。列間と外側の余白を比べると、紙全体の中で文字の密度が調整されていることが分かります。"
+        },
+        {
+          "title": "赤を、読むための手掛かりにする。",
+          "text": "左の欄外見出しと右段の短い見出しだけが赤くなっています。黒い本文と役割を分け、装飾と情報の区切りを同じ紙面で働かせています。"
+        },
+        {
+          "title": "装飾を、文章の始まりに置く。",
+          "text": "右段の大きな頭文字には植物のような模様が組み込まれています。布の全面反復とは異なり、装飾が読み始める場所を示します。掲載面には人物挿絵はありません。"
+        }
+      ],
+      "entry": "Typography / 活字組版",
+      "status": "adopted_local_image",
+      "work_id": "nga-70239-p288",
+      "presentation": {
+        "scope_note": "米国NGA所蔵の一葉（所蔵番号1987.73.3）の288頁です。人物の挿絵や、紙面全体を囲む植物の縁飾りは、この面にはありません。アーツ・アンド・クラフツの項目と同じ画像です。"
+      },
+      "local_file": "assets/nga-1987.73.3-p288.jpg",
+      "local_bytes": 2313932,
+      "display_derivatives": {
+        "method": "Uniform aspect-preserving LANCZOS resize; WebP quality92/method6; original ICC retained when present. No crop, color adjustment, retouch, or overlays.",
+        "original_unchanged": true,
+        "sizes": "(max-width: 700px) 88vw, (max-width: 1334px) 90vw, 1200px",
+        "default_width": 1200,
+        "variants": [
+          {
+            "local_file": "assets/nga-1987.73.3-p288-720.webp",
+            "width": 720,
+            "height": 1037,
+            "bytes": 186792,
+            "sha256": "9187a52516545392548c7fd18045425269c55b127f990521db5b2d77ab774427",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/nga-1987.73.3-p288-1200.webp",
+            "width": 1200,
+            "height": 1729,
+            "bytes": 438786,
+            "sha256": "4d9299c6f85a432b17af5d922c1263bade6dc11174f4b4e06ab9fb4abf497679",
+            "format": "image/webp"
+          },
+          {
+            "local_file": "assets/nga-1987.73.3-p288-1800.webp",
+            "width": 1800,
+            "height": 2593,
+            "bytes": 847234,
+            "sha256": "bf8b364ddab59c4fbdc9255ac9c6e9ff087e821b991127b14db05f545e60f002",
+            "format": "image/webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wareya-ufeff-tiles-v2",
+      "author": "wareya（作者名表記）",
+      "title": "多用途の255タイル・ピクセルアート素材集",
+      "year": "2023年6月22日公開",
+      "institution": "オープンゲームアート（作者の公開ページ）",
+      "source_page": "https://opengameart.org/content/versatile-255-tile-pixel-art-pack",
+      "image_url": "https://opengameart.org/sites/default/files/ufeff_tiles_v2.png",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+      "credit": "wareya, Versatile 255-Tile Pixel Art Pack, v2, published 22 June 2023. Source: OpenGameArt.org. CC0 1.0.",
+      "underlying_work_rights": "作者wareyaが独自に制作した素材として公開し、CC0を指定しています。",
+      "reproduction_rights": "配布PNG自体が制作素材で、作者のCC0指定に基づき掲載しています。",
+      "territory_note": "CC0は第三者の権利をなくすものではなく、作者の推薦や保証を意味しません。",
+      "width": 256,
+      "height": 256,
+      "sha256": "2bf4bde7d57bcda8607c0f5c2e02979d7d9d9e5eec4ccc73e8126b3e1cd934b6",
+      "alt": "256×256ピクセルのシートに、人物、骨格、武器、宝石、扉、草地、岩、樹木、床、壁、炎などの小さなピクセル画像が並ぶ。",
+      "visual_notes": [
+        {
+          "title": "小さな升目で、形を区別する。",
+          "text": "人物や剣、宝石の輪郭は少数の画素の段差で形作られています。実際の画像を整数倍率で拡大すると、その選び方が見えます。"
+        },
+        {
+          "title": "一枚のシートに、部品を集める。",
+          "text": "上部には人物や道具、下には草地、岩、壁などが並びます。完成したゲーム画面ではなく、画面を組むための素材シートです。"
+        }
+      ],
+      "entry": "Pixel art",
+      "status": "adopted_local_image",
+      "work_id": "wareya-ufeff-tiles-v2",
+      "presentation": {
+        "scope_note": "2023年公開の独立した作者によるゲーム制作素材の例です。歴史的な代表作や、ケニーの素材集の画像として扱うものではありません。"
+      },
+      "local_file": "assets/wareya-ufeff-tiles-v2.png",
+      "local_bytes": 38880,
+      "rendering": "pixelated",
+      "image_processing": "元の256×256ピクセルのPNGを変更せず、原寸以内で表示しています。"
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

@@ -89,12 +89,12 @@
 - [ブラジル・モダニズム / ブラジル・モダニズム](https://djnaoyaman.github.io/design-lineage/entries/brazilian-modernism.html): 文学・美術・建築などにまたがる近代文化の動き。1920年代を中心に／その後も多様に展開。実作品画像0点、画像収録は継続中。
 - [トロピカル・モダニズム（熱帯の環境を考えた近代建築） / Tropical Modernism](https://djnaoyaman.github.io/design-lineage/entries/tropical-modernism.html): 建築をめぐる動向。1940年代以降を中心に。実作品画像0点、画像収録は継続中。
 
-- [タイポグラフィ／活字組版 / Typography / 活字組版](https://djnaoyaman.github.io/design-lineage/entries/typography-typesetting.html): 技法・制作方法。掲載例：1454–1455年、1896年、1928年。実作品画像0点、画像収録は継続中。
+- [タイポグラフィ／活字組版 / Typography / 活字組版](https://djnaoyaman.github.io/design-lineage/entries/typography-typesetting.html): 技法・制作方法。掲載例：1454–1455年、1896年、1928年。実作品画像1点、画像収録は継続中。
 - [フォトモンタージュ / Photomontage](https://djnaoyaman.github.io/design-lineage/entries/photomontage.html): 技法・制作方法。掲載例：1925–1930年。実作品画像0点、画像収録は継続中。
 - [コラージュ / Collage](https://djnaoyaman.github.io/design-lineage/entries/collage.html): 技法・制作方法。掲載例：1919–1924年。実作品画像0点、画像収録は継続中。
 - [シルクスクリーン / Silkscreen](https://djnaoyaman.github.io/design-lineage/entries/silkscreen.html): 技法・制作方法。掲載例：1967–1983年。実作品画像0点、画像収録は継続中。
 - [リソグラフ / Risograph](https://djnaoyaman.github.io/design-lineage/entries/risograph.html): 技法・制作方法。技術史の参照：1980年、1984年、2013年。掲載印刷作品の制作年は未確認。。実作品画像0点、画像収録は継続中。
-- [ピクセルアート / Pixel art](https://djnaoyaman.github.io/design-lineage/entries/pixel-art.html): 技法・制作方法。掲載例：2021–2023年。実作品画像0点、画像収録は継続中。
+- [ピクセルアート / Pixel art](https://djnaoyaman.github.io/design-lineage/entries/pixel-art.html): 技法・制作方法。掲載例：2021–2023年。実作品画像1点、画像収録は継続中。
 - [ジェネラティブ・デザイン / Generative design](https://djnaoyaman.github.io/design-lineage/entries/generative-design.html): 技法・制作方法。掲載例：2001年以降のシリーズ、2015年の試作。実作品画像0点、画像収録は継続中。
 - [パラメトリック・デザイン / Parametric design](https://djnaoyaman.github.io/design-lineage/entries/parametric-design.html): 技法・制作方法。掲載例：2010–2012年。実作品画像0点、画像収録は継続中。
 - [情報の視覚化 / Information visualization](https://djnaoyaman.github.io/design-lineage/entries/information-visualization.html): 技法・制作方法。掲載例：継続更新されるオンライン教材（開始年は一括しない）。実作品画像0点、画像収録は継続中。

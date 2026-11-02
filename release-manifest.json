@@ -8,7 +8,7 @@
   "pages_path": "/",
   "articles": 88,
   "planned_entries": 88,
-  "historical_representative_images": 54,
+  "historical_representative_images": 55,
   "reference_related_images": 4,
   "generated_studies": 0,
   "new_original_comparison_diagrams": 4,
@@ -47,12 +47,12 @@
     {
       "path": "README.md",
       "bytes": 3710,
-      "sha256": "c5219f6936541b57d0612099f5db2972600b26e4d1279f3a153c45bcef8ab9e4"
+      "sha256": "8f5ff9b13d52ce42cca3b6f0326f9caf3d3d3e06350203cc3be09456cc3977be"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 266203,
-      "sha256": "87b205ac593c2f5eebca6ec947389180619db65b1fceccb49c522ed0fc6f4c99"
+      "bytes": 273216,
+      "sha256": "f9a2238d456c29d7e81c238ed5b261dfa256b51b3cc4340d1d0aaded005db146"
     },
     {
       "path": "analytics-status.json",
@@ -1035,14 +1035,19 @@
       "sha256": "64177ed327113b781c215a6dd7af9e579d557728a5574a92a5295d5997b1b184"
     },
     {
+      "path": "assets/wareya-ufeff-tiles-v2.png",
+      "bytes": 38880,
+      "sha256": "2bf4bde7d57bcda8607c0f5c2e02979d7d9d9e5eec4ccc73e8126b3e1cd934b6"
+    },
+    {
       "path": "bauhaus-explainer-provenance.json",
       "bytes": 2064,
       "sha256": "4deb846066703eb255ae1ad59ef3f0dcc7645fdfaeb720dae139cbe6f3f08671"
     },
     {
       "path": "catalog.json",
-      "bytes": 35813,
-      "sha256": "dcc62fbe7d9562f25cc6ca4e8cf43c24cc43c502d7f4bc3713b802681cce20bb"
+      "bytes": 35801,
+      "sha256": "f895a7b866e91c7436d0be8403aee5ec4105d8a78faf4d82ca1fa555f90b2162"
     },
     {
       "path": "compare.html",
@@ -1061,8 +1066,8 @@
     },
     {
       "path": "entries/3d-clay-illustration.html",
-      "bytes": 11895,
-      "sha256": "f6a91e884c6a7f07b9e1ab649aabcc52920987b39c496c0d95338687a4ad7b34"
+      "bytes": 11838,
+      "sha256": "cb65293ec76538908fcf2c67a60350e0082d7249581f5af2d303e73a8eb84ceb"
     },
     {
       "path": "entries/africobra.html",
@@ -1096,8 +1101,8 @@
     },
     {
       "path": "entries/bento-layouts.html",
-      "bytes": 11793,
-      "sha256": "edeee3d39155333d9b37051594f5ae9c39e6d87fb021d9612d8606970c110f8a"
+      "bytes": 11736,
+      "sha256": "c37aeb504ea4614638e1d84fd837ed3ca489d6ffb54569bb144b2a3edd5b40a3"
     },
     {
       "path": "entries/black-mountain-college.html",
@@ -1121,8 +1126,8 @@
     },
     {
       "path": "entries/collage.html",
-      "bytes": 11495,
-      "sha256": "a9b922da8d60d75b685e862e1e125c193048ab8066f03154023ef597a1223857"
+      "bytes": 11438,
+      "sha256": "ca1a7bec1660c72f9e51e8048409dee8291de0398e067db01ce8c3ea9f2f442f"
     },
     {
       "path": "entries/critical-regionalism.html",
@@ -1166,13 +1171,13 @@
     },
     {
       "path": "entries/generative-design.html",
-      "bytes": 11451,
-      "sha256": "84b9bf1eade25442b3669e8b2a1c1b2b6716f2bd8ae45404d5089f6e9fc28c2c"
+      "bytes": 11394,
+      "sha256": "1ca3d243476a55ef26d86fc98dc2b861b9f95f674628947a00dbf9d89db6ea13"
     },
     {
       "path": "entries/glassmorphism.html",
-      "bytes": 11261,
-      "sha256": "4d36f9d6d02d9d24c0f76b2ffc02d737984b58e5637a9b98a9fa9d01b1cf73a0"
+      "bytes": 11204,
+      "sha256": "0e41f3b8eac2c9b3693832b01c54d8a3e494c30b7d29772c96d19cc2e972dbc7"
     },
     {
       "path": "entries/grid-systems.html",
@@ -1201,8 +1206,8 @@
     },
     {
       "path": "entries/information-visualization.html",
-      "bytes": 10803,
-      "sha256": "f27f864ff02a091b199678f34831f46906676dc5f04af3293c71b29d2973aff0"
+      "bytes": 10746,
+      "sha256": "04cae7382b713c26a5e6f239e6f1b0718eece8592bdd0c6fa3faa3b01df69f5f"
     },
     {
       "path": "entries/international-style.html",
@@ -1226,8 +1231,8 @@
     },
     {
       "path": "entries/kinetic-typography.html",
-      "bytes": 11282,
-      "sha256": "4fb3f1836099e60daf144c108a19e570c8e7678f08fe2529c9fc01897d6aaccf"
+      "bytes": 11225,
+      "sha256": "e62a4eb855e3fe2930c14c80c196251857756b2020cbef6b0ed235fda2e7b92f"
     },
     {
       "path": "entries/kuwasawa-design-school.html",
@@ -1241,8 +1246,8 @@
     },
     {
       "path": "entries/maximalist-web.html",
-      "bytes": 11746,
-      "sha256": "51d83c25ab26dbde31096ff8d844b07f0bef4cd5513d935ebc09a9a59836de0f"
+      "bytes": 11689,
+      "sha256": "8d0dcb94fd9cd5357e980d27fce75a85ce23c276e9f97f3c944220847b8e5601"
     },
     {
       "path": "entries/memphis.html",
@@ -1281,8 +1286,8 @@
     },
     {
       "path": "entries/neo-brutalism.html",
-      "bytes": 11377,
-      "sha256": "0118d5c827544d69b26d5cd1a519ef40b8f09440b231b844dd46c8c898c65769"
+      "bytes": 11320,
+      "sha256": "1cc5b1e0b40f8c3f59ccf067cb8cb28573b5ed814e12f1485a044e08f30b135b"
     },
     {
       "path": "entries/neoclassicism.html",
@@ -1291,8 +1296,8 @@
     },
     {
       "path": "entries/neumorphism.html",
-      "bytes": 11394,
-      "sha256": "299b3d0e59c5538a54d0b8fe76fbfacea10fa5a60a44023d2ed2fcfec8696e19"
+      "bytes": 11337,
+      "sha256": "2559dbae0372414ec824c2c9eefd2b37aa48864d335fa8995bdcccbb2b787a63"
     },
     {
       "path": "entries/new-bauhaus-chicago.html",
@@ -1321,18 +1326,18 @@
     },
     {
       "path": "entries/parametric-design.html",
-      "bytes": 11665,
-      "sha256": "bcee5d5332a7ad0c1f5b9a929fe5ffd0ae0cdf3dd0221c37d17de6feb506a22c"
+      "bytes": 11608,
+      "sha256": "3c9107230bf3e07f17ab27f11f1d9e404ca9fecb84f86e61e1fbad3bdf8fdd33"
     },
     {
       "path": "entries/photomontage.html",
-      "bytes": 11392,
-      "sha256": "30d49a1470b8cbae2dec891d6ecbb55fc638c312c42f80ca6d77180c61031b89"
+      "bytes": 11335,
+      "sha256": "aa3689dcd3db53481191e88c4964585a4e78028581e92363213f4c7728a9c30b"
     },
     {
       "path": "entries/pixel-art.html",
-      "bytes": 11001,
-      "sha256": "3cca80772171db76ee2d785913a362c81b6bca3da9846e8c8ce2d5176bf5d962"
+      "bytes": 14798,
+      "sha256": "c6f6b1ec80b43b10a900d5149a802feaae7538c99f69c22f840b34b1ae4d9997"
     },
     {
       "path": "entries/polish-poster-school.html",
@@ -1366,8 +1371,8 @@
     },
     {
       "path": "entries/risograph.html",
-      "bytes": 15315,
-      "sha256": "849cc0a599e2af47c6abc3c5c80060403a317529a7c4b3f2d8b07156b5d722cc"
+      "bytes": 15258,
+      "sha256": "0403125cba39a7693a9b2477c1b4d9d48e8938e43a40ffd20127e31b2aab4ac1"
     },
     {
       "path": "entries/rococo.html",
@@ -1401,13 +1406,13 @@
     },
     {
       "path": "entries/silkscreen.html",
-      "bytes": 11081,
-      "sha256": "f797266ec6de893febd957e9e1ac0dc2da6639ce82c774594de128b42af81412"
+      "bytes": 11024,
+      "sha256": "644036bea11891072e0dbb6f6ceb62e82c410b32c1d2f9cf52ec9e0bd1619f88"
     },
     {
       "path": "entries/skeuomorphism.html",
-      "bytes": 10307,
-      "sha256": "b485b756fd0fba28ee6b096bc71eaad564d16a6e645c3578cbb825a11dc1f4ca"
+      "bytes": 10269,
+      "sha256": "bd2c6a77a4a6caaea7d6a829c70dffd385414a86debf1786c3c5c93433dcc68e"
     },
     {
       "path": "entries/sosaku-hanga.html",
@@ -1456,8 +1461,8 @@
     },
     {
       "path": "entries/typography-typesetting.html",
-      "bytes": 12160,
-      "sha256": "076167f098eee365ac3d03eb44014b3e770edbb46b8cefafdb7f4ec988ef7892"
+      "bytes": 15511,
+      "sha256": "2e6daaa86ced8240c9fe26ed3625f96c7adaa2ba100fa619016be906ae3e3733"
     },
     {
       "path": "entries/ukiyoe.html",
@@ -1466,8 +1471,8 @@
     },
     {
       "path": "entries/variable-font-expression.html",
-      "bytes": 12229,
-      "sha256": "ef31d5e034ae9c270f64d876d0e5f83d6dfe1f8ab94605c961f538e6d1f95cde"
+      "bytes": 12172,
+      "sha256": "7640230d8ad8bd8745f03121772c7a6a10adf1494683bef84c8c245de27a538a"
     },
     {
       "path": "entries/vienna-secession.html",
@@ -1486,8 +1491,8 @@
     },
     {
       "path": "entries/web-brutalism.html",
-      "bytes": 10502,
-      "sha256": "a876e7a44956071c0b63f6686740ed1ddc4d12b833bf0789b1101192239f4674"
+      "bytes": 10464,
+      "sha256": "da870ff63653738b212b2765c31034582f72d40b0dbf023498c038ff37ade32d"
     },
     {
       "path": "entries/wiener-werkstaette.html",
@@ -1496,13 +1501,13 @@
     },
     {
       "path": "entries/y2k-revival.html",
-      "bytes": 11501,
-      "sha256": "e3af006fbedd636666287c2b9a80e7b75bcb065e01d515cf1e67a9898971b21f"
+      "bytes": 11444,
+      "sha256": "512baa2d0f8f4089f4a8269a4075f20ce8a0214729aa63f3968031a71b56d956"
     },
     {
       "path": "entries.json",
-      "bytes": 1611201,
-      "sha256": "bc4128b803c10307771fd7c4c1cef77c2bdd8ac276ba0b2551fde035f63b3d03"
+      "bytes": 1619828,
+      "sha256": "8b9b5be76f26fa62caa5a29824dccc1b33900e0ef21776fa419801cf7c50a410"
     },
     {
       "path": "external-preview-rights.json",
@@ -1531,8 +1536,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 23935,
-      "sha256": "77c2f5c7d01ee9267e9b4eb59e52674a458211c656ed23d05589f44ead0dcd66"
+      "bytes": 23944,
+      "sha256": "7faeae6ed8d14bfa34d29ec051b96efacaa5279ae2ce419b1e2bb4d8b7453db9"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1542,7 +1547,7 @@
     {
       "path": "llms.txt",
       "bytes": 25029,
-      "sha256": "4bce7b263605dc1852f85bc4c6bfd202d10fd4a1b5ec28f9c2a0ca289b280005"
+      "sha256": "9751a81c018fa933717b8e544cabda557c1524a0a414d069bb3a560a3a7a8743"
     },
     {
       "path": "logo-provenance.json",
@@ -1576,8 +1581,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 15675,
-      "sha256": "6d8e945972e6c98c58ef9c36fc531d3a912faacf73cc84388cae87a9ec82bac0"
+      "bytes": 15756,
+      "sha256": "564fb8757007fd4345b1caa309f49ad23ff255b628b2e8ae597b81d74451dce1"
     },
     {
       "path": "share-copy.json",
@@ -1592,7 +1597,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "c395da24c5fb912bc002eb85ed37ca56b103dc188141e9dbdd1d026868e0b841"
+      "sha256": "dd37274b1b8f515e4740788e2b66e2d8372fbd4b9b9baaf91c58718269910bc0"
     },
     {
       "path": "site.webmanifest",
@@ -1602,7 +1607,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "a1830d8314f465365703acb71a31227c17b6fc5b5442ac160c3cfcfc866b91bd"
+      "sha256": "e3ec998c773879a5d8da99a4c1f3e9f5e3cbd63188903e5cc96cb536ea1980f7"
     },
     {
       "path": "study-images.js",
@@ -1621,8 +1626,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 11832,
-      "sha256": "b555521ed41117d4a309472d2b66c274ce1a3dd107a6089d9fc3923058bee45c"
+      "bytes": 12070,
+      "sha256": "89ae85acd9979de209b0b75d825ca8214d802f13e1930a3e996c29c2f1b4d201"
     },
     {
       "path": "timeline.css",
@@ -1647,10 +1652,10 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T09:09:00+09:00",
+  "frozen_at": "2026-11-02T09:12:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
-  "rewritten_representative_cards": 329,
+  "rewritten_representative_cards": 330,
   "compiler_profile": "compiler.html",
   "launch_package": {
     "baseline_commit": "94ecc2caf37b08e367c6620532d964fd46f2d5ed",
@@ -1741,8 +1746,8 @@
     "physical_device_test": false,
     "responsive_ci": "pending exact-commit verification"
   },
-  "representative_image_placements": 55,
-  "unique_representative_image_files": 54,
+  "representative_image_placements": 57,
+  "unique_representative_image_files": 55,
   "catalog_expansion": [
     {
       "batch": "history17",
@@ -1761,9 +1766,12 @@
     {
       "batch": "methods20",
       "new_articles": 20,
-      "new_examples": 58,
+      "new_examples": 59,
       "catalog_complete": false,
-      "image_collection": "in progress; text publication is not image completion"
+      "image_collection": "18 of 20 new chapters have no actual images; the two illustrated chapters are still incomplete",
+      "new_unique_images": 1,
+      "reused_image_placements": 1,
+      "actual_image_placements": 2
     }
   ],
   "catalog_text_coverage": {
