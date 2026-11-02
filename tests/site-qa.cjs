@@ -112,6 +112,11 @@ for(const width of [320,390,1280]){
     const zoomState=await page.evaluate(()=>({inner:innerWidth,scroll:document.documentElement.scrollWidth,overflow:[...document.querySelectorAll('body *')].filter(e=>{const r=e.getBoundingClientRect();return r.width>0&&(r.right>innerWidth+1||r.left< -1)}).map(e=>({tag:e.tagName,class:e.className,text:e.textContent.slice(0,80),width:e.getBoundingClientRect().width,left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right})).slice(0,30)}));
     fs.writeFileSync(`qa-artifacts/deep-${slug}-zoom-${width}-${zoom}x.json`,JSON.stringify(zoomState,null,2));
     await page.screenshot({path:`qa-artifacts/deep-${slug}-title-${width}-${zoom}x.png`});
+    if(zoomState.scroll>zoomState.inner+1){
+     const textOverflow=await page.evaluate(()=>{const result=[],walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let node;while(node=walker.nextNode()){if(!node.textContent.trim())continue;const range=document.createRange();range.selectNodeContents(node);for(const rect of range.getClientRects())if(rect.right>innerWidth+1||rect.left< -1){result.push({text:node.textContent.slice(0,180),parent:node.parentElement.outerHTML.slice(0,600),left:rect.left,right:rect.right,top:rect.top});break;}}return result;});
+     fs.writeFileSync(`qa-artifacts/deep-${slug}-text-overflow-${width}-${zoom}x.json`,JSON.stringify(textOverflow,null,2));
+     await page.locator('.study-title h1').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/deep-${slug}-overflow-title-${width}-${zoom}x.png`});
+    }
     assert(zoomState.scroll<=zoomState.inner+1,'Expanded chapter 200% layout zoom fits');
     if(entry.artist_ids){
      await page.locator('#article-artists details').evaluateAll(ds=>ds.forEach(d=>d.open=true));
