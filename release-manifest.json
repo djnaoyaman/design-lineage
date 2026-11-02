@@ -1173,8 +1173,8 @@
     },
     {
       "path": "chapter-navigation.css",
-      "bytes": 961,
-      "sha256": "f7d6c1329d3688725a6d8d22456de5077517e07b046f97ddb20ce9aa04afba52"
+      "bytes": 1135,
+      "sha256": "87bf680b505baebabd01684a7c339736137cd812d84d417c5a4a8600da2bad19"
     },
     {
       "path": "chapter-navigation.js",
@@ -1768,8 +1768,8 @@
     },
     {
       "path": "tests/chapter-navigation-browser.cjs",
-      "bytes": 7268,
-      "sha256": "1d9fc36b81a6f60c320fe319fff76ba6d22bf0518ddd2e1688eae4ed8ff80d5a"
+      "bytes": 7779,
+      "sha256": "1dbe9af9091cd0f252e894c6a82f3a8a4e11f24dd684275eb215d9d967fb3b37"
     },
     {
       "path": "tests/chapter-navigation-static.py",

@@ -72,6 +72,12 @@ const { chromium }=require('playwright');const assert=require('node:assert/stric
    await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/chapter-navigation-baseline-zoom-${width}.png`});
   }
   assert(zoomLayout.scroll<=zoomLayout.inner+1,'200% overflow');
+  await page.goto('http://127.0.0.1:8793/entries/arts-and-crafts.html');
+  assert.equal(await page.locator('.chapter-navigation a[rel=prev]').count(),0);
+  await gesture(heading(),'right');assert(page.url().endsWith('/arts-and-crafts.html'),'first boundary');
+  await page.goto('http://127.0.0.1:8793/entries/hideki-nakajima.html');
+  assert.equal(await page.locator('.chapter-navigation a[rel=next]').count(),0);
+  await gesture(heading());assert(page.url().endsWith('/hideki-nakajima.html'),'last boundary');
   await page.close();
  }
  console.log('Browser navigation/layout/history PASS; not physical iOS validation');
