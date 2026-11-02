@@ -1,8 +1,8 @@
 {
-  "release": "public-content-art-nouveau-20261102-1822",
+  "release": "public-content-art-nouveau-20261102-1843",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T18:22:00+09:00",
+  "frozen_at": "2026-11-02T18:43:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -48,8 +48,8 @@
     },
     {
       "path": "art-nouveau.css",
-      "bytes": 2309,
-      "sha256": "5af132912a8ec0313c3d8d41b59937067d50c365c93488eb5e60f3c9a6c135ad"
+      "bytes": 2445,
+      "sha256": "b10693f6a650b254d6baa012a6910e5c7b761c4d0e0885ff418d3581c7dd71d0"
     },
     {
       "path": "artists.json",
@@ -1399,12 +1399,12 @@
     {
       "path": "entries/art-deco.html",
       "bytes": 58154,
-      "sha256": "8771e8657fb98e7f129450b3cfc63aec00e905e453b65211b797ec02407b9d26"
+      "sha256": "e84e824e4ea311ff6fab92b2af56e68809d216571b84319615caa7370f51ac30"
     },
     {
       "path": "entries/art-nouveau.html",
       "bytes": 99753,
-      "sha256": "7e296385f2b67c20def39f7f8a363fb3a729b924ef3814e85e0db8bff319994b"
+      "sha256": "8d7bd909234bb80134f7e64d9288d8fb5d7bb81290e0b526b60a71d13c6824c5"
     },
     {
       "path": "entries/arts-and-crafts.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "a1de9ec9083f2a5acd748b4b8564ea2ee048010ca74b99a37548ad52375a791e"
+      "sha256": "c6cfef0391f0969804006e564c3e712b8701835fc583390571ec169df696cf9f"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "4f7a8b257ce7278287c44218ec7d7655bfe4ce0301f54b75324c5310ce618464"
+      "sha256": "7cc3bdb3d67bf5704a2eb7c750ad378660d9a87447f34c2b704c1b7a3ebab9f8"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "8e845f6dc20efd092a2756364c6f3746a82d0fea38775ca09c8e8aeb99b7c8e0"
+      "sha256": "f9a016bfc1e38499a26d07cb16ce4df94e3dfa95333cfe5330ba90c4207a5e55"
     },
     {
       "path": "study-images.js",

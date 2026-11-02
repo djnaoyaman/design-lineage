@@ -16,3 +16,6 @@
 /* Keep the two words intact without forcing a wide, unbreakable heading. */
 .study-title h1{font-size:clamp(2.5rem,7vw,6.25rem)}
 .study-title h1 .title-word{display:inline-block;max-width:100%;white-space:normal;line-break:strict;overflow-wrap:normal;word-break:normal;text-wrap:balance}
+
+/* Long inscriptions stay readable at increased text size without horizontal scrolling. */
+.art-observations p{overflow-wrap:anywhere}
