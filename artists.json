@@ -1348,6 +1348,18 @@
           "source_url": "https://www.clevelandart.org/art/2012.136",
           "accession": "2012.136",
           "dimensions": "高さ18.3 cm、直径7.8 cm"
+        },
+        {
+          "id": "art-nouveau-lalique-lily-comb",
+          "title_ja": "スズランの櫛（くし）",
+          "title_original": "Lily of the Valley Comb",
+          "date_label": "1900年頃",
+          "work_type": "髪飾り／動物の角・エナメル・金",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1981.49",
+          "credited_creator": "ルネ・ラリック（René Lalique）",
+          "accession": "1981.49",
+          "note": "ラリックの既存プロフィールと同じ人物の、宝飾デザインの仕事です。"
         }
       ],
       "sources": [
@@ -1364,6 +1376,13 @@
           "title": "Art Deco: René Jules Lalique",
           "url": "https://www.vam.ac.uk/articles/art-deco-ren%C3%A9-jules-lalique",
           "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cma-1981.49",
+          "institution": "クリーヴランド美術館",
+          "title": "ラリック《Lily of the Valley Comb》",
+          "url": "https://www.clevelandart.org/art/1981.49",
+          "verified_at": "2026-11-02"
         }
       ],
       "verified_at": "2026-11-02",
@@ -1372,6 +1391,11 @@
           "chapter_id": "art-deco",
           "role": "宝飾と工業的なガラス生産をつなぐデザイナー",
           "description": "アール・ヌーヴォーの宝飾からガラスへと広がった仕事のうち、この章では1920年代の製品を紹介します。"
+        },
+        {
+          "chapter_id": "art-nouveau",
+          "role": "植物と素材を結びつけた宝飾デザイナー",
+          "description": "本章では1900年頃の櫛を取り上げ、アール・デコの章で紹介する後年のガラス製品とは分けて見ます。"
         }
       ]
     },
@@ -2295,6 +2319,540 @@
           "chapter_id": "surrealism",
           "role": "日本でシュルレアリスムの受容に関わった画家",
           "description": "《海》以降の作品は日本の受容の端緒に位置づけられますが、合理的な構成や同時代のメディアとの関係もあります。パリのグループの正式なメンバーとはしません。"
+        }
+      ]
+    },
+    {
+      "id": "alphonse-mucha",
+      "entity_type": "person",
+      "name_ja": "アルフォンス・ミュシャ",
+      "name_kana": "アルフォンス・ミュシャ",
+      "name_original": "Alphonse Mucha",
+      "birth_year": 1860,
+      "death_year": 1939,
+      "short_bio": "チェコ出身の画家・デザイナー。パリでサラ・ベルナールの舞台ポスターを手がけ、人物、花、文字を組み合わせました。広告だけでなく、装飾を考えるための図案集にも取り組みました。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-mucha-gismonda-lacma",
+          "title_ja": "ジスモンダ",
+          "title_original": "Gismonda",
+          "date_label": "1894〜1895年（LACMA所蔵の版）",
+          "work_type": "演劇ポスター／色刷りリトグラフ",
+          "institution": "ロサンゼルス郡立美術館",
+          "source_url": "https://collections.lacma.org/object/59871",
+          "credited_creator": "アルフォンス・ミュシャ（Alphonse Mucha）",
+          "accession": "M.87.294.41",
+          "note": "LACMA所蔵の1894〜1895年の版。ミュシャ財団の1894年という制作年と、1895年1月の公演年を区別します。"
+        },
+        {
+          "id": "art-nouveau-mucha-oriental-poppies",
+          "title_ja": "装飾資料：オリエンタル・ポピー",
+          "title_original": "Documents Décoratifs: Oriental Poppies",
+          "date_label": "1901〜1902年",
+          "work_type": "装飾の図案／リトグラフ",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1969.236",
+          "credited_creator": "アルフォンス・ミュシャ（Alphonse Mucha）",
+          "accession": "1969.236",
+          "note": "『装飾資料』の図版。広告ポスターではありません。"
+        },
+        {
+          "id": "art-nouveau-mucha-lorenzaccio-small",
+          "title_ja": "ロレンザッチョ（小型の版画）",
+          "title_original": "Lorenzaccio",
+          "date_label": "1896〜1900年（所蔵館の記録）",
+          "work_type": "ポスター図案を収めた小型の色刷り版画",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1973.1018",
+          "credited_creator": "アルフォンス・ミュシャ（Alphonse Mucha）",
+          "accession": "1973.1018",
+          "note": "Les Maîtres de l’AfficheのPL.114。原寸の街頭ポスターではなく、小型の収集用版画です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-1969.236",
+          "institution": "クリーヴランド美術館",
+          "title": "ミュシャ《Documents Decoratifs: Oriental Poppies》",
+          "url": "https://www.clevelandart.org/art/1969.236",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cma-1973.1018",
+          "institution": "クリーヴランド美術館",
+          "title": "ミュシャ《Lorenzaccio》",
+          "url": "https://www.clevelandart.org/art/1973.1018",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "lacma-gismonda",
+          "institution": "ロサンゼルス郡立美術館",
+          "title": "Gismonda, 1894–1895",
+          "url": "https://collections.lacma.org/object/59871",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mucha-foundation-gismonda",
+          "institution": "ミュシャ財団",
+          "title": "Poster for Gismonda (1894)",
+          "url": "https://www.muchafoundation.org/en/gallery/browse-works/object_type/posters/object/21/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "ポスターと装飾図案の作者",
+          "description": "同じ作者でも、街に貼るポスター、収集用の小型版画、装飾の参考図案では目的が異なります。"
+        }
+      ]
+    },
+    {
+      "id": "victor-horta",
+      "entity_type": "person",
+      "name_ja": "ヴィクトール・オルタ",
+      "name_kana": "ヴィクトール・オルタ",
+      "name_original": "Victor Horta",
+      "birth_year": 1861,
+      "death_year": 1947,
+      "short_bio": "ベルギーの建築家。ブリュッセルの住宅で、部屋のつながり、光の入り方、構造と装飾の曲線をまとめて考えました。建物だけでなく、室内や家具のデザインにも携わりました。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-horta-hotel-tassel",
+          "title_ja": "タッセル邸",
+          "title_original": "Hôtel Tassel",
+          "date_label": "1893年依頼・1894年完成（ICOMOS評価書による。家具はその後も制作）",
+          "work_type": "住宅・室内",
+          "institution": "ブリュッセル／UNESCO世界遺産登録物件",
+          "source_url": "https://whc.unesco.org/en/list/1005",
+          "credited_creator": "ヴィクトール・オルタ（Victor Horta）",
+          "note": "依頼1893年、完成1894年というICOMOSの説明によります。家具の制作や現在の写真の撮影年とは別です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "orsay-horta",
+          "institution": "オルセー美術館",
+          "title": "Victor Horta (1861–1947)",
+          "url": "https://www.musee-orsay.fr/fr/ressources/repertoire-artistes-personnalites/victor-horta-32748",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "unesco-horta",
+          "institution": "UNESCO世界遺産センター",
+          "title": "Major Town Houses of the Architect Victor Horta",
+          "url": "https://whc.unesco.org/en/list/1005",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "icomos-horta",
+          "institution": "国際記念物遺跡会議（ICOMOS）／UNESCO世界遺産センター",
+          "title": "Horta town houses: advisory-body evaluation",
+          "url": "https://whc.unesco.org/document/151511",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "住宅と室内の建築家",
+          "description": "タッセル邸の設計者として紹介します。掲載された階段室の写真の撮影者とは区別します。"
+        }
+      ]
+    },
+    {
+      "id": "hector-guimard",
+      "entity_type": "person",
+      "name_ja": "エクトール・ギマール",
+      "name_kana": "エクトール・ギマール",
+      "name_original": "Hector Guimard",
+      "birth_year": 1867,
+      "death_year": 1942,
+      "short_bio": "フランスの建築家・デザイナー。パリの地下鉄入口や家具に、植物を思わせる曲線を取り入れました。建物、案内表示、日用品を通じ、都市の中へ装飾を広げた仕事を残しています。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-guimard-moma-metro",
+          "title_ja": "パリ地下鉄の入口（MoMA所蔵）",
+          "title_original": "Entrance Gate to Paris Subway (Métropolitain) Station",
+          "date_label": "1900年頃（MoMA所蔵の作品）",
+          "work_type": "都市交通の入口／鋳鉄・溶岩石・ガラス",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/2393",
+          "credited_creator": "エクトール・ギマール（Hector Guimard）",
+          "accession": "177.1958.a-f",
+          "note": "MoMAの所蔵個体。現在のアベス駅入口ではありません。"
+        },
+        {
+          "id": "art-nouveau-guimard-chair",
+          "title_ja": "ギマールのいす",
+          "title_original": "Chair",
+          "date_label": "1907年頃",
+          "work_type": "家具／梨の木・革",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1985.96",
+          "credited_creator": "エクトール・ギマール（Hector Guimard）",
+          "accession": "1985.96"
+        },
+        {
+          "id": "art-nouveau-guimard-abbesses",
+          "title_ja": "アベス駅の地下鉄入口",
+          "title_original": "Édicule de la station Abbesses",
+          "date_label": "1900年制作／1974年にアベス駅へ移設",
+          "work_type": "都市交通の入口／鉄とガラス",
+          "institution": "パリ・アベス駅／パリ交通公団（RATP）",
+          "source_url": "https://www.ratp.fr/decouvrir/patrimoine/histoire-station-abbesses",
+          "credited_creator": "エクトール・ギマール（設計）",
+          "note": "1900年制作の入口を1974年に移設。掲載写真の2014年は建築の制作年ではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-1985.96",
+          "institution": "クリーヴランド美術館",
+          "title": "ギマール《Chair》",
+          "url": "https://www.clevelandart.org/art/1985.96",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-guimard-metro",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Entrance Gate to Paris Subway, c. 1900",
+          "url": "https://www.moma.org/collection/works/2393",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "ratp-abbesses",
+          "institution": "パリ交通公団（RATP）",
+          "title": "Histoire de la station Abbesses",
+          "url": "https://www.ratp.fr/decouvrir/patrimoine/histoire-station-abbesses",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cercle-guimard-abbesses",
+          "institution": "ル・セルクル・ギマール",
+          "title": "Étude de la station Abbesses",
+          "url": "https://www.lecercleguimard.fr/fr/nos-actions/le-cercle-guimard-aide-les-etudiants/etude-de-la-station-abbesses/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "都市交通の入口と家具の設計者",
+          "description": "MoMA所蔵の入口部材と、現在のアベス駅にある入口は別の個体として扱います。"
+        }
+      ]
+    },
+    {
+      "id": "emile-galle",
+      "entity_type": "person",
+      "name_ja": "エミール・ガレ",
+      "name_kana": "エミール・ガレ",
+      "name_original": "Émile Gallé",
+      "birth_year": 1846,
+      "death_year": 1904,
+      "short_bio": "フランスのガラス工芸家・デザイナー。植物への関心や日本の美術からの刺激を、器の形や装飾に生かしました。花の図柄だけでなく、ガラスの色や光の通り方も表現に関わります。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-galle-vase",
+          "title_ja": "ガレの花びん",
+          "title_original": "Vase",
+          "date_label": "1900年頃",
+          "work_type": "ガラス／エナメル彩",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1983.225",
+          "credited_creator": "エミール・ガレ（Émile Gallé）",
+          "accession": "1983.225"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-1983.225",
+          "institution": "クリーヴランド美術館",
+          "title": "ガレ《Vase》",
+          "url": "https://www.clevelandart.org/art/1983.225",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "va-art-nouveau-glass",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "Objects of beauty: Art Nouveau glass and jewellery",
+          "url": "https://www.vam.ac.uk/articles/objects-of-beauty-art-nouveau-glass-and-jewellery",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "植物と素材を結ぶガラスのデザイナー",
+          "description": "本章の花びんはエナメル彩のガラスです。別作品の製法を、この個体の製法として読み替えません。"
+        }
+      ]
+    },
+    {
+      "id": "clara-wolcott-driscoll",
+      "entity_type": "person",
+      "name_ja": "クララ・ウォルコット・ドリスコル",
+      "name_kana": "クララ・ウォルコット・ドリスコル",
+      "name_original": "Clara Wolcott Driscoll",
+      "birth_year": 1861,
+      "death_year": 1944,
+      "short_bio": "アメリカのデザイナーで、ティファニー・スタジオのランプ設計を担いました。小型の藤のランプでは、垂れる花房と枝を、ガラスのかさと青銅の台座に結びつけています。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-driscoll-pony-wisteria",
+          "title_ja": "小型の藤のランプ",
+          "title_original": "“Pony” Wisteria Lamp",
+          "date_label": "1902〜1910年頃",
+          "work_type": "照明／色ガラス・青銅",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/2018.261",
+          "credited_creator": "クララ・ウォルコット・ドリスコル（設計）／ティファニー・スタジオ（製作）",
+          "accession": "2018.261",
+          "note": "設計はドリスコル、製作はティファニー・スタジオ。所蔵館が記録するこの小型個体の年代は1902〜1910年頃です。",
+          "creator_role": "設計"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-2018.261",
+          "institution": "クリーヴランド美術館",
+          "title": "小型の藤のランプ：設計者と製作者",
+          "url": "https://www.clevelandart.org/art/2018.261",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "ランプの設計者",
+          "description": "クリーヴランド美術館はドリスコルを設計者、ティファニー・スタジオを製作者として別々に記録しています。"
+        }
+      ]
+    },
+    {
+      "id": "aubrey-beardsley",
+      "entity_type": "person",
+      "name_ja": "オーブリー・ビアズリー",
+      "name_kana": "オーブリー・ビアズリー",
+      "name_original": "Aubrey Beardsley",
+      "birth_year": 1872,
+      "death_year": 1898,
+      "short_bio": "イギリスの画家・挿絵画家。文学を題材に、細くしなる輪郭や広い色面を生かしました。《イゾルデ》は、美術雑誌『ザ・ステューディオ』の読者向けに刊行された版画です。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-beardsley-isolde",
+          "title_ja": "イゾルデ",
+          "title_original": "Isolde",
+          "date_label": "1895年",
+          "work_type": "美術雑誌の読者向け版画／色刷りリトグラフ",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/2010.651",
+          "credited_creator": "オーブリー・ビアズリー（Aubrey Beardsley）／印刷：ウィリアム・グリッグス（William Griggs）",
+          "accession": "2010.651",
+          "note": "『サロメ』の挿絵ではなく、『ザ・ステューディオ』の読者向け版画。",
+          "creator_role": "図案・原画"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-2010.651",
+          "institution": "クリーヴランド美術館",
+          "title": "ビアズリー《Isolde》、印刷：グリッグス",
+          "url": "https://www.clevelandart.org/art/2010.651",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "版画図案の作者",
+          "description": "《イゾルデ》の図案を描いた人として紹介します。印刷を担当したグリッグスとは役割が異なります。"
+        }
+      ]
+    },
+    {
+      "id": "william-griggs",
+      "entity_type": "person",
+      "name_ja": "ウィリアム・グリッグス",
+      "name_kana": "ウィリアム・グリッグス",
+      "name_original": "William Griggs",
+      "birth_year": 1832,
+      "death_year": 1911,
+      "short_bio": "イギリスの印刷者。クリーヴランド美術館は、ビアズリーの《イゾルデ》で印刷を担当した人物として記録しています。図案を描く仕事と、印刷物として仕上げる仕事を分けて見るために紹介します。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-beardsley-isolde",
+          "title_ja": "イゾルデ",
+          "title_original": "Isolde",
+          "date_label": "1895年",
+          "work_type": "美術雑誌の読者向け版画／色刷りリトグラフ",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/2010.651",
+          "credited_creator": "オーブリー・ビアズリー（Aubrey Beardsley）／印刷：ウィリアム・グリッグス（William Griggs）",
+          "accession": "2010.651",
+          "note": "図案はビアズリー、印刷はグリッグス。",
+          "creator_role": "印刷"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-2010.651",
+          "institution": "クリーヴランド美術館",
+          "title": "《Isolde》の印刷者William Griggs (1832–1911)",
+          "url": "https://www.clevelandart.org/art/2010.651",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "掲載版画の印刷担当者",
+          "description": "この章との関係は《イゾルデ》の印刷です。図案の作者や、アール・ヌーヴォー運動の主導者という意味ではありません。"
+        }
+      ]
+    },
+    {
+      "id": "eugene-grasset",
+      "entity_type": "person",
+      "name_ja": "ウジェーヌ・サミュエル・グラッセ",
+      "name_kana": "ウジェーヌ・サミュエル・グラッセ",
+      "name_original": "Eugène Samuel Grasset",
+      "birth_year": null,
+      "death_year": 1917,
+      "short_bio": "スイス出身でフランスでも活動した画家・デザイナー。ポスターに加え、ステンドグラス、家具、布の図案も手がけました。生年は美術館の資料間に違いがあり、ここでは一つに確定していません。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-grasset-jeanne-darc",
+          "title_ja": "ジャンヌ・ダルク／サラ・ベルナール",
+          "title_original": "Jeanne d’Arc. Sarah Bernhardt",
+          "date_label": "1889〜1890年（所蔵館の制作年表記）",
+          "work_type": "演劇ポスター／大判の印刷物",
+          "institution": "ベルリン国立博物館群・美術図書館",
+          "source_url": "https://search.smb.museum/object/obj-2747381",
+          "credited_creator": "ウジェーヌ・サミュエル・グラッセ（Eugène Samuel Grasset）",
+          "accession": "1895,686",
+          "note": "所蔵館の制作年は1889〜1890年。制作年と、1895年という収蔵番号・購入年を区別します。",
+          "creator_role": "図案"
+        }
+      ],
+      "sources": [
+        {
+          "id": "smb-grasset-jeanne",
+          "institution": "ベルリン国立博物館群・美術図書館",
+          "title": "Jeanne d’Arc. Sarah Bernhardt",
+          "url": "https://search.smb.museum/object/obj-2747381",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "orsay-grasset",
+          "institution": "オルセー美術館",
+          "title": "Eugène Grasset (1845–1917)",
+          "url": "https://www.musee-orsay.fr/en/ressources/artists-personalities-catalog/eugene-grasset-13977",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cma-1986.136",
+          "institution": "クリーヴランド美術館",
+          "title": "Grasset (1841–1917)：Sculptress作品記録",
+          "url": "https://www.clevelandart.org/art/1986.136",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "life_dates_label": "生年は1841年／1845年の資料差あり、1917年没",
+      "birth_year_status": "conflicting_primary_catalogues",
+      "birth_year_options": [
+        {
+          "year": 1841,
+          "source_ids": [
+            "cma-1986.136",
+            "smb-grasset-jeanne"
+          ]
+        },
+        {
+          "year": 1845,
+          "source_ids": [
+            "orsay-grasset"
+          ]
+        }
+      ],
+      "date_note": "クリーヴランド美術館とベルリンの作品記録は1841年、オルセー美術館の人物記録は1845年としています。",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "演劇ポスターと装飾のデザイナー",
+          "description": "《ジャンヌ・ダルク／サラ・ベルナール》の図案の作者。印刷や彫版に関わった人・会社とは区別します。"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "tiffany-studios",
+      "entity_type": "organization",
+      "name_ja": "ティファニー・スタジオ",
+      "name_kana": "ティファニー・スタジオ",
+      "name_original": "Tiffany Studios",
+      "date_label": "1902〜1932年（所蔵館が示す団体の活動年代）",
+      "short_bio": "ニューヨークの装飾美術の工房・製作組織。色ガラスと金属を組み合わせた照明などを製作しました。工房名だけでなく、判明している個々の設計者も分けて記すことが大切です。",
+      "representative_works": [
+        {
+          "id": "art-nouveau-tiffany-tulip",
+          "title_ja": "チューリップのランプ",
+          "title_original": "“Tulip” lamp",
+          "date_label": "1907〜1912年",
+          "work_type": "照明／色ガラス・青銅",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/20631",
+          "credited_creator": "ティファニー・スタジオ（Tiffany Studios、製作）",
+          "accession": "2011.99.3",
+          "note": "製作はティファニー・スタジオ。個人設計者はこの作品記録では特定されていません。",
+          "creator_role": "製作"
+        },
+        {
+          "id": "art-nouveau-driscoll-pony-wisteria",
+          "title_ja": "小型の藤のランプ",
+          "title_original": "“Pony” Wisteria Lamp",
+          "date_label": "1902〜1910年頃",
+          "work_type": "照明／色ガラス・青銅",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/2018.261",
+          "credited_creator": "クララ・ウォルコット・ドリスコル（設計）／ティファニー・スタジオ（製作）",
+          "accession": "2018.261",
+          "note": "ドリスコルの設計による小型ランプの製作。",
+          "creator_role": "製作"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-20631",
+          "institution": "メトロポリタン美術館",
+          "title": "Tiffany Studios《Tulip lamp》",
+          "url": "https://www.metmuseum.org/art/collection/search/20631",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cma-2018.261",
+          "institution": "クリーヴランド美術館",
+          "title": "Driscoll設計／Tiffany Studios製作の小型の藤のランプ",
+          "url": "https://www.clevelandart.org/art/2018.261",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-nouveau",
+          "role": "ランプの製作組織",
+          "description": "《小型の藤のランプ》の設計者はドリスコル。《チューリップのランプ》では、この所蔵記録から個人の設計者を確定できません。"
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
-  "release": "public-content-surrealism-20261102-1816",
+  "release": "public-content-art-nouveau-20261102-1843",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T18:16:00+09:00",
+  "frozen_at": "2026-11-02T18:43:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -48,13 +48,13 @@
     },
     {
       "path": "art-nouveau.css",
-      "bytes": 2309,
-      "sha256": "5af132912a8ec0313c3d8d41b59937067d50c365c93488eb5e60f3c9a6c135ad"
+      "bytes": 2445,
+      "sha256": "b10693f6a650b254d6baa012a6910e5c7b761c4d0e0885ff418d3581c7dd71d0"
     },
     {
       "path": "artists.json",
-      "bytes": 105716,
-      "sha256": "7e859555539595192b59202ba6706089beb71ff71de86f0cff9f927a9dc3f61a"
+      "bytes": 132170,
+      "sha256": "1dfbe01adcce238d4e523ef99955cf5648ed0989c83fa8f45b97f9bb86c360bc"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1383,8 +1383,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1853628,
-      "sha256": "bb3e91b4e165892c86b266916209ebd8583aa1036937b65c1a523350739c1db4"
+      "bytes": 1853930,
+      "sha256": "0264c2803f9ed743010c086fdd5e0ea08461488dc63f8bba11a6b0a812452fae"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1398,13 +1398,13 @@
     },
     {
       "path": "entries/art-deco.html",
-      "bytes": 57714,
-      "sha256": "4c775de1c45132a99f9d548ff1fa80b3fe2b460c8403490bc21c111684f478eb"
+      "bytes": 58154,
+      "sha256": "e84e824e4ea311ff6fab92b2af56e68809d216571b84319615caa7370f51ac30"
     },
     {
       "path": "entries/art-nouveau.html",
-      "bytes": 83541,
-      "sha256": "61e8768f0bb10b5ab11816a32c6ad082aebb92eb03d54ad1e9d88cef47d16018"
+      "bytes": 99753,
+      "sha256": "8d7bd909234bb80134f7e64d9288d8fb5d7bb81290e0b526b60a71d13c6824c5"
     },
     {
       "path": "entries/arts-and-crafts.html",
@@ -1859,7 +1859,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "6e3d307bca3195c9ee86c2a4cc5efebd63f6ee6d2b9c83fc6e8b6ab68e4f9f6e"
+      "sha256": "c6cfef0391f0969804006e564c3e712b8701835fc583390571ec169df696cf9f"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1868,8 +1868,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25970,
-      "sha256": "9a2c047361ecebac2a62dd29757d194b25a64585b9e80a2b0dd98ce5c5270a13"
+      "bytes": 26144,
+      "sha256": "81aebc0cdccf34ee6fe9ad3cb360369a68300b99e3999b16580fb28253858447"
     },
     {
       "path": "logo-provenance.json",
@@ -1908,8 +1908,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 19627,
-      "sha256": "f67e2331d164f713854f120f7fcff6ba9352f8c846799fbc7c690885717d5c4c"
+      "bytes": 20443,
+      "sha256": "bd7af4999b35cc607aa9ab1286bae8dd4586eb04f3de2ce6a4ffddc1d745485d"
     },
     {
       "path": "share-copy.json",
@@ -1924,7 +1924,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "69edb5caeaa2b843d91748a9796cc9c489395ee628b29d32e884f4734d4c59df"
+      "sha256": "7cc3bdb3d67bf5704a2eb7c750ad378660d9a87447f34c2b704c1b7a3ebab9f8"
     },
     {
       "path": "site.webmanifest",
@@ -1934,7 +1934,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "c06b7e9ddf33fcbe652ba964cfd95267bd9253b46b5d45b3907bb7298f133faa"
+      "sha256": "f9a016bfc1e38499a26d07cb16ce4df94e3dfa95333cfe5330ba90c4207a5e55"
     },
     {
       "path": "study-images.js",
@@ -1953,8 +1953,8 @@
     },
     {
       "path": "tests/artist-registry.py",
-      "bytes": 2226,
-      "sha256": "0fb4a44d47820796524723481e7440fbe7d885085cc56cb08f7fa4a09fa488f2"
+      "bytes": 2651,
+      "sha256": "a350597dd13a0b94520a996940e321a7caad3b800917c19d83eb3c18c7ffd4f1"
     },
     {
       "path": "tests/chapter-navigation-browser.cjs",
@@ -1978,8 +1978,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 23127,
-      "sha256": "0b9ae8957298da69a41bd3d38b2a17915ca1672e4b14bfb186fbcce308a26028"
+      "bytes": 23551,
+      "sha256": "cd3be11a5db05ae013bb6c67c17280e3518ce49c417e6ca0cfb58a6868fba158"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",

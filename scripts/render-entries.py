@@ -67,19 +67,26 @@ def representative(w,n):
 
 def artist_section(entry, registry):
  ids=entry.get('artist_ids',[])
- if not ids:return ''
+ org_ids=entry.get('organization_ids',[])
+ if not ids and not org_ids:return ''
  if registry is None:raise ValueError('Artist registry required for this article')
  people={a['id']:a for a in registry.get('artists',[])}
+ organizations={a['id']:a for a in registry.get('organizations',[])}
  scope='生涯と作品を調べるための資料をまとめています。' if entry.get('type','').startswith('人物') else 'ここに挙げた人だけで、この項目の全体を説明するものではありません。'
- out='<section id="article-artists" class="article-story"><h2 class="study-section-title">この項目に関わる人</h2><p>名前を開くと、生没年、主な仕事、作品と出典を読めます。'+scope+'</p>'
- for ident in ids:
-  a=people[ident];birth=a.get('birth_year');death=a.get('death_year')
+ heading='この項目に関わる人と工房' if org_ids else 'この項目に関わる人'
+ intro='名前を開くと、生没年や工房の活動年代、主な仕事、作品と出典を読めます。' if org_ids else '名前を開くと、生没年、主な仕事、作品と出典を読めます。'
+ out='<section id="article-artists" class="article-story"><h2 class="study-section-title">'+heading+'</h2><p>'+intro+scope+'</p>'
+ for ident in ids+org_ids:
+  organization=ident in org_ids
+  a=organizations[ident] if organization else people[ident];birth=a.get('birth_year');death=a.get('death_year')
   life=(str(birth)+'年生まれ' if birth is not None else '生年は未確認')+'／'+(str(death)+'年没' if death is not None else ('存命' if a.get('life_status')=='verified_living' else '没年の記載は未確認'))
+  date_uncertain=a.get('birth_year_status')=='conflicting_primary_catalogues' or (a.get('birth_year_status')=='unknown' and a.get('death_year_status')=='unknown')
+  life=a['date_label'] if organization else (a['life_dates_label'] if date_uncertain else life)
   relation=next((x for x in a.get('chapter_relationships',[]) if x['chapter_id']==entry['slug']),{})
   name=a['name_ja']+('（'+a['name_reading']+'）' if a.get('name_reading') else '')
-  out+='<details class="article-deeper artist-record" id="artist-'+E(ident)+'"><summary>'+E(name)+' — '+E(life)+'</summary><p>'+E(a.get('name_original',''))+'</p>'+pp(a['short_bio'])+pp(relation.get('description',''))+'<h3>代表的な作品・仕事</h3><ul>'
+  out+='<details class="article-deeper artist-record" id="artist-'+E(ident)+'"><summary>'+E(name)+' — '+E(life)+'</summary><p>'+E(a.get('name_original',''))+'</p>'+pp(a.get('date_note','') if date_uncertain else '')+pp(a['short_bio'])+pp(relation.get('description',''))+'<h3>代表的な作品・仕事</h3><ul>'
   for w in a.get('representative_works',[]):out+='<li>'+link(w['source_url'],w['title_ja'])+' — '+E(w.get('date_label','年代は未確認'))+' / '+E(w.get('work_type',''))+pp(w.get('note',''))+'</li>'
-  out+='</ul><p class="note">人物の出典：'+' / '.join(link(x['url'],x.get('institution') or x.get('title','人物資料')) for x in a['sources'])+'</p></details>'
+  out+='</ul><p class="note">'+('工房の出典：' if organization else '人物の出典：')+' / '.join(link(x['url'],x.get('institution') or x.get('title','人物資料')) for x in a['sources'])+'</p></details>'
  return out+'</section>'
 
 def render(entry,template,stamp,navigation_html="",artist_registry=None):
@@ -93,7 +100,7 @@ def render(entry,template,stamp,navigation_html="",artist_registry=None):
  styles=''.join(re.findall(r'<link rel="stylesheet"[^>]+>',template))
  meta=json.dumps({'@context':'https://schema.org','@graph':[{'@type':'WebPage','@id':canonical+'#page','url':canonical,'name':title+' — DESIGN LINEAGE','description':entry['summary'],'inLanguage':'ja','dateModified':stamp,'isPartOf':{'@id':BASE+'#website'}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'図鑑','item':BASE},{'@type':'ListItem','position':2,'name':title,'item':canonical}]}]},ensure_ascii=False).replace('<','\\u003c')
  head=f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="index,follow"><title>{E(title)} — DESIGN LINEAGE</title><meta name="description" content="{E(entry['summary'])}">{styles}<link rel="canonical" href="{canonical}"><meta name="dateModified" content="{stamp}"><meta property="og:site_name" content="DESIGN LINEAGE"><meta property="og:title" content="{E(title)} — DESIGN LINEAGE"><meta property="og:description" content="{E(entry['summary'])}"><meta property="og:url" content="{canonical}"><meta property="og:type" content="article"><meta property="og:locale" content="ja_JP"><meta property="og:image" content="{BASE}assets/design-lineage-og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="DESIGN LINEAGE — デザイン表現史"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{BASE}assets/design-lineage-og.png"><link rel="icon" type="image/png" sizes="32x32" href="../assets/icon-32.png"><link rel="apple-touch-icon" sizes="180x180" href="../assets/icon-180.png"><link rel="manifest" href="../site.webmanifest"><script type="application/ld+json" id="site-update-metadata">{meta}</script></head><body><a class="skip" href="#main">本文へ</a>{header}'''
- if entry.get('deep_dive') and slug!='art-nouveau' and 'deep-reading.css' not in head:
+ if (entry.get('artist_ids') or (entry.get('deep_dive') and slug!='art-nouveau')) and 'deep-reading.css' not in head:
   head=head.replace('</head>','<link rel="stylesheet" href="../deep-reading.css?v=20261102-1626"></head>')
  actual=[i for i in entry.get('adopted_images',[]) if public_asset(i)]
  refs=[i for i in entry.get('reference_images',[]) if public_asset(i)]
