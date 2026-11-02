@@ -1,8 +1,8 @@
 {
-  "release": "public-content-ukiyoe-20261103-0258",
+  "release": "home-compact-banners-20261103",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-03T02:58:00+09:00",
+  "frozen_at": "2026-11-03T08:05:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -13,8 +13,8 @@
   "files": [
     {
       "path": ".github/workflows/site-qa.yml",
-      "bytes": 1403,
-      "sha256": "eb29d5e1f18bcd0df91406587136aa99fc8daf2b304cdcf36431e21c98d4a44f"
+      "bytes": 1445,
+      "sha256": "910fcbb3f98d20ef06c87d9e316a483d40cfa10f140ffa373d8e26ec354f69a1"
     },
     {
       "path": ".nojekyll",
@@ -1867,14 +1867,24 @@
       "sha256": "412d78fe4bb76d9acd71a76e60e685165c0b5a8f64e0aae514ca96446bcc73a2"
     },
     {
+      "path": "home-features.css",
+      "bytes": 1846,
+      "sha256": "a3c010c5e5c6b813b972827664a022ca420cdfb46344f66b75d257ebc6c0f3c7"
+    },
+    {
+      "path": "home-features.js",
+      "bytes": 514,
+      "sha256": "6be2d86b6f2905830664a3e0b3934bc943a094cf608d883c93f56147e86d50ca"
+    },
+    {
       "path": "image-rights.json",
       "bytes": 6021,
       "sha256": "d7a3b48e2990eb7d7b58233b18ff02b853a5a28a1131510b6faafc5f1bedd2ca"
     },
     {
       "path": "index.html",
-      "bytes": 23944,
-      "sha256": "99bdac8f8b8fc86099ac2815adc85967b9806fa356045ff624e7553b2072a8a2"
+      "bytes": 25015,
+      "sha256": "26544283d57214e127106af737e67043b2373ee1fd25df8175f20f5482bf447e"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1939,7 +1949,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "511af800f094e6d1584d874af1c603946b7185b8f344e382659c5cf5c70ffdad"
+      "sha256": "9dc66de811debeeb5ce25d7d4ec41f09a142003ce9aa2b3fd17e46cf17279eb3"
     },
     {
       "path": "site.webmanifest",
@@ -1949,7 +1959,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "5879e5ad0e8febed87f675868717f37451bccf82bb661ee9f228fa25c41e7e00"
+      "sha256": "bf5f0d78ba2279ce887d7dc1564390905ba48792a3b89b4fcdc7d7ce520bbc83"
     },
     {
       "path": "study-images.js",
@@ -1985,6 +1995,11 @@
       "path": "tests/chapter-navigation-unit.cjs",
       "bytes": 5107,
       "sha256": "e5148afb4a17474f1de9c6530fb66815cc97208f5aa81ec4feaf735182d8a09b"
+    },
+    {
+      "path": "tests/home-features.cjs",
+      "bytes": 4772,
+      "sha256": "185a599e3f4b1b544a34d51d5a72a7494d10bd1a267511043b8b3232e60cfb44"
     },
     {
       "path": "tests/reader-copy-consistency.py",

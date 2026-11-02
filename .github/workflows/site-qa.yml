@@ -33,6 +33,7 @@ jobs:
       - run: npm test
       - run: node tests/chapter-navigation-browser.cjs
       - run: node tests/swipe-hint-browser.cjs
+      - run: node tests/home-features.cjs
       - name: Stop local site server
         if: always()
         run: |
