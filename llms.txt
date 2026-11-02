@@ -61,7 +61,7 @@
 - [サイケデリック・アート / Psychedelic Art](https://djnaoyaman.github.io/design-lineage/entries/psychedelic-art.html): 視覚表現の潮流（ここでは音楽ポスターを中心に扱う）。主に1960年代後半。実作品画像0点、画像収録は継続中。
 - [ストリームライン・モダン / Streamline Moderne](https://djnaoyaman.github.io/design-lineage/entries/streamline-moderne.html): 歴史的な様式・潮流（建築と製品の流線型を区別して扱う）。主に1930年代。個別の製品は1940年代以後も製造。実作品画像1点、画像収録は継続中。
 - [ポーランド・ポスター派 / Polish Poster School](https://djnaoyaman.github.io/design-lineage/entries/polish-poster-school.html): ポスター制作の潮流（ひとつの学校名ではない）。主に1950–70年代。実作品画像0点、画像収録は継続中。
-- [シュルレアリスム（超現実主義） / Surrealism](https://djnaoyaman.github.io/design-lineage/entries/surrealism.html): 美術・文学の運動。1924年の宣言を重要な節目として、1920–30年代を中心に扱う。実作品画像0点、作品・制作の例7件、人物7人。画像収録は継続中。
+- [シュルレアリスム（超現実主義） / Surrealism](https://djnaoyaman.github.io/design-lineage/entries/surrealism.html): 美術・文学の運動。1924年の宣言を重要な節目として、1920–30年代を中心に扱う。実作品画像0点、作品・制作の例7件、人物8人。画像収録は継続中。
 - [ユーゲントシュティール / Jugendstil](https://djnaoyaman.github.io/design-lineage/entries/jugendstil.html): Art Nouveauの地域的な呼称・展開（独立した別運動として数えない）。19世紀末から20世紀初めを中心に扱う。1896年は雑誌の創刊年で、様式全体の発明年ではない。実作品画像0点、画像収録は継続中。
 - [北欧モダン（スカンディナヴィアン・モダン） / Scandinavian Modern](https://djnaoyaman.github.io/design-lineage/entries/scandinavian-modern.html): 地域を横断するデザインの潮流・呼称。1930年代–1960年代を中心に紹介。スカンディナヴィアン・デザインという呼称の国際的な宣伝は1950年代に拡大。実作品画像1点、画像収録は継続中。
 - [ブルータリズム / Brutalism](https://djnaoyaman.github.io/design-lineage/entries/brutalism.html): 建築の潮流。初期のニュー・ブルータリズムと後の広がりを区別。1950年代から展開。紹介例は1950–1982年の建設。実作品画像1点、画像収録は継続中。

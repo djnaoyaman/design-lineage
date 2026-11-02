@@ -3303,6 +3303,68 @@
         }
       ],
       "verified_at": "2026-11-02"
+    },
+    {
+      "id": "max-klinger",
+      "entity_type": "person",
+      "name_ja": "マックス・クリンガー",
+      "name_kana": "マックス・クリンガー",
+      "name_original": "Max Klinger",
+      "birth_year": 1857,
+      "death_year": 1920,
+      "short_bio": "ドイツの版画家・画家・彫刻家。複数の版画を連ね、現実の出来事と夢や空想を交えた物語を描きました。手袋を題材とする版画集は、その代表的な仕事です。",
+      "representative_works": [
+        {
+          "id": "klinger-glove-abduction-1881-met-2009-53",
+          "title_ja": "手袋をさらう怪物――「拾った手袋についてのパラフレーズ」第9図",
+          "title_original": "Abduction (plate nine from Paraphrase on the Finding of a Glove)",
+          "title_display_note": "日本語の見出しは、場面を伝えるための説明名です。",
+          "date_label": "1881年（初版／全5段階のうち第2段階）",
+          "work_type": "連作版画",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/420618",
+          "accession": "2009.53",
+          "creator_role": "版画の制作",
+          "credited_creator": "マックス・クリンガー（版画）／F・フェルジング（印刷）",
+          "printer": "F. Felsing",
+          "medium": "エッチング、ドライポイント、アクアチント、シン・コレ",
+          "reference_role": "related_precedent",
+          "chapter_representative": false,
+          "note": "日本語の見出しは、場面を伝えるための説明名です。 手袋をめぐる連作の第9図。ここで取り上げるのはメトロポリタン美術館の所蔵品で、ニューヨーク近代美術館の版画集とは別の個体です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-klinger-abduction",
+          "institution": "メトロポリタン美術館",
+          "title": "手袋の版画集、第9図（2009.53）",
+          "url": "https://www.metmuseum.org/art/collection/search/420618",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-klinger-graphic-art",
+          "institution": "メトロポリタン美術館",
+          "title": "マックス・クリンガーの版画",
+          "url": "https://www.metmuseum.org/essays/the-graphic-art-of-max-klinger",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-klinger-glove-context",
+          "institution": "ニューヨーク近代美術館",
+          "title": "手袋：物語と後のシュルレアリストへの影響",
+          "url": "https://www.moma.org/collection/works/64063",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "surrealism",
+          "role": "関連する先行例をつくった版画家",
+          "reference_role": "related_precedent",
+          "description": "クリンガーの版画が後のシュルレアリストたちに影響したことを、ニューヨーク近代美術館が解説しています。1920年に亡くなったクリンガーは、1924年に始まる運動のメンバーではありません。"
+        }
+      ]
     }
   ],
   "organizations": [

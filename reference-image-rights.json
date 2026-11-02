@@ -1,6 +1,6 @@
 {
   "checked_at": "2026-11-02",
-  "counting": "参照・関連画像5配置。既存の作品画像と同じ画像の再利用を含みます。この数は、新たに取得した画像の数ではありません。",
+  "counting": "参照・関連画像6配置。既存の作品画像と同じ画像の再利用を含みます。この数は、新たに取得した画像の数ではありません。",
   "images": [
     {
       "id": "cma-1961.154-reference",
@@ -370,6 +370,59 @@
         "sha256": "3b9ceeee0df9dc757fd4289d42f3b4861b6e66d4ff7c6a22ad66a5a442dc40a3"
       },
       "reference_role": "related_precedent"
+    },
+    {
+      "id": "klinger-abduction-1881-met",
+      "work_id": "klinger-glove-abduction-1881-met-2009-53",
+      "entry": "Surrealism",
+      "reference_role": "related_precedent",
+      "title": "関連する先行例：手袋をさらう怪物――版画集「拾った手袋についてのパラフレーズ」第9図",
+      "author": "マックス・クリンガー（版画）／F・フェルジング（印刷）",
+      "year": "1881年",
+      "institution": "メトロポリタン美術館",
+      "accession": "2009.53",
+      "source_page": "https://www.metmuseum.org/art/collection/search/420618",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP334017.jpg",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "マックス・クリンガー《Abduction》、1881年。F・フェルジング印刷。メトロポリタン美術館、2009.53。Purchase, The Isaacson-Draper Foundation Gift, 2009。Public Domain／CC0。",
+      "underlying_work_rights": "所蔵館は、この1881年の版画をパブリックドメインとして公開しています。",
+      "reproduction_rights": "所蔵館のオープンアクセス方針により、このパブリックドメイン作品の画像はCC0で公開されています。",
+      "territory_note": "所蔵館による個別の指定と画像公開方針に基づきます。すべての国での権利保証や、所蔵館の推奨を意味しません。",
+      "local_file": "assets/klinger-abduction-met-original.jpg",
+      "width": 3915,
+      "height": 2837,
+      "sha256": "6159889c2b83f00c4eb06e0cc804a7ab6c20e0570a6900ab43adedf122df961e",
+      "local_bytes": 1069972,
+      "alt": "広い白い紙の中央に小さな横長の版画。翼のある怪物が手袋をくわえて飛び、左の窓から伸びる二本の腕が追いかける。下には花が咲く。",
+      "visual_notes": [
+        {
+          "title": "いつもの物が、夢の中で別の役になる。",
+          "text": "手袋という小さな持ち物が、怪物にさらわれる大事件の中心になっています。窓から伸びる腕と、右へ飛ぶ翼の向きを見比べてみましょう。"
+        },
+        {
+          "title": "物語の一場面を、細い線で描く。",
+          "text": "怪物も窓も花も、白と黒の細かな線で描かれています。現実にありそうな描き方と、ありえない出来事が同じ画面に並びます。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "日本語の見出しは、場面を伝えるための説明名です。1881年の版画集の第9図です。初版で、版を直して刷った五つの段階のうち第2段階にあたる所蔵品です。紙の余白と端を含め、提供画像の全体を保持しています。細部を見たいときは、画像をタップすると大きな原画像を開けます。1924年に始まる運動の正式なメンバー作品ではなく、関連する先行例として紹介します。",
+        "anchor": "klinger-abduction-1881-met"
+      },
+      "original_image": {
+        "url": "https://images.metmuseum.org/CRDImages/dp/original/DP334017.jpg",
+        "width": 3915,
+        "height": 2837,
+        "sha256": "6159889c2b83f00c4eb06e0cc804a7ab6c20e0570a6900ab43adedf122df961e"
+      },
+      "image_processing": "提供された原JPEGを無加工で保持しています。",
+      "original_bytes_unchanged": true,
+      "pixels_inspected": true,
+      "status": "adopted_reference_image",
+      "rights_reviewed": true,
+      "original_rights_reviewed": true,
+      "reproduction_rights_reviewed": true,
+      "commercial_use_confirmed": true
     }
   ]
 }
