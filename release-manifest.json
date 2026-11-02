@@ -1,8 +1,8 @@
 {
-  "release": "public-chapter-navigation-20261102-1351",
+  "release": "public-deepen-rinpa-20261102-1444",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T13:51:00+09:00",
+  "frozen_at": "2026-11-02T14:44:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 88,
@@ -29,12 +29,12 @@
     {
       "path": "README.md",
       "bytes": 5104,
-      "sha256": "440c61093e280145fa90085389a6e132c1d732e371a6f8b309e9ea3fae66571a"
+      "sha256": "cbbf29df7741ec883cccddc888529613531470811795cc0947cca87f26c916df"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 325436,
-      "sha256": "6e629f656047ba1fe0473389dcaad3675cde8e2cc2f47e436f52f2c5f67d6ad7"
+      "bytes": 342701,
+      "sha256": "eca54d007796af6a36522fca83ee57aab74759537d0de1db7f8c8b8a9c4bb392"
     },
     {
       "path": "analytics-status.json",
@@ -1117,6 +1117,81 @@
       "sha256": "644a2fa6a8cf76817a6fb1d80d71998ea23500bbbbc805a3e4319d365954159d"
     },
     {
+      "path": "assets/rinpa-kenzan-style-dish-1000.webp",
+      "bytes": 137648,
+      "sha256": "729c29c3dc017edcba0fa4375488750f911ff76820c9d16396ee36f904b5272b"
+    },
+    {
+      "path": "assets/rinpa-kenzan-style-dish-640.webp",
+      "bytes": 61506,
+      "sha256": "382e8f6b3e9b9f795ea049e4e837446be64d7be037f3e85ddf55c00c9cefba67"
+    },
+    {
+      "path": "assets/rinpa-kenzan-style-dish.jpg",
+      "bytes": 179638,
+      "sha256": "dec9f168d58419cc0871fd5b50838bea3d8561979e297c88cbca5550b7608ee9"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148398-1000.webp",
+      "bytes": 162894,
+      "sha256": "3692f337314e35988db059ddfbad63d81e0aa6a8584b08708f7563481b1a7888"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148398-640.webp",
+      "bytes": 78928,
+      "sha256": "fed1a80fbf6c62d197a58972766ccba9ea2d2e9ae135468d5350728e2d237651"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148398.jpg",
+      "bytes": 182751,
+      "sha256": "96940245515065a4f48741820e3d70befc4b4d6fbc001f188a103c76a0f55306"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148399-1000.webp",
+      "bytes": 163712,
+      "sha256": "3a008b7e1dc9a9c47edd5f3c9d73843da8c491a3a2ad40fdccc0c40914a0bf7d"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148399-640.webp",
+      "bytes": 78550,
+      "sha256": "aa9027adfff70032b8f3be609221d41935379f30cababa15945b5bcdcace3b4a"
+    },
+    {
+      "path": "assets/rinpa-kiitsu-148399.jpg",
+      "bytes": 181325,
+      "sha256": "1a21c630d1ecf3a9c2cfbcebb77809e38eeb7f3ca58a3ea899ff9be140ba8ce9"
+    },
+    {
+      "path": "assets/rinpa-koetsu-style-box-1000.webp",
+      "bytes": 77056,
+      "sha256": "025fe117cbc708116596dcd3ce970a6301f65c5eda6649713bc90459f2a692ca"
+    },
+    {
+      "path": "assets/rinpa-koetsu-style-box-640.webp",
+      "bytes": 34614,
+      "sha256": "e5e1b07b1a6d9f6a3f43a62bc9a1f5ed8f58f865bd4a6b049e12ade3ac4e2a1d"
+    },
+    {
+      "path": "assets/rinpa-koetsu-style-box.jpg",
+      "bytes": 99059,
+      "sha256": "eb9458ae98736cc6fef266edc5a832c2ac3cec890a9306b6fabad0c15eb4042b"
+    },
+    {
+      "path": "assets/rinpa-korin-hyakuzu-1000.webp",
+      "bytes": 184372,
+      "sha256": "7510a9027ff1cf16b8d71f6be3411f755353ee35a599ea85fbab7296762ce8a1"
+    },
+    {
+      "path": "assets/rinpa-korin-hyakuzu-640.webp",
+      "bytes": 76268,
+      "sha256": "a4f28e2449d492b3507b921154279e58c2b422c3d739ed343ded78b8d78e4526"
+    },
+    {
+      "path": "assets/rinpa-korin-hyakuzu.jpg",
+      "bytes": 250097,
+      "sha256": "66a9d73b6ffd57bcff4782768e50706532f6414bb1590d17ab1de502bd52e7db"
+    },
+    {
       "path": "assets/schlemmer-bauhaus-exhibition-flyer-1200.webp",
       "bytes": 607942,
       "sha256": "294e657587f2e74461a41c6bbdd64485c1a5589f2305356045f2254763553078"
@@ -1168,8 +1243,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 36186,
-      "sha256": "ed0285b3e5a5e5642ccbeec415a0c8d89f1fec9e11f3af46996438f924e858cf"
+      "bytes": 36271,
+      "sha256": "e69f0e93130dbb11d954d34d7a5835dde1564afa294a212fb512717ec16dd2b5"
     },
     {
       "path": "chapter-navigation.css",
@@ -1200,6 +1275,11 @@
       "path": "compiler.html",
       "bytes": 6288,
       "sha256": "66ec20cec44cb9bf85e758501d327cde4fb776bb97bcedbdbd261a857afac9f9"
+    },
+    {
+      "path": "deep-reading.css",
+      "bytes": 2275,
+      "sha256": "95812a2f9f77dcaa35e3836564445790fdf20f349e1f4660920d38df696e72e3"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1503,8 +1583,8 @@
     },
     {
       "path": "entries/rinpa.html",
-      "bytes": 37238,
-      "sha256": "cd1b126bb5573e44033d5c1300fced6dd88bca2292ca2df47e6a2ed589768b13"
+      "bytes": 60081,
+      "sha256": "a8d2bf71389fe54c93f06cdd5a31e25f335f8378491f0076085d009ca12d2490"
     },
     {
       "path": "entries/risograph.html",
@@ -1643,8 +1723,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1695063,
-      "sha256": "29dc9f0c4b3027342431e9d789718f42dbe53d9f4f86faf42fabb49e24b889ea"
+      "bytes": 1728059,
+      "sha256": "a8b9425b061471b1a7dca11a7e4a71fe37c0b784c254c7cdb57339b4a098a44f"
     },
     {
       "path": "external-preview-rights.json",
@@ -1674,7 +1754,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "e49903fc5b46487f830bfa1b4095f19c367502191d525a9358896017a59f9969"
+      "sha256": "b85a16ad6929dc952e1df96a2cdba3ddf5ec1d69572d9c5950a0633528b5ed6b"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1683,8 +1763,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25029,
-      "sha256": "9751a81c018fa933717b8e544cabda557c1524a0a414d069bb3a560a3a7a8743"
+      "bytes": 25114,
+      "sha256": "88b788839724108e8856418060834ea08849a4bcb4ea3755329c9c2e68b103e7"
     },
     {
       "path": "logo-provenance.json",
@@ -1723,8 +1803,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 16525,
-      "sha256": "e9e672549c96f1ca2af4211c2fdae814b2f899a1bf565897038d59024005a090"
+      "bytes": 17334,
+      "sha256": "4acddff46b839998c227b31e625be571a5fe78c25e3bf7d87e703318b8281ba6"
     },
     {
       "path": "share-copy.json",
@@ -1739,7 +1819,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "3d985f6b2e5f7c964ae993440540b23446e71176b8d2d20aa5cc90a249ddcc29"
+      "sha256": "29b702188cf76f95b9cb9fb2b1cd7ee5700c89702aeae455020cb538819d4111"
     },
     {
       "path": "site.webmanifest",
@@ -1749,7 +1829,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "50c29c3f09106d545bc74420629aba5e5b025765ba13ff3b0523946341799c91"
+      "sha256": "807348d1bbdb4ac700ba9900a644e7185bfef06db6c70b069d92e9a372f32563"
     },
     {
       "path": "study-images.js",
@@ -1773,8 +1853,8 @@
     },
     {
       "path": "tests/chapter-navigation-static.py",
-      "bytes": 1783,
-      "sha256": "f889317f655fedfd287128e8038a212ea476c9ee700768bf1a7dce838bb4c7d9"
+      "bytes": 1864,
+      "sha256": "7ee9bc1529413c353ca48a0a2c16a58a745bca20ed65a59220c5acc979309196"
     },
     {
       "path": "tests/chapter-navigation-unit.cjs",
@@ -1783,8 +1863,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 14311,
-      "sha256": "7b3a83eba7276afa396e5cbf561f3923cb4e7cfbf4de9b8ebee0c68048c1e6ac"
+      "bytes": 18423,
+      "sha256": "14bacc5e298c8f6926a9f0d069fdf0ee71d81037eefbd86281f6d66c9f76625a"
     },
     {
       "path": "timeline.css",
