@@ -1,8 +1,8 @@
 {
-  "release": "public-content-arts-and-crafts-20261102-1949",
+  "release": "public-content-bauhaus-20261102-2006",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T19:49:00+09:00",
+  "frozen_at": "2026-11-02T20:06:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1337,6 +1337,11 @@
       "sha256": "4deb846066703eb255ae1ad59ef3f0dcc7645fdfaeb720dae139cbe6f3f08671"
     },
     {
+      "path": "bauhaus-reading.css",
+      "bytes": 154,
+      "sha256": "9940db9ea290878c79e1f7119963398a21f2472ea8f1ffaf928942633f7512f1"
+    },
+    {
       "path": "catalog.json",
       "bytes": 37143,
       "sha256": "a76ae74674789774cf88900a04e814bec57ccdb120234da8bcd795887b61321f"
@@ -1418,8 +1423,8 @@
     },
     {
       "path": "entries/bauhaus.html",
-      "bytes": 68239,
-      "sha256": "977ebc6c601a05d79fcc55859486052b33a1264c80c85ce8762afe9dbc0d0031"
+      "bytes": 68308,
+      "sha256": "3792f26357b67accddf89fc6d9941b1e152c6e827a9dfc3a097e51c711bd095f"
     },
     {
       "path": "entries/bengal-school.html",
@@ -1864,7 +1869,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "10f1593b2f39259c4cb66536859f26a8937222b5badada867d0dca4983c5c3d6"
+      "sha256": "9f14b1f4aca2d82e95bd5756ddb6b492d492b36fba5373044efec03e10d17853"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1929,7 +1934,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "2a7f4a48ae755a5601cf9ade73bc55398d644c6a3038ffd8ed66186d5d4e0065"
+      "sha256": "f74d84f866a79919625081a99e58e994a3d0276aae4c2ad7c5364cf0f2dbb843"
     },
     {
       "path": "site.webmanifest",
@@ -1939,7 +1944,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "f2acdc533a9913c9f1a870b9e9e0406975e88321eb1c5c757871df509e8151fb"
+      "sha256": "b7a310e76d38364182a1363b339364128a510578a245ff129df9289b8e8157a7"
     },
     {
       "path": "study-images.js",
