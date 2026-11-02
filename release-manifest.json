@@ -1,8 +1,8 @@
 {
-  "release": "public-content-russian-constructivism-20261102-2038",
+  "release": "public-content-postmodernism-20261102-2053",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T20:38:00+09:00",
+  "frozen_at": "2026-11-02T20:53:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 316900,
-      "sha256": "4c84b9f89649ccde9162c42665f44b4594dd6ad895f69e0d17ca5c0506bb1ea0"
+      "bytes": 340669,
+      "sha256": "6c27c798440b590e7a7725ce850978e8018ec9ccce4a6268a6bc11a6870271dc"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1398,8 +1398,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1867439,
-      "sha256": "0e073542ac6e9b85fc33c36831fbc5d188ed7981aceb5eb24a94d83f65abadc4"
+      "bytes": 1870482,
+      "sha256": "121277eb10d2537f0a35d599750319e93ed5218acd3ac01ee7aaf67ec4056ba2"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1593,8 +1593,8 @@
     },
     {
       "path": "entries/memphis.html",
-      "bytes": 13974,
-      "sha256": "9ffbbcd0d709ac53e718b996d9d66eb62f9ec4286bcb46bc3cdfe4a38ac7eafe"
+      "bytes": 22259,
+      "sha256": "8eb207a65cc70752a9ae409377e54a0e9226e196059d5cd88bfdf56a969e6128"
     },
     {
       "path": "entries/metabolism.html",
@@ -1688,8 +1688,8 @@
     },
     {
       "path": "entries/postmodernism.html",
-      "bytes": 26594,
-      "sha256": "7de62bb09d3680a50ae0865b718a3ad7fec6e47521df898002d406a1608307dd"
+      "bytes": 38654,
+      "sha256": "01f3975230e792d7497e2afa070781ad4e4b07c602c6fe4fc858e5f76ca6a06b"
     },
     {
       "path": "entries/psychedelic-art.html",
@@ -1874,7 +1874,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "0e0293a7eb6c5ae1efc33d78b35999f063018a858ecae4901ab89be1b9478f16"
+      "sha256": "36c7f469c5e3e45cd23d8e166add0e8dc498e064116a145657b195cddd976618"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1883,8 +1883,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 26820,
-      "sha256": "01950f34201af19b2e2d0cc0ae6951842aa2cec1d42cf94189c5e3ef69597c4d"
+      "bytes": 26951,
+      "sha256": "391192cc821b5271c54359d26a77b0648c3d2dc2e435b948f577588e6426f44e"
     },
     {
       "path": "logo-provenance.json",
@@ -1939,7 +1939,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "49d0c17d4f285d33c4f13fb0be307098753f7b37ffafc4cdf6cd6c1f6075ba98"
+      "sha256": "6791d92a254468d7a5c4eb6cd399c10d5e928672552e37d1b0409cd0e28914ac"
     },
     {
       "path": "site.webmanifest",
@@ -1949,7 +1949,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "b6417b57578c4c2130dd02a7a943c44a8569a1af2bf81326fb388a1d5c4bd096"
+      "sha256": "6ed7a053b851c82aed3d6a8c9d5b3c48a7c095d6d172f8538a782368c769bbb9"
     },
     {
       "path": "study-images.js",
@@ -1968,8 +1968,8 @@
     },
     {
       "path": "tests/artist-registry.py",
-      "bytes": 2651,
-      "sha256": "a350597dd13a0b94520a996940e321a7caad3b800917c19d83eb3c18c7ffd4f1"
+      "bytes": 2714,
+      "sha256": "e7658655b239aa0aa78817265f45c50cdcdc05c7f79b09157314656decc70a54"
     },
     {
       "path": "tests/chapter-navigation-browser.cjs",
@@ -1993,8 +1993,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 30027,
-      "sha256": "847a49b44c7f6d6b94581b196677e2c695509b8f6e1f08a07334b7ad57708be9"
+      "bytes": 30360,
+      "sha256": "e63afc35e7cd0ddd03bd457b7060c8f81681f0414640d79aa3944e0950bf6a33"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",

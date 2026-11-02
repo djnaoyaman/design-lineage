@@ -5139,6 +5139,44 @@
         "url": "https://commons.wikimedia.org/wiki/File:V_Venturi_H_720am.JPG",
         "institution": "ウィキメディア・コモンズ",
         "title": "ヴァンナ・ヴェンチューリ邸の画像と利用条件"
+      },
+      {
+        "id": "met-carlton-exact",
+        "institution": "メトロポリタン美術館",
+        "title": "カールトン（1997.460.1a–d）",
+        "url": "https://www.metmuseum.org/art/collection/search/486989"
+      },
+      {
+        "id": "portland-official-building",
+        "institution": "ポートランド市",
+        "title": "ポートランド・ビルディング",
+        "url": "https://www.portland.gov/fleet-and-facilities/facilities/portland-building"
+      },
+      {
+        "id": "graves-portland-team",
+        "institution": "マイケル・グレイヴス設計事務所",
+        "title": "ポートランド・ビルディングの設計と改修",
+        "url": "https://michaelgraves.com/legacy-project/the-portland-building/"
+      },
+      {
+        "id": "moma-greiman-dq133",
+        "institution": "ニューヨーク近代美術館（モマ）",
+        "title": "デザイン・クォータリー第133号（39.2024）",
+        "url": "https://www.moma.org/collection/works/172729"
+      },
+      {
+        "id": "portland-monograph-firm",
+        "institution": "ポートランド市",
+        "title": "ポートランド・ビルディングの歴史",
+        "url": "https://www.portland.gov/omf/documents/portland-building-monograph/download",
+        "verified_at": "2026-11-02"
+      },
+      {
+        "id": "vam-postmodern-collection",
+        "institution": "ヴィクトリア＆アルバート博物館（V&A）",
+        "title": "ポストモダニズムの所蔵作品",
+        "url": "https://www.vam.ac.uk/collections/postmodernism",
+        "verified_at": "2026-11-02"
       }
     ],
     "status": "本文公開・実作品画像1点／画像の収録は継続中",
@@ -5178,12 +5216,12 @@
       },
       {
         "title": "Carlton room divider",
-        "creator": "Ettore Sottsass / Memphis",
-        "date": "制作年・所蔵個体を個別資料で確認中",
-        "domain": "furniture / laminate",
-        "reason": "家具の使い道、飾り、色、形が伝える意味の関係を考える候補です。",
-        "limitation": "代表例として取り上げたい候補です。どの版か、いつつくられたか、誰の作か、なぜ代表例といえるかを、それぞれの一次資料で確認するまでは確定しません。",
-        "evidence": null,
+        "creator": "エットレ・ソットサス（設計）／メンフィス・ミラノ（製造）",
+        "date": "1981年（メトロポリタン美術館所蔵個体）",
+        "domain": "家具／木・プラスチックの化粧板",
+        "reason": "本棚、引き出し、間仕切りを一つにまとめ、鮮やかな色と斜めの棚で、家具の役目と彫刻のような姿を結びつけています。",
+        "limitation": "ここではメトロポリタン美術館の1997.460.1a–dを参照します。別の製造年や版の個体と混同しません。作品画像は未掲載です。",
+        "evidence": "https://www.metmuseum.org/art/collection/search/486989",
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
@@ -5201,16 +5239,17 @@
             "部屋を仕切るための家具です。",
             "何に使うかだけでなく、色や飾り、形が伝えることも比べます。"
           ]
-        }
+        },
+        "title_ja": "カールトン：間仕切り家具"
       },
       {
         "title": "Portland Building",
-        "creator": "Michael Graves and collaborators",
-        "date": "制作年・所蔵個体を個別資料で確認中",
-        "domain": "architecture / civic building",
-        "reason": "昔の建築の要素を取り入れ、大きくして使う方法を、公共建築で見る候補です。",
-        "limitation": "代表例として取り上げたい候補です。どの版か、いつつくられたか、誰の作か、なぜ代表例といえるかを、それぞれの一次資料で確認するまでは確定しません。",
-        "evidence": null,
+        "creator": "マイケル・グレイヴスと協働者（当初設計）",
+        "date": "1982年完成／2020年に改修後の使用を再開",
+        "domain": "建築／市の行政庁舎",
+        "reason": "大きな柱の形や色、飾りを、街の公共建築に取り入れた例です。市の公式資料はポストモダン建築の例と説明しています。",
+        "limitation": "現在の姿には改修が反映されています。設計事務所は協働者にパトリック・バーク、カレン・ニコルズを挙げています。当初の協力設計者は、市の公式資料ではエメリー・ロス＆サンズ設計事務所と記録されています。改修設計はDLRグループ。玄関上の彫刻はレイ・カスキーの別作品です。写真は未掲載です。",
+        "evidence": "https://www.portland.gov/fleet-and-facilities/facilities/portland-building",
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
@@ -5229,16 +5268,17 @@
             "多くの人が使う建物です。",
             "昔からある建築の形を取り入れ、大きくして使う方法に目を向けます。"
           ]
-        }
+        },
+        "title_ja": "ポートランド・ビルディング"
       },
       {
         "title": "Does It Make Sense?, Design Quarterly 133",
-        "creator": "April Greiman",
-        "date": "制作年・所蔵個体を個別資料で確認中",
-        "domain": "graphic design / digital image",
-        "reason": "デジタル処理、人の体のイメージ、いくつもの層が重なる画面の関係を、グラフィックの作品で見る候補です。",
-        "limitation": "代表例として取り上げたい候補です。どの版か、いつつくられたか、誰の作か、なぜ代表例といえるかを、それぞれの一次資料で確認するまでは確定しません。",
-        "evidence": null,
+        "creator": "エイプリル・グレイマン",
+        "date": "1986年",
+        "domain": "雑誌特別号／広げて見る印刷物",
+        "reason": "文字、体のイメージ、コンピューターで処理した画像を重ね、雑誌のページを大きな画面へ変えた例です。デジタル技術だけでポストモダンと決めず、文字と像の重なり方を見ます。",
+        "limitation": "ニューヨーク近代美術館39.2024を参照します。同館の広げた寸法は68.9×193.4cmです。別館の所蔵本や作家サイトの寸法と混ぜません。画像の転載条件は未確認のため未掲載です。",
+        "evidence": "https://www.moma.org/collection/works/172729",
         "work_rights": "未確認",
         "reproduction_rights": "未確認",
         "commercial_use": "未確認・掲載不可",
@@ -5256,15 +5296,16 @@
             "人の体のイメージと、コンピューターによる処理を組み合わせた作品です。",
             "いくつもの層を重ねた画面が、どう見えるかを考えます。"
           ]
-        }
+        },
+        "title_ja": "ダズ・イット・メイク・センス？：デザイン・クォータリー第133号"
       },
       {
         "title": "Super lamp prototype",
         "creator": "Martine Bedin（Memphisのために設計）／Fausto Celati（製作）",
-        "date": "1981・イタリア（V&A M.1-2011）",
+        "date": "1981年（V&A解説）／1977〜1981年頃（同館の所蔵品一覧）／イタリア（V&A M.1-2011）",
         "domain": "照明・プロトタイプ",
         "reason": "V&Aがポストモダニズムの説明に使っている照明です。建築や書棚だけでなく、日常の製品から、メンフィス（Memphis）という集団と大きな動きの関係を考える候補です。",
-        "limitation": "所蔵されているのは試作品です。量産されたものや、後の復刻とは区別します。メンフィス一つの集団だけでポストモダニズム全体を代表させず、別分野の候補も並べます。画像を実際に見て細部を分析する作業は、まだ行っていません。",
+        "limitation": "V&A所蔵の試作品です。同館の解説では1981年、所蔵品一覧では1977〜1981年頃とされ、資料によって年代の表記が異なります。量産品や後年の復刻とは区別します。メンフィス一つの集団だけで、ポストモダニズム全体を代表させるものではありません。",
         "evidence": "https://www.vam.ac.uk/articles/what-is-postmodernism",
         "work_rights": "商用掲載許諾は未確認",
         "reproduction_rights": "商用掲載許諾は未確認",
@@ -5385,7 +5426,18 @@
         "昔の建物の形を取り入れた作品を見るなら、元の形から何が変わっているでしょう。"
       ]
     },
-    "representative_count": 5
+    "representative_count": 5,
+    "artist_ids": [
+      "robert-venturi",
+      "ettore-sottsass",
+      "michael-graves",
+      "martine-bedin",
+      "fausto-celati",
+      "april-greiman"
+    ],
+    "organization_ids": [
+      "memphis-milano"
+    ]
   },
   {
     "name": "Bauhaus",
@@ -22743,6 +22795,15 @@
       "memphis-dm",
       "met-carlton",
       "vitra-memphis-press"
+    ],
+    "artist_ids": [
+      "peter-shire",
+      "masanori-umeda",
+      "ettore-sottsass",
+      "martine-bedin"
+    ],
+    "organization_ids": [
+      "memphis-milano"
     ]
   },
   {
