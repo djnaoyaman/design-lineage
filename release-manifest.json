@@ -1,8 +1,8 @@
 {
-  "release": "public-content-dansaekhwa-20261102-1743",
+  "release": "public-content-art-deco-20261102-1752",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-02T17:43:00+09:00",
+  "frozen_at": "2026-11-02T17:52:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -29,12 +29,12 @@
     {
       "path": "README.md",
       "bytes": 5098,
-      "sha256": "e5cfd930d3027b7f30d3345f211f377b5c3957338629b2af251f3cb4761e9835"
+      "sha256": "cde1ed59672166d7850715454459d0909fc21e0f13784622fcf95ff4239ae618"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 358896,
-      "sha256": "aecd1e0cbb43b59015090a743227fd5563b539e1e735a0f4a50918cb80682885"
+      "bytes": 363812,
+      "sha256": "e012decbe8c52e0f3bfa7a63f84d1cf807d4a7bc8f3581931ab7dea9620a1762"
     },
     {
       "path": "analytics-status.json",
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 54318,
-      "sha256": "52b82fcf789a087944ce231152123b0eb293ec5c75bd3d5d2d9487407494062f"
+      "bytes": 70673,
+      "sha256": "19ad30d2fa117cae4707295d52ab92acdbae2641f2db58a11d08ccd84a04400b"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -102,9 +102,29 @@
       "sha256": "70526ce698b64629278737ebd824ec3f5399e85ec70f6be378f623b373cdc98a"
     },
     {
+      "path": "assets/art-deco-chrysler-shankbone-1000.webp",
+      "bytes": 404834,
+      "sha256": "f6195fa2124321c5732d04f5d753e052633a172a84162508d04cc6654fb14b8c"
+    },
+    {
+      "path": "assets/art-deco-chrysler-shankbone-640.webp",
+      "bytes": 196430,
+      "sha256": "952b29b94bf7a70066e8348fd671ffae7780611a4ed60ac225f1109acd1b3918"
+    },
+    {
+      "path": "assets/art-deco-chrysler-shankbone.jpg",
+      "bytes": 3679548,
+      "sha256": "f4ff7b9e8c908d136062b2903128a7e15a7ddb07e22205da5c570b19863dc0d7"
+    },
+    {
       "path": "assets/art-deco-comparison.svg",
       "bytes": 3298,
       "sha256": "f82231f0dedfd41777b238d81b1a5a9402374d1e9ee3f9e450b12dbde22b8ddb"
+    },
+    {
+      "path": "assets/art-deco-gesmar-mistinguett.jpg",
+      "bytes": 66390,
+      "sha256": "f6b0a9059dee68ac507642121897d8748a608f875c43682172338cb54bb29712"
     },
     {
       "path": "assets/art-nouveau-abbesses-geoffray-1200.webp",
@@ -1293,8 +1313,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 37054,
-      "sha256": "e7c3e442594ecebc33bdc17ecc0aeea6a846befe059123e8252d8e6c88f6cc27"
+      "bytes": 37059,
+      "sha256": "2e00cf9b03eed6f15cb24c70b37670b7c0c50bcb819d6af0ec0bb9c9894484b2"
     },
     {
       "path": "chapter-navigation.css",
@@ -1343,8 +1363,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1794672,
-      "sha256": "70be4283e101327da9f1f275091199da6d90f7f3aabd9ff7cdf40d151b1f41ee"
+      "bytes": 1813415,
+      "sha256": "b1b5a80de6fea2c6286171fb1ccb51033e781857666038ce92474b04cc782c9f"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1358,8 +1378,8 @@
     },
     {
       "path": "entries/art-deco.html",
-      "bytes": 36343,
-      "sha256": "2c08c7f97d2eca229ced78f8cf4f051899e53d0238f73bbd0a59bd47264f9176"
+      "bytes": 57714,
+      "sha256": "4c775de1c45132a99f9d548ff1fa80b3fe2b460c8403490bc21c111684f478eb"
     },
     {
       "path": "entries/art-nouveau.html",
@@ -1819,7 +1839,7 @@
     {
       "path": "index.html",
       "bytes": 23944,
-      "sha256": "50c4f2323931a5b583a6c3d21af8fa56e620ecab281ff599a55639f98a25dc37"
+      "sha256": "7508ea887ae4e2311b31d78b34f13f5a5bb9b3f93b735e1cec9ecefeee99ff3a"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1828,8 +1848,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 25798,
-      "sha256": "aea83bcb2bd89dcdd7563eafc71eaaf2ca275e73d847a0d9ba32b5260d1c0429"
+      "bytes": 25888,
+      "sha256": "6b2eb1c1b053b6c9b6c26c823a232116d1cce5a5f03bb4c441e5c4198097b97a"
     },
     {
       "path": "logo-provenance.json",
@@ -1884,7 +1904,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "523f5e95680a69ca1bea1b87b802aa41d97fd1fc571ff55f72ab8f4683c28145"
+      "sha256": "478ae7b90ea95ff87ec4f165e11463dd473af2273fd1271f3d578cd417fdd592"
     },
     {
       "path": "site.webmanifest",
@@ -1894,7 +1914,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "b5abbe48bf020ae3ff14024d98d135967ec808555056380a6740f9a1d44c1e3c"
+      "sha256": "120fc543d5880ea5c65e1bf7ca01284a50fe160043e4d0754dc6e96db24ab59a"
     },
     {
       "path": "study-images.js",

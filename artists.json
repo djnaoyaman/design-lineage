@@ -1172,6 +1172,350 @@
           "description": "単色画の展覧会と研究で扱われる一人。全制作を同一の材料・技法・思想へまとめません。"
         }
       ]
+    },
+    {
+      "id": "emile-jacques-ruhlmann",
+      "name_ja": "エミール＝ジャック・リュールマン",
+      "name_kana": "エミール＝ジャック・リュールマン",
+      "name_original": "Emile-Jacques Ruhlmann",
+      "birth_year": 1879,
+      "death_year": 1933,
+      "short_bio": "フランスの家具デザイナー。簡潔な外形に、精緻な木の象嵌や高価な素材を組み合わせました。《Fuseaux》では、細く絞った脚と複雑な表面の装飾が対照をつくります。",
+      "representative_works": [
+        {
+          "id": "art-deco-ruhlmann-fuseaux",
+          "title_ja": "《Fuseaux》キャビネット",
+          "title_original": "\"Fuseaux\" Cabinet",
+          "date_label": "1925年頃",
+          "start_year": 1925,
+          "end_year": 1925,
+          "work_type": "家具",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/487425",
+          "accession": "25.231.2",
+          "medium": "マカッサル黒檀、象牙、絹、銀めっきしたブロンズ",
+          "dimensions": "99.4 × 84.5 × 49.2 cm",
+          "note": "メトロポリタン美術館が1925年に作者から直接購入した個体です。用途は男性用化粧台だった可能性がありますが、確定ではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-ruhlmann-fuseaux",
+          "institution": "メトロポリタン美術館",
+          "title": "リュールマン《Fuseaux Cabinet》",
+          "url": "https://www.metmuseum.org/art/collection/search/487425",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-deco",
+          "role": "家具の素材と職人技を示すデザイナー",
+          "description": "この章では、豪華な素材を使う家具の一例として紹介します。アール・デコの全製品が同じ価格帯や製法だったわけではありません。"
+        }
+      ]
+    },
+    {
+      "id": "a-m-cassandre",
+      "name_ja": "A・M・カッサンドル",
+      "name_kana": "エー・エム・カッサンドル",
+      "name_original": "A. M. Cassandre",
+      "birth_year": 1901,
+      "death_year": 1968,
+      "short_bio": "フランスのグラフィックデザイナー。新聞や鉄道、旅行の広告ポスターを手がけました。《ノール・エクスプレス》は、交通を宣伝する印刷物として制作された作品です。",
+      "representative_works": [
+        {
+          "id": "art-deco-cassandre-nord-express",
+          "title_ja": "ノール・エクスプレス",
+          "title_original": "Nord Express",
+          "date_label": "1927年",
+          "start_year": 1927,
+          "end_year": 1927,
+          "work_type": "広告ポスター・リトグラフ",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/105963",
+          "accession": "65.1943.22",
+          "dimensions": "104.1 × 74.9 cm",
+          "note": "MoMAの現行作品番号による個体。制作年は1927年で、所蔵番号に含まれる1943年とは別です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-cassandre-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "A. M. Cassandre",
+          "url": "https://www.moma.org/artists/1015-a-m-cassandre",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-cassandre-nord",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Nord Express, 1927",
+          "url": "https://www.moma.org/collection/works/105963",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-deco",
+          "role": "広告ポスターのデザイナー",
+          "description": "この章では、都市の交通と商業広告を結ぶ仕事として取り上げます。印刷されたポスターの所蔵個体を区別して紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "william-van-alen",
+      "name_ja": "ウィリアム・ヴァン・アレン",
+      "name_kana": "ウィリアム・ヴァン・アレン",
+      "name_original": "William Van Alen",
+      "birth_year": 1883,
+      "death_year": 1954,
+      "short_bio": "ニューヨークのブルックリンに生まれた建築家。パリ留学を経てニューヨークで活動し、クライスラー・ビルを設計しました。高層建築の構造と装飾を結びつけた仕事で知られます。",
+      "representative_works": [
+        {
+          "id": "art-deco-chrysler-building",
+          "title_ja": "クライスラー・ビル",
+          "title_original": "Chrysler Building",
+          "date_label": "1928〜1930年建設",
+          "start_year": 1928,
+          "end_year": 1930,
+          "work_type": "建築",
+          "institution": "ニューヨーク市（指定報告書：NYC LPC）",
+          "source_url": "https://s-media.nyc.gov/agencies/lpc/lp/0992.pdf",
+          "location": "米国ニューヨーク",
+          "note": "建築設計はWilliam Van Alen。建設期間と公開写真の撮影年は別です。地上階内部の指定報告書LP-0996も、外観のLP-0992とは別記録です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "vanalen-biography",
+          "institution": "ヴァン・アレン・インスティテュート",
+          "title": "William Van Alen: The Man Behind the Name",
+          "url": "https://past.vanalen.org/ephemera/william-van-alen/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nyclpc-chrysler-exterior",
+          "institution": "ニューヨーク市歴史建造物保存委員会",
+          "title": "Chrysler Building: designation report LP-0992",
+          "url": "https://s-media.nyc.gov/agencies/lpc/lp/0992.pdf",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-deco",
+          "role": "高層ビルを設計した建築家",
+          "description": "建築の設計者として紹介します。後年に建物を撮影した写真家のクレジットとは区別します。"
+        }
+      ]
+    },
+    {
+      "id": "rene-lalique",
+      "name_ja": "ルネ・ラリック",
+      "name_kana": "ルネ・ラリック",
+      "name_original": "René Lalique",
+      "birth_year": 1860,
+      "death_year": 1945,
+      "short_bio": "フランスの宝飾・ガラスのデザイナー。アール・ヌーヴォーの宝飾で活動した後、工場で生産するガラス製品へ仕事を広げました。透明な部分と曇らせた表面の対比も、その仕事の特徴です。",
+      "representative_works": [
+        {
+          "id": "art-deco-lalique-spirit-wind",
+          "title_ja": "風の精――自動車の装飾品",
+          "title_original": "Spirit of the Wind, car mascot",
+          "date_label": "1925年頃",
+          "start_year": 1925,
+          "end_year": 1925,
+          "work_type": "鋳造ガラス・自動車の装飾品",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "source_url": "https://www.vam.ac.uk/articles/art-deco-ren%C3%A9-jules-lalique",
+          "accession": "CIRC.199-1972",
+          "manufacturer": "Lalique glassworks",
+          "note": "V&Aが掲載するこの個体の年代と題名によります。別題の製品や後年の再制作と同一視しません。"
+        },
+        {
+          "id": "art-deco-lalique-wine-glass",
+          "title_ja": "ワイングラス",
+          "title_original": "Wine Glass",
+          "date_label": "1925年",
+          "start_year": 1925,
+          "end_year": 1925,
+          "work_type": "ガラス器",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/2012.136",
+          "accession": "2012.136",
+          "dimensions": "高さ18.3 cm、直径7.8 cm"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cma-lalique-glass-2012.136",
+          "institution": "クリーヴランド美術館",
+          "title": "Wine Glass, 1925",
+          "url": "https://www.clevelandart.org/art/2012.136",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vam-lalique-art-deco",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "Art Deco: René Jules Lalique",
+          "url": "https://www.vam.ac.uk/articles/art-deco-ren%C3%A9-jules-lalique",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-deco",
+          "role": "宝飾と工業的なガラス生産をつなぐデザイナー",
+          "description": "アール・ヌーヴォーの宝飾からガラスへと広がった仕事のうち、この章では1920年代の製品を紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "george-barbier",
+      "name_ja": "ジョルジュ・バルビエ",
+      "name_kana": "ジョルジュ・バルビエ",
+      "name_original": "George Barbier",
+      "birth_year": 1882,
+      "death_year": 1932,
+      "short_bio": "フランスの図案家。服飾年鑑や挿絵本のために図版を制作しました。《エステ荘》は、1922年のデザインを翌年の服飾年鑑に収めた一葉です。",
+      "representative_works": [
+        {
+          "id": "barbier-villa-1923",
+          "title_ja": "エステ荘――服飾年鑑の一葉",
+          "title_original": "La Villa d’Este, from Falbalas et Fanfreluches 1923",
+          "date_label": "デザイン1922年、刊行1923年",
+          "start_year": 1922,
+          "end_year": 1923,
+          "work_type": "服飾年鑑の図版・ポショワールとエッチング",
+          "institution": "ハンブルク美術工芸博物館",
+          "source_url": "https://www.mkg-hamburg.de/sammlung/objekt/la-villa-deste-dem-mode-almanach-falbalas-et-fanfreluches-1923/EG2017.4.104/mkg",
+          "accession": "EG2017.4.104",
+          "dimensions": "24.7 × 16.1 cm",
+          "publisher": "Meynial éditeur, Paris",
+          "note": "MK&Gはデザイン年と刊行年を分け、技法をポショワールとエッチングと記録しています。年鑑全体ではなく所蔵する一葉です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "met-barbier-lifedates",
+          "institution": "メトロポリタン美術館",
+          "title": "Nijinski: George Barbier の生没年・書籍制作の記録",
+          "url": "https://www.metmuseum.org/art/collection/search/354077",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "barbier-villa-1923-source",
+          "institution": "ハンブルク美術工芸博物館",
+          "title": "La Villa d’Este, Falbalas et Fanfreluches 1923",
+          "url": "https://www.mkg-hamburg.de/sammlung/objekt/la-villa-deste-dem-mode-almanach-falbalas-et-fanfreluches-1923/EG2017.4.104/mkg",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-deco",
+          "role": "服飾出版と装飾的な図版を結ぶ図案家",
+          "description": "年鑑のデザインを担当した人物として紹介します。出版者メイニアルとは役割が異なります。"
+        }
+      ]
+    },
+    {
+      "id": "clarice-cliff",
+      "name_ja": "クラリス・クリフ",
+      "name_kana": "クラリス・クリフ",
+      "name_original": "Clarice Cliff",
+      "birth_year": 1899,
+      "death_year": 1972,
+      "short_bio": "英国の陶器デザイナー。工場でつくる日常の器に、鮮やかな色や幾何学的な形を取り入れました。《クロッカス》の絵付けは、彼女のデザインをもとに女性の職人たちが手作業で行いました。",
+      "representative_works": [
+        {
+          "id": "art-deco-cliff-crocus",
+          "title_ja": "クリーム入れ《クロッカス》",
+          "title_original": "Crocus, cream jug",
+          "date_label": "1928年",
+          "start_year": 1928,
+          "end_year": 1928,
+          "work_type": "陶器・手描きの絵付け",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "source_url": "https://www.vam.ac.uk/articles/art-deco-clarice-cliff",
+          "accession": "CIRC.674-1975",
+          "manufacturer": "Newport Pottery Co. Ltd",
+          "note": "V&A掲載の1928年のクリーム入れ。別館所蔵のカップや後年の復刻品とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "aberdeen-cliff-lifedates",
+          "institution": "アバディーン美術館・博物館群",
+          "title": "Conical Vase Secrets pattern: Clarice Cliff の生没年・経歴",
+          "url": "https://emuseum.aberdeencity.gov.uk/objects/36315/conical-vase-secrets-pattern",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vam-deco-cliff",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "Art Deco: Clarice Cliff",
+          "url": "https://www.vam.ac.uk/articles/art-deco-clarice-cliff",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-deco",
+          "role": "家庭で使う陶器のデザイナー",
+          "description": "工場で生産する日常の器にも、アール・デコの色や形が広がりました。クリフのデザインを、製造と絵付けを担う人々が製品に仕上げました。"
+        }
+      ]
+    },
+    {
+      "id": "charles-gesmar",
+      "name_ja": "シャルル・ジェスマール",
+      "name_kana": "シャルル・ジェスマール",
+      "name_original": "Charles Gesmar",
+      "birth_year": 1900,
+      "death_year": 1928,
+      "short_bio": "舞台を宣伝するポスターを手がけたデザイナー。《ミスタンゲット》では、歌手・ダンサーを主題とするポスターをデザインしました。印刷はパリのH・シャショワン印刷所が担当しています。",
+      "representative_works": [
+        {
+          "id": "art-deco-gesmar-mistinguett",
+          "title_ja": "ミスタンゲットのポスター",
+          "title_original": "Mistinguett",
+          "date_label": "1925年",
+          "start_year": 1925,
+          "end_year": 1925,
+          "work_type": "舞台ポスター・リトグラフ",
+          "institution": "ハンブルク美術工芸博物館",
+          "source_url": "https://www.mkg-hamburg.de/sammlung/objekt/mistinguett/EP2015.697/mkg-e00134627",
+          "accession": "EP2015.697",
+          "dimensions": "120 × 77.5 cm",
+          "printer": "Imprimerie H. Chachoin, Paris",
+          "note": "MK&Gはデザイン・印刷とも1925年と記録しています。別の《Mistinguett – Moulin Rouge》とは異なる所蔵品です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mkg-gesmar-mistinguett",
+          "institution": "ハンブルク美術工芸博物館",
+          "title": "Mistinguett, EP2015.697",
+          "url": "https://www.mkg-hamburg.de/sammlung/objekt/mistinguett/EP2015.697/mkg-e00134627",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "art-deco",
+          "role": "舞台広告のデザイナー",
+          "description": "MK&Gがアール・デコに分類する1925年のポスターを紹介します。描かれたミスタンゲットは、このポスターのデザイナーではありません。"
+        }
+      ]
     }
   ]
 }
