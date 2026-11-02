@@ -61,8 +61,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 6774,
-      "sha256": "6ddcd8129c2d59d326e8e5a1c769aff8a5847967f2fbee8c6574fff3d21a5f28"
+      "bytes": 6861,
+      "sha256": "b8de36500034c67664175ab6db9a4bf955a01dab619471e52e0a8a4ccf723668"
     },
     {
       "path": "art-nouveau.css",
@@ -1531,8 +1531,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 23953,
-      "sha256": "1ca1594debc0f4b8f3ca63c54d57467e16d761ca60385d4468dccce4e29cbabb"
+      "bytes": 23935,
+      "sha256": "77c2f5c7d01ee9267e9b4eb59e52674a458211c656ed23d05589f44ead0dcd66"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1541,8 +1541,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 24965,
-      "sha256": "6c6f8c8c27a4c556a605bbcf8fe62e5c6e5da631d3720d6f2b1c4edb1a552ae2"
+      "bytes": 25029,
+      "sha256": "4bce7b263605dc1852f85bc4c6bfd202d10fd4a1b5ec28f9c2a0ca289b280005"
     },
     {
       "path": "logo-provenance.json",
@@ -1592,7 +1592,7 @@
     {
       "path": "site-update.json",
       "bytes": 6145,
-      "sha256": "fbd9b7c9d56f428a7e814fdfebf24279166018d97e59e8c3efeacb8cb370cb78"
+      "sha256": "c395da24c5fb912bc002eb85ed37ca56b103dc188141e9dbdd1d026868e0b841"
     },
     {
       "path": "site.webmanifest",
@@ -1602,7 +1602,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12606,
-      "sha256": "4a3e206de3a64becd7e1f68d584f69e0ab49126740a136f7f2f9dc2e1bd2b182"
+      "sha256": "a1830d8314f465365703acb71a31227c17b6fc5b5442ac160c3cfcfc866b91bd"
     },
     {
       "path": "study-images.js",
@@ -1621,8 +1621,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 11670,
-      "sha256": "d8f34889a4e57da69c63ecc102b1672143bff1381995edc6ed0872f70a309e04"
+      "bytes": 11832,
+      "sha256": "b555521ed41117d4a309472d2b66c274ce1a3dd107a6089d9fc3923058bee45c"
     },
     {
       "path": "timeline.css",
@@ -1647,7 +1647,7 @@
   ],
   "generated_connection_explainers": 1,
   "held_legacy_generated_studies": 6,
-  "frozen_at": "2026-11-02T09:03:00+09:00",
+  "frozen_at": "2026-11-02T09:09:00+09:00",
   "selected_logo": 10,
   "rewritten_articles": 34,
   "rewritten_representative_cards": 329,
