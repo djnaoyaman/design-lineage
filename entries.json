@@ -7404,7 +7404,15 @@
         "title": "グラフィックにおける和様（わよう）"
       }
     ],
-    "representative_count": 9
+    "representative_count": 9,
+    "artist_ids": [
+      "honami-koetsu",
+      "tawaraya-sotatsu",
+      "ogata-korin",
+      "ogata-kenzan",
+      "sakai-hoitsu",
+      "suzuki-kiitsu"
+    ]
   },
   {
     "name": "New Typography",
