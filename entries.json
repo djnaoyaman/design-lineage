@@ -21233,16 +21233,16 @@
     "type": "20世紀半ばの建築・生活用品をまとめる広い呼称",
     "period": "主に1940年代–1960年代の作品を紹介。共通の創立年・終了年は設けない",
     "region": "国際的な広がり。ここでは米国の家具・住宅に焦点",
-    "summary": "20世紀のまん中ごろ、家や家具の形が変わりました。木の板を曲げたり、プラスチックを型でつくったりして、新しい暮らし方を試したのです。ミッドセンチュリー・モダンは、そうした時代のデザインを広く見る名前です。",
-    "context": "第二次世界大戦後、米国では住まいや生活用品への需要が大きくなりました。カリフォルニアでは、屋外とつながる暮らしや、新しい材料を使う家具が注目されます。ただし、すべてが安い大量生産品だったわけではありません。イームズのラウンジチェアのように、ゆったり休むための高級な家具もあります。",
+    "summary": "20世紀のまん中ごろ、住まい、家具、布、日用品の形が大きく変わりました。新しい材料や工場の技術を使いながら、暮らしをどう心地よくするかを考えたデザインです。木の家具だけの名前ではありません。",
+    "context": "第二次世界大戦の前後、住まいや生活用品の需要が変わり、材料や製造技術も発達しました。特に戦後のアメリカでは、新しい暮らしのイメージが広がります。ただし、同じ年代でも、国や地域、使う人、製品の価格によって目指すものは違います。",
     "recognition": {
       "color": "木や革の色と、塗装された面の色を比べます。鮮やかな色があることだけで、この時代の作品とは決まりません。",
       "type": "この呼び名に共通する書体はありません。家具・建築・広告は、それぞれ別の資料で確かめます。",
       "form": "曲げた木の板、体に沿う殻のような座面、一本の支えにまとまる脚。形がどうつくられ、どこに力がかかるかを見ましょう。",
       "composition": "イームズ邸では、四角く区切った外壁と、周りに残された木を一緒に見ます。家の中だけでなく、庭との関係も設計の一部です。"
     },
-    "comparison": "北欧モダンと人や技術の交流があります。また、バウハウスの時代より後に展開した作品が中心ですが、単純にバウハウスの形をまねた流行ではありません。地域と用途ごとに違う答えが生まれました。",
-    "modern": "昔の形がいまも人気でも、現在つくられた復刻品（ふっこくひん。昔の設計をもとにつくり直した品）と、当時つくられた品は別です。設計年と製造年を分けて読んでみましょう。",
+    "comparison": "北欧モダンと重なる作者や考え方がありますが、同じ意味ではありません。ミッドセンチュリー・モダンは時代を広く捉える言葉です。バウハウスなどの戦前の試みともつながりますが、その形をまねただけではなく、戦後の生活に応じた工夫を見ます。",
+    "modern": "今もつくられている製品は、設計された年、目の前の品が製造された年、撮影された年を分けて読みましょう。昔の設計をもとにつくった復刻品（ふっこくひん）と、当時の製品は同じ個体ではありません。",
     "reading_intro": {
       "heading": "新しい材料で、暮らしを考える。",
       "lead": [
@@ -21268,7 +21268,7 @@
         "explanation": "薄い木の板を重ねて、接着剤ではり合わせた材料。"
       }
     ],
-    "representativeness_limit": "米国の住宅・家具3例に絞った入口で、同時代の世界のデザイン全体を示す選定ではありません。",
+    "representativeness_limit": "住宅・家具に、医療用具、英国の布、映画ポスター、講堂を加えた7例です。同時代の世界のデザイン全体を網羅するものではありません。掲載画像は住宅と講堂の外観2点で、製品や印刷物の画像は引き続き確認しています。",
     "sources": [
       {
         "id": "lacma-california",
@@ -21289,6 +21289,66 @@
         "id": "cma-pedestal",
         "url": "https://www.clevelandart.org/art/2001.174",
         "institution": "クリーヴランド美術館"
+      },
+      {
+        "id": "met-eames-splint",
+        "url": "https://www.metmuseum.org/art/collection/search/483088",
+        "institution": "メトロポリタン美術館",
+        "title": "チャールズ＆レイ・イームズ《脚用添え木》1942年"
+      },
+      {
+        "id": "vam-plywood-history",
+        "url": "https://www.vam.ac.uk/articles/a-history-of-plywood-in-ten-objects",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title": "作品でたどる合板の歴史"
+      },
+      {
+        "id": "vam-lucienne-day",
+        "url": "https://www.vam.ac.uk/articles/lucienne-day-an-introduction/",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title": "ルシエンヌ・デイと《カリックス》"
+      },
+      {
+        "id": "moma-good-design-term",
+        "url": "https://www.moma.org/collection/terms/good-design",
+        "institution": "ニューヨーク近代美術館",
+        "title": "グッド・デザインの考え方"
+      },
+      {
+        "id": "moma-good-design-1950",
+        "url": "https://www.moma.org/calendar/exhibitions/1714",
+        "institution": "ニューヨーク近代美術館",
+        "title": "1950〜1951年のグッド・デザイン展"
+      },
+      {
+        "id": "mid-century-eames-splint-source",
+        "url": "https://www.metmuseum.org/art/collection/search/483088",
+        "institution": "メトロポリタン美術館",
+        "title": "脚を支える添え木：所蔵作品解説"
+      },
+      {
+        "id": "mid-century-day-calyx-source",
+        "url": "https://www.vam.ac.uk/articles/lucienne-day-an-introduction/",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "title": "室内用の布《カリックス》：所蔵作品解説"
+      },
+      {
+        "id": "mid-century-bass-golden-arm-source",
+        "url": "https://www.moma.org/collection/works/5665",
+        "institution": "ニューヨーク近代美術館",
+        "title": "映画《黄金の腕》のポスター：所蔵作品解説"
+      },
+      {
+        "id": "mit-kresge",
+        "institution": "MITリスト・ビジュアルアーツ・センター",
+        "title": "クレスゲ講堂、1955年",
+        "url": "https://listart.mit.edu/art-artists/kresge-auditorium-1955"
+      },
+      {
+        "id": "mit-kresge-transcript",
+        "institution": "MITリスト・ビジュアルアーツ・センター",
+        "title": "クレスゲ講堂の音声ガイド解説",
+        "url": "https://listart.mit.edu/sites/default/files/audio/transcripts/eero_saarinen_kresge_audio_transcript.pdf"
       }
     ],
     "representatives": [
@@ -21342,6 +21402,100 @@
           ]
         },
         "title_ja": "ペデスタル・チェア"
+      },
+      {
+        "id": "mid-century-eames-splint",
+        "title": "脚を支える添え木",
+        "title_original": "Leg splint",
+        "creator": "チャールズ＆レイ・イームズ",
+        "date": "1942年",
+        "reason": "薄い木を重ねて曲げる技術を、負傷した人の脚を支える道具に応用した例。戦時中の材料や製造技術の研究が、その後の家具につながりました。",
+        "look_for": "家具ではない道具です。体に沿う曲面と、軽く運びやすくする工夫を見てみましょう。",
+        "domain": "医療用具・工業デザイン",
+        "evidence": "https://www.metmuseum.org/art/collection/search/483088",
+        "source_url": "https://www.metmuseum.org/art/collection/search/483088",
+        "institution": "メトロポリタン美術館",
+        "reading_intro": {
+          "heading": "脚を支える添え木",
+          "lead": [
+            "薄い木を重ねて曲げる技術を、負傷した人の脚を支える道具に応用した例。戦時中の材料や製造技術の研究が、その後の家具につながりました。"
+          ]
+        },
+        "identity": {
+          "object_number": "1984.246",
+          "medium": "成形合板（せいけいごうはん）"
+        },
+        "limitation": "このページでは作品画像を掲載していません。所蔵館の出典で作品を確かめられます。"
+      },
+      {
+        "id": "mid-century-day-calyx",
+        "title": "室内用の布《カリックス》",
+        "title_original": "Calyx",
+        "creator": "ルシエンヌ・デイ",
+        "date": "1951年",
+        "reason": "戦後の新しい室内づくりを、家具ではなく布から支えた例。1951年の英国博覧会の室内展示に向けたデザインで、植物を思わせる形を大胆に組み合わせています。",
+        "look_for": "同じ柄にも異なる配色があります。家具の形だけでなく、窓や壁の大きな布が部屋の印象をどう変えるか考えてみましょう。",
+        "domain": "テキスタイル（布のデザイン）",
+        "evidence": "https://www.vam.ac.uk/articles/lucienne-day-an-introduction/",
+        "source_url": "https://www.vam.ac.uk/articles/lucienne-day-an-introduction/",
+        "institution": "ヴィクトリア＆アルバート博物館",
+        "reading_intro": {
+          "heading": "室内用の布《カリックス》",
+          "lead": [
+            "戦後の新しい室内づくりを、家具ではなく布から支えた例。1951年の英国博覧会の室内展示に向けたデザインで、植物を思わせる形を大胆に組み合わせています。"
+          ]
+        },
+        "identity": {
+          "object_number": "T.161-1995",
+          "medium": "室内用の布"
+        },
+        "limitation": "このページでは作品画像を掲載していません。所蔵館の出典で作品を確かめられます。"
+      },
+      {
+        "id": "mid-century-bass-golden-arm",
+        "title": "映画《黄金の腕》のポスター",
+        "title_original": "Poster for the film The Man with the Golden Arm directed by Otto Preminger",
+        "creator": "ソール・バス",
+        "date": "1955年",
+        "reason": "同じ時代のモダンな表現を、映画の広告から見る例。建築や家具だけでなく、観客へ作品を伝える印刷物にも目を向けます。",
+        "look_for": "映画の映像そのものではなく、観客の目を引くための一枚のポスターとして見てみましょう。",
+        "domain": "グラフィックデザイン",
+        "evidence": "https://www.moma.org/collection/works/5665",
+        "source_url": "https://www.moma.org/collection/works/5665",
+        "institution": "ニューヨーク近代美術館",
+        "reading_intro": {
+          "heading": "映画《黄金の腕》のポスター",
+          "lead": [
+            "同じ時代のモダンな表現を、映画の広告から見る例。建築や家具だけでなく、観客へ作品を伝える印刷物にも目を向けます。"
+          ]
+        },
+        "identity": {
+          "object_number": "202.1956",
+          "medium": "リトグラフ（平らな版を使う印刷）"
+        },
+        "limitation": "このページでは作品画像を掲載していません。所蔵館の出典で作品を確かめられます。"
+      },
+      {
+        "title": "クレスゲ講堂",
+        "title_original": "Kresge Auditorium",
+        "creator": "エーロ・サーリネン",
+        "date": "1955年",
+        "evidence": "https://listart.mit.edu/art-artists/kresge-auditorium-1955",
+        "source_url": "https://listart.mit.edu/art-artists/kresge-auditorium-1955",
+        "reason": "MITの公式解説がミッドセンチュリー・モダン建築の例として位置づけています。住宅や家具だけでなく、文化活動のための公共空間へ広がった設計を比べられます。",
+        "reading_intro": {
+          "heading": "曲がる屋根で、集まる場所を包む。",
+          "lead": "三つの点で支える大きな屋根が、柱の少ない広い室内を生み出します。外からは、曲線とガラス面の格子を比べられます。"
+        },
+        "limitation": "掲載写真は2005年8月の外観。屋根の仕上げには改修があり、完成当時の写真ではありません。",
+        "work_rights": "建築の外観を紹介する写真。建築作品の扱いと、写真の利用条件を分けて確認しています。",
+        "reproduction_rights": "撮影者Daderotの写真をCC BY-SA 3.0で利用。",
+        "domain": "建築",
+        "work_id": "mid-century-kresge-auditorium",
+        "identity": {
+          "medium": "鉄筋コンクリートの薄い屋根を使った講堂",
+          "photograph_date": "2005年8月"
+        }
       }
     ],
     "adopted_images": [
@@ -21377,17 +21531,73 @@
         "sha256": "5570848d99c752a8168dea0ab9c8586509d15a7af24276e8e4b7dbc71257ac2d",
         "image_processing": "縦横の比率を保って縮小しJPEGで保存。切り抜き・色の変更・描き足しはしていません。",
         "status": "adopted_local_image"
+      },
+      {
+        "id": "mid-century-kresge-daderot",
+        "work_id": "mid-century-kresge-auditorium",
+        "author": "エーロ・サーリネン（建築）／Daderot（写真）",
+        "title": "クレスゲ講堂の外観",
+        "title_original": "Kresge Auditorium",
+        "year": "建築1955年／写真2005年8月",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kresge_Auditorium,_MIT_(view_with_Green_Building).JPG",
+        "institution": "マサチューセッツ工科大学（MIT）",
+        "local_file": "assets/mid-century-kresge-daderot.jpg",
+        "width": 2560,
+        "height": 1683,
+        "sha256": "1717ce260575310213ccdeda28aa8656daa69b5abe362791f39bfcf4f169527e",
+        "local_bytes": 893724,
+        "alt": "大きく湾曲した緑色の屋根の下に、縦横の枠で区切られたガラス面が広がる講堂。",
+        "credit": "エーロ・サーリネン設計《クレスゲ講堂》1955年。写真：Daderot、2005年8月。Wikimedia Commons、CC BY-SA 3.0。",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "underlying_work_rights": "建築の外観を紹介する写真。建築作品の扱いと、写真の利用条件を分けて確認しています。",
+        "reproduction_rights": "撮影者Daderotの写真をCC BY-SA 3.0で利用。",
+        "image_processing": "全体を保持して縮小し、WebP版も作成。切り抜きや色の変更はしていません。縮小版にもCC BY-SA 3.0を適用。",
+        "visual_notes": [
+          {
+            "title": "曲がる屋根と、まっすぐな窓枠。",
+            "text": "大きな屋根の曲線と、ガラス面を区切る細い線を比べてみましょう。"
+          },
+          {
+            "title": "住宅だけでなく、集まる場所へ。",
+            "text": "この建物は、音楽や舞台、大学の行事に使う講堂です。人が集まる広い空間を、薄い殻のような屋根で包んでいます。"
+          }
+        ],
+        "presentation": {
+          "anchor": "mid-century-kresge-daderot",
+          "scope_note": "2005年8月の外観写真です。完成した1955年の姿をそのまま記録した写真ではありません。"
+        },
+        "display_derivatives": {
+          "variants": [
+            {
+              "local_file": "assets/mid-century-kresge-daderot-640.webp",
+              "width": 640,
+              "height": 421
+            },
+            {
+              "local_file": "assets/mid-century-kresge-daderot-1000.webp",
+              "width": 1000,
+              "height": 657
+            },
+            {
+              "local_file": "assets/mid-century-kresge-daderot-1600.webp",
+              "width": 1600,
+              "height": 1052
+            }
+          ]
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kresge_Auditorium%2C_MIT_%28view_with_Green_Building%29.JPG"
       }
     ],
-    "image_count_acquired": 1,
+    "image_count_acquired": 2,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 3,
+    "representative_count": 7,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像1点／画像の収録は継続中",
+    "status": "本文公開・実作品画像2点収録 / 背景・年表・用語を拡充（画像収集は継続中）",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-02T01:34:19+00:00",
     "period_bands": [
       "1900-1949",
       "1950-1999"
@@ -21398,7 +21608,217 @@
       "eames-history",
       "moma-lounge",
       "cma-pedestal"
-    ]
+    ],
+    "deep_dive": [
+      {
+        "id": "not-just-chairs",
+        "title": "いすだけでなく、暮らし全体を見る",
+        "paragraphs": [
+          "この時代のデザインには、家や家具だけでなく、食器、服、布、広告、映画も含まれます。ロサンゼルス郡立美術館は、カリフォルニアのデザインを、こうした多くの分野を横断して紹介しています。",
+          "曲がった木のいすを一つ覚えるだけでなく、それが置かれる家、隣の布や照明、商品を知らせる印刷物も見てみましょう。ものどうしの関係から、どんな生活を目指したのかが見えてきます。"
+        ],
+        "source_ids": [
+          "lacma-california"
+        ]
+      },
+      {
+        "id": "plywood",
+        "title": "板を曲げる技術は、いすより先にも",
+        "paragraphs": [
+          "チャールズ＆レイ・イームズは、合板（ごうはん。薄い木を重ねた板）を複雑な形に曲げる実験を続けました。1942年には、負傷した人の脚を支える軽い添え木をつくっています。",
+          "戦時中の製造経験は、その後の家具にもつながりました。曲げた形は飾りだけではなく、体を支える面をつくるためでもあります。材料を使える形へ変える技術が、座り方や製造方法を変えたのです。"
+        ],
+        "source_ids": [
+          "met-eames-splint",
+          "vam-plywood-history"
+        ]
+      },
+      {
+        "id": "house",
+        "title": "工業製品の家が、自然と出会う",
+        "paragraphs": [
+          "1945年に始まったケース・スタディ・ハウス計画は、新しい材料や技術で、現代の住まいを考える試みでした。1949年に完成したイームズ邸は、住まいと仕事場を組み合わせています。",
+          "二人は、最初の案を変えて草地や木々を残しました。市販の部材を使うことと、土地の特徴を大切にすることを両立させようとしたのです。工業的な四角い枠を見た後は、窓の外にも目を向けてみましょう。"
+        ],
+        "source_ids": [
+          "eames-history"
+        ]
+      },
+      {
+        "id": "different-materials",
+        "title": "ひと続きに見えても、材料は一つではない",
+        "paragraphs": [
+          "サーリネンの《ペデスタル・チェア》では、座面の下の支えを一本にまとめています。座る部分にはガラス繊維を使った樹脂、脚には金属を使います。見た目の一体感と、実際の材料の組み合わせは別です。",
+          "イームズの《ラウンジチェア＆オットマン》は、曲げた合板と柔らかい張り地を組み合わせた休息用の家具です。同じ時代でも、形の軽やかさを目指すいすと、ゆったり休むいすでは、体への答え方が変わります。"
+        ],
+        "source_ids": [
+          "cma-pedestal",
+          "moma-lounge"
+        ]
+      },
+      {
+        "id": "textiles",
+        "title": "布の模様も、新しい暮らしをつくる",
+        "paragraphs": [
+          "イギリスのルシエンヌ・デイが1951年につくった《カリックス》は、植物を思わせる形を、細い線と組み合わせた室内用の布です。花をそのまま写すのではなく、成長するような動きを図案へ変えています。",
+          "家具の設計者だけでなく、布や色を考えた人も暮らしを変えました。室内を一人の代表的な男性デザイナーだけの仕事として見ず、それぞれの作者や製造者を確かめたいですね。"
+        ],
+        "source_ids": [
+          "vam-lucienne-day"
+        ]
+      },
+      {
+        "id": "good-design",
+        "title": "「よいデザイン」は、誰に届く？",
+        "paragraphs": [
+          "ニューヨーク近代美術館の「グッド・デザイン」の展覧会は、比較的手の届きやすい日用品も取り上げました。使いやすさと美しさを、美術館の外の生活につなぐ取り組みです。",
+          "けれども、この時代の製品がすべて安かったわけではありません。高級な家具も、広く販売する日用品もあります。「だれでも使える」という理想と、実際に買えた人の範囲は、分けて考える必要があります。"
+        ],
+        "source_ids": [
+          "moma-good-design-term",
+          "moma-good-design-1950",
+          "moma-lounge"
+        ]
+      }
+    ],
+    "regional_variants": [
+      {
+        "place": "アメリカ・カリフォルニア",
+        "name": "屋内と屋外をつなぐ",
+        "description": "温暖な土地の暮らし、住まいや消費の拡大を背景に、家と庭をつなぐ生活が考えられました。",
+        "source_ids": [
+          "lacma-california",
+          "eames-history"
+        ]
+      },
+      {
+        "place": "アメリカ・美術館と産業",
+        "name": "日用品を紹介する仕組み",
+        "description": "展覧会やメーカーを通して、家具から食器までのデザインが生活者へ届けられました。",
+        "source_ids": [
+          "moma-good-design-term"
+        ]
+      },
+      {
+        "place": "イギリス",
+        "name": "戦後の室内と布",
+        "description": "ルシエンヌ・デイらは、戦後の暮らしに新しい布の模様を提案しました。",
+        "source_ids": [
+          "vam-lucienne-day"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1942年",
+        "event": "チャールズ＆レイ・イームズが成形合板の脚用添え木を制作。",
+        "source_ids": [
+          "met-eames-splint"
+        ]
+      },
+      {
+        "date": "1945年",
+        "event": "雑誌『アーツ＆アーキテクチュア』がケース・スタディ・ハウス計画を開始。",
+        "source_ids": [
+          "eames-history"
+        ]
+      },
+      {
+        "date": "1949年",
+        "event": "イームズ邸が完成し、二人の住まいと仕事場になる。",
+        "source_ids": [
+          "eames-history"
+        ]
+      },
+      {
+        "date": "1950年",
+        "event": "ニューヨーク近代美術館で「グッド・デザイン」展。翌年1月まで開催。",
+        "source_ids": [
+          "moma-good-design-1950"
+        ]
+      },
+      {
+        "date": "1951年",
+        "event": "ルシエンヌ・デイの布《カリックス》が英国祭で紹介される。",
+        "source_ids": [
+          "vam-lucienne-day"
+        ]
+      },
+      {
+        "date": "1956年",
+        "event": "イームズの《ラウンジチェア＆オットマン》。",
+        "source_ids": [
+          "moma-lounge"
+        ]
+      },
+      {
+        "date": "1960年頃",
+        "event": "クリーヴランド美術館が所蔵する《ペデスタル・チェア》の年代。設計全体の初年とは区別する。",
+        "source_ids": [
+          "cma-pedestal"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "合板",
+        "reading": "ごうはん",
+        "explanation": "薄い木の板を、木目の向きなどを変えて重ね、接着した材料。"
+      },
+      {
+        "term": "成形",
+        "reading": "せいけい",
+        "explanation": "材料を型などで、目的に合う形にすること。"
+      },
+      {
+        "term": "規格",
+        "reading": "きかく",
+        "explanation": "部品などの大きさや性能をそろえるための決まり。"
+      },
+      {
+        "term": "オットマン",
+        "reading": "",
+        "explanation": "いすと組み合わせて使う、足を載せる台。"
+      },
+      {
+        "term": "テキスタイル",
+        "reading": "",
+        "explanation": "織物や染めた布など。ここでは室内で使う布や、その図案を指します。"
+      },
+      {
+        "term": "復刻品",
+        "reading": "ふっこくひん",
+        "explanation": "以前の設計などをもとに、後の時代につくり直した品。古い設計でも、その品自体が古いとは限りません。"
+      }
+    ],
+    "related_articles": [
+      {
+        "slug": "scandinavian-modern",
+        "title": "北欧モダン"
+      },
+      {
+        "slug": "international-style",
+        "title": "インターナショナル・スタイル"
+      },
+      {
+        "slug": "new-bauhaus-chicago",
+        "title": "ニュー・バウハウス（シカゴ）"
+      }
+    ],
+    "title_segments": [
+      "ミッド",
+      "センチュリー・",
+      "モダン"
+    ],
+    "compact_title": true,
+    "artist_ids": [
+      "charles-eames",
+      "ray-eames",
+      "eero-saarinen",
+      "lucienne-day",
+      "saul-bass"
+    ],
+    "title_emergency_wrap": true
   },
   {
     "name": "Radical Design",

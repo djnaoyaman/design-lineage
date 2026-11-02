@@ -1516,6 +1516,395 @@
           "description": "MK&Gがアール・デコに分類する1925年のポスターを紹介します。描かれたミスタンゲットは、このポスターのデザイナーではありません。"
         }
       ]
+    },
+    {
+      "id": "charles-eames",
+      "name_ja": "チャールズ・イームズ",
+      "name_kana": "チャールズ・イームズ",
+      "name_original": "Charles Eames",
+      "birth_year": 1907,
+      "death_year": 1978,
+      "short_bio": "米国のデザイナー。建築を学び、レイ・イームズとの共同制作で家具、住まい、展示、映像へと活動を広げました。合板を成形する実験を、身体を支える用具や家具の設計へつなげました。",
+      "representative_works": [
+        {
+          "id": "mid-century-eames-house",
+          "title_ja": "イームズ邸／ケース・スタディ・ハウス第8号",
+          "title_original": "Eames House / Case Study House No. 8",
+          "date_label": "1949年竣工",
+          "start_year": 1949,
+          "end_year": 1949,
+          "work_type": "住居・スタジオ",
+          "institution": "チャールズ＆レイ・イームズ財団",
+          "source_url": "https://eamesfoundation.org/eames-house/history/",
+          "co_creators": [
+            "Charles Eames",
+            "Ray Eames"
+          ],
+          "note": "1949年に完成し、12月24日に二人が入居。1945年の未建設案Bridge House（Eero Saarinenも参加）と、完成した配置を区別します。"
+        },
+        {
+          "id": "mid-century-eames-lounge",
+          "title_ja": "ラウンジチェア＆オットマン",
+          "title_original": "Lounge Chair and Ottoman",
+          "date_label": "1956年",
+          "start_year": 1956,
+          "end_year": 1956,
+          "work_type": "家具",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/3325",
+          "accession": "336.1960.a-b",
+          "co_creators": [
+            "Charles Eames",
+            "Ray Eames"
+          ],
+          "manufacturer": "Herman Miller Furniture Co., Zeeland, Michigan",
+          "note": "MoMAは二人を作者として記録。製造者はHerman Millerで、製品の設計者とは別です。"
+        },
+        {
+          "id": "mid-century-eames-splint",
+          "title_ja": "脚を支える添え木",
+          "title_original": "Leg splint",
+          "date_label": "1942年",
+          "start_year": 1942,
+          "end_year": 1942,
+          "work_type": "医療用具・成形合板",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/483088",
+          "accession": "1984.246",
+          "co_creators": [
+            "Charles Eames",
+            "Ray Eames"
+          ],
+          "note": "米海軍向けの合板成形技術の仕事。1942年の作品であり、戦後に制作された家具そのものではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-charles-eames-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Charles Eames",
+          "url": "https://www.moma.org/artists/1671-charles-eames",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "eames-office-biography",
+          "institution": "イームズ・オフィス",
+          "title": "Charles & Ray Biography",
+          "url": "https://www.eamesoffice.com/about/biography/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "loc-eames-biography",
+          "institution": "米国議会図書館",
+          "title": "The Work of Charles and Ray Eames: A Legacy of Invention — Biography",
+          "url": "https://www.loc.gov/exhibits/eames/bio.html",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "eames-history",
+          "institution": "チャールズ＆レイ・イームズ財団",
+          "title": "History & Legacy: Eames House",
+          "url": "https://eamesfoundation.org/eames-house/history/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-lounge",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Lounge Chair and Ottoman, 1956",
+          "url": "https://www.moma.org/collection/works/3325",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-eames-splint",
+          "institution": "メトロポリタン美術館",
+          "title": "Leg splint, 1942",
+          "url": "https://www.metmuseum.org/art/collection/search/483088",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mid-century-modern",
+          "role": "家具と住まいを共同で設計したデザイナー",
+          "description": "本章で紹介する三作品はレイとの共同制作です。住まい、家具、成形合板の用具へと、二人の仕事が広がっています。"
+        }
+      ]
+    },
+    {
+      "id": "ray-eames",
+      "name_ja": "レイ・イームズ",
+      "name_kana": "レイ・イームズ",
+      "name_original": "Ray Eames",
+      "birth_year": 1912,
+      "death_year": 1988,
+      "short_bio": "米国の画家・デザイナー。抽象絵画を学び、チャールズ・イームズとの共同制作で家具、建築、展示、映像に携わりました。雑誌の表紙や布のデザインも手がけ、身近な生活のものへ表現を広げました。",
+      "representative_works": [
+        {
+          "id": "mid-century-eames-house",
+          "title_ja": "イームズ邸／ケース・スタディ・ハウス第8号",
+          "title_original": "Eames House / Case Study House No. 8",
+          "date_label": "1949年竣工",
+          "start_year": 1949,
+          "end_year": 1949,
+          "work_type": "住居・スタジオ",
+          "institution": "チャールズ＆レイ・イームズ財団",
+          "source_url": "https://eamesfoundation.org/eames-house/history/",
+          "co_creators": [
+            "Charles Eames",
+            "Ray Eames"
+          ],
+          "note": "1949年に完成し、12月24日に二人が入居。1945年の未建設案Bridge House（Eero Saarinenも参加）と、完成した配置を区別します。"
+        },
+        {
+          "id": "mid-century-eames-lounge",
+          "title_ja": "ラウンジチェア＆オットマン",
+          "title_original": "Lounge Chair and Ottoman",
+          "date_label": "1956年",
+          "start_year": 1956,
+          "end_year": 1956,
+          "work_type": "家具",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/3325",
+          "accession": "336.1960.a-b",
+          "co_creators": [
+            "Charles Eames",
+            "Ray Eames"
+          ],
+          "manufacturer": "Herman Miller Furniture Co., Zeeland, Michigan",
+          "note": "MoMAは二人を作者として記録。製造者はHerman Millerで、製品の設計者とは別です。"
+        },
+        {
+          "id": "mid-century-eames-splint",
+          "title_ja": "脚を支える添え木",
+          "title_original": "Leg splint",
+          "date_label": "1942年",
+          "start_year": 1942,
+          "end_year": 1942,
+          "work_type": "医療用具・成形合板",
+          "institution": "メトロポリタン美術館",
+          "source_url": "https://www.metmuseum.org/art/collection/search/483088",
+          "accession": "1984.246",
+          "co_creators": [
+            "Charles Eames",
+            "Ray Eames"
+          ],
+          "note": "米海軍向けの合板成形技術の仕事。1942年の作品であり、戦後に制作された家具そのものではありません。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-ray-eames-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Ray Eames",
+          "url": "https://www.moma.org/artists/1672-ray-eames",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "eames-office-biography",
+          "institution": "イームズ・オフィス",
+          "title": "Charles & Ray Biography",
+          "url": "https://www.eamesoffice.com/about/biography/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "loc-eames-biography",
+          "institution": "米国議会図書館",
+          "title": "The Work of Charles and Ray Eames: A Legacy of Invention — Biography",
+          "url": "https://www.loc.gov/exhibits/eames/bio.html",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "eames-history",
+          "institution": "チャールズ＆レイ・イームズ財団",
+          "title": "History & Legacy: Eames House",
+          "url": "https://eamesfoundation.org/eames-house/history/",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-lounge",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Lounge Chair and Ottoman, 1956",
+          "url": "https://www.moma.org/collection/works/3325",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "met-eames-splint",
+          "institution": "メトロポリタン美術館",
+          "title": "Leg splint, 1942",
+          "url": "https://www.metmuseum.org/art/collection/search/483088",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mid-century-modern",
+          "role": "家具・建築・視覚表現を横断した共同制作者",
+          "description": "本章で紹介する三作品はチャールズとの共同制作です。所蔵館や建物の管理団体の記録でも、レイは共同制作者として紹介されています。"
+        }
+      ]
+    },
+    {
+      "id": "eero-saarinen",
+      "name_ja": "エーロ・サーリネン",
+      "name_kana": "エーロ・サーリネン",
+      "name_original": "Eero Saarinen",
+      "birth_year": 1910,
+      "death_year": 1961,
+      "short_bio": "フィンランドに生まれ、米国で活動した建築家・家具デザイナー。クランブルックで工業デザインに携わり、家具と建築の両方で曲線や連続する形を探りました。ノールと協働した家具でも知られます。",
+      "representative_works": [
+        {
+          "id": "mid-century-saarinen-pedestal",
+          "title_ja": "ペデスタル・チェア",
+          "title_original": "Pedestal Chair",
+          "date_label": "1960年頃（所蔵品の年代）",
+          "start_year": 1960,
+          "end_year": 1960,
+          "work_type": "家具",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/2001.174",
+          "accession": "2001.174",
+          "manufacturer": "Knoll Associates",
+          "dimensions": "81.5 × 49.5 × 56 cm",
+          "medium": "ガラス繊維入り成形樹脂、金属の脚部、人工皮革で覆ったクッション",
+          "note": "クリーヴランド美術館が所蔵するこの個体は1960年頃の制作です。シリーズの設計年・発表年と、この個体の制作年は異なります。"
+        },
+        {
+          "id": "mid-century-kresge-auditorium",
+          "title_ja": "クレスゲ講堂",
+          "title_original": "Kresge Auditorium",
+          "date_label": "1955年",
+          "start_year": 1955,
+          "end_year": 1955,
+          "work_type": "建築・講堂",
+          "institution": "マサチューセッツ工科大学リスト・ビジュアル・アーツ・センター（MIT）",
+          "source_url": "https://listart.mit.edu/art-artists/kresge-auditorium-1955",
+          "location": "米国マサチューセッツ州ケンブリッジ、MIT Building W16",
+          "note": "建築設計はEero Saarinen。1955年は建築の年代で、公開写真の撮影年とは別です。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mit-kresge",
+          "institution": "マサチューセッツ工科大学リスト・ビジュアル・アーツ・センター（MIT）",
+          "title": "Kresge Auditorium, 1955",
+          "url": "https://listart.mit.edu/art-artists/kresge-auditorium-1955",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "cma-pedestal",
+          "institution": "クリーヴランド美術館",
+          "title": "Pedestal Chair, c. 1960",
+          "url": "https://www.clevelandart.org/art/2001.174",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mid-century-modern",
+          "role": "家具と大規模な空間を設計した人物",
+          "description": "椅子と講堂を通じ、身体の近くの形と建築の構造を比較します。父である建築家エリエル・サーリネンとは別の人物です。"
+        }
+      ]
+    },
+    {
+      "id": "lucienne-day",
+      "name_ja": "ルシエンヌ・デイ",
+      "name_kana": "ルシエンヌ・デイ",
+      "name_original": "Lucienne Day",
+      "birth_year": 1917,
+      "death_year": 2010,
+      "short_bio": "英国のテキスタイル・デザイナー。戦後の室内用の布に、植物をもとにした抽象的な模様を取り入れました。1951年の英国祭に向けた《カリックス》は、ヒールズとの長い協働につながる仕事です。",
+      "representative_works": [
+        {
+          "id": "mid-century-day-calyx",
+          "title_ja": "室内用の布《カリックス》",
+          "title_original": "Calyx",
+          "date_label": "1951年",
+          "start_year": 1951,
+          "end_year": 1951,
+          "work_type": "室内用テキスタイル",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "source_url": "https://www.vam.ac.uk/articles/lucienne-day-an-introduction/",
+          "accession": "T.161-1995",
+          "note": "《カリックス》には複数の配色があります。ここではV&A所蔵のT.161-1995を参照し、同館の別の配色例CIRC.190-1954とは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "day-foundation-lifedates",
+          "institution": "ロビン＆ルシエンヌ・デイ財団",
+          "title": "Foundation: History",
+          "url": "https://www.robinandluciennedayfoundation.org/foundation",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "vam-lucienne-day",
+          "institution": "ヴィクトリア＆アルバート博物館",
+          "title": "Lucienne Day – an introduction",
+          "url": "https://www.vam.ac.uk/articles/lucienne-day-an-introduction/",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mid-century-modern",
+          "role": "住まいの布をデザインした人物",
+          "description": "家具デザイナーのロビン・デイと活動を並行させながら、独立した仕事を続けました。《カリックス》のデザイナーはルシエンヌです。"
+        }
+      ]
+    },
+    {
+      "id": "saul-bass",
+      "name_ja": "ソール・バス",
+      "name_kana": "ソール・バス",
+      "name_original": "Saul Bass",
+      "birth_year": 1920,
+      "death_year": 1996,
+      "short_bio": "米国のグラフィックデザイナー。映画のポスターやレコードのジャケットなどを制作しました。《黄金の腕》では、映画を観客に知らせるポスターを担当しています。",
+      "representative_works": [
+        {
+          "id": "mid-century-bass-golden-arm",
+          "title_ja": "映画《黄金の腕》のポスター",
+          "title_original": "Poster for the film The Man with the Golden Arm directed by Otto Preminger",
+          "date_label": "1955年",
+          "start_year": 1955,
+          "end_year": 1955,
+          "work_type": "映画ポスター・リトグラフ",
+          "institution": "ニューヨーク近代美術館",
+          "source_url": "https://www.moma.org/collection/works/5665",
+          "accession": "202.1956",
+          "dimensions": "102.4 × 68.5 cm",
+          "note": "ポスターの作者はSaul Bass。映画監督Otto Premingerや、別媒体のタイトル映像のクレジットとは区別します。"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-saul-bass-bio",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Saul Bass",
+          "url": "https://www.moma.org/artists/372-saul-bass",
+          "verified_at": "2026-11-02"
+        },
+        {
+          "id": "mid-century-bass-golden-arm-source",
+          "institution": "ニューヨーク近代美術館",
+          "title": "Poster for the film The Man with the Golden Arm directed by Otto Preminger",
+          "url": "https://www.moma.org/collection/works/5665",
+          "verified_at": "2026-11-02"
+        }
+      ],
+      "verified_at": "2026-11-02",
+      "chapter_relationships": [
+        {
+          "chapter_id": "mid-century-modern",
+          "role": "映画の宣伝を担ったグラフィックデザイナー",
+          "description": "家具や建築だけでなく、同時代の視覚伝達を示す例として紹介します。この章で扱うのは映画のポスターで、タイトル映像そのものではありません。"
+        }
+      ]
     }
   ]
 }

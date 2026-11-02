@@ -5931,6 +5931,62 @@
         "anchor": "art-deco-chrysler-shankbone",
         "scope_note": "2007年8月の外観写真です。地上階の内部は写っていません。元画像の画角をそのまま掲載しています。"
       }
+    },
+    {
+      "id": "mid-century-kresge-daderot",
+      "work_id": "mid-century-kresge-auditorium",
+      "author": "エーロ・サーリネン（建築）／Daderot（写真）",
+      "title": "クレスゲ講堂の外観",
+      "title_original": "Kresge Auditorium",
+      "year": "建築1955年／写真2005年8月",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kresge_Auditorium,_MIT_(view_with_Green_Building).JPG",
+      "institution": "マサチューセッツ工科大学（MIT）",
+      "local_file": "assets/mid-century-kresge-daderot.jpg",
+      "width": 2560,
+      "height": 1683,
+      "sha256": "1717ce260575310213ccdeda28aa8656daa69b5abe362791f39bfcf4f169527e",
+      "local_bytes": 893724,
+      "alt": "大きく湾曲した緑色の屋根の下に、縦横の枠で区切られたガラス面が広がる講堂。",
+      "credit": "エーロ・サーリネン設計《クレスゲ講堂》1955年。写真：Daderot、2005年8月。Wikimedia Commons、CC BY-SA 3.0。",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "underlying_work_rights": "建築の外観を紹介する写真。建築作品の扱いと、写真の利用条件を分けて確認しています。",
+      "reproduction_rights": "撮影者Daderotの写真をCC BY-SA 3.0で利用。",
+      "image_processing": "全体を保持して縮小し、WebP版も作成。切り抜きや色の変更はしていません。縮小版にもCC BY-SA 3.0を適用。",
+      "visual_notes": [
+        {
+          "title": "曲がる屋根と、まっすぐな窓枠。",
+          "text": "大きな屋根の曲線と、ガラス面を区切る細い線を比べてみましょう。"
+        },
+        {
+          "title": "住宅だけでなく、集まる場所へ。",
+          "text": "この建物は、音楽や舞台、大学の行事に使う講堂です。人が集まる広い空間を、薄い殻のような屋根で包んでいます。"
+        }
+      ],
+      "presentation": {
+        "anchor": "mid-century-kresge-daderot",
+        "scope_note": "2005年8月の外観写真です。完成した1955年の姿をそのまま記録した写真ではありません。"
+      },
+      "display_derivatives": {
+        "variants": [
+          {
+            "local_file": "assets/mid-century-kresge-daderot-640.webp",
+            "width": 640,
+            "height": 421
+          },
+          {
+            "local_file": "assets/mid-century-kresge-daderot-1000.webp",
+            "width": 1000,
+            "height": 657
+          },
+          {
+            "local_file": "assets/mid-century-kresge-daderot-1600.webp",
+            "width": 1600,
+            "height": 1052
+          }
+        ]
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kresge_Auditorium%2C_MIT_%28view_with_Green_Building%29.JPG"
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

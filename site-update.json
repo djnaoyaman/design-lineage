@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02T17:52:00+09:00",
+  "updated_at": "2026-11-02T18:09:00+09:00",
   "timezone": "Asia/Tokyo",
   "meaning": "Page-specific substantive HTML/local presentation assets and explicitly fetched JSON hash; date markers excluded; homepage shows aggregate latest; original/source dates unchanged",
   "page_count": 94,
   "pages": {
-    "index.html": "2026-11-02T17:52:00+09:00",
+    "index.html": "2026-11-02T18:09:00+09:00",
     "timeline.html": "2026-11-02T16:43:00+09:00",
     "compare.html": "2026-11-02T09:03:00+09:00",
     "compiler.html": "2026-11-02T07:14:00+09:00",
@@ -56,7 +56,7 @@
     "entries/scandinavian-modern.html": "2026-11-02T16:38:00+09:00",
     "entries/brutalism.html": "2026-11-02T16:38:00+09:00",
     "entries/critical-regionalism.html": "2026-11-02T16:38:00+09:00",
-    "entries/mid-century-modern.html": "2026-11-02T16:38:00+09:00",
+    "entries/mid-century-modern.html": "2026-11-02T18:09:00+09:00",
     "entries/radical-design.html": "2026-11-02T16:38:00+09:00",
     "entries/memphis.html": "2026-11-02T16:38:00+09:00",
     "entries/new-wave-typography.html": "2026-11-02T16:38:00+09:00",
