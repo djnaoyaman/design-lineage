@@ -44,7 +44,7 @@
     {
       "path": "app.js",
       "bytes": 8065,
-      "sha256": "5742eb9f93b6d0eddf3a83dbf63186b1446f46b0543800d91f5ece528cbd9e8c"
+      "sha256": "e7cb6b6c836fa49bbaafc6cda3367a3e113952248d50dc4215e71b8584be9a43"
     },
     {
       "path": "art-nouveau.css",
@@ -2008,8 +2008,8 @@
     },
     {
       "path": "tests/chronology-browser.cjs",
-      "bytes": 4113,
-      "sha256": "118a990905e03f04c823d6c3d22a2265a697ee31306b7c73b7c82bae1f1c3126"
+      "bytes": 4258,
+      "sha256": "11c610a935099ce18418f113b36e5c3f1341761e890ac6f87a04b42068572991"
     },
     {
       "path": "tests/chronology-unit.cjs",
