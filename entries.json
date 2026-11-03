@@ -14848,7 +14848,15 @@
         "形のまわりに何もかかれていない場所は、どのくらいありますか。"
       ]
     },
-    "representative_count": 4
+    "representative_count": 4,
+    "artist_ids": [
+      "kazimir-malevich",
+      "jean-pougny",
+      "el-lissitzky"
+    ],
+    "organization_ids": [
+      "unovis"
+    ]
   },
   {
     "name": "創作版画",
@@ -15841,7 +15849,14 @@
         "作品を見るなら、どの線や形から、動いている感じがするでしょう。",
         "文字を見るなら、大きさや置き方から、音まで聞こえてきそうですか。"
       ]
-    }
+    },
+    "artist_ids": [
+      "umberto-boccioni",
+      "filippo-tommaso-marinetti",
+      "cesare-cavanna",
+      "fortunato-depero",
+      "benedetta-cappa-marinetti"
+    ]
   },
   {
     "name": "Dada",
@@ -16570,7 +16585,14 @@
         "作品を見るなら、もともと何に使われていた物や文字があるでしょう。",
         "それを別の物と並べると、意味や見え方はどう変わりますか。"
       ]
-    }
+    },
+    "artist_ids": [
+      "marcel-duchamp",
+      "kurt-schwitters",
+      "sophie-taeuber-arp",
+      "hannah-hoch",
+      "theo-van-doesburg"
+    ]
   },
   {
     "name": "メタボリズム",

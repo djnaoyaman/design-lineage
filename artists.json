@@ -5639,6 +5639,32 @@
               "role": "印刷（所蔵館の記録）"
             }
           ]
+        },
+        {
+          "id": "malevich-suprematism34-1920",
+          "title_ja": "シュプレマティズム：34の図版",
+          "title_original": "Suprematizm. 34 risunka (Suprematism: 34 Drawings)",
+          "date_label": "1920年",
+          "work_type": "書籍・リトグラフ",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/11073",
+          "creator_role": "印刷（推定）",
+          "note": "著者はマレーヴィチ、出版はウノヴィス。印刷はリシツキーと推定され、確定ではありません。書名の「34」と異なり、MoMAは表紙を含む図版を35点と記録しています。",
+          "accession": "82.2001",
+          "credits": [
+            {
+              "artist_id": "kazimir-malevich",
+              "role": "著者"
+            },
+            {
+              "artist_id": "unovis",
+              "role": "出版"
+            },
+            {
+              "artist_id": "el-lissitzky",
+              "role": "印刷（推定）"
+            }
+          ]
         }
       ],
       "sources": [
@@ -5662,6 +5688,13 @@
           "title": "声のために（2006.92.1）",
           "url": "https://risdmuseum.org/art-design/collection/dlia-golosa-voice-2006921",
           "verified_at": "2026-11-02"
+        },
+        {
+          "id": "moma-suprematism34-822001",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Suprematizm. 34 risunka（82.2001）",
+          "url": "https://www.moma.org/collection/works/11073",
+          "verified_at": "2026-11-03"
         }
       ],
       "verified_at": "2026-11-02",
@@ -5670,6 +5703,11 @@
           "chapter_id": "russian-constructivism",
           "role": "出版物と展示を設計した美術家",
           "description": "詩の作者、出版した組織、印刷所との分担を通じて、共同で本をつくる仕事を見ます。"
+        },
+        {
+          "chapter_id": "suprematism",
+          "role": "書籍の印刷担当と推定される美術家",
+          "description": "この本の印刷はMoMAがリシツキーによるものと推定しています。著者や出版社とは異なる役割であり、担当を断定しません。"
         }
       ]
     },
@@ -5946,6 +5984,20 @@
           "title": "室内の配色案（RP-T-2013-55）",
           "url": "https://www.rijksmuseum.nl/en/collection/object/Colour-solution--dcdb1ced64619e06776a8073bfcbea5f",
           "verified_at": "2026-11-02"
+        },
+        {
+          "id": "nga-dada-soiree-20101241-profile",
+          "institution": "米国ナショナル・ギャラリー・オブ・アート",
+          "title": "小さなダダの夕べ：1922年のポスター・プログラム",
+          "url": "https://www.nga.gov/artworks/154076-kleine-dada-soiree-small-dada-evening",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-dada-soiree-1781945-profile",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "小さなダダの夕べ：共同の作者名と1922年の記録",
+          "url": "https://www.moma.org/collection/works/5533",
+          "verified_at": "2026-11-03"
         }
       ],
       "verified_at": "2026-11-02",
@@ -5954,6 +6006,11 @@
           "chapter_id": "de-stijl",
           "role": "絵画と建築の関係を探った画家・著述家",
           "description": "平面の構成、室内の配色、建築家との共同制作をつなげて見ます。"
+        },
+        {
+          "chapter_id": "dada",
+          "role": "ダダの催しと印刷物に関わった画家・著述家",
+          "description": "《小さなダダの夕べ》のポスター・プログラムでは、シュヴィッタースとともに作者として記録されています。デ・ステイルでの活動とダダへの関わりは併記しますが、両者を同じ様式とは扱いません。"
         }
       ]
     },
@@ -6981,6 +7038,672 @@
         }
       ],
       "name_reading": "やなぎ むねよし"
+    },
+    {
+      "id": "marcel-duchamp",
+      "entity_type": "person",
+      "name_ja": "マルセル・デュシャン",
+      "name_kana": "マルセル・デュシャン",
+      "name_original": "Marcel Duchamp",
+      "birth_year": 1887,
+      "death_year": 1968,
+      "short_bio": "フランス生まれの美術家。店で売られている物を選び、組み合わせたり、作品として示したりしました。手で上手に作ることだけでなく、何を選び、どう見るかによっても芸術を考えられるのではないか、と問いかけました。",
+      "representative_works": [
+        {
+          "id": "duchamp-bicycle-wheel-moma-595-1967",
+          "title_ja": "自転車の車輪",
+          "title_original": "Bicycle Wheel",
+          "date_label": "原作：1913年／この個体：1951年、ニューヨークで作られた第3ヴァージョン",
+          "work_type": "既製品を組み合わせた立体",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/81631",
+          "creator_role": "作品の構想・組み合わせ",
+          "note": "金属の車輪を、色を塗った木の腰掛けに取り付けた作品です。1913年のパリの原作は残っておらず、ここで紹介するMoMAの個体は1951年の再制作です。原作そのものが保存されたとは扱いません。",
+          "accession": "595.1967.a-b"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-duchamp-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "マルセル・デュシャン：作家情報",
+          "url": "https://www.moma.org/artists/1634-marcel-duchamp",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-duchamp-wheel-5951967",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "自転車の車輪：1951年の第3ヴァージョン",
+          "url": "https://www.moma.org/collection/works/81631",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "chapter_relationships": [
+        {
+          "chapter_id": "dada",
+          "role": "物を選ぶことから芸術を問い直した美術家",
+          "description": "身近な既製品（きせいひん。すでに製品として作られた物）を作品として示す方法に注目します。1913年の原作と1951年の再制作を分け、ダダの成立年や同じ時期の活動だとはひとまとめにしません。"
+        }
+      ]
+    },
+    {
+      "id": "kurt-schwitters",
+      "entity_type": "person",
+      "name_ja": "クルト・シュヴィッタース",
+      "name_kana": "クルト・シュヴィッタース",
+      "name_original": "Kurt Schwitters",
+      "birth_year": 1887,
+      "death_year": 1948,
+      "short_bio": "ドイツの美術家・詩人。印刷された紙の切れ端などを使う表現を「メルツ」と呼び、貼り合わせた絵だけでなく、詩や朗読、雑誌、空間を使う作品へ広げました。残された物を組み直すことで、違う見え方や意味を生み出そうとしました。",
+      "representative_works": [
+        {
+          "id": "schwitters-merz3-cma-1995-4",
+          "title_ja": "メルツ第3号の版画集：第1図",
+          "title_original": "Merz 3 Portfolio: Plate 1",
+          "date_label": "1923年",
+          "work_type": "リトグラフ（石版画）",
+          "institution": "クリーヴランド美術館",
+          "source_url": "https://www.clevelandart.org/art/1995.4",
+          "creator_role": "版画の制作",
+          "note": "広告や包み紙などの印刷された紙を組み合わせ、その姿を版に移して刷った作品です。この所蔵品は石版画で、紙片そのものを貼り付けたコラージュの現物ではありません。",
+          "accession": "1995.4"
+        },
+        {
+          "id": "dada-soiree-nga-2010-124-1",
+          "title_ja": "小さなダダの夕べ",
+          "title_original": "Kleine Dada Soirée (Small Dada Evening)",
+          "date_label": "1922年（所蔵館の記録）",
+          "work_type": "催しのポスター・プログラム",
+          "institution": "米国ナショナル・ギャラリー・オブ・アート",
+          "source_url": "https://www.nga.gov/artworks/154076-kleine-dada-soiree-small-dada-evening",
+          "creator_role": "共同の作者として館が記録",
+          "note": "ファン・ドゥースブルフとシュヴィッタースの名前が、館の作者欄に記録されています。赤と黒で刷った告知の印刷物です。紙面に見える1923の数字と、館が記録する制作年1922は区別します。MoMAの所蔵品とは別の紙です。",
+          "accession": "2010.124.1",
+          "medium": "赤と黒のリトグラフ（石版画）",
+          "credits": [
+            {
+              "artist_id": "theo-van-doesburg",
+              "role": "館が記録する作者"
+            },
+            {
+              "artist_id": "kurt-schwitters",
+              "role": "館が記録する作者"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "thyssen-schwitters-life",
+          "institution": "ティッセン＝ボルネミッサ国立美術館",
+          "title": "クルト・シュヴィッタース：作家情報",
+          "url": "https://www.museothyssen.org/en/collection/artists/schwitters-kurt",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "cma-merz-1995-4-profile",
+          "institution": "クリーヴランド美術館",
+          "title": "メルツ第3号の版画集：第1図",
+          "url": "https://www.clevelandart.org/art/1995.4",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "nga-dada-soiree-20101241-profile",
+          "institution": "米国ナショナル・ギャラリー・オブ・アート",
+          "title": "小さなダダの夕べ：1922年のポスター・プログラム",
+          "url": "https://www.nga.gov/artworks/154076-kleine-dada-soiree-small-dada-evening",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-dada-soiree-1781945-profile",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "小さなダダの夕べ：共同の作者名と1922年の記録",
+          "url": "https://www.moma.org/collection/works/5533",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "chapter_relationships": [
+        {
+          "chapter_id": "dada",
+          "role": "メルツと呼ぶ表現を、紙・言葉・上演へ広げた美術家",
+          "description": "所蔵館はメルツを、シュヴィッタースによるダダの展開として説明しています。ファン・ドゥースブルフと関わった催しの告知も紹介し、一人だけで行った活動とはしません。"
+        }
+      ]
+    },
+    {
+      "id": "sophie-taeuber-arp",
+      "entity_type": "person",
+      "name_ja": "ゾフィー・トイバー＝アルプ",
+      "name_kana": "ゾフィー・トイバー＝アルプ",
+      "name_original": "Sophie Taeuber-Arp",
+      "birth_year": 1889,
+      "death_year": 1943,
+      "short_bio": "スイス生まれの美術家・デザイナー。布やビーズを使う仕事と、絵画、木の彫刻、室内のデザインを行き来しました。チューリヒでは布のデザインを教えながらダダの活動に加わり、舞台で踊ることにも取り組みました。",
+      "representative_works": [
+        {
+          "id": "taeuber-head-moma-253-2003",
+          "title_ja": "頭部",
+          "title_original": "Head",
+          "date_label": "1920年",
+          "work_type": "木・針金・ビーズを使った彫刻",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/88254",
+          "creator_role": "彫刻の制作",
+          "note": "木の部品に色を塗り、針金に通したガラスのビーズを組み合わせています。MoMA 253.2003、高さ23.5cmの作品です。自画像かもしれないという館の説明は解釈であり、確定した肖像とはしません。",
+          "accession": "253.2003"
+        },
+        {
+          "id": "taeuber-tete-dada-pompidou-am2003-332",
+          "title_ja": "ダダの頭",
+          "title_original": "Tête dada",
+          "date_label": "1920年",
+          "work_type": "色を塗った木の彫刻",
+          "institution": "ポンピドゥー・センター",
+          "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/crgdRbL",
+          "creator_role": "彫刻の制作",
+          "note": "額にDADAと制作年を記した、ポンピドゥー・センター所蔵AM 2003-332です。高さ29.43cmで、木に色と金属顔料を使っています。MoMAのビーズ付き《頭部》や、同じ館の1918年の別の頭部作品とは区別します。",
+          "accession": "AM 2003-332"
+        }
+      ],
+      "sources": [
+        {
+          "id": "nmwa-taeuber-arp-life",
+          "institution": "国立女性美術館（NMWA）",
+          "title": "ゾフィー・トイバー＝アルプ：作家情報",
+          "url": "https://nmwa.org/art/artists/sophie-taeuber-arp/",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-taeuber-head-2532003-profile",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "頭部：木とビーズの彫刻",
+          "url": "https://www.moma.org/collection/works/88254",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "pompidou-taeuber-tete-am2003332-profile",
+          "institution": "ポンピドゥー・センター",
+          "title": "ダダの頭：AM 2003-332",
+          "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/crgdRbL",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "chapter_relationships": [
+        {
+          "chapter_id": "dada",
+          "role": "工芸・彫刻・踊りをつなぐ美術家",
+          "description": "織物や木工など、暮らしの道具にも使われる技術を美術の問いへ結び付けました。ダダを写真の切り貼りだけでなく、立体や身体の動きからも考える手がかりになります。"
+        }
+      ]
+    },
+    {
+      "id": "hannah-hoch",
+      "entity_type": "person",
+      "name_ja": "ハンナ・ヘーヒ",
+      "name_kana": "ハンナ・ヘーヒ",
+      "name_original": "Hannah Höch",
+      "birth_year": 1889,
+      "death_year": 1978,
+      "short_bio": "ドイツの美術家。出版社でデザインの仕事をしながら、ベルリンのダダに関わりました。写真や印刷物を組み合わせるフォトモンタージュを使い、政治や社会、女性に求められる役割を問い直しました。",
+      "representative_works": [
+        {
+          "id": "hoch-indian-dancer-moma-569-1964",
+          "title_ja": "「民族学博物館から」：インドの踊り子",
+          "title_original": "Indian Dancer: From an Ethnographic Museum (Indische Tänzerin: Aus einem ethnographischen Museum)",
+          "date_label": "1930年",
+          "work_type": "印刷紙と金属箔のコラージュ",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/37360",
+          "creator_role": "切り貼りによる作品制作",
+          "note": "印刷された紙と金属箔（きんぞくはく。薄くのばした金属）を切り貼りした、MoMA 569.1964です。歴史的な館題を示しており、題名から写真の人物の出自や文化を決めません。1930年の継続的な制作で、ダダ成立時の作品とは分けて見ます。",
+          "accession": "569.1964"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ngs-hoch-life",
+          "institution": "スコットランド国立美術館",
+          "title": "ハンナ・ヘーヒ：作家情報",
+          "url": "https://www.nationalgalleries.org/art-and-artists/artists/hannah-hoch",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-hoch-dancer-5691964-profile",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "民族学博物館から：インドの踊り子",
+          "url": "https://www.moma.org/collection/works/37360",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "chapter_relationships": [
+        {
+          "chapter_id": "dada",
+          "role": "写真の切り貼りを通して社会を見る美術家",
+          "description": "写真を組み合わせ直すと、人の姿や社会の見え方も変わります。ベルリンのダダとの関わりと、1930年まで続く制作を、地域や年代を分けて紹介します。"
+        }
+      ]
+    },
+    {
+      "id": "kazimir-malevich",
+      "entity_type": "person",
+      "name_ja": "カジミール・マレーヴィチ",
+      "name_kana": "カジミール・マレーヴィチ",
+      "name_original": "Kazimir Malevich",
+      "birth_year": 1879,
+      "death_year": 1935,
+      "short_bio": "四角や円などの形と色を使い、目に見える物を描くことから離れた絵画を探った美術家。1915年にシュプレマティズムの作品を発表し、教育や出版を通じても考えを伝えました。",
+      "representative_works": [
+        {
+          "id": "malevich-black-square-1915",
+          "title_ja": "黒い正方形",
+          "title_original": "Black Suprematist Square",
+          "date_label": "1915年",
+          "work_type": "絵画",
+          "institution": "国立トレチャコフ美術館",
+          "source_url": "https://www.tretyakovgallery.ru/events/o/seminar-chernyy-suprematicheskiy-kvadrat/",
+          "creator_role": "制作",
+          "note": "国立トレチャコフ美術館が1915年作として紹介する作品です。1929年に制作された作者自身による別の版とは区別します。この確認資料では登録番号は未確認です。"
+        },
+        {
+          "id": "malevich-white-on-white-1918",
+          "title_ja": "白の上の白",
+          "title_original": "Suprematist Composition: White on White",
+          "date_label": "1918年",
+          "work_type": "絵画・油彩／カンヴァス",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/80385",
+          "creator_role": "制作",
+          "note": "MoMA所蔵の79.4×79.4cmの作品。白い四角と白い地の違いで構成されています。",
+          "accession": "817.1935"
+        },
+        {
+          "id": "malevich-suprematism34-1920",
+          "title_ja": "シュプレマティズム：34の図版",
+          "title_original": "Suprematizm. 34 risunka (Suprematism: 34 Drawings)",
+          "date_label": "1920年",
+          "work_type": "書籍・リトグラフ",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/11073",
+          "creator_role": "著者",
+          "note": "著者はマレーヴィチ、出版はウノヴィス。印刷はリシツキーと推定され、確定ではありません。書名の「34」と異なり、MoMAは表紙を含む図版を35点と記録しています。",
+          "accession": "82.2001",
+          "credits": [
+            {
+              "artist_id": "kazimir-malevich",
+              "role": "著者"
+            },
+            {
+              "artist_id": "unovis",
+              "role": "出版"
+            },
+            {
+              "artist_id": "el-lissitzky",
+              "role": "印刷（推定）"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-malevich-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Kazimir Malevich：人物情報",
+          "url": "https://www.moma.org/artists/3710-kazimir-malevich",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "tretyakov-black-square-1915",
+          "institution": "国立トレチャコフ美術館",
+          "title": "《黒い正方形》1915年：セミナー資料",
+          "url": "https://www.tretyakovgallery.ru/events/o/seminar-chernyy-suprematicheskiy-kvadrat/",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "tretyakov-black-square-1929",
+          "institution": "国立トレチャコフ美術館カリーニングラード分館",
+          "title": "《黒い正方形》の1929年版について",
+          "url": "https://kaliningrad.tretyakovgallery.ru/news/250/",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-white-on-white-8171935",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Suprematist Composition: White on White（817.1935）",
+          "url": "https://www.moma.org/collection/works/80385",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-suprematism34-822001",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Suprematizm. 34 risunka（82.2001）",
+          "url": "https://www.moma.org/collection/works/11073",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "chapter_relationships": [
+        {
+          "chapter_id": "suprematism",
+          "role": "シュプレマティズムを提唱した美術家",
+          "description": "絵画と書籍を通して、形と色だけでつくる表現を考えます。《黒い正方形》は制作年の異なる複数の版を混同しないようにしています。"
+        }
+      ]
+    },
+    {
+      "id": "jean-pougny",
+      "entity_type": "person",
+      "name_ja": "ジャン・プーニ（イワン・プーニ）",
+      "name_kana": "ジャン・プーニ（イワン・プーニ）",
+      "name_original": "Jean Pougny (Ivan Puni)",
+      "birth_year": null,
+      "death_year": 1956,
+      "birth_year_status": "conflicting_primary_catalogues",
+      "life_dates_label": "生年は1890年／1892年の資料差あり、1956年没",
+      "birth_year_options": [
+        {
+          "year": 1890,
+          "source_ids": [
+            "pougny-research-birth"
+          ]
+        },
+        {
+          "year": 1892,
+          "source_ids": [
+            "moma-pougny-life",
+            "pompidou-pougny-atelier"
+          ]
+        }
+      ],
+      "date_note": "MoMAとポンピドゥー・センターは1892年、出生記録を調べた研究プロジェクトは1890年としています。ここでは生年を一つに決めません。",
+      "short_bio": "イワン・プーニとも呼ばれる美術家。絵画だけでなく、板から形がせり出すレリーフも制作しました。色や面に加え、実際の空間を使った表現に取り組みました。",
+      "representative_works": [
+        {
+          "id": "pougny-suprematist-relief-1920s",
+          "title_ja": "シュプレマティストのレリーフ彫刻",
+          "title_original": "Suprematist Relief-Sculpture",
+          "date_label": "1920年代（1915年の原作を再制作）",
+          "work_type": "レリーフ・塗装した木／金属／厚紙",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/80522",
+          "creator_role": "制作",
+          "note": "MoMA所蔵の現物は1920年代の再制作です。1915年の原作そのものとは区別します。作者はジャン・プーニであり、マレーヴィチ作ではありません。",
+          "accession": "1060.1983"
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-pougny-life",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Jean Pougny (Ivan Puni)：人物情報",
+          "url": "https://www.moma.org/artists/4754-jean-pougny-ivan-puni",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "pompidou-pougny-atelier",
+          "institution": "ポンピドゥー・センター",
+          "title": "Atelier：作者の生没年",
+          "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cxx9qBA",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "pougny-research-birth",
+          "institution": "Jean Pougny 研究プロジェクト",
+          "title": "生年の再検討と研究案内",
+          "url": "https://www.jeanpougny.org/fr.html",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-pougny-relief-10601983",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Suprematist Relief-Sculpture（1060.1983）",
+          "url": "https://www.moma.org/collection/works/80522",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "chapter_relationships": [
+        {
+          "chapter_id": "suprematism",
+          "role": "立体的な構成に取り組んだ美術家",
+          "description": "マレーヴィチとは別の作者による作品として、平面上の形が実際の奥行きを持つ構成を見ます。"
+        }
+      ]
+    },
+    {
+      "id": "umberto-boccioni",
+      "entity_type": "person",
+      "name_ja": "ウンベルト・ボッチョーニ",
+      "name_kana": "ウンベルト・ボッチョーニ",
+      "name_original": "Umberto Boccioni",
+      "birth_year": 1882,
+      "death_year": 1916,
+      "short_bio": "近代都市の速さや、人が動くときの力を絵や彫刻で表そうとした美術家。人の形を写すだけでなく、体とまわりの空間がつながるような形を探りました。",
+      "representative_works": [
+        {
+          "title_ja": "空間における連続性の唯一の形態",
+          "title_original": "Unique Forms of Continuity in Space",
+          "date_label": "原型：1913年／このブロンズ像：1950年鋳造",
+          "work_type": "彫刻",
+          "source_url": "https://www.metmuseum.org/art/collection/search/485540",
+          "note": "鋳造（ちゅうぞう）は、型に金属を流し込んで形にすること。このメトロポリタン美術館所蔵の像は、作者の死後、ベネデッタの働きかけで鋳造されました。1913年にできたブロンズ像という意味ではありません。",
+          "accession": "1990.38.3",
+          "creator_role": "原型の制作"
+        }
+      ],
+      "sources": [
+        {
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ウンベルト・ボッチョーニ：作家情報",
+          "url": "https://www.moma.org/artists/624-umberto-boccioni",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "institution": "メトロポリタン美術館",
+          "title": "空間における連続性の唯一の形態（1990.38.3）",
+          "url": "https://www.metmuseum.org/art/collection/search/485540",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "institution": "メトロポリタン美術館",
+          "title": "ボッチョーニ没後100年：彫刻と鋳造の来歴",
+          "url": "https://www.metmuseum.org/perspectives/boccioni-100-anniversary",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "futurism",
+          "role": "動きを形にした画家・彫刻家",
+          "description": "未来派の「速さ」を、歩く体と周囲の空間のつながりから見ます。"
+        }
+      ],
+      "verified_at": "2026-11-03"
+    },
+    {
+      "id": "filippo-tommaso-marinetti",
+      "entity_type": "person",
+      "name_ja": "フィリッポ・トンマーゾ・マリネッティ",
+      "name_kana": "フィリッポ・トンマーゾ・マリネッティ",
+      "name_original": "Filippo Tommaso Marinetti",
+      "birth_year": 1876,
+      "death_year": 1944,
+      "short_bio": "1909年に未来派の宣言を発表した詩人。文をいつもの順番に並べるだけでなく、文字の大きさや配置でも音や動きを伝えようとしました。後にファシズムを支持した点も、運動の歴史を考えるうえで切り離せません。",
+      "representative_works": [
+        {
+          "title_ja": "ザン・トゥン・トゥン",
+          "title_original": "Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà",
+          "date_label": "1914年刊行",
+          "work_type": "詩集・活版印刷",
+          "source_url": "https://www.moma.org/collection/works/31450",
+          "note": "文章はマリネッティ、文字の配置や印刷上の設計はチェーザレ・カヴァンナ。題名にある1912年は題材となった戦争の年で、刊行年ではありません。MoMA所蔵本の発行部数は未確認です。",
+          "accession": "1089.2001",
+          "creator_role": "文章・詩"
+        }
+      ],
+      "sources": [
+        {
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "フィリッポ・トンマーゾ・マリネッティ：作家情報",
+          "url": "https://www.moma.org/artists/3771-filippo-tommaso-marinetti",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ザン・トゥン・トゥン（1089.2001）",
+          "url": "https://www.moma.org/collection/works/31450",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "institution": "グッゲンハイム美術館",
+          "title": "Italian Futurism：学習資料",
+          "url": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-futurism.pdf",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "futurism",
+          "role": "未来派を提唱した詩人",
+          "description": "詩を書いた人と、紙面の文字を設計した人の仕事を分けて見ます。"
+        }
+      ],
+      "verified_at": "2026-11-03"
+    },
+    {
+      "id": "cesare-cavanna",
+      "entity_type": "person",
+      "name_ja": "チェーザレ・カヴァンナ",
+      "name_kana": "チェーザレ・カヴァンナ",
+      "name_original": "Cesare Cavanna",
+      "birth_year": null,
+      "death_year": null,
+      "short_bio": "MoMAの作品記録で、詩集《ザン・トゥン・トゥン》の文字の設計を担当したと記される人物。詩の作者とは別の役割です。確認できた資料だけでは、生涯やほかの仕事の詳しい経歴は分かりません。",
+      "representative_works": [
+        {
+          "title_ja": "ザン・トゥン・トゥン",
+          "title_original": "Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà",
+          "date_label": "1914年刊行",
+          "work_type": "詩集・活版印刷",
+          "source_url": "https://www.moma.org/collection/works/31450",
+          "note": "文章はマリネッティ、文字の配置や印刷上の設計はチェーザレ・カヴァンナ。題名にある1912年は題材となった戦争の年で、刊行年ではありません。MoMA所蔵本の発行部数は未確認です。",
+          "accession": "1089.2001",
+          "creator_role": "文字の設計"
+        }
+      ],
+      "sources": [
+        {
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "ザン・トゥン・トゥン：文字の設計の記録",
+          "url": "https://www.moma.org/collection/works/31450",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "futurism",
+          "role": "詩集の文字を設計した人物",
+          "description": "文章の内容だけでなく、文字の大きさや置き方を決める仕事にも注目します。"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "birth_year_status": "unknown",
+      "death_year_status": "unknown",
+      "life_status": "unknown",
+      "life_dates_label": "生没年は未確認",
+      "date_note": "今回確認したMoMAの作品記録は担当した仕事を示しますが、生年・没年は確認できません。同姓同名の別人の情報で補っていません。"
+    },
+    {
+      "id": "fortunato-depero",
+      "entity_type": "person",
+      "name_ja": "フォルトゥナート・デペーロ",
+      "name_kana": "フォルトゥナート・デペーロ",
+      "name_original": "Fortunato Depero",
+      "birth_year": 1892,
+      "death_year": 1960,
+      "short_bio": "絵画だけでなく、広告、家具、玩具、衣服にも取り組んだ美術家。1915年にはジャコモ・バッラとともに、未来派の考えを身のまわりの物へ広げる宣言を発表しました。",
+      "representative_works": [
+        {
+          "title_ja": "デペーロの未来派ベスト",
+          "title_original": "Depero’s Futurist Waistcoat",
+          "date_label": "1923年",
+          "work_type": "衣服・ウールと綿",
+          "source_url": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-futurism.pdf",
+          "note": "グッゲンハイム美術館の学習資料に掲載された個人蔵のベストです。デザインはデペーロに帰属しますが、この実物を縫った人は資料から確認できません。",
+          "creator_role": "デザイン"
+        }
+      ],
+      "sources": [
+        {
+          "institution": "グッゲンハイム美術館",
+          "title": "Italian Futurism：デペーロと未来派のベスト",
+          "url": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-futurism.pdf",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "futurism",
+          "role": "未来派を暮らしの物へ広げた美術家",
+          "description": "体に着る物にも、強い色や幾何学的な形を取り入れた例として見ます。"
+        }
+      ],
+      "verified_at": "2026-11-03"
+    },
+    {
+      "id": "benedetta-cappa-marinetti",
+      "entity_type": "person",
+      "name_ja": "ベネデッタ・カッパ・マリネッティ",
+      "name_kana": "ベネデッタ・カッパ・マリネッティ",
+      "name_original": "Benedetta Cappa Marinetti",
+      "birth_year": 1897,
+      "death_year": 1977,
+      "short_bio": "絵と言葉の両方で、人の感覚や心の働きを表した画家・作家。小説に図を組み合わせる仕事や、公共の建物に置く大きな絵を制作しました。",
+      "representative_works": [
+        {
+          "title_ja": "航空通信の総合",
+          "title_original": "Synthesis of Aerial Communications",
+          "date_label": "1933〜1934年",
+          "work_type": "公共建築の絵画・テンペラとろうを使った絵の具／カンヴァス",
+          "source_url": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-futurism.pdf",
+          "note": "パレルモ郵便局のために制作された5点の連作のうちの1点です。5点全体と、この1点を区別します。",
+          "creator_role": "絵画の制作"
+        },
+        {
+          "title_ja": "人間の力",
+          "title_original": "Le forze umane: romanzo astratto con sintesi grafiche",
+          "date_label": "1924年",
+          "work_type": "小説・図を組み合わせた書籍",
+          "source_url": "https://www.labiennale.org/en/art/2022/witchs-cradle/benedetta",
+          "note": "文章と図を組み合わせた最初の著書。絵画の連作とは別の仕事です。",
+          "creator_role": "著者"
+        }
+      ],
+      "sources": [
+        {
+          "institution": "ヴェネツィア・ビエンナーレ",
+          "title": "Benedetta：作家紹介",
+          "url": "https://www.labiennale.org/en/art/2022/witchs-cradle/benedetta",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "institution": "グッゲンハイム美術館",
+          "title": "Italian Futurism：ベネデッタの公共絵画",
+          "url": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-futurism.pdf",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "chapter_relationships": [
+        {
+          "chapter_id": "futurism",
+          "role": "絵と言葉で表現した画家・作家",
+          "description": "通信を題材にした公共の絵画から、未来派と社会のつながりを見ます。"
+        }
+      ],
+      "verified_at": "2026-11-03"
     }
   ],
   "organizations": [
@@ -7674,6 +8397,67 @@
         }
       ],
       "name_reading": "じゅらくしゃ"
+    },
+    {
+      "id": "unovis",
+      "entity_type": "organization",
+      "name_ja": "ウノヴィス",
+      "name_kana": "ウノヴィス",
+      "name_original": "UNOVIS (Affirmers of the New Art)",
+      "date_label": "1920年にヴィテプスクで結成（活動の終了年は未確認）",
+      "short_bio": "美術家と学生が参加した集団。マレーヴィチの考えを学び、絵画だけでなく出版物や街の装飾などにも取り組みました。",
+      "representative_works": [
+        {
+          "id": "malevich-suprematism34-1920",
+          "title_ja": "シュプレマティズム：34の図版",
+          "title_original": "Suprematizm. 34 risunka (Suprematism: 34 Drawings)",
+          "date_label": "1920年",
+          "work_type": "書籍・リトグラフ",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "source_url": "https://www.moma.org/collection/works/11073",
+          "creator_role": "出版",
+          "note": "著者はマレーヴィチ、出版はウノヴィス。印刷はリシツキーと推定され、確定ではありません。書名の「34」と異なり、MoMAは表紙を含む図版を35点と記録しています。",
+          "accession": "82.2001",
+          "credits": [
+            {
+              "artist_id": "kazimir-malevich",
+              "role": "著者"
+            },
+            {
+              "artist_id": "unovis",
+              "role": "出版"
+            },
+            {
+              "artist_id": "el-lissitzky",
+              "role": "印刷（推定）"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "moma-unovis-foundation",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Masha Chlenova「UNOVIS Posters, 1920–21」pp.52–53",
+          "url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMjEvMDMvMTEvMWk1c3lsNHhxN19Nb01BX0VuZ2luZWVyQWdpdGF0b3JDb25zdHJ1Y3Rvcl9QUkVWSUVXLnBkZiJdXQ/MoMA_EngineerAgitatorConstructor_PREVIEW.pdf?sha=95229b2ce1947ac9",
+          "verified_at": "2026-11-03"
+        },
+        {
+          "id": "moma-suprematism34-822001",
+          "institution": "ニューヨーク近代美術館（MoMA）",
+          "title": "Suprematizm. 34 risunka（82.2001）",
+          "url": "https://www.moma.org/collection/works/11073",
+          "verified_at": "2026-11-03"
+        }
+      ],
+      "verified_at": "2026-11-03",
+      "chapter_relationships": [
+        {
+          "chapter_id": "suprematism",
+          "role": "出版と共同制作に取り組んだ集団",
+          "description": "《シュプレマティズム：34の図版》では出版を担当しました。著者のマレーヴィチ、印刷担当と推定されるリシツキーと役割を分けて記します。"
+        }
+      ]
     }
   ]
 }
