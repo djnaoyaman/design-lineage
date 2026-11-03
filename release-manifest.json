@@ -2,7 +2,7 @@
   "release": "three-chapter-artist-profiles-20261103",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-03T09:46:00+09:00",
+  "frozen_at": "2026-11-03T10:02:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -1483,8 +1483,8 @@
     },
     {
       "path": "entries/dada.html",
-      "bytes": 51283,
-      "sha256": "2038c217c02803e304123034b89f8268787afdcdcb226633fd37a0c02ec2bb5a"
+      "bytes": 51352,
+      "sha256": "a851e370572f3a65ace23c84fb47e2ed1d09780728455e9b19a7c05393c57374"
     },
     {
       "path": "entries/dansaekhwa.html",
@@ -1513,8 +1513,8 @@
     },
     {
       "path": "entries/futurism.html",
-      "bytes": 35565,
-      "sha256": "6871413aaee58cd859041fa7b95d156cc6ac1d6360c48e687b656ecb74b674b2"
+      "bytes": 35634,
+      "sha256": "2e98dd2c28df56920712873dd6612b7d6cdc0024f41539f1c17bb31814e60a38"
     },
     {
       "path": "entries/generative-design.html",
@@ -1783,8 +1783,8 @@
     },
     {
       "path": "entries/suprematism.html",
-      "bytes": 34606,
-      "sha256": "81432c4c603b06fc252ba8b212f7a5a04ba2a97573410a8b637719a24ed449c6"
+      "bytes": 34675,
+      "sha256": "9b09cd8103b290b86a0371236dd865ca93ab253ab32db8e68dd118d0097d7a1d"
     },
     {
       "path": "entries/surrealism.html",
@@ -1925,6 +1925,11 @@
       "path": "package.json",
       "bytes": 135,
       "sha256": "b44fa3a61e08a0763152e26f17645978680896e4167a536aadb3270a7fe6c61e"
+    },
+    {
+      "path": "profile-reading.css",
+      "bytes": 133,
+      "sha256": "c1c81ed775a33dfdba772723d49de46ec489c872e15b64a3ebe0d859b2b4e8ce"
     },
     {
       "path": "reference-image-rights.json",

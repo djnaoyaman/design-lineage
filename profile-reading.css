@@ -1,0 +1,2 @@
+/* Keep long original work titles readable at narrow widths and browser zoom. */
+#representative-works .note{overflow-wrap:anywhere}
