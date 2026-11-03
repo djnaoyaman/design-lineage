@@ -1,8 +1,8 @@
 {
-  "release": "chronological-catalog-20261103",
+  "release": "three-chapter-artist-profiles-20261103",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-03T08:42:00+09:00",
+  "frozen_at": "2026-11-03T10:02:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -53,8 +53,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 361401,
-      "sha256": "97357a18aef1d4482a3181300bfbfe66ba284fc34071af4efd4c3b22db9a9718"
+      "bytes": 400964,
+      "sha256": "e5917e51cc94dd6f20645258579758e1cbaed60f43dbb0d67c9a75c523f8a060"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -1408,8 +1408,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1870764,
-      "sha256": "031d74e04124be555a9c8ab778b5e10f30111eba357f7927e75124b3fb598624"
+      "bytes": 1871230,
+      "sha256": "5973dead2567950490d12ba4b259658952919ca181f56e762c7607b6a6952e05"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1483,8 +1483,8 @@
     },
     {
       "path": "entries/dada.html",
-      "bytes": 40316,
-      "sha256": "4aa97ee6eb146e92389cc860f51db510484fb91b8c36954199b03a2520004400"
+      "bytes": 51352,
+      "sha256": "a851e370572f3a65ace23c84fb47e2ed1d09780728455e9b19a7c05393c57374"
     },
     {
       "path": "entries/dansaekhwa.html",
@@ -1493,8 +1493,8 @@
     },
     {
       "path": "entries/de-stijl.html",
-      "bytes": 45548,
-      "sha256": "05d918bbc0006755749cf32a4ec1daebf6afc966a3d7205355ce5db48464b720"
+      "bytes": 45894,
+      "sha256": "b97816982da426ba24b63bef69023bc01addb9c27e11b7d89bc9eb35089a75e8"
     },
     {
       "path": "entries/esdi-rio.html",
@@ -1513,8 +1513,8 @@
     },
     {
       "path": "entries/futurism.html",
-      "bytes": 27579,
-      "sha256": "83962b17118a4dbb5276fcc765653719ba9e9f994fb2f369b2dfe981a94ac122"
+      "bytes": 35634,
+      "sha256": "2e98dd2c28df56920712873dd6612b7d6cdc0024f41539f1c17bb31814e60a38"
     },
     {
       "path": "entries/generative-design.html",
@@ -1733,8 +1733,8 @@
     },
     {
       "path": "entries/russian-constructivism.html",
-      "bytes": 65073,
-      "sha256": "4e1e98b66e38b4676db538f614533b0313388bb3c8e637021061f26748ebb658"
+      "bytes": 65647,
+      "sha256": "d6e33eae12de9c7fccbdbce66e0638f77e9edd0cd0f75c7c5b18cd39b74f3714"
     },
     {
       "path": "entries/santiniketan.html",
@@ -1783,8 +1783,8 @@
     },
     {
       "path": "entries/suprematism.html",
-      "bytes": 25350,
-      "sha256": "cd4cfc1e63f504ce6ddd68556fe15375dd4a00b7055f38f430edf5f3f1b518e9"
+      "bytes": 34675,
+      "sha256": "9b09cd8103b290b86a0371236dd865ca93ab253ab32db8e68dd118d0097d7a1d"
     },
     {
       "path": "entries/surrealism.html",
@@ -1927,6 +1927,11 @@
       "sha256": "b44fa3a61e08a0763152e26f17645978680896e4167a536aadb3270a7fe6c61e"
     },
     {
+      "path": "profile-reading.css",
+      "bytes": 133,
+      "sha256": "c1c81ed775a33dfdba772723d49de46ec489c872e15b64a3ebe0d859b2b4e8ce"
+    },
+    {
       "path": "reference-image-rights.json",
       "bytes": 27738,
       "sha256": "37ebe361aa336e8354ff19a9f95cc6d0135595c2d3564bfdab38fa9708957763"
@@ -2028,8 +2033,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 30746,
-      "sha256": "18f91391ca36ee9eed1beeabaee01c9cdfebd28b5045bd7aa9dcbe3c2b353625"
+      "bytes": 31333,
+      "sha256": "983a829e126efeab6bf33b352e3d2c49c1767c545f6ea5e893ddf3ae98d4b720"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
