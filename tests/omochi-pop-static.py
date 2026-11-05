@@ -17,11 +17,16 @@ class Page(HTMLParser):
 page=(root/'omochi-pop.html').read_text();p=Page(page)
 assert len(p.ids)==len(set(p.ids)),'Duplicate IDs'
 assert '編者オリジナル / デザイン様式' in page
+assert 'class="study omochi-page"' in page
+assert 'study.css?' in page and 'deep-reading.css?' in page
+assert 'class="study-title"' in page and 'class="reading-entrance"' in page
+assert 'omochi-hero' not in page and 'omochi-tag' not in page
+assert 'box-shadow' not in (root/'omochi-pop.css').read_text()
 assert '歴史上の運動とは別に' in page
 assert '70〜80年代全体をそのままミッドセンチュリーとは呼びません' in page
 assert '1949年' in page and '1970年' in page and '1981年' in page and '2016年' in page
 assert 'https://djnaoyaman.github.io/buncho-ureshi/game/' in p.links
-assert len(re.findall(r'class="omochi-work"',page))==7
+assert len(re.findall(r'class="representative omochi-work"',page))==7
 for im in p.images:
  assert im.get('alt') and int(im['width'])>0 and int(im['height'])>0
  assert not urlsplit(im['src']).scheme,'No third-party image embedding'

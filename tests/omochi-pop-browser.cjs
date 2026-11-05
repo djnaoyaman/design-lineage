@@ -9,7 +9,11 @@ fs.mkdirSync(out,{recursive:true});
   const errors=[];page.on('pageerror',e=>errors.push(String(e)));
   await page.goto(base+'omochi-pop.html',{waitUntil:'networkidle'});
   await page.evaluate(()=>document.fonts.ready);
-  assert.equal(await page.locator('h1').innerText(),'OMOCHI\nPOP');
+  assert.equal((await page.locator('h1').innerText()).replace(/\s+/g,' ').trim(),'OMOCHI POP');
+  assert.equal(await page.locator('main.study .study-title').count(),1);
+  assert.equal(await page.locator('h1').evaluate(e=>getComputedStyle(e).fontWeight),'500');
+  assert(await page.locator('.omochi-feature,.omochi-origin,.omochi-cta').evaluateAll(xs=>xs.every(e=>{const s=getComputedStyle(e);return s.boxShadow==='none'&&s.backgroundColor==='rgba(0, 0, 0, 0)'})));
+  assert.equal(await page.locator('.representative.omochi-work').count(),7);
   assert.equal(await page.locator('.omochi-work').count(),7);
   for(const im of await page.locator('main img').all()){await im.scrollIntoViewIfNeeded();await im.evaluate(i=>i.decode());}
   assert(await page.locator('main img').evaluateAll(xs=>xs.every(x=>x.naturalWidth>0&&x.complete)));
@@ -40,6 +44,23 @@ fs.mkdirSync(out,{recursive:true});
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
   assert.deepEqual(errors,[]);results.push({width,status:'passed'});await page.close();
  }
+ const shellComparisons=[];
+ for(const width of [390,1280]){
+  const p=await browser.newPage({viewport:{width,height:1000},reducedMotion:'reduce'});
+  const shell=async()=>p.evaluate(()=>{const m=document.querySelector('main'),h=document.querySelector('h1'),s=getComputedStyle(m),t=getComputedStyle(h);return {fontFamily:t.fontFamily,fontWeight:t.fontWeight,fontSize:t.fontSize,mainLeft:m.getBoundingClientRect().left,paddingLeft:s.paddingLeft,paddingRight:s.paddingRight,background:getComputedStyle(document.body).backgroundColor}});
+  await p.goto(base+'omochi-pop.html',{waitUntil:'networkidle'});const original=await shell();
+  await p.screenshot({path:`${out}/compare-omochi-top-${width}.png`});
+  await p.locator('#works').scrollIntoViewIfNeeded();await p.screenshot({path:`${out}/compare-omochi-works-${width}.png`});
+  for(const route of ['entries/neo-brutalism.html','entries/memphis.html','compiler.html']){
+   await p.goto(base+route,{waitUntil:'networkidle'});const baseline=await shell();
+   assert.equal(original.fontFamily,baseline.fontFamily);assert.equal(original.fontWeight,baseline.fontWeight);assert.equal(original.background,baseline.background);
+   if(route.startsWith('entries/')){assert.equal(original.paddingLeft,baseline.paddingLeft);assert.equal(original.paddingRight,baseline.paddingRight);assert.equal(original.mainLeft,baseline.mainLeft);if(route==='entries/memphis.html')assert.equal(original.fontSize,baseline.fontSize)}
+   await p.screenshot({path:`${out}/compare-${route.replace(/[^a-z-]/g,'-')}-${width}.png`});
+   shellComparisons.push({width,route,original,baseline,status:'passed'});
+  }
+  await p.close();
+ }
+ fs.writeFileSync(`${out}/shell-comparisons.json`,JSON.stringify(shellComparisons,null,2));
  const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:900}}),p=await nojs.newPage();
  await p.goto(base+'compiler.html');await p.locator('a[href="omochi-pop.html"]').click();assert(await p.locator('#omochi-title').isVisible());assert.equal(await p.locator('.omochi-work').count(),7);assert(await p.locator('.omochi-cta').isVisible());await nojs.close();
  fs.writeFileSync(`${out}/results.json`,JSON.stringify({results,noJavaScript:'passed'},null,2));console.log('PASS OMOCHI POP: 5 widths, 2x layout zoom, image decoding, details keyboard, homepage links, back/forward, no-JS compiler route');
