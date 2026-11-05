@@ -1,0 +1,41 @@
+name: OMOCHI POP QA
+on:
+  pull_request:
+    paths:
+      - 'omochi-pop*'
+      - 'assets/omochi-pop*'
+      - 'compiler.html'
+      - 'home-features.*'
+      - 'tests/omochi-pop*'
+      - '.github/workflows/omochi-pop-qa.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'omochi-pop*'
+      - 'assets/omochi-pop*'
+      - 'compiler.html'
+      - 'home-features.*'
+      - 'tests/omochi-pop*'
+      - '.github/workflows/omochi-pop-qa.yml'
+permissions:
+  contents: read
+jobs:
+  original-style:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: python tests/omochi-pop-static.py
+      - name: Start site server
+        run: python3 -m http.server 8793 > "$RUNNER_TEMP/omochi-http.log" 2>&1 &
+      - run: node tests/omochi-pop-browser.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: omochi-pop-qa
+          path: qa-artifacts/omochi-pop
