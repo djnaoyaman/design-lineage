@@ -34,7 +34,7 @@
 .omochi-origin p{font-size:16px;line-height:1.95}
 .omochi-origin .omochi-cta{display:inline-block;padding:12px 0;min-height:44px;font-size:15px}
 .omochi-sources{padding-left:1.2em;max-width:76ch}.omochi-sources li{font-size:15px;line-height:1.95;margin-bottom:14px}
-.omochi-note details{font-size:14px}.omochi-note summary{min-height:44px}.omochi-note details p{font-size:14px}
+.omochi-page details.omochi-note{font-size:14px}.omochi-note>summary{min-height:44px;font-size:16px}.omochi-note>p{font-size:14px}
 .omochi-bottom{display:flex;flex-wrap:wrap;gap:16px 30px;margin-top:45px;padding-top:24px;border-top:1px solid var(--line);font-size:14px}
 .omochi-bottom a{min-height:44px;display:inline-flex;align-items:center}
 @media(max-width:900px){.omochi-three{grid-template-columns:1fr;gap:28px}}
