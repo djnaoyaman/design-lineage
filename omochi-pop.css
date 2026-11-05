@@ -1,13 +1,41 @@
-/* The editor's original style is separate from the historical catalog. */
-.omochi-document header .brand,.omochi-document footer .footer-brand{min-width:0;max-width:100%}.omochi-document header .brand img,.omochi-document footer .footer-brand img{max-width:100%;height:auto}.omochi-document header nav{min-width:0}
-.omochi-document header,.omochi-document footer{flex-wrap:wrap}
-.omochi-page{--ink:#202121;--pink:#f1a7ba;--yellow:#f4d65a;--mint:#92cbb9;max-width:1280px;margin:auto;padding:38px clamp(18px,4vw,48px) 72px;line-height:1.85;overflow-wrap:anywhere}
-.omochi-page>.omochi-section{padding-inline:0}
-.omochi-page *{box-sizing:border-box}.omochi-page p{max-width:70ch}.omochi-page h2{font-size:clamp(25px,4vw,44px);line-height:1.35;letter-spacing:.015em}.omochi-page h3{line-height:1.5}.omochi-page a{color:inherit;text-underline-offset:.2em}.omochi-page a:focus-visible,.omochi-page summary:focus-visible{outline:3px solid #225e86;outline-offset:5px}.omochi-page .eyebrow{font-size:12px;letter-spacing:.1em}
-.omochi-hero{border:3px solid var(--ink);background:#fff8e9;box-shadow:9px 9px 0 var(--ink);padding:clamp(22px,4vw,54px);margin:0 10px 52px 0;display:grid;grid-template-columns:1.15fr 1fr;gap:32px;align-items:center}.omochi-hero h1{font-size:clamp(46px,7.2vw,98px);line-height:.97;letter-spacing:-.045em;margin:23px 0 25px;font-weight:900}.omochi-hero h1 span{display:block}.omochi-tag{display:inline-block;border:2px solid var(--ink);border-radius:100px;padding:3px 12px;background:var(--pink);font-size:12px;font-weight:700}.omochi-lead{font-size:clamp(18px,2.1vw,23px);font-weight:600}.omochi-meta{font-size:12px;color:#50504c}.omochi-concept{margin:0;min-width:0}.omochi-concept svg{width:100%;height:auto;display:block}.omochi-concept figcaption{font-size:12px;margin-top:12px}
-.omochi-nav{display:flex;flex-wrap:wrap;gap:10px 22px;padding:0 0 25px;border-bottom:1px solid #aaa9a2}.omochi-section{padding-top:48px;scroll-margin-top:20px}.omochi-section>h2{margin:0 0 22px}.omochi-intro{font-size:18px}.omochi-three{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin-top:30px}.omochi-feature{border:2px solid var(--ink);padding:26px 24px;background:#fffdf6}.omochi-feature:nth-child(1){border-top:10px solid var(--pink)}.omochi-feature:nth-child(2){border-top:10px solid var(--yellow)}.omochi-feature:nth-child(3){border-top:10px solid var(--mint)}.omochi-number{font-size:12px;font-weight:700;letter-spacing:.1em}.omochi-feature h3{font-size:22px;margin:12px 0}.omochi-feature p,.omochi-feature li{font-size:15px}.omochi-feature ul{padding-left:1.15em}.omochi-feature li+li{margin-top:9px}.omochi-keywords{font-size:13px!important;border-top:1px solid #c5c1b8;padding-top:15px;color:#45463f}.omochi-note{padding:22px 25px;border-left:5px solid var(--ink);background:#e9e8df;margin-top:28px}.omochi-note p{margin:0}.omochi-note p+p{margin-top:12px}
-.omochi-work-group{padding:27px 0;border-top:1px solid #aaa9a2}.omochi-work-group>h3{font-size:23px;margin:0 0 20px}.omochi-works{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.omochi-work{background:#f8f6ef;border:1px solid #aaa9a2;padding:25px;min-width:0}.omochi-work h4{font-size:22px;line-height:1.4;margin:10px 0}.omochi-work .work-date{font-size:12px;letter-spacing:.04em;color:#4b4d45}.omochi-work p{font-size:15px;margin:12px 0}.omochi-work a{display:inline-block;min-height:44px;padding-block:8px}.omochi-work details{font-size:13px;margin-top:14px}.omochi-work summary{cursor:pointer;min-height:36px}.omochi-work details p{font-size:13px}.omochi-work-kind{display:inline-block;font-size:11px;border:1px solid #75766c;border-radius:30px;padding:2px 10px}
-.omochi-origin{display:grid;grid-template-columns:1fr 1fr;gap:34px;align-items:center;background:#fff8e9;border:2px solid var(--ink);padding:30px}.omochi-origin figure{margin:0;min-width:0}.omochi-origin img{width:100%;height:auto;display:block}.omochi-origin figcaption{font-size:12px;line-height:1.8;margin-top:14px}.omochi-origin h3{font-size:25px;margin-top:0}.omochi-origin .omochi-cta{display:inline-block;border:2px solid var(--ink);background:var(--yellow);box-shadow:4px 4px 0 var(--ink);padding:12px 18px;text-decoration:none;font-weight:700;margin:10px 5px 5px 0}.omochi-origin .omochi-cta:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--ink)}.omochi-sources{padding-left:1.2em}.omochi-sources li{margin-bottom:13px}.omochi-bottom{display:flex;flex-wrap:wrap;gap:16px 30px;margin-top:35px;padding-top:25px;border-top:1px solid #aaa9a2}
-@media(max-width:900px){.omochi-three{grid-template-columns:1fr}.omochi-feature{padding:24px}.omochi-feature h3{margin-block:8px}.omochi-hero{gap:18px}.omochi-origin{grid-template-columns:1fr}}
-@media(max-width:650px){.omochi-page{padding-top:24px}.omochi-hero{grid-template-columns:1fr;padding:22px 18px;margin-bottom:35px;box-shadow:6px 6px 0 var(--ink)}.omochi-hero h1{font-size:clamp(28px,16vw,60px)}.omochi-lead{font-size:19px}.omochi-concept{max-width:420px;margin:auto}.omochi-section{padding-top:35px}.omochi-works{grid-template-columns:1fr}.omochi-work,.omochi-origin{padding:20px}.omochi-intro{font-size:16px}.omochi-note{padding:18px}.omochi-page h2{font-size:28px}}
-@media(prefers-reduced-motion:reduce){.omochi-page *{scroll-behavior:auto!important;transition:none!important}}
+/* Original-style content uses the same editorial frame as the historical studies. */
+.omochi-document header .brand,.omochi-document footer .footer-brand{min-width:0;max-width:100%}
+.omochi-document header .brand img,.omochi-document footer .footer-brand img{max-width:100%;height:auto}
+.omochi-document header nav{min-width:0}.omochi-document header,.omochi-document footer{flex-wrap:wrap}
+.omochi-page{overflow-wrap:anywhere}.omochi-page>.omochi-section{padding-inline:0}
+.omochi-page .study-title h1{max-width:100%}.omochi-page .study-title dd{max-width:42ch}
+.omochi-nav{display:flex;flex-wrap:wrap;gap:12px 28px;background:transparent;border:0;border-block:1px solid var(--line);padding:20px 0;font-size:14px}
+.omochi-nav a{min-height:44px;display:inline-flex;align-items:center}
+.omochi-section{scroll-margin-top:20px}.omochi-section>p{max-width:70ch;font-size:16px;line-height:1.95}
+.omochi-section>.eyebrow{font:10px/1.5 monospace;letter-spacing:.09em}
+.omochi-section>.study-section-title{margin-top:16px}
+.omochi-concept{max-width:480px;margin:36px 0 44px}
+.omochi-concept img{display:block;width:100%;height:auto}
+.omochi-concept figcaption{font-size:13px;line-height:1.85;color:var(--muted);padding-top:16px}
+.omochi-three{grid-template-columns:repeat(3,minmax(0,1fr));gap:32px;margin:35px 0 44px}
+.omochi-feature{min-width:0;border-top:1px solid var(--line);padding-top:20px}
+.omochi-feature .omochi-number{font:10px/1.6 monospace;color:var(--muted)}
+.omochi-feature h3{font-size:21px;font-weight:500;line-height:1.6;margin:14px 0}
+.omochi-feature p,.omochi-feature li{font-size:15px;line-height:1.95}
+.omochi-feature p[lang]{font-size:13px;color:var(--muted)}
+.omochi-feature ul{padding-left:1.2em}.omochi-feature li+li{margin-top:8px}
+.omochi-feature .omochi-keywords{font-size:13px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}
+.omochi-feature>a{font-size:14px;display:inline-block;padding:10px 0;min-height:44px}
+.omochi-note{margin-top:32px;padding:24px 0;border-top:1px solid var(--line);max-width:76ch}
+.omochi-note p{font-size:15px;line-height:1.95;margin:0 0 12px}
+.omochi-work-group{margin-top:42px}.omochi-work-group>h3{font-size:24px;font-weight:500;line-height:1.6;margin-bottom:22px}
+.omochi-work h4{font-size:27px;font-weight:500;line-height:1.4;letter-spacing:-.03em;margin:10px 0}
+.omochi-work .omochi-work-kind,.omochi-work .work-date{font-size:12px;color:var(--muted)}
+.omochi-work p{font-size:15px;line-height:1.95}.omochi-work a{font-size:14px;display:inline-block;min-height:44px;padding-block:8px}
+.omochi-work details{font-size:14px}.omochi-work details p{font-size:14px}.omochi-work summary{min-height:44px}
+.omochi-origin{border-color:var(--line);gap:40px}
+.omochi-origin img{width:100%;height:auto;display:block}.omochi-origin figcaption{font-size:13px;line-height:1.85;color:var(--muted);padding-top:18px}
+.omochi-origin h3{font-size:27px;font-weight:500;line-height:1.6;margin-top:0}
+.omochi-origin p{font-size:16px;line-height:1.95}
+.omochi-origin .omochi-cta{display:inline-block;padding:12px 0;min-height:44px;font-size:15px}
+.omochi-sources{padding-left:1.2em;max-width:76ch}.omochi-sources li{font-size:15px;line-height:1.95;margin-bottom:14px}
+.omochi-page details.omochi-note{font-size:14px}.omochi-note>summary{min-height:44px;font-size:16px}.omochi-note>p{font-size:14px}
+.omochi-bottom{display:flex;flex-wrap:wrap;gap:16px 30px;margin-top:45px;padding-top:24px;border-top:1px solid var(--line);font-size:14px}
+.omochi-bottom a{min-height:44px;display:inline-flex;align-items:center}
+@media(max-width:900px){.omochi-three{grid-template-columns:1fr;gap:28px}}
+@media(max-width:650px){.omochi-work h4{font-size:22px}.omochi-origin h3{font-size:23px}.omochi-work-group>h3{font-size:21px}.omochi-nav{gap:6px 22px}.omochi-concept{margin:28px 0 36px}.omochi-three{margin-bottom:32px}}
