@@ -1,2 +1,6 @@
 /* A direct link into a feature is an explicit request to reveal its contents. */
 (()=>{'use strict';function revealTarget(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}if(!id)return;const target=document.getElementById(id),feature=target?.closest('details.home-feature-banner');if(feature&&target!==feature){feature.open=true;requestAnimationFrame(()=>target.scrollIntoView({block:'start',behavior:'instant'}));}}window.addEventListener('hashchange',revealTarget);revealTarget();})();
+
+/* An original work note, outside the 89-item historical catalog. The compiler
+ * page also has a static link, so the new article remains reachable without JS. */
+(()=>{'use strict';const intro=document.querySelector('main>.intro');if(!intro||document.getElementById('omochi-pop-feature'))return;const section=document.createElement('section');section.id='omochi-pop-feature';section.className='editor-original-feature';section.setAttribute('aria-labelledby','omochi-pop-feature-title');section.innerHTML='<div><p class="editor-original-label">編者オリジナル / デザイン様式</p><h2 id="omochi-pop-feature-title">OMOCHI POP</h2><p>文鳥ゲームの制作から生まれた、太い輪郭・レトロな丸み・幾何学の遊び心。</p></div><a href="omochi-pop.html">特徴と参照作品を読む <span aria-hidden="true">→</span></a>';intro.after(section);})();

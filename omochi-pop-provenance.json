@@ -1,0 +1,34 @@
+{
+  "page": "https://djnaoyaman.github.io/design-lineage/omochi-pop.html",
+  "updated_at": "2026-11-06T04:54:01+09:00",
+  "classification": "editor_original_digital_style_not_historical_movement",
+  "creator": "MIYAZAKI Naoya",
+  "definition_source": "編者による名称と制作経緯の説明",
+  "historical_catalog_count_unchanged": 89,
+  "images": [
+    {
+      "file": "assets/omochi-pop-concept.svg",
+      "kind": "original_explanatory_diagram",
+      "historical_representative_image": false,
+      "description": "太い線・硬い影・アーチ・幾何学を示す独自のSVG。特定作品の模写やゲーム画面の複製ではない。",
+      "license": "包括的なCreative Commonsライセンスは付与しない。"
+    },
+    {
+      "file": "assets/omochi-pop-game-card.png",
+      "kind": "creator_game_share_card",
+      "source_url": "https://djnaoyaman.github.io/buncho-ureshi/game-ogp-v1.png",
+      "source_page": "https://djnaoyaman.github.io/buncho-ureshi/game/",
+      "provenance_url": "https://github.com/djnaoyaman/buncho-ureshi/blob/main/docs/GAME-SHARING.md",
+      "width": 1200,
+      "height": 630,
+      "bytes": 491718,
+      "sha256": "86f30cf4c458cca369b3dedafd80d014f9659485aead4820b99d1021a60cb21c",
+      "processing": "公開済みPNGをバイト単位で保存。切り抜き・着色・描き足しなし。",
+      "historical_representative_image": false,
+      "license": "編者による自己の作品紹介。元のゲーム画像の条件を変更せず、CCライセンスを新規に付けない。",
+      "notes": "タイトル素材はAI生成のオリジナルゲームイラスト。実写写真・歴史作品・ゲーム画面のスクリーンショットではない。"
+    }
+  ],
+  "third_party_reference_images": "転載せず、各作品の公式・所蔵機関のページへリンク。",
+  "scope": "図鑑89項目とは別枠。OMOCHI POPを既存の歴史運動として年代一覧へ追加しない。"
+}

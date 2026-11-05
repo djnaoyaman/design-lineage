@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="500" viewBox="0 0 540 500" role="img" aria-labelledby="title desc">
+<title id="title">OMOCHI POPの形と色を示すオリジナル解説図</title>
+<desc id="desc">太い黒線と硬い影を持つ角丸カード、ピンクと黄色のアーチ、ミント色の丸、三角と波線を組み合わせた現代の図。歴史作品やゲーム画面の複製ではない。</desc>
+<rect x="16" y="36" width="492" height="432" rx="24" fill="#202121"/>
+<rect x="5" y="25" width="492" height="432" rx="24" fill="#f1a7ba" stroke="#202121" stroke-width="5"/>
+<path d="M73 359V202a134 134 0 0 1 268 0v157Z" fill="#f4d65a" stroke="#202121" stroke-width="5"/>
+<path d="M121 359V204a86 86 0 0 1 172 0v155Z" fill="#fff8e9" stroke="#202121" stroke-width="5"/>
+<circle cx="362" cy="297" r="89" fill="#202121"/><circle cx="353" cy="286" r="89" fill="#92cbb9" stroke="#202121" stroke-width="5"/>
+<rect x="153" y="321" width="142" height="61" rx="22" fill="#202121"/><rect x="146" y="314" width="142" height="61" rx="22" fill="#fff8e9" stroke="#202121" stroke-width="5"/>
+<path d="m157 345 16 14 24-25" fill="none" stroke="#202121" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M215 346h47" stroke="#202121" stroke-width="6" stroke-linecap="round"/>
+<path d="m361 103 62 17-46 45Z" fill="#fff8e9" stroke="#202121" stroke-width="5" stroke-linejoin="round"/>
+<path d="m327 406 17-18 18 18 18-18 18 18 18-18" fill="none" stroke="#202121" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="57" cy="99" r="8" fill="#202121"/><circle cx="65" cy="394" r="8" fill="#202121"/><circle cx="437" cy="203" r="8" fill="#202121"/>
+</svg>
