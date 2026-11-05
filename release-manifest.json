@@ -1,8 +1,8 @@
 {
-  "release": "three-chapter-artist-profiles-20261103",
+  "release": "jugendstil-behrens-real-image-20261105",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-03T10:02:00+09:00",
+  "frozen_at": "2026-11-05T03:58:00+09:00",
   "chapter_navigation": {
     "order": "catalog listing order; not chronology",
     "articles": 89,
@@ -28,13 +28,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 5098,
-      "sha256": "12f0b59df8260cdbb99d5fa7cf23b52f206499900be0304fc3cfdadec1d6f899"
+      "bytes": 5533,
+      "sha256": "6fedb6891b865fd3ef3cbfd0a91137d6c011aff2ff14dd1898637250635c7292"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 366732,
-      "sha256": "e0476ef3f9d160b44230b1fda7090db7bfe1e1967002aebab0039760e3daa6cc"
+      "bytes": 371988,
+      "sha256": "5fc51651f26f32f73dcd18da7d06a5f42e6c166d6a2bfd3067807ef6eec81e26"
     },
     {
       "path": "analytics-status.json",
@@ -1322,6 +1322,26 @@
       "sha256": "280ff0184e3d16afee03bfed9704ec1011455530d6ae86171812b79e6380a668"
     },
     {
+      "path": "assets/slam-behrens-kiss-360-1991-1200.webp",
+      "bytes": 279738,
+      "sha256": "7dd2fe4e7efc4c1f7837ea3fb5c1b92d12b08e8836cfaad2d121548321fd5b8a"
+    },
+    {
+      "path": "assets/slam-behrens-kiss-360-1991-1800.webp",
+      "bytes": 746718,
+      "sha256": "a36961c0bd64349fe352ec378aa6b23eba4ff598419f912387e6152925348b17"
+    },
+    {
+      "path": "assets/slam-behrens-kiss-360-1991-720.webp",
+      "bytes": 78204,
+      "sha256": "a4576d97d84244f6ced35bf7a9ee403b0f4ab5abb7aa6abf4f59b70b79015946"
+    },
+    {
+      "path": "assets/slam-behrens-kiss-360-1991.jpg",
+      "bytes": 5600045,
+      "sha256": "2092f152d8e2cf63fef0166514308e6b163cb029e550f7ab8313947ca4bf05fe"
+    },
+    {
       "path": "assets/swiss-comparison.svg",
       "bytes": 3221,
       "sha256": "64177ed327113b781c215a6dd7af9e579d557728a5574a92a5295d5997b1b184"
@@ -1408,8 +1428,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 1871230,
-      "sha256": "5973dead2567950490d12ba4b259658952919ca181f56e762c7607b6a6952e05"
+      "bytes": 1878022,
+      "sha256": "e0287437403397ecd091aec586cf11804fcef39a1668628d53255c18753eee6b"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -1573,8 +1593,8 @@
     },
     {
       "path": "entries/jugendstil.html",
-      "bytes": 14187,
-      "sha256": "df98ba03b702e8bc7bd1eedcd3f248435e6a5b08422e2d15bcbf9b5cb7472388"
+      "bytes": 18324,
+      "sha256": "e0c91fcd393d53430bbdbdee86f21769d718bf1f4b22f729e2fac2081b06f195"
     },
     {
       "path": "entries/khartoum-school.html",
@@ -1894,7 +1914,7 @@
     {
       "path": "index.html",
       "bytes": 25586,
-      "sha256": "a53ec90807ab9a0da253641e7479d5d3771e35232eb00448ed95c45f696b9786"
+      "sha256": "e7194c8958e8398af2b36130ecd27f62e16bff4a4ff3a83f8444fa6dc4fdc83f"
     },
     {
       "path": "japanese-name-sources.json",
@@ -1964,7 +1984,7 @@
     {
       "path": "site-update.json",
       "bytes": 6206,
-      "sha256": "3130881e0220804efe983badcbe62f120a1d4deaeea10fcbc23e1bbb7bb3886a"
+      "sha256": "daabde075ca4979e706ae7d2e502c4774a63f69ba4b0db38e70b7069471efb5f"
     },
     {
       "path": "site.webmanifest",
@@ -1974,7 +1994,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12740,
-      "sha256": "0642bc386972a61f65a4a6856e8377740268e4b02fec99f815241ea5f6be0277"
+      "sha256": "050d8ea8aa7a3403e971f816891057df3e6ce21dfa7b1c45125e384c8865f519"
     },
     {
       "path": "study-images.js",

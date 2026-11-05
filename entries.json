@@ -21324,30 +21324,57 @@
         "id": "nelson-kiss",
         "url": "https://art.nelson-atkins.org/objects/5025/the-kiss",
         "institution": "ネルソン＝アトキンス美術館"
+      },
+      {
+        "id": "slam-kiss",
+        "url": "https://www.slam.org/collection/objects/23271/",
+        "institution": "セントルイス美術館",
+        "title": "The Kiss｜360:1991"
+      },
+      {
+        "id": "slam-pd-policy",
+        "url": "https://www.slam.org/public-domain-and-open-access/",
+        "institution": "セントルイス美術館",
+        "title": "Public Domain Images"
+      },
+      {
+        "id": "slam-terms",
+        "url": "https://www.slam.org/terms-of-use/",
+        "institution": "セントルイス美術館",
+        "title": "Terms of Use（B. Use of SLAM Content）"
       }
     ],
     "representatives": [
       {
-        "id": "behrens-kiss-nelson",
-        "title": "The Kiss（Der Kuss／接吻）",
+        "id": "slam-behrens-kiss-360-1991",
+        "title": "The Kiss（接吻）",
         "creator": "Peter Behrens（ペーター・ベーレンス）",
         "date": "1898",
         "medium": "6色木版",
-        "accession": "F86-16",
-        "edition": "雑誌『パン』第4巻第2号（1898年）掲載。ネルソン＝アトキンス美術館の所蔵品F86-16の記録に基づきます。",
+        "accession": "360:1991",
+        "edition": "掲載画像はセントルイス美術館所蔵360:1991。既存の参照資料はネルソン＝アトキンス美術館F86-16で、同じ図柄の別個体です。",
         "reason": "からみ合う髪を曲線の模様として表し、人物の輪郭と平面性を一緒に見られる例。",
         "look_for": "陰影をつけず、色と輪郭で人物と髪を表す。",
         "domain": "版画",
-        "source_url": "https://art.nelson-atkins.org/objects/5025/the-kiss",
-        "institution": "ネルソン＝アトキンス美術館",
-        "evidence": "https://art.nelson-atkins.org/objects/5025/the-kiss",
+        "source_url": "https://www.slam.org/collection/objects/23271/",
+        "institution": "セントルイス美術館",
+        "evidence": "https://www.slam.org/collection/objects/23271/",
         "reading_intro": {
           "heading": "Der Kuss／接吻",
           "lead": [
             "からみ合う髪を曲線の模様として表し、人物の輪郭と平面性を一緒に見られる例。"
           ]
         },
-        "title_ja": "Der Kuss／接吻"
+        "title_ja": "Der Kuss／接吻",
+        "work_id": "slam-behrens-kiss-360-1991",
+        "image_ids": [
+          "slam-behrens-kiss-360-1991"
+        ],
+        "image_count_acquired": 1,
+        "image_adoption": "実作品画像を収録。",
+        "work_rights": "原作品は1898年の多色木版。作者は1940年没。所蔵館はこの作品をPublic Domainと表示しています。",
+        "reproduction_rights": "所蔵館のTerms of Use Bは、Public-domain Contentのダウンロードと利用を制限なく認めています。一般の館コンテンツの非商用条件とは区別します。",
+        "commercial_use": "所蔵館のPublic Domain指定とTerms of Use Bに基づき掲載。"
       },
       {
         "id": "tropon-vam",
@@ -21392,16 +21419,114 @@
         }
       }
     ],
-    "adopted_images": [],
-    "image_count_acquired": 0,
+    "adopted_images": [
+      {
+        "id": "slam-behrens-kiss-360-1991",
+        "entry": "Jugendstil",
+        "author": "ペーター・ベーレンス",
+        "title": "接吻（The Kiss）",
+        "year": "1898年",
+        "local_file": "assets/slam-behrens-kiss-360-1991.jpg",
+        "width": 3570,
+        "height": 5450,
+        "bytes": 5600045,
+        "sha256": "2092f152d8e2cf63fef0166514308e6b163cb029e550f7ab8313947ca4bf05fe",
+        "original_bytes_unchanged": true,
+        "status": "adopted_local_image",
+        "license": "Public Domain（所蔵館の個別指定。CC0とは異なります）",
+        "license_url": "https://www.slam.org/public-domain-and-open-access/",
+        "source_page": "https://www.slam.org/collection/objects/23271/",
+        "work_source_page": "https://www.slam.org/collection/objects/23271/",
+        "original_image": {
+          "url": "https://d23gjylftzdlen.cloudfront.net/db_photo/d9397/u17493973/3601991dig_1_o2.jpg"
+        },
+        "credit": "Peter Behrens, The Kiss, 1898. Saint Louis Art Museum, Museum Shop Fund, 360:1991. Public Domain.",
+        "underlying_work_rights": "原作品は1898年の多色木版。作者は1940年没。所蔵館はこの作品をPublic Domainと表示しています。",
+        "reproduction_rights": "所蔵館のTerms of Use Bは、Public-domain Contentのダウンロードと利用を制限なく認めています。一般の館コンテンツの非商用条件とは区別します。",
+        "territory_note": "米国の1898年公表作品としての期間と、作者の没後年を確認。各国の権利・著作者人格権まで一括して保証するものではありません。",
+        "reuse_notice": "美術館の推奨や関与を示す掲載ではありません。出典リンクは美術館の外部サイトを開きます。",
+        "image_processing": "原JPEGのバイトを保持。表示用WebPだけ等比縮小。切り抜き、色補正、描き足しはしていません。",
+        "rights_reviewed": true,
+        "original_rights_reviewed": true,
+        "reproduction_rights_reviewed": true,
+        "commercial_use_confirmed": true,
+        "pixels_inspected": true,
+        "display_verified": false,
+        "checked_at": "2026-11-05",
+        "alt": "淡い紙の余白の中に、口づけする二人の横顔。茶と黄土色の長い髪が曲線の帯になり、緑色の背景を囲む。下の余白に鉛筆の署名がある。",
+        "visual_notes": [
+          {
+            "title": "髪が、画面をつなぐ線になる。",
+            "text": "左右の髪は顔のまわりを流れ、上と下でからみ合っています。髪を一本ずつ描くのではなく、曲がる帯のようにまとめています。"
+          },
+          {
+            "title": "影よりも、輪郭と色の面。",
+            "text": "二人の明るい横顔を、濃い輪郭線が区切ります。茶色や黄土色の髪と緑の背景は、大きな色の面として並んでいます。"
+          },
+          {
+            "title": "絵の外側にも、版画の手がかり。",
+            "text": "紙の余白を含む全体を掲載しています。絵の下には鉛筆の署名が見えます。図柄だけでなく、紙に刷られた一枚として見てみましょう。"
+          }
+        ],
+        "presentation": {
+          "anchor": "slam-behrens-kiss-360-1991",
+          "scope_note": "セントルイス美術館所蔵360:1991。多色木版。館記載寸法26.7×21.6cm。掲載画像は紙の余白を含みます。既存参照のネルソン＝アトキンス美術館F86-16とは別の所蔵個体です。"
+        },
+        "display_derivatives": {
+          "method": "表示用画像は縦横比を保って縮小したWebP。原JPEGは無加工で保持しています。",
+          "original_unchanged": true,
+          "variants": [
+            {
+              "local_file": "assets/slam-behrens-kiss-360-1991-720.webp",
+              "width": 720,
+              "height": 1099,
+              "bytes": 78204,
+              "sha256": "a4576d97d84244f6ced35bf7a9ee403b0f4ab5abb7aa6abf4f59b70b79015946",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/slam-behrens-kiss-360-1991-1200.webp",
+              "width": 1200,
+              "height": 1832,
+              "bytes": 279738,
+              "sha256": "7dd2fe4e7efc4c1f7837ea3fb5c1b92d12b08e8836cfaad2d121548321fd5b8a",
+              "format": "image/webp"
+            },
+            {
+              "local_file": "assets/slam-behrens-kiss-360-1991-1800.webp",
+              "width": 1800,
+              "height": 2748,
+              "bytes": 746718,
+              "sha256": "a36961c0bd64349fe352ec378aa6b23eba4ff598419f912387e6152925348b17",
+              "format": "image/webp"
+            }
+          ]
+        },
+        "rights_evidence_sources": [
+          {
+            "role": "individual work and Public Domain designation",
+            "url": "https://www.slam.org/collection/objects/23271/"
+          },
+          {
+            "role": "public-domain digital assets policy",
+            "url": "https://www.slam.org/public-domain-and-open-access/"
+          },
+          {
+            "role": "Terms B: unrestricted use of Public-domain Content",
+            "url": "https://www.slam.org/terms-of-use/"
+          }
+        ]
+      }
+    ],
+    "image_count_acquired": 1,
     "reference_images": [],
     "reference_image_count": 0,
     "representative_count": 3,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "本文公開・実作品画像1点／代表作3〜5点の画像の収録は継続中",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-05",
     "period_bands": [
       "1800-1899",
       "1900-1949"
