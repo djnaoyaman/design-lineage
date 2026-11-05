@@ -16,7 +16,9 @@ fs.mkdirSync(out,{recursive:true});
   for(const detail of await page.locator('main details').all())await detail.evaluate(e=>e.open=true);
   for(const zoom of [1,2]){
    await page.evaluate(z=>document.documentElement.style.zoom=String(z),zoom);
-   const geometry=await page.evaluate(()=>({viewport:innerWidth,width:document.documentElement.scrollWidth}));
+   const geometry=await page.evaluate(()=>({viewport:innerWidth,width:document.documentElement.scrollWidth,overflow:[...document.querySelectorAll('body *')].map(e=>({tag:e.tagName,cls:e.className,left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right})).filter(e=>e.left< -1||e.right>innerWidth+1)}));
+   fs.writeFileSync(`${out}/geometry-${width}-${zoom}x.json`,JSON.stringify(geometry,null,2));
+   if(geometry.width>geometry.viewport+1)await page.screenshot({path:`${out}/overflow-${width}-${zoom}x.png`,fullPage:true});
    assert(geometry.width<=geometry.viewport+1,`No overflow at ${width}px / ${zoom}x: ${JSON.stringify(geometry)}`);
   }
   await page.evaluate(()=>document.documentElement.style.zoom='1');

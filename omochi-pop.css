@@ -1,4 +1,5 @@
 /* The editor's original style is separate from the historical catalog. */
+.omochi-document header .brand,.omochi-document footer .footer-brand{min-width:0;max-width:100%}.omochi-document header .brand img,.omochi-document footer .footer-brand img{max-width:100%;height:auto}.omochi-document header nav{min-width:0}
 .omochi-page{--ink:#202121;--pink:#f1a7ba;--yellow:#f4d65a;--mint:#92cbb9;max-width:1280px;margin:auto;padding:38px clamp(18px,4vw,48px) 72px;line-height:1.85;overflow-wrap:anywhere}
 .omochi-page>.omochi-section{padding-inline:0}
 .omochi-page *{box-sizing:border-box}.omochi-page p{max-width:70ch}.omochi-page h2{font-size:clamp(25px,4vw,44px);line-height:1.35;letter-spacing:.015em}.omochi-page h3{line-height:1.5}.omochi-page a{color:inherit;text-underline-offset:.2em}.omochi-page a:focus-visible,.omochi-page summary:focus-visible{outline:3px solid #225e86;outline-offset:5px}.omochi-page .eyebrow{font-size:12px;letter-spacing:.1em}
