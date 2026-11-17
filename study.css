@@ -36,3 +36,9 @@
 
 /* Readable vocabulary definitions in newly rendered study articles. */
 #article-glossary{font-size:16px}#article-glossary dd{font-size:1rem;line-height:1.9}
+
+/* Artwork notes follow their own available width and number of observations. */
+.collected-art figcaption{max-width:76ch;min-width:0;overflow-wrap:anywhere}
+.collected-art .art-observations{grid-template-columns:repeat(auto-fit,minmax(min(100%,15rem),1fr))}
+.collected-art .art-observations h3{line-height:1.65}
+.study-title h1:has(ruby){line-height:1.6}
