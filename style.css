@@ -13,6 +13,20 @@
 /* Responsive QA: centered small-screen identity and unbroken navigation labels. */
 header nav{flex-wrap:wrap;align-items:center;justify-content:center}header nav a{white-space:nowrap;min-height:44px;display:inline-flex;align-items:center}
 @media(max-width:900px){header{display:grid;grid-template-columns:1fr;justify-items:center;gap:18px;padding:26px 6vw 18px}.brand{text-align:center}.brand img{width:180px;max-width:100%;height:auto}header nav{width:100%;gap:6px 20px;font-size:14px;line-height:1.5}header .edition{display:none}}
+@media(max-width:420px){
+  header nav:has(> a:nth-child(4):last-child){
+    display:grid;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:4px 10px;
+    max-width:24rem;
+  }
+  header nav:has(> a:nth-child(4):last-child) > a{
+    justify-content:center;
+    text-align:center;
+    white-space:normal;
+    overflow-wrap:anywhere;
+  }
+}
 .preview-note .progress-summary{margin:0;font-size:14px;line-height:1.8}.preview-note details{grid-column:2;font-size:12px;line-height:1.9}.preview-note details summary{cursor:pointer;padding:8px 0;min-height:44px}.preview-note details p{margin:8px 0 0;max-width:100%}
 @media(max-width:650px){.preview-note details{grid-column:1}.preview-note .progress-summary{font-size:13px}.preview-note{gap:8px}.preview-note details p{font-size:12px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important}}
