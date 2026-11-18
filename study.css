@@ -42,3 +42,10 @@
 .collected-art .art-observations{grid-template-columns:repeat(auto-fit,minmax(min(100%,15rem),1fr))}
 .collected-art .art-observations h3{line-height:1.65}
 .study-title h1:has(ruby){line-height:1.6}
+
+/* Keep a set of three artwork notes together when the caption has room. */
+.collected-art figcaption{container-type:inline-size}
+.collected-art .art-observations:has(> article:nth-child(3):last-child){grid-template-columns:minmax(0,1fr)}
+@container (min-width:40rem){
+  .collected-art .art-observations:has(> article:nth-child(3):last-child){grid-template-columns:repeat(3,minmax(0,1fr))}
+}
