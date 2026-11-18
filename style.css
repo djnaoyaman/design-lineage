@@ -73,3 +73,13 @@ main.study .study-title h1{margin:.5rem 0 1rem}
 
 /* The supplied transparent logo is black; reverse only on the dark footer. */
 footer .footer-brand img{filter:invert(1)}
+
+/* Leave room for closing punctuation at the end of Japanese titles. */
+main .collected-art figcaption h2,
+main .representative .work-byline,
+main .timeline-card h3,
+main .catalog .entry h3{
+  padding-inline-end:1em;
+  line-break:strict;
+  overflow-wrap:anywhere;
+}
