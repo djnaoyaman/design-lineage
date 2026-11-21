@@ -105,6 +105,11 @@ function draw() {
 }
 
 toggle.addEventListener('click', () => toggle.setAttribute('aria-pressed', String(visual.toggleAttribute('data-marked'))));
+// Leave the static example readable without JavaScript. On deep links, wait for the requested pair.
+visual.style.visibility = 'hidden';
+visual.setAttribute('aria-busy', 'true');
+selectA.disabled = selectB.disabled = true;
+$('#compare-status').textContent = '比較する項目を読み込んでいます。';
 fetch('entries.json').then(response => {
   if (!response.ok) throw new Error('entries');
   return response.json();
@@ -118,7 +123,12 @@ fetch('entries.json').then(response => {
   selectA.value = studies.has(query.get('a')) ? query.get('a') : 'bauhaus';
   selectB.value = query.get('b') === '' ? '' : (studies.has(query.get('b')) ? query.get('b') : suggestedPartner(studies.get(selectA.value)));
   draw();
+  selectA.disabled = selectB.disabled = false;
+  visual.style.removeProperty('visibility');
+  visual.removeAttribute('aria-busy');
   for (const select of [selectA, selectB]) select.addEventListener('change', draw);
 }).catch(() => {
+  visual.hidden = true;
+  visual.removeAttribute('aria-busy');
   $('#compare-status').textContent = '比較データを読み込めませんでした。再読み込みしてください。';
 });
