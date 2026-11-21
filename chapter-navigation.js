@@ -4,6 +4,14 @@
   const nav = document.querySelector('.chapter-navigation');
   const main = document.querySelector('main');
   if (!nav || !main) return;
+  const comparison = document.querySelector('header a[href*="compare.html?a="]');
+  if (comparison) {
+    const link = document.createElement('a');
+    link.className = 'chapter-reading-link';
+    link.href = comparison.href;
+    link.textContent = 'この項目を別の項目と見比べる';
+    nav.before(link);
+  }
   const ignored = 'a,button,input,textarea,select,label,summary,details,figure,img,picture,video,audio,iframe,canvas,svg,dialog,[role="dialog"],[role="slider"],[role="tablist"],[role="button"],[role="link"],[contenteditable]:not([contenteditable="false"]),[data-no-chapter-swipe],.gallery,.carousel,[aria-roledescription="carousel"]';
   const selected = () => Boolean(window.getSelection()?.toString());
   const blocked = target => !(target instanceof Element) || Boolean(target.closest(ignored)) || Boolean(document.querySelector('dialog[open],[role="dialog"][aria-modal="true"]'));

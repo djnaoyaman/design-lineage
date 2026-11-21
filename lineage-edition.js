@@ -1,12 +1,3 @@
-const comparisonToggle = document.querySelector('.edition-compare-toggle');
-if (comparisonToggle) {
-  comparisonToggle.hidden = false;
-  comparisonToggle.addEventListener('click', () => {
-    const marked = comparisonToggle.closest('.edition-comparison').toggleAttribute('data-marked');
-    comparisonToggle.setAttribute('aria-pressed', String(marked));
-  });
-}
-
 if ('IntersectionObserver' in window && matchMedia('(prefers-reduced-motion: no-preference)').matches) {
   const reveal = new IntersectionObserver(entries => {
     for (const entry of entries) {

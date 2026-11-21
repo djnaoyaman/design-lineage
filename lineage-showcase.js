@@ -56,6 +56,9 @@
       [caption.querySelector('span').textContent, caption.querySelector('time').textContent].join(' / ');
     viewer.querySelector('[data-viewer-credit]').textContent = work.dataset.credit || '';
     viewer.querySelector('[data-viewer-source]').href = work.href;
+    const compareURL = new URL('compare.html', document.baseURI);
+    compareURL.searchParams.set('a', new URL(work.href).pathname.split('/').pop().replace(/\.html$/, ''));
+    viewer.querySelector('[data-viewer-compare]').href = compareURL;
     viewer.querySelector('[data-viewer-position]').textContent = `${current + 1} / ${works.length}`;
 
     viewerImage.decode().then(() => {
