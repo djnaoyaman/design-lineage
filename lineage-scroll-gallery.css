@@ -38,6 +38,8 @@
     padding: 0 4vw 22px;
   }
   .lineage-home .showcase-side h2 { justify-self: start; font-size: 1.18rem; letter-spacing: -.035em; }
+  .lineage-home .showcase-total { grid-column: 1; grid-row: 2; }
+  .lineage-home .showcase-switch { grid-column: 2; grid-row: 1 / span 2; }
   .lineage-home .showcase-switch button { min-height: 44px; }
   .lineage-home .showcase-compare { justify-self: start; }
   .showcase[data-mode="text"][data-scroll-ready] .showcase-body { display: grid; grid-template-columns: minmax(0, 1fr); align-items: start; }
@@ -120,16 +122,52 @@
     display: block;
     position: fixed;
     bottom: max(13px, env(safe-area-inset-bottom));
-    left: 6vw;
-    width: max-content;
-    max-width: 88vw;
+    left: 9vw;
+    width: 88px;
     z-index: 8;
     color: var(--paper);
-    background: var(--accent);
   }
-  .lineage-mobile-menu summary { padding: 9px 17px; cursor: pointer; font-weight: 600; font-size: .8rem; }
-  .lineage-mobile-menu nav { display: grid; padding: 0 18px 14px; font-size: .85rem; }
-  .lineage-mobile-menu nav a { min-height: 38px; display: flex; align-items: center; }
+  .lineage-mobile-menu > summary {
+    display: flex;
+    min-height: 44px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 0 12px;
+    list-style: none;
+    cursor: pointer;
+    background: var(--accent);
+    font-size: .8rem;
+    font-weight: 600;
+    line-height: 1.25;
+  }
+  .lineage-mobile-menu > summary::-webkit-details-marker { display: none; }
+  .lineage-mobile-menu > summary i {
+    display: block;
+    width: 6px;
+    height: 6px;
+    border-top: 1.5px solid currentColor;
+    border-right: 1.5px solid currentColor;
+    transform: translateY(1px) rotate(-45deg);
+  }
+  .lineage-mobile-menu[open] > summary i { transform: translateY(-1px) rotate(135deg); }
+  .lineage-mobile-menu:not([open]) > nav { display: none; }
+  .lineage-mobile-menu > nav {
+    position: absolute;
+    inset-inline-start: 0;
+    inset-block-end: calc(100% + 6px);
+    display: grid;
+    width: max-content;
+    max-width: 82vw;
+    padding: 4px 16px;
+    background: var(--accent);
+    font-size: .85rem;
+  }
+  .lineage-mobile-menu > nav a {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
   .lineage-home footer { padding-bottom: 85px; }
 
   @media (prefers-reduced-motion: no-preference) {
