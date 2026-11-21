@@ -2,7 +2,6 @@
   const section = document.querySelector('.showcase[data-mode]');
   if (!section) return;
 
-  const mobile = matchMedia('(max-width: 760px)');
   const motion = matchMedia('(prefers-reduced-motion: no-preference)');
   const gallery = section.querySelector('.showcase-grid');
   const stage = section.querySelector('.scroll-gallery-stage');
@@ -53,7 +52,7 @@
 
   function readScroll() {
     scheduled = 0;
-    if (!mobile.matches || section.dataset.mode !== 'text') {
+    if (section.dataset.mode !== 'text') {
       section.removeAttribute('data-stage-visible');
       return;
     }
