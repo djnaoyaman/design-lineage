@@ -26,6 +26,7 @@ main > .intro .hero-bottom { margin-block: 0; }
 }
 .showcase-side p { margin: 0 0 10px; font-size: .78rem; }
 .showcase-side h2 { margin: 0 0 22px; font-size: clamp(20px, 2.3vw, 38px); font-weight: 600; line-height: .98; letter-spacing: -.045em; }
+.showcase-total { display: block; font-size: .73rem; color: var(--muted); margin-bottom: 8px; }
 .showcase-switch { margin-bottom: 16px; display: flex; gap: 10px; }
 .showcase-switch[hidden] { display: none; }
 .showcase-switch button, .showcase-viewer button {
@@ -89,6 +90,8 @@ main > .intro .hero-bottom { margin-block: 0; }
 .showcase-viewer-stage img { display: block; width: auto; height: auto; max-width: 100%; max-height: 100%; object-fit: contain; }
 .showcase-viewer-meta h2 { margin: 0; font-size: clamp(18px, 3vw, 36px); line-height: 1.12; }
 .showcase-viewer-meta p { margin: 4px 0; color: #c7c9ce; font-size: .85rem; }
+.showcase-viewer-meta .showcase-viewer-credit { font-size: .74rem; }
+.showcase-viewer-credit:empty { display: none; }
 .showcase-viewer-meta a { font-size: .85rem; }
 .showcase-viewer-controls { display: flex; align-items: center; gap: 6px; white-space: nowrap; }
 body:has(.showcase-viewer[open]) { overflow: hidden; }
