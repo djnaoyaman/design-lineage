@@ -1,8 +1,8 @@
 {
-  "release": "representative-plates-02",
+  "release": "representative-plates-03",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T07:33:00+09:00",
+  "frozen_at": "2026-11-22T07:37:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5162,
-      "sha256": "a392806bb124622a6e464a504ff052ddb573cd1f7d0332ce8c27ef8d60434858"
+      "sha256": "2f78bf8610af450d65ca44a16c86d665dfb97c837e75c5ee15929bce31810d5b"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 493943,
-      "sha256": "fadd3181b1283a35313f8392bdf5b3ac964965f4cb3f8fe6dcea0e9b728cdb9d"
+      "bytes": 501908,
+      "sha256": "57ebb6d7c53c0297c0c373f5edc3c762b3c30342c094313513523418934c3730"
     },
     {
       "path": "analytics-status.json",
@@ -1217,6 +1217,46 @@
       "sha256": "1717ce260575310213ccdeda28aa8656daa69b5abe362791f39bfcf4f169527e"
     },
     {
+      "path": "assets/mingei/joseon-floral-jar-660.webp",
+      "bytes": 10146,
+      "sha256": "dd868029bbaee62c1c10f5d26c854122069f828864b0e958abdbdda717d6092d"
+    },
+    {
+      "path": "assets/mingei/joseon-floral-jar.webp",
+      "bytes": 36010,
+      "sha256": "0d2cb6be6398f311c89318c45c4a1cd464a6933e439193cac9615bcce32c0de4"
+    },
+    {
+      "path": "assets/mingei/joseon-moon-jar-660.webp",
+      "bytes": 5048,
+      "sha256": "115a41e12a97c92340ef94230f13d532e234770f8d682f0cb64f1b8fb3bd796b"
+    },
+    {
+      "path": "assets/mingei/joseon-moon-jar.webp",
+      "bytes": 17264,
+      "sha256": "3fc5b2e6414a9ebd0c1557a39fd6fc7b5e1a997d1f543230e8179c36a74bbfa6"
+    },
+    {
+      "path": "assets/mingei/otsue-hotei-660.webp",
+      "bytes": 49448,
+      "sha256": "d8cb679345609263d2a8add82193d1083af1fcf05e50629e8cd8ac02e690642b"
+    },
+    {
+      "path": "assets/mingei/otsue-hotei.webp",
+      "bytes": 212006,
+      "sha256": "c5e267c44c6b130852ce08ee5fd1221300d13585c04ebb2d708531b90c27189c"
+    },
+    {
+      "path": "assets/mingei/otsue-shomen-660.webp",
+      "bytes": 20842,
+      "sha256": "e67f825205c8bf95a59ab826da8460b17dec2491af0835bd2a47d73bed129256"
+    },
+    {
+      "path": "assets/mingei/otsue-shomen.webp",
+      "bytes": 95898,
+      "sha256": "c8922ea8430c0f127ece35380b06d65dc05271206d5ee4f824d2b1404f5d6c45"
+    },
+    {
       "path": "assets/moser-13th-secession-1902-1200.webp",
       "bytes": 705206,
       "sha256": "5399abfaaee9b87096f6dbe13066990a0ef18569c04a0980019545b253ed8f5d"
@@ -2068,8 +2108,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2096049,
-      "sha256": "94bae8443a4d630b25c38b90f8e1ceb746c50f3fc22cc71c97ae0959bcfff3b7"
+      "bytes": 2108059,
+      "sha256": "c75bb32148d1428b6e4ab39ff3ee304f04dc730488c4b9c7c7790f7af38d8cef"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -2283,8 +2323,8 @@
     },
     {
       "path": "entries/mingei.html",
-      "bytes": 28762,
-      "sha256": "d1960b0fe3f41d3d353c99c4ac6f0518b801945085f946bc3105097be79636d1"
+      "bytes": 40060,
+      "sha256": "89d6a9e38f280d39265b6c0f82fa6b416f661d0cff67f96b675dfd2020fbd499"
     },
     {
       "path": "entries/mono-ha.html",
@@ -2558,8 +2598,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 60993,
-      "sha256": "2de812952402a12806a0fae4b393c628e02e8920fe5f41cacbd4c1c8d1b6eace"
+      "bytes": 61602,
+      "sha256": "16b0860ae3215fefc3a9944191caceec0255fbd6dbc6c76ff911ac51af6624a3"
     },
     {
       "path": "japanese-name-sources.json",
@@ -2684,7 +2724,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "c59745f8df2c71bc557a2796121248905230338ab0bca5abb534b90427b74621"
+      "sha256": "01623337e65316dd45a5bc8da5189508373cf50cbd44320678a2cd6372184a1f"
     },
     {
       "path": "site.webmanifest",
@@ -2734,7 +2774,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "c472947b820843b28d41fde74c0a1a8b4b90144680c93d0dd5bfcecfa4ba66e4"
+      "sha256": "49092c7e4e87b8ff4ad31d9e55c6d58765f34f4f5c37e680ddfeb3ae88965d1d"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -2744,7 +2784,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "ed7d4999722ba60aa89b3291f90544ac759c6d5fba117d9c47b3a53aa1ca4ea2"
+      "sha256": "e387c67c18863c13264b4fc66462b5a1628beb2face7a3a0482ca78da7c7620c"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -2803,8 +2843,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 151457,
-      "sha256": "09e7589eed911581f61525ea84d82ad9bb6f465f201004a28367d77793ccb159"
+      "bytes": 152537,
+      "sha256": "8ac4584695f75a17ed76480cc4bdb57c86165996ac7eeed1d3d6a27316a37d31"
     }
   ]
 }

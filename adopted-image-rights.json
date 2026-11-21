@@ -8372,6 +8372,163 @@
           }
         ]
       }
+    },
+    {
+      "id": "otsue-shomen",
+      "entry": "民藝運動",
+      "title": "青面金剛夜叉図大津絵",
+      "title_original": "Ōtsu-e of Shōmen Kongōyasha (Vajrayaksha)",
+      "year": "16世紀末〜17世紀初頭頃",
+      "author": "作者不詳",
+      "institution": "メトロポリタン美術館",
+      "medium": "紙本着色・掛幅",
+      "source_page": "https://www.metmuseum.org/art/collection/search/36110",
+      "work_source_page": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/36110/1298724/main-image",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "The Metropolitan Museum of Art, Open Access（CC0）",
+      "local_file": "assets/mingei/otsue-shomen.webp",
+      "width": 440,
+      "height": 1200,
+      "alt": "青い身体をもつ青面金剛を中心に、護法の夜叉などが描かれた縦長の掛幅。",
+      "viewing_point": "街道を行く人々に親しまれた大津絵の初期例。青い身体をもつ青面金剛を中央に置き、庚申待ちで礼拝する像を明快な構図で伝えています。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "街道を行く人々に親しまれた大津絵の初期例。青い身体をもつ青面金剛を中央に置き、庚申待ちで礼拝する像を明快な構図で伝えています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T07:37:00+09:00",
+      "sha256": "c8922ea8430c0f127ece35380b06d65dc05271206d5ee4f824d2b1404f5d6c45",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/mingei/otsue-shomen-660.webp",
+            "width": 242,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "otsue-hotei",
+      "entry": "民藝運動",
+      "title": "布袋市右衛門を演じる歌舞伎役者の大津絵",
+      "title_original": "Ōtsu-e of Kabuki Actor Playing the Outlaw Hotei Ichiemon, of the “Karigane Five”",
+      "year": "18世紀初頭",
+      "author": "作者不詳",
+      "institution": "メトロポリタン美術館",
+      "medium": "紙本手彩色木版・掛幅",
+      "source_page": "https://www.metmuseum.org/art/collection/search/36115",
+      "work_source_page": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/36115/2280569/main-image",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "The Metropolitan Museum of Art, Open Access（CC0）",
+      "local_file": "assets/mingei/otsue-hotei.webp",
+      "width": 599,
+      "height": 1200,
+      "alt": "歌舞伎役者を描いた大津絵が縦長の掛幅に表装されている。",
+      "viewing_point": "所蔵館は、柳宗悦が表装を、濱田庄司が軸先を手がけたことを裏書から確認しています。江戸の大津絵を、民藝運動の担い手がどう受け継いだかを示す一幅です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "所蔵館は、柳宗悦が表装を、濱田庄司が軸先を手がけたことを裏書から確認しています。江戸の大津絵を、民藝運動の担い手がどう受け継いだかを示す一幅です。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T07:37:00+09:00",
+      "sha256": "c5e267c44c6b130852ce08ee5fd1221300d13585c04ebb2d708531b90c27189c",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/mingei/otsue-hotei-660.webp",
+            "width": 329,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "joseon-moon-jar",
+      "entry": "民藝運動",
+      "title": "白磁の月壺",
+      "title_original": "Moon jar",
+      "year": "18世紀後半",
+      "author": "作者不詳",
+      "institution": "メトロポリタン美術館",
+      "medium": "白磁",
+      "source_page": "https://www.metmuseum.org/art/collection/search/45432",
+      "work_source_page": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45432/176317/main-image",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "The Metropolitan Museum of Art, Open Access（CC0）",
+      "local_file": "assets/mingei/joseon-moon-jar.webp",
+      "width": 900,
+      "height": 1200,
+      "alt": "白い釉薬にほんのり色むらがあり、胴が月のように大きく丸い壺。",
+      "viewing_point": "所蔵館の韓国美術展で取り上げられ、李禹煥も館の映像で語った白磁。轆轤で成形した上下を接いで焼いた、わずかに非対称な丸みを見られます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "所蔵館の韓国美術展で取り上げられ、李禹煥も館の映像で語った白磁。轆轤で成形した上下を接いで焼いた、わずかに非対称な丸みを見られます。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T07:37:00+09:00",
+      "sha256": "3fc5b2e6414a9ebd0c1557a39fd6fc7b5e1a997d1f543230e8179c36a74bbfa6",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/mingei/joseon-moon-jar-660.webp",
+            "width": 495,
+            "height": 660
+          }
+        ]
+      },
+      "selection_evidence": "https://www.metmuseum.org/ja/perspectives/the-artist-project-lee-ufan"
+    },
+    {
+      "id": "joseon-floral-jar",
+      "entry": "民藝運動",
+      "title": "花文と銘のある青花壺",
+      "title_original": "Jar with floral roundels and inscriptions",
+      "year": "19世紀",
+      "author": "作者不詳",
+      "institution": "メトロポリタン美術館",
+      "medium": "染付磁器",
+      "source_page": "https://www.metmuseum.org/art/collection/search/851662",
+      "work_source_page": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/851662/2027253/main-image",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "The Metropolitan Museum of Art, Open Access（CC0）",
+      "local_file": "assets/mingei/joseon-floral-jar.webp",
+      "width": 900,
+      "height": 1200,
+      "alt": "丸い胴の白地に、藍色の花文と文字が描かれた壺。",
+      "viewing_point": "所蔵館は島岡達三が収集したと伝わる来歴を記し、この種の壺が民藝の美学に影響したと解説しています。月壺と見比べると、丸い胴の作りと藍の文様の違いが見えてきます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "所蔵館は島岡達三が収集したと伝わる来歴を記し、この種の壺が民藝の美学に影響したと解説しています。月壺と見比べると、丸い胴の作りと藍の文様の違いが見えてきます。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T07:37:00+09:00",
+      "sha256": "0d2cb6be6398f311c89318c45c4a1cd464a6933e439193cac9615bcce32c0de4",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/mingei/joseon-floral-jar-660.webp",
+            "width": 495,
+            "height": 660
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
