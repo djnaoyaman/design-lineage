@@ -15,7 +15,7 @@ if ('IntersectionObserver' in window && matchMedia('(prefers-reduced-motion: no-
       reveal.unobserve(entry.target);
     }
   }, {threshold: .18});
-  document.querySelectorAll('.edition-rule, .edition-feature, .editor-original-feature').forEach(element => reveal.observe(element));
+  document.querySelectorAll('.editor-original-feature').forEach(element => reveal.observe(element));
 }
 
 window.addEventListener('pageswap', event => {
@@ -26,12 +26,8 @@ window.addEventListener('pageswap', event => {
   if (!thumbnail?.complete || !thumbnail.naturalWidth || !thumbnail.getClientRects().length) return;
   const {top, bottom} = thumbnail.getBoundingClientRect();
   if (bottom <= 0 || top >= innerHeight) return;
-  const feature = document.querySelector(`.edition-feature .edition-${slug}`);
-  if (!feature) return;
-  feature.style.viewTransitionName = 'none';
   thumbnail.style.viewTransitionName = `edition-${slug}`;
   const reset = () => {
-    feature.style.removeProperty('view-transition-name');
     thumbnail.style.removeProperty('view-transition-name');
   };
   event.viewTransition.finished.then(reset, reset);
