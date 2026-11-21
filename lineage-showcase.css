@@ -38,7 +38,7 @@ main > .intro .hero-bottom { margin-block: 0; }
 }
 .showcase-switch button { min-height: 36px; font-size: .85rem; color: var(--muted); }
 .showcase-switch button[aria-pressed="true"] { color: var(--accent); text-decoration: underline; text-underline-offset: 5px; }
-.showcase-compare { font-size: .75rem; }
+.showcase-compare { display: block; width: fit-content; margin-block: 6px; font-size: .75rem; }
 .showcase-body { position: relative; min-width: 0; }
 .showcase-grid {
   display: grid;
@@ -64,8 +64,6 @@ main > .intro .hero-bottom { margin-block: 0; }
 .showcase[data-mode="text"] .showcase-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .showcase[data-mode="text"] .showcase-card { grid-column: auto; position: relative; z-index: 1; }
 .showcase[data-mode="text"] figure { display: none; }
-.showcase-peek { position: fixed; z-index: 4; top: 0; left: 0; pointer-events: none; }
-.showcase-peek img { display: block; width: auto; max-width: min(28vw, 370px); height: auto; max-height: 31vh; background: var(--paper); }
 .showcase-viewer {
   position: fixed;
   inset: 0;
@@ -112,7 +110,6 @@ body:has(.showcase-viewer[open]) { overflow: hidden; }
 @media (prefers-reduced-motion: no-preference) {
   .showcase-work img { transition: scale .38s cubic-bezier(.22,1,.36,1); }
   .showcase-work:hover img { scale: 1.035; }
-  .showcase-peek { transition: transform .22s cubic-bezier(.2,.75,.3,1); }
   .showcase-card.showcase-arriving figure { animation: showcase-in .64s cubic-bezier(.22,1,.36,1) both; }
   @keyframes showcase-in { from { opacity: .35; clip-path: inset(0 0 45%); translate: 0 15px; } to { opacity: 1; clip-path: inset(0); translate: 0; } }
 }
