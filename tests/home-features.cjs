@@ -2,7 +2,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=r
 (async()=>{let browser;const results=[];fs.mkdirSync('qa-artifacts',{recursive:true});try{browser=await chromium.launch(process.env.CHROMIUM_PATH?{executablePath:process.env.CHROMIUM_PATH}:undefined);
 for(const width of [320,390,768,1280]){const p=await browser.newPage({viewport:{width,height:900}});await p.goto('http://127.0.0.1:8793/index.html');await p.evaluate(()=>document.fonts.ready);
 await p.locator('.hero-bottom .round-link[href="#catalog"]').click();
-await p.waitForFunction(()=>location.hash==='#catalog'&&document.querySelectorAll('#items .entry > a[href^="entries/"]').length===89);
+await p.waitForFunction(()=>location.hash==='#catalog'&&document.querySelectorAll('#items .entry > a[href^="entries/"]').length===90);
 assert.equal(await p.locator('details.home-feature-banner').count(),2);assert.equal(await p.locator('details.home-feature-banner[open]').count(),0);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));results.push({width,catalogLink:true});
 const summary=p.locator('#bauhaus-feature>summary');await summary.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await p.screenshot({path:`qa-artifacts/home-banners-${width}.png`});await summary.focus();await p.keyboard.press('Enter');assert(await p.locator('#bauhaus-feature').getAttribute('open')!==null);assert(await p.locator('#visual-guide-title').isVisible());await p.screenshot({path:`qa-artifacts/home-feature-open-${width}.png`});await p.keyboard.press('Space');assert.equal(await p.locator('#bauhaus-feature').getAttribute('open'),null);assert(await summary.evaluate(e=>e===document.activeElement),'Keyboard toggle retains focus');
 const ax=await summary.ariaSnapshot();assert(ax.includes('バウハウス')&&ax.includes('開く'),'Native summary has meaningful accessible name');results.at(-1).summaryAccessibility=ax;
@@ -52,7 +52,7 @@ for (const width of [390, 1280]) {
   const page = await browser.newPage({viewport:{width,height:900}});
   await page.goto('http://127.0.0.1:8793/index.html#selected-works');
   await page.locator('.showcase[data-mode="text"][data-scroll-ready]').waitFor();
-  assert.equal(await page.locator('.showcase-work').count(),36);
+  assert.equal(await page.locator('.showcase-work').count(),37);
   const stage = page.locator('.scroll-gallery-stage');
   const rows = page.locator('.showcase-card');
   const titles = [];

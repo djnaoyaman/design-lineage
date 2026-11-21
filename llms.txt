@@ -3,12 +3,13 @@
 > デザインの歴史を、作品と一次資料からたどる日本語の図鑑。
 
 ## このサイトについて
-- 一覧89項目すべての本文と出典を公開。実作品画像の収録や記述の確認は継続中で、図録全体の完成を意味しません。
+- 一覧90項目すべての本文と出典を公開。実作品画像の収録や記述の確認は継続中で、図録全体の完成を意味しません。
 - 歴史的な運動・様式・学校・技法・現代トレンド・人物を区別します。
 - 掲載画像の出典と利用条件は個別記録を参照してください。サイト全体への一括利用許諾はありません。
 - AAGAの試作は実在する作品の写真とは区別します。
 
 ## 公開ページ
+- [ラファエル前派と装飾芸術](https://djnaoyaman.github.io/design-lineage/entries/pre-raphaelites.html)　57点の作品図録。絵画・家具・ステンドグラス・書物を見比べる。
 - [トップ](https://djnaoyaman.github.io/design-lineage/)
 - [年代から見る](https://djnaoyaman.github.io/design-lineage/timeline.html)
 - [項目を比べる](https://djnaoyaman.github.io/design-lineage/compare.html)

@@ -5987,6 +5987,2078 @@
         ]
       },
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kresge_Auditorium%2C_MIT_%28view_with_Green_Building%29.JPG"
+    },
+    {
+      "id": "prb-met-195456",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "バックギャモンをする二人のキャビネット",
+      "title_original": "The Backgammon Players",
+      "year": "1861年",
+      "author": "フィリップ・ウェッブ（家具設計）、エドワード・バーン＝ジョーンズ（絵）、モリス・マーシャル・フォークナー商会（制作）",
+      "institution": "メトロポリタン美術館",
+      "medium": "松材に彩色、革に油彩、真鍮、銅",
+      "source_page": "https://www.metmuseum.org/art/collection/search/195456",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/195456",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "The Backgammon Players. The Metropolitan Museum of Art, Rogers Fund, 1926, 26.54. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-195456.webp",
+      "width": 926,
+      "height": 1200,
+      "alt": "細長い脚で持ち上げたキャビネット。上部に、卓を挟んで座る二人を描いた扉がある。",
+      "viewing_point": "正面を大きく占める絵には、ゲーム盤を挟む二人が向かい合う。視線を下に移すと脚の間が大きく開く。革に描いた物語と、部屋の中で立つ家具の軽さを一緒に味わいたい。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "正面を大きく占める絵には、ゲーム盤を挟む二人が向かい合う。視線を下に移すと脚の間が大きく開く。革に描いた物語と、部屋の中で立つ家具の軽さを一緒に味わいたい。"
+        }
+      ],
+      "sha256": "3df11ec3340d1a773fdad726ea89a51d32c5bda39891b6ccb3386a55e85cc0dd",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-195456-small.webp",
+            "width": 471,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "ophelia",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "オフィーリア",
+      "title_original": "Ophelia",
+      "year": "1851–1852",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "テート",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.tate.org.uk/art/artworks/millais-ophelia-n01506",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《オフィーリア》、1851–1852年。テート。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/ophelia.webp",
+      "width": 1280,
+      "height": 871,
+      "alt": "花を手にした女性が川面にあおむけに浮かび、岸の草花が取り囲む。",
+      "viewing_point": "まず顔と手を結んでから、岸辺へ視線を移す。人物の水平な姿勢に対し、茎や枝は水面を横切るいくつもの細い線をつくる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "まず顔と手を結んでから、岸辺へ視線を移す。人物の水平な姿勢に対し、茎や枝は水面を横切るいくつもの細い線をつくる。"
+        }
+      ],
+      "sha256": "bad42cbc18847190bc113b83d7cd440e12275b8ca747f2ffd8543c8ac4eee321",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/ophelia-small.webp",
+            "width": 600,
+            "height": 408
+          }
+        ]
+      }
+    },
+    {
+      "id": "isabella",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "イザベラ",
+      "title_original": "Isabella",
+      "year": "1848–1849",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "ウォーカー・アート・ギャラリー（リバプール）",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://smarthistory.org/millais-isabella",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Isabella.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《イザベラ》、1848–1849年。ウォーカー・アート・ギャラリー（リバプール）。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/isabella.webp",
+      "width": 1280,
+      "height": 903,
+      "alt": "長い食卓に人々が並び、左の男性が脚を前に突き出している。",
+      "viewing_point": "食卓の左右で交わされる手の動きを一つずつ拾いたい。器を渡す仕草と蹴り出す脚が、同じ食卓に親密さと敵意を同居させる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "食卓の左右で交わされる手の動きを一つずつ拾いたい。器を渡す仕草と蹴り出す脚が、同じ食卓に親密さと敵意を同居させる。"
+        }
+      ],
+      "sha256": "c79b6bdb9cd4d9574854129c8ce61019524b03e3a776a85ef38c4f187cafa214",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/isabella-small.webp",
+            "width": 600,
+            "height": 423
+          }
+        ]
+      }
+    },
+    {
+      "id": "parents",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "両親の家のキリスト",
+      "title_original": "Christ in the House of His Parents",
+      "year": "1849–1850",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "テート",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.tate.org.uk/art/artworks/N03584",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Christ_in_the_House_of_His_Parents_%28%60The_Carpenter%27s_Shop%27%29_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《両親の家のキリスト》、1849–1850年。テート。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/parents.webp",
+      "width": 1280,
+      "height": 777,
+      "alt": "木くずの散る大工の仕事場で、作業台のそばに少年と家族が集まる。",
+      "viewing_point": "立派な祭壇の代わりに作業台と木材が場所を示す。手元へ人々の視線が集まる構図と、床の木くずを同時に見てみよう。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "立派な祭壇の代わりに作業台と木材が場所を示す。手元へ人々の視線が集まる構図と、床の木くずを同時に見てみよう。"
+        }
+      ],
+      "sha256": "2c74c96368d483bb4bd5fda00be8053367729a5e444077f36677947319f12125",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/parents-small.webp",
+            "width": 600,
+            "height": 364
+          }
+        ]
+      }
+    },
+    {
+      "id": "mariana",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "マリアナ",
+      "title_original": "Mariana",
+      "year": "1851",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "テート",
+      "medium": "油彩・板",
+      "source_page": "https://www.tate.org.uk/art/artworks/millais-mariana-t07553",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Mariana_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《マリアナ》、1851年。テート。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/mariana.webp",
+      "width": 1044,
+      "height": 1280,
+      "alt": "青いドレスの女性が腰に手を添え、色ガラスの窓の前で背を伸ばす。",
+      "viewing_point": "窓の鉛線、刺繡の台、床の模様はかたちを区切る。一方、腰に手を当てて身を反らす姿は、その整った部屋に待ち疲れた時間を持ち込む。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "窓の鉛線、刺繡の台、床の模様はかたちを区切る。一方、腰に手を当てて身を反らす姿は、その整った部屋に待ち疲れた時間を持ち込む。"
+        }
+      ],
+      "sha256": "88bac99129feb9c5041422426f2cb0a4cd4553e52da98b343c0e224d9ecde82d",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/mariana-small.webp",
+            "width": 498,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "huguenot",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ユグノー",
+      "title_original": "A Huguenot, on St. Bartholomew’s Day",
+      "year": "1851–1852",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "個人蔵",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Huguenot_lovers_on_St._Bartholomew%27s_Day.jpg",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Huguenot_lovers_on_St._Bartholomew%27s_Day.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《ユグノー》、1851–1852年。個人蔵。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/huguenot.webp",
+      "width": 832,
+      "height": 1280,
+      "alt": "塀の前で男女が寄り添い、女性が男性の腕に白い布を巻こうとする。",
+      "viewing_point": "小さな白い布に注目したい。巻きつけようとする手と外そうとする手を重ねて、二人が違う選択をしようとしていることを示す。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "小さな白い布に注目したい。巻きつけようとする手と外そうとする手を重ねて、二人が違う選択をしようとしていることを示す。"
+        }
+      ],
+      "sha256": "5d9549fcac318e7f5c1613cdb9407d0fd214730e9135d0510a604b20775459a5",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/huguenot-small.webp",
+            "width": 396,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "order",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "釈放令、1746年",
+      "title_original": "The Order of Release, 1746",
+      "year": "1852–1853",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "テート",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.tate.org.uk/art/artworks/millais-the-order-of-release-1746-n01657",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_The_Order_of_Release_1746_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《釈放令、1746年》、1852–1853年。テート。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/order.webp",
+      "width": 929,
+      "height": 1280,
+      "alt": "女性が子を抱え、左手の衛兵の前で、負傷した男性を肩で支える。",
+      "viewing_point": "差し出される紙片、包帯の白、眠る子どもを順に見ると、公の決定が一つの家族に届く場面として読める。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "差し出される紙片、包帯の白、眠る子どもを順に見ると、公の決定が一つの家族に届く場面として読める。"
+        }
+      ],
+      "sha256": "8660dada7b619edfdc463f5d10a03cc213a97143d3bcd34cfe3f8f13b6d37b34",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/order-small.webp",
+            "width": 443,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "blind",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "盲目の少女",
+      "title_original": "The Blind Girl",
+      "year": "1854–1856",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "バーミンガム美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://artsandculture.google.com/asset/the-blind-girl/kAF2cbM1fB9Hzw",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《盲目の少女》、1854–1856年。バーミンガム美術館。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/blind.webp",
+      "width": 881,
+      "height": 1280,
+      "alt": "草地に二人の少女が寄り添って座り、背後の空に二重の虹が架かる。",
+      "viewing_point": "空の虹に先に目を奪われたら、今度は手前の手と顔の向きを見る。景色を眺めることと、風や草に触れて場所を感じることを重ねる構図だ。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "空の虹に先に目を奪われたら、今度は手前の手と顔の向きを見る。景色を眺めることと、風や草に触れて場所を感じることを重ねる構図だ。"
+        }
+      ],
+      "sha256": "24232b09d5ba6b311b824b8ad738043b1f28462679cc6b92628952c3548de77c",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/blind-small.webp",
+            "width": 420,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "autumn",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "秋の落葉",
+      "title_original": "Autumn Leaves",
+      "year": "1855–1856",
+      "author": "ジョン・エヴァレット・ミレイ",
+      "institution": "マンチェスター市立美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://shop.artuk.org/autumn-leaves-205592.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Millais_leaves.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・エヴァレット・ミレイ《秋の落葉》、1855–1856年。マンチェスター市立美術館。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/autumn.webp",
+      "width": 876,
+      "height": 1280,
+      "alt": "夕暮れの庭で四人の少女が落ち葉の山のそばに立つ。",
+      "viewing_point": "顔の明るさ、葉の赤茶、消えかかった空の光を比べてみよう。はっきりした事件を描かず、日が沈んでゆく短い時間を色で伝える。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "顔の明るさ、葉の赤茶、消えかかった空の光を比べてみよう。はっきりした事件を描かず、日が沈んでゆく短い時間を色で伝える。"
+        }
+      ],
+      "sha256": "89e74a655d8ec9bc2255e7c87d18d157b27aec8a8ee59d6672dd77b5d7de31cd",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/autumn-small.webp",
+            "width": 417,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "shalott",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "シャロットの女",
+      "title_original": "The Lady of Shalott",
+      "year": "1888",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "テート",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.tate.org.uk/art/artworks/waterhouse-the-lady-of-shalott-n01543",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《シャロットの女》、1888年。テート。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/shalott.webp",
+      "width": 1280,
+      "height": 982,
+      "alt": "白い衣の女性が舟に座り、舟べりから模様のある織物が水面の近くまで垂れる。",
+      "viewing_point": "長い舟は画面を横切り、女性の白い衣はそこから立ち上がる。舟べりの織物まで目を移すと、人物が生きてきた室内の仕事が屋外の場面に持ち込まれている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "長い舟は画面を横切り、女性の白い衣はそこから立ち上がる。舟べりの織物まで目を移すと、人物が生きてきた室内の仕事が屋外の場面に持ち込まれている。"
+        }
+      ],
+      "sha256": "1009d7f00ee851c6f126adbe439382770175db703c20c6ee943bdff5f9a7abf8",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/shalott-small.webp",
+            "width": 600,
+            "height": 460
+          }
+        ]
+      }
+    },
+    {
+      "id": "lancelot",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ランスロットを見るシャロットの女",
+      "title_original": "The Lady of Shalott Looking at Lancelot",
+      "year": "1894",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "リーズ・アート・ギャラリー",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://artuk.org/discover/artworks/the-lady-of-shalott-38481",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:The_Lady_of_Shalott_Looking_at_Lancelot.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《ランスロットを見るシャロットの女》、1894年。リーズ・アート・ギャラリー。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/lancelot.webp",
+      "width": 753,
+      "height": 1280,
+      "alt": "白い衣の女性が室内で身を前に傾け、織機から伸びた糸が身体のまわりを横切る。",
+      "viewing_point": "1888年の舟の場面と見比べよう。ここでは織機の糸が人物の動きにからみ、物語が変わる瞬間を室内の道具で目に見えるものにする。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "1888年の舟の場面と見比べよう。ここでは織機の糸が人物の動きにからみ、物語が変わる瞬間を室内の道具で目に見えるものにする。"
+        }
+      ],
+      "sha256": "cc167d3a339e877786a3421cdf2b7791ba62919436c3e44eeb9cf37fb72ec78a",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/lancelot-small.webp",
+            "width": 359,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "half-sick",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "「影を見るのはもううんざり」とシャロットの女は言った",
+      "title_original": "“I Am Half-Sick of Shadows,” Said the Lady of Shalott",
+      "year": "1915",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "オンタリオ美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://ago.ca/exhibitions/favourites-your-choices-our-collection",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_I_am_half-sick_of_shadows%2C_said_the_lady_of_shalott.JPG",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《「影を見るのはもううんざり」とシャロットの女は言った》、1915年。オンタリオ美術館。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/half-sick.webp",
+      "width": 937,
+      "height": 1280,
+      "alt": "赤い衣の女性が織機の前で腕を頭の後ろに上げ、背後の円い鏡には屋外の人影が映る。",
+      "viewing_point": "同じテニスンの詩でも、ここではまだ舟は登場しない。織機から離した両手と、鏡の中だけに見える屋外の人々の距離が、待つ時間をつくる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "同じテニスンの詩でも、ここではまだ舟は登場しない。織機から離した両手と、鏡の中だけに見える屋外の人々の距離が、待つ時間をつくる。"
+        }
+      ],
+      "sha256": "83e24aa93d637f5c342d24cf061b5c494ed7a3b238b289b84366fa368a789e8a",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/half-sick-small.webp",
+            "width": 447,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "ask",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "神託を伺う",
+      "title_original": "Consulting the Oracle",
+      "year": "1884",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "テート",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.tate.org.uk/art/artworks/waterhouse-consulting-the-oracle-n01541",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Consulting_the_Oracle_-_Tate_Britain.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《神託を伺う》、1884年。テート。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/ask.webp",
+      "width": 1280,
+      "height": 784,
+      "alt": "暗い室内で黒い衣の女性を囲むように、色の異なる衣の人々が座る。",
+      "viewing_point": "人物を弧のように並べて、離れた位置からも注意が一か所に集まるようにしている。手前の床の余白を隠すと、輪の広さがどう変わるだろう。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "人物を弧のように並べて、離れた位置からも注意が一か所に集まるようにしている。手前の床の余白を隠すと、輪の広さがどう変わるだろう。"
+        }
+      ],
+      "sha256": "d91c7c52ba8f78f591bd0d2a0b0a77ca0e378edd4e1c2a279d6f87798742b03e",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/ask-small.webp",
+            "width": 600,
+            "height": 368
+          }
+        ]
+      }
+    },
+    {
+      "id": "magic",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "魔法円",
+      "title_original": "The Magic Circle",
+      "year": "1886",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "テート",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.tate.org.uk/art/artworks/N01572",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Magic_Circle.JPG",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《魔法円》、1886年。テート。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/magic.webp",
+      "width": 855,
+      "height": 1280,
+      "alt": "岩場に立つ女性の近くに大釜があり、白い煙がほぼ垂直に立ちのぼる。",
+      "viewing_point": "煙の縦線と、地面に引かれる円の輪郭を見比べる。風景の中に、儀式を行う人だけの領域が区切られていく。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "煙の縦線と、地面に引かれる円の輪郭を見比べる。風景の中に、儀式を行う人だけの領域が区切られていく。"
+        }
+      ],
+      "sha256": "c5795d2357b908307a507065b5198098710d7618c8c125d9ceb254e86cb5beb3",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/magic-small.webp",
+            "width": 407,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "siren",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ユリシーズとセイレーン",
+      "title_original": "Ulysses and the Sirens",
+      "year": "1891",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "ビクトリア国立美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.ngv.vic.gov.au/explore/collection/work/4457/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:WATERHOUSE_-_Ulises_y_las_Sirenas_%28National_Gallery_of_Victoria%2C_Melbourne%2C_1891._%C3%93leo_sobre_lienzo%2C_100.6_x_202_cm%29.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《ユリシーズとセイレーン》、1891年。ビクトリア国立美術館。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/siren.webp",
+      "width": 1280,
+      "height": 627,
+      "alt": "帆の下に人が立つ船を、人の顔と鳥の胴をもつセイレーンが飛び囲む。",
+      "viewing_point": "船と櫂は画面の端へ伸びるのに、翼の群れは四方から船へ迫る。横長の画面に、進もうとする力と引き留める力が同居する。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "船と櫂は画面の端へ伸びるのに、翼の群れは四方から船へ迫る。横長の画面に、進もうとする力と引き留める力が同居する。"
+        }
+      ],
+      "sha256": "32eaa321d1d822c5ef2c3744a8715c36e1321c2edbc3f15dc08fbcc74a7f4a26",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/siren-small.webp",
+            "width": 600,
+            "height": 294
+          }
+        ]
+      }
+    },
+    {
+      "id": "circe",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "嫉妬するキルケ",
+      "title_original": "Circe Invidiosa",
+      "year": "1892",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "南オーストラリア美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.agsa.sa.gov.au/collection-publications/collection/works/circe-invidiosa/24983/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:J._W._Waterhouse_-_Circe_Invidiosa_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《嫉妬するキルケ》、1892年。南オーストラリア美術館。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/circe.webp",
+      "width": 601,
+      "height": 1280,
+      "alt": "深緑の衣の女性が器を傾け、青緑の水面に液体を注ぐ。",
+      "viewing_point": "顔、持ち上げた器、足元の水へと、細長い画面を上から下に読む。緑が衣と水を結び、注いだものが広がる先まで視線を運ぶ。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "顔、持ち上げた器、足元の水へと、細長い画面を上から下に読む。緑が衣と水を結び、注いだものが広がる先まで視線を運ぶ。"
+        }
+      ],
+      "sha256": "ba643d76a148f84c6de6dd2322f1ae939eeb54ae27f9ff394c35c38f6348541c",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/circe-small.webp",
+            "width": 286,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "hylas",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ヒュラスとニンフたち",
+      "title_original": "Hylas and the Nymphs",
+      "year": "1896",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "マンチェスター市立美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://manchesterartgallery.org/explore/title/?mag-object-190",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Hylas_and_the_Nymphs_%281896%2C_Manchester_Art_Gallery%29.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《ヒュラスとニンフたち》、1896年。マンチェスター市立美術館。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/hylas.webp",
+      "width": 1280,
+      "height": 769,
+      "alt": "水差しを持つ青年が岸から身を乗り出し、睡蓮の浮かぶ水面にニンフたちが顔を出す。",
+      "viewing_point": "青年が伸ばす腕の先から、一人ずつ顔をたどってみよう。似た高さに並ぶ顔と水面に繰り返す睡蓮の葉が、視線を池の奥へ招き入れる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "青年が伸ばす腕の先から、一人ずつ顔をたどってみよう。似た高さに並ぶ顔と水面に繰り返す睡蓮の葉が、視線を池の奥へ招き入れる。"
+        }
+      ],
+      "sha256": "f14b39e01021e2d530d67245e75820a60f433a1eb12a7f89f2af49b96b0c99e2",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/hylas-small.webp",
+            "width": 600,
+            "height": 360
+          }
+        ]
+      }
+    },
+    {
+      "id": "echo",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "エコーとナルキッソス",
+      "title_original": "Echo and Narcissus",
+      "year": "1903",
+      "author": "ジョン・ウィリアム・ウォーターハウス",
+      "institution": "ウォーカー・アート・ギャラリー（リバプール）",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://artuk.org/discover/artworks/echo-and-narcissus-127992",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0（出典ファイルの表示）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ウィリアム・ウォーターハウス《エコーとナルキッソス》、1903年。ウォーカー・アート・ギャラリー（リバプール）。画像はWikimedia Commonsの個別ファイルから縮小。",
+      "local_file": "assets/pre-raphaelites/echo.webp",
+      "width": 1280,
+      "height": 730,
+      "alt": "水辺に腰を下ろした女性が、対岸で身をかがめて水面を見つめる青年を見ている。",
+      "viewing_point": "エコーは青年を見ているが、青年の目は水面へ向かう。岸を挟んで二人を並べることで、視線が返ってこない物語を一枚に収めている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "エコーは青年を見ているが、青年の目は水面へ向かう。岸を挟んで二人を並べることで、視線が返ってこない物語を一枚に収めている。"
+        }
+      ],
+      "sha256": "0fd7eac23ba0d57a45cc154ac9cfe9e2e3d9a241060fc2d7e5ed11633bd6dbf5",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/echo-small.webp",
+            "width": 600,
+            "height": 342
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-girlhood-of-mary-virgin",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "聖母マリアの少女時代",
+      "title_original": "The Girlhood of Mary Virgin",
+      "year": "1848–49",
+      "author": "ダンテ・ゲイブリエル・ロセッティ",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/rossetti-the-girlhood-of-mary-virgin-n04872",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_The_Girlhood_of_Mary_Virgin.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ダンテ・ゲイブリエル・ロセッティ《聖母マリアの少女時代》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-girlhood-of-mary-virgin.webp",
+      "width": 754,
+      "height": 960,
+      "alt": "椅子のそばに立つ少女と刺繡を教える女性、手前の百合と小さな天使。",
+      "viewing_point": "少女の手仕事と百合を並べてみよう。縫うという日常の動作が、聖母の物語を予感させる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "少女の手仕事と百合を並べてみよう。縫うという日常の動作が、聖母の物語を予感させる。"
+        }
+      ],
+      "sha256": "f06d4196dc1f53fced66ff7cd45c8f25414ed6c5f58c83af6f0b2e284f4cf700",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-girlhood-of-mary-virgin-small.webp",
+            "width": 479,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "ecce-ancilla-domini",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "見よ、われは主のはしためなり（受胎告知）",
+      "title_original": "Ecce Ancilla Domini! (The Annunciation)",
+      "year": "1849–50",
+      "author": "ダンテ・ゲイブリエル・ロセッティ",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/rossetti-ecce-ancilla-domini-the-annunciation-n01210",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Ecce_Ancilla_Domini!_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ダンテ・ゲイブリエル・ロセッティ《見よ、われは主のはしためなり（受胎告知）》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/ecce-ancilla-domini.webp",
+      "width": 546,
+      "height": 960,
+      "alt": "白い寝台のマリアへ、左から天使が百合を差し出す。手前に赤い刺繡布。",
+      "viewing_point": "白い壁と衣服が溶け合う中で、細い百合が二人の距離を測る。手前の赤い布は初期作《聖母マリアの少女時代》の手仕事を思い出させる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "白い壁と衣服が溶け合う中で、細い百合が二人の距離を測る。手前の赤い布は初期作《聖母マリアの少女時代》の手仕事を思い出させる。"
+        }
+      ],
+      "sha256": "6df509f6af8447e0e67a92c31ad07a90b0d113cc02001f37351290d377eefbe0",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/ecce-ancilla-domini-small.webp",
+            "width": 347,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "beata-beatrix",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ベアタ・ベアトリクス",
+      "title_original": "Beata Beatrix",
+      "year": "1864–70年頃",
+      "author": "ダンテ・ゲイブリエル・ロセッティ",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/rossetti-beata-beatrix-n01279",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Beata_Beatrix,_1864-1870.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ダンテ・ゲイブリエル・ロセッティ《ベアタ・ベアトリクス》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/beata-beatrix.webp",
+      "width": 750,
+      "height": 960,
+      "alt": "目を閉じた女性の手元に、白い花を運ぶ赤い鳥が近づく。",
+      "viewing_point": "顔のすぐそばに鳥を置かず、視線を手元まで下ろす。霞んだ遠景の人物と、光を受ける横顔の鮮明さも比べたい。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "顔のすぐそばに鳥を置かず、視線を手元まで下ろす。霞んだ遠景の人物と、光を受ける横顔の鮮明さも比べたい。"
+        }
+      ],
+      "sha256": "f79a773829d01d64bd942699161b5c8a7ff267b9fbaa26c35bad010bf9ae6084",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/beata-beatrix-small.webp",
+            "width": 477,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "lady-lilith",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "レディ・リリス",
+      "title_original": "Lady Lilith",
+      "year": "1866–68、1872–73年改作",
+      "author": "ダンテ・ゲイブリエル・ロセッティ",
+      "institution": "デラウェア美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://emuseum.delart.org/objects/6457/lady-lilith",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Lady_Lilith_(FXD).jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ダンテ・ゲイブリエル・ロセッティ《レディ・リリス》、デラウェア美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/lady-lilith.webp",
+      "width": 829,
+      "height": 960,
+      "alt": "白衣の女性が手鏡を持ち、長い赤髪をすく。背後と手前に花が咲く。",
+      "viewing_point": "髪は人物の属性であると同時に、画面を横切る幅広い色面でもある。鏡の丸みから髪のうねりへ、目が移る。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "髪は人物の属性であると同時に、画面を横切る幅広い色面でもある。鏡の丸みから髪のうねりへ、目が移る。"
+        }
+      ],
+      "sha256": "f1586a42efc7efbd7358ee9a15c8ff1848e5268df2250365845a6c17ac2d031e",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/lady-lilith-small.webp",
+            "width": 527,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "proserpine",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "プロセルピナ",
+      "title_original": "Proserpine",
+      "year": "1874",
+      "author": "ダンテ・ゲイブリエル・ロセッティ",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/rossetti-proserpine-n05064",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Proserpine_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ダンテ・ゲイブリエル・ロセッティ《プロセルピナ》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/proserpine.webp",
+      "width": 435,
+      "height": 960,
+      "alt": "濃い青緑の衣をまとった女性が、割れたざくろを胸元に持つ。",
+      "viewing_point": "ざくろの断面は小さいのに、暗い衣の中で鮮やかに見える。物語を担う一つの果実に、画面の重みを集めている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "ざくろの断面は小さいのに、暗い衣の中で鮮やかに見える。物語を担う一つの果実に、画面の重みを集めている。"
+        }
+      ],
+      "sha256": "f6d5b903e76aa5d4615ea71ecb9f030e5102abeda5e0aee7a1e614129f77bc80",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/proserpine-small.webp",
+            "width": 276,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-hireling-shepherd",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "雇われ羊飼い",
+      "title_original": "The Hireling Shepherd",
+      "year": "1851",
+      "author": "ウィリアム・ホルマン・ハント",
+      "institution": "マンチェスター市立美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://manchesterartgallery.org/wp-content/uploads/2024/02/MAG-GALLERY-3-booklet.pdf",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_The_Hireling_Shepherd.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ウィリアム・ホルマン・ハント《雇われ羊飼い》、マンチェスター市立美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-hireling-shepherd.webp",
+      "width": 960,
+      "height": 670,
+      "alt": "草地で男が女性に身を寄せる。後方には散らばった羊の群れ。",
+      "viewing_point": "二人の身体がつくる塊から目を離し、画面の奥の羊を数えてみよう。人物の関心と、羊飼いの仕事の向きが食い違う。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "二人の身体がつくる塊から目を離し、画面の奥の羊を数えてみよう。人物の関心と、羊飼いの仕事の向きが食い違う。"
+        }
+      ],
+      "sha256": "c892d740214ce215d59d8801ec1d9be183c9ace30abb70c27dce1218789a2f3e",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-hireling-shepherd-small.webp",
+            "width": 600,
+            "height": 419
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-awakening-conscience",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "良心の目覚め",
+      "title_original": "The Awakening Conscience",
+      "year": "1853",
+      "author": "ウィリアム・ホルマン・ハント",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/hunt-the-awakening-conscience-t02075",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_The_Awakening_Conscience_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ウィリアム・ホルマン・ハント《良心の目覚め》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-awakening-conscience.webp",
+      "width": 700,
+      "height": 960,
+      "alt": "ピアノのある室内で、白い服の女性が男性の膝から立ち上がりかける。",
+      "viewing_point": "顔と腰と手を順に見ると、身体がまだ部屋に残りながら、気持ちだけが先へ動いたように見える。背後の鏡が室内の奥行きを開く。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "顔と腰と手を順に見ると、身体がまだ部屋に残りながら、気持ちだけが先へ動いたように見える。背後の鏡が室内の奥行きを開く。"
+        }
+      ],
+      "sha256": "c5b1e7a0da8fd4e16c631035e60ca7e06e29dbc0672bd69f916f830f29f2598b",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-awakening-conscience-small.webp",
+            "width": 445,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-light-of-the-world",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "世の光",
+      "title_original": "The Light of the World",
+      "year": "1853",
+      "author": "ウィリアム・ホルマン・ハント",
+      "institution": "オックスフォード大学キーブル・カレッジ",
+      "medium": "油彩",
+      "source_page": "https://www.keble.ox.ac.uk/about/chapel/light-of-the-world/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Hunt,_William_Homan_-_The_Light_of_the_World_-_1853-54.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ウィリアム・ホルマン・ハント《世の光》、オックスフォード大学キーブル・カレッジ。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-light-of-the-world.webp",
+      "width": 471,
+      "height": 960,
+      "alt": "暗がりでランタンを提げたキリストが、草に覆われた扉をたたく。",
+      "viewing_point": "扉の暗い木目、ランタンの輝き、頭の周囲の光を順に見る。光の位置を変えて、一人の立像に複数の見どころをつくっている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "扉の暗い木目、ランタンの輝き、頭の周囲の光を順に見る。光の位置を変えて、一人の立像に複数の見どころをつくっている。"
+        }
+      ],
+      "sha256": "e8e770b21710469f2885b9a50f62971558d0cfb8b4cc952b4ba2d69216939603",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-light-of-the-world-small.webp",
+            "width": 299,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-scapegoat",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "贖罪の山羊",
+      "title_original": "The Scapegoat",
+      "year": "1854–55",
+      "author": "ウィリアム・ホルマン・ハント",
+      "institution": "レディ・リーヴァー美術館",
+      "medium": "油彩",
+      "source_page": "https://www.wga.hu/html_m/h/hunt/scapegoa.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_The_Scapegoat.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ウィリアム・ホルマン・ハント《贖罪の山羊》、レディ・リーヴァー美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-scapegoat.webp",
+      "width": 960,
+      "height": 589,
+      "alt": "白い山羊の後ろに淡い水面と紫色の山並みが続く。",
+      "viewing_point": "背中を横に走る線と、遠くの山の稜線を見比べる。画面の広さに対して、一頭の身体がどれほど孤立して見えるだろう。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "背中を横に走る線と、遠くの山の稜線を見比べる。画面の広さに対して、一頭の身体がどれほど孤立して見えるだろう。"
+        }
+      ],
+      "sha256": "95a156a8ace7ab13d1866fde85b99a3041adeaed05bf79e04433569d1e79a884",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-scapegoat-small.webp",
+            "width": 600,
+            "height": 368
+          }
+        ]
+      }
+    },
+    {
+      "id": "shadow-of-death",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "死の影",
+      "title_original": "The Shadow of Death",
+      "year": "1870–73",
+      "author": "ウィリアム・ホルマン・ハント",
+      "institution": "マンチェスター市立美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://commons.wikimedia.org/wiki/File:William_holman_hunt-the_shadow_of_death.jpg",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:William_holman_hunt-the_shadow_of_death.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ウィリアム・ホルマン・ハント《死の影》、マンチェスター市立美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/shadow-of-death.webp",
+      "width": 769,
+      "height": 960,
+      "alt": "木工場で両腕を上げる男性。背後の壁に影が映り、左にはかがむ女性。",
+      "viewing_point": "伸びをする身体と壁の影を交互に見る。同じ腕の形が、日常の動作と将来の受難という二つの時間を表す。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "伸びをする身体と壁の影を交互に見る。同じ腕の形が、日常の動作と将来の受難という二つの時間を表す。"
+        }
+      ],
+      "sha256": "3a791a19d8f25e3aef14dd2a159289ce813bedd5e5576e8b21e27e2c15170ace",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/shadow-of-death-small.webp",
+            "width": 489,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-last-of-england",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "イングランドの見納め",
+      "title_original": "The Last of England",
+      "year": "1852–55",
+      "author": "フォード・マドックス・ブラウン",
+      "institution": "バーミンガム美術館",
+      "medium": "板に油彩",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ford_Madox_Brown_-_The_Last_of_England_-_Google_Art_Project.jpg",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Ford_Madox_Brown_-_The_Last_of_England_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "フォード・マドックス・ブラウン《イングランドの見納め》、バーミンガム美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-last-of-england.webp",
+      "width": 857,
+      "height": 960,
+      "alt": "船上で男女が手をつなぐ。女性の桃色のリボンが風に流れる。",
+      "viewing_point": "丸みのある画面が二人を囲む。視線は正面へ、リボンは横へ動き、旅立ちの緊張と船上の風を同時に感じさせる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "丸みのある画面が二人を囲む。視線は正面へ、リボンは横へ動き、旅立ちの緊張と船上の風を同時に感じさせる。"
+        }
+      ],
+      "sha256": "ad4298bb5e6e51f739e8096ed619c49a99cfc6969aa2ef4a0818170b467b1e37",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-last-of-england-small.webp",
+            "width": 545,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "work-brown",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "労働",
+      "title_original": "Work",
+      "year": "1852–65",
+      "author": "フォード・マドックス・ブラウン",
+      "institution": "マンチェスター市立美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://manchesterartgallery.org/a-description-of-the-celebrated-picture-work-ford-madox-brown/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Ford_Madox_Brown_-_Work_-_artchive.com.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "フォード・マドックス・ブラウン《労働》、マンチェスター市立美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/work-brown.webp",
+      "width": 960,
+      "height": 677,
+      "alt": "街路を掘る労働者の周りを、身なりや動作の違う人々が取り囲む。",
+      "viewing_point": "土を掘る腕、見守る身体、通り過ぎる身体を見分ける。職業や暮らしの違いが、一つの道で交わる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "土を掘る腕、見守る身体、通り過ぎる身体を見分ける。職業や暮らしの違いが、一つの道で交わる。"
+        }
+      ],
+      "sha256": "1b95a638758e2e55978e8ed3b5a7e921a1d4c9b4f53addca3fc271445dd8af8e",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/work-brown-small.webp",
+            "width": 600,
+            "height": 423
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-pretty-baa-lambs",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "かわいい子羊たち",
+      "title_original": "Pretty Baa-Lambs",
+      "year": "1851–59",
+      "author": "フォード・マドックス・ブラウン",
+      "institution": "バーミンガム美術館",
+      "medium": "板に油彩",
+      "source_page": "https://victorianweb.org/painting/fmb/paintings/34.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Ford_Madox_Brown_-_Pretty_Baa-Lambs_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "フォード・マドックス・ブラウン《かわいい子羊たち》、バーミンガム美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-pretty-baa-lambs.webp",
+      "width": 960,
+      "height": 761,
+      "alt": "青空の下、子を抱いた女性が白い子羊の前に立つ。",
+      "viewing_point": "明るい服と羊の背には同じ日差しが当たる。黒く落ちる陰をたどると、屋外の強い光が風景全体に及んでいる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "明るい服と羊の背には同じ日差しが当たる。黒く落ちる陰をたどると、屋外の強い光が風景全体に及んでいる。"
+        }
+      ],
+      "sha256": "8fc51d34dea58587fec2afdc304aa7957480a07a4e59cc6fd1ee0000465ef05e",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-pretty-baa-lambs-small.webp",
+            "width": 600,
+            "height": 476
+          }
+        ]
+      }
+    },
+    {
+      "id": "april-love",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "四月の恋",
+      "title_original": "April Love",
+      "year": "1855–56",
+      "author": "アーサー・ヒューズ",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/hughes-april-love-n02476",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Arthur_Hughes_-_April_Love_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "アーサー・ヒューズ《四月の恋》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/april-love.webp",
+      "width": 540,
+      "height": 960,
+      "alt": "紫のドレスの女性が木陰でうつむく。右奥の男性は暗がりにいる。",
+      "viewing_point": "明るいドレスを先に見てから、枝の奥の人物を探す。二人が同じ場にいることが、少し遅れて分かる構成である。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "明るいドレスを先に見てから、枝の奥の人物を探す。二人が同じ場にいることが、少し遅れて分かる構成である。"
+        }
+      ],
+      "sha256": "9e63011c01d330da44c0286ab57c119ad2c3077e7281709630bfb59a9c9b5b5d",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/april-love-small.webp",
+            "width": 343,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-long-engagement",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "長い婚約",
+      "title_original": "The Long Engagement",
+      "year": "1854–59",
+      "author": "アーサー・ヒューズ",
+      "institution": "バーミンガム美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://commons.wikimedia.org/wiki/File:LongEngagementAHughes.jpg",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:LongEngagementAHughes.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "アーサー・ヒューズ《長い婚約》、バーミンガム美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-long-engagement.webp",
+      "width": 470,
+      "height": 960,
+      "alt": "木の幹の横に、紫の外套の女性と黒い服の男性が寄り添う。",
+      "viewing_point": "人物を隠しかける太い幹に注目したい。恋人たちのそばで育つ木が、題名にある「長い」という時間を感じさせる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "人物を隠しかける太い幹に注目したい。恋人たちのそばで育つ木が、題名にある「長い」という時間を感じさせる。"
+        }
+      ],
+      "sha256": "13e1e163450e0307d082635572291f4b1c18f6ab34234dec38484b48e7438c4d",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-long-engagement-small.webp",
+            "width": 299,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-stonebreaker",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "石割り",
+      "title_original": "The Stonebreaker",
+      "year": "1857–58",
+      "author": "ジョン・ブレット",
+      "institution": "ウォーカー美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.victorianweb.org/victorian/painting/brett/paintings/36.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:John_Brett_-_The_Stonebreaker_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ブレット《石割り》、ウォーカー美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/the-stonebreaker.webp",
+      "width": 960,
+      "height": 709,
+      "alt": "少年が道端で鎚を振り上げる。砕いた石の向こうに丘と畑が続く。",
+      "viewing_point": "手前の鋭い石の輪郭から、遠くの緩い丘の輪郭へ目を移す。一人の労働と広い地形を同じ画面の中で扱っている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "手前の鋭い石の輪郭から、遠くの緩い丘の輪郭へ目を移す。一人の労働と広い地形を同じ画面の中で扱っている。"
+        }
+      ],
+      "sha256": "615e696ace601afa21bb5b4ee53741d4ae739cf952153012282aef8e91880695",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/the-stonebreaker-small.webp",
+            "width": 600,
+            "height": 443
+          }
+        ]
+      }
+    },
+    {
+      "id": "val-daosta",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "アオスタの谷",
+      "title_original": "Val d’Aosta",
+      "year": "1858",
+      "author": "ジョン・ブレット",
+      "institution": "個人蔵（資料記載）",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://victorianweb.org/painting/whh/replete/P8.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Brett-val-d-aosta.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョン・ブレット《アオスタの谷》、個人蔵（資料記載）。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/val-daosta.webp",
+      "width": 482,
+      "height": 678,
+      "alt": "谷底のしげみや岩から、奥の雪をかぶった山へと続く縦長の風景。",
+      "viewing_point": "近い岩肌、中ほどの集落、遠い雪山を追う。距離を分けるために使われた色と、描き込みの細かさを見比べよう。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "近い岩肌、中ほどの集落、遠い雪山を追う。距離を分けるために使われた色と、描き込みの細かさを見比べよう。"
+        }
+      ],
+      "sha256": "0e9114dc98b8810451413340afe882b61d7e3b04318d9e46d2540147a07daab4",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/val-daosta-small.webp",
+            "width": 434,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "renunciation",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ハンガリーの聖エリザベトの放棄",
+      "title_original": "The Renunciation of St. Elizabeth of Hungary",
+      "year": "1848–50",
+      "author": "ジェイムズ・コリンソン",
+      "institution": "ヨハネスブルグ美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.victorianweb.org/painting/collinson/paintings/7.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:James_Collinson.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジェイムズ・コリンソン《ハンガリーの聖エリザベトの放棄》、ヨハネスブルグ美術館。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/renunciation.webp",
+      "width": 800,
+      "height": 544,
+      "alt": "柱の並ぶ聖堂で人々がひざまずき、赤い衣の人物が立っている。",
+      "viewing_point": "石柱の列が場面を区切る。祭壇の近くで何が起き、それをどの人物が見守っているか、身体の向きから読める。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "石柱の列が場面を区切る。祭壇の近くで何が起き、それをどの人物が見守っているか、身体の向きから読める。"
+        }
+      ],
+      "sha256": "69d6276d021b5823483d97bb1dbd814252da807f4963f680ca353960eeb99f7b",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/renunciation-small.webp",
+            "width": 600,
+            "height": 408
+          }
+        ]
+      }
+    },
+    {
+      "id": "proposal",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "求婚（侯爵とグリゼルダ）",
+      "title_original": "The Proposal (The Marquis and Griselda)",
+      "year": "1850年頃",
+      "author": "フレデリック・ジョージ・スティーヴンズ",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/stephens-the-proposal-the-marquis-and-griselda-n04633",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Frederic_George_Stephens_-_The_Proposal_(The_Marquis_and_Griselda).jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "フレデリック・ジョージ・スティーヴンズ《求婚（侯爵とグリゼルダ）》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/proposal.webp",
+      "width": 776,
+      "height": 960,
+      "alt": "暗い室内で男性が女性の前にひざまずく。別の人物がテーブルに座る。",
+      "viewing_point": "近くの二人の間を視線で行き来してから、窓の向こうの赤い服を探す。私的な場面の外にも物語が続いている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "近くの二人の間を視線で行き来してから、窓の向こうの赤い服を探す。私的な場面の外にも物語が続いている。"
+        }
+      ],
+      "sha256": "a46206b878cbade8497e2d948f5b82e80bd1dcfaece8fff7c5aa0beea8438a0d",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/proposal-small.webp",
+            "width": 493,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "twelfth-night",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "十二夜、第二幕第四場",
+      "title_original": "Twelfth Night, Act II, Scene IV",
+      "year": "1850",
+      "author": "ウォルター・ハウエル・デヴェレル",
+      "institution": "個人蔵（資料記載）",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://victorianweb.org/painting/deverell/paintings/2.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Deverell_Walter_Howell_Twelfth_Night_Act_II_Scene_IV.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ウォルター・ハウエル・デヴェレル《十二夜、第二幕第四場》、個人蔵（資料記載）。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/twelfth-night.webp",
+      "width": 960,
+      "height": 731,
+      "alt": "庭の前に三人が座り、右手の人物が楽器を抱える。背景にも人々が集う。",
+      "viewing_point": "人物たちの顔と楽器を持つ手を順に見る。描かれた音楽に誰が耳を傾け、誰が別の人を見ているかをたどれる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "人物たちの顔と楽器を持つ手を順に見る。描かれた音楽に誰が耳を傾け、誰が別の人を見ているかをたどれる。"
+        }
+      ],
+      "sha256": "e4c9f7a931682db3bf1bf8bd862a382aaf65adbaf2f888dacf9304a6ee371eab",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/twelfth-night-small.webp",
+            "width": 600,
+            "height": 457
+          }
+        ]
+      }
+    },
+    {
+      "id": "chatterton",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "チャタートン",
+      "title_original": "Chatterton",
+      "year": "1856",
+      "author": "ヘンリー・ウォリス",
+      "institution": "テート",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.tate.org.uk/art/artworks/wallis-chatterton-n01685",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Henry_Wallis_-_Chatterton_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ヘンリー・ウォリス《チャタートン》、テート。Wikimedia Commons 個別ファイルの表示は Public domain。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/chatterton.webp",
+      "width": 960,
+      "height": 641,
+      "alt": "屋根裏の寝台に若者が横たわり、片腕が床へ垂れる。窓の向こうに街並み。",
+      "viewing_point": "身体の長い水平線を、垂れた腕の線が断ち切る。窓の外の明るさが、静かな室内を際立たせる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "身体の長い水平線を、垂れた腕の線が断ち切る。窓の外の明るさが、静かな室内を際立たせる。"
+        }
+      ],
+      "sha256": "7cadf5688a438d901a981bdf48d4057e7f77fed368c51f40df7fa436e75cbc50",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/chatterton-small.webp",
+            "width": 600,
+            "height": 401
+          }
+        ]
+      }
+    },
+    {
+      "id": "cobden",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "リチャード・コブデンの胸像",
+      "title_original": "Richard Cobden",
+      "year": "1866",
+      "author": "トマス・ウールナー",
+      "institution": "ナショナル・ポートレート・ギャラリー（ロンドン）",
+      "medium": "大理石",
+      "source_page": "https://www.npg.org.uk/collections/search/portrait/mw01363/Richard-Cobden",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Richard_Cobden_by_Thomas_Woolner.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "トマス・ウールナー《リチャード・コブデンの胸像》、ナショナル・ポートレート・ギャラリー（ロンドン）。撮影 APK。CC BY 4.0。掲載用に縮小・WebP変換。",
+      "local_file": "assets/pre-raphaelites/cobden.webp",
+      "width": 561,
+      "height": 960,
+      "alt": "明るい大理石の胸像。頭を少し横に向け、胸元の布が斜めに重なる。",
+      "viewing_point": "立体では、色面の代わりに凹凸が明暗をつくる。頬に落ちる陰と襟の深い折り目で、同じ石の表情を見比べられる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "立体では、色面の代わりに凹凸が明暗をつくる。頬に落ちる陰と襟の深い折り目で、同じ石の表情を見比べられる。"
+        }
+      ],
+      "sha256": "f9ea217cbde66a8473bfef021b91f2d98c94ba7d037a76d71ae86f179c61f9e6",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/cobden-small.webp",
+            "width": 356,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "siddal-clare",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "レディ・クレア",
+      "title_original": "Lady Clare",
+      "year": "19世紀（制作年未詳）",
+      "author": "エリザベス・シダル",
+      "institution": "フィッツウィリアム美術館（777）",
+      "medium": "紙に黒鉛、ペン、インク、褐色と黒の淡彩",
+      "source_page": "https://data.fitzmuseum.cam.ac.uk/id/object/13600",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Siddal_-_Lady_Clare.jpg",
+      "license": "Public Domain（Wikimedia Commons）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "エリザベス・シダル《レディ・クレア》。フィッツウィリアム美術館（777）。図版：Wikimedia Commons。",
+      "local_file": "assets/pre-raphaelites/siddal-clare.webp",
+      "width": 585,
+      "height": 760,
+      "alt": "室内で抱き寄せる二人。右に明るい窓、左に暗い戸口がある。",
+      "viewing_point": "二人の顔から肩、腕、裾へと線を追う。褐色の濃淡だけで、手前の衣と奥の戸口が離れて見える。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "二人の顔から肩、腕、裾へと線を追う。褐色の濃淡だけで、手前の衣と奥の戸口が離れて見える。"
+        }
+      ],
+      "sha256": "a266ca41017ef656ce623a2b29bcfd9ec88a782cad09d70d9c116f857092d0bd",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/siddal-clare-small.webp",
+            "width": 470,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "siddal-saunders",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "書記ソーンダーズ",
+      "title_original": "Clerk Saunders",
+      "year": "1857年",
+      "author": "エリザベス・シダル",
+      "institution": "フィッツウィリアム美術館（680）",
+      "medium": "紙に水彩、不透明水彩、色チョーク",
+      "source_page": "https://data.fitzmuseum.cam.ac.uk/id/object/13598",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Clerk_Saunders%2C_1857-5348297183.jpg",
+      "license": "CC BY 2.0（図版）",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "credit": "エリザベス・シダル《書記ソーンダーズ》。フィッツウィリアム美術館（680）。図版：Birmingham Culture, Flickr / Wikimedia Commons, CC BY 2.0。WebP化。",
+      "local_file": "assets/pre-raphaelites/siddal-saunders.webp",
+      "width": 743,
+      "height": 1063,
+      "alt": "室内で二人が向かい合う。片方の人物の白い衣は、隣の暗い緑の服と対照をなす。",
+      "viewing_point": "右の丸窓と左下の寝具を見比べると、背の高い二人が立つ部屋の狭さがわかる。薄い衣と濃い衣の違いにも目を向けたい。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "右の丸窓と左下の寝具を見比べると、背の高い二人が立つ部屋の狭さがわかる。薄い衣と濃い衣の違いにも目を向けたい。"
+        }
+      ],
+      "sha256": "57ec6df5d40b4d6b0d69290e4e37ba93359bc220888173d06b9cc08d163b4cd3",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/siddal-saunders-small.webp",
+            "width": 426,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "stillman-messenger",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "愛の使者",
+      "title_original": "Love’s Messenger",
+      "year": "1885年",
+      "author": "マリー・スパルタリ・スティルマン",
+      "institution": "デラウェア美術館（1935-75）",
+      "medium": "板に貼った紙に水彩、テンペラ、金彩",
+      "source_page": "https://emuseum.delart.org/objects/3511/loves-messenger",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Loves_Messenger_Stillman_DAM.jpg",
+      "license": "Public Domain（Wikimedia Commons）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "マリー・スパルタリ・スティルマン《愛の使者》。デラウェア美術館（1935-75）。図版：Wikimedia Commons。",
+      "local_file": "assets/pre-raphaelites/stillman-messenger.webp",
+      "width": 1008,
+      "height": 1250,
+      "alt": "窓辺の女性が片手を胸に当て、反対の手を白い鳩に差し出す。下端に刺繡が見える。",
+      "viewing_point": "女性の視線を追うと、鳩が運ぶ手紙に行き着く。手前の刺繡にも恋の使者キューピッドがいて、鳥と針仕事が同じ話の中につながる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "女性の視線を追うと、鳩が運ぶ手紙に行き着く。手前の刺繡にも恋の使者キューピッドがいて、鳥と針仕事が同じ話の中につながる。"
+        }
+      ],
+      "sha256": "6d00ed6f42f93cd09b27f7b9415e160746ab68cb9c28ad943372b14b6bf9f4c8",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/stillman-messenger-small.webp",
+            "width": 492,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "stillman-garden",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "アンサルド殿の魔法の庭",
+      "title_original": "The Enchanted Garden of Messer Ansaldo",
+      "year": "1889年",
+      "author": "マリー・スパルタリ・スティルマン",
+      "institution": "所蔵先未確認（クリスティーズに作品記録）",
+      "medium": "紙に鉛筆、水彩、不透明水彩、アラビアゴム",
+      "source_page": "https://www.christies.com/en/lot/lot-6290722",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:The_Enchanted_Garden_of_Messer_Ansaldo_by_Marie_Spartali_Stillman_%281889%29.jpg",
+      "license": "Public Domain（Wikimedia Commons）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "マリー・スパルタリ・スティルマン《アンサルド殿の魔法の庭》。所蔵先未確認（クリスティーズに作品記録）。図版：Wikimedia Commons。",
+      "local_file": "assets/pre-raphaelites/stillman-garden.webp",
+      "width": 1000,
+      "height": 800,
+      "alt": "花の咲く木の下に人物が並ぶ。赤い衣や花、果実が画面のあちこちに見える。",
+      "viewing_point": "左の赤い衣から花の木を通り、右の子どもたちの服へ。赤や桃色を探すと、横長の画面を端まで歩くように視線が動く。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "左の赤い衣から花の木を通り、右の子どもたちの服へ。赤や桃色を探すと、横長の画面を端まで歩くように視線が動く。"
+        }
+      ],
+      "sha256": "7e5757c024fc2666c9d735685bb03924d40290aabc47e881d3f1414ec03db4af",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/stillman-garden-small.webp",
+            "width": 600,
+            "height": 480
+          }
+        ]
+      }
+    },
+    {
+      "id": "demorgan-night",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "夜と眠り",
+      "title_original": "Night and Sleep",
+      "year": "1878年",
+      "author": "イーヴリン・ド・モーガン",
+      "institution": "ド・モーガン財団",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.demorgan.org.uk/collection/night-and-sleep/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Night_and_Sleep_-_Evelyn_de_Morgan_%281878%29.jpg",
+      "license": "Public Domain（Wikimedia Commons）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "イーヴリン・ド・モーガン《夜と眠り》。ド・モーガン財団。図版：Wikimedia Commons。",
+      "local_file": "assets/pre-raphaelites/demorgan-night.webp",
+      "width": 1250,
+      "height": 862,
+      "alt": "腕を組んだ二人が空に横たわるように浮かび、一人の手から赤いケシが地上へ落ちる。",
+      "viewing_point": "頭上で広がる暗い布と、下へこぼれる小さな花。眠りが訪れるという時間の変化を、布の広さと花の落ちる向きで描いている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "頭上で広がる暗い布と、下へこぼれる小さな花。眠りが訪れるという時間の変化を、布の広さと花の落ちる向きで描いている。"
+        }
+      ],
+      "sha256": "9cdf6eb9cb355f0a5852183d00392835aea0fb412a6e8be826660435ae5dd4ca",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/demorgan-night-small.webp",
+            "width": 600,
+            "height": 414
+          }
+        ]
+      }
+    },
+    {
+      "id": "demorgan-potion",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "媚薬",
+      "title_original": "The Love Potion",
+      "year": "1903年",
+      "author": "イーヴリン・ド・モーガン",
+      "institution": "ド・モーガン財団（P_EDM_0035）",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.demorgan.org.uk/collection/the-love-potion/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Evelyn_De_Morgan_-_The_Love_Potion_%281903%29_-_Google_Cultural_Institute.jpg",
+      "license": "Public Domain（Wikimedia Commons）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "イーヴリン・ド・モーガン《媚薬》。ド・モーガン財団（P_EDM_0035）。図版：Wikimedia Commons。",
+      "local_file": "assets/pre-raphaelites/demorgan-potion.webp",
+      "width": 796,
+      "height": 1250,
+      "alt": "金色の衣の人物が器に液体を注ぐ。足元には黒猫、奥には屋外を望む開口部がある。",
+      "viewing_point": "液体を注ぐ二つの手は、衣の大きなひだに比べて小さい。黒猫、棚の本、窓越しの人物まで視線を巡らせると、一つの動作の周りに物語の手がかりが集まってくる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "液体を注ぐ二つの手は、衣の大きなひだに比べて小さい。黒猫、棚の本、窓越しの人物まで視線を巡らせると、一つの動作の周りに物語の手がかりが集まってくる。"
+        }
+      ],
+      "sha256": "d4407241a67f93cb218466964311c2c3a6838136e0274d7bc546873540380ca9",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/demorgan-potion-small.webp",
+            "width": 388,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "boyce-eaton",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ファニー・イートンの習作",
+      "title_original": "Study of Mrs. Fanny Eaton",
+      "year": "1861年",
+      "author": "ジョアンナ・ボイス・ウェルズ",
+      "institution": "イェール英国美術センター（B1991.29）",
+      "medium": "麻布に貼った紙に油彩",
+      "source_page": "https://artuk.org/discover/artworks/fanny-eaton-246887",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Joanna_Boyce_Wells_-_Head_of_a_Mulatto_Woman_%28Mrs._Eaton%29_-_Google_Art_Project.jpg",
+      "license": "Public Domain（Wikimedia Commons）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ジョアンナ・ボイス・ウェルズ《ファニー・イートンの習作》。イェール英国美術センター（B1991.29）。図版：Wikimedia Commons。",
+      "local_file": "assets/pre-raphaelites/boyce-eaton.webp",
+      "width": 951,
+      "height": 1250,
+      "alt": "左を向いた人物の横顔。暗い緑の背景に、首筋と白い布の輪郭が浮かぶ。",
+      "viewing_point": "髪飾りの細い線と、肩の布を描く幅広い筆跡に着目する。耳元から肩へ移るだけで、画面の手触りが変わる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "髪飾りの細い線と、肩の布を描く幅広い筆跡に着目する。耳元から肩へ移るだけで、画面の手触りが変わる。"
+        }
+      ],
+      "sha256": "7f73b68b2afcef2550de74715ddd9fc90d64e5b57e05b3ffd3fc320615f51129",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/boyce-eaton-small.webp",
+            "width": 464,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "brown-study",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "『テンペスト』のための習作――チェスをするファーディナンドとミランダ",
+      "title_original": "Study for The Tempest, Ferdinand and Miranda Playing Chess",
+      "year": "制作年未詳",
+      "author": "ルーシー・マドックス・ブラウン",
+      "institution": "所蔵先未確認（クリスティーズに作品記録）",
+      "medium": "紙にチョーク（素描）",
+      "source_page": "https://www.christies.com/en/lot/lot-1939037",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Lucy_Madox_Browne%2C_Study_for_the_Tempest.jpg",
+      "license": "Public Domain（Wikimedia Commons）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ルーシー・マドックス・ブラウン《『テンペスト』のための習作――チェスをするファーディナンドとミランダ》。所蔵先未確認（クリスティーズに作品記録）。図版：Wikimedia Commons。",
+      "local_file": "assets/pre-raphaelites/brown-study.webp",
+      "width": 471,
+      "height": 570,
+      "alt": "台を挟んで向き合う男女。右の椅子の人物は前傾し、左の人物は台に手をかける。",
+      "viewing_point": "二人の顔と手の間に台がある。衣のひだや顔が描き込まれた部分と、背景を示す薄い線の差から、構図を組み立てる順序を想像できる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "二人の顔と手の間に台がある。衣のひだや顔が描き込まれた部分と、背景を示す薄い線の差から、構図を組み立てる順序を想像できる。"
+        }
+      ],
+      "sha256": "e324687bc7f019e43727eb75345369e0c6823135f8c75354531c58b3ef08b0d9",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/brown-study-small.webp",
+            "width": 471,
+            "height": 570
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-met-209292",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "詩人としてのダヴィデ王",
+      "title_original": "King David the Poet",
+      "year": "1863年",
+      "author": "エドワード・バーン＝ジョーンズ（人物）、ウィリアム・モリス（背景）、モリス・マーシャル・フォークナー商会（制作）",
+      "institution": "メトロポリタン美術館",
+      "medium": "ステンドグラス",
+      "source_page": "https://www.metmuseum.org/art/collection/search/209292",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/209292",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "King David the Poet. The Metropolitan Museum of Art, Purchase, Rogers Fund, Gifts of Dr. and Mrs. John C. Weber, Helen O. Brice, and Mrs. Donald Gill, by exchange, and funds from various donors, by exchange, 1998, 1998.231. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-209292.webp",
+      "width": 859,
+      "height": 1200,
+      "alt": "格子状の明るい背景に、赤い服の人物が弦楽器を抱えて立つ縦長のステンドグラス。",
+      "viewing_point": "赤い衣の大きな面から、背後の細かな草花へと目を移す。人物と背景は別々の作家が設計した。鉛線はガラスをつなぐ継ぎ目であると同時に、服や模様の輪郭にもなる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "赤い衣の大きな面から、背後の細かな草花へと目を移す。人物と背景は別々の作家が設計した。鉛線はガラスをつなぐ継ぎ目であると同時に、服や模様の輪郭にもなる。"
+        }
+      ],
+      "sha256": "b5b6cb216fecaf98787272b81bbd5357530cc43e4640e80bc35a63e50e818f2a",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-209292-small.webp",
+            "width": 437,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-met-362260",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ノア",
+      "title_original": "Noah",
+      "year": "1874年2月1日",
+      "author": "エドワード・バーン＝ジョーンズ",
+      "institution": "メトロポリタン美術館",
+      "medium": "木炭",
+      "source_page": "https://www.metmuseum.org/art/collection/search/362260",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/362260",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Noah. The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1948, 48.52. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-362260.webp",
+      "width": 428,
+      "height": 1200,
+      "alt": "細長い紙面に、衣の深いひだを持つノアの全身像を木炭で描く。",
+      "viewing_point": "ケンブリッジの礼拝堂の窓に向けた下絵。木炭で引いた衣の線をたどると、細い窓の幅の中で、布のひだだけでも人物の体の向きを表せることが分かる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "ケンブリッジの礼拝堂の窓に向けた下絵。木炭で引いた衣の線をたどると、細い窓の幅の中で、布のひだだけでも人物の体の向きを表せることが分かる。"
+        }
+      ],
+      "sha256": "149f6abb3845d8b013ecb23060d1881cbc1ac52123a72ef0bc829aafe6c8fa51",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-362260-small.webp",
+            "width": 218,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-met-337071",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "ナデシコとバラ",
+      "title_original": "Pink and Rose",
+      "year": "1890年頃",
+      "author": "ウィリアム・モリス（図案）、ジェフリー商会（印刷）",
+      "institution": "メトロポリタン美術館",
+      "medium": "紙に膠絵具による木版刷り",
+      "source_page": "https://www.metmuseum.org/art/collection/search/337071",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/337071",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Pink and Rose. The Metropolitan Museum of Art, Purchase, Edward C. Moore Jr. Gift, 1923, 23.163.4a. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-337071.webp",
+      "width": 885,
+      "height": 1096,
+      "alt": "淡い地に、赤みのある花、青緑の葉、湾曲した茎が繰り返す壁紙。",
+      "viewing_point": "一輪の花を選んで、同じ花が次にどこに現れるかを探す。波打つ茎と葉が一つのまとまりを次のまとまりに結び、絵の端でも柄が続くように見える。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "一輪の花を選んで、同じ花が次にどこに現れるかを探す。波打つ茎と葉が一つのまとまりを次のまとまりに結び、絵の端でも柄が続くように見える。"
+        }
+      ],
+      "sha256": "c13a159fa8e2eadc63c7f7fb16c3aaa84010c59a5b846bb2490aa7d87d4d6ff4",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-337071-small.webp",
+            "width": 493,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-met-354288",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "世界の果ての泉",
+      "title_original": "The Well at the World's End",
+      "year": "1896年",
+      "author": "ウィリアム・モリス（著）、エドワード・バーン＝ジョーンズ（挿絵）、ケルムスコット・プレス（刊）",
+      "institution": "メトロポリタン美術館",
+      "medium": "木版挿絵入り書籍",
+      "source_page": "https://www.metmuseum.org/art/collection/search/354288",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/354288",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "The Well at the World's End. The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1917, 17.3.2641(13). CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-354288.webp",
+      "width": 1200,
+      "height": 824,
+      "alt": "見開きの両頁を植物文様で縁取り、左に人物の挿絵と表題、右に装飾頭文字と本文を配した本。",
+      "viewing_point": "左頁の人物を囲む葉と、右頁の文字を囲む葉を見比べたい。挿絵と活字は別の技術で作られたが、縁飾りの密度をそろえることで、見開き全体が一つの場面に見える。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "左頁の人物を囲む葉と、右頁の文字を囲む葉を見比べたい。挿絵と活字は別の技術で作られたが、縁飾りの密度をそろえることで、見開き全体が一つの場面に見える。"
+        }
+      ],
+      "sha256": "813b5c4b882fd5b025a0db54e4b264c3bd5ed0663c6062783b99ef504080a7e0",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-354288-small.webp",
+            "width": 600,
+            "height": 412
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-met-487291",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "竜文の皿",
+      "title_original": "Plate",
+      "year": "1890–1907年頃",
+      "author": "ウィリアム・ド・モーガン（図案）、サンズ・エンド陶器工房（製作）",
+      "institution": "メトロポリタン美術館",
+      "medium": "陶器",
+      "source_page": "https://www.metmuseum.org/art/collection/search/487291",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/487291",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Plate. The Metropolitan Museum of Art, Purchase, Edward C. Moore Jr. Gift, 1923, 23.163.1. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-487291.webp",
+      "width": 1200,
+      "height": 932,
+      "alt": "青と緑の円形の皿。外周の内側で竜が中心を囲み、体と尾を曲げる。",
+      "viewing_point": "一頭の竜の体に沿って目で線を引いてみる。円周に沿って体を曲げたことで、隣り合う竜の翼や尾が、皿全体を回る模様に変わっている。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "一頭の竜の体に沿って目で線を引いてみる。円周に沿って体を曲げたことで、隣り合う竜の翼や尾が、皿全体を回る模様に変わっている。"
+        }
+      ],
+      "sha256": "25911d82ab0e3852353a2fc6c3d405eba3e3f6e2911288e7e018615ccebf1385",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-487291-small.webp",
+            "width": 600,
+            "height": 466
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-met-487292",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "蓋付きの壺",
+      "title_original": "Vase with cover",
+      "year": "1888–1898年",
+      "author": "ウィリアム・ド・モーガン（図案）、サンズ・エンド陶器工房（製作）",
+      "institution": "メトロポリタン美術館",
+      "medium": "陶器",
+      "source_page": "https://www.metmuseum.org/art/collection/search/487292",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/487292",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Vase with cover. The Metropolitan Museum of Art, Purchase, Edward C. Moore Jr. Gift, 1923, 23.163.2ab. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-487292.webp",
+      "width": 783,
+      "height": 1200,
+      "alt": "丸い蓋とふくらんだ胴を持つ壺。淡い地に赤い動物や渦巻く線を配している。",
+      "viewing_point": "膨らんだ胴の左右では文様が曲面の奥に隠れる。皿の図案と見比べると、同じ工房が平らな面と立体の面で、見る人の視線をどう運んだかが分かる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "膨らんだ胴の左右では文様が曲面の奥に隠れる。皿の図案と見比べると、同じ工房が平らな面と立体の面で、見る人の視線をどう運んだかが分かる。"
+        }
+      ],
+      "sha256": "a83296d34dbc9fa028a19d09885de0daab7d145964f0976957b4e309abdd1b84",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-487292-small.webp",
+            "width": 398,
+            "height": 610
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-met-435826",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "愛の歌",
+      "title_original": "The Love Song",
+      "year": "1868–1877年",
+      "author": "エドワード・バーン＝ジョーンズ",
+      "institution": "メトロポリタン美術館",
+      "medium": "カンヴァスに油彩",
+      "source_page": "https://www.metmuseum.org/art/collection/search/435826",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/435826",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "The Love Song. The Metropolitan Museum of Art, The Alfred N. Punnett Endowment Fund, 1947, 47.26. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-met-435826.webp",
+      "width": 1200,
+      "height": 884,
+      "alt": "甲冑の人物と、オルガンを弾く人物、右でふいごを動かす人物。手前には花、奥には街並みが見える。",
+      "viewing_point": "画面右のキューピッドはオルガンのふいごを動かす。手と楽器が重なる位置を追うと、聞こえない音が三人を結ぶ。人物を取り巻く輪郭の強さを、同じ画家のステンドグラスと見比べよう。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "画面右のキューピッドはオルガンのふいごを動かす。手と楽器が重なる位置を追うと、聞こえない音が三人を結ぶ。人物を取り巻く輪郭の強さを、同じ画家のステンドグラスと見比べよう。"
+        }
+      ],
+      "sha256": "063ea385cca6afb1daf865350c6999738e986ef87bfc9245d78865fe72e40f72",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-met-435826-small.webp",
+            "width": 600,
+            "height": 442
+          }
+        ]
+      }
+    },
+    {
+      "id": "prb-may-honeysuckle",
+      "entry": "The Pre-Raphaelites and the Decorative Arts",
+      "title": "スイカズラ",
+      "title_original": "Honeysuckle",
+      "year": "1883年",
+      "author": "メイ・モリス（図案）、モリス商会（製作）",
+      "institution": "クーパー・ヒューイット・スミソニアン・デザイン博物館",
+      "medium": "紙に木版刷り",
+      "source_page": "https://www.si.edu/object/honeysuckle:chndm_1980-73-1",
+      "work_source_page": "https://www.si.edu/object/honeysuckle:chndm_1980-73-1",
+      "license": "CC0 1.0（Smithsonian Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "May Morris, Honeysuckle, 1883. Cooper Hewitt, Smithsonian Design Museum, Gift of Dr. Francis J. Geck, 1980-73-1. Photo: Matt Flynn. CC0.",
+      "local_file": "assets/pre-raphaelites/prb-may-honeysuckle.webp",
+      "width": 994,
+      "height": 1350,
+      "alt": "淡い地にスイカズラの花と葉が絡みながら一面に広がる壁紙。",
+      "viewing_point": "枝が何本も重なって見えるところで、一本の茎だけを目で追ってみよう。葉の向きが変わるたびに、同じ柄が続く面に奥行きが生まれる。",
+      "visual_notes": [
+        {
+          "title": "見る手がかり",
+          "text": "枝が何本も重なって見えるところで、一本の茎だけを目で追ってみよう。葉の向きが変わるたびに、同じ柄が続く面に奥行きが生まれる。"
+        }
+      ],
+      "sha256": "891a1c9f098fe16c2b1240614252eb9b01147807601668abce27f5c44ef92c0d",
+      "display_derivatives": {
+        "method": "全体を保ってWebPに縮小。",
+        "variants": [
+          {
+            "local_file": "assets/pre-raphaelites/prb-may-honeysuckle-small.webp",
+            "width": 449,
+            "height": 610
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

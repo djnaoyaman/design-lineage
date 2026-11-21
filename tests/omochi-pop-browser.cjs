@@ -32,7 +32,7 @@ fs.mkdirSync(out,{recursive:true});
   const detail=page.locator('.omochi-work details').first();
   await detail.evaluate(e=>e.open=false);await detail.locator('summary').focus();await page.keyboard.press('Enter');assert(await detail.evaluate(e=>e.open));await page.keyboard.press('Enter');assert(!(await detail.evaluate(e=>e.open)));
   await page.goto(base+'index.html');
-  await page.waitForFunction(()=>document.querySelectorAll('#items .entry').length===89);
+  await page.waitForFunction(()=>document.querySelectorAll('#items .entry').length===90);
   assert.equal(await page.locator('#omochi-pop-feature').count(),1);
   assert.equal(await page.locator('details.home-feature-banner').count(),2,'Existing feature behavior retained');
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
