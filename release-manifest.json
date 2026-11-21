@@ -1,8 +1,8 @@
 {
-  "release": "chronological-gallery-order",
+  "release": "representative-plates-01",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T07:06:00+09:00",
+  "frozen_at": "2026-11-22T07:30:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -33,13 +33,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 5161,
-      "sha256": "ea68babdeb836191ccacf7c5336ededf73d965050ce3d09469059b8e3cc9b23a"
+      "bytes": 5162,
+      "sha256": "366038be8a2ad9803a64b4917f65c38a5298efd110f108df87c9b434f6f45e8b"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 478216,
-      "sha256": "d9213d8bc1ab62f8b8d34cf111caf53166625cb0b4cb58650e8eae6ea196fa6d"
+      "bytes": 486137,
+      "sha256": "abd1019502068b6a079b21a66f12dfb01a3f3fb4c7e82d40c744bb4dfff5f074"
     },
     {
       "path": "analytics-status.json",
@@ -725,6 +725,46 @@
       "path": "assets/jakuchu-hen-rooster-grapevine-met-original.jpg",
       "bytes": 1966063,
       "sha256": "b1f83c1c16b738a9b2a565eb9e61d51d9d1f7e7f942d2c30d4422d481c004775"
+    },
+    {
+      "path": "assets/jugendstil/behrens-kiss-660.webp",
+      "bytes": 55576,
+      "sha256": "d8b3f615665fb11e937c5ddb22e1700c4a90f944b1b0ffcb78f7553531b09e0f"
+    },
+    {
+      "path": "assets/jugendstil/behrens-kiss.webp",
+      "bytes": 224184,
+      "sha256": "df352dbccbb602d08bb510c71de848b3d5d3535ebf0ded85b11b5b6a2e8a3e0f"
+    },
+    {
+      "path": "assets/jugendstil/ernst-ludwig-house-660.webp",
+      "bytes": 67594,
+      "sha256": "fbdbc11c150aa3eabe7a7548a55bd96535b48dd552b635620756a6f80d9b460a"
+    },
+    {
+      "path": "assets/jugendstil/ernst-ludwig-house.webp",
+      "bytes": 338422,
+      "sha256": "9b7c3019ef727bab65c851e9627d8ad48a4362383c6257240427d846a2d7b175"
+    },
+    {
+      "path": "assets/jugendstil/five-swans-660.webp",
+      "bytes": 27114,
+      "sha256": "0af4b094b07bda457e45d0225200fa9f04f21ecc7990a4eaca7bf434ff485cec"
+    },
+    {
+      "path": "assets/jugendstil/five-swans.webp",
+      "bytes": 137440,
+      "sha256": "a07f918f09cc7995bb47672cc3a081cf4301c2add3f504a4684e5b3f79e7a3c5"
+    },
+    {
+      "path": "assets/jugendstil/jugend-11-660.webp",
+      "bytes": 65976,
+      "sha256": "35d6ab6e512f3625c90283f629e37eb793f03fe086870244568edc7d8872fd6e"
+    },
+    {
+      "path": "assets/jugendstil/jugend-11.webp",
+      "bytes": 405704,
+      "sha256": "1fcbc04c4684f74a48ec408e8494a252572f00c040fa2fa117b77e3f905fbd7d"
     },
     {
       "path": "assets/kandinsky-meistermappe-1923-640.webp",
@@ -1988,8 +2028,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2073763,
-      "sha256": "20d5df51a010b73cb8976c765dbabb37c03a9452b5ad92c2dc8b04e522cc8143"
+      "bytes": 2084573,
+      "sha256": "07dd028be868aa986e91ef721ed487755caf612f1169bc5365a34dacb2d8cf2e"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -2153,8 +2193,8 @@
     },
     {
       "path": "entries/jugendstil.html",
-      "bytes": 14224,
-      "sha256": "d9b0e2579676b5da712bac354a11337be6f08066b2f9d063282c6382ce5dfce0"
+      "bytes": 24282,
+      "sha256": "1f493c60d3fe369e65f54e4abd10ead081209f08936e1700c62cfbbf328577e7"
     },
     {
       "path": "entries/khartoum-school.html",
@@ -2478,8 +2518,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 59764,
-      "sha256": "f9f134414fbb200f0264504fb8778c263897a89f0f4e5ce2270571aa5597afd4"
+      "bytes": 60405,
+      "sha256": "3c9b8f9a7d7c870a40f32af93b50350652057d73e064bbdd4c0aeb504f5eeea1"
     },
     {
       "path": "japanese-name-sources.json",
@@ -2604,7 +2644,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "6fb9858207be04494a176565c2f2016bbf5faa755dbe41cb62e36160920c7775"
+      "sha256": "c8cfe6c8dd36615b6319006ae9944706a1f3ca9f9f0d68c63fad913d721e5641"
     },
     {
       "path": "site.webmanifest",
@@ -2613,8 +2653,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 13079,
-      "sha256": "0ff834041faa74598c5ba8bd5c72e951b672d21c022b829063d80c553f2e5841"
+      "bytes": 13049,
+      "sha256": "8619fc5eec1984e0e87e46944a568e333d5ecb535164eb5bf335df147b2e28c1"
     },
     {
       "path": "study-images.js",
@@ -2654,7 +2694,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "d94de9644e48ec4fb944f2c73b0488788060dbf09f50bca56fc6f19473b382db"
+      "sha256": "8998b1e858d761da26fee52b546e31c1ce09f783e6f5598e088a4c5d80c34a15"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -2664,7 +2704,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "31629d1ce55b79df5ac0971707b8447f93126dc8e5a79520c7728d8dd6bbc8f1"
+      "sha256": "2b50f00ebbab9592c3491fb07e8c47d53623ad1222f3b54c67ffc85e17bb564e"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -2723,8 +2763,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 149857,
-      "sha256": "96a57b966c4d11af04944a9a17b5fa8270d4f96c04c288a71af6bef0ae3957f0"
+      "bytes": 150502,
+      "sha256": "7f1f3545149e6c87327c0ccadbd7fd0efeb3ece1d650c740e6a6f378ab6089b6"
     }
   ]
 }
