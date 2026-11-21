@@ -41,19 +41,17 @@
     return { visible, groups: BANDS.map(b => ({ ...b, entries: chronology.sort(visible.filter(e => e.bands.includes(b.id))) })) };
   }
 
-  function entryLinks(entry, all) {
+  function entryLinks(entry) {
     if (!entry.slug) return '<span class="timeline-link-unavailable">詳細リンクを確認中</span>';
-    const other = all.find(e => e.slug && e.slug !== entry.slug);
     const q = new URLSearchParams({ a: entry.slug });
-    if (other) q.set('b', other.slug);
     return `<a href="entries/${entry.slug}.html">本文・出典を読む ↗</a><a href="compare.html?${escapeHTML(q.toString())}">項目を比較 ↗</a>`;
   }
 
-  function card(entry, all) {
+  function card(entry) {
     const evidence=chronology.records[entry.slug];
     const supplement=evidence?.additional_source?`<p class="chronology-source">並び順の補足：${escapeHTML(evidence.sort_label)} <a href="${escapeHTML(evidence.additional_source)}" target="_blank" rel="noreferrer">年代の出典 ↗</a></p>`:'';
     const cross = entry.bands.length > 1 ? `<p class="timeline-cross-band">複数区分に表示：${entry.bands.map(id => escapeHTML(BANDS.find(b => b.id === id).label)).join(' / ')}</p>` : '';
-    return `<article class="timeline-card" data-chronology-slug="${escapeHTML(entry.slug||'')}"><p class="timeline-card-kind">${escapeHTML(entry.type)}</p><h3>${escapeHTML(entry.title_ja)}</h3><p class="timeline-card-ja">${escapeHTML(entry.name)}</p><dl><div><dt>年代</dt><dd>${escapeHTML(entry.period)}</dd></div><div><dt>地域</dt><dd>${escapeHTML(entry.region)}</dd></div></dl>${supplement}${cross}<p class="timeline-card-status">${escapeHTML(entry.status)}</p><div class="timeline-card-links">${entryLinks(entry, all)}</div></article>`;
+    return `<article class="timeline-card" data-chronology-slug="${escapeHTML(entry.slug||'')}"><p class="timeline-card-kind">${escapeHTML(entry.type)}</p><h3>${escapeHTML(entry.title_ja)}</h3><p class="timeline-card-ja">${escapeHTML(entry.name)}</p><dl><div><dt>年代</dt><dd>${escapeHTML(entry.period)}</dd></div><div><dt>地域</dt><dd>${escapeHTML(entry.region)}</dd></div></dl>${supplement}${cross}<p class="timeline-card-status">${escapeHTML(entry.status)}</p><div class="timeline-card-links">${entryLinks(entry)}</div></article>`;
   }
 
   function renderTimeline(entries, query) {
@@ -61,7 +59,7 @@
     const filtered = String(query || '').trim().length > 0;
     const html = result.groups.map((band, i) => {
       const empty = filtered ? 'この検索条件に合う本文試作はありません。条件を変更すると他の項目も表示できます。' : band.id === 'unreviewed' ? '現在の本文試作には、この別枠へ分類する項目はありません。未確定の期間タグがある場合は、推測せずここに表示します。' : 'この区分に確認済みの期間タグを持つ本文試作は、まだありません。図鑑全体の未収録を意味し、歴史的な空白ではありません。';
-      return `<section id="band-${band.id}" class="timeline-band${band.id === 'unreviewed' ? ' timeline-band-pending' : ''}" aria-labelledby="title-${band.id}"><div class="timeline-band-head"><span class="timeline-band-index">0${i + 1} / ${escapeHTML(band.label)}</span><h2 id="title-${band.id}">${escapeHTML(band.title)}</h2><p>${escapeHTML(band.note)}</p><span class="timeline-band-count">${band.entries.length} ${band.entries.length === 1 ? 'ENTRY' : 'ENTRIES'}</span></div><div class="timeline-cards">${band.entries.length ? band.entries.map(e => card(e, entries)).join('') : `<p class="timeline-empty">${escapeHTML(empty)}</p>`}</div></section>`;
+      return `<section id="band-${band.id}" class="timeline-band${band.id === 'unreviewed' ? ' timeline-band-pending' : ''}" aria-labelledby="title-${band.id}"><div class="timeline-band-head"><span class="timeline-band-index">0${i + 1} / ${escapeHTML(band.label)}</span><h2 id="title-${band.id}">${escapeHTML(band.title)}</h2><p>${escapeHTML(band.note)}</p><span class="timeline-band-count">${band.entries.length} ${band.entries.length === 1 ? 'ENTRY' : 'ENTRIES'}</span></div><div class="timeline-cards">${band.entries.length ? band.entries.map(e => card(e)).join('') : `<p class="timeline-empty">${escapeHTML(empty)}</p>`}</div></section>`;
     }).join('');
     const appearances = result.groups.reduce((sum, b) => sum + b.entries.length, 0);
     return { html, uniqueCount: result.visible.length, appearances, status: `${result.visible.length} / ${entries.length} 件の本文試作を表示。区分ごとの延べ表示は ${appearances} 件です（複数区分にまたがる同じ記事を含みます）。` };

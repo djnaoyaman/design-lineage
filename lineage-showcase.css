@@ -113,3 +113,9 @@ body:has(.showcase-viewer[open]) { overflow: hidden; }
   .showcase-card.showcase-arriving figure { animation: showcase-in .64s cubic-bezier(.22,1,.36,1) both; }
   @keyframes showcase-in { from { opacity: .35; clip-path: inset(0 0 45%); translate: 0 15px; } to { opacity: 1; clip-path: inset(0); translate: 0; } }
 }
+
+.reading-entrances { display: flex; flex-wrap: wrap; align-items: center; justify-self: end; gap: 6px 20px; }
+.reading-entrances .reading-question, .viewer-reading a { display: inline-flex; align-items: center; min-height: 44px; text-underline-offset: .22em; }
+.reading-entrances .reading-question { color: var(--accent); font-weight: 700; font-size: .93rem; }
+.viewer-reading { display: flex; align-items: center; flex-wrap: wrap; gap: 0 1.4rem; }
+@media (max-width: 650px) { .reading-entrances { justify-self: start; } }

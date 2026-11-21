@@ -110,3 +110,27 @@
   html { scroll-behavior: auto; }
   .edition-compare-image::after { transition: none; }
 }
+
+.reading-questions { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 0 24px; margin: 1.75rem 0; scroll-margin-top: 1rem; }
+.reading-questions a { display: grid; align-content: start; gap: .25rem; padding: .7rem 0; border-top: 1px solid var(--ink); text-decoration: none; }
+.reading-questions strong { font-size: clamp(1rem,1.9vw,1.4rem); letter-spacing: -.035em; }
+.reading-questions span { font-size: .875rem; color: var(--muted); }
+.reading-questions a:is(:hover,:focus-visible,[aria-current]) { color: var(--accent); border-color: currentColor; }
+.edition-comparison .edition-pair { grid-template-columns: repeat(2,minmax(0,1fr)); }
+.edition-pair > figure { min-width: 0; overflow-wrap: anywhere; }
+.compare-art-stage { display: grid; place-items: center; height: clamp(9rem,34vw,23rem); background: #eeede8; }
+.compare-art-stage .edition-compare-image { max-width: 100%; width: fit-content; }
+.compare-art-stage img { display: block; width: auto; max-width: 100%; max-height: clamp(9rem,34vw,23rem); }
+.compare-art-stage .edition-compare-image::after { box-sizing: border-box; }
+.compare-entry-title { font-weight: 700; font-size: clamp(1rem,2vw,1.45rem); line-height: 1.4; }
+.compare-reading-hint { margin: .35rem 0 1rem; }
+.edition-pair .compare-image-credit { font-size: .85rem; line-height: 1.6; }
+.compare-image-credit summary { cursor: pointer; text-decoration: underline; text-underline-offset: .2em; }
+.edition-pair .compare-text-example { padding: clamp(.65rem,2vw,1.3rem); display: grid; align-content: center; gap: .45rem; background: #eeede8; min-height: clamp(9rem,34vw,23rem); box-sizing: border-box; }
+.compare-text-example small { font-size: .82rem; }
+.compare-text-example strong { line-height: 1.5; }
+@media (max-width: 650px) {
+  .reading-questions { grid-template-columns: 1fr; margin: 1.25rem 0; }
+  .reading-questions a { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: .15rem .55rem; }
+  .edition-comparison .edition-pair { gap: .75rem; }
+}

@@ -2,3 +2,5 @@
  .chapter-navigation a:after{content:none}
 /* Keep the adjacent footer within the reading viewport at 200% zoom. */
 footer .footer-brand{min-width:0;max-width:100%}footer .footer-brand img{max-width:100%;height:auto}
+
+.chapter-reading-link { display: inline-flex; align-items: center; min-height: 44px; margin-bottom: .8rem; color: var(--accent); font-size: 1rem; font-weight: 700; text-underline-offset: .22em; }

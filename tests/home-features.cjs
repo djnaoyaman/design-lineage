@@ -33,6 +33,19 @@ await highlight.click();
 assert.equal(await highlight.getAttribute('aria-pressed'),'true');
 assert.equal(await edition.locator('#visual-comparison[data-marked]').count(),1);
 assert(await edition.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1));
+await edition.locator('.reading-questions a').nth(1).click();
+await edition.waitForFunction(() => document.querySelector('#visual-comparison-title').textContent.includes('器のどこ'));
+assert.equal(await edition.locator('.edition-pair img').count(),2);
+await edition.locator('.edition-pair img').evaluateAll(images => Promise.all(images.map(image => image.decode())));
+assert.match(await edition.locator('.edition-pair figure').first().innerText(),/ロココ/);
+assert.equal(await highlight.isVisible(),false);
+await edition.locator('#select-b').selectOption('swiss-style');
+assert.equal(await edition.locator('.edition-pair img').count(),1);
+assert.match(await edition.locator('.edition-pair figure').nth(1).innerText(),/本文に登場する作品/);
+await edition.goto('http://127.0.0.1:8793/entries/rococo.html');
+await edition.locator('.chapter-reading-link').click();
+await edition.waitForFunction(() => document.querySelector('#select-b')?.value === 'art-deco');
+assert.equal(await edition.locator('#select-a').inputValue(),'rococo');
 await edition.close();
 
 for (const width of [390, 1280]) {
