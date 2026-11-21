@@ -1,0 +1,112 @@
+.edition-comparison {
+  margin: 0 0 clamp(24px, 4vw, 56px);
+  padding-block: clamp(15px, 3vw, 34px);
+  border-bottom: 1px solid var(--line);
+}
+.edition-feature-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px 28px;
+  margin-bottom: 16px;
+}
+.edition-feature-head h2 {
+  font-size: clamp(26px, 4.5vw, 62px);
+  line-height: 1.12;
+  letter-spacing: -.05em;
+  margin: 0;
+}
+.edition-feature-head p { margin: 8px 0 0; }
+.edition-feature-head a { font-size: .85rem; }
+.edition-pair {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  align-items: start;
+  gap: clamp(10px, 3vw, 38px);
+}
+
+#catalog > .preview-note { margin: 20px 0; }
+#items .edition-catalog-art { margin: 0 0 15px; }
+.edition-catalog-art img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: clamp(150px, 20vw, 290px);
+}
+.edition-catalog-art figcaption, .edition-empty {
+  font-size: .75rem;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 8px 0 0;
+}
+.edition-catalog-art small { display: block; }
+#items.list :is(.edition-catalog-art, .edition-empty) { display: none; }
+#items:not(.list) .entry { align-self: start; }
+.edition-article-art {
+  margin: 22px 0 clamp(32px, 7vw, 88px);
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 12px 28px;
+  align-items: end;
+}
+.edition-article-art img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: min(54vh, 480px);
+}
+.edition-article-art figcaption > * { display: block; }
+.edition-article-art figcaption span { color: var(--muted); font-size: .85rem; }
+.edition-article-art figcaption a { margin-top: 8px; }
+.edition-comparison { border-top: 1px solid var(--line); }
+.edition-comparison .edition-pair { align-items: start; }
+.edition-comparison figure { margin: 0; }
+.edition-compare-image { position: relative; }
+.edition-compare-image img { width: 100%; height: auto; display: block; }
+.edition-compare-image::after {
+  content: "";
+  position: absolute;
+  left: var(--mark-x);
+  top: var(--mark-y);
+  width: var(--mark-width);
+  height: var(--mark-height);
+  border: 2px solid var(--accent);
+  box-shadow: 0 0 0 1px white;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .2s ease;
+}
+.edition-compare-bauhaus { --mark-x: 3%; --mark-y: 33%; --mark-width: 28%; --mark-height: 48%; }
+.edition-compare-rinpa { --mark-x: 36%; --mark-y: 32%; --mark-width: 51%; --mark-height: 32%; }
+.edition-comparison[data-marked] .edition-compare-image::after { opacity: 1; }
+.edition-comparison figcaption { margin-top: 9px; }
+.edition-comparison figcaption p { margin: 3px 0; font-size: .88rem; }
+.edition-compare-toggle { cursor: pointer; }
+#omochi-pop-feature { position: relative; isolation: isolate; }
+.edition-omochi-art { display: flex; align-items: center; gap: 7px; pointer-events: none; }
+.edition-omochi-art i { display: block; width: clamp(22px, 3.5vw, 52px); aspect-ratio: 1; border: 3px solid #202121; border-radius: 40%; background: #f8cd62; transform: rotate(-13deg); }
+.edition-omochi-art i:nth-child(2) { border-radius: 50%; background: #fff8e1; transform: translateY(-7px); }
+.edition-omochi-art i:nth-child(3) { border-radius: 45% 45% 20% 20%; background: #ed826e; transform: rotate(15deg); }
+@media (max-width: 650px) {
+  .edition-article-art { grid-template-columns: 1fr; }
+
+  .edition-comparison .edition-pair { grid-template-columns: 1fr; }
+  .edition-compare-bauhaus { max-width: 290px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  @view-transition { navigation: auto; }
+  ::view-transition-group(*) { animation-duration: .34s; }
+  .edition-article-art .edition-bauhaus { view-transition-name: edition-bauhaus; }
+  .edition-article-art .edition-rinpa { view-transition-name: edition-rinpa; }
+  .editor-original-feature.edition-in-view .edition-omochi-art i { animation: edition-omochi-arrive .55s cubic-bezier(.22,1,.36,1) both; }
+  .editor-original-feature.edition-in-view .edition-omochi-art i:nth-child(2) { animation-delay: .07s; }
+  .editor-original-feature.edition-in-view .edition-omochi-art i:nth-child(3) { animation-delay: .14s; }
+  @keyframes edition-omochi-arrive { from { opacity: 0; translate: 0 13px; scale: .74; } }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .edition-compare-image::after { transition: none; }
+}
