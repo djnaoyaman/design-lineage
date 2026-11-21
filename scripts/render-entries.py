@@ -54,23 +54,45 @@ def image_html(im,reference=False):
  if im.get('display_derivatives'):rights+=pp(im['display_derivatives'].get('method',''))
  return f'''<figure id="{E(im.get('presentation',{}).get('anchor') or im.get('id',''))}" class="collected-art{' reference-art' if reference else ''}"><p class="eyebrow">{label}</p><a class="art-fullsize" href="../{E(f)}" target="_blank" rel="noopener noreferrer"><img src="../{E(display)}"{srcset} width="{w}" height="{h}" alt="{E(desc)}" style="width:{min(w,1200)}px;max-width:100%;height:auto;object-fit:contain{chr(59)+"image-rendering:pixelated" if im.get("rendering")=="pixelated" else ""}" loading="lazy" decoding="async"></a><p class="preview-error" hidden>画像を表示できませんでした。下の出典ページで確認できます。</p><figcaption><h2>{E(im.get('title',''))}</h2>{pp(' / '.join(str(im.get(k,'')) for k in ['author','year'] if im.get(k)))}{pp(im.get('presentation',{}).get('scope_note',''))}<div class="art-observations">{observations}</div><p class="credit">{E(im.get('credit',''))}</p>{link(im['source_page'],'出典で作品・資料を見る')}<details><summary>画像の記録と、利用条件</summary>{rights}</details></figcaption></figure>'''
 
+def work_year(label):
+ # The year of the original work takes precedence over subsequent edits or reproductions.
+ if re.match(r'(?:原)?制作年(?:未|は未)',label): return None
+ match=re.search(r'(?<!\d)([12]\d{3})(?!\d)',label)
+ return int(match[1]) if match else None
+
+def chronological_works(items, field):
+ def order(item):
+  year=work_year(item[field])
+  return (year is None,year)
+ return sorted(items,key=order)
+
 def grouped_gallery(entry, images):
  groups = entry['gallery_groups']
- figures = {image['id']:image for image in images}
+ group_for = {ident:g['id'] for g in groups for ident in g['works']}
+ ordered = chronological_works(images,'year')
  def tile(image):
   small = (image.get('display_derivatives') or {}).get('variants') or [image]
   preview = small[0]
   rights = link(image['source_page'],'所蔵・作品記録') + ' · ' + link(image['work_source_page'],'図版の出典') + ' · ' + link(image['license_url'],image['license'])
-  return f'''<figure class="plate" id="{E(image['id'])}"><a class="plate-image" href="../{E(image['local_file'])}" aria-label="{E(image['title'])}を拡大"><img src="../{E(preview['local_file'])}" srcset="../{E(preview['local_file'])} {preview['width']}w, ../{E(image['local_file'])} {image['width']}w" sizes="(max-width:650px) 88vw, 37vw" width="{preview['width']}" height="{preview['height']}" alt="{E(image['alt'])}" loading="lazy" decoding="async"></a><figcaption><h4>{E(image['title'])}</h4><p class="plate-meta">{E(image['author'])} · {E(image['year'])}</p><p>{E(image['viewing_point'])}</p><details><summary>原題・所蔵・図版の記録</summary><p lang="en">{E(image['title_original'])}</p><p>{E(image['medium'])}／{E(image['institution'])}</p><p>{E(image['credit'])}</p><p>{rights}</p></details></figcaption></figure>'''
- links = ''.join(f'<li><a href="#{E(g["id"])}">{E(g["short"])}</a></li>' for g in groups)
- artists={}
- for image in images:
-  artists.setdefault(image['author'],[]).append(image)
- artist_links=''.join('<li><a href="#'+E(works[0]['id'])+'">'+E(author)+'</a></li>' for author,works in artists.items())
- html = '<section class="grouped-gallery" id="actual-works"><h2>作品図録</h2><nav aria-label="画家・工房から図版を探す"><ul>'+links+'</ul></nav><details class="plate-artist-index"><summary>作家・工房の名前から探す</summary><ul>'+artist_links+'</ul></details>'
+  return f'''<figure class="plate" id="{E(image['id'])}" data-group="{E(group_for[image['id']])}"><a class="plate-image" href="../{E(image['local_file'])}" aria-label="{E(image['title'])}を拡大"><img src="../{E(preview['local_file'])}" srcset="../{E(preview['local_file'])} {preview['width']}w, ../{E(image['local_file'])} {image['width']}w" sizes="(max-width:650px) 88vw, 37vw" width="{preview['width']}" height="{preview['height']}" alt="{E(image['alt'])}" loading="lazy" decoding="async"></a><figcaption><h4>{E(image['title'])}</h4><p class="plate-meta">{E(image['author'])} · {E(image['year'])}</p><p>{E(image['viewing_point'])}</p><details><summary>原題・所蔵・図版の記録</summary><p lang="en">{E(image['title_original'])}</p><p>{E(image['medium'])}／{E(image['institution'])}</p><p>{E(image['credit'])}</p><p>{rights}</p></details></figcaption></figure>'''
+ links=''.join(f'<li><a href="#{E(g["id"])}">{E(g["short"])}</a></li>' for g in groups)
+ authors={}
+ for image in ordered:
+  authors.setdefault(image['author'],image['id'])
+ artist_links=''.join(f'<li><a href="#{E(ident)}">{E(author)}</a></li>' for author,ident in authors.items())
+ html = '<section class="grouped-gallery" id="actual-works"><h2>作品図録</h2><p>制作年の古い順に並んでいます。制作期間が複数年にわたる作品は最初の年に、制作年未詳の作品は末尾に掲載しています。</p><nav aria-label="画家・工房で絞り込む"><ul><li><a href="#actual-works">すべての作品</a></li>'+links+'</ul></nav><details class="plate-artist-index"><summary>作家・工房の名前から探す</summary><ul>'+artist_links+'</ul></details>'
  for group in groups:
-  plates = ''.join(tile(figures[ident]) for ident in group['works'])
-  html += f'<section class="plate-section" id="{E(group["id"])}"><h3>{E(group["title"])}</h3><p>{E(group["intro"])}</p><div class="plate-grid">{plates}</div></section>'
+  # A fragment is usable even without JavaScript: it opens an index of the matching plates.
+  titles=''.join(f'<li><a href="#{E(i["id"])}">{E(i["title"])}（{E(i["year"])}）</a></li>' for i in ordered if group_for[i['id']]==group['id'])
+  html+=f'<div class="plate-group-info" id="{E(group["id"])}"><h3>{E(group["title"])}</h3><p>{E(group["intro"])}</p><details><summary>作品名から探す</summary><ul>{titles}</ul></details><a href="#actual-works">全作品の年代順に戻る</a></div>'
+ decades={}
+ for image in ordered:
+  year=work_year(image['year'])
+  label=f'{year // 10 * 10}年代' if year is not None else '制作年未詳'
+  decades.setdefault(label,[]).append(tile(image))
+ for label,plates in decades.items():
+  html+=f'<section class="plate-section"><h3>{label}</h3><div class="plate-grid">{"".join(plates)}</div></section>'
+
  return html+'</section>'
 
 def representative(w,n):
@@ -136,14 +158,16 @@ def render(entry,template,stamp,navigation_html="",artist_registry=None):
  body=f'''<main id="main" tabindex="-1" class="study"><p class="study-status">{status}</p><div class="study-title"><p class="eyebrow">{E(entry['type'])}</p><h1{title_attrs}>{title_markup}</h1>{('<p class="ja-title">'+E(entry['name'])+'</p>') if entry['name']!=title else ''}<dl><div><dt>時期</dt><dd>{E(entry['period'])}</dd></div><div><dt>地域</dt><dd>{E(entry['region'])}</dd></div></dl></div><section class="reading-entrance"><h2>{E(intro.get('heading') or title)}</h2>{pp(lead)}{('<ul class="looking-questions" aria-label="見るときの問い">'+questions+'</ul>') if questions else ''}</section>'''
  body+='<nav class="article-index" aria-label="このページの目次"><h2>気になるところから読む</h2><ul><li><a href="#actual-works">'+('実作品を大きく見る' if actual else '作品画像の掲載状況')+'</a></li><li><a href="#representative-works">作品の記録を読む</a></li><li><a href="#deeper-story">背景と地域の違い</a></li><li><a href="#article-timeline">年表</a></li><li><a href="#article-glossary">ことばの意味</a></li>'+('<li><a href="#article-artists">関わる人と代表作</a></li>' if entry.get('artist_ids') else '')+'</ul></nav>' if entry.get('deep_dive') else ''
  if entry.get('gallery_groups'):
-  head=head.replace('</head>','<link rel="stylesheet" href="../plate-gallery.css"></head>')
+  head=head.replace('</head>','<link rel="stylesheet" href="../plate-gallery.css?v=chronological"><script src="../plate-gallery.js" defer></script></head>')
   body+=grouped_gallery(entry,actual)
  if entry.get('deep_dive') and actual and not entry.get('gallery_groups'):
   body+='<details class="article-image-index"><summary>掲載画像から選ぶ（'+str(len(actual))+'点）</summary><ul>'+''.join('<li><a href="#'+E(im.get('presentation',{}).get('anchor') or im['id'])+'">'+E(im['title'])+'</a></li>' for im in actual)+'</ul></details>'
  if not entry.get('gallery_groups'):body+='<div id="actual-works">'+''.join(image_html(i).replace('loading="lazy"','loading="eager"',1) if n==0 else image_html(i) for n,i in enumerate(actual))+''.join(image_html(i,True) for i in refs)+'</div>'
  if not actual:body+='<p class="note">'+E(entry.get('image_status_note') or '実作品の画像は、まだ掲載していません。下の出典リンクから作品を確かめられます。参照図や説明図は、実作品の画像とは別に数えます。')+'</p>'
  body+='<section id="representative-works"><h2 class="study-section-title">'+E(entry.get('example_section_label') or '作品・制作の例を見比べる。')+'</h2>'+pp(entry.get('canonical_status_note',''))
- works_html=''.join(representative(w,i) for i,w in enumerate(entry.get('representatives',[]),1))
+ works=entry.get('representatives',[])
+ if entry.get('gallery_groups'): works=chronological_works(works,'date')
+ works_html=''.join(representative(w,i) for i,w in enumerate(works,1))
  if entry.get('gallery_groups'):
   works_html='<details><summary>全作品の原題・制作年・出典を読む</summary>'+works_html+'</details>'
  body+=works_html+'</section>'
