@@ -33,7 +33,7 @@
       {duration:360, easing:'cubic-bezier(.22,1,.36,1)'}
     );
   });
-  showMode('image');
+  showMode(matchMedia('(max-width: 760px)').matches ? 'text' : 'image');
 
   if ('IntersectionObserver' in window && motion.matches) {
     const observer = new IntersectionObserver(changes => {
