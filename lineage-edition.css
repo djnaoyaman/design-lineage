@@ -136,3 +136,9 @@
   html { scroll-behavior: auto; }
   .edition-card img, .edition-compare-image::after { transition: none; }
 }
+
+/* Match the feature's gutter to the introductory title. */
+.edition-feature { margin-inline: 4vw; }
+@media (max-width: 650px) {
+  .edition-feature { margin-inline: 6vw; }
+}
