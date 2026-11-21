@@ -18,6 +18,41 @@ for(const band of await p.locator('.timeline-band').all()){const got=await band.
 await p.locator('#band-pre1900').evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await p.screenshot({path:`qa-artifacts/chronology-timeline-${width}.png`});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
 await p.locator('#timeline-query').fill('デザイン');await p.locator('#timeline-reset').click();assert.deepEqual(errors,[]);results.push({width,known:68,pending:22,filters:true,gridList:true,timeline:true,errors});await p.close();
 }
+// Plate views keep the same chronology when filtered or opened from an existing bookmark.
+const check=await browser.newPage({viewport:{width:390,height:844}});
+await check.goto(base+'index.html#selected-works');
+function year(text) {
+  if (/^(原)?制作年未/.test(text)) return Infinity;
+  if (text==='18世紀初頭') return 1700;
+  return Number(text.match(/\d{4}/)?.[0] ?? Infinity);
+}
+function checkOrder(labels) {
+  const dates=labels.map(year);
+  assert.deepEqual(dates,[...dates].sort((a,b)=>a-b));
+}
+const featured=check.locator('.showcase-card time');
+assert.equal(await featured.count(),37);
+checkOrder(await featured.allTextContents());
+await check.goto(base+'works.html');
+const articles=await check.locator('.works-article[href^="entries/"]').evaluateAll(links=>links.map(a=>a.getAttribute('href').split('/')[1].split('.')[0]));
+assert.deepEqual(articles,c.sort(entries).map(e=>e.slug));
+await check.goto(base+'entries/pre-raphaelites.html#actual-works');
+const plates=check.locator('.plate:visible');
+async function checkPlates(count) {
+  await check.waitForFunction(expected=>document.querySelectorAll('.plate:not([hidden])').length===expected,count);
+  assert.equal(await plates.count(),count);
+  checkOrder((await plates.locator('.plate-meta').allTextContents()).map(label=>label.split(' · ').at(-1)));
+}
+await checkPlates(57);
+await check.locator('nav a[href="#plate-millais"]').click();
+await checkPlates(8);
+await check.goto(base+'entries/pre-raphaelites.html#plate-waterhouse');
+await checkPlates(9);
+await check.locator('.plate-group-info:target a[href="#actual-works"]').click();
+await checkPlates(57);
+await check.goBack();
+await checkPlates(9);
+await check.close();
 const p=await browser.newPage();await p.route('**/entries.json',r=>r.fulfill({status:503,body:'unavailable'}));await p.goto(base+'index.html#catalog');await p.waitForFunction(()=>document.querySelector('#count').textContent.includes('年代の情報を読み込めません'));assert.equal(await p.locator('#items article').count(),0,'Never fall back to unsorted list on missing chronology source');await p.close();
 fs.writeFileSync('qa-artifacts/chronology-results.json',JSON.stringify({results,failures:[]},null,2));
 }finally{await browser.close();}})().catch(e=>{fs.writeFileSync('qa-artifacts/chronology-failure.json',JSON.stringify({error:String(e),results},null,2));console.error(e);process.exitCode=1;});

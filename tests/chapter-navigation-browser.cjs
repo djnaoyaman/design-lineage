@@ -6,17 +6,17 @@ const articles=JSON.parse(fs.readFileSync('entries.json','utf8'));const catalogu
   const page=await browser.newPage({viewport:{width,height:900},hasTouch:true});
   await page.goto('http://127.0.0.1:8793/entries/art-deco.html');
   const nav=page.locator('.chapter-navigation');await nav.scrollIntoViewIfNeeded();await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(400);
-  assert.equal(await nav.locator('a[rel=prev]').getAttribute('href'),'esdi-rio.html');
-  assert.equal(await nav.locator('a[rel=next]').getAttribute('href'),'streamline-moderne.html');
+  assert.equal(await nav.locator('a[rel=prev]').getAttribute('href'),'vkhutemas.html');
+  assert.equal(await nav.locator('a[rel=next]').getAttribute('href'),'international-style.html');
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
   fs.mkdirSync('qa-artifacts',{recursive:true});await page.screenshot({path:`qa-artifacts/chapter-navigation-${width}.png`});
-  await nav.locator('a[rel=next]').click();await page.waitForURL('**/streamline-moderne.html');
+  await nav.locator('a[rel=next]').click();await page.waitForURL('**/international-style.html');
   await page.goBack();await page.waitForURL('**/art-deco.html');
-  await page.evaluate(()=>document.activeElement?.blur());await page.keyboard.press('ArrowLeft');await page.waitForURL('**/esdi-rio.html');
+  await page.evaluate(()=>document.activeElement?.blur());await page.keyboard.press('ArrowLeft');await page.waitForURL('**/vkhutemas.html');
   await page.goBack();await page.waitForURL('**/art-deco.html');
   await page.locator('.chapter-navigation a[rel=next]').focus();await page.keyboard.press('ArrowLeft');assert(page.url().endsWith('/art-deco.html'));
   // BFCache or full reload must both release the repeated-navigation latch.
-  await page.evaluate(()=>document.activeElement?.blur());await page.keyboard.press('ArrowRight');await page.waitForURL('**/streamline-moderne.html');
+  await page.evaluate(()=>document.activeElement?.blur());await page.keyboard.press('ArrowRight');await page.waitForURL('**/international-style.html');
   await page.goto('http://127.0.0.1:8793/entries/art-deco.html');
   const cdp=await page.context().newCDPSession(page);
   async function stable(){await page.evaluate(async()=>{await document.fonts.ready;await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));});await page.waitForTimeout(350);}
@@ -36,9 +36,9 @@ const articles=JSON.parse(fs.readFileSync('entries.json','utf8'));const catalogu
    await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});await page.waitForTimeout(200);
   }
   const heading=()=>page.locator('.chapter-navigation h2');
-  await gesture(heading());await page.waitForURL('**/streamline-moderne.html');
+  await gesture(heading());await page.waitForURL('**/international-style.html');
   await page.goBack();await page.waitForURL('**/art-deco.html');
-  await page.goForward();await page.waitForURL('**/streamline-moderne.html');
+  await page.goForward();await page.waitForURL('**/international-style.html');
   await gesture(page.locator('.chapter-navigation h2'),'right');await page.waitForURL('**/art-deco.html');
   for(const [name,dy,edge]of [['edge',0,true],['diagonal',65,false],['vertical',120,false]]){
    await gesture(heading(),name==='vertical'?'vertical':'left',dy,edge);assert(page.url().endsWith('/art-deco.html'),name);
