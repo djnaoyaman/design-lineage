@@ -4,7 +4,7 @@ const registryData=JSON.parse(fs.readFileSync('artists.json','utf8'));
 const artistRegistry=[...registryData.artists,...(registryData.organizations||[])];
 const catalog=JSON.parse(fs.readFileSync('catalog.json','utf8'));
 assert.equal(new Set(entries.map(e=>e.slug)).size,entries.length);
-assert.equal(catalog.length,89);
+assert.equal(catalog.length,90);
 assert.equal(JSON.parse(fs.readFileSync('release-manifest.json','utf8')).chapter_navigation.articles,entries.length);
 const pageDates=JSON.parse(fs.readFileSync('site-update.json','utf8'));assert.equal(pageDates.page_count,Object.keys(pageDates.pages).length);
 for(const e of entries){assert(catalog.some(c=>c.name===e.name),e.name);assert(fs.existsSync(`entries/${e.slug}.html`));for(const im of [...(e.adopted_images||[]),...(e.reference_images||[])])if(im.local_file)assert(fs.existsSync(im.local_file),im.local_file);}
@@ -18,6 +18,19 @@ for(const width of [320,390,1280]){
   await page.goto(`http://127.0.0.1:8793/entries/${slug}.html`,{waitUntil:'load'});
   await page.locator('footer').scrollIntoViewIfNeeded();
   const r=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,cards:[...document.querySelectorAll('.representative>div')].map(e=>({body:e.getBoundingClientRect().width,card:e.parentElement.getBoundingClientRect().width})),footer:getComputedStyle(document.querySelector('footer .footer-brand img')).filter,header:getComputedStyle(document.querySelector('header .brand img')).filter}));
+  if (slug === 'pre-raphaelites') {
+   const featured = entries.find(entry => entry.slug === slug);
+   const plates = page.locator('.grouped-gallery figure.plate');
+   assert.equal(await plates.count(), featured.adopted_images.length);
+   assert(featured.adopted_images.length > Math.max(...entries.filter(entry => entry !== featured).map(entry => entry.adopted_images?.length || 0)));
+   for (const id of ['ophelia','shalott','lancelot','half-sick','proserpine','prb-met-195456']) {
+    const image = page.locator('#' + id + ' img');
+    await image.scrollIntoViewIfNeeded();
+    await image.evaluate(element => element.decode());
+   }
+   await page.getByText('作家・工房の名前から探す',{exact:true}).click();
+   assert(await page.locator('.plate-artist-index a[href="#ophelia"]').isVisible());
+  }
   if(['rinpa','rococo','art-deco','russian-constructivism'].includes(slug)&&width<400){
    await page.evaluate(()=>document.fonts.ready);
    const scopeText=slug==='art-deco'?entries.find(e=>e.slug===slug).representativeness_limit:(slug==='rinpa'?'書・屏風（びょうぶ）・器・箱・本を見比べます。':'この項目の実作品画像は');
@@ -194,7 +207,7 @@ for(const width of [320,390,1280]){
   }
   results.push({slug,width,...r});
  }
- await page.goto('http://127.0.0.1:8793/',{waitUntil:'networkidle'});await page.locator('#query').fill('中島');assert.equal(await page.locator('#items .entry').count(),1);await page.locator('#reset').click();assert.equal(await page.locator('#items .entry').count(),89);assert((await page.locator('#count').innerText()).includes('本文89件公開'));assert.equal(await page.locator('#items .entry > a[href^="entries/"]').count(),89);await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/footer-${width}.png`});
+ await page.goto('http://127.0.0.1:8793/',{waitUntil:'networkidle'});await page.locator('#query').fill('中島');assert.equal(await page.locator('#items .entry').count(),1);await page.locator('#reset').click();assert.equal(await page.locator('#items .entry').count(),90);assert((await page.locator('#count').innerText()).includes('本文90件公開'));assert.equal(await page.locator('#items .entry > a[href^="entries/"]').count(),90);await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`qa-artifacts/footer-${width}.png`});
  await page.locator('#query').fill('じゃくちゅう');assert.equal(await page.locator('#items .entry').count(),1);assert.equal(await page.locator('#items .entry > a[href^="entries/"]').getAttribute('href'),'entries/ito-jakuchu.html');await page.locator('#reset').click();
  await page.goto('http://127.0.0.1:8793/compare.html?a=ito-jakuchu&b=rinpa',{waitUntil:'networkidle'});const jakuchuCompare=await page.locator('#compare-result').innerText();assert(jakuchuCompare.includes('伊藤若冲')&&jakuchuCompare.includes('琳派'));assert(!jakuchuCompare.includes('undefined'));
  await page.goto('http://127.0.0.1:8793/compare.html?a=hideki-nakajima&b=vienna-secession',{waitUntil:'networkidle'});assert((await page.locator('#compare-result').innerText()).includes('中島'));assert(!(await page.locator('#compare-result').innerText()).includes('undefined'));

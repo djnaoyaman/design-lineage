@@ -5,6 +5,7 @@
 (function(root){
 'use strict';
 const records = {
+  "pre-raphaelites": {"sort_year":1848,"basis":"ロンドンでの兄弟団結成","source_period":"1848年結成、19世紀後半から20世紀初頭へ","source_article":"entries/pre-raphaelites.html","precision":"year","catalog_rank":89},
   "arts-and-crafts": {
     "sort_year": 1880,
     "basis": "主な展開。前史の1860年代ではありません",

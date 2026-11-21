@@ -38,7 +38,7 @@ for href in p.links:
   if u.fragment:assert unquote(u.fragment) in p.ids,href
  else:assert (root/unquote(u.path)).is_file(),href
 entries=json.loads((root/'entries.json').read_text());catalog=json.loads((root/'catalog.json').read_text())
-assert len(entries)==len(catalog)==89
+assert len(entries)==len(catalog)==90
 assert not any(e.get('slug')=='omochi-pop' for e in entries)
 assert 'omochi-pop.html' in (root/'compiler.html').read_text()
 prov=json.loads((root/'omochi-pop-provenance.json').read_text())
@@ -51,4 +51,4 @@ for i in prov['images']:
 assert 'data-copy-page="https://djnaoyaman.github.io/design-lineage/omochi-pop.html"' in page
 for bad in ['file://','/workspace/','/tmp/','sediment://','library_file_id']:
  assert bad not in page and bad not in (root/'omochi-pop-provenance.json').read_text()
-print('PASS OMOCHI POP: 7 sourced references; 2 original images; creator/historical distinction; links, alt text, image hashes; 89-item catalog preserved')
+print('PASS OMOCHI POP: 7 sourced references; 2 original images; creator/historical distinction; links, alt text, image hashes; 90-item catalog preserved')
