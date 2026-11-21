@@ -8059,6 +8059,163 @@
           }
         ]
       }
+    },
+    {
+      "id": "jugend-11",
+      "entry": "Jugendstil",
+      "title": "『ユーゲント』第11号 表紙",
+      "title_original": "Jugend, Nr. 11 — Umschlag",
+      "year": "1896年",
+      "author": "オットー・エックマン",
+      "institution": "ハイデルベルク大学図書館（デジタル版）",
+      "medium": "雑誌表紙",
+      "source_page": "https://digi.ub.uni-heidelberg.de/diglit/jugend1896_1/0162/image",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Otto_Eckmann_-_Jugend_Nr._11,_1896.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ハイデルベルク大学図書館のデジタル版／Wikimedia Commons",
+      "local_file": "assets/jugendstil/jugend-11.webp",
+      "width": 1118,
+      "height": 1500,
+      "alt": "雑誌『ユーゲント』の第11号表紙。誌名の下に装飾的な絵が広がる。",
+      "viewing_point": "運動名の由来となった雑誌の創刊年の表紙。誌名と絵をひとつの画面として設計した、エックマンの仕事を見られます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "運動名の由来となった雑誌の創刊年の表紙。誌名と絵をひとつの画面として設計した、エックマンの仕事を見られます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T07:30:00+09:00",
+      "sha256": "1fcbc04c4684f74a48ec408e8494a252572f00c040fa2fa117b77e3f905fbd7d",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/jugendstil/jugend-11-660.webp",
+            "width": 492,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "five-swans",
+      "entry": "Jugendstil",
+      "title": "五羽の白鳥",
+      "title_original": "Fünf Schwäne",
+      "year": "1896–1897年",
+      "author": "オットー・エックマン（図案）／シェアレベク織物学校（製作）",
+      "institution": "ブレーハン美術館",
+      "medium": "羊毛の壁掛け",
+      "source_page": "https://artsandculture.google.com/asset/carpet-f%C3%BCnf-schw%C3%A4ne-otto-eckmann/RgHntU7C5cYX3Q",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Tapestry_%27Five_Swans%27%2C_designed_by_Otto_Eckmann%2C_made_by_Schule_fur_Kunstweberie%2C_Scherrebek%2C_1896-1897%2C_wool_-_Br%C3%B6han_Museum%2C_Berlin_-_DSC04157.JPG",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "写真 Daderot／Wikimedia Commons",
+      "local_file": "assets/jugendstil/five-swans.webp",
+      "width": 567,
+      "height": 1500,
+      "alt": "縦長の織物に、曲線で表された白鳥と水面の模様が並ぶ。",
+      "viewing_point": "所蔵館がこの様式を象徴するモチーフとして取り上げる白鳥。首のカーブと水面の線が、細長い織物の中で繰り返されます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "所蔵館がこの様式を象徴するモチーフとして取り上げる白鳥。首のカーブと水面の線が、細長い織物の中で繰り返されます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T07:30:00+09:00",
+      "sha256": "a07f918f09cc7995bb47672cc3a081cf4301c2add3f504a4684e5b3f79e7a3c5",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/jugendstil/five-swans-660.webp",
+            "width": 249,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "behrens-kiss",
+      "entry": "Jugendstil",
+      "title": "接吻",
+      "title_original": "Der Kuss",
+      "year": "1898年",
+      "author": "ペーター・ベーレンス",
+      "institution": "米国議会図書館（掲載図版）",
+      "medium": "多色木版",
+      "source_page": "https://www.loc.gov/item/2002721258/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Peter_Behrens_-_Two_Faces_Kissing_cph.3b49745.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "米国議会図書館 Prints and Photographs Division, cph.3b49745／Wikimedia Commons",
+      "local_file": "assets/jugendstil/behrens-kiss.webp",
+      "width": 1119,
+      "height": 1422,
+      "alt": "二人が顔を寄せ、うねる髪の線が画面の左右に広がる多色木版。",
+      "viewing_point": "ヴィクトリア国立美術館がこの様式の重要作として紹介する版画。二人の輪郭と絡む髪をたどると、曲線が人物も画面全体も形づくっています。",
+      "visual_notes": [
+        {
+          "title": "選定理由・高評価",
+          "text": "ヴィクトリア国立美術館がこの様式の重要作として紹介する版画。二人の輪郭と絡む髪をたどると、曲線が人物も画面全体も形づくっています。"
+        }
+      ],
+      "selection_criterion": "高評価",
+      "checked_at": "2026-11-22T07:30:00+09:00",
+      "sha256": "df352dbccbb602d08bb510c71de848b3d5d3535ebf0ded85b11b5b6a2e8a3e0f",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/jugendstil/behrens-kiss-660.webp",
+            "width": 519,
+            "height": 660
+          }
+        ]
+      },
+      "selection_evidence": "https://www.ngv.vic.gov.au/explore/collection/work/144792/"
+    },
+    {
+      "id": "ernst-ludwig-house",
+      "entry": "Jugendstil",
+      "title": "エルンスト・ルートヴィヒ館",
+      "title_original": "Ernst Ludwig-Haus",
+      "year": "1901年",
+      "author": "ヨーゼフ・マリア・オルブリヒ（建築）",
+      "institution": "ダルムシュタット、マチルデンヘーエ",
+      "medium": "建築（外観写真）",
+      "source_page": "https://www.mathildenhoehe.de/en/worldheritagesite/buildings-and-objects/ernst-ludwig-house",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Mathildenhoehe_ErnstLudwigHaus.jpg",
+      "license": "CC BY 3.0 DE",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/de/",
+      "credit": "写真 Ikar.us、2011年／Wikimedia Commons。全体を保って縮小しWebPに変換。",
+      "local_file": "assets/jugendstil/ernst-ludwig-house.webp",
+      "width": 1500,
+      "height": 1167,
+      "alt": "横に広がる建物の中央に、金色の装飾と大きな彫像を備えた入口がある。",
+      "viewing_point": "芸術家村の共同アトリエとして建てられた建物。横に伸びる外壁と、彫刻や金色の装飾が集中した中央入口を見比べられます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "芸術家村の共同アトリエとして建てられた建物。横に伸びる外壁と、彫刻や金色の装飾が集中した中央入口を見比べられます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T07:30:00+09:00",
+      "sha256": "9b7c3019ef727bab65c851e9627d8ad48a4362383c6257240427d846a2d7b175",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/jugendstil/ernst-ludwig-house-660.webp",
+            "width": 660,
+            "height": 513
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
