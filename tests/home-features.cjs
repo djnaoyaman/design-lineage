@@ -15,6 +15,9 @@ await p.goto('http://127.0.0.1:8793/index.html#catalog');assert(await p.locator(
 const edition = await browser.newPage({viewport:{width:390,height:844}});
 await edition.goto('http://127.0.0.1:8793/index.html#catalog');
 await edition.locator('#items .entry').first().waitFor();
+assert.equal(await edition.locator('#view-list').getAttribute('aria-pressed'),'true');
+assert.equal(await edition.locator('#items img[src]').count(),0);
+await edition.locator('#view-grid').click();
 await edition.locator('#query').fill('琳派');
 const rinpa = edition.locator('#items [data-chronology-slug="rinpa"]');
 await rinpa.locator('[data-catalog-preview]').evaluate(image => image.decode());
