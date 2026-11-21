@@ -7,8 +7,6 @@
   const grid = showcase.querySelector('.showcase-grid');
   const works = [...grid.querySelectorAll('.showcase-work')];
   const controls = showcase.querySelector('.showcase-switch');
-  const peek = showcase.querySelector('.showcase-peek');
-  const peekImage = peek.querySelector('img');
   const viewerImage = viewer.querySelector('.showcase-viewer-stage img');
   const closeButton = viewer.querySelector('[data-viewer-close]');
   let current = 0;
@@ -18,7 +16,6 @@
   controls.hidden = false;
   function showMode(mode) {
     showcase.dataset.mode = mode;
-    peek.hidden = true;
     for (const button of controls.querySelectorAll('button')) {
       button.setAttribute('aria-pressed', String(button.dataset.showcaseMode === mode));
     }
@@ -33,7 +30,7 @@
       {duration:360, easing:'cubic-bezier(.22,1,.36,1)'}
     );
   });
-  showMode(matchMedia('(max-width: 760px)').matches ? 'text' : 'image');
+  showMode('text');
 
   if ('IntersectionObserver' in window && motion.matches) {
     const observer = new IntersectionObserver(changes => {
@@ -45,20 +42,6 @@
     }, {threshold:.14});
     for (const work of works) observer.observe(work.closest('li'));
   }
-
-  grid.addEventListener('pointermove', event => {
-    if (showcase.dataset.mode !== 'text' || event.pointerType !== 'mouse') return;
-    const work = event.target.closest('.showcase-work');
-    if (!work) { peek.hidden = true; return; }
-    const url = work.querySelector('img').src;
-    if (peekImage.src !== url) peekImage.src = url;
-    peek.hidden = false;
-    const box = peek.getBoundingClientRect();
-    const x = Math.max(12, Math.min(event.clientX + 32, innerWidth - box.width - 16));
-    const y = Math.max(12, Math.min(event.clientY + 20, innerHeight - box.height - 16));
-    peek.style.transform = `translate(${x}px, ${y}px)`;
-  });
-  grid.addEventListener('pointerleave', () => { peek.hidden = true; });
 
   function selectWork(index, from) {
     current = (index + works.length) % works.length;
@@ -99,7 +82,6 @@
     event.preventDefault();
     opener = work;
     const from = work.querySelector('img').getBoundingClientRect();
-    peek.hidden = true;
     viewer.showModal();
     selectWork(works.indexOf(work), from);
   });
