@@ -12,6 +12,27 @@ await summary.click();await p.goto('http://127.0.0.1:8793/entries/bauhaus.html')
 
 await p.goto('http://127.0.0.1:8793/index.html#bauhaus');await p.waitForFunction(()=>document.querySelector('#bauhaus-feature').open);await p.locator('#gallery [data-work]').first().check();await p.locator('#gallery [data-work]').nth(1).check();await p.locator('#compare-open').click();assert(await p.locator('#comparison').isVisible());await p.keyboard.press('Escape');assert(!(await p.locator('#comparison').isVisible()));
 await p.goto('http://127.0.0.1:8793/index.html#catalog');assert(await p.locator('#bauhaus-feature').getAttribute('open')!==null,'Same-document navigation preserves chosen open state');await p.reload();assert.equal(await p.locator('details.home-feature-banner[open]').count(),0);await p.locator('#rinpa-feature>summary').click();assert(await p.locator('#rinpa-image-title').isVisible());await p.locator('#rinpa-feature img').evaluate(i=>i.decode());await p.locator('#rinpa-feature img').evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Expanded Rinpa fits');await p.screenshot({path:`qa-artifacts/home-rinpa-open-${width}.png`});await p.close();}
+const edition = await browser.newPage({viewport:{width:390,height:844}});
+await edition.goto('http://127.0.0.1:8793/index.html#catalog');
+await edition.locator('#items .entry').first().waitFor();
+await edition.locator('#query').fill('琳派');
+const rinpa = edition.locator('#items [data-chronology-slug="rinpa"]');
+await rinpa.locator('[data-catalog-preview]').evaluate(image => image.decode());
+await edition.locator('#view-list').click();
+assert.equal(await edition.locator('#query').inputValue(),'琳派');
+assert.equal(await edition.locator('#view-list').getAttribute('aria-pressed'),'true');
+assert.equal(await rinpa.locator('figure').isVisible(),false);
+await edition.locator('#view-grid').click();
+await rinpa.locator('figure a').click();
+await edition.locator('.edition-article-art img').evaluate(image => image.decode());
+await edition.goto('http://127.0.0.1:8793/compare.html?a=bauhaus&b=rinpa#visual-comparison');
+const highlight = edition.getByRole('button',{name:'着目箇所を表示'});
+await highlight.click();
+assert.equal(await highlight.getAttribute('aria-pressed'),'true');
+assert.equal(await edition.locator('#visual-comparison[data-marked]').count(),1);
+assert(await edition.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1));
+await edition.close();
+
 const c=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:900}}),p=await c.newPage();await p.goto('http://127.0.0.1:8793/index.html');await p.locator('#bauhaus-feature>summary').click();assert(await p.locator('#visual-guide-title').isVisible());await c.close();
 const r=await browser.newPage({reducedMotion:'reduce'});await r.goto('http://127.0.0.1:8793/index.html');assert.equal(await r.locator('.feature-banner-action>[aria-hidden]').first().evaluate(e=>getComputedStyle(e).transitionDuration),'0s');await r.close();
 fs.writeFileSync('qa-artifacts/home-feature-results.json',JSON.stringify({results,failures:[]},null,2));
