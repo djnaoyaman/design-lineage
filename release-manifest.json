@@ -2283,8 +2283,8 @@
     },
     {
       "path": "entries/pre-raphaelites.html",
-      "bytes": 210413,
-      "sha256": "1758e0be7819dcb2a9476837d6ad599f19361379935b48e97fec1d645ca6f5b7"
+      "bytes": 210403,
+      "sha256": "c11a3217f552928932adf2bfc18f850199eb0ac086d0daa0a361879957946061"
     },
     {
       "path": "entries/psychedelic-art.html",
@@ -2588,8 +2588,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 24515,
-      "sha256": "a15829f918c5c95d02adbc048dc8546b196d727aa0fd470e83ca83daa676e232"
+      "bytes": 24603,
+      "sha256": "d8830f0152d6bb28b0316cf64bfaa11a2b4bec3373034127fe6bb962d8e4711b"
     },
     {
       "path": "share-copy.json",
@@ -2653,8 +2653,8 @@
     },
     {
       "path": "tests/chronology-browser.cjs",
-      "bytes": 5956,
-      "sha256": "3d7c7c3c85ce05e1756096cab0e99a7281a913d116dc69046f8e396881242762"
+      "bytes": 6072,
+      "sha256": "d94de9644e48ec4fb944f2c73b0488788060dbf09f50bca56fc6f19473b382db"
     },
     {
       "path": "tests/chronology-unit.cjs",

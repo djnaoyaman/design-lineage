@@ -39,6 +39,7 @@ assert.deepEqual(articles,c.sort(entries).map(e=>e.slug));
 await check.goto(base+'entries/pre-raphaelites.html#actual-works');
 const plates=check.locator('.plate:visible');
 async function checkPlates(count) {
+  await check.waitForFunction(expected=>document.querySelectorAll('.plate:not([hidden])').length===expected,count);
   assert.equal(await plates.count(),count);
   checkOrder((await plates.locator('.plate-meta').allTextContents()).map(label=>label.split(' · ').at(-1)));
 }

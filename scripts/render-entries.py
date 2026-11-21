@@ -77,7 +77,8 @@ def grouped_gallery(entry, images):
   return f'''<figure class="plate" id="{E(image['id'])}" data-group="{E(group_for[image['id']])}"><a class="plate-image" href="../{E(image['local_file'])}" aria-label="{E(image['title'])}を拡大"><img src="../{E(preview['local_file'])}" srcset="../{E(preview['local_file'])} {preview['width']}w, ../{E(image['local_file'])} {image['width']}w" sizes="(max-width:650px) 88vw, 37vw" width="{preview['width']}" height="{preview['height']}" alt="{E(image['alt'])}" loading="lazy" decoding="async"></a><figcaption><h4>{E(image['title'])}</h4><p class="plate-meta">{E(image['author'])} · {E(image['year'])}</p><p>{E(image['viewing_point'])}</p><details><summary>原題・所蔵・図版の記録</summary><p lang="en">{E(image['title_original'])}</p><p>{E(image['medium'])}／{E(image['institution'])}</p><p>{E(image['credit'])}</p><p>{rights}</p></details></figcaption></figure>'''
  links=''.join(f'<li><a href="#{E(g["id"])}">{E(g["short"])}</a></li>' for g in groups)
  authors={}
- for image in ordered:
+ # The artist index links to each artist's selected work. The grid itself follows dates.
+ for image in images:
   authors.setdefault(image['author'],image['id'])
  artist_links=''.join(f'<li><a href="#{E(ident)}">{E(author)}</a></li>' for author,ident in authors.items())
  html = '<section class="grouped-gallery" id="actual-works"><h2>作品図録</h2><p>制作年の古い順に並んでいます。制作期間が複数年にわたる作品は最初の年に、制作年未詳の作品は末尾に掲載しています。</p><nav aria-label="画家・工房で絞り込む"><ul><li><a href="#actual-works">すべての作品</a></li>'+links+'</ul></nav><details class="plate-artist-index"><summary>作家・工房の名前から探す</summary><ul>'+artist_links+'</ul></details>'
