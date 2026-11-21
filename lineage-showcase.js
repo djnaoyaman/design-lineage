@@ -71,6 +71,7 @@
     viewer.querySelector('h2').textContent = caption.querySelector('strong').textContent;
     viewer.querySelector('[data-viewer-caption]').textContent =
       [caption.querySelector('span').textContent, caption.querySelector('time').textContent].join(' / ');
+    viewer.querySelector('[data-viewer-credit]').textContent = work.dataset.credit || '';
     viewer.querySelector('[data-viewer-source]').href = work.href;
     viewer.querySelector('[data-viewer-position]').textContent = `${current + 1} / ${works.length}`;
 
