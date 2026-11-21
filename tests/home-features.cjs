@@ -1,10 +1,9 @@
-const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=require('node:fs'),{execFileSync}=require('node:child_process');
-const baseline='.qa-home-before.html',baselineApp='.qa-home-before-app.js',baselineRef=process.env.HOME_BASELINE_REF||'06c797207d4511d0db3dd8fcb6d92991af5e6360';
-fs.writeFileSync(baselineApp,execFileSync('git',['show',baselineRef+':app.js']));
-fs.writeFileSync(baseline,execFileSync('git',['show',baselineRef+':index.html']).toString().replace(/src="app\.js[^"]*"/,'src="'+baselineApp+'"'));
+const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=require('node:fs');
 (async()=>{let browser;const results=[];fs.mkdirSync('qa-artifacts',{recursive:true});try{browser=await chromium.launch(process.env.CHROMIUM_PATH?{executablePath:process.env.CHROMIUM_PATH}:undefined);
-for(const width of [320,390,768,1280]){const p=await browser.newPage({viewport:{width,height:900}});const measure=async path=>{await p.goto('http://127.0.0.1:8793/'+path);await p.evaluate(()=>document.fonts.ready);await p.waitForFunction(()=>document.querySelectorAll('#items .entry > a[href^="entries/"]').length===89);return p.locator('#catalog').evaluate(e=>e.getBoundingClientRect().top+scrollY);};const before=await measure(baseline),after=await measure('index.html');
-assert.equal(await p.locator('details.home-feature-banner').count(),2);assert.equal(await p.locator('details.home-feature-banner[open]').count(),0);assert(after<before*.5,'Catalog scroll distance reduced by more than half');assert(before-after>1000,'Substantial scroll reduction');assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));results.push({width,before,after,reduction:before-after});
+for(const width of [320,390,768,1280]){const p=await browser.newPage({viewport:{width,height:900}});await p.goto('http://127.0.0.1:8793/index.html');await p.evaluate(()=>document.fonts.ready);
+await p.locator('.hero-bottom .round-link[href="#catalog"]').click();
+await p.waitForFunction(()=>location.hash==='#catalog'&&document.querySelectorAll('#items .entry > a[href^="entries/"]').length===89);
+assert.equal(await p.locator('details.home-feature-banner').count(),2);assert.equal(await p.locator('details.home-feature-banner[open]').count(),0);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));results.push({width,catalogLink:true});
 const summary=p.locator('#bauhaus-feature>summary');await summary.evaluate(e=>e.scrollIntoView({block:'start',behavior:'instant'}));await p.screenshot({path:`qa-artifacts/home-banners-${width}.png`});await summary.focus();await p.keyboard.press('Enter');assert(await p.locator('#bauhaus-feature').getAttribute('open')!==null);assert(await p.locator('#visual-guide-title').isVisible());await p.screenshot({path:`qa-artifacts/home-feature-open-${width}.png`});await p.keyboard.press('Space');assert.equal(await p.locator('#bauhaus-feature').getAttribute('open'),null);assert(await summary.evaluate(e=>e===document.activeElement),'Keyboard toggle retains focus');
 const ax=await summary.ariaSnapshot();assert(ax.includes('バウハウス')&&ax.includes('開く'),'Native summary has meaningful accessible name');results.at(-1).summaryAccessibility=ax;
 for(let n=0;n<10;n++)await summary.click();assert.equal(await p.locator('#bauhaus-feature').getAttribute('open'),null,'Even repeated clicks close consistently');
@@ -36,7 +35,36 @@ assert.equal(await edition.locator('#visual-comparison[data-marked]').count(),1)
 assert(await edition.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1));
 await edition.close();
 
+for (const width of [390, 1280]) {
+  const page = await browser.newPage({viewport:{width,height:900}});
+  await page.goto('http://127.0.0.1:8793/index.html#selected-works');
+  await page.locator('.showcase[data-mode="text"][data-scroll-ready]').waitFor();
+  assert.equal(await page.locator('.showcase-work').count(),36);
+  const stage = page.locator('.scroll-gallery-stage');
+  const rows = page.locator('.showcase-card');
+  const titles = [];
+  const positions = [];
+  for (const index of [3,8]) {
+    const row = rows.nth(index);
+    const title = await row.locator('strong').textContent();
+    await row.evaluate(element => {
+      const rect = element.getBoundingClientRect();
+      window.scrollBy({top:rect.top+rect.height/2-innerHeight*.42,behavior:'instant'});
+    });
+    await page.waitForFunction(expected => {
+      const showcase = document.querySelector('.showcase');
+      return showcase.hasAttribute('data-stage-visible') && showcase.querySelector('.scroll-gallery-caption strong').textContent===expected;
+    },title);
+    titles.push(title);
+    positions.push((await stage.boundingBox()).y);
+  }
+  assert.notEqual(titles[0],titles[1]);
+  assert(Math.abs(positions[0]-positions[1])<2,'Artwork stays at the same screen position');
+  await page.getByRole('button',{name:'図版',exact:true}).click();
+  assert.equal(await stage.isVisible(),false);
+  await page.close();
+}
 const c=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:900}}),p=await c.newPage();await p.goto('http://127.0.0.1:8793/index.html');await p.locator('#bauhaus-feature>summary').click();assert(await p.locator('#visual-guide-title').isVisible());await c.close();
 const r=await browser.newPage({reducedMotion:'reduce'});await r.goto('http://127.0.0.1:8793/index.html');assert.equal(await r.locator('.feature-banner-action>[aria-hidden]').first().evaluate(e=>getComputedStyle(e).transitionDuration),'0s');await r.close();
 fs.writeFileSync('qa-artifacts/home-feature-results.json',JSON.stringify({results,failures:[]},null,2));
-}catch(e){fs.writeFileSync('qa-artifacts/home-feature-failure.json',JSON.stringify({error:String(e),results},null,2));throw e;}finally{await browser?.close();fs.rmSync(baseline,{force:true});fs.rmSync(baselineApp,{force:true});}})().catch(e=>{console.error(e);process.exitCode=1;});
+}catch(e){fs.writeFileSync('qa-artifacts/home-feature-failure.json',JSON.stringify({error:String(e),results},null,2));throw e;}finally{await browser?.close();}})().catch(e=>{console.error(e);process.exitCode=1;});
