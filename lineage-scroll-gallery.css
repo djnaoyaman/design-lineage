@@ -107,12 +107,13 @@
   .scroll-gallery-caption {
     margin: 9px 1% 0 21%;
     padding: 7px 0 0;
+    min-height: 84px;
     border-top: 1px solid var(--accent);
     text-align: right;
     background: var(--paper);
   }
   .scroll-gallery-caption strong, .scroll-gallery-caption span { display: block; }
-  .scroll-gallery-caption strong { font-size: clamp(21px, 6vw, 38px); line-height: 1.1; letter-spacing: -.035em; }
+  .scroll-gallery-caption strong { font-size: clamp(21px, 6vw, 38px); line-height: 1.1; letter-spacing: -.035em; text-wrap: balance; }
   .scroll-gallery-caption span { font-size: 11px; line-height: 1.25; margin-top: 5px; }
 
   .lineage-mobile-menu {
