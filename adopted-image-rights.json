@@ -9597,6 +9597,1182 @@
           }
         ]
       }
+    },
+    {
+      "id": "surreal-goll",
+      "entry": "Surrealism",
+      "title": "雑誌『シュルレアリスム』創刊号の表紙",
+      "title_original": "Surréalisme, no 1",
+      "year": "1924年",
+      "author": "ロベール・ドローネー（表紙の挿絵）／イヴァン・ゴル（編集）",
+      "institution": "フランス国立図書館（雑誌記録）",
+      "medium": "雑誌の表紙",
+      "source_page": "https://gallica.bnf.fr/ark:/12148/cb32874286j/date",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Yvan_Goll%2C_Surr%C3%A9alisme%2C_Manifeste_du_surr%C3%A9alisme%2C_Volume_1%2C_Number_1%2C_October_1%2C_1924%2C_cover_by_Robert_Delaunay.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "プリンストン大学 Blue Mountain Project／Wikimedia Commons",
+      "local_file": "assets/surrealism/surreal-goll.webp",
+      "width": 960,
+      "height": 1482,
+      "alt": "上部に大きな誌名、中央に線と人物像、下部に号数のある白黒の表紙。",
+      "viewing_point": "大きな誌名の下で、断片化した人物と文字が重なる。1924年にゴルが刊行した雑誌で、同じ年にブルトンが発表した『シュルレアリスム宣言』とは別の出版物。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "大きな誌名の下で、断片化した人物と文字が重なる。1924年にゴルが刊行した雑誌で、同じ年にブルトンが発表した『シュルレアリスム宣言』とは別の出版物。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "5f4abe90f880163ec6c7314c4581decb10f720f6a253f1aa6693b6e52c5d2843",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/surrealism/surreal-goll-660.webp",
+            "width": 428,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Yvan_Goll%2C_Surr%C3%A9alisme%2C_Manifeste_du_surr%C3%A9alisme%2C_Volume_1%2C_Number_1%2C_October_1%2C_1924%2C_cover_by_Robert_Delaunay.jpg/960px-Yvan_Goll%2C_Surr%C3%A9alisme%2C_Manifeste_du_surr%C3%A9alisme%2C_Volume_1%2C_Number_1%2C_October_1%2C_1924%2C_cover_by_Robert_Delaunay.jpg"
+      }
+    },
+    {
+      "id": "surreal-tanguy",
+      "entry": "Surrealism",
+      "title": "ママ、パパがけがをした！",
+      "title_original": "Mama, Papa Is Wounded!",
+      "year": "1927年",
+      "author": "イヴ・タンギー",
+      "institution": "ニューヨーク近代美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www.moma.org/collection/works/78701",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Mama%2C_Papa_is_Wounded%21.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "イヴ・タンギー／Wikimedia Commons掲載の複製",
+      "local_file": "assets/surrealism/surreal-tanguy.webp",
+      "width": 960,
+      "height": 1201,
+      "alt": "灰色の地面に小さな物体が点在し、右手前には細長いものの影が延びている。",
+      "viewing_point": "地平線も影もあるのに、そこに何が立っているのかは決められない。遠近感を手がかりに、輪郭の定まらない物体が並ぶ風景へ入っていける。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "地平線も影もあるのに、そこに何が立っているのかは決められない。遠近感を手がかりに、輪郭の定まらない物体が並ぶ風景へ入っていける。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "fad40e84261145d8ef169906b77a0da5c310aae1d28a97cee5e0d759a2ff5bf2",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/surrealism/surreal-tanguy-660.webp",
+            "width": 528,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mama%2C_Papa_is_Wounded%21.jpg/960px-Mama%2C_Papa_is_Wounded%21.jpg"
+      }
+    },
+    {
+      "id": "surreal-koga-sea",
+      "entry": "Surrealism",
+      "title": "海",
+      "title_original": "Sea",
+      "year": "1929年",
+      "author": "古賀春江",
+      "institution": "東京国立近代美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://search.artmuseums.go.jp/records.php?sakuhin=4596",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Koga_Harue_-_Sea.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "古賀春江／東京国立近代美術館所蔵／Wikimedia Commons掲載の複製",
+      "local_file": "assets/surrealism/surreal-koga-sea.webp",
+      "width": 960,
+      "height": 762,
+      "alt": "手を上げた水着の女性の背後に海、機械、魚、飛行船を組み合わせた絵。",
+      "viewing_point": "水着の女性の隣に海中の生き物や機械が並び、空には飛行船が浮かぶ。写真や図解から集めたモチーフで、実際には一度に見渡せない海の眺めを描いた。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "水着の女性の隣に海中の生き物や機械が並び、空には飛行船が浮かぶ。写真や図解から集めたモチーフで、実際には一度に見渡せない海の眺めを描いた。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "19a67922124254323817311cffce2cb17eefc1cf3111b0e5cd95952420cdb707",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/surrealism/surreal-koga-sea-660.webp",
+            "width": 660,
+            "height": 524
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koga_Harue_-_Sea.jpg/960px-Koga_Harue_-_Sea.jpg"
+      }
+    },
+    {
+      "id": "surreal-koga-window",
+      "entry": "Surrealism",
+      "title": "窓外の化粧",
+      "title_original": "Make-up outside the Window",
+      "year": "1930年",
+      "author": "古賀春江",
+      "institution": "神奈川県立近代美術館",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://www01.musetheque.jp/webmuseum/detail?cls=attkn&pkey=362",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Koga_Harue_-_Make-up_outside_the_Window.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "古賀春江／神奈川県立近代美術館所蔵／Wikimedia Commons掲載の複製",
+      "local_file": "assets/surrealism/surreal-koga-window.webp",
+      "width": 960,
+      "height": 1199,
+      "alt": "青空にパラシュートが浮かび、建物の屋上に一人の踊り子が立つ縦長の絵。",
+      "viewing_point": "屋上では踊り子が両腕を上げ、その隣の空には小さなパラシュートが散らばる。同じころ都市にあふれた写真や広告の断片を、一続きの青空がつないでいる。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "屋上では踊り子が両腕を上げ、その隣の空には小さなパラシュートが散らばる。同じころ都市にあふれた写真や広告の断片を、一続きの青空がつないでいる。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "1f140fd5cfd95435cac8a4d39517c13e5065ae920c3a20cdd6eebf660136eaf2",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/surrealism/surreal-koga-window-660.webp",
+            "width": 528,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Koga_Harue_-_Make-up_outside_the_Window.jpg/960px-Koga_Harue_-_Make-up_outside_the_Window.jpg"
+      }
+    },
+    {
+      "id": "montage-rejlander",
+      "entry": "Photomontage",
+      "title": "人生の二つの道",
+      "title_original": "The Two Ways of Life",
+      "year": "1857年",
+      "author": "オスカー・グスタフ・レイランダー",
+      "institution": "プリンストン大学美術館（同作記録）",
+      "medium": "組み合わせ印画",
+      "source_page": "https://artmuseum.princeton.edu/art/collections/objects/18132",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Thetwowaysoflife.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "オスカー・グスタフ・レイランダー／Wikimedia Commons",
+      "local_file": "assets/photomontage/montage-rejlander.webp",
+      "width": 960,
+      "height": 497,
+      "alt": "幕が上がったような広間で、中央の一団の左右に多くの人物が並ぶ。",
+      "viewing_point": "何十人もが同じ場所に集まったように見える。人物と背景を別々に撮り、30枚を超えるネガを組み合わせた。写真を一枚の物語へ組み立てる、19世紀の先例。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "何十人もが同じ場所に集まったように見える。人物と背景を別々に撮り、30枚を超えるネガを組み合わせた。写真を一枚の物語へ組み立てる、19世紀の先例。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "97f989537e632eda3b27aad68fb965c884f10b0fb997f452fb37170bcd1deef5",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/photomontage/montage-rejlander-660.webp",
+            "width": 660,
+            "height": 342
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thetwowaysoflife.jpg/960px-Thetwowaysoflife.jpg"
+      }
+    },
+    {
+      "id": "montage-fading",
+      "entry": "Photomontage",
+      "title": "消えゆく命",
+      "title_original": "Fading Away",
+      "year": "1858年",
+      "author": "ヘンリー・ピーチ・ロビンソン",
+      "institution": "ジョージ・イーストマン美術館",
+      "medium": "組み合わせ印画",
+      "source_page": "https://collections.eastman.org/objects/27552/fading-away",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Henry_Peach_Robinson%2C_Fading_Away%2C_1858.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ヘンリー・ピーチ・ロビンソン／ジョージ・イーストマン美術館／Wikimedia Commons",
+      "local_file": "assets/photomontage/montage-fading.webp",
+      "width": 960,
+      "height": 611,
+      "alt": "白い衣服の女性が横たわり、そのそばに座る人と窓を向いて立つ人が写る。",
+      "viewing_point": "病床を囲む人々と窓外の雲を、一つの場面として焼き付けた。素材は5枚のネガ。境目を目立たせない合成と、切り継ぎを際立たせる後の作品を比べられる。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "病床を囲む人々と窓外の雲を、一つの場面として焼き付けた。素材は5枚のネガ。境目を目立たせない合成と、切り継ぎを際立たせる後の作品を比べられる。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "6b25adb209a056ef1504f9838f342b62620c3e4323407d2160878c893aedc658",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/photomontage/montage-fading-660.webp",
+            "width": 660,
+            "height": 420
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Henry_Peach_Robinson%2C_Fading_Away%2C_1858.jpg/960px-Henry_Peach_Robinson%2C_Fading_Away%2C_1858.jpg"
+      }
+    },
+    {
+      "id": "montage-lissitzky",
+      "entry": "Photomontage",
+      "title": "構成者（自画像）",
+      "title_original": "Self-Portrait (The Constructor)",
+      "year": "1924年",
+      "author": "エル・リシツキー",
+      "institution": "クリスティーズ（掲載図版の作品記録）",
+      "medium": "フォトモンタージュ",
+      "source_page": "https://www.christies.com/en/lot/lot-6191297",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:El_Lissitzky_The_Constructor.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "エル・リシツキー／クリスティーズ掲載のプリント／Wikimedia Commons",
+      "local_file": "assets/photomontage/montage-lissitzky.webp",
+      "width": 960,
+      "height": 888,
+      "alt": "コンパスを持った手の写真、顔の写真と文字を重ねた白黒の自画像。",
+      "viewing_point": "コンパスを握る手と片目が重なり、定規の目盛りと文字が顔の前を横切る。「見る人」と「つくる人」を、別々の写真を重ねた一枚の自画像にした。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "コンパスを握る手と片目が重なり、定規の目盛りと文字が顔の前を横切る。「見る人」と「つくる人」を、別々の写真を重ねた一枚の自画像にした。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "82ffed0ab3ec7ff8692ebd51c909d6f7e5e9b852ec62ac1b7deb443e581974b8",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/photomontage/montage-lissitzky-660.webp",
+            "width": 660,
+            "height": 611
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/El_Lissitzky_The_Constructor.jpg/960px-El_Lissitzky_The_Constructor.jpg"
+      }
+    },
+    {
+      "id": "montage-klutsis",
+      "entry": "Photomontage",
+      "title": "全連邦スパルタキアードの絵はがき（射撃）",
+      "title_original": "Postcard for the All-Union Spartakiada: Shooting",
+      "year": "1928年",
+      "author": "グスタフ・クルーツィス",
+      "institution": "スパルタキアードの絵はがき9点を収録した研究資料",
+      "medium": "印刷絵はがき・フォトモンタージュ",
+      "source_page": "https://static1.squarespace.com/static/5e68e6f8d34bcf00a52fd5a6/t/6463bd73d491d34cba36f7a2/1684258165518/MCB%2BGustav%2BKlutsis%2B2017.pdf",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Postcard_-_Spartakiada_1928.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "グスタフ・クルーツィス／Tehne掲載の複製／Wikimedia Commons",
+      "local_file": "assets/photomontage/montage-klutsis.webp",
+      "width": 960,
+      "height": 1365,
+      "alt": "赤い地に競技者の写真を切り貼りし、右に白黒の大きな的を置いた絵はがき。",
+      "viewing_point": "右から大きく入り込む的の左側に、別々に撮った競技者を集めている。印刷した赤い色面が、写真ごとに違う向きや縮尺を一枚にまとめる。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "右から大きく入り込む的の左側に、別々に撮った競技者を集めている。印刷した赤い色面が、写真ごとに違う向きや縮尺を一枚にまとめる。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "b6ce69f3ba9092ee1b84f1f0b5920f965c92c0696c755dc9ce3aeb656c46dbc9",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/photomontage/montage-klutsis-660.webp",
+            "width": 464,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Postcard_-_Spartakiada_1928.jpg/960px-Postcard_-_Spartakiada_1928.jpg"
+      }
+    },
+    {
+      "id": "kalo",
+      "entry": "Santiniketan",
+      "title": "カロ・バリ（黒い家）",
+      "title_original": "Kalo Bari",
+      "year": "1934年着手",
+      "author": "ナンダラル・ボース、スレンドラナート・カル、ラムキンカル・バイジ、カラ・バヴァナの学生たち",
+      "institution": "UNESCO世界遺産センター・サンティニケタン登録資料",
+      "medium": "学生寮・建築と浮彫",
+      "source_page": "https://whc.unesco.org/document/191080",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Kalo_Bari_-_Santiniketan_2014-06-29_5363.JPG",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "credit": "Biswarup Ganguly / Wikimedia Commons / CC BY 3.0（WebP変換）",
+      "local_file": "assets/santiniketan/kalo.webp",
+      "width": 500,
+      "height": 332,
+      "alt": "芝生越しに見える黒い学生寮。低く長い外壁に柱と開口部が並ぶ。",
+      "viewing_point": "土とコールタールでつくった黒い学生寮です。美術を学ぶ学生たちが何年もかけて壁や柱に浮彫を施しました。住む場所が、そのまま制作の場になりました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "土とコールタールでつくった黒い学生寮です。美術を学ぶ学生たちが何年もかけて壁や柱に浮彫を施しました。住む場所が、そのまま制作の場になりました。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "46376c02b58dc463a64ececab127eedf49130466c75ffde8d553896fd32d9119",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/santiniketan/kalo-660.webp",
+            "width": 500,
+            "height": 332
+          }
+        ]
+      },
+      "underlying_work_rights": "インド著作権法第52条第1項(s)・(t)。現地の建物または公共の場所に常設された彫刻の写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kalo_Bari_-_Santiniketan_2014-06-29_5363.JPG/500px-Kalo_Bari_-_Santiniketan_2014-06-29_5363.JPG"
+      }
+    },
+    {
+      "id": "sujata",
+      "entry": "Santiniketan",
+      "title": "スジャータ",
+      "title_original": "Sujata",
+      "year": "1935年",
+      "author": "ラムキンカル・バイジ",
+      "institution": "ミネソタ大学研究資料",
+      "medium": "屋外彫刻",
+      "source_page": "https://conservancy.umn.edu/bitstreams/2c203b13-6bf6-4f75-acfe-92ac9f4b5b2a/download",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Sujata_-_1935_CE_-_Ramkinkar_Baij_-_Santiniketan_2014-06-29_5354.JPG",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "credit": "Biswarup Ganguly / Wikimedia Commons / CC BY 3.0（WebP変換）",
+      "local_file": "assets/santiniketan/sujata.webp",
+      "width": 500,
+      "height": 990,
+      "alt": "木立の中、頭に器を載せて片足を踏み出す細長い女性像。",
+      "viewing_point": "細身の女性が頭上に器を載せて歩きます。木立の中では、伸び上がる体の線が背後の幹に呼応します。バイジがセメントを使って試みた初期の屋外彫刻です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "細身の女性が頭上に器を載せて歩きます。木立の中では、伸び上がる体の線が背後の幹に呼応します。バイジがセメントを使って試みた初期の屋外彫刻です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "54024e34a4fd7416b6acd7cdb1ce9c4f49c27c4506e7a1bc0b2f4343efeeddf2",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/santiniketan/sujata-660.webp",
+            "width": 333,
+            "height": 660
+          }
+        ]
+      },
+      "underlying_work_rights": "インド著作権法第52条第1項(s)・(t)。現地の建物または公共の場所に常設された彫刻の写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sujata_-_1935_CE_-_Ramkinkar_Baij_-_Santiniketan_2014-06-29_5354.JPG/500px-Sujata_-_1935_CE_-_Ramkinkar_Baij_-_Santiniketan_2014-06-29_5354.JPG"
+      }
+    },
+    {
+      "id": "family",
+      "entry": "Santiniketan",
+      "title": "サンタルの家族",
+      "title_original": "Santhal Family",
+      "year": "1938年",
+      "author": "ラムキンカル・バイジ",
+      "institution": "UNESCO世界遺産センター・サンティニケタン登録資料",
+      "medium": "屋外彫刻",
+      "source_page": "https://whc.unesco.org/document/191080",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Santhal_Family_by_Ramkinkar_Baij_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Bodhisattwa / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+      "local_file": "assets/santiniketan/family.webp",
+      "width": 931,
+      "height": 1400,
+      "alt": "屋根の下に立つ群像。人物が棒に荷を掛け、歩く姿でかたどられている。",
+      "viewing_point": "荷物を担ぎ、子どもとともに歩くサンタルの一家です。重い荷と一歩を踏み出す体を一つの群像に組み、キャンパスのそばで暮らす人々を大きな彫刻の主役にしました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "荷物を担ぎ、子どもとともに歩くサンタルの一家です。重い荷と一歩を踏み出す体を一つの群像に組み、キャンパスのそばで暮らす人々を大きな彫刻の主役にしました。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "4046fbbf20f2d3280b7fa2555ea1b10065eb55ccd4f99f05aa109fd988303f63",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/santiniketan/family-660.webp",
+            "width": 439,
+            "height": 660
+          }
+        ]
+      },
+      "underlying_work_rights": "インド著作権法第52条第1項(s)・(t)。現地の建物または公共の場所に常設された彫刻の写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santhal_Family_by_Ramkinkar_Baij_01.jpg/1280px-Santhal_Family_by_Ramkinkar_Baij_01.jpg"
+      }
+    },
+    {
+      "id": "mill",
+      "entry": "Santiniketan",
+      "title": "工場のサイレン",
+      "title_original": "Mill Call",
+      "year": "1956年",
+      "author": "ラムキンカル・バイジ",
+      "institution": "UNESCO世界遺産センター・サンティニケタン登録資料",
+      "medium": "屋外彫刻",
+      "source_page": "https://whc.unesco.org/document/191080",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Mill_Call_-_1956_CE_-_Ramkinkar_Baij_-_Santiniketan_2014-06-28_5262.JPG",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "credit": "Biswarup Ganguly / Wikimedia Commons / CC BY 3.0（WebP変換）",
+      "local_file": "assets/santiniketan/mill.webp",
+      "width": 500,
+      "height": 753,
+      "alt": "体を大きく傾け、手足を伸ばした人物の群像。",
+      "viewing_point": "工場の合図を聞いて急ぐ人々を表した群像です。前へ傾く体と後ろへ流れる衣の形で、手足が動く速さまで伝えています。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "工場の合図を聞いて急ぐ人々を表した群像です。前へ傾く体と後ろへ流れる衣の形で、手足が動く速さまで伝えています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "7697eaf605e91018ebaeda8afdd39f825d0c00f02efb9fffcc866971f44a0786",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/santiniketan/mill-660.webp",
+            "width": 438,
+            "height": 660
+          }
+        ]
+      },
+      "underlying_work_rights": "インド著作権法第52条第1項(s)・(t)。現地の建物または公共の場所に常設された彫刻の写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mill_Call_-_1956_CE_-_Ramkinkar_Baij_-_Santiniketan_2014-06-28_5262.JPG/500px-Mill_Call_-_1956_CE_-_Ramkinkar_Baij_-_Santiniketan_2014-06-28_5262.JPG"
+      }
+    },
+    {
+      "id": "assembly",
+      "entry": "Tropical Modernism",
+      "title": "チャンディーガルの議事堂",
+      "title_original": "Palace of Assembly",
+      "year": "1951–1963年",
+      "author": "ル・コルビュジエ",
+      "institution": "チャンディーガル建築大学",
+      "medium": "議事堂・インド",
+      "source_page": "https://cca.edu.in/About_Chandigarh",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly%2C_Capitol_Complex%2C_Chandigarh.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Lillottama / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+      "local_file": "assets/tropical-modernism/assembly.webp",
+      "width": 960,
+      "height": 540,
+      "alt": "芝生越しの議事堂。格子状の側面と大きく張り出した曲面の庇が接する。",
+      "viewing_point": "正面に大きな庇を張り出し、入口の奥に日陰をつくっています。儀礼のための大きな広場と、日射を和らげる工夫を同時に見ることができます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "正面に大きな庇を張り出し、入口の奥に日陰をつくっています。儀礼のための大きな広場と、日射を和らげる工夫を同時に見ることができます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "7e4a297aa0c82ce1833f6e5d6400c39f17eead670a0b923b7983dacbdf4a606c",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/tropical-modernism/assembly-660.webp",
+            "width": 660,
+            "height": 371
+          }
+        ]
+      },
+      "underlying_work_rights": "インド著作権法第52条第1項(s)・(t)。現地の建物または公共の場所に常設された彫刻の写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Palace_of_Assembly%2C_Capitol_Complex%2C_Chandigarh.jpg/960px-Palace_of_Assembly%2C_Capitol_Complex%2C_Chandigarh.jpg"
+      }
+    },
+    {
+      "id": "court2",
+      "entry": "Tropical Modernism",
+      "title": "パンジャーブ・ハリヤーナー高等裁判所",
+      "title_original": "High Court, Chandigarh",
+      "year": "1952–1955年",
+      "author": "ル・コルビュジエ",
+      "institution": "パンジャーブ・ハリヤーナー高等裁判所",
+      "medium": "裁判所・インド",
+      "source_page": "https://highcourtchd.gov.in/sub_pages/left_menu/publish/articles/articles_pdf/highcourtartucturaldesigne.pdf",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Chandigarh_High_Court.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "gb pandey from chandigarh, India / Wikimedia Commons / CC BY-SA 2.0（WebP変換）",
+      "local_file": "assets/tropical-modernism/court2.webp",
+      "width": 1024,
+      "height": 770,
+      "alt": "池の向こうに色の違う太い柱と、深い格子が続く裁判所の正面。",
+      "viewing_point": "建物全体を覆う大屋根、その下に続く深い格子。暑い季節に日差しを遮る部材が、裁判所の正面をつくっています。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "建物全体を覆う大屋根、その下に続く深い格子。暑い季節に日差しを遮る部材が、裁判所の正面をつくっています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "a55da43befa2ca3661330144bf5b4980ea2d33bc219affbcf5a66482bd49ae4e",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/tropical-modernism/court2-660.webp",
+            "width": 660,
+            "height": 496
+          }
+        ]
+      },
+      "underlying_work_rights": "インド著作権法第52条第1項(s)・(t)。現地の建物または公共の場所に常設された彫刻の写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chandigarh_High_Court.jpg"
+      }
+    },
+    {
+      "id": "iim",
+      "entry": "Tropical Modernism",
+      "title": "インド経営大学院アーメダバード旧校舎",
+      "title_original": "Indian Institute of Management Ahmedabad, Heritage Campus",
+      "year": "1960年代以降",
+      "author": "ルイス・カーンと設計チーム",
+      "institution": "インド経営大学院アーメダバード",
+      "medium": "教育施設・インド",
+      "source_page": "https://www.iima.ac.in/the-institute/campus/iima-Restoration",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Indian_Institute_of_Management_Ahmedabad%2C_Louis_Kahn_Plaza.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "credit": "Students of IIMA / Wikimedia Commons / CC BY 3.0（WebP変換）",
+      "local_file": "assets/tropical-modernism/iim.webp",
+      "width": 1024,
+      "height": 575,
+      "alt": "赤れんがの校舎が囲む広場。丸い窓と大きなアーチの奥に陰が落ちる。",
+      "viewing_point": "厚いれんが壁に円とアーチの開口を切り取り、中庭を囲みました。壁の奥の濃い影を見ると、通路や室内に届く光を建物がどう変えるかが分かります。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "厚いれんが壁に円とアーチの開口を切り取り、中庭を囲みました。壁の奥の濃い影を見ると、通路や室内に届く光を建物がどう変えるかが分かります。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "bdfd020e99abcd3c7352e83874424401aa6ff4d62c74bc0d5a86cd20fa799543",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/tropical-modernism/iim-660.webp",
+            "width": 660,
+            "height": 371
+          }
+        ]
+      },
+      "underlying_work_rights": "インド著作権法第52条第1項(s)・(t)。現地の建物または公共の場所に常設された彫刻の写真。",
+      "original_image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Indian_Institute_of_Management_Ahmedabad%2C_Louis_Kahn_Plaza.jpg"
+      }
+    },
+    {
+      "id": "sing4",
+      "entry": "Tropical Modernism",
+      "title": "シンガポール会議場・労働組合会館",
+      "title_original": "Singapore Conference Hall and Trade Union House",
+      "year": "1961–1965年",
+      "author": "マラヤン・アーキテクツ・コーパートナーシップ（ウィリアム・リム、チャン・ブーンフィー、リム・チョンキート）",
+      "institution": "シンガポール国家遺産局",
+      "medium": "集会施設・シンガポール",
+      "source_page": "https://www.nas.gov.sg/archivesonline/data/pdfdoc/20110103003/20101221_media_release_2010_gazette_final.pdf",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Singapore_Conference_Hall_exterior_20240727_171139.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "ZKang123 / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+      "local_file": "assets/tropical-modernism/sing4.webp",
+      "width": 500,
+      "height": 375,
+      "alt": "街路樹越しに望む会議場。窓の上に幅広い庇が張り出している。",
+      "viewing_point": "熱帯の暑さの中で大勢が集まれるよう、設計には自然換気が組み込まれました。道路から見ると、奥まった窓の前に庇が長く延びています。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "熱帯の暑さの中で大勢が集まれるよう、設計には自然換気が組み込まれました。道路から見ると、奥まった窓の前に庇が長く延びています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "1f2ca0a243e7ab61c69cd0cac3cb681dce782de9da77559d85b4012fc7e9919a",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/tropical-modernism/sing4-660.webp",
+            "width": 500,
+            "height": 375
+          }
+        ]
+      },
+      "underlying_work_rights": "シンガポールの公共空間の建築物の外観写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Singapore_Conference_Hall_exterior_20240727_171139.jpg/500px-Singapore_Conference_Hall_exterior_20240727_171139.jpg"
+      }
+    },
+    {
+      "id": "bandeiras",
+      "entry": "ブラジル・モダニズム",
+      "title": "バンデイラス記念碑",
+      "title_original": "Monumento às Bandeiras",
+      "year": "1920年構想、1953年公開",
+      "author": "ヴィクトル・ブレシェレ",
+      "institution": "サンパウロ市・公共美術目録",
+      "medium": "花崗岩の群像・サンパウロ",
+      "source_page": "https://coleta.prefeitura.sp.gov.br/web/cultura/w/patrimonio_historico/adote_obra/4526",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Monumento_%C3%A0s_Bandeiras%2C_de_Victor_Brecheret%2C_no_Parque_do_Ibirapuera_-_S%C3%A3o_Paulo_-_Brasil.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Flaminio Fantini / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+      "local_file": "assets/brazilian-modernism/bandeiras.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "長く伸びた石の台座に、馬上の人物と舟を引く人々の列が並ぶ。",
+      "viewing_point": "舟を引く人々と馬上の人物が、長い列をつくります。1920年に始まった構想は植民地時代の内陸遠征を記念する市の事業となり、三十年以上を経て実現しました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "舟を引く人々と馬上の人物が、長い列をつくります。1920年に始まった構想は植民地時代の内陸遠征を記念する市の事業となり、三十年以上を経て実現しました。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "03511342d4b9260df26bd71eeb8c2fd0ff50b721ae0eaec57908f328e08b83d5",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/brazilian-modernism/bandeiras-660.webp",
+            "width": 660,
+            "height": 495
+          }
+        ]
+      },
+      "underlying_work_rights": "ブラジル著作権法第48条。公共空間に恒久的に設置された作品の外観写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Monumento_%C3%A0s_Bandeiras%2C_de_Victor_Brecheret%2C_no_Parque_do_Ibirapuera_-_S%C3%A3o_Paulo_-_Brasil.jpg/960px-Monumento_%C3%A0s_Bandeiras%2C_de_Victor_Brecheret%2C_no_Parque_do_Ibirapuera_-_S%C3%A3o_Paulo_-_Brasil.jpg"
+      }
+    },
+    {
+      "id": "nery",
+      "entry": "ブラジル・モダニズム",
+      "title": "自画像",
+      "title_original": "Auto-retrato",
+      "year": "1927年",
+      "author": "イスマエル・ネリ",
+      "institution": "Transatlantic Encounters 研究プロジェクト",
+      "medium": "油彩・カンヴァス",
+      "source_page": "https://transatlanticencounters.rrchnm.org/items/show/4643",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Ismael_Nery_-_Auto-retrato%2C_1927.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Ismael Nery / Wikimedia Commons / Public Domain Mark 1.0（WebP変換）",
+      "local_file": "assets/brazilian-modernism/nery.webp",
+      "width": 921,
+      "height": 1400,
+      "alt": "白い服の人物に横顔と正面向きの顔が重なり、左右に異なる街並みが広がる。",
+      "viewing_point": "一つの胴体の上で、横向きの顔とこちらを見る顔が重なります。写実的な自画像から離れ、同じ人の複数の姿を同時に描いた作品です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "一つの胴体の上で、横向きの顔とこちらを見る顔が重なります。写実的な自画像から離れ、同じ人の複数の姿を同時に描いた作品です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "2b7a78e377bda09fbe1830681d32d6a038d93afc375b8834792ddb677ebcfccf",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/brazilian-modernism/nery-660.webp",
+            "width": 434,
+            "height": 660
+          }
+        ]
+      },
+      "underlying_work_rights": "作者は1934年没。原作・複製ともCommons個別ページのPD-Art表示。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ismael_Nery_-_Auto-retrato%2C_1927.jpg/960px-Ismael_Nery_-_Auto-retrato%2C_1927.jpg"
+      }
+    },
+    {
+      "id": "casa2",
+      "entry": "ブラジル・モダニズム",
+      "title": "サンタ・クルス通りのモダニスタ住宅",
+      "title_original": "Casa Modernista da Rua Santa Cruz",
+      "year": "1927年設計、1928年竣工",
+      "author": "グレゴリ・ワルシャフチク",
+      "institution": "サンパウロ市立博物館",
+      "medium": "住宅・サンパウロ",
+      "source_page": "https://www.museudacidade.prefeitura.sp.gov.br/sobre-mcsp/casa-modernista/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Casa_Modernista_SP1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Márcio Otoboni / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+      "local_file": "assets/brazilian-modernism/casa2.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "木立の奥に、白い壁と平らな庇が重なる住宅が見える。",
+      "viewing_point": "庭の奥に、白い直方体を重ねた住宅が見えます。近代芸術週間で議論された新しい形が、1920年代のサンパウロで実際に暮らす家にも現れました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "庭の奥に、白い直方体を重ねた住宅が見えます。近代芸術週間で議論された新しい形が、1920年代のサンパウロで実際に暮らす家にも現れました。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "3d3e6a576b98dc70f9de6913006aac6374ff29763969ea10ba3eb654c3b9b268",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/brazilian-modernism/casa2-660.webp",
+            "width": 660,
+            "height": 495
+          }
+        ]
+      },
+      "underlying_work_rights": "ブラジル著作権法第48条。公共空間に恒久的に設置された作品の外観写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Casa_Modernista_SP1.jpg/960px-Casa_Modernista_SP1.jpg"
+      }
+    },
+    {
+      "id": "pamp2",
+      "entry": "ブラジル・モダニズム",
+      "title": "パンプーリャのサン・フランシスコ・デ・アシス教会",
+      "title_original": "Igreja de São Francisco de Assis, Pampulha",
+      "year": "1940年代",
+      "author": "オスカー・ニーマイヤー（建築）、カンディド・ポルチナーリ（タイル画）",
+      "institution": "UNESCO世界遺産センター",
+      "medium": "教会建築・ベロオリゾンテ",
+      "source_page": "https://whc.unesco.org/en/list/1493/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Francisco_de_Assis%2C_Belo_Horizonte%2C_south_view_2015.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Geraldo Durães / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+      "local_file": "assets/brazilian-modernism/pamp2.webp",
+      "width": 500,
+      "height": 375,
+      "alt": "波形の屋根がつくる大小の曲面に、青と白のタイル画が広がっている。",
+      "viewing_point": "大小の波を連ねたような屋根の端まで、青と白のタイル画が続きます。画家と建築家の仕事を一つの外観として体験できる、パンプーリャの代表的な建物です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "大小の波を連ねたような屋根の端まで、青と白のタイル画が続きます。画家と建築家の仕事を一つの外観として体験できる、パンプーリャの代表的な建物です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "9b509f9ac8b699500304941af303209f68fdab8f54beabf2d8602f2a0a2af4ec",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/brazilian-modernism/pamp2-660.webp",
+            "width": 500,
+            "height": 375
+          }
+        ]
+      },
+      "underlying_work_rights": "ブラジル著作権法第48条。公共空間に恒久的に設置された作品の外観写真。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/S%C3%A3o_Francisco_de_Assis%2C_Belo_Horizonte%2C_south_view_2015.jpg/500px-S%C3%A3o_Francisco_de_Assis%2C_Belo_Horizonte%2C_south_view_2015.jpg"
+      }
+    },
+    {
+      "id": "wpa-teeth",
+      "entry": "Silkscreen",
+      "title": "歯をきれいに",
+      "title_original": "Keep your teeth clean",
+      "year": "1936〜1938年",
+      "author": "連邦美術計画（ニューヨーク州ロチェスター）",
+      "institution": "米国議会図書館",
+      "medium": "多色シルクスクリーン・ポスター",
+      "source_page": "https://www.loc.gov/pictures/item/92517367/",
+      "work_source_page": "https://www.loc.gov/pictures/item/92517367/",
+      "license": "米国議会図書館の再利用可能資料。個別記録に既知の公開制限なしと記載。",
+      "license_url": "https://www.loc.gov/free-to-use/wpa-posters/",
+      "credit": "連邦美術計画（ニューヨーク州ロチェスター）／Library of Congress, Prints and Photographs Division, WPA Posters（92517367）",
+      "local_file": "assets/silkscreen/wpa-teeth.webp",
+      "width": 500,
+      "height": 644,
+      "alt": "黒い丸顔の中央で、白い歯だけが浮かびます。左右に一本ずつ立てた歯ブラシとチューブも、簡潔な輪郭だけで見分けられます。",
+      "viewing_point": "黒い丸顔の中央で、白い歯だけが浮かびます。左右に一本ずつ立てた歯ブラシとチューブも、簡潔な輪郭だけで見分けられます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "黒い丸顔の中央で、白い歯だけが浮かびます。左右に一本ずつ立てた歯ブラシとチューブも、簡潔な輪郭だけで見分けられます。"
+        }
+      ],
+      "selection_criterion": "米国議会図書館が選定したWPAのポスター",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "9b1f052eb94a140e9148234839fd4dd5987fbb4718eb7807c85b208d895ac5e2",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/silkscreen/wpa-teeth-660.webp",
+            "width": 500,
+            "height": 644
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Keep_your_teeth_clean_LCCN92517367.jpg/500px-Keep_your_teeth_clean_LCCN92517367.jpg"
+      }
+    },
+    {
+      "id": "wpa-reading",
+      "entry": "Silkscreen",
+      "title": "休暇の読書クラブ",
+      "title_original": "The vacation reading club — join now at your public library",
+      "year": "1936〜1939年",
+      "author": "連邦美術計画（アイオワ州）",
+      "institution": "米国議会図書館",
+      "medium": "多色シルクスクリーン・ポスター",
+      "source_page": "https://www.loc.gov/pictures/item/98510373/",
+      "work_source_page": "https://www.loc.gov/pictures/item/98510373/",
+      "license": "米国議会図書館の再利用可能資料。個別記録に既知の公開制限なしと記載。",
+      "license_url": "https://www.loc.gov/free-to-use/wpa-posters/",
+      "credit": "連邦美術計画（アイオワ州）／Library of Congress, Prints and Photographs Division, WPA Posters（98510373）",
+      "local_file": "assets/silkscreen/wpa-reading.webp",
+      "width": 500,
+      "height": 779,
+      "alt": "開いた本から黄色い帯が伸び、文字がその縁に沿って一周します。本の中へ目を誘う曲線に、青い背景の白い水玉が重なります。",
+      "viewing_point": "開いた本から黄色い帯が伸び、文字がその縁に沿って一周します。本の中へ目を誘う曲線に、青い背景の白い水玉が重なります。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "開いた本から黄色い帯が伸び、文字がその縁に沿って一周します。本の中へ目を誘う曲線に、青い背景の白い水玉が重なります。"
+        }
+      ],
+      "selection_criterion": "米国議会図書館が選定したWPAのポスター",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "17763bc854e0c0bf7b3a882ab8015950c45aa3d50fd9488f87391af611b88acf",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/silkscreen/wpa-reading-660.webp",
+            "width": 424,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_vacation_reading_club_-_join_now_at_your_public_library_LCCN98510373.jpg/500px-The_vacation_reading_club_-_join_now_at_your_public_library_LCCN98510373.jpg"
+      }
+    },
+    {
+      "id": "wpa-travel",
+      "entry": "Silkscreen",
+      "title": "アメリカを見よう",
+      "title_original": "See America",
+      "year": "1936〜1939年",
+      "author": "アレクサンダー・デュクス",
+      "institution": "米国議会図書館",
+      "medium": "多色シルクスクリーン・ポスター",
+      "source_page": "https://www.loc.gov/pictures/item/96503125/",
+      "work_source_page": "https://www.loc.gov/pictures/item/96503125/",
+      "license": "米国議会図書館の再利用可能資料。個別記録に既知の公開制限なしと記載。",
+      "license_url": "https://www.loc.gov/free-to-use/wpa-posters/",
+      "credit": "アレクサンダー・デュクス／Library of Congress, Prints and Photographs Division, WPA Posters（96503125）",
+      "local_file": "assets/silkscreen/wpa-travel.webp",
+      "width": 500,
+      "height": 640,
+      "alt": "鍾乳洞の奥を二人が歩いています。重なる岩を数段階の青で刷り分け、小さな人影との対比で洞窟の高さを伝えました。",
+      "viewing_point": "鍾乳洞の奥を二人が歩いています。重なる岩を数段階の青で刷り分け、小さな人影との対比で洞窟の高さを伝えました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "鍾乳洞の奥を二人が歩いています。重なる岩を数段階の青で刷り分け、小さな人影との対比で洞窟の高さを伝えました。"
+        }
+      ],
+      "selection_criterion": "米国議会図書館が選定したWPAのポスター",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "b638eff064a16d635061784cc68be0f1db69d07e0a0addea35f66a687b8ee6ed",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/silkscreen/wpa-travel-660.webp",
+            "width": 500,
+            "height": 640
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/See_America_LCCN96503125.jpg/500px-See_America_LCCN96503125.jpg"
+      }
+    },
+    {
+      "id": "wpa-photo",
+      "entry": "Silkscreen",
+      "title": "写真展",
+      "title_original": "Photography exhibition",
+      "year": "1941年",
+      "author": "アンソニー・ヴェロニス",
+      "institution": "米国議会図書館",
+      "medium": "多色シルクスクリーン・ポスター",
+      "source_page": "https://www.loc.gov/pictures/item/98507251/",
+      "work_source_page": "https://www.loc.gov/pictures/item/98507251/",
+      "license": "米国議会図書館の再利用可能資料。個別記録に既知の公開制限なしと記載。",
+      "license_url": "https://www.loc.gov/free-to-use/wpa-posters/",
+      "credit": "アンソニー・ヴェロニス／Library of Congress, Prints and Photographs Division, WPA Posters（98507251）",
+      "local_file": "assets/silkscreen/wpa-photo.webp",
+      "width": 500,
+      "height": 784,
+      "alt": "左からせり出す黒いカメラに、建物が写った白い印画紙を重ねました。写真展を知らせるポスター自体は、色ごとの版を使った印刷です。",
+      "viewing_point": "左からせり出す黒いカメラに、建物が写った白い印画紙を重ねました。写真展を知らせるポスター自体は、色ごとの版を使った印刷です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "左からせり出す黒いカメラに、建物が写った白い印画紙を重ねました。写真展を知らせるポスター自体は、色ごとの版を使った印刷です。"
+        }
+      ],
+      "selection_criterion": "米国議会図書館が選定したWPAのポスター",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "89be778f1282231d9f064053d9b5cf0c9a25746147190e8126a8d732f5a633ef",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/silkscreen/wpa-photo-660.webp",
+            "width": 421,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Photography_exhibition_LCCN98507251.jpg/500px-Photography_exhibition_LCCN98507251.jpg"
+      }
+    },
+    {
+      "id": "material-shrine",
+      "entry": "Material Design",
+      "title": "Shrine（ショップの画面）",
+      "title_original": "Shrine",
+      "year": "Flutter Gallery 公開版（2020年代初頭の画面）",
+      "author": "Google／Flutter チーム",
+      "institution": "Flutter Gallery 公式配布資料",
+      "medium": "UIデザインの実装見本・公式スクリーンショット",
+      "source_page": "https://m2.material.io/design/material-studies/shrine.html",
+      "work_source_page": "https://github.com/flutter/gallery/blob/main/android/fastlane/metadata/android/en-US/images/phoneScreenshots/5_en-US.png",
+      "license": "BSD 3-Clause License（Flutter Gallery 公開版）",
+      "license_url": "https://github.com/flutter/gallery/blob/main/LICENSE",
+      "credit": "Copyright (c) 2020, Flutter／公式画面を縮小しWebPに変換",
+      "local_file": "assets/material-design/material-shrine.webp",
+      "width": 640,
+      "height": 1280,
+      "alt": "サングラス、ベルト、かばんが白い画面に並び、下に買い物かごが付く。",
+      "viewing_point": "淡いピンクの見出しの下で、サングラスとかばんの写真が異なる幅で並びます。カードの上の買い物かごの印を頼りに、商品から購入の操作へ目を移せます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "淡いピンクの見出しの下で、サングラスとかばんの写真が異なる幅で並びます。カードの上の買い物かごの印を頼りに、商品から購入の操作へ目を移せます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "a1c3e37ccd424348faf1723add4abc2b9a64c13b37b3e77ead4331416a90d318",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/material-design/material-shrine-660.webp",
+            "width": 330,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "material-rally",
+      "entry": "Material Design",
+      "title": "Rally（家計を管理する画面）",
+      "title_original": "Rally",
+      "year": "Flutter Gallery 公開版（2020年代初頭の画面）",
+      "author": "Google／Flutter チーム",
+      "institution": "Flutter Gallery 公式配布資料",
+      "medium": "UIデザインの実装見本・公式スクリーンショット",
+      "source_page": "https://m2.material.io/design/material-studies/rally.html",
+      "work_source_page": "https://github.com/flutter/gallery/blob/main/android/fastlane/metadata/android/en-US/images/phoneScreenshots/6_en-US.png",
+      "license": "BSD 3-Clause License（Flutter Gallery 公開版）",
+      "license_url": "https://github.com/flutter/gallery/blob/main/LICENSE",
+      "credit": "Copyright (c) 2020, Flutter／公式画面を縮小しWebPに変換",
+      "local_file": "assets/material-design/material-rally.webp",
+      "width": 640,
+      "height": 1280,
+      "alt": "暗い背景に、残高、口座の一覧、請求の合計が縦に並ぶ。",
+      "viewing_point": "暗い背景に総額を大きく、口座ごとの内訳を小さく表示しました。金額を横にたどると、各行の細い色帯が口座を区別しているのに気づきます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "暗い背景に総額を大きく、口座ごとの内訳を小さく表示しました。金額を横にたどると、各行の細い色帯が口座を区別しているのに気づきます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "8737bd8e379fdac211d6b079ba7b26afbc4097132fc95ee970d465ba6f73af10",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/material-design/material-rally-660.webp",
+            "width": 330,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "material-crane",
+      "entry": "Material Design",
+      "title": "Crane（旅行を検索する画面）",
+      "title_original": "Crane",
+      "year": "Flutter Gallery 公開版（2020年代初頭の画面）",
+      "author": "Google／Flutter チーム",
+      "institution": "Flutter Gallery 公式配布資料",
+      "medium": "UIデザインの実装見本・公式スクリーンショット",
+      "source_page": "https://m2.material.io/design/material-studies/crane.html",
+      "work_source_page": "https://github.com/flutter/gallery/blob/main/android/fastlane/metadata/android/en-US/images/phoneScreenshots/7_en-US.png",
+      "license": "BSD 3-Clause License（Flutter Gallery 公開版）",
+      "license_url": "https://github.com/flutter/gallery/blob/main/LICENSE",
+      "credit": "Copyright (c) 2020, Flutter／公式画面を縮小しWebPに変換",
+      "local_file": "assets/material-design/material-crane.webp",
+      "width": 640,
+      "height": 1280,
+      "alt": "紫の検索フォームと、下半分の白い行き先一覧。",
+      "viewing_point": "上の三つのタブで空の旅・宿泊・食事を切り替えます。紫の検索欄から下の白い候補一覧へ、これから入力する部分と選べる結果が色で分かれています。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "上の三つのタブで空の旅・宿泊・食事を切り替えます。紫の検索欄から下の白い候補一覧へ、これから入力する部分と選べる結果が色で分かれています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "18d2c9977f56364fa29a6f41e9a4f733b2a0369de8d6ca644ab7959a65e52ac8",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/material-design/material-crane-660.webp",
+            "width": 330,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "material-navigation",
+      "entry": "Material Design",
+      "title": "Flutter Gallery のボトムナビゲーション",
+      "title_original": "Bottom navigation / Persistent labels",
+      "year": "Flutter Gallery 公開版（2020年代初頭の画面）",
+      "author": "Google／Flutter チーム",
+      "institution": "Flutter Gallery 公式配布資料",
+      "medium": "UIデザインの実装見本・公式スクリーンショット",
+      "source_page": "https://github.com/flutter/gallery/blob/main/lib/demos/material/bottom_navigation_demo.dart",
+      "work_source_page": "https://github.com/flutter/gallery/blob/main/android/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
+      "license": "BSD 3-Clause License（Flutter Gallery 公開版）",
+      "license_url": "https://github.com/flutter/gallery/blob/main/LICENSE",
+      "credit": "Copyright (c) 2020, Flutter／公式画面を縮小しWebPに変換",
+      "local_file": "assets/material-design/material-navigation.webp",
+      "width": 640,
+      "height": 1280,
+      "alt": "下端の紫色のバーに3つの項目があり、中央には選択中の吹き出しが拡大されている。",
+      "viewing_point": "一番下の帯に、コメント・予定・アカウントを切り替える三つの入口が並びます。選択中の吹き出しと中央の大きな記号を見比べると、どこを開いているかが分かります。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "一番下の帯に、コメント・予定・アカウントを切り替える三つの入口が並びます。選択中の吹き出しと中央の大きな記号を見比べると、どこを開いているかが分かります。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:35:00+09:00",
+      "sha256": "7d007920625643b4c7c9766c3fc33b7144bb9da0d6c57df76e1539c6e9b14f51",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/material-design/material-navigation-660.webp",
+            "width": 330,
+            "height": 660
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
