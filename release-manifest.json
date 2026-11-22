@@ -4843,8 +4843,8 @@
     },
     {
       "path": "tests/chronology-browser.cjs",
-      "bytes": 6130,
-      "sha256": "6c313d9cbd85cb73d2f034c306c814cffbfa77a674a755d2da6e89a14d63319d"
+      "bytes": 6242,
+      "sha256": "82df652cba5d8e7c898d09aa1374f557ead2db5ed0a54fa07f88727b5bd7634d"
     },
     {
       "path": "tests/chronology-unit.cjs",

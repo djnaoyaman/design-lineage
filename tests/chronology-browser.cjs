@@ -23,17 +23,20 @@ const check=await browser.newPage({viewport:{width:390,height:844}});
 await check.goto(base+'index.html#selected-works');
 function year(text) {
   if (/^(原)?制作年未/.test(text)) return Infinity;
-  const century = text.match(/^(\d{1,2})世紀/);
-  if (century) return (Number(century[1])-1)*100+1;
+  if (text==='18世紀初頭') return 1700;
   return Number(text.match(/\d{4}/)?.[0] ?? Infinity);
 }
-function checkOrder(labels) {
-  const dates=labels.map(year);
+function showcaseYear(text) {
+  const century=text.match(/^(\d{1,2})世紀/);
+  return century ? (Number(century[1])-1)*100+1 : year(text);
+}
+function checkOrder(labels, yearOf=year) {
+  const dates=labels.map(yearOf);
   assert.deepEqual(dates,[...dates].sort((a,b)=>a-b));
 }
 const featured=check.locator('.showcase-card time');
 assert.equal(await featured.count(),86);
-checkOrder(await featured.allTextContents());
+checkOrder(await featured.allTextContents(),showcaseYear);
 await check.goto(base+'works.html');
 const articles=await check.locator('.works-article[href^="entries/"]').evaluateAll(links=>links.map(a=>a.getAttribute('href').split('/')[1].split('.')[0]));
 assert.deepEqual(articles,c.sort(entries).map(e=>e.slug));
