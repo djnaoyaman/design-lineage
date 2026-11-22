@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-flat-design",
+  "release": "representative-galleries-material-design",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T10:34:00+09:00",
+  "frozen_at": "2026-11-22T10:35:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "43600a1ce538d33d08cb76b9d7c6e8bfdcf32a5c577303cab36cd9550e10354b"
+      "sha256": "edc895a13c138324cc6f8ffcfc866238465cbbb6410e9cede17ee41dc1f1e9a2"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 562312,
-      "sha256": "51b026003ee8cfb4d8d28bd1340851386cebe4ff801a247c98d829a5cc254c07"
+      "bytes": 627050,
+      "sha256": "d522f79212659ea3a332c7317398f04be31fefe73afed365612a6517df6d2b75"
     },
     {
       "path": "analytics-status.json",
@@ -180,6 +180,46 @@
       "path": "assets/bauhaus-kandinsky-color-form.svg",
       "bytes": 1946,
       "sha256": "eb2c31ea98b407b8536e6c0fe34f46e66b1af5cde0a4c3928851b4caf5f7bf8c"
+    },
+    {
+      "path": "assets/brazilian-modernism/bandeiras-660.webp",
+      "bytes": 56514,
+      "sha256": "0eca2c37ec17bc0b81135234085475452f3f7dd662bbce63ac998b08dcfd7a02"
+    },
+    {
+      "path": "assets/brazilian-modernism/bandeiras.webp",
+      "bytes": 132294,
+      "sha256": "03511342d4b9260df26bd71eeb8c2fd0ff50b721ae0eaec57908f328e08b83d5"
+    },
+    {
+      "path": "assets/brazilian-modernism/casa2-660.webp",
+      "bytes": 147364,
+      "sha256": "21aba43635f855ec26b87514d3ab30c809de1f4bc513e5a347406aac9405dd4f"
+    },
+    {
+      "path": "assets/brazilian-modernism/casa2.webp",
+      "bytes": 323908,
+      "sha256": "3d3e6a576b98dc70f9de6913006aac6374ff29763969ea10ba3eb654c3b9b268"
+    },
+    {
+      "path": "assets/brazilian-modernism/nery-660.webp",
+      "bytes": 47168,
+      "sha256": "fb405ded2c45d0c12b616743493fdb620558d59123af002bcf5492447830a035"
+    },
+    {
+      "path": "assets/brazilian-modernism/nery.webp",
+      "bytes": 124484,
+      "sha256": "2b7a78e377bda09fbe1830681d32d6a038d93afc375b8834792ddb677ebcfccf"
+    },
+    {
+      "path": "assets/brazilian-modernism/pamp2-660.webp",
+      "bytes": 75618,
+      "sha256": "81b27fd1f0fe050f14e3a1e68f527ba9a946030f2c14e07d5ee0d06a5ac6791e"
+    },
+    {
+      "path": "assets/brazilian-modernism/pamp2.webp",
+      "bytes": 78052,
+      "sha256": "9b509f9ac8b699500304941af303209f68fdab8f54beabf2d8602f2a0a2af4ec"
     },
     {
       "path": "assets/cleveland-1937.696_print-1200.webp",
@@ -1232,6 +1272,56 @@
       "sha256": "efa7c2f546192a1542f35747f1aa1aa2ae5887233444f52ea870e8bedb829d99"
     },
     {
+      "path": "assets/material-design/flutter-gallery-LICENSE.txt",
+      "bytes": 1515,
+      "sha256": "c731cf5a33db0e12647e0680ef0bc7839f99749404ac1ba4626cf7192065b3b0"
+    },
+    {
+      "path": "assets/material-design/flutter-gallery-assets-LICENSE.txt",
+      "bytes": 24519,
+      "sha256": "7bbee97ff6d9a19cf7c1ee7b0bd25b5d1d5735fc9a2202d7d903fdbb29c199b3"
+    },
+    {
+      "path": "assets/material-design/material-crane-660.webp",
+      "bytes": 15642,
+      "sha256": "4fa3e12277c7574f6eb0eb30dea40354bd6c267f1a50cded43ebe1a987f56821"
+    },
+    {
+      "path": "assets/material-design/material-crane.webp",
+      "bytes": 42964,
+      "sha256": "18d2c9977f56364fa29a6f41e9a4f733b2a0369de8d6ca644ab7959a65e52ac8"
+    },
+    {
+      "path": "assets/material-design/material-navigation-660.webp",
+      "bytes": 9000,
+      "sha256": "e3196bdf06e3e7a120a59f286a74b48d82b4976ec56516bb6348f709cb3969b7"
+    },
+    {
+      "path": "assets/material-design/material-navigation.webp",
+      "bytes": 22152,
+      "sha256": "7d007920625643b4c7c9766c3fc33b7144bb9da0d6c57df76e1539c6e9b14f51"
+    },
+    {
+      "path": "assets/material-design/material-rally-660.webp",
+      "bytes": 13084,
+      "sha256": "9efffbb7a72558cea2d298cfb288dfb99e1bd76b6b97c5a022868e15ac0a9171"
+    },
+    {
+      "path": "assets/material-design/material-rally.webp",
+      "bytes": 31538,
+      "sha256": "8737bd8e379fdac211d6b079ba7b26afbc4097132fc95ee970d465ba6f73af10"
+    },
+    {
+      "path": "assets/material-design/material-shrine-660.webp",
+      "bytes": 13262,
+      "sha256": "3a5dcb758b8d6eeaacef0f95869a8e8894a4549b723844385afe27a6d5a2ccb4"
+    },
+    {
+      "path": "assets/material-design/material-shrine.webp",
+      "bytes": 43282,
+      "sha256": "a1c3e37ccd424348faf1723add4abc2b9a64c13b37b3e77ead4331416a90d318"
+    },
+    {
       "path": "assets/met-37358-sharaku-1200.webp",
       "bytes": 723194,
       "sha256": "6f55d0e8deed415383b3ef57841c5a4e24875fdbd77b062ede04d21489add1c5"
@@ -1505,6 +1595,46 @@
       "path": "assets/omochi-pop-game-card.png",
       "bytes": 491718,
       "sha256": "86f30cf4c458cca369b3dedafd80d014f9659485aead4820b99d1021a60cb21c"
+    },
+    {
+      "path": "assets/photomontage/montage-fading-660.webp",
+      "bytes": 56460,
+      "sha256": "5b91f11d99eaf13b0843ca39a5b17a8a8c20f2fa141aaa202efcc19842f9e40a"
+    },
+    {
+      "path": "assets/photomontage/montage-fading.webp",
+      "bytes": 162102,
+      "sha256": "6b25adb209a056ef1504f9838f342b62620c3e4323407d2160878c893aedc658"
+    },
+    {
+      "path": "assets/photomontage/montage-klutsis-660.webp",
+      "bytes": 95814,
+      "sha256": "c857ae29e58d929a2c7c307c65f1b2daae743dfedfc537a1bb00351c2602bc85"
+    },
+    {
+      "path": "assets/photomontage/montage-klutsis.webp",
+      "bytes": 632298,
+      "sha256": "b6ce69f3ba9092ee1b84f1f0b5920f965c92c0696c755dc9ce3aeb656c46dbc9"
+    },
+    {
+      "path": "assets/photomontage/montage-lissitzky-660.webp",
+      "bytes": 53864,
+      "sha256": "5f28bdc39807351d0249c2bf08a45c4b2a4a819afd9f2f89d152e559c8e8881b"
+    },
+    {
+      "path": "assets/photomontage/montage-lissitzky.webp",
+      "bytes": 191384,
+      "sha256": "82ffed0ab3ec7ff8692ebd51c909d6f7e5e9b852ec62ac1b7deb443e581974b8"
+    },
+    {
+      "path": "assets/photomontage/montage-rejlander-660.webp",
+      "bytes": 38642,
+      "sha256": "40c0616d1deaf19489cdd24be00e30b0744165b10c56eb6739fca895cd6a8359"
+    },
+    {
+      "path": "assets/photomontage/montage-rejlander.webp",
+      "bytes": 82518,
+      "sha256": "97f989537e632eda3b27aad68fb965c884f10b0fb997f452fb37170bcd1deef5"
     },
     {
       "path": "assets/postmodern-comparison.svg",
@@ -2162,6 +2292,46 @@
       "sha256": "0d0f37c15e5b7da40090262c18e8c5232653d76b683ba11a53168a26ce059e03"
     },
     {
+      "path": "assets/santiniketan/family-660.webp",
+      "bytes": 96704,
+      "sha256": "a5a7ffbda693ff18bd24769a8b42406a63308479484e45b1078c7724e92450ae"
+    },
+    {
+      "path": "assets/santiniketan/family.webp",
+      "bytes": 451786,
+      "sha256": "4046fbbf20f2d3280b7fa2555ea1b10065eb55ccd4f99f05aa109fd988303f63"
+    },
+    {
+      "path": "assets/santiniketan/kalo-660.webp",
+      "bytes": 57230,
+      "sha256": "9dc123200f254766658aa519f18861f141f2b31727a52ef4a56afcf46f4f5ae7"
+    },
+    {
+      "path": "assets/santiniketan/kalo.webp",
+      "bytes": 60196,
+      "sha256": "46376c02b58dc463a64ececab127eedf49130466c75ffde8d553896fd32d9119"
+    },
+    {
+      "path": "assets/santiniketan/mill-660.webp",
+      "bytes": 99686,
+      "sha256": "08883ccb73ff5685ecb86c240ae5554a0671ff5f3a9a9df3f4ac11ec8a72267c"
+    },
+    {
+      "path": "assets/santiniketan/mill.webp",
+      "bytes": 140424,
+      "sha256": "7697eaf605e91018ebaeda8afdd39f825d0c00f02efb9fffcc866971f44a0786"
+    },
+    {
+      "path": "assets/santiniketan/sujata-660.webp",
+      "bytes": 94534,
+      "sha256": "3bb69af79798a9d22596c0d4496b923eaeca21e9c1d66abff1949e8efd5f0320"
+    },
+    {
+      "path": "assets/santiniketan/sujata.webp",
+      "bytes": 234070,
+      "sha256": "54024e34a4fd7416b6acd7cdb1ce9c4f49c27c4506e7a1bc0b2f4343efeeddf2"
+    },
+    {
       "path": "assets/schlemmer-bauhaus-exhibition-flyer-1200.webp",
       "bytes": 607942,
       "sha256": "294e657587f2e74461a41c6bbdd64485c1a5589f2305356045f2254763553078"
@@ -2197,9 +2367,129 @@
       "sha256": "280ff0184e3d16afee03bfed9704ec1011455530d6ae86171812b79e6380a668"
     },
     {
+      "path": "assets/silkscreen/wpa-photo-660.webp",
+      "bytes": 46676,
+      "sha256": "68edbf78c6f6185c6d79bcabb9a551339f452a9117a2f2f6cbd403bb958cd414"
+    },
+    {
+      "path": "assets/silkscreen/wpa-photo.webp",
+      "bytes": 100830,
+      "sha256": "89be778f1282231d9f064053d9b5cf0c9a25746147190e8126a8d732f5a633ef"
+    },
+    {
+      "path": "assets/silkscreen/wpa-reading-660.webp",
+      "bytes": 75296,
+      "sha256": "bef9c2d12250357ce264f04deca0bd3164a8b6c49d9a2a6b20f1d8df131180eb"
+    },
+    {
+      "path": "assets/silkscreen/wpa-reading.webp",
+      "bytes": 135142,
+      "sha256": "17763bc854e0c0bf7b3a882ab8015950c45aa3d50fd9488f87391af611b88acf"
+    },
+    {
+      "path": "assets/silkscreen/wpa-teeth-660.webp",
+      "bytes": 24424,
+      "sha256": "2ff09e2c79e4d450a318a20860d4f97be7c1cc210422fa12194a65f7e089e2d0"
+    },
+    {
+      "path": "assets/silkscreen/wpa-teeth.webp",
+      "bytes": 35924,
+      "sha256": "9b1f052eb94a140e9148234839fd4dd5987fbb4718eb7807c85b208d895ac5e2"
+    },
+    {
+      "path": "assets/silkscreen/wpa-travel-660.webp",
+      "bytes": 67740,
+      "sha256": "a37c62d8dac0e4aff2bc7b04a415663067dbf6f61ae77ca90d7e9070b77e8e79"
+    },
+    {
+      "path": "assets/silkscreen/wpa-travel.webp",
+      "bytes": 90568,
+      "sha256": "b638eff064a16d635061784cc68be0f1db69d07e0a0addea35f66a687b8ee6ed"
+    },
+    {
+      "path": "assets/surrealism/surreal-goll-660.webp",
+      "bytes": 63296,
+      "sha256": "d8f4a4a623563d58b6aa6fa78e491dd10f0907e7b996a5f400cb33548dbe8473"
+    },
+    {
+      "path": "assets/surrealism/surreal-goll.webp",
+      "bytes": 354162,
+      "sha256": "5f4abe90f880163ec6c7314c4581decb10f720f6a253f1aa6693b6e52c5d2843"
+    },
+    {
+      "path": "assets/surrealism/surreal-koga-sea-660.webp",
+      "bytes": 59756,
+      "sha256": "d15cba841c4bac6d85052229f6f7e2819edf4f728794b48ca82ec8766b0fc71d"
+    },
+    {
+      "path": "assets/surrealism/surreal-koga-sea.webp",
+      "bytes": 173734,
+      "sha256": "19a67922124254323817311cffce2cb17eefc1cf3111b0e5cd95952420cdb707"
+    },
+    {
+      "path": "assets/surrealism/surreal-koga-window-660.webp",
+      "bytes": 36258,
+      "sha256": "a812f07001e2bae581ade376214b9fb518f240e069e72247f0130e617bc0a50f"
+    },
+    {
+      "path": "assets/surrealism/surreal-koga-window.webp",
+      "bytes": 249718,
+      "sha256": "1f140fd5cfd95435cac8a4d39517c13e5065ae920c3a20cdd6eebf660136eaf2"
+    },
+    {
+      "path": "assets/surrealism/surreal-tanguy-660.webp",
+      "bytes": 31682,
+      "sha256": "383ff344f87ba3b25802dbebf934a660067e1772079170c50a90b77c6d8d3eda"
+    },
+    {
+      "path": "assets/surrealism/surreal-tanguy.webp",
+      "bytes": 268376,
+      "sha256": "fad40e84261145d8ef169906b77a0da5c310aae1d28a97cee5e0d759a2ff5bf2"
+    },
+    {
       "path": "assets/swiss-comparison.svg",
       "bytes": 3221,
       "sha256": "64177ed327113b781c215a6dd7af9e579d557728a5574a92a5295d5997b1b184"
+    },
+    {
+      "path": "assets/tropical-modernism/assembly-660.webp",
+      "bytes": 52952,
+      "sha256": "f20415a01892016b2dbf645e18dff429576ed1afca6b125b1fa6267e3ab7932b"
+    },
+    {
+      "path": "assets/tropical-modernism/assembly.webp",
+      "bytes": 126408,
+      "sha256": "7e4a297aa0c82ce1833f6e5d6400c39f17eead670a0b923b7983dacbdf4a606c"
+    },
+    {
+      "path": "assets/tropical-modernism/court2-660.webp",
+      "bytes": 62654,
+      "sha256": "9f67e65efe75c2c1f751dfe8319434cf0b278b19ab11bc562dd8345204ecef0e"
+    },
+    {
+      "path": "assets/tropical-modernism/court2.webp",
+      "bytes": 153154,
+      "sha256": "a55da43befa2ca3661330144bf5b4980ea2d33bc219affbcf5a66482bd49ae4e"
+    },
+    {
+      "path": "assets/tropical-modernism/iim-660.webp",
+      "bytes": 31216,
+      "sha256": "5287bd5362ff8308c1a3f56dea6e86745d3d3eaab6652c2dcad104600d234be4"
+    },
+    {
+      "path": "assets/tropical-modernism/iim.webp",
+      "bytes": 91354,
+      "sha256": "bdfd020e99abcd3c7352e83874424401aa6ff4d62c74bc0d5a86cd20fa799543"
+    },
+    {
+      "path": "assets/tropical-modernism/sing4-660.webp",
+      "bytes": 69510,
+      "sha256": "e1ddeed45eb10a1972edee401f710fec32812dc3ebbe614878684923ab4416c4"
+    },
+    {
+      "path": "assets/tropical-modernism/sing4.webp",
+      "bytes": 73184,
+      "sha256": "1f2ca0a243e7ab61c69cd0cac3cb681dce782de9da77559d85b4012fc7e9919a"
     },
     {
       "path": "assets/variable-font-expression/vf-fraunces-660.webp",
@@ -2308,8 +2598,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39507,
-      "sha256": "020a04e900de87497e5fed1400f1e374961af6ece0e4882cbae5389ae3ffe39e"
+      "bytes": 39496,
+      "sha256": "6c6afc8f3ffd98f81bcd90fd7f39baeb7347042c3b97fd2a479580428b547700"
     },
     {
       "path": "chapter-navigation.css",
@@ -2378,8 +2668,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2193654,
-      "sha256": "110c8189135ccb98e192114e7898a95a32078e00c1a19bbbd216f7780ffb52e4"
+      "bytes": 2282795,
+      "sha256": "43f21f602314da0546ec3eb482cbfdf1953aaa90b5c57d96ee9af3ca4309b3e0"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -2428,8 +2718,8 @@
     },
     {
       "path": "entries/brazilian-modernism.html",
-      "bytes": 13422,
-      "sha256": "bdc68eeb3415048c45ea57855d2371f8164a0399ded25d06a65d3943dfdb6a71"
+      "bytes": 26331,
+      "sha256": "d3cd2d97ca01d5a3267cdfcbb1f9ef4917bed4a618cdecddc84b411310a6ffbf"
     },
     {
       "path": "entries/brutalism.html",
@@ -2563,8 +2853,8 @@
     },
     {
       "path": "entries/material-design.html",
-      "bytes": 22432,
-      "sha256": "e9f2b73d676620a28e77b361da01c548bd024a6730ad909533d95565c934b3f7"
+      "bytes": 34728,
+      "sha256": "6170aa7d0da3add072575ca5048efe80462460cce7e4668341e9e713ac862ea3"
     },
     {
       "path": "entries/maximalist-web.html",
@@ -2653,8 +2943,8 @@
     },
     {
       "path": "entries/photomontage.html",
-      "bytes": 12701,
-      "sha256": "8dfb7beb8e31cd7d992a8f0ca1dbc47c3d48c7b26a959e318b049b13b35df283"
+      "bytes": 24994,
+      "sha256": "1108041e8ac0a4e734b042781dae5aff2ca5fa4bd16eb596c26d9e03653b61d5"
     },
     {
       "path": "entries/pixel-art.html",
@@ -2713,8 +3003,8 @@
     },
     {
       "path": "entries/santiniketan.html",
-      "bytes": 23110,
-      "sha256": "8d61e821aab99a3487c40c522ca68fc3b4babcac60a023d4f619c04d64418e72"
+      "bytes": 33259,
+      "sha256": "93c1a994a7ce34cf23fd4e8de6e44259fbd8bb2275c8b2d5272ecd2a207927b5"
     },
     {
       "path": "entries/scandinavian-modern.html",
@@ -2733,8 +3023,8 @@
     },
     {
       "path": "entries/silkscreen.html",
-      "bytes": 12364,
-      "sha256": "d026032d740b3c3e6a0d7fbcb95e9eee09e93475d5a0f383e8da96a88d3d57ca"
+      "bytes": 24672,
+      "sha256": "cf21931e74f6f0e888db8494c1039c4a1a94660f215b30cf95bb6d11dcc259ec"
     },
     {
       "path": "entries/skeuomorphism.html",
@@ -2763,8 +3053,8 @@
     },
     {
       "path": "entries/surrealism.html",
-      "bytes": 48256,
-      "sha256": "9b3f425bf9c9dc779e9e60329937804206af8f683754dfd4bfc9bf9c0bd7d459"
+      "bytes": 60187,
+      "sha256": "2ea1a70ab7895302abb2f9caba951fcd728aacfb24106f6a8e4c90e846889874"
     },
     {
       "path": "entries/swiss-style.html",
@@ -2778,8 +3068,8 @@
     },
     {
       "path": "entries/tropical-modernism.html",
-      "bytes": 13055,
-      "sha256": "2b016e7bfad815423705f10d0031d24ec948e5529e5f8a4d952cf43e841ca669"
+      "bytes": 25939,
+      "sha256": "05d4c81c6b63864b232427fd563ed0e6003e18a67e5d2c33475ccf4101cc857d"
     },
     {
       "path": "entries/tropicalismo.html",
@@ -2868,8 +3158,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 66409,
-      "sha256": "49bc4897fe1350619b05021ef4cf1ac4db5ef545b6981a86e243612b33901249"
+      "bytes": 71206,
+      "sha256": "1c1bc31631941fdebd4aab62939729a0378cdb6ca3ce28617e2ca9be95390205"
     },
     {
       "path": "japanese-name-sources.json",
@@ -2994,7 +3284,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "58c0d1324b404526a50e5e0c0c054e1b8b36f5c525ea691bb756b5c61153bb5b"
+      "sha256": "083a0f153a0452f9f5d624d1e46ec1b1d7f40bc9a3593b7534f10f29f2efbb5a"
     },
     {
       "path": "site.webmanifest",
@@ -3003,8 +3293,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 12959,
-      "sha256": "b9a7f04d63c18fd621d5724c3782ee825ec61b18f3fa4b0c83a3bc5476c5a2d9"
+      "bytes": 12854,
+      "sha256": "554e99188afccfd2238aa2f66088412e8a1b3acca18a7b2a4d002da0ddb70c00"
     },
     {
       "path": "study-images.js",
@@ -3044,7 +3334,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "d5f7f416631361d394bba1d6ca4fc4ba4e18e9af40b90ee629faebf9fbd496be"
+      "sha256": "ec12d7fddf7872f10983bb2fd059b74b4c07f0964ea51e628d89671464ffd43d"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -3054,7 +3344,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "cbabee6a9806742987e5e03798cd5a5d4e5a92561c74eb75b32986cbf6dda3bf"
+      "sha256": "df2c63116b4bcd830616f373a6f4ba5c3dd0a9e9a47297eae4b93e312748506b"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -3073,8 +3363,8 @@
     },
     {
       "path": "tests/site-qa.cjs",
-      "bytes": 32220,
-      "sha256": "d54ffe87c3c24c865a503a07c952ed0eef4c55417240f5d16744a4efd8686840"
+      "bytes": 32291,
+      "sha256": "9efc9c1e5256dabcd8336c760f8a1088ed0dbff8ea0b3c3109a4c7283edbcb7f"
     },
     {
       "path": "tests/swipe-hint-browser.cjs",
@@ -3113,8 +3403,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 159880,
-      "sha256": "9181ef390508a356fbc815d69679967171a6696e79ced7ab2fc22525fd35a611"
+      "bytes": 167325,
+      "sha256": "816a147d0564ae6583e2879d1ae5a5d7b18eaf2b649ec820922dc6990dc90aca"
     }
   ]
 }
