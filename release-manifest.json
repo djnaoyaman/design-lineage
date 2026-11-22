@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-taller-grafica-popular",
+  "release": "representative-galleries-maximalist-web",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T10:53:00+09:00",
+  "frozen_at": "2026-11-22T10:56:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "3c9eb7129f71522e465adf8aa2345aafa62db491e1623011f6814c7c0e63c1a3"
+      "sha256": "62204353d50ec1e4e6308c4959c2eebc7a1b6c5de40ad8649fcf3cc2c4a6997b"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 819959,
-      "sha256": "4b6053542aa6d9d0359e5b991689930427f515c374a0c4f72ab74d4cfa8f7db3"
+      "bytes": 829003,
+      "sha256": "325e4393c5d5da9efd91124b0cea5512bbc8c4d753907ed3950acdb0c2952d9c"
     },
     {
       "path": "analytics-status.json",
@@ -1750,6 +1750,56 @@
       "path": "assets/material-design/material-shrine.webp",
       "bytes": 43282,
       "sha256": "a1c3e37ccd424348faf1723add4abc2b9a64c13b37b3e77ead4331416a90d318"
+    },
+    {
+      "path": "assets/maximalist-web/maximal-pulse-660.webp",
+      "bytes": 23406,
+      "sha256": "f5e62a554eb472011fe688ecb261b653b516e0da784f8843ee1a4f81a81a6555"
+    },
+    {
+      "path": "assets/maximalist-web/maximal-pulse.webp",
+      "bytes": 59578,
+      "sha256": "924c251b099d2ac4d6bf7a349f0ffd53e3ccb35dc12d3cb5bc1dea6a25ae72f7"
+    },
+    {
+      "path": "assets/maximalist-web/maximal-retro-banner-660.webp",
+      "bytes": 24474,
+      "sha256": "d381727130b743e1fffdf2b3126cabaff32fb0052aa8bfbb91656fb0efe5bcec"
+    },
+    {
+      "path": "assets/maximalist-web/maximal-retro-banner.webp",
+      "bytes": 50984,
+      "sha256": "18f45cf72a5f6fed31d2f6341d349f093cc6b8325286becc5bd038cf973999a4"
+    },
+    {
+      "path": "assets/maximalist-web/mw-eloy-buttons-660.webp",
+      "bytes": 13392,
+      "sha256": "86f2a2a40ac75f83730206a784f5d3519f9fbcc71d89f389e05b597a3ac6dc8a"
+    },
+    {
+      "path": "assets/maximalist-web/mw-eloy-buttons.webp",
+      "bytes": 34258,
+      "sha256": "a8b732071a89ea55713ec0442f74efd2e1f986f3f5be65072aa6241f7800fa93"
+    },
+    {
+      "path": "assets/maximalist-web/mw-miyoshi-660.webp",
+      "bytes": 41206,
+      "sha256": "dd7ce92b18f7a4dd7ff0dde20e5d6be3fef5e1ce00456ceefd04f3198e9a9362"
+    },
+    {
+      "path": "assets/maximalist-web/mw-miyoshi.webp",
+      "bytes": 65498,
+      "sha256": "d6573031a7750ce5e2318c8050a95aa9b89cf123bb80b0da9ab416bbc271b0a5"
+    },
+    {
+      "path": "assets/maximalist-web/pulse-LICENSE.txt",
+      "bytes": 1070,
+      "sha256": "7957f4b291988f21be7cb75637d2efb6edd0369a95d3814cac7ef931f7f10b7c"
+    },
+    {
+      "path": "assets/maximalist-web/retro-LICENSE.txt",
+      "bytes": 1065,
+      "sha256": "18c36a42edb3fcab6fa3610aebe7e9d36c7364b9e6ccb41be3e43f20f2c8241a"
     },
     {
       "path": "assets/met-37358-sharaku-1200.webp",
@@ -3563,8 +3613,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39418,
-      "sha256": "61db957545977acee82c891c002a8252e8dd0189908373c7f22fcb8b549f45fa"
+      "bytes": 39406,
+      "sha256": "3fb2a2da38bbc2ffd0764f8ab747be7e4691422b49321aeb2cfccc74bdee96ba"
     },
     {
       "path": "chapter-navigation.css",
@@ -3633,8 +3683,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2564437,
-      "sha256": "0681efd194b0be5fc17efe220658b0a73d09029aff3db8ab10b268d5af8a7077"
+      "bytes": 2577799,
+      "sha256": "7d5deb47f867ed4601768f11eab3de181ad040b5e3bf752499ef6e7f832a8aeb"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -3823,8 +3873,8 @@
     },
     {
       "path": "entries/maximalist-web.html",
-      "bytes": 13004,
-      "sha256": "188af9b010cbd9aaa26ce5b5c67ca0ddcd6088b39e0c7a4220dcf2f5c554aab8"
+      "bytes": 25248,
+      "sha256": "97d0993965c659de81852a51b1ec0c4ce59833244819cb4790a545d0822ee71f"
     },
     {
       "path": "entries/memphis.html",
@@ -4123,8 +4173,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 86131,
-      "sha256": "6cc450f8ba6d6592905c9f7c303c9467d43c35d45ea3aca0a7ea59ba50b640c3"
+      "bytes": 86869,
+      "sha256": "2a2e8c4eaa1f0c7613834af19377150adb95a6a78b0c31ef6f617f8d3be48d69"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4164,7 +4214,7 @@
     {
       "path": "llms.txt",
       "bytes": 27373,
-      "sha256": "cd42e0fb5c9b933acda7a549a6071f6639a9910df47df1c351f5568e80027144"
+      "sha256": "295783725406b15f7fe43b3768c9e37d55c5abca684e161b40e750f6b1a12180"
     },
     {
       "path": "logo-provenance.json",
@@ -4249,7 +4299,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "70f1e280a576a4abe74b82636c4d6cf78c09f86e0ab40be84d06d794c161dcb5"
+      "sha256": "3fb7665b64b0a69a1dbf35a29852263a68cc59c37c1e61ffb391508f792915d4"
     },
     {
       "path": "site.webmanifest",
@@ -4258,8 +4308,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 12554,
-      "sha256": "de31abe4074dc668c8a95a8c2cc494d1281d10b04c59d99ffde75390783e238f"
+      "bytes": 12539,
+      "sha256": "c47e48fe8884b491c11369725d3141d5681454a21e0530623a65608d742e9f3e"
     },
     {
       "path": "study-images.js",
@@ -4299,7 +4349,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "ac74b67cfe216b7b2c62a9c78c8016a597526356a69af43d3d89d920a182ad45"
+      "sha256": "7950ba7e8af0a47087ec274d5167b441e1f48c38d3e7b43bfe59e01df676504a"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -4309,7 +4359,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "6cc0685b76896cdcdf285892b7878c494e04c2990dcdf18032ac50d960a83ac8"
+      "sha256": "1b120d1515ecf0740e9dd9d22bfe2ce6e748fecbdf80c7092f2eed9c6a6a79ba"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4368,8 +4418,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 193643,
-      "sha256": "1a53269340d84d3d7ba46b2dba70142f9b61d97f75764cecef74d756584c1481"
+      "bytes": 194793,
+      "sha256": "ed7615b26034eb060c17f04e623e7639490fb1d3d3c0266fbd00e85fbdb9f5a2"
     }
   ]
 }

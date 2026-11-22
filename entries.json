@@ -37411,11 +37411,11 @@
     },
     "comparison": "Y2Kの昔らしさと重なることはありますが、過去の時代を参照しなくても成り立ちます。内容の多い図書館サイトすべてが、この表現になるわけでもありません。",
     "modern": "画面の読み込み、文字の読みやすさ、動きを減らす設定も含めて評価します。要素を増やすことが、そのままよい体験になるとは限りません。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:56:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 3,
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "image_count_acquired": 4,
+    "representative_count": 7,
     "sources": [
       {
         "id": "maximalist-web-1",
@@ -37440,12 +37440,40 @@
         "supports": "COSMOの名称・作者・年代または制作方法",
         "checked_at": "2026-11-01",
         "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "mw-miyoshi",
+        "url": "https://webflow.com/made-in-webflow/website/2018-trends-maximalism",
+        "institution": "Made in Webflow・作者公開作品",
+        "title": "2018年の潮流 ― マキシマリズム"
+      },
+      {
+        "id": "mw-eloy-buttons",
+        "url": "https://webflow.com/made-in-webflow/website/y2k-buttons",
+        "institution": "Made in Webflow・作者公開作品",
+        "title": "Y2Kボタン・コレクション"
+      },
+      {
+        "id": "maximal-retro-banner",
+        "url": "https://github.com/NovusGFX/retro-design-system/tree/main/styles/53-maximalist-banners",
+        "institution": "制作者の公開資料",
+        "title": "Maximalist 90s Banner"
+      },
+      {
+        "id": "maximal-pulse",
+        "url": "https://rampstack.co/showcase/creative-direction/pulse-music",
+        "institution": "制作者の公開資料",
+        "title": "Pulse ― 音楽配信サイトのデザイン試作"
       }
     ],
     "source_ids": [
       "maximalist-web-1",
       "maximalist-web-2",
-      "maximalist-web-3"
+      "maximalist-web-3",
+      "mw-miyoshi",
+      "mw-eloy-buttons",
+      "maximal-retro-banner",
+      "maximal-pulse"
     ],
     "representatives": [
       {
@@ -37516,12 +37544,213 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "表現が確かめられる制作事例（同じ作者のひな形）",
         "source_url": "https://pearler.work/home"
+      },
+      {
+        "id": "mw-miyoshi",
+        "title": "2018 Trends — Maximalism",
+        "title_ja": "2018年の潮流 ― マキシマリズム",
+        "title_original": "2018 Trends — Maximalism",
+        "creator": "ライアン・ミヨシ",
+        "date": "2018年",
+        "domain": "ウェブサイトの公開画面",
+        "evidence": "https://webflow.com/made-in-webflow/website/2018-trends-maximalism",
+        "reason": "画面いっぱいに拡大した黄色い文字列に、斜めの帯を幾重にも重ねています。短い文章は黒い板の上に集めて、激しい背景の中でも読めるようにしました。作者が2018年のマキシマリズムの作例として発表したサイトです。"
+      },
+      {
+        "id": "mw-eloy-buttons",
+        "title": "Y2K Button Collection",
+        "title_ja": "Y2Kボタン・コレクション",
+        "title_original": "Y2K Button Collection",
+        "creator": "エロイ・ベ（Eloy Be）",
+        "date": "2022年",
+        "domain": "ウェブサイトの公開画面",
+        "evidence": "https://webflow.com/made-in-webflow/website/y2k-buttons",
+        "reason": "飴のような光沢、金属調のグラデーション、立体的な縁取り。六つのボタンは統一せず、異なる手触りを一画面に並べています。2000年代を題材に、作者が「maximalist」とも分類した操作見本です。"
+      },
+      {
+        "id": "maximal-retro-banner",
+        "title": "Maximalist 90s Banner",
+        "title_ja": "Maximalist 90s Banner",
+        "title_original": "Maximalist 90s Banner",
+        "creator": "NovusGFX",
+        "date": "2026年の公開版",
+        "domain": "公表されたHTMLとCSSによる静止表示（ページ中央部）",
+        "evidence": "https://github.com/NovusGFX/retro-design-system/tree/main/styles/53-maximalist-banners",
+        "reason": "来訪者カウンターの上にも下にも、目を引く仕掛けが続きます。作者が1990年代のバナー文化を引用して作った現代のひな形です。掲載図は中央部の静止表示で、原版では文字も点滅したり横に流れたりします。"
+      },
+      {
+        "id": "maximal-pulse",
+        "title": "Pulse",
+        "title_ja": "Pulse ― 音楽配信サイトのデザイン試作",
+        "title_original": "Pulse",
+        "creator": "RampStack Co.",
+        "date": "2026年の公開版",
+        "domain": "デザイン試作の公式掲載画像",
+        "evidence": "https://rampstack.co/showcase/creative-direction/pulse-music",
+        "reason": "音に合わせて跳ねるような棒、鮮やかな光、大きな斜体の文字を重ね、音楽を画面の中で感じさせます。制作元が「Expressive Maximalist」と位置づけた、架空の音楽配信サービスのデザイン試作です。"
       }
     ],
     "period_bands": [],
     "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "mw-miyoshi",
+        "entry": "Maximalist web",
+        "title": "2018年の潮流 ― マキシマリズム",
+        "title_original": "2018 Trends — Maximalism",
+        "year": "2018年",
+        "author": "ライアン・ミヨシ",
+        "institution": "Made in Webflow・作者公開作品",
+        "medium": "ウェブサイトの公開画面",
+        "source_page": "https://webflow.com/made-in-webflow/website/2018-trends-maximalism",
+        "work_source_page": "https://screenshots.webflow.com/sites/5a9827813c7b7d0001a3eeff/20180323184456_c1fc46099f18354793cc5e7cfe629e5b.png",
+        "license": "CC0 1.0（Webflowの複製可能作品）",
+        "license_url": "https://university.webflow.com/glossary/cloneable-site",
+        "credit": "ライアン・ミヨシ 制作。作者が複製を許可した作品の公式表示画面をWebP化。",
+        "local_file": "assets/maximalist-web/mw-miyoshi.webp",
+        "width": 540,
+        "height": 360,
+        "alt": "画面をはみ出す黄色い大文字と、斜めに走る青白い模様の上に、黒地の文章欄が重なっている。",
+        "viewing_point": "画面いっぱいに拡大した黄色い文字列に、斜めの帯を幾重にも重ねています。短い文章は黒い板の上に集めて、激しい背景の中でも読めるようにしました。作者が2018年のマキシマリズムの作例として発表したサイトです。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "画面いっぱいに拡大した黄色い文字列に、斜めの帯を幾重にも重ねています。短い文章は黒い板の上に集めて、激しい背景の中でも読めるようにしました。作者が2018年のマキシマリズムの作例として発表したサイトです。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:56:00+09:00",
+        "sha256": "d6573031a7750ce5e2318c8050a95aa9b89cf123bb80b0da9ab416bbc271b0a5",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/maximalist-web/mw-miyoshi-660.webp",
+              "width": 540,
+              "height": 360
+            }
+          ]
+        }
+      },
+      {
+        "id": "mw-eloy-buttons",
+        "entry": "Maximalist web",
+        "title": "Y2Kボタン・コレクション",
+        "title_original": "Y2K Button Collection",
+        "year": "2022年",
+        "author": "エロイ・ベ（Eloy Be）",
+        "institution": "Made in Webflow・作者公開作品",
+        "medium": "ウェブサイトの公開画面",
+        "source_page": "https://webflow.com/made-in-webflow/website/y2k-buttons",
+        "work_source_page": "https://screenshots.webflow.com/sites/62f185b8e54e017fdb49f6ee/20220809191928_67d9c49d0fa787866f32e469fedbaef9.png",
+        "license": "CC0 1.0（Webflowの複製可能作品）",
+        "license_url": "https://university.webflow.com/glossary/cloneable-site",
+        "credit": "エロイ・ベ（Eloy Be） 制作。作者が複製を許可した作品の公式表示画面をWebP化。",
+        "local_file": "assets/maximalist-web/mw-eloy-buttons.webp",
+        "width": 540,
+        "height": 360,
+        "alt": "ピンクの地に六色の点線枠が並び、それぞれに半透明、金属調、ビニールのような光沢などの異なるボタンが入る。",
+        "viewing_point": "飴のような光沢、金属調のグラデーション、立体的な縁取り。六つのボタンは統一せず、異なる手触りを一画面に並べています。2000年代を題材に、作者が「maximalist」とも分類した操作見本です。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "飴のような光沢、金属調のグラデーション、立体的な縁取り。六つのボタンは統一せず、異なる手触りを一画面に並べています。2000年代を題材に、作者が「maximalist」とも分類した操作見本です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:56:00+09:00",
+        "sha256": "a8b732071a89ea55713ec0442f74efd2e1f986f3f5be65072aa6241f7800fa93",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/maximalist-web/mw-eloy-buttons-660.webp",
+              "width": 540,
+              "height": 360
+            }
+          ]
+        }
+      },
+      {
+        "id": "maximal-retro-banner",
+        "entry": "Maximalist web",
+        "title": "Maximalist 90s Banner",
+        "title_original": "Maximalist 90s Banner",
+        "year": "2026年の公開版",
+        "author": "NovusGFX",
+        "institution": "制作者の公開資料",
+        "medium": "公表されたHTMLとCSSによる静止表示（ページ中央部）",
+        "source_page": "https://github.com/NovusGFX/retro-design-system/tree/main/styles/53-maximalist-banners",
+        "work_source_page": "https://github.com/NovusGFX/retro-design-system/blob/main/styles/53-maximalist-banners/index.html",
+        "license": "MIT License",
+        "license_url": "https://github.com/NovusGFX/retro-design-system/blob/main/LICENSE",
+        "credit": "Copyright (c) 2026 NovusGFX／WebPに変換",
+        "local_file": "assets/maximalist-web/maximal-retro-banner.webp",
+        "width": 1050,
+        "height": 630,
+        "alt": "桃色と水色と黄色の縞にはさまれ、色とりどりのバナー、来訪者数、工事中の札、ゲストブックが黒い面に並ぶ。",
+        "viewing_point": "来訪者カウンターの上にも下にも、目を引く仕掛けが続きます。作者が1990年代のバナー文化を引用して作った現代のひな形です。掲載図は中央部の静止表示で、原版では文字も点滅したり横に流れたりします。",
+        "visual_notes": [
+          {
+            "title": "代表作・見どころ",
+            "text": "来訪者カウンターの上にも下にも、目を引く仕掛けが続きます。作者が1990年代のバナー文化を引用して作った現代のひな形です。掲載図は中央部の静止表示で、原版では文字も点滅したり横に流れたりします。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:56:00+09:00",
+        "sha256": "18f45cf72a5f6fed31d2f6341d349f093cc6b8325286becc5bd038cf973999a4",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/maximalist-web/maximal-retro-banner-660.webp",
+              "width": 660,
+              "height": 396
+            }
+          ]
+        }
+      },
+      {
+        "id": "maximal-pulse",
+        "entry": "Maximalist web",
+        "title": "Pulse ― 音楽配信サイトのデザイン試作",
+        "title_original": "Pulse",
+        "year": "2026年の公開版",
+        "author": "RampStack Co.",
+        "institution": "制作者の公開資料",
+        "medium": "デザイン試作の公式掲載画像",
+        "source_page": "https://rampstack.co/showcase/creative-direction/pulse-music",
+        "work_source_page": "https://github.com/rampstackco/claude-skills/blob/main/assets/showcase/archetype-pulse.png",
+        "license": "MIT License",
+        "license_url": "https://github.com/rampstackco/claude-skills/blob/main/LICENSE",
+        "credit": "Copyright (c) 2026 RampStack Co.／WebPに変換",
+        "local_file": "assets/maximalist-web/maximal-pulse.webp",
+        "width": 1155,
+        "height": 944,
+        "alt": "赤紫と青の光に浮いた大きな見出しの下に、色を変える波形が並び、次の区画に続く。",
+        "viewing_point": "音に合わせて跳ねるような棒、鮮やかな光、大きな斜体の文字を重ね、音楽を画面の中で感じさせます。制作元が「Expressive Maximalist」と位置づけた、架空の音楽配信サービスのデザイン試作です。",
+        "visual_notes": [
+          {
+            "title": "代表作・見どころ",
+            "text": "音に合わせて跳ねるような棒、鮮やかな光、大きな斜体の文字を重ね、音楽を画面の中で感じさせます。制作元が「Expressive Maximalist」と位置づけた、架空の音楽配信サービスのデザイン試作です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:56:00+09:00",
+        "sha256": "924c251b099d2ac4d6bf7a349f0ffd53e3ccb35dc12d3cb5bc1dea6a25ae72f7",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/maximalist-web/maximal-pulse-660.webp",
+              "width": 660,
+              "height": 539
+            }
+          ]
+        }
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -37534,7 +37763,7 @@
         "文字、写真、模様、動きをたっぷり重ねます。情報や飾りの多さそのものを楽しませるウェブ表現です。「マキシマリスト」は、多くの要素を積極的に使う姿勢を表す呼び名です。"
       ]
     },
-    "representativeness_limit": "催事一例、制作者サイトと同じ作者のテンプレートです。三つの独立した運動や時代を代表するわけではありません。",
+    "representativeness_limit": "制作者が公開したウェブ作品を通じて、文字や色、装飾を重ねた画面で、視線がどこへ移っていくかを見比べます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
