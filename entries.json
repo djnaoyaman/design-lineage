@@ -21789,7 +21789,7 @@
         "好きな音楽を伝える雑誌を、自分で書いて配る。パンクのDIY（ディー・アイ・ワイ）は、専門家や大きな会社だけに任せず、自分たちでつくって発表しようとする姿勢です。紙の切り貼りや手描きの文字は、その方法の一部でした。"
       ]
     },
-    "representativeness_limit": "ここに挙げた作品は、考え方やつくり方の違いを比べるための例です。この分野の全地域・全時代を網羅するものではありません。",
+    "representativeness_limit": "作り手が発行したジンの表紙や紙面から、手に入る道具で文字と写真を組み合わせ、読者に届けた方法をたどります。",
     "sources": [
       {
         "id": "44&src=CalmView.Catalog",
@@ -21810,6 +21810,30 @@
         "id": "a-brief-history-of-zines",
         "url": "https://www.vanartgallery.bc.ca/a-brief-history-of-zines/",
         "institution": "バンクーバー美術館"
+      },
+      {
+        "id": "punk-inside-front-12",
+        "url": "https://crimethinc.com/journals/inside-front/12",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "title": "インサイド・フロント第12号"
+      },
+      {
+        "id": "punk-harbinger-3",
+        "url": "https://crimethinc.com/journals/harbinger/3",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "title": "ハービンジャー第3号"
+      },
+      {
+        "id": "punk-days-war-nights-love",
+        "url": "https://crimethinc.com/books/days-of-war-nights-of-love",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "title": "デイズ・オブ・ウォー、ナイツ・オブ・ラブ"
+      },
+      {
+        "id": "punk-inside-front-reunion",
+        "url": "https://crimethinc.com/journals/inside-front/14",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "title": "インサイド・フロント再結成号"
       }
     ],
     "representatives": [
@@ -21869,18 +21893,231 @@
             "同じ音楽文化の表現が紙を離れ、身につけるものへ広がる例。"
           ]
         }
+      },
+      {
+        "id": "punk-inside-front-12",
+        "title": "Inside Front #12",
+        "title_ja": "インサイド・フロント第12号",
+        "title_original": "Inside Front #12",
+        "creator": "Inside Front 編集部／CrimethInc.",
+        "date": "1999年5月",
+        "domain": "ハードコア・パンクの自主制作誌、150ページ",
+        "evidence": "https://crimethinc.com/journals/inside-front/12",
+        "reason": "人影がつくる長い斜線を表紙いっぱいに配した。スウェーデンのRefusedやブラジルのPoint of No Returnに取材し、別々の土地で活動するバンドを一冊のジンで結んでいる。"
+      },
+      {
+        "id": "punk-harbinger-3",
+        "title": "Harbinger 3: The Propaganda of Desire",
+        "title_ja": "ハービンジャー第3号",
+        "title_original": "Harbinger 3: The Propaganda of Desire",
+        "creator": "CrimethInc.",
+        "date": "2000年",
+        "domain": "無料配布のタブロイド紙、14ページ",
+        "evidence": "https://crimethinc.com/journals/harbinger/3",
+        "reason": "大きな誌名が弧を描き、左上には赤地に白で「FREE」とある。パンクの自主出版から生まれた編集集団が、無料で手渡せる新聞に活動を広げた例。写真の上下には小さな本文も組まれている。"
+      },
+      {
+        "id": "punk-days-war-nights-love",
+        "title": "Days of War, Nights of Love: Crimethink for Beginners",
+        "title_ja": "デイズ・オブ・ウォー、ナイツ・オブ・ラブ",
+        "title_original": "Days of War, Nights of Love: Crimethink for Beginners",
+        "creator": "CrimethInc. Workers’ Collective",
+        "date": "2000年初刷、2001年版",
+        "domain": "自主出版の単行本",
+        "evidence": "https://crimethinc.com/books/days-of-war-nights-of-love",
+        "reason": "人物と山の風景が写る写真を背景に、赤い題名を表紙の長辺に沿って置いた。パンクのジンを手がけた集団の最初の本で、音楽誌『Slug & Lettuce』では文章と挿絵を対等に扱う紙面が紹介された。"
+      },
+      {
+        "id": "punk-inside-front-reunion",
+        "title": "Inside Front Reunion Issue",
+        "title_ja": "インサイド・フロント再結成号",
+        "title_original": "Inside Front Reunion Issue",
+        "creator": "Inside Front 編集部／CrimethInc.",
+        "date": "2003年春",
+        "domain": "ハードコア・パンクの自主制作誌、196ページ、コンピレーションCD付",
+        "evidence": "https://crimethinc.com/journals/inside-front/14",
+        "reason": "黒い工場のシルエットを橙色の空に重ね、白い太字の見出しを左に置いた号。TragedyやLackへの取材を収録し、誌面と同時に複数のバンドの演奏を聴けるCDを届けた。"
       }
     ],
-    "adopted_images": [],
-    "image_count_acquired": 0,
+    "adopted_images": [
+      {
+        "id": "punk-inside-front-12",
+        "entry": "Punk / DIY",
+        "title": "インサイド・フロント第12号",
+        "title_original": "Inside Front #12",
+        "year": "1999年5月",
+        "author": "Inside Front 編集部／CrimethInc.",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "medium": "ハードコア・パンクの自主制作誌、150ページ",
+        "source_page": "https://crimethinc.com/journals/inside-front/12",
+        "work_source_page": "https://crimethinc.com/2019/02/06/inside-front-international-journal-of-hardcore-punk-and-anarchist-action-archives-1997-2003",
+        "license": "発行元が複製・配布を許諾（copyright free）",
+        "license_url": "https://crimethinc.com/2020/05/13/crimethinccom-now-fully-multilingual-help-us-add-translations",
+        "credit": "Inside Front 編集部／CrimethInc.／表紙図版提供 CrimethInc.",
+        "local_file": "assets/punk-diy/punk-inside-front-12.webp",
+        "width": 1200,
+        "height": 1600,
+        "alt": "上部に誌名があり、その下を人影の長い黒い斜線が横切る。",
+        "viewing_point": "人影がつくる長い斜線を表紙いっぱいに配した。スウェーデンのRefusedやブラジルのPoint of No Returnに取材し、別々の土地で活動するバンドを一冊のジンで結んでいる。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "人影がつくる長い斜線を表紙いっぱいに配した。スウェーデンのRefusedやブラジルのPoint of No Returnに取材し、別々の土地で活動するバンドを一冊のジンで結んでいる。"
+          }
+        ],
+        "selection_criterion": "代表作（パンクの自主出版）",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "cb6e29a4dcf914ef3c64669e782eb89a8d4fc58bd7a7ce07a9538d3b1a796f48",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/punk-diy/punk-inside-front-12-660.webp",
+              "width": 495,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://cdn.crimethinc.com/assets/journals/inside-front-12/inside-front-12_front.jpg"
+        }
+      },
+      {
+        "id": "punk-harbinger-3",
+        "entry": "Punk / DIY",
+        "title": "ハービンジャー第3号",
+        "title_original": "Harbinger 3: The Propaganda of Desire",
+        "year": "2000年",
+        "author": "CrimethInc.",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "medium": "無料配布のタブロイド紙、14ページ",
+        "source_page": "https://crimethinc.com/journals/harbinger/3",
+        "work_source_page": "https://crimethinc.com/2000/10/15/harbinger3",
+        "license": "発行元が複製・配布を許諾（copyright free）",
+        "license_url": "https://crimethinc.com/2020/05/13/crimethinccom-now-fully-multilingual-help-us-add-translations",
+        "credit": "CrimethInc.／表紙図版提供 CrimethInc.",
+        "local_file": "assets/punk-diy/punk-harbinger-3.webp",
+        "width": 518,
+        "height": 800,
+        "alt": "湾曲した黒い誌名、赤い見出し、人物が写る横長の写真を配したタブロイドの一面。",
+        "viewing_point": "大きな誌名が弧を描き、左上には赤地に白で「FREE」とある。パンクの自主出版から生まれた編集集団が、無料で手渡せる新聞に活動を広げた例。写真の上下には小さな本文も組まれている。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "大きな誌名が弧を描き、左上には赤地に白で「FREE」とある。パンクの自主出版から生まれた編集集団が、無料で手渡せる新聞に活動を広げた例。写真の上下には小さな本文も組まれている。"
+          }
+        ],
+        "selection_criterion": "代表作（パンクの自主出版）",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "e601e517e417218de3760c7f634489d035d38a340c91e09eb3317084a747a1d3",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/punk-diy/punk-harbinger-3-660.webp",
+              "width": 427,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://cdn.crimethinc.com/assets/journals/harbinger-3/harbinger-3_front.jpg"
+        }
+      },
+      {
+        "id": "punk-days-war-nights-love",
+        "entry": "Punk / DIY",
+        "title": "デイズ・オブ・ウォー、ナイツ・オブ・ラブ",
+        "title_original": "Days of War, Nights of Love: Crimethink for Beginners",
+        "year": "2000年初刷、2001年版",
+        "author": "CrimethInc. Workers’ Collective",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "medium": "自主出版の単行本",
+        "source_page": "https://crimethinc.com/books/days-of-war-nights-of-love",
+        "work_source_page": "https://crimethinc.com/2000/10/15/the-crimethinc-crimethink-book",
+        "license": "発行元が複製・配布を許諾（copyright free）",
+        "license_url": "https://crimethinc.com/2020/05/13/crimethinccom-now-fully-multilingual-help-us-add-translations",
+        "credit": "CrimethInc. Workers’ Collective／表紙図版提供 CrimethInc.",
+        "local_file": "assets/punk-diy/punk-days-war-nights-love.webp",
+        "width": 614,
+        "height": 950,
+        "alt": "山の景色と人物の写真の上に、横向きの赤い題名と黒い副題を重ねている。",
+        "viewing_point": "人物と山の風景が写る写真を背景に、赤い題名を表紙の長辺に沿って置いた。パンクのジンを手がけた集団の最初の本で、音楽誌『Slug & Lettuce』では文章と挿絵を対等に扱う紙面が紹介された。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "人物と山の風景が写る写真を背景に、赤い題名を表紙の長辺に沿って置いた。パンクのジンを手がけた集団の最初の本で、音楽誌『Slug & Lettuce』では文章と挿絵を対等に扱う紙面が紹介された。"
+          }
+        ],
+        "selection_criterion": "代表作（パンクの自主出版）",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "59e98f560e78c6bc0486a915e4db372d41d1ec9f2356fe132c28c3b24cca63dc",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/punk-diy/punk-days-war-nights-love-660.webp",
+              "width": 427,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://cdn.crimethinc.com/assets/books/days-of-war-nights-of-love/days-of-war-nights-of-love_front.jpg"
+        }
+      },
+      {
+        "id": "punk-inside-front-reunion",
+        "entry": "Punk / DIY",
+        "title": "インサイド・フロント再結成号",
+        "title_original": "Inside Front Reunion Issue",
+        "year": "2003年春",
+        "author": "Inside Front 編集部／CrimethInc.",
+        "institution": "CrimethInc. 出版アーカイブ",
+        "medium": "ハードコア・パンクの自主制作誌、196ページ、コンピレーションCD付",
+        "source_page": "https://crimethinc.com/journals/inside-front/14",
+        "work_source_page": "https://crimethinc.com/2019/02/06/inside-front-international-journal-of-hardcore-punk-and-anarchist-action-archives-1997-2003",
+        "license": "発行元が複製・配布を許諾（copyright free）",
+        "license_url": "https://crimethinc.com/2020/05/13/crimethinccom-now-fully-multilingual-help-us-add-translations",
+        "credit": "Inside Front 編集部／CrimethInc.／表紙図版提供 CrimethInc.",
+        "local_file": "assets/punk-diy/punk-inside-front-reunion.webp",
+        "width": 1164,
+        "height": 1600,
+        "alt": "橙と黒を使った表紙。工場の煙突と煙の左に、白で三行の見出しが入る。",
+        "viewing_point": "黒い工場のシルエットを橙色の空に重ね、白い太字の見出しを左に置いた号。TragedyやLackへの取材を収録し、誌面と同時に複数のバンドの演奏を聴けるCDを届けた。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "黒い工場のシルエットを橙色の空に重ね、白い太字の見出しを左に置いた号。TragedyやLackへの取材を収録し、誌面と同時に複数のバンドの演奏を聴けるCDを届けた。"
+          }
+        ],
+        "selection_criterion": "代表作（パンクの自主出版）",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "3313e28e783fb2599d9940a25930e429d3c08199e61e26f47b3248c429926150",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/punk-diy/punk-inside-front-reunion-660.webp",
+              "width": 480,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://cdn.crimethinc.com/assets/journals/inside-front-14/inside-front-14_front.jpg"
+        }
+      }
+    ],
+    "image_count_acquired": 4,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 3,
+    "representative_count": 7,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "本文・作品図録公開（実作品画像4点）",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:49:00+09:00",
     "period_bands": [
       "1950-1999"
     ],
@@ -21889,7 +22126,11 @@
       "44&src=CalmView.Catalog",
       "Queen-Elizabeth-II-God-Save-the-Queen",
       "789280",
-      "a-brief-history-of-zines"
+      "a-brief-history-of-zines",
+      "punk-inside-front-12",
+      "punk-harbinger-3",
+      "punk-days-war-nights-love",
+      "punk-inside-front-reunion"
     ]
   },
   {
@@ -28076,6 +28317,61 @@
         },
         "source_url": "https://sirismm.si.edu/EADpdfs/AAA.adammart.pdf",
         "title_ja": "メキシコ革命の版画集（Estampas de la Revolución Mexicana）"
+      },
+      {
+        "id": "tgp-posada-127569",
+        "title": "La Típica",
+        "title_ja": "舞踏楽団",
+        "title_original": "La Típica",
+        "creator": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "date": "1894年の原版、1942年刊",
+        "domain": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "evidence": "https://collections.artsmia.org/art/127569",
+        "reason": "第22葉。手前で組んで踊る人々、その向こうに並ぶ楽器の奏者。1894年の原版を工房が1942年に刷り、音楽と踊りの場面を次の世代へ届けました。"
+      },
+      {
+        "id": "tgp-arenal-land",
+        "title": "Distribution of Land",
+        "title_ja": "土地の分配",
+        "title_original": "Distribution of Land",
+        "creator": "ルイス・アレナル（原作）／WPA（刊行）",
+        "date": "1937年",
+        "domain": "木口木版",
+        "evidence": "https://www.metmuseum.org/art/collection/search/374167",
+        "reason": "「土地」と記した旗の下に、農民が集まります。民衆版画工房の創設者アレナルが、工房を結成したのと同じ年に制作した木版画です。この一枚はアメリカのWPAが刊行しました。"
+      },
+      {
+        "id": "tgp-posada-127548",
+        "title": "El Clown Mexicano",
+        "title_ja": "メキシコの道化師",
+        "title_original": "El Clown Mexicano",
+        "creator": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "date": "1942年刊（ポサダ没後の刷り）",
+        "domain": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "evidence": "https://collections.artsmia.org/art/127548",
+        "reason": "第1葉。衣装の大きさを強調した道化師と、それを囲む文字が一枚の表紙をつくります。工房は出版物のために彫られたポサダの原版を刷り直し、25点の版画集の冒頭に置きました。"
+      },
+      {
+        "id": "tgp-posada-127553",
+        "title": "Los Gendarmes",
+        "title_ja": "警官たち",
+        "title_original": "Los Gendarmes",
+        "creator": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "date": "1942年刊（ポサダ没後の刷り）",
+        "domain": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "evidence": "https://collections.artsmia.org/art/127553",
+        "reason": "第6葉。制服姿の人物を、渦を巻く飾りと何段もの文字が取り囲みます。工房による1942年の刷りでは、もとは大衆向けの冊子で人目を引いた絵と題字を一緒に見られます。"
+      },
+      {
+        "id": "tgp-posada-127571",
+        "title": "El Automóvil",
+        "title_ja": "自動車",
+        "title_original": "El Automóvil",
+        "creator": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "date": "1942年刊（ポサダ没後の刷り）",
+        "domain": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "evidence": "https://collections.artsmia.org/art/127571",
+        "reason": "第24葉。大きな車輪を横から描き、その上に乗客を並べています。工房が刷り直した版画集には、音楽や職業だけでなく、新しい乗り物に目を向けた大衆出版の図柄も入りました。"
       }
     ],
     "sources": [
@@ -28106,9 +28402,39 @@
         "supports": [
           "1947年版画集・85点・16作家"
         ]
+      },
+      {
+        "id": "tgp-posada-127569",
+        "url": "https://collections.artsmia.org/art/127569",
+        "institution": "ミネアポリス美術館",
+        "title": "舞踏楽団"
+      },
+      {
+        "id": "tgp-arenal-land",
+        "url": "https://www.metmuseum.org/art/collection/search/374167",
+        "institution": "メトロポリタン美術館",
+        "title": "土地の分配"
+      },
+      {
+        "id": "tgp-posada-127548",
+        "url": "https://collections.artsmia.org/art/127548",
+        "institution": "ミネアポリス美術館",
+        "title": "メキシコの道化師"
+      },
+      {
+        "id": "tgp-posada-127553",
+        "url": "https://collections.artsmia.org/art/127553",
+        "institution": "ミネアポリス美術館",
+        "title": "警官たち"
+      },
+      {
+        "id": "tgp-posada-127571",
+        "url": "https://collections.artsmia.org/art/127571",
+        "institution": "ミネアポリス美術館",
+        "title": "自動車"
       }
     ],
-    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "representativeness_limit": "工房で制作・印刷された作品を、図案の作者、原版と実際に刷られた時期を分けて読みます。",
     "recognition_section_label": "作品をよく見るための手がかり",
     "modern_section_label": "いま、考えてみること",
     "reading_intro": {
@@ -28118,12 +28444,235 @@
       ],
       "looking_questions": []
     },
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "tgp-posada-127569",
+        "entry": "Taller de Gráfica Popular",
+        "title": "舞踏楽団",
+        "title_original": "La Típica",
+        "year": "1894年の原版、1942年刊",
+        "author": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "institution": "ミネアポリス美術館",
+        "medium": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "source_page": "https://collections.artsmia.org/art/127569",
+        "work_source_page": "https://collections.artsmia.org/art/127569",
+        "license": "Public Domain（所蔵館表示）",
+        "license_url": "https://new.artsmia.org/copyright-and-image-access/",
+        "credit": "Minneapolis Institute of Art, Gift of Lisa and David Erickson / Public Domain（全図をWebPに変換）",
+        "local_file": "assets/taller-grafica-popular/tgp-posada-127569.webp",
+        "width": 607,
+        "height": 800,
+        "alt": "楽団の前で男女が向き合って踊り、画面いっぱいに演奏者と踊り手が重なる。",
+        "viewing_point": "第22葉。手前で組んで踊る人々、その向こうに並ぶ楽器の奏者。1894年の原版を工房が1942年に刷り、音楽と踊りの場面を次の世代へ届けました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "第22葉。手前で組んで踊る人々、その向こうに並ぶ楽器の奏者。1894年の原版を工房が1942年に刷り、音楽と踊りの場面を次の世代へ届けました。"
+          }
+        ],
+        "selection_criterion": "よく研究されている作品",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "e00390057bc2b164af2ae4cda8fc1cca280f6ae756cceb74ecaa3372580de2c4",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/taller-grafica-popular/tgp-posada-127569-660.webp",
+              "width": 501,
+              "height": 660
+            }
+          ]
+        },
+        "selection_evidence": "https://www.moma.org/collection/works/73978",
+        "underlying_work_rights": "原版作者は1913年没。ミネアポリス美術館の作品別データはPublic Domain。",
+        "original_image": {
+          "url": "https://img.artsmia.org/web_objects_cache/127000/500/60/127569/mia_7008784_800.jpg"
+        }
+      },
+      {
+        "id": "tgp-arenal-land",
+        "entry": "Taller de Gráfica Popular",
+        "title": "土地の分配",
+        "title_original": "Distribution of Land",
+        "year": "1937年",
+        "author": "ルイス・アレナル（原作）／WPA（刊行）",
+        "institution": "メトロポリタン美術館",
+        "medium": "木口木版",
+        "source_page": "https://www.metmuseum.org/art/collection/search/374167",
+        "work_source_page": "https://www.metmuseum.org/art/collection/search/374167",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "The Metropolitan Museum of Art / Open Access, CC0 1.0（全図をWebPに変換）",
+        "local_file": "assets/taller-grafica-popular/tgp-arenal-land.webp",
+        "width": 1200,
+        "height": 886,
+        "alt": "「TIERRA」と書かれた旗の下に人々が集まり、後ろには農地が広がる。",
+        "viewing_point": "「土地」と記した旗の下に、農民が集まります。民衆版画工房の創設者アレナルが、工房を結成したのと同じ年に制作した木版画です。この一枚はアメリカのWPAが刊行しました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "「土地」と記した旗の下に、農民が集まります。民衆版画工房の創設者アレナルが、工房を結成したのと同じ年に制作した木版画です。この一枚はアメリカのWPAが刊行しました。"
+          }
+        ],
+        "selection_criterion": "創設者の活動を伝える作品",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "05b1dfaab67c14c64e1a4ee9cd2a7a383f858d80dd9353bc9a42bab67da767ac",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/taller-grafica-popular/tgp-arenal-land-660.webp",
+              "width": 660,
+              "height": 487
+            }
+          ]
+        },
+        "selection_evidence": "https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/taller-de-grafica-popular",
+        "underlying_work_rights": "メトロポリタン美術館による作品別Public Domain指定。画像はOpen Access。",
+        "original_image": {
+          "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/374167/770683/main-image"
+        }
+      },
+      {
+        "id": "tgp-posada-127548",
+        "entry": "Taller de Gráfica Popular",
+        "title": "メキシコの道化師",
+        "title_original": "El Clown Mexicano",
+        "year": "1942年刊（ポサダ没後の刷り）",
+        "author": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "institution": "ミネアポリス美術館",
+        "medium": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "source_page": "https://collections.artsmia.org/art/127548",
+        "work_source_page": "https://collections.artsmia.org/art/127548",
+        "license": "Public Domain（所蔵館表示）",
+        "license_url": "https://new.artsmia.org/copyright-and-image-access/",
+        "credit": "Minneapolis Institute of Art, Gift of Lisa and David Erickson / Public Domain（全図をWebPに変換）",
+        "local_file": "assets/taller-grafica-popular/tgp-posada-127548.webp",
+        "width": 607,
+        "height": 800,
+        "alt": "見出しの下に、たっぷりした衣装を着た道化師が一人で立っている。",
+        "viewing_point": "第1葉。衣装の大きさを強調した道化師と、それを囲む文字が一枚の表紙をつくります。工房は出版物のために彫られたポサダの原版を刷り直し、25点の版画集の冒頭に置きました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "第1葉。衣装の大きさを強調した道化師と、それを囲む文字が一枚の表紙をつくります。工房は出版物のために彫られたポサダの原版を刷り直し、25点の版画集の冒頭に置きました。"
+          }
+        ],
+        "selection_criterion": "よく研究されている作品",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "c066564618cbc223889ac58b1e269f9378dcb8ecdaf91656ffcb11228f2c6f62",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/taller-grafica-popular/tgp-posada-127548-660.webp",
+              "width": 501,
+              "height": 660
+            }
+          ]
+        },
+        "selection_evidence": "https://www.moma.org/collection/works/73978",
+        "underlying_work_rights": "原版作者は1913年没。ミネアポリス美術館の作品別データはPublic Domain。",
+        "original_image": {
+          "url": "https://img.artsmia.org/web_objects_cache/127000/500/40/127548/mia_7008759_800.jpg"
+        }
+      },
+      {
+        "id": "tgp-posada-127553",
+        "entry": "Taller de Gráfica Popular",
+        "title": "警官たち",
+        "title_original": "Los Gendarmes",
+        "year": "1942年刊（ポサダ没後の刷り）",
+        "author": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "institution": "ミネアポリス美術館",
+        "medium": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "source_page": "https://collections.artsmia.org/art/127553",
+        "work_source_page": "https://collections.artsmia.org/art/127553",
+        "license": "Public Domain（所蔵館表示）",
+        "license_url": "https://new.artsmia.org/copyright-and-image-access/",
+        "credit": "Minneapolis Institute of Art, Gift of Lisa and David Erickson / Public Domain（全図をWebPに変換）",
+        "local_file": "assets/taller-grafica-popular/tgp-posada-127553.webp",
+        "width": 607,
+        "height": 800,
+        "alt": "制服を着た人々の輪郭を、太い題字と装飾枠が囲む。",
+        "viewing_point": "第6葉。制服姿の人物を、渦を巻く飾りと何段もの文字が取り囲みます。工房による1942年の刷りでは、もとは大衆向けの冊子で人目を引いた絵と題字を一緒に見られます。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "第6葉。制服姿の人物を、渦を巻く飾りと何段もの文字が取り囲みます。工房による1942年の刷りでは、もとは大衆向けの冊子で人目を引いた絵と題字を一緒に見られます。"
+          }
+        ],
+        "selection_criterion": "よく研究されている作品",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "0e186c941aefc9b2cf05d19094edcad91b3ca0914da643772b2a7284face28fc",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/taller-grafica-popular/tgp-posada-127553-660.webp",
+              "width": 501,
+              "height": 660
+            }
+          ]
+        },
+        "selection_evidence": "https://www.moma.org/collection/works/73978",
+        "underlying_work_rights": "原版作者は1913年没。ミネアポリス美術館の作品別データはPublic Domain。",
+        "original_image": {
+          "url": "https://img.artsmia.org/web_objects_cache/127000/500/50/127553/mia_7008767_800.jpg"
+        }
+      },
+      {
+        "id": "tgp-posada-127571",
+        "entry": "Taller de Gráfica Popular",
+        "title": "自動車",
+        "title_original": "El Automóvil",
+        "year": "1942年刊（ポサダ没後の刷り）",
+        "author": "ホセ・グアダルーペ・ポサダ（原版）／民衆版画工房（印刷）／ラ・エスタンパ・メヒカーナ（刊行）",
+        "institution": "ミネアポリス美術館",
+        "medium": "手漉き紙に亜鉛版／『ホセ・グアダルーペ・ポサダ版画25選』",
+        "source_page": "https://collections.artsmia.org/art/127571",
+        "work_source_page": "https://collections.artsmia.org/art/127571",
+        "license": "Public Domain（所蔵館表示）",
+        "license_url": "https://new.artsmia.org/copyright-and-image-access/",
+        "credit": "Minneapolis Institute of Art, Gift of Lisa and David Erickson / Public Domain（全図をWebPに変換）",
+        "local_file": "assets/taller-grafica-popular/tgp-posada-127571.webp",
+        "width": 607,
+        "height": 800,
+        "alt": "題字の下に、二つの大きな車輪と乗客を載せた自動車が横向きに描かれる。",
+        "viewing_point": "第24葉。大きな車輪を横から描き、その上に乗客を並べています。工房が刷り直した版画集には、音楽や職業だけでなく、新しい乗り物に目を向けた大衆出版の図柄も入りました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "第24葉。大きな車輪を横から描き、その上に乗客を並べています。工房が刷り直した版画集には、音楽や職業だけでなく、新しい乗り物に目を向けた大衆出版の図柄も入りました。"
+          }
+        ],
+        "selection_criterion": "よく研究されている作品",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "c4d60ce48d298afe091146960910cd3acfe764e97986741055f73975b4c5129a",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/taller-grafica-popular/tgp-posada-127571-660.webp",
+              "width": 501,
+              "height": 660
+            }
+          ]
+        },
+        "selection_evidence": "https://www.moma.org/collection/works/73978",
+        "underlying_work_rights": "原版作者は1913年没。ミネアポリス美術館の作品別データはPublic Domain。",
+        "original_image": {
+          "url": "https://img.artsmia.org/web_objects_cache/127000/500/70/127571/mia_7008786_800.jpg"
+        }
+      }
+    ],
     "reference_images": [],
-    "image_count_acquired": 0,
+    "image_count_acquired": 5,
     "reference_image_count": 0,
     "image_status": "実作品画像の掲載許諾を確認中",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+    "status": "本文・作品図録公開（実作品画像5点）",
+    "checked_at": "2026-11-22T10:53:00+09:00",
+    "representative_count": 8
   },
   {
     "name": "Tropicalismo",
@@ -33637,7 +34186,7 @@
       ]
     },
     "representativeness_limit": "柔らかな影と光で操作部分を浮かせたり、くぼませたりする四つの実装例を見比べます。",
-    "representative_count_note": "3つの参照箇所です。うち2つは同じ記事の図で、独立した3作品ではありません。",
+    "representative_count_note": "以前から本文で紹介していた資料は、同じ製品や記事を複数の角度から見る例を含みます。作品図録には、今回画像を確認した作品を個別に掲載しています。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
     "independent_project_count": 2,
@@ -33664,11 +34213,11 @@
     },
     "comparison": "アクリリックは具体的な製品の素材表現です。一般的な見た目の呼び名と同一視しません。同じように透けて見えても、何を透かし、どう重ねるかは製品によって異なります。",
     "modern": "透ける表現を使わない設定や、処理が重い機器での代わりの表示も用意することが大切です。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:49:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 3,
+    "status": "本文・作品図録公開（実作品画像5点）",
+    "image_count_acquired": 5,
+    "representative_count": 7,
     "sources": [
       {
         "id": "glassmorphism-1",
@@ -33693,12 +34242,40 @@
         "supports": "Acrylic：In-app acrylicの名称・作者・年代または制作方法",
         "checked_at": "2026-11-01",
         "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "glass-deepin",
+        "url": "https://www.deepin.org/en/deepin-15-4-outstanding-from-inside-out/",
+        "institution": "公式資料・公開記録",
+        "title": "deepin 15.4 のコントロールセンター"
+      },
+      {
+        "id": "glass-terminal",
+        "url": "https://learn.microsoft.com/en-us/windows/terminal/customize-settings/profile-appearance",
+        "institution": "公式資料・公開記録",
+        "title": "Windows Terminal の Acrylic"
+      },
+      {
+        "id": "glass-glasskit",
+        "url": "https://glasskit.jungherz.com/",
+        "institution": "公式資料・公開記録",
+        "title": "GlassKit のコンポーネント見本"
+      },
+      {
+        "id": "glass-farvist",
+        "url": "https://farvist.com/about/",
+        "institution": "公式資料・公開記録",
+        "title": "Farvist の公式表示見本"
       }
     ],
     "source_ids": [
       "glassmorphism-1",
       "glassmorphism-2",
-      "glassmorphism-3"
+      "glassmorphism-3",
+      "glass-deepin",
+      "glass-terminal",
+      "glass-glasskit",
+      "glass-farvist"
     ],
     "representatives": [
       {
@@ -33769,12 +34346,252 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "参考教材（同じ製品の内部を透かす例）",
         "source_url": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic"
+      },
+      {
+        "id": "glass-deepin",
+        "title": "deepin 15.4 Control Center",
+        "title_ja": "deepin 15.4 のコントロールセンター",
+        "title_original": "deepin 15.4 Control Center",
+        "creator": "deepin 開発チーム",
+        "date": "2017年",
+        "domain": "先行する実装",
+        "evidence": "https://www.deepin.org/en/deepin-15-4-outstanding-from-inside-out/",
+        "reason": "呼称が広がる前の先行例。開発元が「ぼかしと透明」を打ち出した版です。右側の設定パネルを通して、丘の緑と空の明るさがゆるく続いています。"
+      },
+      {
+        "id": "glass-terminal",
+        "title": "Windows Terminal — Acrylic opacity",
+        "title_ja": "Windows Terminal の Acrylic",
+        "title_original": "Windows Terminal — Acrylic opacity",
+        "creator": "マイクロソフト、Windows Terminal 開発チーム",
+        "date": "2022年版の開発資料",
+        "domain": "公式の実装例",
+        "evidence": "https://learn.microsoft.com/en-us/windows/terminal/customize-settings/profile-appearance",
+        "reason": "同じ窓でも、不透明度を下げると背後の壁紙の青が浮かびます。公式の設定デモの冒頭・途中・末尾を、上から順に並べています。"
+      },
+      {
+        "id": "glass-glasskit",
+        "title": "GlassKit",
+        "title_ja": "GlassKit のコンポーネント見本",
+        "title_original": "GlassKit",
+        "creator": "Jungherz GmbH",
+        "date": "2026年の公開版",
+        "domain": "様式を掲げた実装例",
+        "evidence": "https://glasskit.jungherz.com/",
+        "reason": "作者がグラスモーフィズムのCSS部品集として公開した例です。端末の中でボタン、カード、操作欄の面を見比べると、どの部品にも細い縁と淡い光が入っています。"
+      },
+      {
+        "id": "glass-farvist",
+        "title": "Farvist",
+        "title_ja": "Farvist の公式表示見本",
+        "title_original": "Farvist",
+        "creator": "Farvist／Florian Kürsten",
+        "date": "2026年の公開版",
+        "domain": "様式を掲げた実装例",
+        "evidence": "https://farvist.com/about/",
+        "reason": "作者がグラスモーフィズムを掲げたCSSフレームワークの公式見本です。右の面は暗い地とよく似た色ですが、光が透ける部分と細い縁で境目が見えます。"
       }
     ],
     "period_bands": [],
     "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "glass-deepin",
+        "entry": "Glassmorphism",
+        "title": "deepin 15.4 のコントロールセンター",
+        "title_original": "deepin 15.4 Control Center",
+        "year": "2017年",
+        "author": "deepin 開発チーム",
+        "institution": "公式資料・公開記録",
+        "medium": "先行する実装",
+        "source_page": "https://www.deepin.org/en/deepin-15-4-outstanding-from-inside-out/",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Deepin_15.4_with_Wikimedia_wallpaper.png",
+        "license": "CC BY 2.5（画面写真・壁紙のクレジットは原資料に従う）",
+        "license_url": "https://creativecommons.org/licenses/by/2.5",
+        "credit": "DSan（画面記録）、Deepin Wuhan（ソフトウェア・アイコン）、Christoph Michels（壁紙）／WebPに変換",
+        "local_file": "assets/glassmorphism/glass-deepin.webp",
+        "width": 960,
+        "height": 542,
+        "alt": "丘を写した壁紙の手前に、時計と設定ボタンを備えた半透明のパネルが開いている。",
+        "viewing_point": "呼称が広がる前の先行例。開発元が「ぼかしと透明」を打ち出した版です。右側の設定パネルを通して、丘の緑と空の明るさがゆるく続いています。",
+        "visual_notes": [
+          {
+            "title": "先行する実装",
+            "text": "呼称が広がる前の先行例。開発元が「ぼかしと透明」を打ち出した版です。右側の設定パネルを通して、丘の緑と空の明るさがゆるく続いています。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "ab411c6690f8027bf45deda3b4fc9b18b70a01ea06b8a58cebce3e73dfdacb97",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/glassmorphism/glass-deepin-660.webp",
+              "width": 660,
+              "height": 373
+            }
+          ]
+        }
+      },
+      {
+        "id": "glass-terminal",
+        "entry": "Glassmorphism",
+        "title": "Windows Terminal の Acrylic",
+        "title_original": "Windows Terminal — Acrylic opacity",
+        "year": "2022年版の開発資料",
+        "author": "マイクロソフト、Windows Terminal 開発チーム",
+        "institution": "公式資料・公開記録",
+        "medium": "公式の実装例",
+        "source_page": "https://learn.microsoft.com/en-us/windows/terminal/customize-settings/profile-appearance",
+        "work_source_page": "https://github.com/MicrosoftDocs/terminal/blob/main/TerminalDocs/images/acrylic-opacity.gif",
+        "license": "CC BY 4.0（Microsoft Learn 掲載図）",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "credit": "Microsoft Corporation／公式動画の第1・41・72フレームを縦に配置／WebPに変換",
+        "local_file": "assets/glassmorphism/glass-terminal.webp",
+        "width": 800,
+        "height": 1328,
+        "alt": "三つのターミナル画面。暗い赤から背後の青が次第に透けて見える。",
+        "viewing_point": "同じ窓でも、不透明度を下げると背後の壁紙の青が浮かびます。公式の設定デモの冒頭・途中・末尾を、上から順に並べています。",
+        "visual_notes": [
+          {
+            "title": "公式の実装例",
+            "text": "同じ窓でも、不透明度を下げると背後の壁紙の青が浮かびます。公式の設定デモの冒頭・途中・末尾を、上から順に並べています。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "5e87dfb0be37a813195fc5ee3db71b6295ea45204a2329cbfad07b791a6e455b",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/glassmorphism/glass-terminal-660.webp",
+              "width": 398,
+              "height": 660
+            }
+          ]
+        }
+      },
+      {
+        "id": "glass-win-acrylic",
+        "entry": "Glassmorphism",
+        "title": "Windows の Acrylic コンテキストメニュー",
+        "title_original": "Acrylic context menu",
+        "year": "2024年版の開発資料",
+        "author": "マイクロソフト",
+        "institution": "公式資料・公開記録",
+        "medium": "公式の実装例",
+        "source_page": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+        "work_source_page": "https://github.com/MicrosoftDocs/windows-dev-docs/blob/docs/hub/apps/design/style/images/acrylic-transient-context-menu.png",
+        "license": "CC BY 4.0（Microsoft Learn 掲載図）",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "credit": "Microsoft Corporation／Microsoft Learn／WebPに変換",
+        "local_file": "assets/glassmorphism/glass-win-acrylic.webp",
+        "width": 1280,
+        "height": 701,
+        "alt": "ファイル一覧の右下に白いメニューが開き、背後の赤い壁紙がうっすら透ける。",
+        "viewing_point": "メニューの左側は白く、窓からはみ出す右側には背後のピンクが透けます。文字を読む面を残しながら、メニューが手前に浮いたことを示す実装です。",
+        "visual_notes": [
+          {
+            "title": "公式の実装例",
+            "text": "メニューの左側は白く、窓からはみ出す右側には背後のピンクが透けます。文字を読む面を残しながら、メニューが手前に浮いたことを示す実装です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "18544e3feb94327429e1c88f4994e5cb66632ae5381e6d544e94cd1f3ac5f570",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/glassmorphism/glass-win-acrylic-660.webp",
+              "width": 660,
+              "height": 361
+            }
+          ]
+        }
+      },
+      {
+        "id": "glass-glasskit",
+        "entry": "Glassmorphism",
+        "title": "GlassKit のコンポーネント見本",
+        "title_original": "GlassKit",
+        "year": "2026年の公開版",
+        "author": "Jungherz GmbH",
+        "institution": "公式資料・公開記録",
+        "medium": "様式を掲げた実装例",
+        "source_page": "https://glasskit.jungherz.com/",
+        "work_source_page": "https://glasskit.jungherz.com/intro_screenshot.jpg",
+        "license": "MIT License",
+        "license_url": "https://github.com/JUNGHERZ/GlassKit/blob/main/LICENSE",
+        "credit": "Copyright (c) 2026 Jungherz GmbH／WebPに変換",
+        "local_file": "assets/glassmorphism/glass-glasskit.webp",
+        "width": 1280,
+        "height": 917,
+        "alt": "暗い色のページに半透明のカードと、携帯端末を模した部品見本が並ぶ。",
+        "viewing_point": "作者がグラスモーフィズムのCSS部品集として公開した例です。端末の中でボタン、カード、操作欄の面を見比べると、どの部品にも細い縁と淡い光が入っています。",
+        "visual_notes": [
+          {
+            "title": "様式を掲げた実装例",
+            "text": "作者がグラスモーフィズムのCSS部品集として公開した例です。端末の中でボタン、カード、操作欄の面を見比べると、どの部品にも細い縁と淡い光が入っています。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "b564f01cba55299a313ed69fa12521d629c053a3930ce7adcc28815d982d3af5",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/glassmorphism/glass-glasskit-660.webp",
+              "width": 660,
+              "height": 473
+            }
+          ]
+        }
+      },
+      {
+        "id": "glass-farvist",
+        "entry": "Glassmorphism",
+        "title": "Farvist の公式表示見本",
+        "title_original": "Farvist",
+        "year": "2026年の公開版",
+        "author": "Farvist／Florian Kürsten",
+        "institution": "公式資料・公開記録",
+        "medium": "様式を掲げた実装例",
+        "source_page": "https://farvist.com/about/",
+        "work_source_page": "https://farvist.com/assets/og-image.png",
+        "license": "MIT License",
+        "license_url": "https://github.com/FloKuersten/farvist/blob/main/LICENSE",
+        "credit": "Copyright (c) 2026 Farvist／WebPに変換",
+        "local_file": "assets/glassmorphism/glass-farvist.webp",
+        "width": 1200,
+        "height": 630,
+        "alt": "暗い地に紫や青の光が差し、手前に透ける角丸の面が置かれている。",
+        "viewing_point": "作者がグラスモーフィズムを掲げたCSSフレームワークの公式見本です。右の面は暗い地とよく似た色ですが、光が透ける部分と細い縁で境目が見えます。",
+        "visual_notes": [
+          {
+            "title": "様式を掲げた実装例",
+            "text": "作者がグラスモーフィズムを掲げたCSSフレームワークの公式見本です。右の面は暗い地とよく似た色ですが、光が透ける部分と細い縁で境目が見えます。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "60da82ca2fb0d10f3da7b52ec5dd2fb08e82ae351df50d9af77d8398156184d1",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/glassmorphism/glass-farvist-660.webp",
+              "width": 660,
+              "height": 347
+            }
+          ]
+        }
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -33787,8 +34604,8 @@
         "半透明の板の向こうに、背景の色がぼんやり見えます。すりガラスのような重なりを使う画面表現です。前にある操作部分と、後ろの内容の関係を見せられます。"
       ]
     },
-    "representativeness_limit": "一つのツールと、同じ素材の二つの実装方式です。独立した歴史作品三点としては数えません。",
-    "representative_count_note": "3つの参照箇所です。アクリリックの2例は同じ製品の異なる使い方で、独立した2作品ではありません。",
+    "representativeness_limit": "半透明の面の向こうに、背景の色や輪郭がどの程度残るか。デスクトップの実画面と開発者が公開した部品を見比べます。",
+    "representative_count_note": "以前から本文で紹介していた資料は、同じ製品や記事を複数の角度から見る例を含みます。作品図録には、今回画像を確認した作品を個別に掲載しています。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
     "independent_project_count": 2,
@@ -33815,11 +34632,11 @@
     },
     "comparison": "コンクリート建築のブルータリズムから言葉を借りていますが、同じ材料や組織を持つ歴史運動ではありません。ネオ・ブルータリズムの太い枠や影とも区別します。",
     "modern": "読めない文字や壊れた操作を、表現の名前だけで正当化しないようにしましょう。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:53:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 2,
+    "status": "本文・作品図録公開（実作品画像5点）",
+    "image_count_acquired": 5,
+    "representative_count": 7,
     "sources": [
       {
         "id": "web-brutalism-1",
@@ -33836,11 +34653,46 @@
         "supports": "Guidelines for Brutalist Web Designの名称・作者・年代または制作方法",
         "checked_at": "2026-11-01",
         "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "webbrut-korean",
+        "url": "https://googlefonts.github.io/korean/",
+        "institution": "制作者公開の資料",
+        "title": "Google Fonts + 한국어（韓国語書体のショーケース）"
+      },
+      {
+        "id": "wb-axel-g",
+        "url": "https://brutalistwebsites.com/gueudaxe.github.io_portfolio/",
+        "institution": "Brutalist Websites 掲載・作者による解説",
+        "title": "アクセル・ゲダンのポートフォリオ"
+      },
+      {
+        "id": "webbrut-11ty",
+        "url": "https://www.adamdjbrett.com/blog/2024-12-13-my-eleventy-sites/",
+        "institution": "制作者公開の資料",
+        "title": "11ty Brutalism"
+      },
+      {
+        "id": "webbrut-bf-static",
+        "url": "https://static.brutalistframework.com/",
+        "institution": "制作者公開の資料",
+        "title": "Brutalist Framework STATIC"
+      },
+      {
+        "id": "wb-plainstate",
+        "url": "https://rampstackco.github.io/brutalist-web-theme/demo/",
+        "institution": "作者公開の実装と表示画面",
+        "title": "Plainstate の稼働状況ページ"
       }
     ],
     "source_ids": [
       "web-brutalism-1",
-      "web-brutalism-2"
+      "web-brutalism-2",
+      "webbrut-korean",
+      "wb-axel-g",
+      "webbrut-11ty",
+      "webbrut-bf-static",
+      "wb-plainstate"
     ],
     "representatives": [
       {
@@ -33888,12 +34740,263 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "参考教材（執筆者による制作指針）",
         "source_url": "https://brutalist-web.design/"
+      },
+      {
+        "id": "webbrut-korean",
+        "title": "Google Fonts + 한국어",
+        "title_ja": "Google Fonts + 한국어（韓国語書体のショーケース）",
+        "title_original": "Google Fonts + 한국어",
+        "creator": "Google Fonts",
+        "date": "2018年",
+        "domain": "作者公開のサイト用キービジュアル",
+        "evidence": "https://googlefonts.github.io/korean/",
+        "reason": "黒い画面をハングル一字が大きく占めます。パスカル・ドゥヴィルの選集「Brutalist Websites」に収録された書体見本サイト。掲載図は主要な文字と図形を使った公式キービジュアルです。"
+      },
+      {
+        "id": "wb-axel-g",
+        "title": "AXEL G. — Portfolio",
+        "title_ja": "アクセル・ゲダンのポートフォリオ",
+        "title_original": "AXEL G. — Portfolio",
+        "creator": "アクセル・ゲダン",
+        "date": "2018年頃",
+        "domain": "ウェブサイトのトップ画面",
+        "evidence": "https://brutalistwebsites.com/gueudaxe.github.io_portfolio/",
+        "reason": "白い画面を線で二分し、WORKとABOUTの二つのリンクだけを大きく配置しています。作者は専門アーカイブの取材で、インターンに応募するために紙で設計し、Brutalist Frameworkで実装したと話しています。"
+      },
+      {
+        "id": "webbrut-11ty",
+        "title": "11ty Brutalism",
+        "title_ja": "11ty Brutalism",
+        "title_original": "11ty Brutalism",
+        "creator": "アダム・DJ・ブレット",
+        "date": "2024年に作者が紹介／掲載図は公開版",
+        "domain": "サイトの公式紹介図",
+        "evidence": "https://www.adamdjbrett.com/blog/2024-12-13-my-eleventy-sites/",
+        "reason": "作者自身がブルータリズムを掲げたブログのひな形です。同じ記事を白地と黒地で比べると、装飾の少ない枠、等幅の文字、広い余白がどちらにも残ります。"
+      },
+      {
+        "id": "webbrut-bf-static",
+        "title": "Brutalist Framework STATIC",
+        "title_ja": "Brutalist Framework STATIC",
+        "title_original": "Brutalist Framework STATIC",
+        "creator": "ブラッド・フォーゲルストロム",
+        "date": "2026年公開の2.7版",
+        "domain": "作者が公開したHTML・CSSの静止表示",
+        "evidence": "https://static.brutalistframework.com/",
+        "reason": "ウェブ・ブルータリズムのための制作道具として作者が発表したサイト。見出しの大きさと色面の切り替わりで情報のまとまりを見せます。"
+      },
+      {
+        "id": "wb-plainstate",
+        "title": "Plainstate — Brutalist Web Theme",
+        "title_ja": "Plainstate の稼働状況ページ",
+        "title_original": "Plainstate — Brutalist Web Theme",
+        "creator": "RampStack Co.",
+        "date": "2026年",
+        "domain": "ウェブサイトのデモ画面",
+        "evidence": "https://rampstackco.github.io/brutalist-web-theme/demo/",
+        "reason": "障害が二つ起きていることを、紙面の見出しのような巨大な一文で伝えます。その下にはサービスごとの状況を並べた罫線の表。作者がウェブ・ブルータリズムの考え方を動くページとして公開した、架空のサービスの稼働状況画面です。"
       }
     ],
     "period_bands": [],
     "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "webbrut-korean",
+        "entry": "Web brutalism",
+        "title": "Google Fonts + 한국어（韓国語書体のショーケース）",
+        "title_original": "Google Fonts + 한국어",
+        "year": "2018年",
+        "author": "Google Fonts",
+        "institution": "制作者公開の資料",
+        "medium": "作者公開のサイト用キービジュアル",
+        "source_page": "https://googlefonts.github.io/korean/",
+        "work_source_page": "https://github.com/googlefonts/korean/blob/gh-pages/public/assets/og-img.png",
+        "license": "Apache License 2.0",
+        "license_url": "https://github.com/googlefonts/korean/blob/gh-pages/LICENSE",
+        "credit": "Google Fonts／WebPに変換",
+        "local_file": "assets/web-brutalism/webbrut-korean.webp",
+        "width": 1200,
+        "height": 630,
+        "alt": "黒地に巨大な白いハングルと、輪郭線や制御点を思わせる白い記号が重なる。",
+        "viewing_point": "黒い画面をハングル一字が大きく占めます。パスカル・ドゥヴィルの選集「Brutalist Websites」に収録された書体見本サイト。掲載図は主要な文字と図形を使った公式キービジュアルです。",
+        "visual_notes": [
+          {
+            "title": "選定理由・高評価",
+            "text": "黒い画面をハングル一字が大きく占めます。パスカル・ドゥヴィルの選集「Brutalist Websites」に収録された書体見本サイト。掲載図は主要な文字と図形を使った公式キービジュアルです。"
+          }
+        ],
+        "selection_criterion": "高評価",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "b90993ac112ad1b5acf6d3f2bf1bc2dc5c145040070c1bf1a11df4cdf7f33ac9",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/web-brutalism/webbrut-korean-660.webp",
+              "width": 660,
+              "height": 347
+            }
+          ]
+        }
+      },
+      {
+        "id": "wb-axel-g",
+        "entry": "Web brutalism",
+        "title": "アクセル・ゲダンのポートフォリオ",
+        "title_original": "AXEL G. — Portfolio",
+        "year": "2018年頃",
+        "author": "アクセル・ゲダン",
+        "institution": "Brutalist Websites 掲載・作者による解説",
+        "medium": "ウェブサイトのトップ画面",
+        "source_page": "https://brutalistwebsites.com/gueudaxe.github.io_portfolio/",
+        "work_source_page": "https://brutalistwebsites.com/_img/gueudaxe.github.io_portfolio.jpg",
+        "license": "MIT License（作者のサイト）",
+        "license_url": "https://github.com/gueudaxe/portfolio/blob/master/LICENSE",
+        "credit": "© 2018 gueudaxe（Axel Gueudin）。掲載誌が記録したサイトの表示画面を縮小してWebP化。",
+        "local_file": "assets/web-brutalism/wb-axel-g.webp",
+        "width": 1300,
+        "height": 813,
+        "alt": "白い画面の中央に細い青い線が縦に伸び、左にWORK、右にABOUTと青い下線付きの文字がある。",
+        "viewing_point": "白い画面を線で二分し、WORKとABOUTの二つのリンクだけを大きく配置しています。作者は専門アーカイブの取材で、インターンに応募するために紙で設計し、Brutalist Frameworkで実装したと話しています。",
+        "visual_notes": [
+          {
+            "title": "選定理由・高評価",
+            "text": "白い画面を線で二分し、WORKとABOUTの二つのリンクだけを大きく配置しています。作者は専門アーカイブの取材で、インターンに応募するために紙で設計し、Brutalist Frameworkで実装したと話しています。"
+          }
+        ],
+        "selection_criterion": "高評価",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "b2f6e4ad0e674bbe0581853af340e6e2151ed40661a4e4077076166a0ee56cc4",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/web-brutalism/wb-axel-g-660.webp",
+              "width": 660,
+              "height": 413
+            }
+          ]
+        }
+      },
+      {
+        "id": "webbrut-11ty",
+        "entry": "Web brutalism",
+        "title": "11ty Brutalism",
+        "title_original": "11ty Brutalism",
+        "year": "2024年に作者が紹介／掲載図は公開版",
+        "author": "アダム・DJ・ブレット",
+        "institution": "制作者公開の資料",
+        "medium": "サイトの公式紹介図",
+        "source_page": "https://www.adamdjbrett.com/blog/2024-12-13-my-eleventy-sites/",
+        "work_source_page": "https://github.com/adamdjbrett/11ty-brutalism/blob/main/brutalism.jpg",
+        "license": "MIT License",
+        "license_url": "https://github.com/adamdjbrett/11ty-brutalism/blob/main/LICENSE",
+        "credit": "Adam DJ Brett／WebPに変換",
+        "local_file": "assets/web-brutalism/webbrut-11ty.webp",
+        "width": 1280,
+        "height": 720,
+        "alt": "黒と白のブログ画面を並べた作例。本文と見出しは細い直線の枠で区切られている。",
+        "viewing_point": "作者自身がブルータリズムを掲げたブログのひな形です。同じ記事を白地と黒地で比べると、装飾の少ない枠、等幅の文字、広い余白がどちらにも残ります。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "作者自身がブルータリズムを掲げたブログのひな形です。同じ記事を白地と黒地で比べると、装飾の少ない枠、等幅の文字、広い余白がどちらにも残ります。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "5477320bdb8fead2924fe377ac96ce1e3f4b6cf7eb6131150e56466428761f36",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/web-brutalism/webbrut-11ty-660.webp",
+              "width": 660,
+              "height": 371
+            }
+          ]
+        }
+      },
+      {
+        "id": "webbrut-bf-static",
+        "entry": "Web brutalism",
+        "title": "Brutalist Framework STATIC",
+        "title_original": "Brutalist Framework STATIC",
+        "year": "2026年公開の2.7版",
+        "author": "ブラッド・フォーゲルストロム",
+        "institution": "制作者公開の資料",
+        "medium": "作者が公開したHTML・CSSの静止表示",
+        "source_page": "https://static.brutalistframework.com/",
+        "work_source_page": "https://github.com/pinecreativelabs/Brutalist-Framework-Static/blob/main/index.html",
+        "license": "BITCHY License（付属コードはMIT）",
+        "license_url": "https://github.com/pinecreativelabs/Brutalist-Framework-Static/blob/main/LICENSE",
+        "credit": "Brad Fogelstrom／配布版HTML・CSSの画面向け静止表示／WebPに変換",
+        "local_file": "assets/web-brutalism/webbrut-bf-static.webp",
+        "width": 1100,
+        "height": 680,
+        "alt": "文字と面を強いコントラストで組んだフレームワークの公式ページ。",
+        "viewing_point": "ウェブ・ブルータリズムのための制作道具として作者が発表したサイト。見出しの大きさと色面の切り替わりで情報のまとまりを見せます。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "ウェブ・ブルータリズムのための制作道具として作者が発表したサイト。見出しの大きさと色面の切り替わりで情報のまとまりを見せます。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "5d074a77adc719552a9e1dbbd7f256d9f60ab280a0df7d90651c23d2a5b71930",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/web-brutalism/webbrut-bf-static-660.webp",
+              "width": 660,
+              "height": 408
+            }
+          ]
+        }
+      },
+      {
+        "id": "wb-plainstate",
+        "entry": "Web brutalism",
+        "title": "Plainstate の稼働状況ページ",
+        "title_original": "Plainstate — Brutalist Web Theme",
+        "year": "2026年",
+        "author": "RampStack Co.",
+        "institution": "作者公開の実装と表示画面",
+        "medium": "ウェブサイトのデモ画面",
+        "source_page": "https://rampstackco.github.io/brutalist-web-theme/demo/",
+        "work_source_page": "https://github.com/rampstackco/brutalist-web-theme/blob/main/assets/hero.png",
+        "license": "MIT License",
+        "license_url": "https://github.com/rampstackco/brutalist-web-theme/blob/main/LICENSE",
+        "credit": "© 2026 RampStack Co.。公式のデモ画面を縮小してWebP化。",
+        "local_file": "assets/web-brutalism/wb-plainstate.webp",
+        "width": 1250,
+        "height": 1367,
+        "alt": "黒い太字の見出しに「TWO THINGS ARE BROKEN」とあり、その下の表では障害のある行に赤い印が付いている。",
+        "viewing_point": "障害が二つ起きていることを、紙面の見出しのような巨大な一文で伝えます。その下にはサービスごとの状況を並べた罫線の表。作者がウェブ・ブルータリズムの考え方を動くページとして公開した、架空のサービスの稼働状況画面です。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "障害が二つ起きていることを、紙面の見出しのような巨大な一文で伝えます。その下にはサービスごとの状況を並べた罫線の表。作者がウェブ・ブルータリズムの考え方を動くページとして公開した、架空のサービスの稼働状況画面です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:53:00+09:00",
+        "sha256": "e6adc31a30da3a08d0f0912a4b157b2c9fb9fc530e3bddbba33949c167472445",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/web-brutalism/wb-plainstate-660.webp",
+              "width": 604,
+              "height": 660
+            }
+          ]
+        }
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -33906,7 +35009,7 @@
         "大きな文字、むき出しに見えるリンク、飾りを抑えたページ。ウェブ・ブルータリズムには、こうした画面を指す使い方があります。ただし、意味は制作者や紹介者によって違います。"
       ]
     },
-    "representativeness_limit": "選集と制作者の指針の二例です。掲載サイトすべてが同じ主張に賛成しているとは考えません。",
+    "representativeness_limit": "制作者が公開したウェブ画面から、文字、余白、境界線の使い方と、操作部分の見せ方を比べます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
@@ -34268,7 +35371,7 @@
       ]
     },
     "representativeness_limit": "輪郭線、影、平らな色面を組み合わせたウェブサイトや部品集を比べます。",
-    "representative_count_note": "3つの参照箇所です。ボタンと紹介サイトは同じ部品集で、独立した3作品ではありません。",
+    "representative_count_note": "以前から本文で紹介していた資料は、同じ製品や記事を複数の角度から見る例を含みます。作品図録には、今回画像を確認した作品を個別に掲載しています。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
     "independent_project_count": 2,
@@ -34675,11 +35778,11 @@
     },
     "comparison": "2000年前後の実物は「リバイバル」の作品ではなく、その参照先です。ピクセルアートのすべてがY2Kでもありません。",
     "modern": "昔の技術上の制限をそのまま戻す必要はありません。懐かしさと読みやすさを両立できるか考えましょう。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:49:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 3,
+    "status": "本文・作品図録公開（実作品画像5点）",
+    "image_count_acquired": 5,
+    "representative_count": 8,
     "sources": [
       {
         "id": "y2k-revival-1",
@@ -34704,12 +35807,47 @@
         "supports": "Sun God Festival ’26の名称・作者・年代または制作方法",
         "checked_at": "2026-11-01",
         "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "y2k-revival-cageroll",
+        "url": "https://www.behance.net/gallery/145881373/Cageroll-Free-Y2K-Font",
+        "institution": "書体作者の公開資料",
+        "title": "Cageroll"
+      },
+      {
+        "id": "y2k-revival-halcyn",
+        "url": "https://nvxzrvisual.gumroad.com/l/halcyn",
+        "institution": "書体作者の公開資料",
+        "title": "Halcyn"
+      },
+      {
+        "id": "y2k-revival-hypik",
+        "url": "https://www.dafont.com/hypik.font",
+        "institution": "書体作者の公開資料",
+        "title": "Hypik"
+      },
+      {
+        "id": "y2k-revival-y1999k",
+        "url": "https://www.behance.net/gallery/174768829/Y-1999-K-Display-Font-First-Look-%28WIP%29-Edition",
+        "institution": "書体作者の公開資料",
+        "title": "Y-1999-K Sans"
+      },
+      {
+        "id": "y2k-revival-intranet",
+        "url": "https://www.behance.net/gallery/228110629/IntraNet-Free-Font-Typeface",
+        "institution": "書体作者の公開資料",
+        "title": "IntraNet"
       }
     ],
     "source_ids": [
       "y2k-revival-1",
       "y2k-revival-2",
-      "y2k-revival-3"
+      "y2k-revival-3",
+      "y2k-revival-cageroll",
+      "y2k-revival-halcyn",
+      "y2k-revival-hypik",
+      "y2k-revival-y1999k",
+      "y2k-revival-intranet"
     ],
     "representatives": [
       {
@@ -34780,12 +35918,268 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "表現が確かめられる制作事例",
         "source_url": "https://asgraphicstudio.ucsd.edu/work/sgf26/"
+      },
+      {
+        "id": "y2k-revival-cageroll",
+        "title": "Cageroll",
+        "title_ja": "Cageroll",
+        "title_original": "Cageroll",
+        "creator": "ホルヘ・ビジャレアル",
+        "date": "2022年",
+        "domain": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "evidence": "https://www.behance.net/gallery/145881373/Cageroll-Free-Y2K-Font",
+        "reason": "初代PlayStationのレースゲームを手掛かりにした書体です。下の二行は同じ単語で、下段では文字の中身を抜いて線だけを残した「Cage」を使っています。"
+      },
+      {
+        "id": "y2k-revival-halcyn",
+        "title": "Halcyn",
+        "title_ja": "Halcyn",
+        "title_original": "Halcyn",
+        "creator": "Nvxzr Visual",
+        "date": "2022年",
+        "domain": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "evidence": "https://nvxzrvisual.gumroad.com/l/halcyn",
+        "reason": "Y2K期のタイポグラフィーを参照して、ロゴや服の見出しに使えるよう設計された書体です。下の二行では標準と角を丸めた版を並べ、同じ字の輪郭を比べられます。"
+      },
+      {
+        "id": "y2k-revival-hypik",
+        "title": "Hypik",
+        "title_ja": "Hypik",
+        "title_original": "Hypik",
+        "creator": "マット・ウィルソン",
+        "date": "2022年",
+        "domain": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "evidence": "https://www.dafont.com/hypik.font",
+        "reason": "Y2Kの表現から着想したロゴ用の英字書体です。字面の一部が欠けても単語として読めるか、下の二行で試せます。配布サイトではダウンロード数が40万件を超えています。"
+      },
+      {
+        "id": "y2k-revival-y1999k",
+        "title": "Y-1999-K Sans",
+        "title_ja": "Y-1999-K Sans",
+        "title_original": "Y-1999-K Sans",
+        "creator": "ナウファル・ムハンマド・ハイカル",
+        "date": "2023年",
+        "domain": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "evidence": "https://www.behance.net/gallery/174768829/Y-1999-K-Display-Font-First-Look-%28WIP%29-Edition",
+        "reason": "昔のゲームに描かれた「未来」の感覚を、2023年の文字に取り戻そうとした書体です。作品名に入った数字の9と、下の二行で繰り返す英字の角に目を向けてみてください。"
+      },
+      {
+        "id": "y2k-revival-intranet",
+        "title": "IntraNet",
+        "title_ja": "IntraNet",
+        "title_original": "IntraNet",
+        "creator": "ジョアン・セラフィム",
+        "date": "2025年",
+        "domain": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "evidence": "https://www.behance.net/gallery/228110629/IntraNet-Free-Font-Typeface",
+        "reason": "2000年代初頭のネット画面を振り返って生まれた書体です。曲線を小さな段差で描き、拡大すると画素の積み重なりが見えます。下段は輪郭だけで同じ単語を組んだ版です。"
       }
     ],
     "period_bands": [],
     "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "y2k-revival-cageroll",
+        "entry": "Y2K revival",
+        "title": "Cageroll",
+        "title_original": "Cageroll",
+        "year": "2022年",
+        "author": "ホルヘ・ビジャレアル",
+        "institution": "書体作者の公開資料",
+        "medium": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "source_page": "https://www.behance.net/gallery/145881373/Cageroll-Free-Y2K-Font",
+        "work_source_page": "https://fontesk.com/download/85894/",
+        "license": "作者が商用・個人での使用を許諾。図版は本図鑑が実書体で組版。",
+        "license_url": "https://fontesk.com/download/85894/",
+        "credit": "ホルヘ・ビジャレアル《Cageroll》。配布元の正規書体を使用したDESIGN LINEAGEの組見本。",
+        "local_file": "assets/y2k-revival/y2k-revival-cageroll.webp",
+        "width": 1500,
+        "height": 810,
+        "alt": "Cagerollの実書体で書体名と二行の英字を組んだ見本。",
+        "viewing_point": "初代PlayStationのレースゲームを手掛かりにした書体です。下の二行は同じ単語で、下段では文字の中身を抜いて線だけを残した「Cage」を使っています。",
+        "visual_notes": [
+          {
+            "title": "文字の形を見る",
+            "text": "初代PlayStationのレースゲームを手掛かりにした書体です。下の二行は同じ単語で、下段では文字の中身を抜いて線だけを残した「Cage」を使っています。"
+          }
+        ],
+        "selection_criterion": "高評価",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "14e782d841c31d8ba05e9183909207f7832091ed97863a4755224632fe348422",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/y2k-revival/y2k-revival-cageroll-660.webp",
+              "width": 660,
+              "height": 356
+            }
+          ]
+        },
+        "selection_evidence": "https://fontesk.com/cageroll-font/"
+      },
+      {
+        "id": "y2k-revival-halcyn",
+        "entry": "Y2K revival",
+        "title": "Halcyn",
+        "title_original": "Halcyn",
+        "year": "2022年",
+        "author": "Nvxzr Visual",
+        "institution": "書体作者の公開資料",
+        "medium": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "source_page": "https://nvxzrvisual.gumroad.com/l/halcyn",
+        "work_source_page": "https://fontesk.com/download/90892/",
+        "license": "作者が商用・個人での使用を許諾。図版は本図鑑が実書体で組版。",
+        "license_url": "https://fontesk.com/download/90892/",
+        "credit": "Nvxzr Visual《Halcyn》。配布元の正規書体を使用したDESIGN LINEAGEの組見本。",
+        "local_file": "assets/y2k-revival/y2k-revival-halcyn.webp",
+        "width": 1500,
+        "height": 810,
+        "alt": "Halcynの実書体で書体名と二行の英字を組んだ見本。",
+        "viewing_point": "Y2K期のタイポグラフィーを参照して、ロゴや服の見出しに使えるよう設計された書体です。下の二行では標準と角を丸めた版を並べ、同じ字の輪郭を比べられます。",
+        "visual_notes": [
+          {
+            "title": "文字の形を見る",
+            "text": "Y2K期のタイポグラフィーを参照して、ロゴや服の見出しに使えるよう設計された書体です。下の二行では標準と角を丸めた版を並べ、同じ字の輪郭を比べられます。"
+          }
+        ],
+        "selection_criterion": "高評価",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "b46db4e714d5323928146557bf6ba6e17d980c974414512c08dd9330d96d0c56",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/y2k-revival/y2k-revival-halcyn-660.webp",
+              "width": 660,
+              "height": 356
+            }
+          ]
+        },
+        "selection_evidence": "https://fontesk.com/halcyn-font/"
+      },
+      {
+        "id": "y2k-revival-hypik",
+        "entry": "Y2K revival",
+        "title": "Hypik",
+        "title_original": "Hypik",
+        "year": "2022年",
+        "author": "マット・ウィルソン",
+        "institution": "書体作者の公開資料",
+        "medium": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "source_page": "https://www.dafont.com/hypik.font",
+        "work_source_page": "https://dl.dafont.com/dl/?f=hypik",
+        "license": "作者が商用・個人での使用を許諾。図版は本図鑑が実書体で組版。",
+        "license_url": "https://www.dafont.com/hypik.font",
+        "credit": "マット・ウィルソン《Hypik》。配布元の正規書体を使用したDESIGN LINEAGEの組見本。",
+        "local_file": "assets/y2k-revival/y2k-revival-hypik.webp",
+        "width": 1500,
+        "height": 810,
+        "alt": "Hypikの実書体で書体名と二行の英字を組んだ見本。",
+        "viewing_point": "Y2Kの表現から着想したロゴ用の英字書体です。字面の一部が欠けても単語として読めるか、下の二行で試せます。配布サイトではダウンロード数が40万件を超えています。",
+        "visual_notes": [
+          {
+            "title": "文字の形を見る",
+            "text": "Y2Kの表現から着想したロゴ用の英字書体です。字面の一部が欠けても単語として読めるか、下の二行で試せます。配布サイトではダウンロード数が40万件を超えています。"
+          }
+        ],
+        "selection_criterion": "ポピュラー",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "6540879bb2d2d7e566eb47c7df04c26c7fc9a76e5354409e9968af6a8adb182a",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/y2k-revival/y2k-revival-hypik-660.webp",
+              "width": 660,
+              "height": 356
+            }
+          ]
+        },
+        "selection_evidence": "https://www.dafont.com/hypik.font"
+      },
+      {
+        "id": "y2k-revival-y1999k",
+        "entry": "Y2K revival",
+        "title": "Y-1999-K Sans",
+        "title_original": "Y-1999-K Sans",
+        "year": "2023年",
+        "author": "ナウファル・ムハンマド・ハイカル",
+        "institution": "書体作者の公開資料",
+        "medium": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "source_page": "https://www.behance.net/gallery/174768829/Y-1999-K-Display-Font-First-Look-%28WIP%29-Edition",
+        "work_source_page": "https://fontesk.com/download/111484/?tmstv=1688806749",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "credit": "ナウファル・ムハンマド・ハイカル《Y-1999-K Sans》。配布元の正規書体を使用したDESIGN LINEAGEの組見本。 CC BY 3.0。",
+        "local_file": "assets/y2k-revival/y2k-revival-y1999k.webp",
+        "width": 1500,
+        "height": 810,
+        "alt": "Y-1999-K Sansの実書体で書体名と二行の英字を組んだ見本。",
+        "viewing_point": "昔のゲームに描かれた「未来」の感覚を、2023年の文字に取り戻そうとした書体です。作品名に入った数字の9と、下の二行で繰り返す英字の角に目を向けてみてください。",
+        "visual_notes": [
+          {
+            "title": "文字の形を見る",
+            "text": "昔のゲームに描かれた「未来」の感覚を、2023年の文字に取り戻そうとした書体です。作品名に入った数字の9と、下の二行で繰り返す英字の角に目を向けてみてください。"
+          }
+        ],
+        "selection_criterion": "高評価",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "4d715c0a0046a128c06b4ea94faf7dc915675c791682807d61b24f53ba3d4df4",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/y2k-revival/y2k-revival-y1999k-660.webp",
+              "width": 660,
+              "height": 356
+            }
+          ]
+        },
+        "selection_evidence": "https://fontesk.com/y-1999-k-font/"
+      },
+      {
+        "id": "y2k-revival-intranet",
+        "entry": "Y2K revival",
+        "title": "IntraNet",
+        "title_original": "IntraNet",
+        "year": "2025年",
+        "author": "ジョアン・セラフィム",
+        "institution": "書体作者の公開資料",
+        "medium": "デジタル書体（実書体を用いた図鑑独自の組見本）",
+        "source_page": "https://www.behance.net/gallery/228110629/IntraNet-Free-Font-Typeface",
+        "work_source_page": "https://fontesk.com/download/157113/",
+        "license": "作者が商用・個人での使用を許諾。図版は本図鑑が実書体で組版。",
+        "license_url": "https://fontesk.com/download/157113/",
+        "credit": "ジョアン・セラフィム《IntraNet》。配布元の正規書体を使用したDESIGN LINEAGEの組見本。",
+        "local_file": "assets/y2k-revival/y2k-revival-intranet.webp",
+        "width": 1500,
+        "height": 810,
+        "alt": "IntraNetの実書体で書体名と二行の英字を組んだ見本。",
+        "viewing_point": "2000年代初頭のネット画面を振り返って生まれた書体です。曲線を小さな段差で描き、拡大すると画素の積み重なりが見えます。下段は輪郭だけで同じ単語を組んだ版です。",
+        "visual_notes": [
+          {
+            "title": "文字の形を見る",
+            "text": "2000年代初頭のネット画面を振り返って生まれた書体です。曲線を小さな段差で描き、拡大すると画素の積み重なりが見えます。下段は輪郭だけで同じ単語を組んだ版です。"
+          }
+        ],
+        "selection_criterion": "高評価",
+        "checked_at": "2026-11-22T10:49:00+09:00",
+        "sha256": "e1337d7f5aecdf84af0cc1657cf046f8ed20ef7be85e59b7261ef32bc396e892",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/y2k-revival/y2k-revival-intranet-660.webp",
+              "width": 660,
+              "height": 356
+            }
+          ]
+        },
+        "selection_evidence": "https://fontesk.com/intranet-font/"
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -34798,7 +36192,7 @@
         "昔の未来っぽさを、今の画面で楽しむ。Y2Kリバイバルは、2000年前後を思わせる表現を、後の時代につくり直す動きの呼び名です。Y2Kは「2000年」を表す言い方です。"
       ]
     },
-    "representativeness_limit": "制作側の説明がある三例です。2000年前後のデザイン全体を代表する歴史区分にはしていません。",
+    "representativeness_limit": "2000年前後の視覚文化を着想源に、後の時代に制作された書体を、その正規フォントで組んだ字形標本で見比べます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。"
@@ -34820,11 +36214,11 @@
     },
     "comparison": "可変フォントは文字の形を変えられる技術です。動く文字はそれ以外の方法でもつくれますし、可変フォントを静止したまま使うこともできます。",
     "modern": "動きを止める選択肢や、動かなくても意味が伝わる表示を考えることも大切です。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:52:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 3,
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "image_count_acquired": 4,
+    "representative_count": 7,
     "sources": [
       {
         "id": "kinetic-typography-1",
@@ -34849,12 +36243,40 @@
         "supports": "Google Sans Flex — Pushing the boundaries of a fontの名称・作者・年代または制作方法",
         "checked_at": "2026-11-01",
         "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "kinetic-typography-porter",
+        "url": "https://commons.wikimedia.org/wiki/File:How_Jones_Lost_His_Roll_-_yt.webm",
+        "institution": "アメリカ映画協会（AFI）作品目録",
+        "title": "『How Jones Lost His Roll』の字幕"
+      },
+      {
+        "id": "kinetic-typography-blackton",
+        "url": "https://commons.wikimedia.org/wiki/File:Humorous_Phases_of_Funny_Faces.ogv",
+        "institution": "米国議会図書館",
+        "title": "『Humorous Phases of Funny Faces』の冒頭タイトル"
+      },
+      {
+        "id": "kinetic-typography-ambigram",
+        "url": "https://commons.wikimedia.org/wiki/File:Ambigram_OK_she_says_She_says_NO_-_animation.gif",
+        "institution": "作者公開資料（Wikimedia Commons）",
+        "title": "「OK」と「NO」が反転するアンビグラム"
+      },
+      {
+        "id": "kinetic-typography-decrypt",
+        "url": "https://chrisbuilds.github.io/terminaltexteffects/showroom/#decrypt",
+        "institution": "作者公開資料",
+        "title": "TerminalTextEffects の「Decrypt」"
       }
     ],
     "source_ids": [
       "kinetic-typography-1",
       "kinetic-typography-2",
-      "kinetic-typography-3"
+      "kinetic-typography-3",
+      "kinetic-typography-porter",
+      "kinetic-typography-blackton",
+      "kinetic-typography-ambigram",
+      "kinetic-typography-decrypt"
     ],
     "representatives": [
       {
@@ -34925,12 +36347,221 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "実在する作品・制作物（個別の分野は domain を参照）",
         "source_url": "https://studiodumbar.com/work/google-sans-flex"
+      },
+      {
+        "id": "kinetic-typography-porter",
+        "title": "How Jones Lost His Roll",
+        "title_ja": "『How Jones Lost His Roll』の字幕",
+        "title_original": "How Jones Lost His Roll",
+        "creator": "エドウィン・S・ポーター／エジソン製作会社",
+        "date": "1905年",
+        "domain": "無声映画の場面間字幕",
+        "evidence": "https://commons.wikimedia.org/wiki/File:How_Jones_Lost_His_Roll_-_yt.webm",
+        "reason": "画面の端で横倒しになっていた文字が、中央に集まって向きをそろえます。最後に初めて「IF YOU MET / MR SKINFLINT」と読めます。"
+      },
+      {
+        "id": "kinetic-typography-blackton",
+        "title": "Humorous Phases of Funny Faces",
+        "title_ja": "『Humorous Phases of Funny Faces』の冒頭タイトル",
+        "title_original": "Humorous Phases of Funny Faces",
+        "creator": "J・スチュアート・ブラックトン／ヴァイタグラフ社",
+        "date": "1906年",
+        "domain": "無声映画のタイトルアニメーション",
+        "evidence": "https://commons.wikimedia.org/wiki/File:Humorous_Phases_of_Funny_Faces.ogv",
+        "reason": "タイトルの各文字は、初めから一字ずつ並ぶわけではありません。紙片で作った白い線が文字を少しずつ形づくり、最後に渦巻きと著作権表記が加わります。"
+      },
+      {
+        "id": "kinetic-typography-ambigram",
+        "title": "Ambigram “OK” she says / She says “NO”",
+        "title_ja": "「OK」と「NO」が反転するアンビグラム",
+        "title_original": "Ambigram “OK” she says / She says “NO”",
+        "creator": "バジル・モラン",
+        "date": "2015年",
+        "domain": "回転する文字のアニメーションGIF",
+        "evidence": "https://commons.wikimedia.org/wiki/File:Ambigram_OK_she_says_She_says_NO_-_animation.gif",
+        "reason": "同じ線を半回転させると、賛成の「OK」は拒否の「NO」として読めます。回転の途中は文字の判別が難しく、動きが止まると、もう一方のせりふが浮かびます。"
+      },
+      {
+        "id": "kinetic-typography-decrypt",
+        "title": "TerminalTextEffects — Decrypt",
+        "title_ja": "TerminalTextEffects の「Decrypt」",
+        "title_original": "TerminalTextEffects — Decrypt",
+        "creator": "ChrisBuilds",
+        "date": "2023年にプロジェクト初公開",
+        "domain": "端末用文字アニメーションの公式作例",
+        "evidence": "https://chrisbuilds.github.io/terminaltexteffects/showroom/#decrypt",
+        "reason": "文字の位置はほとんど動きません。同じ桁に表示する記号を次々と取り替え、最後に正しい英字を止めることで、暗号が解ける時間を表しています。"
       }
     ],
     "period_bands": [],
     "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "kinetic-typography-porter",
+        "entry": "Kinetic typography",
+        "title": "『How Jones Lost His Roll』の字幕",
+        "title_original": "How Jones Lost His Roll",
+        "year": "1905年",
+        "author": "エドウィン・S・ポーター／エジソン製作会社",
+        "institution": "アメリカ映画協会（AFI）作品目録",
+        "medium": "無声映画の場面間字幕",
+        "source_page": "https://commons.wikimedia.org/wiki/File:How_Jones_Lost_His_Roll_-_yt.webm",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:How_Jones_Lost_His_Roll_-_yt.webm",
+        "license": "パブリックドメイン",
+        "license_url": "https://commons.wikimedia.org/wiki/File:How_Jones_Lost_His_Roll_-_yt.webm#Licensing",
+        "credit": "Edwin S. Porter / Edison Manufacturing Company. 公開映像の12秒・13.5秒・16秒を左から順に掲載。",
+        "local_file": "assets/kinetic-typography/kinetic-typography-porter.webp",
+        "width": 1330,
+        "height": 330,
+        "alt": "白い活字が黒い画面の四方から傾いて集まり、二段の英文にそろうまでを示す三コマ。",
+        "viewing_point": "画面の端で横倒しになっていた文字が、中央に集まって向きをそろえます。最後に初めて「IF YOU MET / MR SKINFLINT」と読めます。",
+        "visual_notes": [
+          {
+            "title": "選定理由・よく研究されている",
+            "text": "映画史家チャールズ・マッサーは本作を、ポーターが文字を動かして場面間字幕を組み立てた初期の例として取り上げています。"
+          }
+        ],
+        "selection_criterion": "よく研究されている",
+        "checked_at": "2026-11-22T10:52:00+09:00",
+        "sha256": "a72b26c0b809688c92703f37ced357819dba8bad5ac9005c8cfb86773f504c9e",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/kinetic-typography/kinetic-typography-porter-660.webp",
+              "width": 660,
+              "height": 164
+            }
+          ]
+        },
+        "research_source": "https://publishing.cdlib.org/ucpressebooks/view?docId=ft3q2nb2gw&chunk.id=d0e10730",
+        "collection_page": "https://catalog.afi.com/Film/29705-HOW-JONES-LOST-HIS-ROLL"
+      },
+      {
+        "id": "kinetic-typography-blackton",
+        "entry": "Kinetic typography",
+        "title": "『Humorous Phases of Funny Faces』の冒頭タイトル",
+        "title_original": "Humorous Phases of Funny Faces",
+        "year": "1906年",
+        "author": "J・スチュアート・ブラックトン／ヴァイタグラフ社",
+        "institution": "米国議会図書館",
+        "medium": "無声映画のタイトルアニメーション",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Humorous_Phases_of_Funny_Faces.ogv",
+        "work_source_page": "https://www.loc.gov/item/00694006/",
+        "license": "パブリックドメイン",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Humorous_Phases_of_Funny_Faces.ogv#Licensing",
+        "credit": "J. Stuart Blackton / Vitagraph Company of America. 米国議会図書館の映像から、公開ファイルの4秒・9秒・21秒を掲載。",
+        "local_file": "assets/kinetic-typography/kinetic-typography-blackton.webp",
+        "width": 1330,
+        "height": 330,
+        "alt": "散らばった白い線分が文字の輪郭を少しずつ埋め、最後に渦巻きの装飾を伴う映画タイトルになる三コマ。",
+        "viewing_point": "タイトルの各文字は、初めから一字ずつ並ぶわけではありません。紙片で作った白い線が文字を少しずつ形づくり、最後に渦巻きと著作権表記が加わります。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "米国議会図書館の公開解説は、切り紙を使った冒頭タイトルに触れ、映画本編の線画アニメーションと区別しています。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:52:00+09:00",
+        "sha256": "c639cfadc741019d684efd16bef7b94f4f5a010d1fb02ee2571f0cec3d0d0b9e",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/kinetic-typography/kinetic-typography-blackton-660.webp",
+              "width": 660,
+              "height": 164
+            }
+          ]
+        },
+        "research_source": "https://www.youtube.com/watch?v=wGh6maN4l2I",
+        "collection_page": "https://www.loc.gov/item/00694006/"
+      },
+      {
+        "id": "kinetic-typography-ambigram",
+        "entry": "Kinetic typography",
+        "title": "「OK」と「NO」が反転するアンビグラム",
+        "title_original": "Ambigram “OK” she says / She says “NO”",
+        "year": "2015年",
+        "author": "バジル・モラン",
+        "institution": "作者公開資料（Wikimedia Commons）",
+        "medium": "回転する文字のアニメーションGIF",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ambigram_OK_she_says_She_says_NO_-_animation.gif",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Ambigram_OK_she_says_She_says_NO_-_animation.gif",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "© Basile Morin（CC BY-SA 4.0）。原作の0秒・0.86秒・1.22秒を抜粋し、横に並べて縮小。図版も同ライセンス。",
+        "local_file": "assets/kinetic-typography/kinetic-typography-ambigram.webp",
+        "width": 1240,
+        "height": 410,
+        "alt": "筆記体で書いた「OK she says」と「she says NO」の上下の行が回転し、黒と白の位置が入れ替わる。",
+        "viewing_point": "同じ線を半回転させると、賛成の「OK」は拒否の「NO」として読めます。回転の途中は文字の判別が難しく、動きが止まると、もう一方のせりふが浮かびます。",
+        "visual_notes": [
+          {
+            "title": "選定理由・高評価",
+            "text": "Wikimedia Commons の品質画像に選ばれた作品で、作者自身が反対の意味を持つ二つの文の組み合わせとして解説しています。"
+          }
+        ],
+        "selection_criterion": "高評価",
+        "checked_at": "2026-11-22T10:52:00+09:00",
+        "sha256": "b15ab6dc483dc36dd5b04df9ac2b752a3cedd6e172195f0d0e70f63ddb29fda8",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/kinetic-typography/kinetic-typography-ambigram-660.webp",
+              "width": 660,
+              "height": 218
+            }
+          ]
+        }
+      },
+      {
+        "id": "kinetic-typography-decrypt",
+        "entry": "Kinetic typography",
+        "title": "TerminalTextEffects の「Decrypt」",
+        "title_original": "TerminalTextEffects — Decrypt",
+        "year": "2023年にプロジェクト初公開",
+        "author": "ChrisBuilds",
+        "institution": "作者公開資料",
+        "medium": "端末用文字アニメーションの公式作例",
+        "source_page": "https://chrisbuilds.github.io/terminaltexteffects/showroom/#decrypt",
+        "work_source_page": "https://raw.githubusercontent.com/ChrisBuilds/terminaltexteffects/main/docs/img/effects_demos/decrypt_demo.webp",
+        "license": "MIT License",
+        "license_url": "https://github.com/ChrisBuilds/terminaltexteffects/blob/main/LICENSE",
+        "credit": "© 2023 ChrisBuilds（MIT License）。公式アニメーションWebPの2.78秒・12.52秒・18.48秒から、各画面の上部を抜粋。",
+        "local_file": "assets/kinetic-typography/kinetic-typography-decrypt.webp",
+        "width": 1450,
+        "height": 173,
+        "alt": "暗い端末に緑の記号がにじむように並び、やがて英字と金色の見出しが読めるようになる。",
+        "viewing_point": "文字の位置はほとんど動きません。同じ桁に表示する記号を次々と取り替え、最後に正しい英字を止めることで、暗号が解ける時間を表しています。",
+        "visual_notes": [
+          {
+            "title": "選定理由・ポピュラー",
+            "text": "GitHubで4,000以上のスターを集めた端末用アニメーションツールが、暗号解読の演出として公式に用意している作例です。"
+          }
+        ],
+        "selection_criterion": "ポピュラー",
+        "checked_at": "2026-11-22T10:52:00+09:00",
+        "sha256": "829a92fb65c84ce1b6fe78435c587f2733d29bbdf90d90d889908d76adca1011",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/kinetic-typography/kinetic-typography-decrypt-660.webp",
+              "width": 660,
+              "height": 79
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://raw.githubusercontent.com/ChrisBuilds/terminaltexteffects/main/docs/img/effects_demos/decrypt_demo.webp"
+        },
+        "release_source": "https://pypi.org/project/terminaltexteffects/0.1.0/"
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -34943,7 +36574,7 @@
         "文字が伸びる、走る、止まる。動きによって、言葉の強さや読む速さが変わります。キネティック・タイポグラフィは、時間と動きを使う文字の表現です。"
       ]
     },
-    "representativeness_limit": "一つのスタジオの三例です。映画タイトルや初期のアニメーションの歴史全体を代表しません。",
+    "representativeness_limit": "映像や文字のアニメーションを、元の作品と照らして読みます。静止場面では形を、再生するとその形が変わる速さや間隔を確かめられます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "title_segments": [
       "動く文字の",
