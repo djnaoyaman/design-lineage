@@ -10341,7 +10341,7 @@
     ],
     "overview_evidence_status": "partial_primary_search_text_supported_draft",
     "primary_reviewed": true,
-    "representative_count": 5,
+    "representative_count": 7,
     "ideal_target_count": "3–5",
     "representativeness_limit": "授業や暮らしに使われた空間と、キャンパスの彫刻から、この地で人がどのように芸術に出会ったかをたどります。",
     "rights_cleared_adoptable_candidates": [],
@@ -10594,6 +10594,28 @@
         "domain": "屋外彫刻",
         "evidence": "https://conservancy.umn.edu/bitstreams/2c203b13-6bf6-4f75-acfe-92ac9f4b5b2a/download",
         "reason": "細身の女性が頭上に器を載せて歩きます。木立の中では、伸び上がる体の線が背後の幹に呼応します。バイジがセメントを使って試みた初期の屋外彫刻です。"
+      },
+      {
+        "id": "kalo",
+        "title": "Kalo Bari",
+        "title_ja": "カロ・バリ（黒い家）",
+        "title_original": "Kalo Bari",
+        "creator": "ナンダラル・ボース、スレンドラナート・カル、ラムキンカル・バイジ、カラ・バヴァナの学生たち",
+        "date": "1934年着手",
+        "domain": "学生寮・建築と浮彫",
+        "reason": "土とコールタールでつくった黒い学生寮です。美術を学ぶ学生たちが何年もかけて壁や柱に浮彫を施しました。住む場所が、そのまま制作の場になりました。",
+        "evidence": "https://whc.unesco.org/document/191080"
+      },
+      {
+        "id": "mill",
+        "title": "Mill Call",
+        "title_ja": "工場のサイレン",
+        "title_original": "Mill Call",
+        "creator": "ラムキンカル・バイジ",
+        "date": "1956年",
+        "domain": "屋外彫刻",
+        "reason": "工場の合図を聞いて急ぐ人々を表した群像です。前へ傾く体と後ろへ流れる衣の形で、手足が動く速さまで伝えています。",
+        "evidence": "https://whc.unesco.org/document/191080"
       }
     ],
     "period_bands": [
@@ -13769,9 +13791,13 @@
       "ngv-ngali-process",
       "ngv-chair-nargoodah-jansen",
       "ngv-black-bamboo",
-      "ngv-black-bamboo-labels"
+      "ngv-black-bamboo-labels",
+      "flag2",
+      "eel",
+      "contact",
+      "wirin"
     ],
-    "representativeness_limit": "衣服と家具から、具体例を3件選びました。すべての地域や共同体を代表する、決まったセットではありません。グラフィックや建築などは、まだ収録していません。全作品の画像の掲載許可と取得も、まだ完了していません。",
+    "representativeness_limit": "旗や公共空間の彫刻を通じて、異なる先住民族の作家が土地との関係や歴史をどう伝えたかを見比べます。",
     "reviewed_representatives": [
       {
         "title": "Gifting of Country dress and scarf",
@@ -13884,10 +13910,34 @@
           "Sik utem sleepingbed2019 MarepPamle;NGVcommission2019;customaryjoinery/lashing andcontemporarymaterials."
         ],
         "image_reuse": "Document expressly prohibits reproduction withoutwrittenauthorization. Do not copyPDF/images; only concise factual paraphrase withcitation, no copyrighted prose reproduced."
+      },
+      {
+        "id": "flag2",
+        "url": "https://aiatsis.gov.au/explore/aboriginal-flag",
+        "institution": "オーストラリア先住民研究所（AIATSIS）",
+        "title": "オーストラリア・アボリジナル・フラッグ"
+      },
+      {
+        "id": "eel",
+        "url": "https://citycollection.melbourne.vic.gov.au/eel-trap/",
+        "institution": "メルボルン市コレクション",
+        "title": "ウナギのわな"
+      },
+      {
+        "id": "contact",
+        "url": "https://www.uapcompany.com/projects/first-contact",
+        "institution": "UAP・制作記録",
+        "title": "ファースト・コンタクト"
+      },
+      {
+        "id": "wirin",
+        "url": "https://developmentwa.com.au/projects/redevelopment/yagan-square/wirin",
+        "institution": "西オーストラリア州開発公社",
+        "title": "ウィリン"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
-    "image_count_acquired": 0,
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "image_count_acquired": 4,
     "representatives": [
       {
         "title": "Gifting of Country dress and scarf",
@@ -13948,6 +13998,50 @@
             "Merという土地の魚や海との関わりを、複数の人が一緒に表しました。"
           ]
         }
+      },
+      {
+        "id": "flag2",
+        "title": "Australian Aboriginal Flag",
+        "title_ja": "オーストラリア・アボリジナル・フラッグ",
+        "title_original": "Australian Aboriginal Flag",
+        "creator": "ハロルド・トーマス（ルリジャ）",
+        "date": "1970年デザイン、1971年初掲揚",
+        "domain": "旗・グラフィックデザイン",
+        "evidence": "https://aiatsis.gov.au/explore/aboriginal-flag",
+        "reason": "上半分の黒はアボリジナルの人々、下半分の赤は大地と儀礼に使う赤土、中央の黄色い円は太陽。1971年、アデレードの土地権を求める集会で掲げられました。"
+      },
+      {
+        "id": "eel",
+        "title": "Eel Trap",
+        "title_ja": "ウナギのわな",
+        "title_original": "Eel Trap",
+        "creator": "フィオナ・クラーク（キラエ・ウルロン）、ケン・マッキーン",
+        "date": "2003年",
+        "domain": "公共空間のデザイン・鋼板の彫刻",
+        "evidence": "https://citycollection.melbourne.vic.gov.au/eel-trap/",
+        "reason": "メルボルンの川辺で使われたウナギのわなを、赤い鋼板の彫刻に移しました。かつてこの近くで食料を得ていた人々の知恵を、同じ土地に戻した作品です。"
+      },
+      {
+        "id": "contact",
+        "title": "First Contact",
+        "title_ja": "ファースト・コンタクト",
+        "title_original": "First Contact",
+        "creator": "ローレル・ナナップ（ヌンガー）／UAP、FORMと共同制作",
+        "date": "2016年",
+        "domain": "公共空間のデザイン・アルミ鋳造彫刻",
+        "evidence": "https://www.uapcompany.com/projects/first-contact",
+        "reason": "遠くの海に現れた帆船を、巨大な鳥と見たヌンガーの人々の記憶を造形しました。頭をひねり翼を広げる鳥に、帆とマストの形が重なります。"
+      },
+      {
+        "id": "wirin",
+        "title": "Wirin",
+        "title_ja": "ウィリン",
+        "title_original": "Wirin",
+        "creator": "チルンゴー（ランス・チャッド）／Big Spoon Art Servicesとの共同制作",
+        "date": "2018年",
+        "domain": "公共空間のデザイン・鋳鉄と鋼の彫刻",
+        "evidence": "https://developmentwa.com.au/projects/redevelopment/yagan-square/wirin",
+        "reason": "広場に立つ長身の像は、槍と槍投げ器を手にしています。題名はヌンガーの言葉で「精霊」。作者の水彩画をもとに、人と土地の結びつきを街の目印にしました。"
       }
     ],
     "period_bands": [
@@ -13955,7 +14049,180 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "flag2",
+        "entry": "Australian Indigenous contemporary design",
+        "title": "オーストラリア・アボリジナル・フラッグ",
+        "title_original": "Australian Aboriginal Flag",
+        "year": "1970年デザイン、1971年初掲揚",
+        "author": "ハロルド・トーマス（ルリジャ）",
+        "institution": "オーストラリア先住民研究所（AIATSIS）",
+        "medium": "旗・グラフィックデザイン",
+        "source_page": "https://aiatsis.gov.au/explore/aboriginal-flag",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Aboriginal_Flag_01.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "旗のデザイン：Harold Thomas、権利者：Commonwealth of Australia。撮影：SuperJew / Wikimedia Commons / CC BY-SA 3.0（WebP変換）",
+        "local_file": "assets/first-nations-australia-design/flag2.webp",
+        "width": 960,
+        "height": 720,
+        "alt": "石壁の前に広げた旗。上段は黒、下段は赤で、中央に黄色い円がある。",
+        "viewing_point": "上半分の黒はアボリジナルの人々、下半分の赤は大地と儀礼に使う赤土、中央の黄色い円は太陽。1971年、アデレードの土地権を求める集会で掲げられました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "上半分の黒はアボリジナルの人々、下半分の赤は大地と儀礼に使う赤土、中央の黄色い円は太陽。1971年、アデレードの土地権を求める集会で掲げられました。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "c88cf89a47ed8caef68d31c746c3beac318cedbebdb4effefa274a5d25f5211f",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/first-nations-australia-design/flag2-660.webp",
+              "width": 660,
+              "height": 495
+            }
+          ]
+        },
+        "underlying_work_rights": "旗の権利者はオーストラリア連邦。旗・ペナント類の製造とは別に、ウェブを含む他媒体の複製を認めている。https://www.pmc.gov.au/resources/australian-flags-booklet/part-3-other-official-flags-australia/flags-australias-indigenous-peoples",
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Aboriginal_Flag_01.jpg/960px-Aboriginal_Flag_01.jpg"
+        }
+      },
+      {
+        "id": "eel",
+        "entry": "Australian Indigenous contemporary design",
+        "title": "ウナギのわな",
+        "title_original": "Eel Trap",
+        "year": "2003年",
+        "author": "フィオナ・クラーク（キラエ・ウルロン）、ケン・マッキーン",
+        "institution": "メルボルン市コレクション",
+        "medium": "公共空間のデザイン・鋼板の彫刻",
+        "source_page": "https://citycollection.melbourne.vic.gov.au/eel-trap/",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Eel_Trap_by_Fiona_Clarke_and_Ken_McKean.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "Shkuru Afshar / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+        "local_file": "assets/first-nations-australia-design/eel.webp",
+        "width": 1280,
+        "height": 721,
+        "alt": "砂地の上で、赤い鋼板の帯がゆるい弧を描いて交差する。",
+        "viewing_point": "メルボルンの川辺で使われたウナギのわなを、赤い鋼板の彫刻に移しました。かつてこの近くで食料を得ていた人々の知恵を、同じ土地に戻した作品です。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "メルボルンの川辺で使われたウナギのわなを、赤い鋼板の彫刻に移しました。かつてこの近くで食料を得ていた人々の知恵を、同じ土地に戻した作品です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "bb0573abd3a42b00aa08acec454832f32f9f244243cfc15a9d49f2a9b6bdcb70",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/first-nations-australia-design/eel-660.webp",
+              "width": 660,
+              "height": 372
+            }
+          ]
+        },
+        "underlying_work_rights": "オーストラリア著作権法第65条。公共の場所に常設された彫刻の写真。",
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eel_Trap_by_Fiona_Clarke_and_Ken_McKean.jpg/1280px-Eel_Trap_by_Fiona_Clarke_and_Ken_McKean.jpg"
+        }
+      },
+      {
+        "id": "contact",
+        "entry": "Australian Indigenous contemporary design",
+        "title": "ファースト・コンタクト",
+        "title_original": "First Contact",
+        "year": "2016年",
+        "author": "ローレル・ナナップ（ヌンガー）／UAP、FORMと共同制作",
+        "institution": "UAP・制作記録",
+        "medium": "公共空間のデザイン・アルミ鋳造彫刻",
+        "source_page": "https://www.uapcompany.com/projects/first-contact",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:2019-08-25%2C_Wiki_Takes_Elizabeth_Quay%2C_SW12.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "Sam Wilson / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+        "local_file": "assets/first-nations-australia-design/contact.webp",
+        "width": 960,
+        "height": 720,
+        "alt": "港に立つ銀色の鳥の像。くちばしを横に向け、翼と胴が帆船のようにつながる。",
+        "viewing_point": "遠くの海に現れた帆船を、巨大な鳥と見たヌンガーの人々の記憶を造形しました。頭をひねり翼を広げる鳥に、帆とマストの形が重なります。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "遠くの海に現れた帆船を、巨大な鳥と見たヌンガーの人々の記憶を造形しました。頭をひねり翼を広げる鳥に、帆とマストの形が重なります。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "eda27457a1576a3c99f30948f76304c5c61c757a60e8c6aea3677196602f8155",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/first-nations-australia-design/contact-660.webp",
+              "width": 660,
+              "height": 495
+            }
+          ]
+        },
+        "underlying_work_rights": "オーストラリア著作権法第65条。公共の場所に常設された彫刻の写真。",
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2019-08-25%2C_Wiki_Takes_Elizabeth_Quay%2C_SW12.jpg/960px-2019-08-25%2C_Wiki_Takes_Elizabeth_Quay%2C_SW12.jpg"
+        }
+      },
+      {
+        "id": "wirin",
+        "entry": "Australian Indigenous contemporary design",
+        "title": "ウィリン",
+        "title_original": "Wirin",
+        "year": "2018年",
+        "author": "チルンゴー（ランス・チャッド）／Big Spoon Art Servicesとの共同制作",
+        "institution": "西オーストラリア州開発公社",
+        "medium": "公共空間のデザイン・鋳鉄と鋼の彫刻",
+        "source_page": "https://developmentwa.com.au/projects/redevelopment/yagan-square/wirin",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Wirin_Yagan_Square.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "The Logical Positivist / Wikimedia Commons / CC BY-SA 4.0（WebP変換）",
+        "local_file": "assets/first-nations-australia-design/wirin.webp",
+        "width": 500,
+        "height": 375,
+        "alt": "街の広場で、長い槍を手にした赤褐色の人物像が高層ビルを背に立つ。",
+        "viewing_point": "広場に立つ長身の像は、槍と槍投げ器を手にしています。題名はヌンガーの言葉で「精霊」。作者の水彩画をもとに、人と土地の結びつきを街の目印にしました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "広場に立つ長身の像は、槍と槍投げ器を手にしています。題名はヌンガーの言葉で「精霊」。作者の水彩画をもとに、人と土地の結びつきを街の目印にしました。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "c7fa24e09cd12f684c79cff21b226743f88395c26eef4961a861eb1e8dc6b1c7",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/first-nations-australia-design/wirin-660.webp",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "underlying_work_rights": "オーストラリア著作権法第65条。公共の場所に常設された彫刻の写真。",
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wirin_Yagan_Square.jpg/500px-Wirin_Yagan_Square.jpg"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -13975,7 +14242,9 @@
         "作品の記録を見るなら、絵をかいた人と、服にした人は誰でしょう。",
         "竹や布などの材料は、その作品の土地や暮らしとどう関わっていますか。"
       ]
-    }
+    },
+    "checked_at": "2026-11-22T10:39:00+09:00",
+    "representative_count": 7
   },
   {
     "name": "民藝運動",
@@ -20114,7 +20383,7 @@
     ],
     "overview_evidence_status": "出版社・機関の一次本文で方法と参考書籍を確認。起源全体の検証ではない。",
     "modern_section_label": "いま使われている仕組みと比べる",
-    "representativeness_limit": "方法を学ぶための参考資料です。特定の運動を代表する歴史作品の画像セットではありません。",
+    "representativeness_limit": "二段組の活版印刷、書物の版面を決める作図、ウェブの設計用紙と製品のグリッドを見比べます。",
     "reviewed_representatives": [
       {
         "title": "Grid systems in graphic design",
@@ -23372,7 +23641,7 @@
         "explanation": "ものの外側を囲む線。"
       }
     ],
-    "representativeness_limit": "ドイツでの版画・建築に、国をまたぐ広告の比較例を加えました。地域全体の工芸や出版の多様さを、この3件だけで網羅するものではありません。",
+    "representativeness_limit": "雑誌の表紙、織物、版画、建築を通じて、ドイツ語圏で曲線や植物の形がどう使われたかをたどります。",
     "sources": [
       {
         "id": "vam-international",
@@ -25939,6 +26208,39 @@
         },
         "source_url": "https://dsource.in/sites/default/files/resource/logos-india/downloads/file/162_logos_india_new.pdf",
         "title_ja": "NID（エヌ・アイ・ディー）のロゴマーク"
+      },
+      {
+        "id": "ia-historic",
+        "title": "Indian Airlines identity",
+        "title_ja": "インディアン・エアラインズの旧シンボル",
+        "title_original": "Indian Airlines identity",
+        "creator": "ベノイ・サルカール／インド国立デザイン大学",
+        "date": "1967年に受注",
+        "domain": "シンボルマーク",
+        "evidence": "https://eyeondesign.aiga.org/in-the-1960s-the-national-institute-of-design-trained-indias-first-design-educators/",
+        "reason": "IとAを前のめりに傾け、Aの横棒に段差をつけました。学校が受託した航空会社の仕事で、遠くの機体に描いても、静止した記号に飛行の動きが生まれます。"
+      },
+      {
+        "id": "sbi",
+        "title": "State Bank of India symbol",
+        "title_ja": "インドステイト銀行のシンボル",
+        "title_original": "State Bank of India symbol",
+        "creator": "シェーカル・カマット／インド国立デザイン大学",
+        "date": "1971年（シンボル）",
+        "domain": "シンボルマーク",
+        "evidence": "https://dsource.in/dcontent/design-india/collection/collection-details2.php?id=526",
+        "reason": "青い円の中から白い小円と縦の細い線を抜いています。図版の右にある現在の銀行名の略字と見比べると、文字を読まなくてもシンボルだけで見分けられる理由がわかります。"
+      },
+      {
+        "id": "dd-logo",
+        "title": "Doordarshan Eye",
+        "title_ja": "ドゥールダルシャンの「目」",
+        "title_original": "Doordarshan Eye",
+        "creator": "デヴァシス・バッタチャリヤ（原案）",
+        "date": "1976年に放映された原案に基づく青色版",
+        "domain": "シンボルマーク",
+        "evidence": "https://indianexpress.com/article/explained/explained-history/dordarshan-logo-colour-9286815/",
+        "reason": "二つの曲線が中央の円を囲み、ひとつの目が現れます。テレビ放送を示すこの形はNIDの学生課題から生まれ、別の学生が回転する映像にしました。"
       }
     ],
     "sources": [
@@ -25976,9 +26278,33 @@
         "supports": [
           "PD-textlogo・商標注意・SVG原画像"
         ]
+      },
+      {
+        "id": "ia-historic",
+        "url": "https://eyeondesign.aiga.org/in-the-1960s-the-national-institute-of-design-trained-indias-first-design-educators/",
+        "institution": "インディアン・エアラインズ",
+        "title": "インディアン・エアラインズの旧シンボル"
+      },
+      {
+        "id": "sbi",
+        "url": "https://dsource.in/dcontent/design-india/collection/collection-details2.php?id=526",
+        "institution": "インドステイト銀行",
+        "title": "インドステイト銀行のシンボル"
+      },
+      {
+        "id": "dd-logo",
+        "url": "https://indianexpress.com/article/explained/explained-history/dordarshan-logo-colour-9286815/",
+        "institution": "ドゥールダルシャン",
+        "title": "ドゥールダルシャンの「目」"
+      },
+      {
+        "id": "nid",
+        "url": "https://www.dsource.in/dcontent/design-india/collection/collection-details2.php?id=606",
+        "institution": "インド国立デザイン大学",
+        "title": "インド国立デザイン大学の学章"
       }
     ],
-    "representativeness_limit": "掲載ロゴは学校自身の識別のためのデザインです。学生の制作や授業の成果を代表する画像ではありません。教育の考え方を伝える資料と、社会向けのITIロゴを別に紹介しています。",
+    "representativeness_limit": "NIDで学んだ人や教えた人が手がけたマークと、学校自体を表す学章を紹介します。",
     "recognition_section_label": "作品をよく見るための手がかり",
     "modern_section_label": "いま、考えてみること",
     "reading_intro": {
@@ -25988,7 +26314,176 @@
       ],
       "looking_questions": []
     },
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "ia-historic",
+        "entry": "NID Ahmedabad",
+        "title": "インディアン・エアラインズの旧シンボル",
+        "title_original": "Indian Airlines identity",
+        "year": "1967年に受注",
+        "author": "ベノイ・サルカール／インド国立デザイン大学",
+        "institution": "インディアン・エアラインズ",
+        "medium": "シンボルマーク",
+        "source_page": "https://eyeondesign.aiga.org/in-the-1960s-the-national-institute-of-design-trained-indias-first-design-educators/",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Indian_Airlines.svg",
+        "license": "パブリックドメイン（単純な図形・文字商標、出典ファイルの表示）",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Indian_Airlines.svg",
+        "credit": "ベノイ・サルカール／インド国立デザイン大学／インディアン・エアラインズ、Wikimedia Commons",
+        "local_file": "assets/nid-ahmedabad/ia-historic.webp",
+        "width": 1280,
+        "height": 196,
+        "alt": "IとAを前のめりに傾け、Aの横棒に段差をつけました。学校が受託した航空会社の仕事で、遠くの機体に描いても、静止した記号に飛行の動きが生まれます。",
+        "viewing_point": "IとAを前のめりに傾け、Aの横棒に段差をつけました。学校が受託した航空会社の仕事で、遠くの機体に描いても、静止した記号に飛行の動きが生まれます。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "IとAを前のめりに傾け、Aの横棒に段差をつけました。学校が受託した航空会社の仕事で、遠くの機体に描いても、静止した記号に飛行の動きが生まれます。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "6b9c62d8618eef42abaed057eb58f9153c132f074ba16775dab7959bd35a1fef",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/nid-ahmedabad/ia-historic-660.webp",
+              "width": 660,
+              "height": 101
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Indian_Airlines.svg/1280px-Indian_Airlines.svg.png"
+        }
+      },
+      {
+        "id": "sbi",
+        "entry": "NID Ahmedabad",
+        "title": "インドステイト銀行のシンボル",
+        "title_original": "State Bank of India symbol",
+        "year": "1971年（シンボル）",
+        "author": "シェーカル・カマット／インド国立デザイン大学",
+        "institution": "インドステイト銀行",
+        "medium": "シンボルマーク",
+        "source_page": "https://dsource.in/dcontent/design-india/collection/collection-details2.php?id=526",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India.svg",
+        "license": "パブリックドメイン（単純な図形・文字商標、出典ファイルの表示）",
+        "license_url": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India.svg",
+        "credit": "シェーカル・カマット／インド国立デザイン大学／インドステイト銀行、Wikimedia Commons",
+        "local_file": "assets/nid-ahmedabad/sbi.webp",
+        "width": 1280,
+        "height": 439,
+        "alt": "青い円の中から白い小円と縦の細い線を抜いています。図版の右にある現在の銀行名の略字と見比べると、文字を読まなくてもシンボルだけで見分けられる理由がわかります。",
+        "viewing_point": "青い円の中から白い小円と縦の細い線を抜いています。図版の右にある現在の銀行名の略字と見比べると、文字を読まなくてもシンボルだけで見分けられる理由がわかります。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "青い円の中から白い小円と縦の細い線を抜いています。図版の右にある現在の銀行名の略字と見比べると、文字を読まなくてもシンボルだけで見分けられる理由がわかります。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "e9db2f82ee76e4ad4bec944270edacf75b363237e482ad5e25f7d11f00bf92b3",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/nid-ahmedabad/sbi-660.webp",
+              "width": 660,
+              "height": 226
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/State_Bank_of_India.svg/1280px-State_Bank_of_India.svg.png"
+        }
+      },
+      {
+        "id": "dd-logo",
+        "entry": "NID Ahmedabad",
+        "title": "ドゥールダルシャンの「目」",
+        "title_original": "Doordarshan Eye",
+        "year": "1976年に放映された原案に基づく青色版",
+        "author": "デヴァシス・バッタチャリヤ（原案）",
+        "institution": "ドゥールダルシャン",
+        "medium": "シンボルマーク",
+        "source_page": "https://indianexpress.com/article/explained/explained-history/dordarshan-logo-colour-9286815/",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Doordarshan_Logo_(1).png",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "credit": "Doordarshan／Wikimedia Commons、CC BY 4.0。原案 デヴァシス・バッタチャリヤ。背景を白に調整。",
+        "local_file": "assets/nid-ahmedabad/dd-logo.webp",
+        "width": 1280,
+        "height": 1285,
+        "alt": "二つの曲線が中央の円を囲み、ひとつの目が現れます。テレビ放送を示すこの形はNIDの学生課題から生まれ、別の学生が回転する映像にしました。",
+        "viewing_point": "二つの曲線が中央の円を囲み、ひとつの目が現れます。テレビ放送を示すこの形はNIDの学生課題から生まれ、別の学生が回転する映像にしました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "二つの曲線が中央の円を囲み、ひとつの目が現れます。テレビ放送を示すこの形はNIDの学生課題から生まれ、別の学生が回転する映像にしました。"
+          }
+        ],
+        "selection_criterion": "ポピュラー",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "4e7ba87acbd20e4bc1e2234ddee3a015005bff848924fa1ffba2c7b2842a946a",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/nid-ahmedabad/dd-logo-660.webp",
+              "width": 657,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Doordarshan_Logo_(1).png/1280px-Doordarshan_Logo_%281%29.png"
+        }
+      },
+      {
+        "id": "nid",
+        "entry": "NID Ahmedabad",
+        "title": "インド国立デザイン大学の学章",
+        "title_original": "National Institute of Design logotype",
+        "year": "原案の制作年未確認",
+        "author": "アドリアン・フルティガー",
+        "institution": "インド国立デザイン大学",
+        "medium": "シンボルマーク",
+        "source_page": "https://www.dsource.in/dcontent/design-india/collection/collection-details2.php?id=606",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:National_Institute_of_Design_logo.svg",
+        "license": "パブリックドメイン（単純な図形・文字商標、出典ファイルの表示）",
+        "license_url": "https://commons.wikimedia.org/wiki/File:National_Institute_of_Design_logo.svg",
+        "credit": "アドリアン・フルティガー／インド国立デザイン大学、Wikimedia Commons",
+        "local_file": "assets/nid-ahmedabad/nid.webp",
+        "width": 1280,
+        "height": 181,
+        "alt": "三角形と円、半円を寄せて校名の頭文字をひとつの形にしました。右に添えられたヒンディー語と英語の校名を見ると、ひとつの記号が二つの表記を結んでいます。",
+        "viewing_point": "三角形と円、半円を寄せて校名の頭文字をひとつの形にしました。右に添えられたヒンディー語と英語の校名を見ると、ひとつの記号が二つの表記を結んでいます。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "三角形と円、半円を寄せて校名の頭文字をひとつの形にしました。右に添えられたヒンディー語と英語の校名を見ると、ひとつの記号が二つの表記を結んでいます。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "ead3d552b24ef097f2ed431f73e096c2f6f2a3f34d82c795ad1a4ef876913d95",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/nid-ahmedabad/nid-660.webp",
+              "width": 660,
+              "height": 93
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/National_Institute_of_Design_logo.svg/1280px-National_Institute_of_Design_logo.svg.png"
+        }
+      }
+    ],
     "reference_images": [
       {
         "id": "commons-nid-logo",
@@ -26028,10 +26523,12 @@
         }
       }
     ],
-    "image_count_acquired": 0,
+    "image_count_acquired": 4,
     "reference_image_count": 1,
     "image_status": "学校の識別マークの参考図あり／授業・学生作品の画像は未完",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "checked_at": "2026-11-22T10:39:00+09:00",
+    "representative_count": 7
   },
   {
     "name": "ESDI Rio de Janeiro",
@@ -26101,6 +26598,50 @@
         },
         "source_url": "https://www.esdi.uerj.br/noticias/3882/identidade-visual-da-policlnica-piquet-carneiro-uerj",
         "title_ja": "ピケ・カルネイロ総合診療所の視覚的な識別システム"
+      },
+      {
+        "id": "globo",
+        "title": "Primeira logomarca da TV Globo",
+        "title_ja": "テレビ・グローボ開局時のシンボル",
+        "title_original": "Primeira logomarca da TV Globo",
+        "creator": "アロイージオ・マガリャエス",
+        "date": "1965年",
+        "domain": "シンボルマーク",
+        "evidence": "https://historia.globo.com/memoria-roberto-marinho/empresas/noticia/tv-globo.ghtml",
+        "reason": "風車のような形の中に、リオで放送されたチャンネル番号の「4」が四つ隠れています。ESDIの設立に携わった教員が、テレビ局の番号を視覚的な目印にした仕事です。"
+      },
+      {
+        "id": "ippuc",
+        "title": "Símbolo do Instituto de Pesquisa e Planejamento Urbano de Curitiba",
+        "title_ja": "クリチバ都市計画研究所のシンボル",
+        "title_original": "Símbolo do Instituto de Pesquisa e Planejamento Urbano de Curitiba",
+        "creator": "アレシャンドリ・ウォルネル",
+        "date": "1965年",
+        "domain": "シンボルマーク",
+        "evidence": "https://commons.wikimedia.org/wiki/File:IPPUC_Logo.png",
+        "reason": "枝分かれする白い線が、緑の木と道路網を同時に思わせます。都市計画を担う研究所に、ESDIの設立に携わったウォルネルが手がけたマークです。"
+      },
+      {
+        "id": "petrobras",
+        "title": "Identidade visual Petrobras — BR",
+        "title_ja": "ペトロブラスの「BR」シンボル",
+        "title_original": "Identidade visual Petrobras — BR",
+        "creator": "PVDI（マガリャエスが設立したデザイン事務所）",
+        "date": "1970年から展開、1995年にグループ全体に採用",
+        "domain": "シンボルマーク",
+        "evidence": "https://www.pvdi.com.br/portfolio/petrobras/",
+        "reason": "会社名に含まれ、国名ブラジルの略称でもある「BR」を大きく抜きました。国旗に使われる黄と緑の組み合わせが、離れた場所でも目に入ります。"
+      },
+      {
+        "id": "klabin",
+        "title": "Identidade visual Klabin",
+        "title_ja": "製紙会社クラビンのシンボル",
+        "title_original": "Identidade visual Klabin",
+        "creator": "アレシャンドリ・ウォルネル（シンボルの改訂）",
+        "date": "1980年・1999年に改訂",
+        "domain": "シンボルマーク",
+        "evidence": "https://tede.pucsp.br/bitstream/handle/4923/1/Dissertacao%20Eduardo%20Fernandes.pdf",
+        "reason": "緑色の斜めの図形の内側に、白地の「k」が現れます。製紙会社のマークを改訂した仕事で、企業名を添えた図版から、文字の周囲の空きも形になることがわかります。"
       }
     ],
     "sources": [
@@ -26145,9 +26686,33 @@
         "supports": [
           "学校サイト由来のロゴ・PD-textlogo・2014年採録"
         ]
+      },
+      {
+        "id": "globo",
+        "url": "https://historia.globo.com/memoria-roberto-marinho/empresas/noticia/tv-globo.ghtml",
+        "institution": "TV Globo",
+        "title": "テレビ・グローボ開局時のシンボル"
+      },
+      {
+        "id": "ippuc",
+        "url": "https://commons.wikimedia.org/wiki/File:IPPUC_Logo.png",
+        "institution": "クリチバ都市計画研究所（IPPUC）",
+        "title": "クリチバ都市計画研究所のシンボル"
+      },
+      {
+        "id": "petrobras",
+        "url": "https://www.pvdi.com.br/portfolio/petrobras/",
+        "institution": "ペトロブラス／PVDI",
+        "title": "ペトロブラスの「BR」シンボル"
+      },
+      {
+        "id": "klabin",
+        "url": "https://tede.pucsp.br/bitstream/handle/4923/1/Dissertacao%20Eduardo%20Fernandes.pdf",
+        "institution": "クラビン／サンパウロ・カトリック大学の研究資料",
+        "title": "製紙会社クラビンのシンボル"
       }
     ],
-    "representativeness_limit": "学校史の研究、記念ポスター、学生と教員の社会向け共同制作を紹介します。掲載画像は学校のロゴの資料で、学生作品そのものの画像ではありません。",
+    "representativeness_limit": "学校の記録に加え、ESDIで教えたデザイナーやその事務所が依頼主のために手がけたシンボルを紹介します。",
     "recognition_section_label": "作品をよく見るための手がかり",
     "modern_section_label": "いま、考えてみること",
     "reading_intro": {
@@ -26157,7 +26722,176 @@
       ],
       "looking_questions": []
     },
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "globo",
+        "entry": "ESDI Rio de Janeiro",
+        "title": "テレビ・グローボ開局時のシンボル",
+        "title_original": "Primeira logomarca da TV Globo",
+        "year": "1965年",
+        "author": "アロイージオ・マガリャエス",
+        "institution": "TV Globo",
+        "medium": "シンボルマーク",
+        "source_page": "https://historia.globo.com/memoria-roberto-marinho/empresas/noticia/tv-globo.ghtml",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Globo_logo_1965.svg",
+        "license": "パブリックドメイン（単純な図形・文字商標、出典ファイルの表示）",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Globo_logo_1965.svg",
+        "credit": "アロイージオ・マガリャエス／TV Globo、Wikimedia Commons",
+        "local_file": "assets/esdi-rio/globo.webp",
+        "width": 1280,
+        "height": 1280,
+        "alt": "風車のような形の中に、リオで放送されたチャンネル番号の「4」が四つ隠れています。ESDIの設立に携わった教員が、テレビ局の番号を視覚的な目印にした仕事です。",
+        "viewing_point": "風車のような形の中に、リオで放送されたチャンネル番号の「4」が四つ隠れています。ESDIの設立に携わった教員が、テレビ局の番号を視覚的な目印にした仕事です。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "風車のような形の中に、リオで放送されたチャンネル番号の「4」が四つ隠れています。ESDIの設立に携わった教員が、テレビ局の番号を視覚的な目印にした仕事です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "eb22bdae224818f8d37b92a847b134438fba498011b9a315200ead0eaa231319",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/esdi-rio/globo-660.webp",
+              "width": 660,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Globo_logo_1965.svg/1280px-Globo_logo_1965.svg.png"
+        }
+      },
+      {
+        "id": "ippuc",
+        "entry": "ESDI Rio de Janeiro",
+        "title": "クリチバ都市計画研究所のシンボル",
+        "title_original": "Símbolo do Instituto de Pesquisa e Planejamento Urbano de Curitiba",
+        "year": "1965年",
+        "author": "アレシャンドリ・ウォルネル",
+        "institution": "クリチバ都市計画研究所（IPPUC）",
+        "medium": "シンボルマーク",
+        "source_page": "https://commons.wikimedia.org/wiki/File:IPPUC_Logo.png",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:IPPUC_Logo.png",
+        "license": "パブリックドメイン（ブラジル政府機関の委嘱作品、出典ファイルの表示）",
+        "license_url": "https://commons.wikimedia.org/wiki/File:IPPUC_Logo.png",
+        "credit": "アレシャンドリ・ウォルネル／クリチバ都市計画研究所（IPPUC）、Wikimedia Commons",
+        "local_file": "assets/esdi-rio/ippuc.webp",
+        "width": 1220,
+        "height": 1600,
+        "alt": "枝分かれする白い線が、緑の木と道路網を同時に思わせます。都市計画を担う研究所に、ESDIの設立に携わったウォルネルが手がけたマークです。",
+        "viewing_point": "枝分かれする白い線が、緑の木と道路網を同時に思わせます。都市計画を担う研究所に、ESDIの設立に携わったウォルネルが手がけたマークです。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "枝分かれする白い線が、緑の木と道路網を同時に思わせます。都市計画を担う研究所に、ESDIの設立に携わったウォルネルが手がけたマークです。"
+          }
+        ],
+        "selection_criterion": "よく研究されている",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "5e2c4d24388fad9604fa48fde401b6c6ea08d4b2a18e06098d317b0274aa4b4f",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/esdi-rio/ippuc-660.webp",
+              "width": 503,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/IPPUC_Logo.png/1280px-IPPUC_Logo.png"
+        }
+      },
+      {
+        "id": "petrobras",
+        "entry": "ESDI Rio de Janeiro",
+        "title": "ペトロブラスの「BR」シンボル",
+        "title_original": "Identidade visual Petrobras — BR",
+        "year": "1970年から展開、1995年にグループ全体に採用",
+        "author": "PVDI（マガリャエスが設立したデザイン事務所）",
+        "institution": "ペトロブラス／PVDI",
+        "medium": "シンボルマーク",
+        "source_page": "https://www.pvdi.com.br/portfolio/petrobras/",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Petrobras_(vertical).svg",
+        "license": "パブリックドメイン（単純な図形・文字商標、出典ファイルの表示）",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Petrobras_(vertical).svg",
+        "credit": "PVDI（マガリャエスが設立したデザイン事務所）／ペトロブラス／PVDI、Wikimedia Commons",
+        "local_file": "assets/esdi-rio/petrobras.webp",
+        "width": 1280,
+        "height": 761,
+        "alt": "会社名に含まれ、国名ブラジルの略称でもある「BR」を大きく抜きました。国旗に使われる黄と緑の組み合わせが、離れた場所でも目に入ります。",
+        "viewing_point": "会社名に含まれ、国名ブラジルの略称でもある「BR」を大きく抜きました。国旗に使われる黄と緑の組み合わせが、離れた場所でも目に入ります。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "会社名に含まれ、国名ブラジルの略称でもある「BR」を大きく抜きました。国旗に使われる黄と緑の組み合わせが、離れた場所でも目に入ります。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "6777ecbdf5c06bfa46b31cab7b1191282951c43181bd81f027ae0851f904162f",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/esdi-rio/petrobras-660.webp",
+              "width": 660,
+              "height": 392
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Logotipo_da_Petrobras_(vertical).svg/1280px-Logotipo_da_Petrobras_(vertical).svg.png"
+        }
+      },
+      {
+        "id": "klabin",
+        "entry": "ESDI Rio de Janeiro",
+        "title": "製紙会社クラビンのシンボル",
+        "title_original": "Identidade visual Klabin",
+        "year": "1980年・1999年に改訂",
+        "author": "アレシャンドリ・ウォルネル（シンボルの改訂）",
+        "institution": "クラビン／サンパウロ・カトリック大学の研究資料",
+        "medium": "シンボルマーク",
+        "source_page": "https://tede.pucsp.br/bitstream/handle/4923/1/Dissertacao%20Eduardo%20Fernandes.pdf",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Klabin.svg",
+        "license": "パブリックドメイン（単純な図形・文字商標、出典ファイルの表示）",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Klabin.svg",
+        "credit": "アレシャンドリ・ウォルネル（シンボルの改訂）／クラビン／サンパウロ・カトリック大学の研究資料、Wikimedia Commons",
+        "local_file": "assets/esdi-rio/klabin.webp",
+        "width": 1280,
+        "height": 893,
+        "alt": "緑色の斜めの図形の内側に、白地の「k」が現れます。製紙会社のマークを改訂した仕事で、企業名を添えた図版から、文字の周囲の空きも形になることがわかります。",
+        "viewing_point": "緑色の斜めの図形の内側に、白地の「k」が現れます。製紙会社のマークを改訂した仕事で、企業名を添えた図版から、文字の周囲の空きも形になることがわかります。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "緑色の斜めの図形の内側に、白地の「k」が現れます。製紙会社のマークを改訂した仕事で、企業名を添えた図版から、文字の周囲の空きも形になることがわかります。"
+          }
+        ],
+        "selection_criterion": "よく研究されている",
+        "checked_at": "2026-11-22T10:39:00+09:00",
+        "sha256": "771953b56b94eaf9a9ecb2f967c906be59d8edcf5977d076c366306f815e9b4d",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/esdi-rio/klabin-660.webp",
+              "width": 660,
+              "height": 460
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Klabin.svg/1280px-Klabin.svg.png"
+        }
+      }
+    ],
     "reference_images": [
       {
         "id": "commons-esdi-logo",
@@ -26197,10 +26931,12 @@
         }
       }
     ],
-    "image_count_acquired": 0,
+    "image_count_acquired": 4,
     "reference_image_count": 1,
     "image_status": "学校の識別マークの参考図あり／授業・学生作品の画像は未完",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "checked_at": "2026-11-22T10:39:00+09:00",
+    "representative_count": 7
   },
   {
     "name": "新興写真",
@@ -29640,7 +30376,7 @@
         "紙や布の切れ端を貼ると、描くだけではできない画面が生まれます。コラージュは、別々の材料を組み合わせてつくる方法です。印刷された文字や、紙の手ざわりも作品の一部になります。"
       ]
     },
-    "representativeness_limit": "シュヴィッタースの三例です。彼一人がこの技法を始めたという意味ではありません。作品と撮影画像の権利は別です。",
+    "representativeness_limit": "グリスの貼り紙とシュヴィッタースの紙片を見比べます。のりで留めた紙の縁や、印刷された文字も構図の一部です。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。"
   },
   {
@@ -30873,7 +31609,7 @@
         "一つずつ形を描く代わりに、形を生むルールをつくります。線の動きや部品のつながりを決めると、コンピューターが多くの形を生み出します。これがジェネラティブ・デザインの考え方です。"
       ]
     },
-    "representativeness_limit": "ソフトウェア美術二シリーズと工業試作一例です。シリーズの開始年と個々の画像の制作年は別です。",
+    "representativeness_limit": "機械による描画、計算規則に基づく作品、住宅配置の設計例から、作者が決めた条件と、その条件から生まれる形を見比べます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "title_segments": [
       "ジェネラティブ",
@@ -31250,7 +31986,7 @@
         "窓の幅を変えると、隣の柱の位置も変わる。そんな関係を先に決めて設計する方法です。パラメーターは、幅や角度など、変えられる数値や条件のことです。"
       ]
     },
-    "representativeness_limit": "建築の三例です。曲面を技法の証拠とせず、大学と構造設計者の制作記録を根拠にしています。",
+    "representativeness_limit": "建物の屋根や外壁、椅子の構造について、寸法や角度などの条件が形にどう影響したかを制作資料と照らして読みます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "title_segments": [
       "パラメトリック",
@@ -32039,7 +32775,7 @@
         "画面の中に、ピアノの鍵盤や機械のつまみが現れます。本物で知っている形や使い方を、新しいものの理解に役立てる考え方です。ここでは、実物を思わせる画面表現を中心に紹介します。"
       ]
     },
-    "representativeness_limit": "音楽ソフト二例です。広い意味での物のデザインや、この概念の起源を代表しません。",
+    "representativeness_limit": "ミキサーのつまみ、アンプ、トランプ、ブラウン管など、現実の道具の形や操作を画面に取り込んだ例を集めました。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "title_segments": [
       "スキュー",
@@ -32416,7 +33152,7 @@
         "背景と似た色のボタンに、明るい影と暗い影をつけます。すると、同じ材料から少し浮き出たように見えます。ニューモーフィズムは、このような柔らかい凹凸を使う画面表現の呼び名です。"
       ]
     },
-    "representativeness_limit": "解説記事の二つの比較と、一つの実装ツールです。独立した歴史作品三点や、広く使われた製品三点としては数えません。",
+    "representativeness_limit": "柔らかな影と光で操作部分を浮かせたり、くぼませたりする四つの実装例を見比べます。",
     "representative_count_note": "3つの参照箇所です。うち2つは同じ記事の図で、独立した3作品ではありません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
@@ -34035,7 +34771,7 @@
         "ふくらんだ顔や、柔らかそうな丸い物が画面に現れます。3Dは奥行きのある形を扱う方法です。その中でも、粘土やおもちゃのような質感に見せる表現を、ここでは取り上げます。"
       ]
     },
-    "representativeness_limit": "二つの素材集と画面表現の解説です。粘土アニメや3DCG（スリーディー・シージー。コンピューターでつくる立体画像）の歴史全体を代表する選び方ではありません。",
+    "representativeness_limit": "VRで彫ったキャラクター、映像、アイコン、絵文字から、立体のやわらかさを伝える輪郭や陰影を見比べます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
