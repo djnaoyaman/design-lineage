@@ -148,7 +148,7 @@ for(const width of [320,390,1280]){
     const originalLink=page.locator('.reference-art .art-fullsize');assert((await originalLink.getAttribute('href')).endsWith('klinger-abduction-met-original.jpg'));
    }
    if(slug==='new-typography'){
-    assert.equal(entry.adopted_images.length,0);assert.equal(entry.representatives.length,6);assert.equal(entry.reference_images.length,1);
+    assert(entry.adopted_images.length>=4);assert.equal(await page.locator('#actual-works .collected-art:not(.reference-art)').count(),entry.adopted_images.length);assert.equal(entry.reference_images.length,1);
     const precedent=entry.reference_images[0],original=entries.find(e=>e.slug==='russian-constructivism').adopted_images.find(i=>i.id===precedent.id);
     for(const key of ['work_id','local_file','sha256','accession','license','license_url','source_page'])assert.equal(precedent[key],original[key]);
     assert.equal(await page.locator('.reference-art').count(),1);assert((await page.locator('.reference-art').textContent()).includes('関連する先行例'));
