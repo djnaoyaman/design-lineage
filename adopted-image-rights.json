@@ -14382,6 +14382,696 @@
           }
         ]
       }
+    },
+    {
+      "id": "swiss-four-sculptors",
+      "entry": "Swiss / International Typographic Style",
+      "title": "彫刻家4人展のポスター",
+      "title_original": "Aeschbacher, Bill, Müller, Linck – 4 Bildhauer, Kunsthalle Basel",
+      "author": "アーミン・ホフマン",
+      "year": "1959年",
+      "institution": "バーゼル・ポスターコレクション（同版の所蔵番号 CH-000957-X: 44215）",
+      "medium": "紙にオフセット印刷",
+      "source_page": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "license": "パブリックドメイン（文字による構成）",
+      "credit": "デザイン：Armin Hofmann。図版出典：チューリヒ造形美術館 eMuseum／Wikimedia Commons。個別の撮影者は記載なし。",
+      "alt": "赤いポスターに彫刻家4人の姓を黒い大文字と小文字で段々に並べ、右下寄りに小さな展覧会情報を置いている。",
+      "viewing_point": "いちばん長い姓「Aeschbacher」は、ハイフンで二行に分かれます。大きな文字をたどったあと、視線が下の小さな会場名と会期へ移る順番を見てください。",
+      "selection_criterion": "代表作",
+      "selection_reason": "チューリヒ造形美術館のグラフィック部門学芸員が、スイス政府の様式解説でホフマンの実例に選んだポスターです。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:1959_-_Kunsthalle_Basel_-_4_Bildhauer.jpg",
+      "license_url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "underlying_work_rights": "スイス連邦外務省の作品別クレジットとWikimedia Commonsのファイル別判定ではパブリックドメイン。対象は掲載する平面図版の文字・単純図形の構成。",
+      "reproduction_rights": "スイス連邦外務省が当該のWikimedia Commons図版をPublic Domainと表記。出典と作者を表示。",
+      "reuse_notice": "この判定は掲載した表紙・ポスター画像に限ります。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/1959_-_Kunsthalle_Basel_-_4_Bildhauer.jpg"
+      },
+      "local_file": "assets/swiss-style/four-sculptors.webp",
+      "width": 668,
+      "height": 950,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/four-sculptors-thumb.webp",
+            "width": 464,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "caa96ff8a7b29b4518d6fc605b41e08b0155f05b44ece50be1a9cee4c75a989b",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "いちばん長い姓「Aeschbacher」は、ハイフンで二行に分かれます。大きな文字をたどったあと、視線が下の小さな会場名と会期へ移る順番を見てください。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "チューリヒ造形美術館のグラフィック部門学芸員が、スイス政府の様式解説でホフマンの実例に選んだポスターです。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙にオフセット印刷 ／ バーゼル・ポスターコレクション（同版の所蔵番号 CH-000957-X: 44215）"
+      }
+    },
+    {
+      "id": "swiss-lenten-mission",
+      "entry": "Swiss / International Typographic Style",
+      "title": "ザンクト・ガレンの四旬節行事のポスター",
+      "title_original": "Volksmission für die Katholiken der Stadt St. Gallen – Fastenzeit 1960",
+      "author": "ロベルト・ガイサー",
+      "year": "1960年",
+      "institution": "スイス国立図書館 グラフィックコレクション（図版番号 06-BN_1960_0006）",
+      "medium": "紙に2色のスクリーン印刷",
+      "source_page": "https://doi.org/10.5169/seals-624307",
+      "license": "CC BY-SA 4.0",
+      "credit": "Robert Geisser／Graphische Sammlung der Schweizerischen Nationalbibliothek、Wikimedia Commons。個別の撮影者は記載なし。全体を縮小しWebPに変換。",
+      "alt": "黒地に先のとがった赤いしずく形が並び、下の細い白い文字がポスターの幅いっぱいに並ぶ。",
+      "viewing_point": "同じ赤い形を三つの縦の列に並べ、列の始まる高さをずらしています。下の細い文字のかたまりと、上の大きな色のリズムを見比べてみましょう。",
+      "selection_criterion": "高評価",
+      "selection_reason": "スイス連邦内務省の審査で1960年の優秀ポスターに選ばれ、当時の美術誌『Schweizer Kunst』の受賞一覧に掲載されています。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Geisser_Plakat_Fastenzeit.jpg",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "underlying_work_rights": "作品にCC BY-SA 4.0。権利者が許諾したことをWikimedia VRTの記録2016020110014486で確認。",
+      "reproduction_rights": "スイス国立図書館の図版をCC BY-SA 4.0で掲載。作者、出典、変換内容を表示。",
+      "reuse_notice": "表示用のWebP図版にもCC BY-SA 4.0を適用。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Geisser_Plakat_Fastenzeit.jpg"
+      },
+      "local_file": "assets/swiss-style/lenten-mission.webp",
+      "width": 889,
+      "height": 1250,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/lenten-mission-thumb.webp",
+            "width": 469,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "19ea54c5cae576431c2b448b709a0a9fbfa230a716177cfd59c385b634c95bc9",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "同じ赤い形を三つの縦の列に並べ、列の始まる高さをずらしています。下の細い文字のかたまりと、上の大きな色のリズムを見比べてみましょう。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "スイス連邦内務省の審査で1960年の優秀ポスターに選ばれ、当時の美術誌『Schweizer Kunst』の受賞一覧に掲載されています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙に2色のスクリーン印刷 ／ スイス国立図書館 グラフィックコレクション（図版番号 06-BN_1960_0006）"
+      }
+    },
+    {
+      "id": "swiss-carnival-ball",
+      "entry": "Swiss / International Typographic Style",
+      "title": "ザンクト・ガレンの仮装舞踏会ポスター",
+      "title_original": "Mohrenball 1969",
+      "author": "ロベルト・ガイサー",
+      "year": "1969年",
+      "institution": "スイス国立図書館 グラフィックコレクション（図版番号 02-SNL_FETE_314）",
+      "medium": "催事ポスター",
+      "source_page": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "license": "CC BY-SA 4.0",
+      "credit": "Robert Geisser／Graphische Sammlung der Schweizerischen Nationalbibliothek、Wikimedia Commons。個別の撮影者は記載なし。全体を縮小しWebPに変換。",
+      "alt": "赤い紙面に黒い足跡のような形がいくつも並ぶ。下に催し名、時刻、料金が二列で組まれている。",
+      "viewing_point": "上半分では、足の形がいろいろな方向を向いて踊っているように見えます。下の文字は二列の左端がそろい、踊りのにぎわいと催しの案内を一枚に収めています。",
+      "selection_criterion": "代表作",
+      "selection_reason": "スイス政府の様式解説で、チューリヒ造形美術館の学芸員が催事ポスターの作例に取り上げています。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Geisser_Plakat_Mohrenball_1969.jpg",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "underlying_work_rights": "作品にCC BY-SA 4.0。権利者が許諾したことをWikimedia VRTの記録2016020110014486で確認。",
+      "reproduction_rights": "スイス国立図書館の図版をCC BY-SA 4.0で掲載。作者、出典、変換内容を表示。",
+      "reuse_notice": "表示用のWebP図版にもCC BY-SA 4.0を適用。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Geisser_Plakat_Mohrenball_1969.jpg"
+      },
+      "local_file": "assets/swiss-style/carnival-ball.webp",
+      "width": 890,
+      "height": 1250,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/carnival-ball-thumb.webp",
+            "width": 470,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "69d3f25eb07faa630ed8d3df0c47c110e5862fdcb62b8c66e5c87d868a24f31a",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "上半分では、足の形がいろいろな方向を向いて踊っているように見えます。下の文字は二列の左端がそろい、踊りのにぎわいと催しの案内を一枚に収めています。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "スイス政府の様式解説で、チューリヒ造形美術館の学芸員が催事ポスターの作例に取り上げています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "催事ポスター ／ スイス国立図書館 グラフィックコレクション（図版番号 02-SNL_FETE_314）"
+      }
+    },
+    {
+      "id": "swiss-grid-systems",
+      "entry": "Swiss / International Typographic Style",
+      "title": "『グリッドシステム』の表紙",
+      "title_original": "Grid systems in graphic design / Raster systeme für die visuelle Gestaltung",
+      "author": "ヨゼフ・ミューラー＝ブロックマン",
+      "year": "1981年",
+      "institution": "京都工芸繊維大学附属図書館（1981年刊行版の所蔵館。掲載画像は別の冊子のスキャン）",
+      "medium": "書籍表紙",
+      "source_page": "https://niggli.ch/en/products/rastersysteme-fur-die-visuelle-gestaltung",
+      "license": "パブリックドメイン（文字と単純な罫線による表紙構成）",
+      "credit": "デザイン：Josef Müller-Brockmann。刊行：Verlag Arthur Niggli。図版：刊本表紙のスキャン／Wikimedia Commons。スキャン担当者は記載なし。",
+      "alt": "橙色の表紙に細い白い格子。英語とドイツ語の書名を黒い大きな字で上下に置き、下に小さい説明を配している。",
+      "viewing_point": "普段は印刷されない配置用の線が、ここでは白い格子として見えます。大小の文字がどの線から始まり、英語とドイツ語の書名がどう対応しているかを追ってみてください。",
+      "selection_criterion": "代表作",
+      "selection_reason": "著者がグリッドによる配置を図解した専門書で、連邦政府のスイス・スタイル解説にもこの表紙が載っています。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Raster-Systeme-Cover.jpg",
+      "license_url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "underlying_work_rights": "スイス連邦外務省の作品別クレジットとWikimedia Commonsのファイル別判定ではパブリックドメイン。対象は掲載する平面図版の文字・単純図形の構成。",
+      "reproduction_rights": "スイス連邦外務省が当該のWikimedia Commons図版をPublic Domainと表記。出典と作者を表示。",
+      "reuse_notice": "この判定は掲載した表紙・ポスター画像に限ります。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Raster-Systeme-Cover.jpg"
+      },
+      "local_file": "assets/swiss-style/grid-systems.webp",
+      "width": 902,
+      "height": 1250,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/grid-systems-thumb.webp",
+            "width": 476,
+            "height": 660
+          }
+        ]
+      },
+      "institution_source": "https://ci.nii.ac.jp/ncid/BA56203108",
+      "sha256": "00d55da0658ac3f36eeebdd227cc640cc1b15b31019fbb35c0f3ba1d68ba1211",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "普段は印刷されない配置用の線が、ここでは白い格子として見えます。大小の文字がどの線から始まり、英語とドイツ語の書名がどう対応しているかを追ってみてください。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "著者がグリッドによる配置を図解した専門書で、連邦政府のスイス・スタイル解説にもこの表紙が載っています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "書籍表紙 ／ 京都工芸繊維大学附属図書館（1981年刊行版の所蔵館。掲載画像は別の冊子のスキャン）"
+      }
+    },
+    {
+      "id": "china-woodcut-1933-he-cattle",
+      "title": "牛",
+      "title_original": "牛",
+      "author": "何白濤（He Baitao）",
+      "year": "1933年刊（制作は同年以前）",
+      "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+      "medium": "白黒木版画（1933年の選集に印刷された図版）",
+      "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=5",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+      "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+      "credit": "何白濤（He Baitao）／上海・現代雑誌社編『現代中國木刻選』第3図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+      "alt": "手前に黒い牛、奥に小さな牛が並ぶ。地面と空には横向きの白い線が走る。",
+      "viewing_point": "いちばん近い牛と、奥にいる牛の大きさを比べてみてください。牛の体の黒を大きく残し、地面には白い横線を刻むことで、草地の広さを表しています。",
+      "selection_criterion": "初期を代表する作例。葉霊鳳が上海の木刻家に作品を求め、新しい中国木刻を紹介するために選んだ8点のうち、3番目に掲載した農村風景です。",
+      "local_file": "assets/china-new-woodcut/he-cattle.webp",
+      "underlying_work_rights": "何白濤は1939年没。中国の当時の著作権法21条による死後50年は1989年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+      "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+      "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+      "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+      "artist_source": "https://www.namoc.cn/namoc/banh/201304/0634635fcfe547c68a00a91699a74ca4.shtml",
+      "selection_source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=2",
+      "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+      "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+      "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "width": 1400,
+      "height": 879,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/china-new-woodcut/he-cattle-small.webp",
+            "width": 480,
+            "height": 301
+          }
+        ]
+      },
+      "sha256": "6b0fbe4ebd055ce8993aed88822ed9d05642122f99a4764943bd3b2b5efabd2f",
+      "entry": "中国新興木刻運動",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "いちばん近い牛と、奥にいる牛の大きさを比べてみてください。牛の体の黒を大きく残し、地面には白い横線を刻むことで、草地の広さを表しています。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "初期を代表する作例。葉霊鳳が上海の木刻家に作品を求め、新しい中国木刻を紹介するために選んだ8点のうち、3番目に掲載した農村風景です。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+      }
+    },
+    {
+      "id": "china-woodcut-1933-xia-sweeper",
+      "title": "道を掃除する人たち",
+      "title_original": "清道夫",
+      "author": "夏朋（Xia Peng）",
+      "year": "1933年刊（制作は同年以前）",
+      "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+      "medium": "白黒木版画（1933年の選集に印刷された図版）",
+      "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=8",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+      "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+      "credit": "夏朋（Xia Peng）／上海・現代雑誌社編『現代中國木刻選』第6図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+      "alt": "帽子をかぶった二人が手押し車のわきに立つ。車輪と作業着の袖が白く浮く。",
+      "viewing_point": "人の袖から手押し車の車輪へ、白い線を目でたどってみてください。背景をほとんど黒く残しているので、働く二人の手元がよく見えます。",
+      "selection_criterion": "初期を代表する作例。1933年の選集の第6図。魯迅もこの作品を収集し、近代版画研究者の李允経が『魯迅蔵画欣賞』で取り上げました。",
+      "local_file": "assets/china-new-woodcut/xia-sweeper.webp",
+      "underlying_work_rights": "夏朋は1935年没。中国の当時の著作権法21条による死後50年は1985年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+      "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+      "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+      "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+      "artist_source": "https://www.caa.edu.cn/info/1333/3468.htm",
+      "selection_source": "https://msb.zjol.com.cn/html/2011-07/09/content_949251.htm?div=-1",
+      "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+      "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+      "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "width": 1203,
+      "height": 1400,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/china-new-woodcut/xia-sweeper-small.webp",
+            "width": 412,
+            "height": 480
+          }
+        ]
+      },
+      "sha256": "8b7a4e9becbb82098e0e3612fc9af09568b05c7b90e2a01605718ad089a1303f",
+      "entry": "中国新興木刻運動",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "人の袖から手押し車の車輪へ、白い線を目でたどってみてください。背景をほとんど黒く残しているので、働く二人の手元がよく見えます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "初期を代表する作例。1933年の選集の第6図。魯迅もこの作品を収集し、近代版画研究者の李允経が『魯迅蔵画欣賞』で取り上げました。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+      }
+    },
+    {
+      "id": "china-woodcut-1933-xia-market",
+      "title": "朝市",
+      "title_original": "早市",
+      "author": "夏朋（Xia Peng）",
+      "year": "1933年刊（制作は同年以前）",
+      "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+      "medium": "白黒木版画（1933年の選集に印刷された図版）",
+      "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=9",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+      "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+      "credit": "夏朋（Xia Peng）／上海・現代雑誌社編『現代中國木刻選』第7図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+      "alt": "人の顔と肩が折り重なる朝市。手前には、丸い品物を載せた大きなかごが見える。",
+      "viewing_point": "画面下のかごから奥へ視線を移すと、肩、帽子、顔が次々に重なります。市場の建物を広く描かなくても、人でいっぱいの朝の様子が伝わります。",
+      "selection_criterion": "初期を代表する作例。葉霊鳳が上海の木刻家から選んだ8点の第7図です。道の掃除、朝市、車内を描いた夏朋の3作が続き、街で暮らす人を題材にした初期の木刻を伝えます。",
+      "local_file": "assets/china-new-woodcut/xia-market.webp",
+      "underlying_work_rights": "夏朋は1935年没。中国の当時の著作権法21条による死後50年は1985年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+      "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+      "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+      "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+      "artist_source": "https://www.caa.edu.cn/info/1333/3468.htm",
+      "selection_source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=2",
+      "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+      "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+      "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "width": 1116,
+      "height": 1400,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/china-new-woodcut/xia-market-small.webp",
+            "width": 383,
+            "height": 480
+          }
+        ]
+      },
+      "sha256": "b7db9f92903111536a37503f52fb50950ba8587b4ec91d8aa6254b63d5a46a5b",
+      "entry": "中国新興木刻運動",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "画面下のかごから奥へ視線を移すと、肩、帽子、顔が次々に重なります。市場の建物を広く描かなくても、人でいっぱいの朝の様子が伝わります。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "初期を代表する作例。葉霊鳳が上海の木刻家から選んだ8点の第7図です。道の掃除、朝市、車内を描いた夏朋の3作が続き、街で暮らす人を題材にした初期の木刻を伝えます。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+      }
+    },
+    {
+      "id": "china-woodcut-1933-xia-carriage",
+      "title": "四等客車",
+      "title_original": "四等車箱",
+      "author": "夏朋（Xia Peng）",
+      "year": "1933年刊（制作は同年以前）",
+      "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+      "medium": "白黒木版画（1933年の選集に印刷された図版）",
+      "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=10",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+      "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+      "credit": "夏朋（Xia Peng）／上海・現代雑誌社編『現代中國木刻選』第8図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+      "alt": "客車に座る人たち。手前の二人の顔と手が大きく、後ろの席にも乗客が見える。",
+      "viewing_point": "手前の二人を見比べてください。帽子の傾き、目もと、丸く曲がった指が一人ずつ違います。奥の席にいる人を小さく重ねて、狭い車内に奥行きを出しています。",
+      "selection_criterion": "初期を代表する作例。選集の最後を飾る第8図で、当時の出版物がどのような街の場面を読者に届けようとしたかを示します。原題は図録の目次と図版下に従いました。",
+      "local_file": "assets/china-new-woodcut/xia-carriage.webp",
+      "underlying_work_rights": "夏朋は1935年没。中国の当時の著作権法21条による死後50年は1985年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+      "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+      "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+      "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+      "artist_source": "https://www.caa.edu.cn/info/1333/3468.htm",
+      "selection_source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=2",
+      "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+      "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+      "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+      "width": 1400,
+      "height": 1176,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/china-new-woodcut/xia-carriage-small.webp",
+            "width": 480,
+            "height": 403
+          }
+        ]
+      },
+      "sha256": "2672dc90f0ea4235f56dc1e4761a22af217d565defe5dea1058bf91d79c7798c",
+      "entry": "中国新興木刻運動",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "手前の二人を見比べてください。帽子の傾き、目もと、丸く曲がった指が一人ずつ違います。奥の席にいる人を小さく重ねて、狭い車内に奥行きを出しています。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "初期を代表する作例。選集の最後を飾る第8図で、当時の出版物がどのような街の場面を読者に届けようとしたかを示します。原題は図録の目次と図版下に従いました。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+      }
+    },
+    {
+      "id": "radical-design-pettena-chairs",
+      "title": "着る椅子",
+      "title_original": "Vestirsi di sedie / Wearable Chairs",
+      "author": "ジャンニ・ペッテナ",
+      "year": "1971",
+      "institution": "ポンピドゥー・センター（フランス国立造形芸術センター寄託）。カナダ建築センターにも制作資料を所蔵",
+      "medium": "合板製の折り畳み椅子を使ったパフォーマンスの記録写真",
+      "source_page": "https://commons.wikimedia.org/wiki/File:WEARABLE_CHAIRS.jpg",
+      "work_source_page": "https://www.cca.qc.ca/en/archives/503850/gianni-pettena-fonds/509516/works/509541/vestirsi-di-siede-wearable-chairs-1971",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "credit": "作品・掲載画像の著作者表示　Gianni Pettena / Wikimedia Commons（CC BY-SA 3.0）。WebPに変換・縮小。",
+      "photographer": "掲載元の著作者表示は Gianni Pettena",
+      "alt": "折り畳んだ椅子を背負った人たちが、ミネアポリスの街路を歩いている。",
+      "viewing_point": "背負った四角い板は、広げると椅子になります。椅子を街へ持ち出すことで、歩く場所を座れる場所にも変えています。",
+      "selection_criterion": "研究の蓄積がある作品。カナダ建築センターが制作資料を、ポンピドゥー・センターが椅子と関連資料を収蔵しています。",
+      "local_file": "assets/radical-design/pettena-chairs.webp",
+      "underlying_work_rights": "作品の作者ジャンニ・ペッテナが、作品を写した掲載画像を自作として CC BY-SA 3.0 で公開。",
+      "reproduction_rights": "Gianni Pettena / CC BY-SA 3.0。掲載元の原画像から WebP に変換・縮小。",
+      "reuse_notice": "再利用の際は Gianni Pettena の氏名、掲載元、CC BY-SA 3.0 の条件と変更の有無を表示してください。翻案した画像は同じ条件で配布してください。",
+      "width": 640,
+      "height": 823,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/radical-design/pettena-chairs-thumb.webp",
+            "width": 513,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "946e9e6a4c17a0131a11e9d45921676a195611dede6708765787de52a54cf956",
+      "entry": "Radical Design",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "背負った四角い板は、広げると椅子になります。椅子を街へ持ち出すことで、歩く場所を座れる場所にも変えています。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "研究の蓄積がある作品。カナダ建築センターが制作資料を、ポンピドゥー・センターが椅子と関連資料を収蔵しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "合板製の折り畳み椅子を使ったパフォーマンスの記録写真 ／ ポンピドゥー・センター（フランス国立造形芸術センター寄託）。カナダ建築センターにも制作資料を所蔵"
+      }
+    },
+    {
+      "id": "radical-design-pettena-ice",
+      "title": "アイス・ハウス I（計画を示す写真）",
+      "title_original": "Ice House I",
+      "author": "ジャンニ・ペッテナ",
+      "year": "1971",
+      "institution": "カナダ建築センター、ジャンニ・ペッテナ文書群（同計画の写真を所蔵）",
+      "medium": "氷で家を包む計画を示す写真",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gianni_Pettena_-_Ice_House_I-_Minneapolis_1971.jpg",
+      "work_source_page": "https://www.cca.qc.ca/en/search/details/collection/object/509543",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "credit": "作品・掲載画像の著作者表示　Gianni Pettena / Wikimedia Commons（CC BY-SA 3.0）。WebPに変換・縮小。",
+      "photographer": "掲載元の著作者表示は Gianni Pettena",
+      "alt": "氷の層で屋根や外壁が白く覆われた建物が、青空の下にある。",
+      "viewing_point": "屋根の縁から壁を伝って垂れる氷を見ると、家の角や窓の形が隠れていきます。これは構想を伝える写真で、実物大での施工は確認されていません。",
+      "selection_criterion": "研究の蓄積がある作品。カナダ建築センターに計画図、写真、ネガが残ります。",
+      "local_file": "assets/radical-design/pettena-ice.webp",
+      "underlying_work_rights": "作品の作者ジャンニ・ペッテナが、作品を写した掲載画像を自作として CC BY-SA 3.0 で公開。",
+      "reproduction_rights": "Gianni Pettena / CC BY-SA 3.0。掲載元の原画像から WebP に変換・縮小。",
+      "reuse_notice": "再利用の際は Gianni Pettena の氏名、掲載元、CC BY-SA 3.0 の条件と変更の有無を表示してください。翻案した画像は同じ条件で配布してください。",
+      "width": 1250,
+      "height": 1062,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/radical-design/pettena-ice-thumb.webp",
+            "width": 660,
+            "height": 561
+          }
+        ]
+      },
+      "sha256": "cb6e00b4613b7591ff6f14948ac29812b0c37cc0041da88b1ba3ca5f045b6077",
+      "entry": "Radical Design",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "屋根の縁から壁を伝って垂れる氷を見ると、家の角や窓の形が隠れていきます。これは構想を伝える写真で、実物大での施工は確認されていません。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "研究の蓄積がある作品。カナダ建築センターに計画図、写真、ネガが残ります。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "氷で家を包む計画を示す写真 ／ カナダ建築センター、ジャンニ・ペッテナ文書群（同計画の写真を所蔵）"
+      }
+    },
+    {
+      "id": "radical-design-pettena-tumble",
+      "title": "タンブルウィード・キャッチャー",
+      "title_original": "Tumbleweeds Catcher",
+      "author": "ジャンニ・ペッテナ",
+      "year": "1972",
+      "institution": "カナダ建築センター、ジャンニ・ペッテナ文書群（図面と記録写真を所蔵）",
+      "medium": "転がる枯れ草を受け止める塔の記録写真",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tumbleweeds_Catcher_-_Salt_Lake_City_-_USA_1972-01.jpg",
+      "work_source_page": "https://www.cca.qc.ca/en/search/details/collection/object/509548",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "credit": "作品・掲載画像の著作者表示　Gianni Pettena / Wikimedia Commons（CC BY-SA 3.0）。WebPに変換・縮小。",
+      "photographer": "掲載元の著作者表示は Gianni Pettena",
+      "alt": "住宅の並ぶ土地に、立方体を積み重ねたような背の高い網の塔が立っている。",
+      "viewing_point": "風に押されて転がってきた枯れ草を、塔の網が受け止めます。初めは向こうが透けて見える塔が、集まる草の量で姿を変えます。",
+      "selection_criterion": "研究の蓄積がある作品。カナダ建築センターが図面と写真をまとめて所蔵しています。",
+      "local_file": "assets/radical-design/pettena-tumble.webp",
+      "underlying_work_rights": "作品の作者ジャンニ・ペッテナが、作品を写した掲載画像を自作として CC BY-SA 3.0 で公開。",
+      "reproduction_rights": "Gianni Pettena / CC BY-SA 3.0。掲載元の原画像から WebP に変換・縮小。",
+      "reuse_notice": "再利用の際は Gianni Pettena の氏名、掲載元、CC BY-SA 3.0 の条件と変更の有無を表示してください。翻案した画像は同じ条件で配布してください。",
+      "width": 1250,
+      "height": 1237,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/radical-design/pettena-tumble-thumb.webp",
+            "width": 660,
+            "height": 653
+          }
+        ]
+      },
+      "sha256": "b71ecb7868155dbb28ca2df491c03aafbe51ac2429ebee80d586bce9a2b34124",
+      "entry": "Radical Design",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "風に押されて転がってきた枯れ草を、塔の網が受け止めます。初めは向こうが透けて見える塔が、集まる草の量で姿を変えます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "研究の蓄積がある作品。カナダ建築センターが図面と写真をまとめて所蔵しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "転がる枯れ草を受け止める塔の記録写真 ／ カナダ建築センター、ジャンニ・ペッテナ文書群（図面と記録写真を所蔵）"
+      }
+    },
+    {
+      "id": "polish-poster-school-trepkowski-nie-1952",
+      "title": "ノー！",
+      "title_original": "Nie!",
+      "author": "タデウシュ・トレプコフスキ",
+      "year": "1952",
+      "institution": "図版はニューヨーク州立大学バッファロー校図書館のポーランド・コレクション（LIB-009-03）。ニューヨーク近代美術館にも同じデザインのポスターを所蔵（626.1990）。",
+      "medium": "石版印刷のポスター。掲載図版は1978年のポスター集をデジタル化したもの。",
+      "source_page": "https://digital.lib.buffalo.edu/api/items/438",
+      "work_source_page": "https://www.moma.org/collection/works/7792",
+      "source_url": "https://digital.lib.buffalo.edu/files/original/b6817774b66d721d20870ba92a1f0459.jpg",
+      "license": "No Copyright – United States（米国についての所蔵館表示）",
+      "license_url": "https://rightsstatements.org/page/NoC-US/1.0/",
+      "credit": "原作 タデウシュ・トレプコフスキ。図版提供 University at Buffalo Libraries, Polish Collection（LIB-009-03）。デジタル化担当者の個人名は記載なし。",
+      "alt": "青い地に斜めに落ちる黒い爆弾。その輪郭の内側に赤茶色の壊れた建物が見え、右下に白く「NIE!」と書かれている。",
+      "viewing_point": "青い空を横切る黒い形は、遠目には爆弾に見えます。その中をのぞくと、窓だけが残った建物が見えます。右下の「NIE!」（ノー！）という一言が、二つの形をどう結びつけているでしょう。",
+      "selection_criterion": "研究の蓄積がある作品。ニューヨーク近代美術館は第二次世界大戦による都市の破壊をこのポスターがどう一つの像に凝縮したかを解説し、ワルシャワのポスター美術館もコレクションの音声ガイドに選んでいる。",
+      "local_file": "assets/polish-poster-school/nie-1952.webp",
+      "underlying_work_rights": "単独作者トレプコフスキは1954年没。ポーランド著作権法36条による原則の死後70年は2024年末に満了。米国についてはバッファロー校の当該資料の権利表示を確認。",
+      "reproduction_rights": "バッファロー校が公開する個別画像記録438にNo Copyright – United Statesを表示。図版は同校のデジタル資料から取得し、縮小とWebP変換のみを行った。",
+      "reuse_notice": "資料提供元の米国向け権利表示と原作の権利を個別に確認。他国・地域での利用条件は利用先に応じて確認してください。",
+      "width": 1201,
+      "height": 1800,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/polish-poster-school/nie-1952-thumb.webp",
+            "width": 434,
+            "height": 650
+          }
+        ]
+      },
+      "sha256": "be314e426a953e2d32842256cd2f1333a5ef5dc1e28d7fb8a7162010d369a921",
+      "entry": "Polish Poster School",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "青い空を横切る黒い形は、遠目には爆弾に見えます。その中をのぞくと、窓だけが残った建物が見えます。右下の「NIE!」（ノー！）という一言が、二つの形をどう結びつけているでしょう。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "研究の蓄積がある作品。ニューヨーク近代美術館は第二次世界大戦による都市の破壊をこのポスターがどう一つの像に凝縮したかを解説し、ワルシャワのポスター美術館もコレクションの音声ガイドに選んでいる。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "石版印刷のポスター。掲載図版は1978年のポスター集をデジタル化したもの。 ／ 図版はニューヨーク州立大学バッファロー校図書館のポーランド・コレクション（LIB-009-03）。ニューヨーク近代美術館にも同じデザインのポスターを所蔵（626.1990）。"
+      },
+      "original_image": {
+        "url": "https://digital.lib.buffalo.edu/files/original/b6817774b66d721d20870ba92a1f0459.jpg"
+      }
+    },
+    {
+      "id": "bmc-studies-building-kocher-highsmith",
+      "title": "ブラック・マウンテン・カレッジの学習棟",
+      "title_original": "Studies Building, Black Mountain College",
+      "author": "設計 A・ローレンス・コッハー（A. Lawrence Kocher）、施工に教員・学生が参加",
+      "year": "1940–1941年",
+      "institution": "建物の所在地は米国ノースカロライナ州レイク・イーデン。写真は米国議会図書館版画・写真部門所蔵（LC-DIG-highsm-43402）。",
+      "medium": "建築（外観の記録写真）",
+      "source_page": "https://www.loc.gov/pictures/collection/highsm/item/2017880306/",
+      "work_source_page": "https://files.nc.gov/historic-preservation/nr/BN0137.pdf",
+      "license": "写真はパブリックドメイン（米国議会図書館）。",
+      "license_url": "https://www.loc.gov/item/00650024/",
+      "credit": "撮影 Carol M. Highsmith、2017年6月3日。Photographs in Carol M. Highsmith’s America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division, LC-DIG-highsm-43402.",
+      "alt": "木立に囲まれた横長の学習棟。外壁を水平に走る窓の列と、右端で建物を下から支える柱が見える。",
+      "viewing_point": "横に連なる窓と、斜面に沿って足元が開いたところを見てみましょう。教員と学生が手を動かして建てる計画で、設計した四つの棟のうち一棟が実現しました。写真は完成から約76年後の姿です。",
+      "selection_criterion": "同校の共同制作を伝える代表的な建築。州がまとめた歴史地区の登録資料で、学校時代に建てられた主要な建物として設計と建設の経緯が記録されています。",
+      "local_file": "assets/black-mountain-college/kocher-studies-building-highsmith.webp",
+      "underlying_work_rights": "1941年完成の米国の建物の外観。米国著作権局は、1990年12月1日より前に建設された建物の設計は建築著作物の保護対象外と説明しています。設計図を転載したものではありません。",
+      "reproduction_rights": "米国議会図書館の個別記録は『公表に際し既知の制限なし』、同館のハイスミス・アーカイブ記録は写真をパブリックドメインとしています。",
+      "reuse_notice": "元写真は米国議会図書館 LC-DIG-highsm-43402。ここには、公園史の教育冊子に同じ資料番号で掲載された写真を使用しました。",
+      "image_source": "https://americasnationalparks.org/wp-content/uploads/2020/03/19thAmendment_FinalBook.pdf#page=99",
+      "architecture_rights_source": "https://www.copyright.gov/register/va-arch-con.html",
+      "width": 750,
+      "height": 384,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/black-mountain-college/kocher-studies-building-highsmith-thumb.webp",
+            "width": 480,
+            "height": 246
+          }
+        ]
+      },
+      "sha256": "c9934e292c260c4bc14121f24f07bad6debf666141600834e52488a66e271ad0",
+      "entry": "Black Mountain College",
+      "checked_at": "2026-11-22T15:11:02+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "横に連なる窓と、斜面に沿って足元が開いたところを見てみましょう。教員と学生が手を動かして建てる計画で、設計した四つの棟のうち一棟が実現しました。写真は完成から約76年後の姿です。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "同校の共同制作を伝える代表的な建築。州がまとめた歴史地区の登録資料で、学校時代に建てられた主要な建物として設計と建設の経緯が記録されています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "建築（外観の記録写真） ／ 建物の所在地は米国ノースカロライナ州レイク・イーデン。写真は米国議会図書館版画・写真部門所蔵（LC-DIG-highsm-43402）。"
+      },
+      "original_image": {
+        "url": "https://americasnationalparks.org/wp-content/uploads/2020/03/19thAmendment_FinalBook.pdf#page=99"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

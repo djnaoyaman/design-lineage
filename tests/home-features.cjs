@@ -40,8 +40,23 @@ await edition.locator('.edition-pair img').evaluateAll(images => Promise.all(ima
 assert.match(await edition.locator('.edition-pair figure').first().innerText(),/ロココ/);
 assert.equal(await highlight.isVisible(),false);
 await edition.locator('#select-b').selectOption('swiss-style');
+assert.equal(await edition.locator('.edition-pair img').count(),2);
+await edition.locator('.edition-pair figure').nth(1).locator('img').evaluate(image => image.decode());
+
+// Exercise the text fallback independently of which articles have since gained plates.
+await edition.route('**/entries.json', async route => {
+  const response = await route.fetch();
+  const entries = await response.json();
+  const swiss = entries.find(entry => entry.slug === 'swiss-style');
+  swiss.adopted_images = [];
+  swiss.reference_images = [];
+  await route.fulfill({response, json: entries});
+});
+await edition.goto('http://127.0.0.1:8793/compare.html?a=rococo&b=swiss-style');
+await edition.locator('.edition-pair .compare-text-example').waitFor();
 assert.equal(await edition.locator('.edition-pair img').count(),1);
 assert.match(await edition.locator('.edition-pair figure').nth(1).innerText(),/本文に登場する作品/);
+await edition.unroute('**/entries.json');
 await edition.goto('http://127.0.0.1:8793/entries/rococo.html');
 await edition.locator('.chapter-reading-link').click();
 await edition.waitForFunction(() => document.querySelector('#select-b')?.value === 'art-deco');
@@ -52,7 +67,7 @@ for (const width of [390, 1280]) {
   const page = await browser.newPage({viewport:{width,height:900}});
   await page.goto('http://127.0.0.1:8793/index.html#selected-works');
   await page.locator('.showcase[data-mode="text"][data-scroll-ready]').waitFor();
-  assert.equal(await page.locator('.showcase-work').count(),74);
+  assert.equal(await page.locator('.showcase-work').count(),79);
   const stage = page.locator('.scroll-gallery-stage');
   const rows = page.locator('.showcase-card');
   const titles = [];
