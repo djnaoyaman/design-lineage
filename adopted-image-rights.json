@@ -8529,6 +8529,1074 @@
           }
         ]
       }
+    },
+    {
+      "id": "isotype-47",
+      "entry": "Isotype",
+      "title": "1870年以降の石炭・石油生産の推移",
+      "title_original": "Entwicklung der Kohle- und Erdölproduktion seit 1870",
+      "year": "1930年",
+      "author": "オットー・ノイラート／ウィーン社会経済博物館",
+      "institution": "ウィーン市立図書館",
+      "medium": "",
+      "source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/pageview/2295990",
+      "work_source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/2295773",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Wienbibliothek im Rathaus（ウィーン市立図書館）, d-258740. 『Gesellschaft und Wirtschaft』図版47。",
+      "local_file": "assets/isotype/isotype-47.webp",
+      "width": 1600,
+      "height": 1078,
+      "alt": "石炭は交差する工具、石油は樽で示しています。年代ごとに一列を使い、同じ記号をいくつ並べたかで、生産量の増加を目で追えます。",
+      "viewing_point": "石炭は交差する工具、石油は樽で示しています。年代ごとに一列を使い、同じ記号をいくつ並べたかで、生産量の増加を目で追えます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "石炭は交差する工具、石油は樽で示しています。年代ごとに一列を使い、同じ記号をいくつ並べたかで、生産量の増加を目で追えます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "fa3a76008a278d11714787c992b2dab6c82642eaeedca55dc7b4060fe7ad5eff",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/isotype/isotype-47-660.webp",
+            "width": 660,
+            "height": 445
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://www.digital.wienbibliothek.at/download/pdf/2295990.pdf"
+      }
+    },
+    {
+      "id": "isotype-57",
+      "entry": "Isotype",
+      "title": "鉄道の発達",
+      "title_original": "Entwicklung der Eisenbahnen",
+      "year": "1930年",
+      "author": "オットー・ノイラート／ウィーン社会経済博物館",
+      "institution": "ウィーン市立図書館",
+      "medium": "",
+      "source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/pageview/2296001",
+      "work_source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/2295773",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Wienbibliothek im Rathaus（ウィーン市立図書館）, d-258740. 『Gesellschaft und Wirtschaft』図版57。",
+      "local_file": "assets/isotype/isotype-57.webp",
+      "width": 1600,
+      "height": 1078,
+      "alt": "左には1825年から1926年までの機関車、右には同じ長さの線路記号が並びます。機関車の姿の変化と、世界に延びた線路の総延長を一枚で見せています。",
+      "viewing_point": "左には1825年から1926年までの機関車、右には同じ長さの線路記号が並びます。機関車の姿の変化と、世界に延びた線路の総延長を一枚で見せています。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "左には1825年から1926年までの機関車、右には同じ長さの線路記号が並びます。機関車の姿の変化と、世界に延びた線路の総延長を一枚で見せています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "4112e7e2351baef1cbb9cb4c0c34adf14a223780f5b24374787c5fab2015c7b4",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/isotype/isotype-57-660.webp",
+            "width": 660,
+            "height": 445
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://www.digital.wienbibliothek.at/download/pdf/2296001.pdf"
+      }
+    },
+    {
+      "id": "isotype-81",
+      "entry": "Isotype",
+      "title": "ウィーンの社会階層",
+      "title_original": "Gesellschaftsgliederung in Wien",
+      "year": "1930年",
+      "author": "オットー・ノイラート／ウィーン社会経済博物館",
+      "institution": "ウィーン市立図書館",
+      "medium": "",
+      "source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/pageview/2296028",
+      "work_source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/2295773",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Wienbibliothek im Rathaus（ウィーン市立図書館）, d-258740. 『Gesellschaft und Wirtschaft』図版81。",
+      "local_file": "assets/isotype/isotype-81.webp",
+      "width": 1078,
+      "height": 1600,
+      "alt": "1700年ごろの住民を左に、刊行当時の住民を右に並べました。服と色で集団を見分けられます。下の凡例を見ると、左の人型一体は2,500人、右の灰色の影が付いた人型一体は25,000人を表します。",
+      "viewing_point": "1700年ごろの住民を左に、刊行当時の住民を右に並べました。服と色で集団を見分けられます。下の凡例を見ると、左の人型一体は2,500人、右の灰色の影が付いた人型一体は25,000人を表します。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "1700年ごろの住民を左に、刊行当時の住民を右に並べました。服と色で集団を見分けられます。下の凡例を見ると、左の人型一体は2,500人、右の灰色の影が付いた人型一体は25,000人を表します。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "672f6049cd35761a91bbb2abd34caf01e40cd3cd29403fb80bb343d56a430081",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/isotype/isotype-81-660.webp",
+            "width": 445,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://www.digital.wienbibliothek.at/download/pdf/2296028.pdf"
+      }
+    },
+    {
+      "id": "isotype-92",
+      "entry": "Isotype",
+      "title": "乳児死亡率と所得",
+      "title_original": "Säuglingsterblichkeit und Einkommen",
+      "year": "1930年",
+      "author": "オットー・ノイラート／ウィーン社会経済博物館",
+      "institution": "ウィーン市立図書館",
+      "medium": "",
+      "source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/pageview/2296040",
+      "work_source_page": "https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/2295773",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Wienbibliothek im Rathaus（ウィーン市立図書館）, d-258740. 『Gesellschaft und Wirtschaft』図版92。",
+      "local_file": "assets/isotype/isotype-92.webp",
+      "width": 1600,
+      "height": 1078,
+      "alt": "赤ちゃんと棺の記号で乳児死亡率を左側に示し、所得を表す黒い丸を右側に置いています。一行が一つの国や地域で、二つの統計を同じ行で読み比べられます。",
+      "viewing_point": "赤ちゃんと棺の記号で乳児死亡率を左側に示し、所得を表す黒い丸を右側に置いています。一行が一つの国や地域で、二つの統計を同じ行で読み比べられます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "赤ちゃんと棺の記号で乳児死亡率を左側に示し、所得を表す黒い丸を右側に置いています。一行が一つの国や地域で、二つの統計を同じ行で読み比べられます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "639513c02b912ad54d9b3fd42201e42ca399626deb671228a3ca5c296c872560",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/isotype/isotype-92-660.webp",
+            "width": 660,
+            "height": 445
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://www.digital.wienbibliothek.at/download/pdf/2296040.pdf"
+      }
+    },
+    {
+      "id": "vf-inter",
+      "entry": "Variable-font expression",
+      "title": "Inter（インター）",
+      "title_original": "Inter",
+      "year": "2017年初公開（標本は現行版）",
+      "author": "ラスムス・アンダーソン",
+      "institution": "制作者公開の書体データによる組版",
+      "medium": "可変フォントの字形標本",
+      "source_page": "https://rsms.me/inter/",
+      "work_source_page": "https://github.com/google/fonts/tree/main/ofl/inter",
+      "license": "SIL Open Font License 1.1（書体データ）。掲載図は当サイトで組んだ標本。",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/inter/OFL.txt",
+      "credit": "ラスムス・アンダーソン（書体）／DESIGN LINEAGE（組版・標本制作）",
+      "local_file": "assets/variable-font-expression/vf-inter.webp",
+      "width": 900,
+      "height": 860,
+      "alt": "Inter で同じ単語を4段に組んだ書体標本。上段から下段に向かって wght 軸の値を変えた。",
+      "viewing_point": "同じ文字組みで、線の太さを段階的に変えました。線が厚くなるにつれ、e の内側に残る余白が小さくなります。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "同じ文字組みで、線の太さを段階的に変えました。線が厚くなるにつれ、e の内側に残る余白が小さくなります。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "ad52eecff6f79fd720a99de53848ff8585c043cfdef1ccd412d9f04fe2c0221c",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/variable-font-expression/vf-inter-660.webp",
+            "width": 660,
+            "height": 631
+          }
+        ]
+      }
+    },
+    {
+      "id": "vf-recursive",
+      "entry": "Variable-font expression",
+      "title": "Recursive Sans & Mono（リカーシブ）",
+      "title_original": "Recursive Sans & Mono",
+      "year": "2018年の研究から開発",
+      "author": "スティーブン・ニクソン／Arrow Type",
+      "institution": "制作者公開の書体データによる組版",
+      "medium": "可変フォントの字形標本",
+      "source_page": "https://www.recursive.design/",
+      "work_source_page": "https://github.com/google/fonts/tree/main/ofl/recursive",
+      "license": "SIL Open Font License 1.1（書体データ）。掲載図は当サイトで組んだ標本。",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/recursive/OFL.txt",
+      "credit": "スティーブン・ニクソン／Arrow Type（書体）／DESIGN LINEAGE（組版・標本制作）",
+      "local_file": "assets/variable-font-expression/vf-recursive.webp",
+      "width": 900,
+      "height": 860,
+      "alt": "Recursive Sans & Mono で同じ単語を4段に組んだ書体標本。上段から下段に向かって CASL 軸の値を変えた。",
+      "viewing_point": "同じ字を、直線に近い端から、筆で書いたように丸く曲がる端まで並べました。C、a、s の角に表情が出ます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "同じ字を、直線に近い端から、筆で書いたように丸く曲がる端まで並べました。C、a、s の角に表情が出ます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "fce0750a98796acab3de8f7d7c4fad054166d83efea25e53bd87326ab1f96664",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/variable-font-expression/vf-recursive-660.webp",
+            "width": 660,
+            "height": 631
+          }
+        ]
+      }
+    },
+    {
+      "id": "vf-fraunces",
+      "entry": "Variable-font expression",
+      "title": "Fraunces（フラウンセス）",
+      "title_original": "Fraunces",
+      "year": "2020年公開",
+      "author": "フェドリコ・パーラ、フラビア・ジンバルディ／Undercase Type",
+      "institution": "制作者公開の書体データによる組版",
+      "medium": "可変フォントの字形標本",
+      "source_page": "https://fraunces.undercase.xyz/",
+      "work_source_page": "https://github.com/google/fonts/tree/main/ofl/fraunces",
+      "license": "SIL Open Font License 1.1（書体データ）。掲載図は当サイトで組んだ標本。",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/fraunces/OFL.txt",
+      "credit": "フェドリコ・パーラ、フラビア・ジンバルディ／Undercase Type（書体）／DESIGN LINEAGE（組版・標本制作）",
+      "local_file": "assets/variable-font-expression/vf-fraunces.webp",
+      "width": 900,
+      "height": 860,
+      "alt": "Fraunces で同じ単語を4段に組んだ書体標本。上段から下段に向かって SOFT 軸の値を変えた。",
+      "viewing_point": "線の太さは一定のまま、角のやわらかさを変えました。上段と下段で、ふくらんだ線が文字の先端にどうつながるかを見てください。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "線の太さは一定のまま、角のやわらかさを変えました。上段と下段で、ふくらんだ線が文字の先端にどうつながるかを見てください。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "00b506620ff8c9661d1143bd3805c3f5728df0ff259f8b9d9c2ebb33fab86156",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/variable-font-expression/vf-fraunces-660.webp",
+            "width": 660,
+            "height": 631
+          }
+        ]
+      }
+    },
+    {
+      "id": "vf-robotoflex",
+      "entry": "Variable-font expression",
+      "title": "Roboto Flex（ロボト・フレックス）",
+      "title_original": "Roboto Flex",
+      "year": "2022年公開",
+      "author": "フォント・ビューローほか／Google Fonts",
+      "institution": "制作者公開の書体データによる組版",
+      "medium": "可変フォントの字形標本",
+      "source_page": "https://github.com/googlefonts/roboto-flex",
+      "work_source_page": "https://github.com/google/fonts/tree/main/ofl/robotoflex",
+      "license": "SIL Open Font License 1.1（書体データ）。掲載図は当サイトで組んだ標本。",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/robotoflex/OFL.txt",
+      "credit": "フォント・ビューローほか／Google Fonts（書体）／DESIGN LINEAGE（組版・標本制作）",
+      "local_file": "assets/variable-font-expression/vf-robotoflex.webp",
+      "width": 900,
+      "height": 860,
+      "alt": "Roboto Flex で同じ単語を4段に組んだ書体標本。上段から下段に向かって wdth 軸の値を変えた。",
+      "viewing_point": "行ごとに変えたのは字幅だけです。文字が細長く詰まるときも、ゆったり横に広がるときも、縦の線の太さを比べてください。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "行ごとに変えたのは字幅だけです。文字が細長く詰まるときも、ゆったり横に広がるときも、縦の線の太さを比べてください。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:33:00+09:00",
+      "sha256": "96661218b35a8cd03698e525be59a16355d6320045be34d52ea0802ef8fdd10b",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/variable-font-expression/vf-robotoflex-660.webp",
+            "width": 660,
+            "height": 631
+          }
+        ]
+      }
+    },
+    {
+      "id": "priestley",
+      "entry": "Information visualization",
+      "title": "国々の盛衰を並べた世界史年表",
+      "title_original": "A New Chart of History",
+      "year": "1769年",
+      "author": "ジョゼフ・プリーストリー",
+      "institution": "デイヴィッド・ラムゼイ歴史地図コレクション",
+      "medium": "年表",
+      "source_page": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~254828~5519513",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:A_New_Chart_of_History.jpg",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:A_New_Chart_of_History.jpg",
+      "credit": "ジョゼフ・プリーストリー／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/information-visualization/priestley.webp",
+      "width": 1280,
+      "height": 827,
+      "alt": "時間を横軸にそろえ、各地でどの政治勢力が続いたかを帯の長さで示しています。ある年代を縦にたどると、遠く離れた地域で同時に起きていたことが見えてきます。",
+      "viewing_point": "時間を横軸にそろえ、各地でどの政治勢力が続いたかを帯の長さで示しています。ある年代を縦にたどると、遠く離れた地域で同時に起きていたことが見えてきます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "時間を横軸にそろえ、各地でどの政治勢力が続いたかを帯の長さで示しています。ある年代を縦にたどると、遠く離れた地域で同時に起きていたことが見えてきます。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "683b285b24ad3aceddddd50e7216e2da64bc8969f3b17aa94713f0e18fe24813",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/information-visualization/priestley-660.webp",
+            "width": 660,
+            "height": 426
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/A_New_Chart_of_History.jpg/1280px-A_New_Chart_of_History.jpg"
+      }
+    },
+    {
+      "id": "playfair-scotland",
+      "entry": "Information visualization",
+      "title": "スコットランドの輸出入を比べる棒グラフ",
+      "title_original": "Exports and Imports of Scotland to and from different parts for one Year from Christmas 1780 to Christmas 1781",
+      "year": "1786年",
+      "author": "ウィリアム・プレイフェア",
+      "institution": "『商業・政治地図帳』",
+      "medium": "統計図表",
+      "source_page": "https://www.cl.cam.ac.uk/teaching/2021/InteractML/IWML-Lectures-3-and-5.pdf",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg",
+      "credit": "ウィリアム・プレイフェア／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/information-visualization/playfair-scotland.webp",
+      "width": 1280,
+      "height": 859,
+      "alt": "取引相手ごとに、スコットランドが輸出した額と輸入した額を横の棒にしました。上下に並ぶ棒の先端を見比べるだけで、どちらが多いか分かります。",
+      "viewing_point": "取引相手ごとに、スコットランドが輸出した額と輸入した額を横の棒にしました。上下に並ぶ棒の先端を見比べるだけで、どちらが多いか分かります。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "取引相手ごとに、スコットランドが輸出した額と輸入した額を横の棒にしました。上下に並ぶ棒の先端を見比べるだけで、どちらが多いか分かります。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "93f62f7d45fc1a36592ff7d94e2693eb7aaafcdd87580a96b15fab6b925367cc",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/information-visualization/playfair-scotland-660.webp",
+            "width": 660,
+            "height": 443
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg/1280px-1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg"
+      }
+    },
+    {
+      "id": "snow",
+      "entry": "Information visualization",
+      "title": "ロンドン・ソーホーのコレラ死亡地図",
+      "title_original": "Map 1, On the Mode of Communication of Cholera, 2nd ed.",
+      "year": "1855年刊（1854年の流行）",
+      "author": "ジョン・スノウ",
+      "institution": "UCLA ジョン・スノウ・アーカイブ",
+      "medium": "疫学地図",
+      "source_page": "https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_a.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg",
+      "credit": "ジョン・スノウ／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/information-visualization/snow.webp",
+      "width": 1280,
+      "height": 1201,
+      "alt": "道路沿いの短い黒線は、亡くなった人がいた家を示します。ブロード・ストリートの井戸の周辺で黒線が何層にも重なり、給水地点を調べる手掛かりになりました。",
+      "viewing_point": "道路沿いの短い黒線は、亡くなった人がいた家を示します。ブロード・ストリートの井戸の周辺で黒線が何層にも重なり、給水地点を調べる手掛かりになりました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "道路沿いの短い黒線は、亡くなった人がいた家を示します。ブロード・ストリートの井戸の周辺で黒線が何層にも重なり、給水地点を調べる手掛かりになりました。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "934818beff79440341146b76eb4a598a4cf5951c1e801f291853e0a6612e4904",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/information-visualization/snow-660.webp",
+            "width": 660,
+            "height": 619
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/1280px-Snow-cholera-map-1.jpg"
+      }
+    },
+    {
+      "id": "nightingale",
+      "entry": "Information visualization",
+      "title": "東方派遣軍の死因を示す図",
+      "title_original": "Diagram of the Causes of Mortality in the Army in the East",
+      "year": "1858年",
+      "author": "フローレンス・ナイチンゲール",
+      "institution": "米国国立医学図書館",
+      "medium": "統計図表",
+      "source_page": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101598842",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg",
+      "credit": "フローレンス・ナイチンゲール／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/information-visualization/nightingale.webp",
+      "width": 1280,
+      "height": 700,
+      "alt": "ひと月をひとつの扇形とし、死因ごとの死亡の大きさを面積で示しました。病気を表す青い部分を隣り合う二つの年で追うと、変化の幅が目に入ります。",
+      "viewing_point": "ひと月をひとつの扇形とし、死因ごとの死亡の大きさを面積で示しました。病気を表す青い部分を隣り合う二つの年で追うと、変化の幅が目に入ります。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "ひと月をひとつの扇形とし、死因ごとの死亡の大きさを面積で示しました。病気を表す青い部分を隣り合う二つの年で追うと、変化の幅が目に入ります。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "925602141a15e2543c9ba3fa02a0bf9203001ba9f73204c30107db9599b4166d",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/information-visualization/nightingale-660.webp",
+            "width": 660,
+            "height": 361
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Nightingale-mortality.jpg/1280px-Nightingale-mortality.jpg"
+      }
+    },
+    {
+      "id": "minard",
+      "entry": "Information visualization",
+      "title": "ナポレオンのロシア遠征で減っていく兵力",
+      "title_original": "Carte figurative des pertes successives en hommes de l’armée française dans la campagne de Russie 1812–1813",
+      "year": "1869年",
+      "author": "シャルル・ジョゼフ・ミナール",
+      "institution": "コーネル大学",
+      "medium": "流量地図・統計図表",
+      "source_page": "https://info5940.infosci.cornell.edu/notes/dataviz/minard/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Minard.png",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Minard.png",
+      "credit": "シャルル・ジョゼフ・ミナール／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/information-visualization/minard.webp",
+      "width": 1600,
+      "height": 763,
+      "alt": "東へ進む淡色の帯と西へ戻る黒い帯の幅が、その地点での兵力を示します。下段の気温と退却経路を線で結び、いつ、どこで集団が小さくなったかを一枚でたどれます。",
+      "viewing_point": "東へ進む淡色の帯と西へ戻る黒い帯の幅が、その地点での兵力を示します。下段の気温と退却経路を線で結び、いつ、どこで集団が小さくなったかを一枚でたどれます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "東へ進む淡色の帯と西へ戻る黒い帯の幅が、その地点での兵力を示します。下段の気温と退却経路を線で結び、いつ、どこで集団が小さくなったかを一枚でたどれます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "14cb36563f45445ff2d70b59c415b15070223ae66b76732431dfc26ec1011404",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/information-visualization/minard-660.webp",
+            "width": 660,
+            "height": 315
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png"
+      }
+    },
+    {
+      "id": "hisui-spring",
+      "entry": "グラフィックにおける和様",
+      "title": "三越呉服店 春の新柄陳列会",
+      "title_original": "三越呉服店 春の新柄陳列会",
+      "year": "1914年",
+      "author": "杉浦非水",
+      "institution": "愛媛県美術館",
+      "medium": "百貨店の広告ポスター",
+      "source_page": "https://jmapps.ne.jp/ehime_art/det.html?data_id=9525",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Mitsukoshigofukuten_Haru_no_shingara_chinretsu-kai_by_Hisui_Sugiura.jpg",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Mitsukoshigofukuten_Haru_no_shingara_chinretsu-kai_by_Hisui_Sugiura.jpg",
+      "credit": "杉浦非水／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/wayo-graphic/hisui-spring.webp",
+      "width": 1161,
+      "height": 1600,
+      "alt": "着物の女性が座る部屋に、縦書きの店名が収まっています。帯や袖の柄と、花瓶を置いた卓の細い線を見比べると、売りたい反物の柄が画面全体の装飾につながっています。",
+      "viewing_point": "着物の女性が座る部屋に、縦書きの店名が収まっています。帯や袖の柄と、花瓶を置いた卓の細い線を見比べると、売りたい反物の柄が画面全体の装飾につながっています。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "着物の女性が座る部屋に、縦書きの店名が収まっています。帯や袖の柄と、花瓶を置いた卓の細い線を見比べると、売りたい反物の柄が画面全体の装飾につながっています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "daf531f3607ed6478be6aa250f47a6f6e4271f330c30339937501e9ac8555067",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/wayo-graphic/hisui-spring-660.webp",
+            "width": 479,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Mitsukoshigofukuten_Haru_no_shingara_chinretsu-kai_by_Hisui_Sugiura.jpg/1280px-Mitsukoshigofukuten_Haru_no_shingara_chinretsu-kai_by_Hisui_Sugiura.jpg"
+      }
+    },
+    {
+      "id": "hisui-mitsukoshi",
+      "entry": "グラフィックにおける和様",
+      "title": "三越呉服店 新館落成",
+      "title_original": "三越呉服店 新館落成",
+      "year": "1914年",
+      "author": "杉浦非水",
+      "institution": "愛媛県美術館",
+      "medium": "百貨店の広告ポスター",
+      "source_page": "https://jmapps.ne.jp/ehime_art/det.html?data_id=10403",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Mitsukoshi_Gofukuten,_Shinkan_Rakusei_poster_by_Hisui_Sugiura.jpg",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Mitsukoshi_Gofukuten,_Shinkan_Rakusei_poster_by_Hisui_Sugiura.jpg",
+      "credit": "杉浦非水／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/wayo-graphic/hisui-mitsukoshi.webp",
+      "width": 1127,
+      "height": 1600,
+      "alt": "日本橋の新館の上に天使が花をまいています。西洋絵画でおなじみの翼と、日本語の縦書きの店名を、左右の釣り合いを取りながら一枚の開店広告に収めています。",
+      "viewing_point": "日本橋の新館の上に天使が花をまいています。西洋絵画でおなじみの翼と、日本語の縦書きの店名を、左右の釣り合いを取りながら一枚の開店広告に収めています。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "日本橋の新館の上に天使が花をまいています。西洋絵画でおなじみの翼と、日本語の縦書きの店名を、左右の釣り合いを取りながら一枚の開店広告に収めています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "7fe9095a350e71fe6e08bdf10dbadcfb48f63220a20dfc07a8643f85e085a514",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/wayo-graphic/hisui-mitsukoshi-660.webp",
+            "width": 465,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mitsukoshi_Gofukuten,_Shinkan_Rakusei_poster_by_Hisui_Sugiura.jpg/1280px-Mitsukoshi_Gofukuten%2C_Shinkan_Rakusei_poster_by_Hisui_Sugiura.jpg"
+      }
+    },
+    {
+      "id": "yumeji-harunoyo",
+      "entry": "グラフィックにおける和様",
+      "title": "セノオ楽譜『春の宵』表紙",
+      "title_original": "セノヲ楽譜「春の宵」の表紙",
+      "year": "1917年",
+      "author": "竹久夢二",
+      "institution": "夢二郷土美術館所蔵",
+      "medium": "楽譜の表紙",
+      "source_page": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1917-Senowo-Evening_in_Spring.png",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1917-Senowo-Evening_in_Spring.png",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1917-Senowo-Evening_in_Spring.png",
+      "credit": "竹久夢二／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/wayo-graphic/yumeji-harunoyo.webp",
+      "width": 1162,
+      "height": 1600,
+      "alt": "白と黒の三角模様を服いっぱいに広げ、背を向けた女性の姿を輪郭の内側から浮かび上がらせています。右上に縦書きの題を置いた小さな表紙です。",
+      "viewing_point": "白と黒の三角模様を服いっぱいに広げ、背を向けた女性の姿を輪郭の内側から浮かび上がらせています。右上に縦書きの題を置いた小さな表紙です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "白と黒の三角模様を服いっぱいに広げ、背を向けた女性の姿を輪郭の内側から浮かび上がらせています。右上に縦書きの題を置いた小さな表紙です。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "5c05f404b33f59ff7c9b391fa1ebbf6a0fbcf750cc28fa72c5a0907e66e63ec5",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/wayo-graphic/yumeji-harunoyo-660.webp",
+            "width": 479,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/TakehisaYumeji-1917-Senowo-Evening_in_Spring.png/1280px-TakehisaYumeji-1917-Senowo-Evening_in_Spring.png"
+      }
+    },
+    {
+      "id": "yumeji-yoimachi",
+      "entry": "グラフィックにおける和様",
+      "title": "セノオ楽譜『宵待草』表紙",
+      "title_original": "セノヲ楽譜「宵待草」の表紙",
+      "year": "1924年版",
+      "author": "竹久夢二",
+      "institution": "夢二郷土美術館所蔵",
+      "medium": "楽譜の表紙",
+      "source_page": "https://images.dnpartcom.jp/ia/workDetail?id=TYM000321",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1924-Senowo-Yoi_Machi_Gusa.png",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1924-Senowo-Yoi_Machi_Gusa.png",
+      "credit": "竹久夢二／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/wayo-graphic/yumeji-yoimachi.webp",
+      "width": 1170,
+      "height": 1600,
+      "alt": "夢二自身が詞を手がけた歌の楽譜です。縞の着物に赤い帯を締めた女性の、伏せた視線と手元に目が向きます。図版は1918年の初版に続く1924年の表紙です。",
+      "viewing_point": "夢二自身が詞を手がけた歌の楽譜です。縞の着物に赤い帯を締めた女性の、伏せた視線と手元に目が向きます。図版は1918年の初版に続く1924年の表紙です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "夢二自身が詞を手がけた歌の楽譜です。縞の着物に赤い帯を締めた女性の、伏せた視線と手元に目が向きます。図版は1918年の初版に続く1924年の表紙です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "d40076a8594ea948ab2d124a36f02634ef56492577ee21083ce2df102ed7d3d8",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/wayo-graphic/yumeji-yoimachi-660.webp",
+            "width": 483,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/TakehisaYumeji-1924-Senowo-Yoi_Machi_Gusa.png/1280px-TakehisaYumeji-1924-Senowo-Yoi_Machi_Gusa.png"
+      }
+    },
+    {
+      "id": "yumeji-home",
+      "entry": "グラフィックにおける和様",
+      "title": "セノオ楽譜『我が家の唄』表紙",
+      "title_original": "セノオ楽譜「我が家の唄」の表紙",
+      "year": "1926年",
+      "author": "竹久夢二",
+      "institution": "セノオ音楽出版社",
+      "medium": "楽譜の表紙",
+      "source_page": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1926-Senowo-The_Song_of_My_Home.png",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1926-Senowo-The_Song_of_My_Home.png",
+      "license": "パブリックドメイン",
+      "license_url": "https://commons.wikimedia.org/wiki/File:TakehisaYumeji-1926-Senowo-The_Song_of_My_Home.png",
+      "credit": "竹久夢二／Wikimedia Commons（パブリックドメイン）",
+      "local_file": "assets/wayo-graphic/yumeji-home.webp",
+      "width": 1191,
+      "height": 1600,
+      "alt": "子どもが背伸びする姿を母親が見下ろしています。山田耕筰の曲名を右上に大きく置き、着物を描いた別の表紙と同じく、文字の位置と人物の視線で紙面を組み立てています。",
+      "viewing_point": "子どもが背伸びする姿を母親が見下ろしています。山田耕筰の曲名を右上に大きく置き、着物を描いた別の表紙と同じく、文字の位置と人物の視線で紙面を組み立てています。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "子どもが背伸びする姿を母親が見下ろしています。山田耕筰の曲名を右上に大きく置き、着物を描いた別の表紙と同じく、文字の位置と人物の視線で紙面を組み立てています。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "678fb3b6d51c3eb08c3d68cac39cd22130f7baacba3cb8ad888b475153fb7a8e",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/wayo-graphic/yumeji-home-660.webp",
+            "width": 491,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/TakehisaYumeji-1926-Senowo-The_Song_of_My_Home.png/1280px-TakehisaYumeji-1926-Senowo-The_Song_of_My_Home.png"
+      }
+    },
+    {
+      "id": "new-typography-tsch-element",
+      "entry": "New Typography",
+      "title": "『エレメンターレ・ティポグラフィ』特集号の表紙案",
+      "title_original": "Entwurf für den Umschlag von Elementare Typographie",
+      "year": "1925年",
+      "author": "ヤン・チヒョルト",
+      "institution": "ドイツ国立図書館・ドイツ書籍文字博物館",
+      "medium": "",
+      "source_page": "https://tschicholdarchive.com/w/1236308123",
+      "work_source_page": "https://nbn-resolving.org/urn:nbn:de:101:1-2021080423304547699732",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Jan Tschichold, DNB / Deutsches Buch- und Schriftmuseum. © Lilo Tschichold-Link, CC BY-SA 4.0. 掲載画像は全体を縮小。",
+      "local_file": "assets/new-typography/new-typography-tsch-element.webp",
+      "width": 1146,
+      "height": 1500,
+      "alt": "黒い横棒と赤い縦棒が大きな「T」になり、その縦棒に沿って文字が走ります。チヒョルトが1925年の特集号のためにつくった未採用案で、完成までの文字と図形の組み立て方が見えます。",
+      "viewing_point": "黒い横棒と赤い縦棒が大きな「T」になり、その縦棒に沿って文字が走ります。チヒョルトが1925年の特集号のためにつくった未採用案で、完成までの文字と図形の組み立て方が見えます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "黒い横棒と赤い縦棒が大きな「T」になり、その縦棒に沿って文字が走ります。チヒョルトが1925年の特集号のためにつくった未採用案で、完成までの文字と図形の組み立て方が見えます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "268d0151cb106282a26c59cc7049f36c5207a4fd3039385ded52a925bee966fc",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/new-typography/new-typography-tsch-element-660.webp",
+            "width": 504,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://img.tschicholdarchive.com/works/1236308123_Entwurf-fur-den-Umschlag-von-Elementare-Typographie/1236308123_001.jpg"
+      }
+    },
+    {
+      "id": "new-typography-tsch-frau",
+      "entry": "New Typography",
+      "title": "映画『名もなき女』第2部のポスター（縮小試し刷り）",
+      "title_original": "Verkleinerter Probedruck von Plakat Die Frau ohne Namen, Zweiter Teil für Phoebus-Palast",
+      "year": "1927年",
+      "author": "ヤン・チヒョルト",
+      "institution": "ドイツ国立図書館・ドイツ書籍文字博物館",
+      "medium": "",
+      "source_page": "https://tschicholdarchive.com/w/123629985X",
+      "work_source_page": "https://nbn-resolving.org/urn:nbn:de:101:1-2021082609124992810784",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Jan Tschichold, DNB / Deutsches Buch- und Schriftmuseum. © Lilo Tschichold-Link, CC BY-SA 4.0. 掲載画像は全体を縮小。",
+      "local_file": "assets/new-typography/new-typography-tsch-frau.webp",
+      "width": 1086,
+      "height": 1500,
+      "alt": "手前の機関車から右上の一点へ線が伸び、その間に小さな写真が並びます。映画館に掲げる大判ポスターを小さく試し刷りしたもので、写真と題名が同じ方向へ目を引きます。",
+      "viewing_point": "手前の機関車から右上の一点へ線が伸び、その間に小さな写真が並びます。映画館に掲げる大判ポスターを小さく試し刷りしたもので、写真と題名が同じ方向へ目を引きます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "手前の機関車から右上の一点へ線が伸び、その間に小さな写真が並びます。映画館に掲げる大判ポスターを小さく試し刷りしたもので、写真と題名が同じ方向へ目を引きます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "68d2a07db8033edfee44472072eb1dac5a2a54f79f4c419c471ee034f468cdb8",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/new-typography/new-typography-tsch-frau-660.webp",
+            "width": 478,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://img.tschicholdarchive.com/works/123629985X_Verkleinerter-Probedruck-von-Plakat-Die-Frau-ohne-Namen-Zweiter-Teil-f/123629985X_001.jpg"
+      }
+    },
+    {
+      "id": "new-typography-tsch-book",
+      "entry": "New Typography",
+      "title": "『ニュー・タイポグラフィ』初版の表紙と背",
+      "title_original": "Einbanddecke für Die neue Typographie",
+      "year": "1928年",
+      "author": "ヤン・チヒョルト",
+      "institution": "ドイツ国立図書館・ドイツ書籍文字博物館",
+      "medium": "",
+      "source_page": "https://tschicholdarchive.com/w/1236299388",
+      "work_source_page": "https://nbn-resolving.org/urn:nbn:de:101:1-2021082609140795794516",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Jan Tschichold, DNB / Deutsches Buch- und Schriftmuseum. © Lilo Tschichold-Link, CC BY-SA 4.0. 掲載画像は全体を縮小。",
+      "local_file": "assets/new-typography/new-typography-tsch-book.webp",
+      "width": 1500,
+      "height": 1015,
+      "alt": "開いて平らにした本の外側です。左右の黒い布地は広く空け、題名と著者名を淡い青色の背の帯に集めました。新しい文字組みを説いた本で、著者自身が装丁も手がけました。",
+      "viewing_point": "開いて平らにした本の外側です。左右の黒い布地は広く空け、題名と著者名を淡い青色の背の帯に集めました。新しい文字組みを説いた本で、著者自身が装丁も手がけました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "開いて平らにした本の外側です。左右の黒い布地は広く空け、題名と著者名を淡い青色の背の帯に集めました。新しい文字組みを説いた本で、著者自身が装丁も手がけました。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "128c36fc2151cd406d00330dddd9e51921f798e75cf2fdfc7793c39e16ac124f",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/new-typography/new-typography-tsch-book-660.webp",
+            "width": 660,
+            "height": 447
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://img.tschicholdarchive.com/works/1236299388_Einbanddecke-fur-Die-neue-Typographie/1236299388_001.jpg"
+      }
+    },
+    {
+      "id": "new-typography-transito-07",
+      "entry": "New Typography",
+      "title": "書体「トランジト」の設計原画（大文字）",
+      "title_original": "Entwurfszeichnungen der Transito",
+      "year": "1929年",
+      "author": "ヤン・チヒョルト",
+      "institution": "ドイツ国立図書館・ドイツ書籍文字博物館",
+      "medium": "",
+      "source_page": "https://tschicholdarchive.com/w/1236298144",
+      "work_source_page": "https://nbn-resolving.org/urn:nbn:de:101:1-2021081823515066243871",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Jan Tschichold, DNB / Deutsches Buch- und Schriftmuseum. © Lilo Tschichold-Link, CC BY-SA 4.0. 掲載画像は全体を縮小。",
+      "local_file": "assets/new-typography/new-typography-transito-07.webp",
+      "width": 1500,
+      "height": 1138,
+      "alt": "大文字の一式を三段に並べた設計図です。一画を丸ごと描かず、黒い部分の切れ目にも文字を形づくる役割を持たせています。1929年の原画を経て、書体は1931年にアムステルダムで発表されました。",
+      "viewing_point": "大文字の一式を三段に並べた設計図です。一画を丸ごと描かず、黒い部分の切れ目にも文字を形づくる役割を持たせています。1929年の原画を経て、書体は1931年にアムステルダムで発表されました。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "大文字の一式を三段に並べた設計図です。一画を丸ごと描かず、黒い部分の切れ目にも文字を形づくる役割を持たせています。1929年の原画を経て、書体は1931年にアムステルダムで発表されました。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "79b1f9189396ba9a1c65031b41432f682ca2f61f2025e1bc458d8f23f1be81f0",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/new-typography/new-typography-transito-07-660.webp",
+            "width": 660,
+            "height": 501
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://img.tschicholdarchive.com/works/1236298144_Entwurfszeichnungen-der-Transito/1236298144_007.jpg"
+      }
+    },
+    {
+      "id": "flat-octicons",
+      "entry": "Flat design",
+      "title": "Octicons のブランチ・プルリクエスト・リポジトリ",
+      "title_original": "Octicons",
+      "year": "2012年導入・2014年一般公開（掲載図は現行版）",
+      "author": "GitHub／Primer",
+      "institution": "制作者配布の公式アイコン",
+      "medium": "画面用アイコン（公式SVGからの比較標本）",
+      "source_page": "https://github.blog/news-insights/octicons-for-everyone/",
+      "work_source_page": "https://github.com/primer/octicons/tree/main/icons",
+      "license": "MIT License",
+      "license_url": "https://github.com/primer/octicons/blob/main/LICENSE",
+      "credit": "GitHub, Inc.／公式図版3点を並べてWebPに変換",
+      "local_file": "assets/flat-design/flat-octicons.webp",
+      "width": 1080,
+      "height": 480,
+      "alt": "ブランチ、プルリクエスト、リポジトリを表す三つの単色アイコン。",
+      "viewing_point": "分岐する線と丸印で、目に見えない開発作業を記号にしました。白黒のまま同じ大きさに並べても、枝分かれと合流は別の動作として読めます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "分岐する線と丸印で、目に見えない開発作業を記号にしました。白黒のまま同じ大きさに並べても、枝分かれと合流は別の動作として読めます。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "91d6c1bca57fc6f32b79fbd67de376e27f5d16143b317c3eae1b2f654aabe7b0",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/flat-design/flat-octicons-660.webp",
+            "width": 660,
+            "height": 293
+          }
+        ]
+      }
+    },
+    {
+      "id": "flat-flat-ui",
+      "entry": "Flat design",
+      "title": "Flat UI Free のカメラ・かばん・電球",
+      "title_original": "Flat UI Free",
+      "year": "2013年初公開（掲載図は公開版）",
+      "author": "Designmodo",
+      "institution": "制作者配布の公式アイコン",
+      "medium": "画面用アイコン（公式SVGからの比較標本）",
+      "source_page": "https://github.com/designmodo/Flat-UI",
+      "work_source_page": "https://github.com/designmodo/Flat-UI/tree/master/app/images/icons",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "credit": "Designmodo／Flat UI Free／公式図版3点を並べてWebPに変換",
+      "local_file": "assets/flat-design/flat-flat-ui.webp",
+      "width": 1080,
+      "height": 480,
+      "alt": "カメラ、かばん、電球のカラーアイコン。",
+      "viewing_point": "一色の面に別の色を重ねると、レンズ、持ち手、電球の口金になります。立体の厚みをどこまで省いても物が見分けられるか、三つを比べてください。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "一色の面に別の色を重ねると、レンズ、持ち手、電球の口金になります。立体の厚みをどこまで省いても物が見分けられるか、三つを比べてください。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "cb67bc1f7cd4942ce3cdf03cf968ecb03d01ddd6e206af684db526df3709e58c",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/flat-design/flat-flat-ui-660.webp",
+            "width": 660,
+            "height": 293
+          }
+        ]
+      }
+    },
+    {
+      "id": "flat-twemoji",
+      "entry": "Flat design",
+      "title": "Twemoji のロケット・カメラ・電球",
+      "title_original": "Twemoji",
+      "year": "2014年一般公開（掲載図はTwitter公開版）",
+      "author": "Twitterとコントリビューター",
+      "institution": "制作者配布の公式アイコン",
+      "medium": "画面用アイコン（公式SVGからの比較標本）",
+      "source_page": "https://twitter.github.io/twemoji/",
+      "work_source_page": "https://github.com/twitter/twemoji/tree/master/assets/svg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Twitter, Inc. and other contributors／公式図版3点を並べてWebPに変換",
+      "local_file": "assets/flat-design/flat-twemoji.webp",
+      "width": 1080,
+      "height": 480,
+      "alt": "色面で描いたロケット、カメラ、電球の三つの絵文字。",
+      "viewing_point": "ロケットの窓もカメラのレンズも、ほぼ円い色面でできています。形の少なさはよく似ていますが、周りの輪郭を変えるだけで読み違えません。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "ロケットの窓もカメラのレンズも、ほぼ円い色面でできています。形の少なさはよく似ていますが、周りの輪郭を変えるだけで読み違えません。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "babddd93a8f5550593018d08b13e55d8dddc06ff66f14a829dde3ef3f8da1436",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/flat-design/flat-twemoji-660.webp",
+            "width": 660,
+            "height": 293
+          }
+        ]
+      }
+    },
+    {
+      "id": "flat-fluent-flat",
+      "entry": "Flat design",
+      "title": "Fluent Emoji の Flat 版",
+      "title_original": "Fluent Emoji — Flat",
+      "year": "2022年一般公開（掲載図は公開版）",
+      "author": "Microsoft",
+      "institution": "制作者配布の公式アイコン",
+      "medium": "画面用アイコン（公式SVGからの比較標本）",
+      "source_page": "https://github.com/microsoft/fluentui-emoji",
+      "work_source_page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets",
+      "license": "MIT License",
+      "license_url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+      "credit": "Microsoft Corporation／公式図版3点を並べてWebPに変換",
+      "local_file": "assets/flat-design/flat-fluent-flat.webp",
+      "width": 1080,
+      "height": 480,
+      "alt": "Fluent Emojiの平面版。順にロケット、カメラ、電球。",
+      "viewing_point": "同じ絵文字に立体版もあるシリーズから、作者が Flat と名付けた版を掲載しました。ロケットの炎やカメラのレンズが、隣り合う色の差だけで分かれます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "同じ絵文字に立体版もあるシリーズから、作者が Flat と名付けた版を掲載しました。ロケットの炎やカメラのレンズが、隣り合う色の差だけで分かれます。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:34:00+09:00",
+      "sha256": "534795b725a411b419b811a7a20dec3454ba6907eafb39bc06be6c073ea89e8c",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/flat-design/flat-fluent-flat-660.webp",
+            "width": 660,
+            "height": 293
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
