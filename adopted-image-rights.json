@@ -14382,6 +14382,326 @@
           }
         ]
       }
+    },
+    {
+      "id": "swiss-four-sculptors",
+      "entry": "Swiss / International Typographic Style",
+      "title": "彫刻家4人展のポスター",
+      "title_original": "Aeschbacher, Bill, Müller, Linck – 4 Bildhauer, Kunsthalle Basel",
+      "author": "アーミン・ホフマン",
+      "year": "1959年",
+      "institution": "バーゼル・ポスターコレクション（同版の所蔵番号 CH-000957-X: 44215）",
+      "medium": "紙にオフセット印刷",
+      "source_page": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "license": "パブリックドメイン（文字による構成）",
+      "credit": "デザイン：Armin Hofmann。図版出典：チューリヒ造形美術館 eMuseum／Wikimedia Commons。個別の撮影者は記載なし。",
+      "alt": "赤いポスターに彫刻家4人の姓を黒い大文字と小文字で段々に並べ、右下寄りに小さな展覧会情報を置いている。",
+      "viewing_point": "いちばん長い姓「Aeschbacher」は、ハイフンで二行に分かれます。大きな文字をたどったあと、視線が下の小さな会場名と会期へ移る順番を見てください。",
+      "selection_criterion": "代表作",
+      "selection_reason": "チューリヒ造形美術館のグラフィック部門学芸員が、スイス政府の様式解説でホフマンの実例に選んだポスターです。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:1959_-_Kunsthalle_Basel_-_4_Bildhauer.jpg",
+      "license_url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "underlying_work_rights": "スイス連邦外務省の作品別クレジットとWikimedia Commonsのファイル別判定ではパブリックドメイン。対象は掲載する平面図版の文字・単純図形の構成。",
+      "reproduction_rights": "スイス連邦外務省が当該のWikimedia Commons図版をPublic Domainと表記。出典と作者を表示。",
+      "reuse_notice": "この判定は掲載した表紙・ポスター画像に限ります。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/1959_-_Kunsthalle_Basel_-_4_Bildhauer.jpg"
+      },
+      "local_file": "assets/swiss-style/four-sculptors.webp",
+      "width": 668,
+      "height": 950,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/four-sculptors-thumb.webp",
+            "width": 464,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "caa96ff8a7b29b4518d6fc605b41e08b0155f05b44ece50be1a9cee4c75a989b",
+      "checked_at": "2026-11-22T15:05:36+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "いちばん長い姓「Aeschbacher」は、ハイフンで二行に分かれます。大きな文字をたどったあと、視線が下の小さな会場名と会期へ移る順番を見てください。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "チューリヒ造形美術館のグラフィック部門学芸員が、スイス政府の様式解説でホフマンの実例に選んだポスターです。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙にオフセット印刷 ／ バーゼル・ポスターコレクション（同版の所蔵番号 CH-000957-X: 44215）"
+      }
+    },
+    {
+      "id": "swiss-lenten-mission",
+      "entry": "Swiss / International Typographic Style",
+      "title": "ザンクト・ガレンの四旬節行事のポスター",
+      "title_original": "Volksmission für die Katholiken der Stadt St. Gallen – Fastenzeit 1960",
+      "author": "ロベルト・ガイサー",
+      "year": "1960年",
+      "institution": "スイス国立図書館 グラフィックコレクション（図版番号 06-BN_1960_0006）",
+      "medium": "紙に2色のスクリーン印刷",
+      "source_page": "https://doi.org/10.5169/seals-624307",
+      "license": "CC BY-SA 4.0",
+      "credit": "Robert Geisser／Graphische Sammlung der Schweizerischen Nationalbibliothek、Wikimedia Commons。個別の撮影者は記載なし。全体を縮小しWebPに変換。",
+      "alt": "黒地に先のとがった赤いしずく形が並び、下の細い白い文字がポスターの幅いっぱいに並ぶ。",
+      "viewing_point": "同じ赤い形を三つの縦の列に並べ、列の始まる高さをずらしています。下の細い文字のかたまりと、上の大きな色のリズムを見比べてみましょう。",
+      "selection_criterion": "高評価",
+      "selection_reason": "スイス連邦内務省の審査で1960年の優秀ポスターに選ばれ、当時の美術誌『Schweizer Kunst』の受賞一覧に掲載されています。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Geisser_Plakat_Fastenzeit.jpg",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "underlying_work_rights": "作品にCC BY-SA 4.0。権利者が許諾したことをWikimedia VRTの記録2016020110014486で確認。",
+      "reproduction_rights": "スイス国立図書館の図版をCC BY-SA 4.0で掲載。作者、出典、変換内容を表示。",
+      "reuse_notice": "表示用のWebP図版にもCC BY-SA 4.0を適用。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Geisser_Plakat_Fastenzeit.jpg"
+      },
+      "local_file": "assets/swiss-style/lenten-mission.webp",
+      "width": 889,
+      "height": 1250,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/lenten-mission-thumb.webp",
+            "width": 469,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "19ea54c5cae576431c2b448b709a0a9fbfa230a716177cfd59c385b634c95bc9",
+      "checked_at": "2026-11-22T15:05:36+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "同じ赤い形を三つの縦の列に並べ、列の始まる高さをずらしています。下の細い文字のかたまりと、上の大きな色のリズムを見比べてみましょう。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "スイス連邦内務省の審査で1960年の優秀ポスターに選ばれ、当時の美術誌『Schweizer Kunst』の受賞一覧に掲載されています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙に2色のスクリーン印刷 ／ スイス国立図書館 グラフィックコレクション（図版番号 06-BN_1960_0006）"
+      }
+    },
+    {
+      "id": "swiss-carnival-ball",
+      "entry": "Swiss / International Typographic Style",
+      "title": "ザンクト・ガレンの仮装舞踏会ポスター",
+      "title_original": "Mohrenball 1969",
+      "author": "ロベルト・ガイサー",
+      "year": "1969年",
+      "institution": "スイス国立図書館 グラフィックコレクション（図版番号 02-SNL_FETE_314）",
+      "medium": "催事ポスター",
+      "source_page": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "license": "CC BY-SA 4.0",
+      "credit": "Robert Geisser／Graphische Sammlung der Schweizerischen Nationalbibliothek、Wikimedia Commons。個別の撮影者は記載なし。全体を縮小しWebPに変換。",
+      "alt": "赤い紙面に黒い足跡のような形がいくつも並ぶ。下に催し名、時刻、料金が二列で組まれている。",
+      "viewing_point": "上半分では、足の形がいろいろな方向を向いて踊っているように見えます。下の文字は二列の左端がそろい、踊りのにぎわいと催しの案内を一枚に収めています。",
+      "selection_criterion": "代表作",
+      "selection_reason": "スイス政府の様式解説で、チューリヒ造形美術館の学芸員が催事ポスターの作例に取り上げています。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Geisser_Plakat_Mohrenball_1969.jpg",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "underlying_work_rights": "作品にCC BY-SA 4.0。権利者が許諾したことをWikimedia VRTの記録2016020110014486で確認。",
+      "reproduction_rights": "スイス国立図書館の図版をCC BY-SA 4.0で掲載。作者、出典、変換内容を表示。",
+      "reuse_notice": "表示用のWebP図版にもCC BY-SA 4.0を適用。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Geisser_Plakat_Mohrenball_1969.jpg"
+      },
+      "local_file": "assets/swiss-style/carnival-ball.webp",
+      "width": 890,
+      "height": 1250,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/carnival-ball-thumb.webp",
+            "width": 470,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "69d3f25eb07faa630ed8d3df0c47c110e5862fdcb62b8c66e5c87d868a24f31a",
+      "checked_at": "2026-11-22T15:05:36+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "上半分では、足の形がいろいろな方向を向いて踊っているように見えます。下の文字は二列の左端がそろい、踊りのにぎわいと催しの案内を一枚に収めています。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "スイス政府の様式解説で、チューリヒ造形美術館の学芸員が催事ポスターの作例に取り上げています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "催事ポスター ／ スイス国立図書館 グラフィックコレクション（図版番号 02-SNL_FETE_314）"
+      }
+    },
+    {
+      "id": "swiss-grid-systems",
+      "entry": "Swiss / International Typographic Style",
+      "title": "『グリッドシステム』の表紙",
+      "title_original": "Grid systems in graphic design / Raster systeme für die visuelle Gestaltung",
+      "author": "ヨゼフ・ミューラー＝ブロックマン",
+      "year": "1981年",
+      "institution": "京都工芸繊維大学附属図書館（1981年刊行版の所蔵館。掲載画像は別の冊子のスキャン）",
+      "medium": "書籍表紙",
+      "source_page": "https://niggli.ch/en/products/rastersysteme-fur-die-visuelle-gestaltung",
+      "license": "パブリックドメイン（文字と単純な罫線による表紙構成）",
+      "credit": "デザイン：Josef Müller-Brockmann。刊行：Verlag Arthur Niggli。図版：刊本表紙のスキャン／Wikimedia Commons。スキャン担当者は記載なし。",
+      "alt": "橙色の表紙に細い白い格子。英語とドイツ語の書名を黒い大きな字で上下に置き、下に小さい説明を配している。",
+      "viewing_point": "普段は印刷されない配置用の線が、ここでは白い格子として見えます。大小の文字がどの線から始まり、英語とドイツ語の書名がどう対応しているかを追ってみてください。",
+      "selection_criterion": "代表作",
+      "selection_reason": "著者がグリッドによる配置を図解した専門書で、連邦政府のスイス・スタイル解説にもこの表紙が載っています。",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Raster-Systeme-Cover.jpg",
+      "license_url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "underlying_work_rights": "スイス連邦外務省の作品別クレジットとWikimedia Commonsのファイル別判定ではパブリックドメイン。対象は掲載する平面図版の文字・単純図形の構成。",
+      "reproduction_rights": "スイス連邦外務省が当該のWikimedia Commons図版をPublic Domainと表記。出典と作者を表示。",
+      "reuse_notice": "この判定は掲載した表紙・ポスター画像に限ります。",
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Raster-Systeme-Cover.jpg"
+      },
+      "local_file": "assets/swiss-style/grid-systems.webp",
+      "width": 902,
+      "height": 1250,
+      "display_derivatives": {
+        "method": "縦横比と全体を維持して縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/swiss-style/grid-systems-thumb.webp",
+            "width": 476,
+            "height": 660
+          }
+        ]
+      },
+      "institution_source": "https://ci.nii.ac.jp/ncid/BA56203108",
+      "sha256": "00d55da0658ac3f36eeebdd227cc640cc1b15b31019fbb35c0f3ba1d68ba1211",
+      "checked_at": "2026-11-22T15:05:36+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "普段は印刷されない配置用の線が、ここでは白い格子として見えます。大小の文字がどの線から始まり、英語とドイツ語の書名がどう対応しているかを追ってみてください。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "著者がグリッドによる配置を図解した専門書で、連邦政府のスイス・スタイル解説にもこの表紙が載っています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "書籍表紙 ／ 京都工芸繊維大学附属図書館（1981年刊行版の所蔵館。掲載画像は別の冊子のスキャン）"
+      }
+    },
+    {
+      "id": "polish-poster-school-trepkowski-nie-1952",
+      "title": "ノー！",
+      "title_original": "Nie!",
+      "author": "タデウシュ・トレプコフスキ",
+      "year": "1952",
+      "institution": "図版はニューヨーク州立大学バッファロー校図書館のポーランド・コレクション（LIB-009-03）。ニューヨーク近代美術館にも同じデザインのポスターを所蔵（626.1990）。",
+      "medium": "石版印刷のポスター。掲載図版は1978年のポスター集をデジタル化したもの。",
+      "source_page": "https://digital.lib.buffalo.edu/api/items/438",
+      "work_source_page": "https://www.moma.org/collection/works/7792",
+      "source_url": "https://digital.lib.buffalo.edu/files/original/b6817774b66d721d20870ba92a1f0459.jpg",
+      "license": "No Copyright – United States（米国についての所蔵館表示）",
+      "license_url": "https://rightsstatements.org/page/NoC-US/1.0/",
+      "credit": "原作 タデウシュ・トレプコフスキ。図版提供 University at Buffalo Libraries, Polish Collection（LIB-009-03）。デジタル化担当者の個人名は記載なし。",
+      "alt": "青い地に斜めに落ちる黒い爆弾。その輪郭の内側に赤茶色の壊れた建物が見え、右下に白く「NIE!」と書かれている。",
+      "viewing_point": "青い空を横切る黒い形は、遠目には爆弾に見えます。その中をのぞくと、窓だけが残った建物が見えます。右下の「NIE!」（ノー！）という一言が、二つの形をどう結びつけているでしょう。",
+      "selection_criterion": "研究の蓄積がある作品。ニューヨーク近代美術館は第二次世界大戦による都市の破壊をこのポスターがどう一つの像に凝縮したかを解説し、ワルシャワのポスター美術館もコレクションの音声ガイドに選んでいる。",
+      "local_file": "assets/polish-poster-school/nie-1952.webp",
+      "underlying_work_rights": "単独作者トレプコフスキは1954年没。ポーランド著作権法36条による原則の死後70年は2024年末に満了。米国についてはバッファロー校の当該資料の権利表示を確認。",
+      "reproduction_rights": "バッファロー校が公開する個別画像記録438にNo Copyright – United Statesを表示。図版は同校のデジタル資料から取得し、縮小とWebP変換のみを行った。",
+      "reuse_notice": "資料提供元の米国向け権利表示と原作の権利を個別に確認。他国・地域での利用条件は利用先に応じて確認してください。",
+      "width": 1201,
+      "height": 1800,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/polish-poster-school/nie-1952-thumb.webp",
+            "width": 434,
+            "height": 650
+          }
+        ]
+      },
+      "sha256": "be314e426a953e2d32842256cd2f1333a5ef5dc1e28d7fb8a7162010d369a921",
+      "entry": "Polish Poster School",
+      "checked_at": "2026-11-22T15:05:36+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "青い空を横切る黒い形は、遠目には爆弾に見えます。その中をのぞくと、窓だけが残った建物が見えます。右下の「NIE!」（ノー！）という一言が、二つの形をどう結びつけているでしょう。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "研究の蓄積がある作品。ニューヨーク近代美術館は第二次世界大戦による都市の破壊をこのポスターがどう一つの像に凝縮したかを解説し、ワルシャワのポスター美術館もコレクションの音声ガイドに選んでいる。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "石版印刷のポスター。掲載図版は1978年のポスター集をデジタル化したもの。 ／ 図版はニューヨーク州立大学バッファロー校図書館のポーランド・コレクション（LIB-009-03）。ニューヨーク近代美術館にも同じデザインのポスターを所蔵（626.1990）。"
+      },
+      "original_image": {
+        "url": "https://digital.lib.buffalo.edu/files/original/b6817774b66d721d20870ba92a1f0459.jpg"
+      }
+    },
+    {
+      "id": "bmc-studies-building-kocher-highsmith",
+      "title": "ブラック・マウンテン・カレッジの学習棟",
+      "title_original": "Studies Building, Black Mountain College",
+      "author": "設計 A・ローレンス・コッハー（A. Lawrence Kocher）、施工に教員・学生が参加",
+      "year": "1940–1941年",
+      "institution": "建物の所在地は米国ノースカロライナ州レイク・イーデン。写真は米国議会図書館版画・写真部門所蔵（LC-DIG-highsm-43402）。",
+      "medium": "建築（外観の記録写真）",
+      "source_page": "https://www.loc.gov/pictures/collection/highsm/item/2017880306/",
+      "work_source_page": "https://files.nc.gov/historic-preservation/nr/BN0137.pdf",
+      "license": "写真はパブリックドメイン（米国議会図書館）。",
+      "license_url": "https://www.loc.gov/item/00650024/",
+      "credit": "撮影 Carol M. Highsmith、2017年6月3日。Photographs in Carol M. Highsmith’s America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division, LC-DIG-highsm-43402.",
+      "alt": "木立に囲まれた横長の学習棟。外壁を水平に走る窓の列と、右端で建物を下から支える柱が見える。",
+      "viewing_point": "横に連なる窓と、斜面に沿って足元が開いたところを見てみましょう。教員と学生が手を動かして建てる計画で、設計した四つの棟のうち一棟が実現しました。写真は完成から約76年後の姿です。",
+      "selection_criterion": "同校の共同制作を伝える代表的な建築。州がまとめた歴史地区の登録資料で、学校時代に建てられた主要な建物として設計と建設の経緯が記録されています。",
+      "local_file": "assets/black-mountain-college/kocher-studies-building-highsmith.webp",
+      "underlying_work_rights": "1941年完成の米国の建物の外観。米国著作権局は、1990年12月1日より前に建設された建物の設計は建築著作物の保護対象外と説明しています。設計図を転載したものではありません。",
+      "reproduction_rights": "米国議会図書館の個別記録は『公表に際し既知の制限なし』、同館のハイスミス・アーカイブ記録は写真をパブリックドメインとしています。",
+      "reuse_notice": "元写真は米国議会図書館 LC-DIG-highsm-43402。ここには、公園史の教育冊子に同じ資料番号で掲載された写真を使用しました。",
+      "image_source": "https://americasnationalparks.org/wp-content/uploads/2020/03/19thAmendment_FinalBook.pdf#page=99",
+      "architecture_rights_source": "https://www.copyright.gov/register/va-arch-con.html",
+      "width": 750,
+      "height": 384,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/black-mountain-college/kocher-studies-building-highsmith-thumb.webp",
+            "width": 480,
+            "height": 246
+          }
+        ]
+      },
+      "sha256": "c9934e292c260c4bc14121f24f07bad6debf666141600834e52488a66e271ad0",
+      "entry": "Black Mountain College",
+      "checked_at": "2026-11-22T15:05:36+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "横に連なる窓と、斜面に沿って足元が開いたところを見てみましょう。教員と学生が手を動かして建てる計画で、設計した四つの棟のうち一棟が実現しました。写真は完成から約76年後の姿です。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "同校の共同制作を伝える代表的な建築。州がまとめた歴史地区の登録資料で、学校時代に建てられた主要な建物として設計と建設の経緯が記録されています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "建築（外観の記録写真） ／ 建物の所在地は米国ノースカロライナ州レイク・イーデン。写真は米国議会図書館版画・写真部門所蔵（LC-DIG-highsm-43402）。"
+      },
+      "original_image": {
+        "url": "https://americasnationalparks.org/wp-content/uploads/2020/03/19thAmendment_FinalBook.pdf#page=99"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

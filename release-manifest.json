@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-maximalist-web",
+  "release": "representative-galleries-swiss-style-polish-poster-school-black-mountain-college",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T10:56:00+09:00",
+  "frozen_at": "2026-11-22T15:05:36+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "62204353d50ec1e4e6308c4959c2eebc7a1b6c5de40ad8649fcf3cc2c4a6997b"
+      "sha256": "5f22402ce8571acff4fea6c7d374887677af7c82507a0d167e4566e0566dcd09"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 829003,
-      "sha256": "325e4393c5d5da9efd91124b0cea5512bbc8c4d753907ed3950acdb0c2952d9c"
+      "bytes": 852180,
+      "sha256": "d93794c06e68508306a01fa24acc74b7c59c4cb9c7714b0b54d9cfe26447b0ed"
     },
     {
       "path": "analytics-status.json",
@@ -295,6 +295,16 @@
       "path": "assets/bento-layouts/migueravila-license.txt",
       "bytes": 35127,
       "sha256": "9f828068e5eb1c624b9617fdf9df2eefcd38b3aa28199484adb1111f2957ff4a"
+    },
+    {
+      "path": "assets/black-mountain-college/kocher-studies-building-highsmith-thumb.webp",
+      "bytes": 35652,
+      "sha256": "f4a3132ddd9924eb625d70017282b212965435cf2e7a1023e0201bd29bff2098"
+    },
+    {
+      "path": "assets/black-mountain-college/kocher-studies-building-highsmith.webp",
+      "bytes": 95420,
+      "sha256": "c9934e292c260c4bc14121f24f07bad6debf666141600834e52488a66e271ad0"
     },
     {
       "path": "assets/brazilian-modernism/bandeiras-660.webp",
@@ -2317,6 +2327,16 @@
       "sha256": "97f989537e632eda3b27aad68fb965c884f10b0fb997f452fb37170bcd1deef5"
     },
     {
+      "path": "assets/polish-poster-school/nie-1952-thumb.webp",
+      "bytes": 16484,
+      "sha256": "ea3205287a65ae3d81e0a0c22ea0795de848df42efd0fd6034b373532714d04a"
+    },
+    {
+      "path": "assets/polish-poster-school/nie-1952.webp",
+      "bytes": 522340,
+      "sha256": "be314e426a953e2d32842256cd2f1333a5ef5dc1e28d7fb8a7162010d369a921"
+    },
+    {
       "path": "assets/postmodern-comparison.svg",
       "bytes": 4233,
       "sha256": "644a2fa6a8cf76817a6fb1d80d71998ea23500bbbbc805a3e4319d365954159d"
@@ -3292,6 +3312,46 @@
       "sha256": "64177ed327113b781c215a6dd7af9e579d557728a5574a92a5295d5997b1b184"
     },
     {
+      "path": "assets/swiss-style/carnival-ball-thumb.webp",
+      "bytes": 40034,
+      "sha256": "4f3c7b2e935a2ad9cdd9995d6ca4e513b70921eb98253926421ea00c5b70262b"
+    },
+    {
+      "path": "assets/swiss-style/carnival-ball.webp",
+      "bytes": 97602,
+      "sha256": "69d3f25eb07faa630ed8d3df0c47c110e5862fdcb62b8c66e5c87d868a24f31a"
+    },
+    {
+      "path": "assets/swiss-style/four-sculptors-thumb.webp",
+      "bytes": 30256,
+      "sha256": "a4de7b9dff9fa0ca6ff8515f4d8947d981f2ee079e80496be196d718ee41485a"
+    },
+    {
+      "path": "assets/swiss-style/four-sculptors.webp",
+      "bytes": 55034,
+      "sha256": "caa96ff8a7b29b4518d6fc605b41e08b0155f05b44ece50be1a9cee4c75a989b"
+    },
+    {
+      "path": "assets/swiss-style/grid-systems-thumb.webp",
+      "bytes": 48828,
+      "sha256": "c751ea106e978e539d9e5e9b38d993d63ffbd842ede6076b19476554f71ba70a"
+    },
+    {
+      "path": "assets/swiss-style/grid-systems.webp",
+      "bytes": 188208,
+      "sha256": "00d55da0658ac3f36eeebdd227cc640cc1b15b31019fbb35c0f3ba1d68ba1211"
+    },
+    {
+      "path": "assets/swiss-style/lenten-mission-thumb.webp",
+      "bytes": 24646,
+      "sha256": "e1fdb6a4534ef99b621a5d5f275de52e302bdf5dcc8b76eef901b0dbfb4b2c18"
+    },
+    {
+      "path": "assets/swiss-style/lenten-mission.webp",
+      "bytes": 72730,
+      "sha256": "19ea54c5cae576431c2b448b709a0a9fbfa230a716177cfd59c385b634c95bc9"
+    },
+    {
       "path": "assets/taller-grafica-popular/tgp-arenal-land-660.webp",
       "bytes": 93962,
       "sha256": "9882db1c9feba4c78784d3fa1270130e50772cc927a510d2d8087ec0c5c07441"
@@ -3613,8 +3673,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39406,
-      "sha256": "3fb2a2da38bbc2ffd0764f8ab747be7e4691422b49321aeb2cfccc74bdee96ba"
+      "bytes": 39413,
+      "sha256": "0198ec66e590056da75bda060564d9652ec961b265711c0b751d4f4058156003"
     },
     {
       "path": "chapter-navigation.css",
@@ -3683,8 +3743,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2577799,
-      "sha256": "7d5deb47f867ed4601768f11eab3de181ad040b5e3bf752499ef6e7f832a8aeb"
+      "bytes": 2605922,
+      "sha256": "75802b140efd063e6da8344aeaa5ab65d18856bf435b32b8cde1d9678dcf69be"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -3728,8 +3788,8 @@
     },
     {
       "path": "entries/black-mountain-college.html",
-      "bytes": 13398,
-      "sha256": "3ec6882b29aedc4425ced4db3b47d8fcfb39832f1327fd8cb9ef6959a326352b"
+      "bytes": 17848,
+      "sha256": "0207e28fe660c520f56335ff26722d1249feb83a06a82a8e5763f075ba8ae433"
     },
     {
       "path": "entries/brazilian-modernism.html",
@@ -3968,8 +4028,8 @@
     },
     {
       "path": "entries/polish-poster-school.html",
-      "bytes": 12825,
-      "sha256": "e3cd73a8fe5ca0bdeaeb9196bbb2d324f0bfb78c46ba96cbd6040c03f0fa6e3e"
+      "bytes": 16431,
+      "sha256": "ba023ddf8104eb16afc34b989a5c049b146791553f2f9a6ac30ce9eb05a138a6"
     },
     {
       "path": "entries/postmodernism.html",
@@ -4073,8 +4133,8 @@
     },
     {
       "path": "entries/swiss-style.html",
-      "bytes": 30176,
-      "sha256": "f9ba95fd6e8ea6dcfb89f152dc36fb06e50fe35ffa8772df78a1aa25305148bc"
+      "bytes": 45434,
+      "sha256": "ce34524e0a2ea0f65041618def274e42fe05f32f567ab5fb31c8445fed9d2572"
     },
     {
       "path": "entries/taller-grafica-popular.html",
@@ -4173,8 +4233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 86869,
-      "sha256": "2a2e8c4eaa1f0c7613834af19377150adb95a6a78b0c31ef6f617f8d3be48d69"
+      "bytes": 89509,
+      "sha256": "2e5c3586392ec2e8697ec909adac4501388633f89cefe5c3a7286e2208800ca4"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4214,7 +4274,7 @@
     {
       "path": "llms.txt",
       "bytes": 27373,
-      "sha256": "295783725406b15f7fe43b3768c9e37d55c5abca684e161b40e750f6b1a12180"
+      "sha256": "05253e5b4b3a46a132868b17451ef0d2653e8f7fd9c46499ed18d9d832c591cd"
     },
     {
       "path": "logo-provenance.json",
@@ -4299,7 +4359,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "3fb7665b64b0a69a1dbf35a29852263a68cc59c37c1e61ffb391508f792915d4"
+      "sha256": "474f56103573334eb2dec667bd248cf98133cbef9718394268f704d1211c7320"
     },
     {
       "path": "site.webmanifest",
@@ -4309,7 +4369,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "c47e48fe8884b491c11369725d3141d5681454a21e0530623a65608d742e9f3e"
+      "sha256": "707c6be07a1cc74dda3ff0a888ef608a314ad01f8a4288720fe63391664279e7"
     },
     {
       "path": "study-images.js",
@@ -4349,7 +4409,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "7950ba7e8af0a47087ec274d5167b441e1f48c38d3e7b43bfe59e01df676504a"
+      "sha256": "07ba22522050be12667fa7587653a6225c5aaf103b20f09cca84407b89a6ff9d"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -4359,7 +4419,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "1b120d1515ecf0740e9dd9d22bfe2ce6e748fecbdf80c7092f2eed9c6a6a79ba"
+      "sha256": "ea76b7463dc347f8b07591a8ab2310bfc1f2a5775b79ea76f5783f8f0ea2f603"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4418,8 +4478,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 194793,
-      "sha256": "ed7615b26034eb060c17f04e623e7639490fb1d3d3c0266fbd00e85fbdb9f5a2"
+      "bytes": 196609,
+      "sha256": "4a441de7edb0a3e85c08b50b09e7fe2dfcb3b43f00fe130d269840b42113214d"
     }
   ]
 }
