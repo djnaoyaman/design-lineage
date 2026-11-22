@@ -10773,6 +10773,1122 @@
           }
         ]
       }
+    },
+    {
+      "id": "grid-systems-basel",
+      "entry": "Grid systems",
+      "title": "『グーテンベルク42行聖書』第2巻・第36葉",
+      "title_original": "42-zeilige Gutenbergbibel, Teil 2, Blatt 36",
+      "year": "1454〜1455年頃",
+      "author": "ヨハネス・グーテンベルクの工房",
+      "institution": "バーゼル大学図書館",
+      "medium": "",
+      "source_page": "https://commons.wikimedia.org/wiki/File:42-zeilige_Gutenbergbibel,_Teil_2,_Blatt_36.tif",
+      "work_source_page": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/page.html",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "バーゼル大学図書館（UB Basel）, AN VI 119a。所蔵館がWikimedia Commonsで公開。",
+      "local_file": "assets/grid-systems/grid-systems-basel.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": "どちらのページも黒い活字を二段に組み、二つの段の上端と下端をそろえています。本文の範囲と外側の余白を先に決めて版面を整えた、初期の活版印刷の実例です。",
+      "viewing_point": "どちらのページも黒い活字を二段に組み、二つの段の上端と下端をそろえています。本文の範囲と外側の余白を先に決めて版面を整えた、初期の活版印刷の実例です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "どちらのページも黒い活字を二段に組み、二つの段の上端と下端をそろえています。本文の範囲と外側の余白を先に決めて版面を整えた、初期の活版印刷の実例です。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "07aecc22fcc7c768e9635e104f1c9b071d2114cd5e60b29318f39d26888f3f43",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/grid-systems/grid-systems-basel-660.webp",
+            "width": 660,
+            "height": 495
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/42-zeilige_Gutenbergbibel%2C_Teil_2%2C_Blatt_36.tif/1280px-42-zeilige_Gutenbergbibel%2C_Teil_2%2C_Blatt_36.tif.jpg"
+      }
+    },
+    {
+      "id": "grid-systems-typegrid-30",
+      "entry": "Grid systems",
+      "title": "『書物のページと版面の比率』のための作図原稿",
+      "title_original": "Entwürfe von Illustrationen für Willkürfreie Maßverhältnisse der Buchseite und des Satzspiegels",
+      "year": "1962年",
+      "author": "ヤン・チヒョルト",
+      "institution": "ドイツ国立図書館・ドイツ書籍文字博物館",
+      "medium": "",
+      "source_page": "https://tschicholdarchive.com/w/1236177088",
+      "work_source_page": "https://nbn-resolving.org/urn:nbn:de:101:1-2021081823483802660927",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Jan Tschichold, DNB / Deutsches Buch- und Schriftmuseum. © Lilo Tschichold-Link, CC BY-SA 4.0. 掲載画像は全体を縮小。",
+      "local_file": "assets/grid-systems/grid-systems-typegrid-30.webp",
+      "width": 1500,
+      "height": 1105,
+      "alt": "左のページには本文が入る長方形、右には同じ位置を割り出すための方眼と斜線があります。出来上がった版面と、その位置を求める手順を見開きで比べられる原画です。",
+      "viewing_point": "左のページには本文が入る長方形、右には同じ位置を割り出すための方眼と斜線があります。出来上がった版面と、その位置を求める手順を見開きで比べられる原画です。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "左のページには本文が入る長方形、右には同じ位置を割り出すための方眼と斜線があります。出来上がった版面と、その位置を求める手順を見開きで比べられる原画です。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "cfa10294a4b8f186288a03480b83d356e15203ec6a9c5e99ff64860de90d3f1d",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/grid-systems/grid-systems-typegrid-30-660.webp",
+            "width": 660,
+            "height": 486
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://img.tschicholdarchive.com/works/1236177088_Entwurfe-von-Illustrationen-fur-Willkurfreie-Maverhaltnisse-der-Buchse/1236177088_031.jpg"
+      }
+    },
+    {
+      "id": "grid-systems-grid-960",
+      "entry": "Grid systems",
+      "title": "960 Grid Systemの12列スケッチ用紙",
+      "title_original": "960 Grid System: 12-column sketch sheet",
+      "year": "2011年（掲載PDFの作成年）",
+      "author": "ネイサン・スミス",
+      "institution": "960 Grid System（作者配布）",
+      "medium": "",
+      "source_page": "https://960.gs/",
+      "work_source_page": "https://github.com/nathansmith/960-Grid-System/blob/master/sketch_sheets/960_sketch_12_col.pdf",
+      "license": "MIT License",
+      "license_url": "https://github.com/nathansmith/960-Grid-System/blob/master/licenses/MIT_license.txt",
+      "credit": "Copyright (c) 2008 Nathan Smith, 960.gs. MIT License。作者配布のスケッチ用紙第1頁を画像化。",
+      "local_file": "assets/grid-systems/grid-systems-grid-960.webp",
+      "width": 1600,
+      "height": 1221,
+      "alt": "ブラウザーの枠を印刷した紙に、ウェブ用の12列が細い線で引いてあります。見出しを何列分にするかを紙の上で試すと、その寸法を同じ規格のCSSに引き継げます。",
+      "viewing_point": "ブラウザーの枠を印刷した紙に、ウェブ用の12列が細い線で引いてあります。見出しを何列分にするかを紙の上で試すと、その寸法を同じ規格のCSSに引き継げます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "ブラウザーの枠を印刷した紙に、ウェブ用の12列が細い線で引いてあります。見出しを何列分にするかを紙の上で試すと、その寸法を同じ規格のCSSに引き継げます。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "362d58a744a5b0f954941a100532fb6e4329a0597dbbe49d4a438022c0af46ca",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/grid-systems/grid-systems-grid-960-660.webp",
+            "width": 660,
+            "height": 504
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://raw.githubusercontent.com/nathansmith/960-Grid-System/master/sketch_sheets/960_sketch_12_col.pdf"
+      }
+    },
+    {
+      "id": "grid-systems-ibm",
+      "entry": "Grid systems",
+      "title": "IBM 2x Gridのレイアウト・モジュール",
+      "title_original": "2x Grid: Layout modules",
+      "year": "2024年（公式サイトのリポジトリに収録）",
+      "author": "IBM Carbon Design System",
+      "institution": "IBM Carbon Design System",
+      "medium": "",
+      "source_page": "https://carbondesignsystem.com/elements/2x-grid/usage/",
+      "work_source_page": "https://github.com/carbon-design-system/carbon-website/blob/main/src/pages/elements/2x-grid/images/usage/04_layout_modules.png",
+      "license": "Apache License 2.0",
+      "license_url": "https://github.com/carbon-design-system/carbon-website/blob/main/LICENSE",
+      "credit": "IBM / Carbon Design System. Apache License 2.0。公式資料の図版を縮小。",
+      "local_file": "assets/grid-systems/grid-systems-ibm.webp",
+      "width": 1600,
+      "height": 900,
+      "alt": "左には見出しやカードの部品、中央にはそれらを組んだ一列、右には四列を並べた画面があります。部品の端を同じ基準にそろえると、数が増えても見出しと情報の並び方を保てます。",
+      "viewing_point": "左には見出しやカードの部品、中央にはそれらを組んだ一列、右には四列を並べた画面があります。部品の端を同じ基準にそろえると、数が増えても見出しと情報の並び方を保てます。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "左には見出しやカードの部品、中央にはそれらを組んだ一列、右には四列を並べた画面があります。部品の端を同じ基準にそろえると、数が増えても見出しと情報の並び方を保てます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "31cbb482b61c6330f24cc5a167c45b303b904fac7bbadc8674e2fde547ad6e58",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/grid-systems/grid-systems-ibm-660.webp",
+            "width": 660,
+            "height": 371
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://raw.githubusercontent.com/carbon-design-system/carbon-website/main/src/pages/elements/2x-grid/images/usage/04_layout_modules.png"
+      }
+    },
+    {
+      "id": "neumorphic-sign-in",
+      "entry": "Neumorphism",
+      "title": "Neumorphism UI のログイン画面",
+      "title_original": "Neumorphism UI — Sign in",
+      "year": "2020年（プロジェクト公開）",
+      "author": "Themesberg",
+      "institution": "Themesberg",
+      "medium": "ユーザーインターフェースの公式見本画面",
+      "source_page": "https://themesberg.com/product/ui-kit/neumorphism-ui-kit-bootstrap",
+      "work_source_page": "https://themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui/github/login.jpg",
+      "license": "MIT License",
+      "license_url": "https://github.com/themesberg/neumorphism-ui-bootstrap/blob/master/LICENSE",
+      "credit": "© 2020 Themesberg。制作元のプレビューをWebP化。",
+      "local_file": "assets/neumorphism/neumorphic-sign-in.webp",
+      "width": 520,
+      "height": 400,
+      "alt": "背景とほぼ同じ薄い灰色のカードが浮き出ており、その中にメールアドレス、パスワードを入力する欄がある。",
+      "viewing_point": "カードと入力欄はほぼ同じ色です。カードの外側には影を落とし、入力欄の内側には影を入れることで、同じ面に出っ張りとくぼみを作り分けています。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "カードと入力欄はほぼ同じ色です。カードの外側には影を落とし、入力欄の内側には影を入れることで、同じ面に出っ張りとくぼみを作り分けています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "a269c74693884abf9f85e43a7fd8e74250ca8037f9121e4b85920f650818cb64",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/neumorphism/neumorphic-sign-in-660.webp",
+            "width": 520,
+            "height": 400
+          }
+        ]
+      }
+    },
+    {
+      "id": "neumorphic-android",
+      "entry": "Neumorphism",
+      "title": "Android の光と影の操作見本",
+      "title_original": "Neumorphism in Android",
+      "year": "2020年（プロジェクト公開）",
+      "author": "アン・ソンヨン（fornewid）",
+      "institution": "作者公開のAndroid実装",
+      "medium": "ユーザーインターフェースの公式見本画面",
+      "source_page": "https://github.com/fornewid/neumorphism",
+      "work_source_page": "https://github.com/fornewid/neumorphism/blob/main/art/preview_light.gif",
+      "license": "Apache License 2.0",
+      "license_url": "https://github.com/fornewid/neumorphism/blob/main/LICENSE",
+      "credit": "Sungyong An / fornewid。公開GIFから一場面を抜き出し、縮小してWebP化。",
+      "local_file": "assets/neumorphism/neumorphic-android.webp",
+      "width": 594,
+      "height": 1220,
+      "alt": "白い携帯画面に、丸みを帯びた二枚の四角と三つの小さなアイコンボタンが並ぶ。",
+      "viewing_point": "並んだ四角は、左がふくらみ、右がくぼんで見えます。作者がAndroidで発表した試作では、大きさも色も似た面が、光と影の向きだけでどう変わるかを試せます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "並んだ四角は、左がふくらみ、右がくぼんで見えます。作者がAndroidで発表した試作では、大きさも色も似た面が、光と影の向きだけでどう変わるかを試せます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "1e04a9daa7a7d5724cc5be6802c69037ec5558e661e7a277c85f026a3dcdc015",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/neumorphism/neumorphic-android-660.webp",
+            "width": 321,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "neumorphic-clock",
+      "entry": "Neumorphism",
+      "title": "Flutter-Neumorphic の時計",
+      "title_original": "Flutter-Neumorphic — Clock",
+      "year": "2020年（プロジェクト公開）",
+      "author": "Idean／Flutter-Neumorphic 開発チーム",
+      "institution": "Idean",
+      "medium": "ユーザーインターフェースの公式見本画面",
+      "source_page": "https://github.com/Idean/Flutter-Neumorphic",
+      "work_source_page": "https://github.com/Idean/Flutter-Neumorphic/blob/master/medias/samples/sample_clock.png",
+      "license": "Apache License 2.0",
+      "license_url": "https://github.com/Idean/Flutter-Neumorphic/blob/master/LICENSE",
+      "credit": "Idean（www.idean.com）。公開見本をWebP化。",
+      "local_file": "assets/neumorphism/neumorphic-clock.webp",
+      "width": 387,
+      "height": 700,
+      "alt": "白い盤面に紫色の針が浮かぶ。円形の縁にはごく薄い影が差している。",
+      "viewing_point": "文字盤の縁は、輪郭線を引かず、円の外に落ちる影で示しています。色の付いた針が現在時刻を伝え、文字盤の厚みはその後ろに静かに残ります。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "文字盤の縁は、輪郭線を引かず、円の外に落ちる影で示しています。色の付いた針が現在時刻を伝え、文字盤の厚みはその後ろに静かに残ります。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "4e76684cba0989cec1c11091bd5f100330a0a5edfa862b0562315ddec30f6dd6",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/neumorphism/neumorphic-clock-660.webp",
+            "width": 365,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "neumorphic-swift",
+      "entry": "Neumorphism",
+      "title": "Neumorphic SwiftUI の棒グラフ",
+      "title_original": "Neumorphic SwiftUI — Bar chart",
+      "year": "2020年（プロジェクト公開）",
+      "author": "コスタ・チョン",
+      "institution": "作者公開のSwiftUI実装",
+      "medium": "ユーザーインターフェースの公式見本画面",
+      "source_page": "https://github.com/costachung/neumorphic",
+      "work_source_page": "https://user-images.githubusercontent.com/169746/77887392-1078b700-729d-11ea-911c-3fd94ba1b9e0.png",
+      "license": "MIT License",
+      "license_url": "https://github.com/costachung/neumorphic/blob/master/LICENSE",
+      "credit": "© 2020 Costa Chung。公開見本をWebP化。",
+      "local_file": "assets/neumorphism/neumorphic-swift.webp",
+      "width": 820,
+      "height": 410,
+      "alt": "高さの異なる五つの白い溝に、下から青い棒が入っている。",
+      "viewing_point": "白い溝の上端にだけ薄い影がつき、青い量の部分は平らなままです。ボタンで使うくぼみの表現を、データを読むための器にも応用した例です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "白い溝の上端にだけ薄い影がつき、青い量の部分は平らなままです。ボタンで使うくぼみの表現を、データを読むための器にも応用した例です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "3ae32b2e5a1b6267426f3ed6565cfa5d42be93c88c7155685d145bf7fdb03376",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/neumorphism/neumorphic-swift-660.webp",
+            "width": 660,
+            "height": 330
+          }
+        ]
+      }
+    },
+    {
+      "id": "param-court",
+      "entry": "Parametric design",
+      "title": "大英博物館グレート・コートのガラス屋根",
+      "title_original": "Queen Elizabeth II Great Court",
+      "year": "2000年",
+      "author": "フォスター・アンド・パートナーズほか／幾何設計の研究はクリス・ウィリアムズ",
+      "institution": "実物写真／Wikimedia Commons",
+      "medium": "建築の写真",
+      "source_page": "https://researchportal.bath.ac.uk/en/publications/the-analytic-and-numerical-definition-of-the-geometry-of-the-brit/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg",
+      "license": "CC BY-SA 3.0（掲載写真）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Diliff／Wikimedia Commons（元画像を縮小・WebP変換）",
+      "local_file": "assets/parametric-design/param-court.webp",
+      "width": 960,
+      "height": 942,
+      "alt": "丸い閲覧室を取り囲み、四角い中庭を覆う三角形のガラスと鉄の屋根。",
+      "viewing_point": "丸い閲覧室の外壁と四角い中庭の間を、三角形の網がつないでいます。網目を端まで目でたどると、場所ごとにガラスの形が違います。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "丸い閲覧室の外壁と四角い中庭の間を、三角形の網がつないでいます。網目を端まで目でたどると、場所ごとにガラスの形が違います。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "147093d4d54a818f5cc0a130c97a0c926b4eb3efef99eac3c3bc8431f8524600",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/parametric-design/param-court-660.webp",
+            "width": 660,
+            "height": 648
+          }
+        ]
+      }
+    },
+    {
+      "id": "param-hall",
+      "entry": "Parametric design",
+      "title": "ロンドン旧市庁舎（サザーク）",
+      "title_original": "City Hall, Southwark",
+      "year": "2002年",
+      "author": "フォスター・アンド・パートナーズ",
+      "institution": "実物写真／Wikimedia Commons",
+      "medium": "建築の写真",
+      "source_page": "https://www.fosterandpartners.com/projects/city-hall/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:London_City_Hall.jpg",
+      "license": "CC BY-SA 2.0（掲載写真）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "Garry Knight／Wikimedia Commons（元画像を縮小・WebP変換）",
+      "local_file": "assets/parametric-design/param-hall.webp",
+      "width": 960,
+      "height": 708,
+      "alt": "テムズ川沿いに立つ、各階が少しずつずれた丸いガラス張りの建物。",
+      "viewing_point": "ガラスを巻いた各階が少しずつ位置をずらし、片側にせり出しています。日射を受ける向きと外壁の形の関係を計算した旧市庁舎です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "ガラスを巻いた各階が少しずつ位置をずらし、片側にせり出しています。日射を受ける向きと外壁の形の関係を計算した旧市庁舎です。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "045cd6df3de9f15a1ca2bbdb2f7b32aff71df5e8d446e1b00f0124a9d467e0b9",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/parametric-design/param-hall-660.webp",
+            "width": 660,
+            "height": 487
+          }
+        ]
+      }
+    },
+    {
+      "id": "param-eden-core",
+      "entry": "Parametric design",
+      "title": "エデン・プロジェクトの教育棟「ザ・コア」",
+      "title_original": "The Core at the Eden Project",
+      "year": "2005年",
+      "author": "グリムショー／ジョリオン・ブリューイス、ピーター・ランダル＝ペイジら",
+      "institution": "実物写真／Wikimedia Commons",
+      "medium": "建築の写真",
+      "source_page": "https://grimshaw.global/journal/core-values/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Wooden_roof_of_The_Core_-_Eden_Project_-_geograph.org.uk_-_784520.jpg",
+      "license": "CC BY-SA 2.0（掲載写真）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "Pauline Eccles／Wikimedia Commons（元画像を縮小・WebP変換）",
+      "local_file": "assets/parametric-design/param-eden-core.webp",
+      "width": 640,
+      "height": 480,
+      "alt": "天井に沿って木製の梁が交差し、らせんをつくる。",
+      "viewing_point": "ヒマワリの種の並びを思わせるらせんが、天井の木の梁に見えます。植物の育ち方から読み取った数の規則を、屋根を支える骨組みに移した建物です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "ヒマワリの種の並びを思わせるらせんが、天井の木の梁に見えます。植物の育ち方から読み取った数の規則を、屋根を支える骨組みに移した建物です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "b0ff3bc6965a0123eed9e6d6addac68f341ef921303c194712f84b6fcd60256b",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/parametric-design/param-eden-core-660.webp",
+            "width": 640,
+            "height": 480
+          }
+        ]
+      }
+    },
+    {
+      "id": "param-gaudi-chair",
+      "entry": "Parametric design",
+      "title": "ガウディ・ラウンジチェアのデザイン図",
+      "title_original": "Gaudi Lounge Chair",
+      "year": "2010年代の公開図版",
+      "author": "エマニュエル・トゥレーヌ／Ventury",
+      "institution": "設計者公開の図版／Wikimedia Commons",
+      "medium": "家具の図版",
+      "source_page": "https://lab.ventury.net/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:GAUDI_LOUNGE_CHAIR_BRONZE_instant_14.jpg",
+      "license": "CC BY-SA 4.0（掲載写真）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Emmanuel Touraine／Wikimedia Commons（元画像を縮小・WebP変換）",
+      "local_file": "assets/parametric-design/param-gaudi-chair.webp",
+      "width": 960,
+      "height": 966,
+      "alt": "赤く表示された椅子を横から見る。座面の下に大小の穴があり、背の枠とつながる。",
+      "viewing_point": "座面の下で太い枠が枝分かれし、背までひと続きにつながっています。設計者はガウディと自然の造形から着想を得たと説明しています。掲載図は赤く表示したデザイン図です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "座面の下で太い枠が枝分かれし、背までひと続きにつながっています。設計者はガウディと自然の造形から着想を得たと説明しています。掲載図は赤く表示したデザイン図です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "fbaccc61df70739cc4731706f3efe0929970853630cc9b33092d3f30c4a78bc1",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/parametric-design/param-gaudi-chair-660.webp",
+            "width": 656,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "clay-unicorn",
+      "entry": "3D / clay illustration",
+      "title": "ユニコーン",
+      "title_original": "Unicorn",
+      "year": "2018年",
+      "author": "オスカル・トレホ",
+      "institution": "作者公開／Sketchfab",
+      "medium": "VRによるデジタル彫刻",
+      "source_page": "https://sketchfab.com/3d-models/unicorn-670e7ec67cc9401e9b2f974b4aebf015",
+      "work_source_page": "https://media.sketchfab.com/models/670e7ec67cc9401e9b2f974b4aebf015/thumbnails/f0cdcfc6a66a4e18a481a6f5a4ab419a/68ce9a837de74672bf0784ad625dd50c.jpeg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "© Oscar Trejo / Sketchfab。作者公開の3Dモデルのプレビューを縮小しWebP化。",
+      "local_file": "assets/3d-clay-illustration/clay-unicorn.webp",
+      "width": 1024,
+      "height": 576,
+      "alt": "灰色のサイが黄色いバケツを抱え、顔には青、緑、赤の粘土のような角が付いている。",
+      "viewing_point": "サイは奪われた角の代わりを、自分で粘土で作りました。作者がVR空間で形を彫った、クレイアニメのキャラクターをテーマにした公募の出品作。色の違う小さな塊が、角の手作りらしさを伝えます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "サイは奪われた角の代わりを、自分で粘土で作りました。作者がVR空間で形を彫った、クレイアニメのキャラクターをテーマにした公募の出品作。色の違う小さな塊が、角の手作りらしさを伝えます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "1aa4accd8561d33c96fdaa3c44f2a8b83752f09072e3db4bf91ff9dc54de0a49",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/3d-clay-illustration/clay-unicorn-660.webp",
+            "width": 660,
+            "height": 371
+          }
+        ]
+      }
+    },
+    {
+      "id": "clay-sprite-fright",
+      "entry": "3D / clay illustration",
+      "title": "スプライト・フライト（玩具のような造形の比較例）",
+      "title_original": "Sprite Fright",
+      "year": "2021年",
+      "author": "マシュー・ルーン監督、ブレンダー・スタジオ",
+      "institution": "ブレンダー財団",
+      "medium": "3Dアニメーション映画の一場面",
+      "source_page": "https://studio.blender.org/blog/sprite-fright-the-illusion-of-simplicity/",
+      "work_source_page": "https://archive.org/details/sprite-fright-2021",
+      "license": "CC BY 1.0（制作元の作品利用条件）",
+      "license_url": "https://studio.blender.org/projects/sprite-fright/pages/about/",
+      "credit": "(CC) Blender Foundation | studio.blender.org。映画本編から2分57秒付近の場面を抜き出しWebP化。",
+      "local_file": "assets/3d-clay-illustration/clay-sprite-fright.webp",
+      "width": 720,
+      "height": 302,
+      "alt": "森で若者たちが身を寄せる場面。顔や体の輪郭、髪の毛の束が、大きさの異なる塊で作られている。",
+      "viewing_point": "髪を一本ずつ描かず、太い束にしてあります。制作チームは、玩具のような単純な形を得るため、手首や筋肉の細かな起伏を省いたと説明しています。デジタルの粘土彫刻と、映画の人物造形を比べられる一場面です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "髪を一本ずつ描かず、太い束にしてあります。制作チームは、玩具のような単純な形を得るため、手首や筋肉の細かな起伏を省いたと説明しています。デジタルの粘土彫刻と、映画の人物造形を比べられる一場面です。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "dc74c6524d5b4d58067a4120380bebcaa3cc6330ce8aad4402a18afcee4721e6",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/3d-clay-illustration/clay-sprite-fright-660.webp",
+            "width": 660,
+            "height": 277
+          }
+        ]
+      }
+    },
+    {
+      "id": "clay-camera",
+      "entry": "3D / clay illustration",
+      "title": "カメラ（3dicons・クレイ版）",
+      "title_original": "Camera, 3dicons v1, clay",
+      "year": "2021年（第1版）",
+      "author": "ヴィジャイ・ヴェルマ",
+      "institution": "3dicons",
+      "medium": "3Dアイコン",
+      "source_page": "https://3dicons.co/icons/5656e5-camera",
+      "work_source_page": "https://bvconuycpdvgzbvbkijl.supabase.co/storage/v1/object/public/sizes/5656e5-camera/dynamic/500/clay.webp",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Vijay Verma / 3dicons v1。公式のクレイ版。",
+      "local_file": "assets/3d-clay-illustration/clay-camera.webp",
+      "width": 500,
+      "height": 500,
+      "alt": "白いカメラを斜めから見る。本体の角が丸く、中央のレンズが大きく突き出している。",
+      "viewing_point": "公式配布ページで何十万回もダウンロードされたアイコンです。白一色でも、本体とレンズの境目に落ちる影で厚みが分かります。作者のページでは同じ形のカラー版とも見比べられます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "公式配布ページで何十万回もダウンロードされたアイコンです。白一色でも、本体とレンズの境目に落ちる影で厚みが分かります。作者のページでは同じ形のカラー版とも見比べられます。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "1f142a200deebe1b843139dc2c324412dfd704b4dba4eabe2d048a5d1aa04e14",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/3d-clay-illustration/clay-camera-660.webp",
+            "width": 500,
+            "height": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "clay-melting-face",
+      "entry": "3D / clay illustration",
+      "title": "溶ける顔（Fluent Emoji・3D版）",
+      "title_original": "Melting Face, Fluent Emoji 3D",
+      "year": "2022年（画像公開）",
+      "author": "マイクロソフト",
+      "institution": "マイクロソフト",
+      "medium": "3D絵文字",
+      "source_page": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Melting%20face/3D/melting_face_3d.png",
+      "work_source_page": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Melting%20face/3D/melting_face_3d.png",
+      "license": "MIT License",
+      "license_url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+      "credit": "© Microsoft Corporation。MIT License。公式PNGをWebP化。",
+      "local_file": "assets/3d-clay-illustration/clay-melting-face.webp",
+      "width": 256,
+      "height": 256,
+      "alt": "黄色い顔が笑いながら下に流れ、端が液体のたまりのように丸く広がる。",
+      "viewing_point": "笑顔の上半分が形を保ったまま、下の縁だけが溶けて広がります。顔の輪郭を柔らかい立体としてとらえ直した例。ごく小さな絵文字でも、色の濃淡から厚みを読み取れます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "笑顔の上半分が形を保ったまま、下の縁だけが溶けて広がります。顔の輪郭を柔らかい立体としてとらえ直した例。ごく小さな絵文字でも、色の濃淡から厚みを読み取れます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "92d10e889ad8867f40ef5634479d9598af43ccf9f9795a3cc8d1a428003eb181",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/3d-clay-illustration/clay-melting-face-660.webp",
+            "width": 256,
+            "height": 256
+          }
+        ]
+      }
+    },
+    {
+      "id": "generative-design-henry",
+      "entry": "Generative design",
+      "title": "ドローイング・マシン1号による作品",
+      "title_original": "Picture produced by Drawing Machine 1",
+      "year": "1960年代（1号機は1960年制作）",
+      "author": "デズモンド・ポール・ヘンリー",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "機械による素描",
+      "source_page": "https://desmondhenry.com/about",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Picture_produced_by_Drawing_Machine_1.jpg",
+      "license": "Free Art License（Copyleft Attitude）",
+      "license_url": "https://artlibre.org/licence/lal/en/",
+      "credit": "Desmond Paul Henry Uploaded by Elaine O'Hanrahan at en.wikipedia／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/generative-design/generative-design-henry.webp",
+      "width": 590,
+      "height": 715,
+      "alt": "細い線が幾度も曲がって重なった、機械で描いた素描。",
+      "viewing_point": "プログラムを入力する代わりに、動く仕組みそのものが線を生む規則です。ペンの動きが少しずつずれながら重なり、一本の線には描けない厚みが生まれます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "プログラムを入力する代わりに、動く仕組みそのものが線を生む規則です。ペンの動きが少しずつずれながら重なり、一本の線には描けない厚みが生まれます。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "a239645d478e1c61a74550e7bd1fc537c377e2b6c8ad299d8ba352b0dc5fe0cb",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/generative-design/generative-design-henry-660.webp",
+            "width": 545,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "generative-design-mohr",
+      "entry": "Generative design",
+      "title": "P-021-G",
+      "title_original": "P-021-G",
+      "year": "1970年",
+      "author": "マンフレート・モーア",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "紙にプロッターで描画",
+      "source_page": "https://emohr.com/mohr_algo_021b.html",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Manfred_Mohr_P021G.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Manfred Mohr, New York／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/generative-design/generative-design-mohr.webp",
+      "width": 960,
+      "height": 954,
+      "alt": "水平の帯に沿って細い黒線と太い黒線が折れ曲がる。",
+      "viewing_point": "折れ線を横に追うと、角度や太さが変わるたびに、記号や文字に似たかたまりが現れます。モーアはこのシリーズで、線の幅や長さの変化を確率で扱いました。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "折れ線を横に追うと、角度や太さが変わるたびに、記号や文字に似たかたまりが現れます。モーアはこのシリーズで、線の幅や長さの変化を確率で扱いました。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "288a4bb9b3217f11448c0f2a7930706b2c90f52bb8b74bb75052fdc19bfcf092",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/generative-design/generative-design-mohr-660.webp",
+            "width": 660,
+            "height": 656
+          }
+        ]
+      }
+    },
+    {
+      "id": "generative-design-substrate",
+      "entry": "Generative design",
+      "title": "Substrate（印刷作品）",
+      "title_original": "Substrate",
+      "year": "2003年のプログラム／2005年のプリント写真",
+      "author": "ジャレッド・ターベル",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "生成プログラムの出力を印刷した作品",
+      "source_page": "https://www.complexification.net/gallery/machines/substrate/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Substrate_print_-_Flickr_-_jared.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "Jared Tarbell from Awesometown, United States of America／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/generative-design/generative-design-substrate.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "色の付いた細かな区画が、亀裂のような線で分かれた印刷作品。",
+      "viewing_point": "すでにある線に行き当たった新しい線が止まると、何もなかった面に街区のような区切りができます。本図は作者が印刷して撮影した一枚です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "すでにある線に行き当たった新しい線が止まると、何もなかった面に街区のような区切りができます。本図は作者が印刷して撮影した一枚です。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "fa132d344f6bb3245c2c6a3089e90d2cc8a9bdf581730e95cd4009e03f627a60",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/generative-design/generative-design-substrate-660.webp",
+            "width": 660,
+            "height": 495
+          }
+        ]
+      }
+    },
+    {
+      "id": "generative-design-archistar",
+      "entry": "Generative design",
+      "title": "Archistar による集合住宅の生成案",
+      "title_original": "Archistar Generative Design Engine",
+      "year": "制作者公開の画面（制作年未詳）",
+      "author": "Archistar",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "建築設計ソフトの設計例",
+      "source_page": "https://www.autodesk.com/integrations/partner/archistar",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Archistar_Generative_Design_Engine_Interface.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Archistarmarketing／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/generative-design/generative-design-archistar.webp",
+      "width": 960,
+      "height": 458,
+      "alt": "敷地に重ねて集合住宅の立体案を表示するソフトウェア画面。",
+      "viewing_point": "敷地や設計条件を与えると、建物の案が生成されます。紙に残る一枚の絵から、条件を変えて建物を検討するための道具へ、同じ考え方が広がった例です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "敷地や設計条件を与えると、建物の案が生成されます。紙に残る一枚の絵から、条件を変えて建物を検討するための道具へ、同じ考え方が広がった例です。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "d5642ffce5b1917eaf9c957bb1c86579d47edb6413c193911d2a8f67127f38de",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/generative-design/generative-design-archistar-660.webp",
+            "width": 660,
+            "height": 315
+          }
+        ]
+      }
+    },
+    {
+      "id": "skeuomorphism-mixxx",
+      "entry": "Skeuomorphism",
+      "title": "Mixxx 1.8.0 のミキサー",
+      "title_original": "Mixxx 1.8.0",
+      "year": "2010年",
+      "author": "Mixxx 開発チーム",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "DJソフトウェアの画面",
+      "source_page": "https://mixxx.org/news/2010-10-05-mixxx-180-released/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Mixxx-1.8.0.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "Mixxx／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/skeuomorphism/skeuomorphism-mixxx.webp",
+      "width": 960,
+      "height": 524,
+      "alt": "左右のプレーヤーの間にミキサーのスライダーと丸いつまみが並ぶ。",
+      "viewing_point": "二つの曲を並べる配置と、中央で左右に動かすクロスフェーダーに注目してください。実物のDJミキサーを覚えた手が、そのまま頼れる形です。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "二つの曲を並べる配置と、中央で左右に動かすクロスフェーダーに注目してください。実物のDJミキサーを覚えた手が、そのまま頼れる形です。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "e553351260f57cf4e3855a3d98123605a6a6b74d60f76df0e3a2a9a5ba031cd4",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/skeuomorphism/skeuomorphism-mixxx-660.webp",
+            "width": 660,
+            "height": 360
+          }
+        ]
+      }
+    },
+    {
+      "id": "skeuomorphism-guitarix",
+      "entry": "Skeuomorphism",
+      "title": "Guitarix のアンプヘッド",
+      "title_original": "Guitarix gx_head",
+      "year": "2011年の画面",
+      "author": "Guitarix 開発チーム",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "仮想ギターアンプの画面",
+      "source_page": "https://guitarix.org/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Guitarix_gx_head_jan2011.jpeg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Hartmut Noack (zettberlin)／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/skeuomorphism/skeuomorphism-guitarix.webp",
+      "width": 400,
+      "height": 272,
+      "alt": "アンプの前面を思わせる調整部に、目盛りの付いたつまみが横に並ぶ。",
+      "viewing_point": "ギターをつなぐアンプのつまみや目盛りを、ソフトの中に移しました。音を変えるための数値が、手で回せそうな部品として並んでいます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "ギターをつなぐアンプのつまみや目盛りを、ソフトの中に移しました。音を変えるための数値が、手で回せそうな部品として並んでいます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "a004386e51ff36cc43acdceaf1da97ec38e20e2bcc12b785f579f22b99d9b9b6",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/skeuomorphism/skeuomorphism-guitarix-660.webp",
+            "width": 400,
+            "height": 272
+          }
+        ]
+      }
+    },
+    {
+      "id": "skeuomorphism-aisleriot",
+      "entry": "Skeuomorphism",
+      "title": "AisleRiot のフリーセル",
+      "title_original": "AisleRiot — FreeCell",
+      "year": "2012年撮影の画面",
+      "author": "GNOME プロジェクト",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "カードゲームの画面",
+      "source_page": "https://wiki.gnome.org/Apps/Aisleriot",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:AisleRiot_Solitaire_FreeCell_game_in_Ubuntu-Baltix.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Mantas／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/skeuomorphism/skeuomorphism-aisleriot.webp",
+      "width": 960,
+      "height": 600,
+      "alt": "緑の卓の上にカードを少しずつ重ねて並べたゲーム画面。",
+      "viewing_point": "山札に重なりがあり、札を移す場所には札と同じ大きさの枠が空いています。机の上で遊ぶときの置き方が、そのまま次の操作の手がかりになります。",
+      "visual_notes": [
+        {
+          "title": "選定理由・ポピュラー",
+          "text": "山札に重なりがあり、札を移す場所には札と同じ大きさの枠が空いています。机の上で遊ぶときの置き方が、そのまま次の操作の手がかりになります。"
+        }
+      ],
+      "selection_criterion": "ポピュラー",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "3b5793461f0171828ff527a25947c0e0f2f5326d42eea8eaa3a2d7685fd08753",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/skeuomorphism/skeuomorphism-aisleriot-660.webp",
+            "width": 660,
+            "height": 413
+          }
+        ]
+      }
+    },
+    {
+      "id": "skeuomorphism-cool-retro-term",
+      "entry": "Skeuomorphism",
+      "title": "cool-retro-term のブラウン管表示",
+      "title_original": "cool-retro-term",
+      "year": "2021年撮影の画面",
+      "author": "Swordfish90 とコントリビューター",
+      "institution": "作者・公開資料の図版／Wikimedia Commons",
+      "medium": "端末エミュレーターの画面",
+      "source_page": "https://github.com/Swordfish90/cool-retro-term",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Cool_Retro_Term.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "NairobiPapel／Wikimedia Commons（WebPへの変換・縮小）",
+      "local_file": "assets/skeuomorphism/skeuomorphism-cool-retro-term.webp",
+      "width": 960,
+      "height": 540,
+      "alt": "昔のブラウン管を模した画面で文字が発光する。",
+      "viewing_point": "プログラムの文字を表示するだけなら、発光のにじみを描く必要はありません。あえてその光り方を再現して、古いブラウン管を見ている感覚まで画面に移しています。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "プログラムの文字を表示するだけなら、発光のにじみを描く必要はありません。あえてその光り方を再現して、古いブラウン管を見ている感覚まで画面に移しています。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "8853440d067efc0e5f2ea06dc585231aa7e80c45ed628d27e5f914cbd4047c54",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/skeuomorphism/skeuomorphism-cool-retro-term-660.webp",
+            "width": 660,
+            "height": 371
+          }
+        ]
+      }
+    },
+    {
+      "id": "psych-acid",
+      "entry": "Psychedelic Art",
+      "title": "「アシッド・テスト」の告知チラシ",
+      "title_original": "Can You Pass the Acid Test?",
+      "year": "1965年",
+      "author": "ノーマン・ハートウェグ、ポール・フォスター",
+      "institution": "カリフォルニア大学サンタクルーズ校 グレイトフル・デッド・アーカイブ",
+      "medium": "イベントの告知チラシ",
+      "source_page": "https://www.gdao.org/exhibits/show/posters/acid-tests",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Original1965AcidTestFlyerPrint.uncolored%2Cunmodified.jpg",
+      "license": "米国でパブリックドメイン（著作権表示なしで刊行）",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Original1965AcidTestFlyerPrint.uncolored%2Cunmodified.jpg#Licensing",
+      "credit": "ノーマン・ハートウェグ、ポール・フォスター／Wikimedia Commons掲載の複製",
+      "local_file": "assets/psychedelic-art/psych-acid.webp",
+      "width": 692,
+      "height": 926,
+      "alt": "手描きの人々と大小の文字が、ACID TESTという題名を取り囲む。",
+      "viewing_point": "文字の大きさも傾きもばらばらで、出演者の名前の間に漫画や手描きの絵が割り込む。1960年代のサンフランシスコ湾岸で、催しの熱気そのものを紙に移した初期のチラシ。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "文字の大きさも傾きもばらばらで、出演者の名前の間に漫画や手描きの絵が割り込む。1960年代のサンフランシスコ湾岸で、催しの熱気そのものを紙に移した初期のチラシ。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "f0c67fb164683ec1a9bd70b59b94df2f9035543ea7c53d8a8f27e743ef249305",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/psychedelic-art/psych-acid-660.webp",
+            "width": 493,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Original1965AcidTestFlyerPrint.uncolored%2Cunmodified.jpg"
+      }
+    },
+    {
+      "id": "psych-jefferson-airplane",
+      "entry": "Psychedelic Art",
+      "title": "ジェファーソン・エアプレインのフィルモア公演（BG-1）",
+      "title_original": "Jefferson Airplane, Fillmore Auditorium, February 4–6",
+      "year": "1966年",
+      "author": "ピーター・ベイリー（デザイン）／ビル・グレアム（主催）",
+      "institution": "デラウェア大学図書館 特別コレクション",
+      "medium": "公演ポスター",
+      "source_page": "https://findingaids.lib.udel.edu/repositories/2/top_containers/13400",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Jefferson_airplane_fillmore_poster_1966.jpg",
+      "license": "米国でパブリックドメイン（著作権表示なしで刊行）",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Jefferson_airplane_fillmore_poster_1966.jpg#Licensing",
+      "credit": "ピーター・ベイリー／Wikimedia Commons掲載の複製",
+      "local_file": "assets/psychedelic-art/psych-jefferson-airplane.webp",
+      "width": 960,
+      "height": 1353,
+      "alt": "赤いバンド名が黄色い紙面を斜めに横切り、中央に馬と複葉機の図が入る。",
+      "viewing_point": "バンド名を二本の斜線に沿って大きく組み、余白には複葉機を飛ばした。後に文字を複雑に変形するポスターで知られるようになる、ビル・グレアムの公演ポスター・シリーズ第1号。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "バンド名を二本の斜線に沿って大きく組み、余白には複葉機を飛ばした。後に文字を複雑に変形するポスターで知られるようになる、ビル・グレアムの公演ポスター・シリーズ第1号。"
+        }
+      ],
+      "selection_criterion": "よく研究されている作品",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "b6af33a91d1be5bec23bd675474db859a5a7769c6e18e9bb260e587016b3ed73",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/psychedelic-art/psych-jefferson-airplane-660.webp",
+            "width": 468,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jefferson_airplane_fillmore_poster_1966.jpg/960px-Jefferson_airplane_fillmore_poster_1966.jpg"
+      }
+    },
+    {
+      "id": "psych-expo",
+      "entry": "Psychedelic Art",
+      "title": "スポケーン万博記念切手《環境を守ろう》",
+      "title_original": "Expo ’74 — Preserve the Environment",
+      "year": "1974年",
+      "author": "ピーター・マックス（デザイン）／米国郵政公社（発行）",
+      "institution": "ピーター・マックス・スタジオ（作家公式記録）",
+      "medium": "10セント記念切手",
+      "source_page": "https://petermax.com/pages/peter-max-biography",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Peter_Max_-_Stamp_2.jpg",
+      "license": "Public Domain Mark 1.0（米国の1974年発行切手）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ピーター・マックス／United States Postal Service／Wikimedia Commons",
+      "local_file": "assets/psychedelic-art/psych-expo.webp",
+      "width": 960,
+      "height": 740,
+      "alt": "カラフルな空の下、青い服と赤いズボンの人物が走る切手。",
+      "viewing_point": "赤と黄色の光を背に、裾の広い服を着た人物が緑の丘を大股で走る。ポスターで人気を得たマックスの鮮やかな色と曲線が、環境をテーマにした万博の10セント切手に収まった。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "赤と黄色の光を背に、裾の広い服を着た人物が緑の丘を大股で走る。ポスターで人気を得たマックスの鮮やかな色と曲線が、環境をテーマにした万博の10セント切手に収まった。"
+        }
+      ],
+      "selection_criterion": "ポピュラーな作品",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "714e9f852098283aee47a475958d0bc88f64c6725681ba0a9ebb78c7775d71f3",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/psychedelic-art/psych-expo-660.webp",
+            "width": 660,
+            "height": 509
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Peter_Max_-_Stamp_2.jpg/960px-Peter_Max_-_Stamp_2.jpg"
+      }
+    },
+    {
+      "id": "psych-juno-official",
+      "entry": "Psychedelic Art",
+      "title": "探査機ジュノー 木星周回5周年ポスター（第2版）",
+      "title_original": "Celebrating 5 Years at Jupiter, Poster Version 2",
+      "year": "2021年",
+      "author": "NASA／ジェット推進研究所・カリフォルニア工科大学",
+      "institution": "NASA",
+      "medium": "宇宙探査の広報ポスター",
+      "source_page": "https://science.nasa.gov/resource/celebrating-5-years-at-jupiter/",
+      "work_source_page": "https://science.nasa.gov/resource/celebrating-5-years-at-jupiter/",
+      "license": "NASA画像・メディア利用指針（教育・情報提供のための掲載）",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "credit": "Courtesy NASA/JPL-Caltech",
+      "local_file": "assets/psychedelic-art/psych-juno-official.webp",
+      "width": 873,
+      "height": 1300,
+      "alt": "鮮やかな木星の円弧を背景に、3枚の太陽電池パネルを持つ探査機が浮かぶ。",
+      "viewing_point": "木星の雲をピンクと水色に、探査機を紫に染め、丸くふくらんだ文字で「JUNO」と記した。NASAがサイケデリック・スタイルと明記して公開した、1960年代以降の応用例。",
+      "visual_notes": [
+        {
+          "title": "見どころ",
+          "text": "木星の雲をピンクと水色に、探査機を紫に染め、丸くふくらんだ文字で「JUNO」と記した。NASAがサイケデリック・スタイルと明記して公開した、1960年代以降の応用例。"
+        }
+      ],
+      "selection_criterion": "代表作（科学広報への応用）",
+      "checked_at": "2026-11-22T10:39:00+09:00",
+      "sha256": "b2a75fb3159a22fad17866de45c6fb4016e1829302e0d6013516e90b28c4f60c",
+      "display_derivatives": {
+        "method": "図版全体を保ち、表示用のWebP画像を作成。",
+        "variants": [
+          {
+            "local_file": "assets/psychedelic-art/psych-juno-official-660.webp",
+            "width": 443,
+            "height": 660
+          }
+        ]
+      },
+      "original_image": {
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_2.pdf"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

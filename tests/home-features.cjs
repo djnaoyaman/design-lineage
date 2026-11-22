@@ -52,7 +52,7 @@ for (const width of [390, 1280]) {
   const page = await browser.newPage({viewport:{width,height:900}});
   await page.goto('http://127.0.0.1:8793/index.html#selected-works');
   await page.locator('.showcase[data-mode="text"][data-scroll-ready]').waitFor();
-  assert.equal(await page.locator('.showcase-work').count(),53);
+  assert.equal(await page.locator('.showcase-work').count(),60);
   const stage = page.locator('.scroll-gallery-stage');
   const rows = page.locator('.showcase-card');
   const titles = [];
