@@ -16140,7 +16140,7 @@
       "height": 1153,
       "sha256": "bfb5a0a0ea404c9a495f419c0a3e999d6643a49e24b33ace41a659df6f3ba347",
       "entry": "Tropicalismo",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16195,7 +16195,7 @@
       },
       "sha256": "72bc9bd440a4cb7c780ebe1ef79e67fa16ba2886fd24c81c246883c5e9e6a924",
       "entry": "Tropicalismo",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16250,7 +16250,7 @@
       },
       "sha256": "d6de97a89a9427f1e8d8363a0ef70cddf2a5cd9f802fca17e9d100e0ff92c475",
       "entry": "Tropicalismo",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16297,7 +16297,7 @@
       "height": 1001,
       "sha256": "3d0c918a8ee93a890f08158de82489c49b4b8eaa73855ad28a0d2c9610a5e951",
       "entry": "Tropicalismo",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16313,6 +16313,63 @@
       },
       "original_image": {
         "url": "https://memoriasdaditadura.org.br/wp-content/uploads/2023/10/4---Ze-Celso-foi-o-responsavel-por-dirigir-Roda-Viva.jpg"
+      }
+    },
+    {
+      "id": "moholy-diagram-of-forces-1938-43",
+      "title": "力の図",
+      "title_original": "Diagram of Forces",
+      "year": "1938–1943年",
+      "author": "ラースロー・モホリ＝ナジ",
+      "institution": "ヒューストン美術館所蔵、作品番号84.238（S. I. Morris Photography Endowment による購入）",
+      "medium": "ゼラチン・シルバー・プリント（フォトグラム）。縦20.2 × 横25.2センチ。",
+      "source_page": "https://emuseum.mfah.org/objects/7768/diagram-of-forces",
+      "selection_source": "https://www.guggenheim.org/audio/track/moholy-nagy-chicago-photograms-1937-46",
+      "selection_criterion": "研究の蓄積がある作品",
+      "selection_reason": "校長モホリ＝ナジは、シカゴ校の暗室と、写真を学びたい学生を得て、紙を曲げたり折ったりして光を記録する実験を進めました。この一枚は、ぬらした印画紙を押しつぶして光に当てた、と作者自身が裏に書き残した作例です。",
+      "limitation": "校長がシカゴ時代に制作した作品です。この一枚を特定の授業で制作したという記録は確認されていません。",
+      "alt": "灰色の画面に濃い折り目が走る。左下には小さな黒い三角が折り重なり、右側には明るい面が広がる。",
+      "viewing_point": "左下から中央へ折れ目をたどってみてください。濃い灰色のすぐ横に明るい面があります。この凹凸は別の紙を写したものではなく、光を受けた印画紙そのものを丸めてできました。",
+      "local_file": "assets/new-bauhaus-chicago/moholy-diagram-of-forces-1938-43.jpg",
+      "work_source_page": "https://artsandculture.google.com/asset/diagram-of-forces-l%C3%A1szl%C3%B3-moholy-nagy/GgE36z_FI9wneg?hl=en",
+      "source_url": "https://lh3.googleusercontent.com/ci/AL18g_Q0KmKNbAvn-uCjeSQ8izGtTn2rvbgVoAlI9QOcYtk3cpFVNMg6t73KmxA1o6DFa2Mf3LNaQ7g",
+      "photographer": "原作のフォトグラム制作はラースロー・モホリ＝ナジ。複写撮影はヒューストン美術館、個人名の記載はありません。",
+      "license": "ヒューストン美術館の利用条件（広告のない非商用個人サイトで、作者・所蔵館・出典を明記して掲載）",
+      "license_url": "https://www.mfah.org/art/faq-images",
+      "credit": "László Moholy-Nagy, Diagram of Forces, 1938–1943. ヒューストン美術館所蔵。Photograph © The Museum of Fine Arts, Houston. 図版出典 www.mfah.org（同館のGoogle Arts & Culture公式展示）。",
+      "underlying_work_rights": "当該原作には所蔵館の作品台帳で Public Domain の表示があります。モホリ＝ナジ財団も非営利の教育・批評を目的とする作品画像の利用条件を案内しています。https://www.moholy-nagy.org/rights-reproduction/",
+      "reproduction_rights": "図版の権利表示は Photograph © The Museum of Fine Arts, Houston。広告のない非商用の個人サイトに提供図版を載せられるという同館の条件に従い、画像とクレジットを掲載しています。",
+      "width": 512,
+      "height": 408,
+      "display_derivatives": {
+        "method": "同館の公式展示で配信されているJPEGを無加工で使用しています。",
+        "variants": [
+          {
+            "local_file": "assets/new-bauhaus-chicago/moholy-diagram-of-forces-1938-43.jpg",
+            "width": 512,
+            "height": 408
+          }
+        ]
+      },
+      "sha256": "38244f4d78e102a6fca6a1a10e90b6d8fa395175d12c19ab8cb3fe8888e1d175",
+      "entry": "New Bauhaus Chicago",
+      "checked_at": "2026-11-22T20:52:51+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "左下から中央へ折れ目をたどってみてください。濃い灰色のすぐ横に明るい面があります。この凹凸は別の紙を写したものではなく、光を受けた印画紙そのものを丸めてできました。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "校長モホリ＝ナジは、シカゴ校の暗室と、写真を学びたい学生を得て、紙を曲げたり折ったりして光を記録する実験を進めました。この一枚は、ぬらした印画紙を押しつぶして光に当てた、と作者自身が裏に書き残した作例です。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "ゼラチン・シルバー・プリント（フォトグラム）。縦20.2 × 横25.2センチ。 ／ ヒューストン美術館所蔵、作品番号84.238（S. I. Morris Photography Endowment による購入）",
+        "provenance_note": "校長がシカゴ時代に制作した作品です。この一枚を特定の授業で制作したという記録は確認されていません。"
+      },
+      "original_image": {
+        "url": "https://lh3.googleusercontent.com/ci/AL18g_Q0KmKNbAvn-uCjeSQ8izGtTn2rvbgVoAlI9QOcYtk3cpFVNMg6t73KmxA1o6DFa2Mf3LNaQ7g"
       }
     },
     {
@@ -16353,7 +16410,7 @@
       },
       "sha256": "972749a6f63dbaba3f054cb92031608ed098d28988dae6c9efac6586461eeebf",
       "entry": "New Bauhaus Chicago",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16410,7 +16467,7 @@
       },
       "sha256": "e916da552de3940d2c97249c5e965cc87714842885f79d69c901e941de882381",
       "entry": "New Bauhaus Chicago",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16467,7 +16524,7 @@
       },
       "sha256": "248f362859910d49a95150cc7d12b25634cbb9d9916e56e16c89880f2c3cc033",
       "entry": "New Bauhaus Chicago",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16526,7 +16583,7 @@
       },
       "sha256": "3d7ec48dbc38cdff001a5490932ab8561661355e983e17466cf00a1dac434ace",
       "entry": "桑沢デザイン研究所",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16584,7 +16641,7 @@
       },
       "sha256": "5e750e2191131d35036cd21786f17693d9f95f9e0ffa30a9a432f46531196c60",
       "entry": "桑沢デザイン研究所",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16642,7 +16699,7 @@
       },
       "sha256": "fc7a013e6a06e2ddd52c311e68252eeefbd106658dca749e2d92ae9acc3d9c04",
       "entry": "桑沢デザイン研究所",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16689,7 +16746,7 @@
       "height": 222,
       "sha256": "4ce2b5a40e37f738e17b24c64745eac61be48d72d9de9aeef661325fce0217ae",
       "entry": "New Wave Typography",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16745,7 +16802,7 @@
       },
       "sha256": "9ffbfc7389ed538ebf5a28b15ce5b4a8a43488d1079800e3d8583a83462c8cc8",
       "entry": "New Wave Typography",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16792,7 +16849,7 @@
       "height": 267,
       "sha256": "6fbbb20df8451036b4d8ec94025b9912998b6e83a01bdc9417e60aef0bb1a082",
       "entry": "New Wave Typography",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16848,7 +16905,7 @@
       },
       "sha256": "8e5b740eb1fa3527240671565d9d6652c295292955c34282f2cb746813b3614e",
       "entry": "New Wave Typography",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16906,7 +16963,7 @@
       },
       "sha256": "67645e46f6d1d966c17f666374d05be4b1f2b50a8fb2d666e7bbdebb917c4815",
       "entry": "Supergraphics",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -16956,7 +17013,7 @@
       },
       "sha256": "4c7858816c911289149e1db33fea5a295dc8a177a3be0c6d75da92997fce6d8b",
       "entry": "Supergraphics",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -17009,7 +17066,7 @@
       },
       "sha256": "33ec824b429f58bd4f13fd6083278de3899c3f41451db19a089d4048bdc5b2c6",
       "entry": "Supergraphics",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -17067,7 +17124,7 @@
       },
       "sha256": "bac0c13d314895c53665df7c994cfcebbdab0bc70d7bd0ffed48587e180a8b5d",
       "entry": "Supergraphics",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",
@@ -17122,7 +17179,7 @@
       },
       "sha256": "b6ffc354fe22af0bab6ef1ab6770e62eefd8d4934dad78cd5ecd5f8993783138",
       "entry": "Supergraphics",
-      "checked_at": "2026-11-22T20:48:17+09:00",
+      "checked_at": "2026-11-22T20:52:51+09:00",
       "visual_notes": [
         {
           "title": "見るポイント",

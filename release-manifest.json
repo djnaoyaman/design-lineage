@@ -2,7 +2,7 @@
   "release": "representative-galleries-tropicalismo-new-bauhaus-chicago-kuwasawa-design-school-new-wave-typography-supergraphics",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T20:48:17+09:00",
+  "frozen_at": "2026-11-22T20:52:51+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "4b6cfe3324f802e6aeb998d37604b9ce555df41468c7e441d352b3f080c188e0"
+      "sha256": "aa572c4008db640d6b7f8053d8de2ea739688adf51e8ead0217d72acef801707"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 1038242,
-      "sha256": "974ad9b820b502835c8c20e17ee5706ab8386b13ffb58e3c89bc60a92ed9984c"
+      "bytes": 1043423,
+      "sha256": "d0ec3a1fddfa47d08ade4b5b21d3ce65bd8d7ea687122778e6702491d97b387f"
     },
     {
       "path": "analytics-status.json",
@@ -2342,6 +2342,11 @@
       "sha256": "e916da552de3940d2c97249c5e965cc87714842885f79d69c901e941de882381"
     },
     {
+      "path": "assets/new-bauhaus-chicago/moholy-diagram-of-forces-1938-43.jpg",
+      "bytes": 20250,
+      "sha256": "38244f4d78e102a6fca6a1a10e90b6d8fa395175d12c19ab8cb3fe8888e1d175"
+    },
+    {
       "path": "assets/new-bauhaus-chicago/moholy-do-not-disturb-1945.jpg",
       "bytes": 40383,
       "sha256": "248f362859910d49a95150cc7d12b25634cbb9d9916e56e16c89880f2c3cc033"
@@ -4094,7 +4099,7 @@
     {
       "path": "catalog.json",
       "bytes": 39769,
-      "sha256": "1f7367217410eafbf6e5341d1523db6f9002511468fbdccf83c86bcd877c1156"
+      "sha256": "c7bc4d623c254318cd0e47b7fed08dd644b28c50363666a93886c6550d20bacf"
     },
     {
       "path": "chapter-navigation.css",
@@ -4163,8 +4168,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2832654,
-      "sha256": "43e802117c062f834ff9d325972d7541d452f8c0ef47b03d5476b3c4d0239150"
+      "bytes": 2838694,
+      "sha256": "8b0c7891a3af8bc275549339e35b8178c421bf415d351e6a093c87a017c9c065"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -4344,7 +4349,7 @@
     {
       "path": "entries/kuwasawa-design-school.html",
       "bytes": 27122,
-      "sha256": "7e10592c267d0196447815d04071c4813d8db0f22df1b6474c9329aa07529e84"
+      "sha256": "59498c81afb0ed1384d8e5796fa13d4d9e3fb61d74677ba2012e751b4de87d69"
     },
     {
       "path": "entries/material-design.html",
@@ -4408,8 +4413,8 @@
     },
     {
       "path": "entries/new-bauhaus-chicago.html",
-      "bytes": 28423,
-      "sha256": "e76fc638172e167514f1775bd8684f604bd19f4b0e89731104761f1bcfd49ca0"
+      "bytes": 33478,
+      "sha256": "7f2e0eea394b6b3eaae0008dc341359497b7b0c58292d90982ce5c79642297e5"
     },
     {
       "path": "entries/new-typography.html",
@@ -4419,7 +4424,7 @@
     {
       "path": "entries/new-wave-typography.html",
       "bytes": 38073,
-      "sha256": "065dac102f318995a2760b3413af4afb60831ce6f79679a70f6c82f1ebc818ce"
+      "sha256": "b56a61305f0c8ff928ce49fde9a46414b0aedb863ca1bc9892e14b89a95637e3"
     },
     {
       "path": "entries/nid-ahmedabad.html",
@@ -4539,7 +4544,7 @@
     {
       "path": "entries/supergraphics.html",
       "bytes": 37527,
-      "sha256": "386959dd4275eb84d42cb32644373b157c25ec55770ec02dadb91a9bf7cb17ce"
+      "sha256": "a2767195edc0aeeaf836336edc4ec94be9c3076e00dc058329162de08b05aa63"
     },
     {
       "path": "entries/suprematism.html",
@@ -4569,7 +4574,7 @@
     {
       "path": "entries/tropicalismo.html",
       "bytes": 32852,
-      "sha256": "04166f3ff2d99342bddb29c82e80e1751c64fd63751c14a77df59e14d86c180e"
+      "sha256": "059b24a86eed6040ab6af4fe183983ed80607693549377612764e81849df18de"
     },
     {
       "path": "entries/typography-typesetting.html",
@@ -4653,8 +4658,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 96426,
-      "sha256": "5872dd590328cfb8d8fb205ba98e844d30d20a966b2712bd42efb5a9d8376c10"
+      "bytes": 96374,
+      "sha256": "9ffecaf1ce785f72cd7e6c0f0d1a0e1ccbea681d5c9477e9f650933453e1eaa6"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4694,7 +4699,7 @@
     {
       "path": "llms.txt",
       "bytes": 28082,
-      "sha256": "cff734edf93f7e0621829637cc795b4784ef5dcb1ab25ea7a4c2635651e5a262"
+      "sha256": "9e7a9669f20e80bc7af53b7c633baa7cb63e31f5d36e13eb312228d526ef4518"
     },
     {
       "path": "logo-provenance.json",
@@ -4779,7 +4784,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "477154b30d0482b6e3e61a5d810bedf2fa2ad3bd043cdc59f3102c180de2e2c3"
+      "sha256": "066dee11ba457be96c2aab7bd500c9ca98c1a047fe3ea86d7ecec106ffa57a50"
     },
     {
       "path": "site.webmanifest",
@@ -4789,7 +4794,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "3b0233fd87622e08b41ab5b8d7c0ca3d25fea2b0263a4a0e4d844281c6896347"
+      "sha256": "3e93d250c125214bfa41333c9e736e0c2e6b686fd358002091e7f893f40dbef2"
     },
     {
       "path": "study-images.js",
@@ -4898,8 +4903,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 215519,
-      "sha256": "1e77500163f05ad64dd6f98960a7e7f09336bcc66ce2bf30a2d51a97a1065a1c"
+      "bytes": 215875,
+      "sha256": "fcc4698d68a6d2c6c5b9e9c5065a8c754be84f763d9549884ddeda224f08c780"
     }
   ]
 }
