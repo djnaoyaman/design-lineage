@@ -15129,6 +15129,397 @@
       "original_image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rahmenbau_Komplettansicht_documenta6.jpg"
       }
+    },
+    {
+      "id": "jakuchu-realm-peonies",
+      "title": "芍薬群蝶図（しゃくやくぐんちょうず）",
+      "title_original": "芍薬群蝶図",
+      "author": "伊藤若冲",
+      "year": "1757〜1758年頃",
+      "institution": "皇居三の丸尚蔵館（SZK002949-001）",
+      "accession": "SZK002949-001",
+      "medium": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。",
+      "source_page": "https://commons.wikimedia.org/wiki/File:%27Peonies_and_Butterflies%27_from_the_%27Colorful_Realm_of_Living_Beings%27_by_Ito_Jakuchu.jpg",
+      "work_source_page": "https://collection.shozokan.nich.go.jp/object/SZK002949-001",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/It%C5%8D_Jakuch%C5%AB_-_Herbaceous_peonies_and_butterflies_%28Colorful_Realm_of_Living_Beings%29.jpg",
+      "license": "パブリックドメイン（Wikimedia Commonsの個別図版の表示による）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "伊藤若冲筆、皇居三の丸尚蔵館収蔵。図版提供元はWikimedia Commons。撮影者の個人名は未確認。全図を縮小しWebPに変換。",
+      "photographer": "個人名未確認",
+      "alt": "画面下部に白と赤の芍薬が咲き、その上の広い余白に蝶が舞う。",
+      "viewing_point": "下半分を埋める芍薬から、いちばん上を飛ぶ蝶まで目を運んでみましょう。花は密集しているのに、蝶と蝶の間には大きな空きがあり、羽ばたく高さまで違って見えます。",
+      "selection_criterion": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。",
+      "selection_source": "https://www.tobunken.go.jp/doshokusaie/doshoku-sai-e-colorful-realm-of-living-beings/",
+      "underlying_work_rights": "江戸時代の原作品は保護期間満了。",
+      "reproduction_rights": "掲載元の当該ファイルにはパブリックドメインと表示されています。",
+      "entry_id": "ito-jakuchu",
+      "local_file": "assets/ito-jakuchu/peonies.webp",
+      "width": 1122,
+      "height": 2000,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/ito-jakuchu/peonies-thumb.webp",
+            "width": 337,
+            "height": 600
+          }
+        ]
+      },
+      "sha256": "b6d051a5c618008a9e85f4d16aa2063dd9ce8154939ffc5448d046851369df60",
+      "entry": "Itō Jakuchū",
+      "checked_at": "2026-11-22T16:48:44+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "下半分を埋める芍薬から、いちばん上を飛ぶ蝶まで目を運んでみましょう。花は密集しているのに、蝶と蝶の間には大きな空きがあり、羽ばたく高さまで違って見えます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。 ／ 皇居三の丸尚蔵館（SZK002949-001）"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/It%C5%8D_Jakuch%C5%AB_-_Herbaceous_peonies_and_butterflies_%28Colorful_Realm_of_Living_Beings%29.jpg"
+      }
+    },
+    {
+      "id": "jakuchu-realm-mandarin-ducks",
+      "title": "雪中鴛鴦図（せっちゅうえんおうず）",
+      "title_original": "雪中鴛鴦図",
+      "author": "伊藤若冲",
+      "year": "1759年",
+      "institution": "皇居三の丸尚蔵館（SZK002949-003）",
+      "accession": "SZK002949-003",
+      "medium": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。",
+      "source_page": "https://commons.wikimedia.org/wiki/File:%27Mandarin_Ducks_in_Snow%27_from_the_%27Colorful_Realm_of_Living_Beings%27_by_Ito_Jakuchu.jpg",
+      "work_source_page": "https://collection.shozokan.nich.go.jp/object/SZK002949-003",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/It%C5%8D_Jakuch%C5%AB_-_Mandarin_ducks_in_the_snow_%28Colorful_Realm_of_Living_Beings%29.jpg",
+      "license": "パブリックドメイン（Wikimedia Commonsの個別図版の表示による）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "伊藤若冲筆、皇居三の丸尚蔵館収蔵。図版提供元はWikimedia Commons。撮影者の個人名は未確認。全図を縮小しWebPに変換。",
+      "photographer": "個人名未確認",
+      "alt": "雪をかぶった枝の下で、一羽のオシドリが岸に立ち、もう一羽が水に潜る。",
+      "viewing_point": "岸に立つオシドリを見つけたら、水面にも目を向けてください。もう一羽は頭を水に入れ、尾だけをのぞかせています。同じ鳥のまったく違う姿勢が、一枚の中で出会います。",
+      "selection_criterion": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。",
+      "selection_source": "https://www.tobunken.go.jp/doshokusaie/doshoku-sai-e-colorful-realm-of-living-beings/",
+      "underlying_work_rights": "江戸時代の原作品は保護期間満了。",
+      "reproduction_rights": "掲載元の当該ファイルにはパブリックドメインと表示されています。",
+      "entry_id": "ito-jakuchu",
+      "local_file": "assets/ito-jakuchu/mandarin-ducks.webp",
+      "width": 1281,
+      "height": 2200,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/ito-jakuchu/mandarin-ducks-thumb.webp",
+            "width": 349,
+            "height": 600
+          }
+        ]
+      },
+      "sha256": "f29588c0a93dc38e6913af53ab59330976d08cf996ce23da20bfef88f16c342d",
+      "entry": "Itō Jakuchū",
+      "checked_at": "2026-11-22T16:48:44+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "岸に立つオシドリを見つけたら、水面にも目を向けてください。もう一羽は頭を水に入れ、尾だけをのぞかせています。同じ鳥のまったく違う姿勢が、一枚の中で出会います。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。 ／ 皇居三の丸尚蔵館（SZK002949-003）"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/It%C5%8D_Jakuch%C5%AB_-_Mandarin_ducks_in_the_snow_%28Colorful_Realm_of_Living_Beings%29.jpg"
+      }
+    },
+    {
+      "id": "jakuchu-realm-fowls",
+      "title": "群鶏図（ぐんけいず）",
+      "title_original": "群鶏図",
+      "author": "伊藤若冲",
+      "year": "1765年以前",
+      "institution": "皇居三の丸尚蔵館（SZK002949-020）",
+      "accession": "SZK002949-020",
+      "medium": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Imperial_Collections_001.jpg",
+      "work_source_page": "https://collection.shozokan.nich.go.jp/object/SZK002949-020",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Museum_of_the_Imperial_Collections_001.jpg",
+      "license": "パブリックドメイン（Wikimedia Commonsの個別図版の表示による）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "伊藤若冲筆、皇居三の丸尚蔵館収蔵。図版提供元はWikimedia Commons。撮影者の個人名は未確認。全図を縮小しWebPに変換。",
+      "photographer": "個人名未確認",
+      "alt": "赤いとさかと白・黒・褐色の羽をもつ鶏たちが画面いっぱいに重なる。",
+      "viewing_point": "赤いとさかを一つずつたどると、重なっていた鶏の体がほどけて見えます。顔の向きも、黒い尾羽が描く弧も、一羽ずつ違います。",
+      "selection_criterion": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。",
+      "selection_source": "https://www.tobunken.go.jp/doshokusaie/doshoku-sai-e-colorful-realm-of-living-beings/",
+      "underlying_work_rights": "江戸時代の原作品は保護期間満了。",
+      "reproduction_rights": "掲載元の当該ファイルにはパブリックドメインと表示されています。",
+      "entry_id": "ito-jakuchu",
+      "local_file": "assets/ito-jakuchu/fowls.webp",
+      "width": 1281,
+      "height": 2200,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/ito-jakuchu/fowls-thumb.webp",
+            "width": 349,
+            "height": 600
+          }
+        ]
+      },
+      "sha256": "39ca427319c44e5fa602809321fc0ae2ca2254a3ff2cff0a8f89bed82165619e",
+      "entry": "Itō Jakuchū",
+      "checked_at": "2026-11-22T16:48:44+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "赤いとさかを一つずつたどると、重なっていた鶏の体がほどけて見えます。顔の向きも、黒い尾羽が描く弧も、一羽ずつ違います。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。 ／ 皇居三の丸尚蔵館（SZK002949-020）"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Museum_of_the_Imperial_Collections_001.jpg"
+      }
+    },
+    {
+      "id": "jakuchu-realm-pond",
+      "title": "池辺群虫図（ちへんぐんちゅうず）",
+      "title_original": "池辺群虫図",
+      "author": "伊藤若冲",
+      "year": "1765年以前",
+      "institution": "皇居三の丸尚蔵館（SZK002949-023）",
+      "accession": "SZK002949-023",
+      "medium": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。",
+      "source_page": "https://commons.wikimedia.org/wiki/File:%27Pond_and_Insects%27_from_the_%27Colorful_Realm_of_Living_Beings%27_by_Ito_Jakuchu.jpg",
+      "work_source_page": "https://collection.shozokan.nich.go.jp/object/SZK002949-023",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%27Pond_and_Insects%27_from_the_%27Colorful_Realm_of_Living_Beings%27_by_Ito_Jakuchu.jpg",
+      "license": "パブリックドメイン（Wikimedia Commonsの個別図版の表示による）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "伊藤若冲筆、皇居三の丸尚蔵館収蔵。図版提供元はWikimedia Commons。撮影者の個人名は未確認。全図を縮小しWebPに変換。",
+      "photographer": "個人名未確認",
+      "alt": "草の葉や茎が交差する水辺に大小の虫や小さな生きものが潜む。",
+      "viewing_point": "まず大きな葉を見て、次に茎や葉の縁をたどってみてください。緑と茶の中に小さな生きものが次々に現れ、最初は静かに見えた草むらがにぎやかになります。",
+      "selection_criterion": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。",
+      "selection_source": "https://www.tobunken.go.jp/doshokusaie/doshoku-sai-e-colorful-realm-of-living-beings/",
+      "underlying_work_rights": "江戸時代の原作品は保護期間満了。",
+      "reproduction_rights": "掲載元の当該ファイルにはパブリックドメインと表示されています。",
+      "entry_id": "ito-jakuchu",
+      "local_file": "assets/ito-jakuchu/pond.webp",
+      "width": 871,
+      "height": 1500,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/ito-jakuchu/pond-thumb.webp",
+            "width": 348,
+            "height": 600
+          }
+        ]
+      },
+      "sha256": "132ea5b93f8aca9509e195123b96544034205dcfdb214d3e840d8fb20c6697d7",
+      "entry": "Itō Jakuchū",
+      "checked_at": "2026-11-22T16:48:44+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "まず大きな葉を見て、次に茎や葉の縁をたどってみてください。緑と茶の中に小さな生きものが次々に現れ、最初は静かに見えた草むらがにぎやかになります。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。 ／ 皇居三の丸尚蔵館（SZK002949-023）"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%27Pond_and_Insects%27_from_the_%27Colorful_Realm_of_Living_Beings%27_by_Ito_Jakuchu.jpg"
+      }
+    },
+    {
+      "id": "jakuchu-realm-shells",
+      "title": "貝甲図（ばいこうず）",
+      "title_original": "貝甲図",
+      "author": "伊藤若冲",
+      "year": "1765年以前",
+      "institution": "皇居三の丸尚蔵館（SZK002949-024）",
+      "accession": "SZK002949-024",
+      "medium": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。",
+      "source_page": "https://commons.wikimedia.org/wiki/File:It%C5%8D_Jakuch%C5%AB_-_Shells_(Colorful_Realm_of_Living_Beings).jpg",
+      "work_source_page": "https://collection.shozokan.nich.go.jp/object/SZK002949-024",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/It%C5%8D_Jakuch%C5%AB_-_Shells_%28Colorful_Realm_of_Living_Beings%29.jpg",
+      "license": "パブリックドメイン（Wikimedia Commonsの個別図版の表示による）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "伊藤若冲筆、皇居三の丸尚蔵館収蔵。図版提供元はWikimedia Commons。撮影者の個人名は未確認。全図を縮小しWebPに変換。",
+      "photographer": "個人名未確認",
+      "alt": "砂色の地に縞や渦のある貝が集まり、その間を青い水が通る。",
+      "viewing_point": "大きな二枚貝の縞と、小さな巻貝の渦を比べてみましょう。貝の間を青い水が縫うように通り、ばらばらの形を一つの浜辺につないでいます。",
+      "selection_criterion": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。",
+      "selection_source": "https://www.tobunken.go.jp/doshokusaie/doshoku-sai-e-colorful-realm-of-living-beings/",
+      "underlying_work_rights": "江戸時代の原作品は保護期間満了。",
+      "reproduction_rights": "掲載元の当該ファイルにはパブリックドメインと表示されています。",
+      "entry_id": "ito-jakuchu",
+      "local_file": "assets/ito-jakuchu/shells.webp",
+      "width": 1277,
+      "height": 2200,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/ito-jakuchu/shells-thumb.webp",
+            "width": 348,
+            "height": 600
+          }
+        ]
+      },
+      "sha256": "2a8e8041eea4f5540afa4e184a03fb47f153b605b99f5ed9186fd82908432a44",
+      "entry": "Itō Jakuchū",
+      "checked_at": "2026-11-22T16:48:44+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "大きな二枚貝の縞と、小さな巻貝の渦を比べてみましょう。貝の間を青い水が縫うように通り、ばらばらの形を一つの浜辺につないでいます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。 ／ 皇居三の丸尚蔵館（SZK002949-024）"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/It%C5%8D_Jakuch%C5%AB_-_Shells_%28Colorful_Realm_of_Living_Beings%29.jpg"
+      }
+    },
+    {
+      "id": "jakuchu-realm-octopus",
+      "title": "諸魚図（しょぎょず）",
+      "title_original": "諸魚図",
+      "author": "伊藤若冲",
+      "year": "1766年頃",
+      "institution": "皇居三の丸尚蔵館（SZK002949-027）",
+      "accession": "SZK002949-027",
+      "medium": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。",
+      "source_page": "https://commons.wikimedia.org/wiki/File:It%C5%8D_Jakuch%C5%AB_-_Fish_and_octopus_(Colorful_Realm_of_Living_Beings).jpg",
+      "work_source_page": "https://collection.shozokan.nich.go.jp/object/SZK002949-027",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/It%C5%8D_Jakuch%C5%AB_-_Fish_and_octopus_%28Colorful_Realm_of_Living_Beings%29.jpg",
+      "license": "パブリックドメイン（Wikimedia Commonsの個別図版の表示による）",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "伊藤若冲筆、皇居三の丸尚蔵館収蔵。図版提供元はWikimedia Commons。撮影者の個人名は未確認。全図を縮小しWebPに変換。",
+      "photographer": "個人名未確認",
+      "alt": "赤い蛸の周りに、長い魚、平たい魚、斑点のある魚が泳ぐ。",
+      "viewing_point": "中央の蛸から伸びる腕と、その周りを泳ぐ細長い魚を見比べてください。反る線、まっすぐな線、丸い魚体が並び、水中の動きに違いが生まれます。",
+      "selection_criterion": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。",
+      "selection_source": "https://www.tobunken.go.jp/doshokusaie/doshoku-sai-e-colorful-realm-of-living-beings/",
+      "underlying_work_rights": "江戸時代の原作品は保護期間満了。",
+      "reproduction_rights": "掲載元の当該ファイルにはパブリックドメインと表示されています。",
+      "entry_id": "ito-jakuchu",
+      "local_file": "assets/ito-jakuchu/octopus.webp",
+      "width": 1278,
+      "height": 2200,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/ito-jakuchu/octopus-thumb.webp",
+            "width": 348,
+            "height": 600
+          }
+        ]
+      },
+      "sha256": "934eedf59ee9be938b169ba91ea04a181e69a6e886f0f71bf346fe043993090e",
+      "entry": "Itō Jakuchū",
+      "checked_at": "2026-11-22T16:48:44+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "中央の蛸から伸びる腕と、その周りを泳ぐ細長い魚を見比べてください。反る線、まっすぐな線、丸い魚体が並び、水中の動きに違いが生まれます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "若冲の代表作《動植綵絵》の一幅。所蔵館が各幅を個別に記録し、東京文化財研究所とともに描き方や材料を調査しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "国宝《動植綵絵》全30幅のうちの一幅。絹に彩色した掛軸。 ／ 皇居三の丸尚蔵館（SZK002949-027）"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/It%C5%8D_Jakuch%C5%AB_-_Fish_and_octopus_%28Colorful_Realm_of_Living_Beings%29.jpg"
+      }
+    },
+    {
+      "id": "met-jakuchu-river-1975-268-70",
+      "title": "乗興舟（じょうきょうしゅう）",
+      "title_original": "Pleasant Diversions on a Riverboat Journey",
+      "author": "伊藤若冲（画）、大典顕常（詩）",
+      "year": "1767年頃",
+      "institution": "メトロポリタン美術館（1975.268.70）",
+      "accession": "1975.268.70",
+      "medium": "紙に墨で刷った木版の絵巻。掲載図版は巻物の一部分。",
+      "source_page": "https://www.metmuseum.org/art/collection/search/44919",
+      "work_source_page": "https://www.metmuseum.org/art/collection/search/44919",
+      "source_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44919/176006/main-image",
+      "license": "CC0 1.0（The Met Open Access）",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "図版 The Metropolitan Museum of Art, 1975.268.70（The Met Open Access、CC0）。撮影者個人の記載はありません。WebPに変換。",
+      "alt": "暗い地に白く浮かぶ川岸と橋。遠くには山が重なり、風景の上に詩の文字がある。",
+      "viewing_point": "橋の欄干と岸辺の木に注目してください。暗い地に明るい線が浮き、淡い山がその奥に重なります。巻物を右から左へ少しずつ開くと、舟に乗った人のように景色をたどれます。",
+      "selection_criterion": "若冲の木版を代表する絵巻。メトロポリタン美術館と千葉市美術館がそれぞれ所蔵本と刷り方を紹介しています。",
+      "selection_source": "https://www.ccma-net.jp/collection/works/4561/",
+      "underlying_work_rights": "江戸時代の原作品は保護期間満了。",
+      "reproduction_rights": "当該作品に美術館がPublic Domainを表示し、Open Accessで公開。",
+      "entry_id": "ito-jakuchu",
+      "local_file": "assets/ito-jakuchu/river-scroll.webp",
+      "width": 1200,
+      "height": 338,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/ito-jakuchu/river-scroll-thumb.webp",
+            "width": 420,
+            "height": 118
+          }
+        ]
+      },
+      "sha256": "60943de399554b7d6a6a89c9add92e046395a29f714d391935dff241cb15b1bc",
+      "entry": "Itō Jakuchū",
+      "checked_at": "2026-11-22T16:48:44+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "橋の欄干と岸辺の木に注目してください。暗い地に明るい線が浮き、淡い山がその奥に重なります。巻物を右から左へ少しずつ開くと、舟に乗った人のように景色をたどれます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "若冲の木版を代表する絵巻。メトロポリタン美術館と千葉市美術館がそれぞれ所蔵本と刷り方を紹介しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙に墨で刷った木版の絵巻。掲載図版は巻物の一部分。 ／ メトロポリタン美術館（1975.268.70）"
+      },
+      "original_image": {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44919/176006/main-image"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."

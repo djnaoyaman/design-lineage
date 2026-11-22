@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-radical-design",
+  "release": "representative-galleries-ito-jakuchu",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T16:05:18+09:00",
+  "frozen_at": "2026-11-22T16:48:44+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "321724b6a1fbc7caeb0d5b8918697d1c390dc69c29443b1cd27249da7f93db5d"
+      "sha256": "eef7950a632bf3da2a75c595a53a267dd5b7100a578ba738778b140671e21233"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 884836,
-      "sha256": "3495a22d3614909705e72ebec718f3f40c64fa37edfbacb90ed23917fa1495a0"
+      "bytes": 909985,
+      "sha256": "8b1dd7e645904de11bf20dc24aab180a2e3aa5ab200b1d8228ce7c1b4bcc4acf"
     },
     {
       "path": "analytics-status.json",
@@ -58,8 +58,8 @@
     },
     {
       "path": "artists.json",
-      "bytes": 400964,
-      "sha256": "e5917e51cc94dd6f20645258579758e1cbaed60f43dbb0d67c9a75c523f8a060"
+      "bytes": 400977,
+      "sha256": "e30065e3bff67e94f3c9c957d12bf2c67edb41064e07da72d85ca8ef12880e6a"
     },
     {
       "path": "assets/3d-clay-illustration/clay-camera-660.webp",
@@ -1350,6 +1350,76 @@
       "path": "assets/isotype/isotype-92.webp",
       "bytes": 199912,
       "sha256": "639513c02b912ad54d9b3fd42201e42ca399626deb671228a3ca5c296c872560"
+    },
+    {
+      "path": "assets/ito-jakuchu/fowls-thumb.webp",
+      "bytes": 56772,
+      "sha256": "ade29056379edcd890adb5188ab10c1cbbd540c74848f3ec04d402788222df14"
+    },
+    {
+      "path": "assets/ito-jakuchu/fowls.webp",
+      "bytes": 729034,
+      "sha256": "39ca427319c44e5fa602809321fc0ae2ca2254a3ff2cff0a8f89bed82165619e"
+    },
+    {
+      "path": "assets/ito-jakuchu/mandarin-ducks-thumb.webp",
+      "bytes": 48002,
+      "sha256": "90cce797ecdf82e2d9f463dd79f6222e79f2faf12fdc270e6c141167d1bc5ed4"
+    },
+    {
+      "path": "assets/ito-jakuchu/mandarin-ducks.webp",
+      "bytes": 719472,
+      "sha256": "f29588c0a93dc38e6913af53ab59330976d08cf996ce23da20bfef88f16c342d"
+    },
+    {
+      "path": "assets/ito-jakuchu/octopus-thumb.webp",
+      "bytes": 28124,
+      "sha256": "6b726d65ba28294c83be1c566cdcb4e4d2cb49bb6f30d21aaf2072a48fd36be3"
+    },
+    {
+      "path": "assets/ito-jakuchu/octopus.webp",
+      "bytes": 345292,
+      "sha256": "934eedf59ee9be938b169ba91ea04a181e69a6e886f0f71bf346fe043993090e"
+    },
+    {
+      "path": "assets/ito-jakuchu/peonies-thumb.webp",
+      "bytes": 31166,
+      "sha256": "e09708dc8a0fc6dd440fd859903090e63c7a896e779ec3e91644a9d7e53c540c"
+    },
+    {
+      "path": "assets/ito-jakuchu/peonies.webp",
+      "bytes": 378146,
+      "sha256": "b6d051a5c618008a9e85f4d16aa2063dd9ce8154939ffc5448d046851369df60"
+    },
+    {
+      "path": "assets/ito-jakuchu/pond-thumb.webp",
+      "bytes": 39222,
+      "sha256": "85682992c9cdbb8876a669af714188b39218a669ce22e48ad3f1cbb3899bc9d9"
+    },
+    {
+      "path": "assets/ito-jakuchu/pond.webp",
+      "bytes": 273324,
+      "sha256": "132ea5b93f8aca9509e195123b96544034205dcfdb214d3e840d8fb20c6697d7"
+    },
+    {
+      "path": "assets/ito-jakuchu/river-scroll-thumb.webp",
+      "bytes": 8078,
+      "sha256": "4ec149f760e2db9cc428abb2230f29757f6deabecfb0ac88d6223ec271ed6f3e"
+    },
+    {
+      "path": "assets/ito-jakuchu/river-scroll.webp",
+      "bytes": 93004,
+      "sha256": "60943de399554b7d6a6a89c9add92e046395a29f714d391935dff241cb15b1bc"
+    },
+    {
+      "path": "assets/ito-jakuchu/shells-thumb.webp",
+      "bytes": 36574,
+      "sha256": "64cc9aa60dce9504681b20543e1f6c98156e664666361a2ace974862d4f87eaf"
+    },
+    {
+      "path": "assets/ito-jakuchu/shells.webp",
+      "bytes": 457022,
+      "sha256": "2a8e8041eea4f5540afa4e184a03fb47f153b605b99f5ed9186fd82908432a44"
     },
     {
       "path": "assets/jakuchu-bean-vine-met-original-1200.webp",
@@ -3753,8 +3823,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39557,
-      "sha256": "071e3ab2287f5986f52c12c9f0805e95567530d23586a61c9dcdd0d9837ae04b"
+      "bytes": 39526,
+      "sha256": "c30bfc3291ae012bf68ad10836c5d0015f60650262d698d57d7c5ba269f539da"
     },
     {
       "path": "chapter-navigation.css",
@@ -3823,8 +3893,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2645269,
-      "sha256": "c6e8ba10859dc6623415eca39040e0d49c7e2c7c6920c408f4639cd944e9c90c"
+      "bytes": 2676104,
+      "sha256": "e1ff0a5f4b53e64b0955e3bd7fe16811332e775d40a4536ae26978e06337512f"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -3983,8 +4053,8 @@
     },
     {
       "path": "entries/ito-jakuchu.html",
-      "bytes": 36303,
-      "sha256": "725d0620a71f3759624518237171237642472759e8c2675018ca7727ccd3700c"
+      "bytes": 62680,
+      "sha256": "6a0882de09603801e374ba77e288bdfd3d9bd2660ff040d669feb869bf8f25e4"
     },
     {
       "path": "entries/jugendstil.html",
@@ -4314,7 +4384,7 @@
     {
       "path": "index.html",
       "bytes": 91010,
-      "sha256": "7a732b7a26c6a05cd35f9f698cae431fc04c403206c4aba801c6aef79595f841"
+      "sha256": "971cec5db75d9a745e3f8fd6dbb7427a668248363e1c440af787bcd5a873af4b"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4353,8 +4423,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 27395,
-      "sha256": "2813e79e02a776075539bc2e7294497985985058552f4d80e45bfdf5c0cb5153"
+      "bytes": 27396,
+      "sha256": "a6f67c5e628e0509f07573b065b2049e91fe56f32c99f443ca0ceee0dfabc351"
     },
     {
       "path": "logo-provenance.json",
@@ -4439,7 +4509,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "d5e75a393a1a0e56ed3a3526a25f87ebe769f593eb1841626c4be726cd16f31b"
+      "sha256": "9ab75d162e8c8bed00e1668939ecac3c2909facc71fa20dcb20fbcc21e960f39"
     },
     {
       "path": "site.webmanifest",
@@ -4449,7 +4519,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "406e506b1d5af9522425e4c4af905392ae7c6a70f0b074daea4dc07e4c2726e7"
+      "sha256": "c1c254f22dd9313a670245a51a96eed896f5a5613842260c39923cc5da6645e3"
     },
     {
       "path": "study-images.js",
@@ -4558,8 +4628,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 199320,
-      "sha256": "ac3b2a558e1dc39df74154e339a177bbe6adc107c2b1a6e8e850901f8756f0ca"
+      "bytes": 201247,
+      "sha256": "3ccc7c6046d8d1f80049a4899ead2fd06aed21226be896be689f06ce0426a5d9"
     }
   ]
 }

@@ -111,4 +111,4 @@
 - [3D・粘土のようなイラスト / 3D / clay illustration](https://djnaoyaman.github.io/design-lineage/entries/3d-clay-illustration.html): 現代の表現方法・説明用の分類。近年のデジタル表現。3D全体の起源を示す年代ではない。実作品画像5点、画像収録は継続中。
 - [情報や飾りを重ねるウェブ表現 / Maximalist web](https://djnaoyaman.github.io/design-lineage/entries/maximalist-web.html): 現代の表現方法・説明用の分類。掲載例：2026年の催事、継続公開の制作者サイト。実作品画像4点、画像収録は継続中。
 
-- [伊藤若冲（いとう じゃくちゅう）](https://djnaoyaman.github.io/design-lineage/entries/ito-jakuchu.html): 人物・画家。主な紹介作品：1750年代後半〜1792年（生没年1716〜1800年とは区別）。実作品画像2点、作品・制作の例4件、人物1人。画像収録は継続中。
+- [伊藤若冲（いとう じゃくちゅう）](https://djnaoyaman.github.io/design-lineage/entries/ito-jakuchu.html): 人物・画家。主な紹介作品：1750年代後半〜1792年（生没年1716〜1800年とは区別）。実作品画像9点、作品・制作の例10件、人物1人。画像収録は継続中。
