@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-risograph",
+  "release": "representative-galleries-taller-grafica-popular",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T10:46:00+09:00",
+  "frozen_at": "2026-11-22T10:53:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "9bbe8b4384427156e09f58476415f767338942ac3f25306932c1e7c62cf26c7d"
+      "sha256": "3c9eb7129f71522e465adf8aa2345aafa62db491e1623011f6814c7c0e63c1a3"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 756692,
-      "sha256": "3e9fafdad8ea7eb76cf851e68742792afa20bfe3ba1c14e512c929f38f62e027"
+      "bytes": 819959,
+      "sha256": "4b6053542aa6d9d0359e5b991689930427f515c374a0c4f72ab74d4cfa8f7db3"
     },
     {
       "path": "analytics-status.json",
@@ -932,6 +932,66 @@
       "sha256": "fa132d344f6bb3245c2c6a3089e90d2cc8a9bdf581730e95cd4009e03f627a60"
     },
     {
+      "path": "assets/glassmorphism/farvist-LICENSE.txt",
+      "bytes": 1064,
+      "sha256": "66b441c1ea166e73b3b2e8ce6143a252cc860ea17932520d6502cee3746e7c13"
+    },
+    {
+      "path": "assets/glassmorphism/glass-deepin-660.webp",
+      "bytes": 17248,
+      "sha256": "f540c9beb1c137e432a59e232ba71d762a3ec8eadf30d93e5ba9ca5292099151"
+    },
+    {
+      "path": "assets/glassmorphism/glass-deepin.webp",
+      "bytes": 51868,
+      "sha256": "ab411c6690f8027bf45deda3b4fc9b18b70a01ea06b8a58cebce3e73dfdacb97"
+    },
+    {
+      "path": "assets/glassmorphism/glass-farvist-660.webp",
+      "bytes": 9856,
+      "sha256": "0d43eaf69effac64adb23c9ef114d1ada9216cb24bf57af63b1167c3435fafb9"
+    },
+    {
+      "path": "assets/glassmorphism/glass-farvist.webp",
+      "bytes": 26568,
+      "sha256": "60da82ca2fb0d10f3da7b52ec5dd2fb08e82ae351df50d9af77d8398156184d1"
+    },
+    {
+      "path": "assets/glassmorphism/glass-glasskit-660.webp",
+      "bytes": 24566,
+      "sha256": "65fc8277f9075e594ebc5f5c47c457a198768ce647e0f75c39f2d13203ba8658"
+    },
+    {
+      "path": "assets/glassmorphism/glass-glasskit.webp",
+      "bytes": 76416,
+      "sha256": "b564f01cba55299a313ed69fa12521d629c053a3930ce7adcc28815d982d3af5"
+    },
+    {
+      "path": "assets/glassmorphism/glass-terminal-660.webp",
+      "bytes": 4190,
+      "sha256": "f428d354e6c958bfbc82a54e4e0f23ba678960511340a5c4807195fef4283486"
+    },
+    {
+      "path": "assets/glassmorphism/glass-terminal.webp",
+      "bytes": 14450,
+      "sha256": "5e87dfb0be37a813195fc5ee3db71b6295ea45204a2329cbfad07b791a6e455b"
+    },
+    {
+      "path": "assets/glassmorphism/glass-win-acrylic-660.webp",
+      "bytes": 11136,
+      "sha256": "779cc0095945d4f3e3c99eb7dc10e628858d0a2912eb9ad45cafedbf10f5f0d1"
+    },
+    {
+      "path": "assets/glassmorphism/glass-win-acrylic.webp",
+      "bytes": 35412,
+      "sha256": "18544e3feb94327429e1c88f4994e5cb66632ae5381e6d544e94cd1f3ac5f570"
+    },
+    {
+      "path": "assets/glassmorphism/glasskit-LICENSE.txt",
+      "bytes": 1070,
+      "sha256": "6d6cb76b8562617afa7207f95f987b0948ab1004cefa52688c7f4021e58eef1a"
+    },
+    {
       "path": "assets/grid-01-columns-1200.png",
       "bytes": 76115,
       "sha256": "7741a1a00cf92d172aa314b074f3fb8e98d0cce0ad26ba9c1ef85bfad5650302"
@@ -1325,6 +1385,51 @@
       "path": "assets/kandinsky-meistermappe-1923-official.jpg",
       "bytes": 209451,
       "sha256": "9146adc6a9effd97a73b3b1802656c5379caf527f276130ffa950fbd2b108205"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-ambigram-660.webp",
+      "bytes": 11418,
+      "sha256": "4ddda85bbea5cf6f702631f337c4d76677533cb9b9cfeb120dfdbc730b9ed446"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-ambigram.webp",
+      "bytes": 30412,
+      "sha256": "b15ab6dc483dc36dd5b04df9ac2b752a3cedd6e172195f0d0e70f63ddb29fda8"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-blackton-660.webp",
+      "bytes": 10198,
+      "sha256": "3aa90f68a2050e66e5cf3a898b9fd1a31e980ec1691221be217c56f23e50d679"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-blackton.webp",
+      "bytes": 30990,
+      "sha256": "c639cfadc741019d684efd16bef7b94f4f5a010d1fb02ee2571f0cec3d0d0b9e"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-decrypt-660.webp",
+      "bytes": 8302,
+      "sha256": "f4be24299ac8499c1ea8293ce488e441204db97e92b0bd2eafbebdaa4b745f6b"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-decrypt.webp",
+      "bytes": 33778,
+      "sha256": "829a92fb65c84ce1b6fe78435c587f2733d29bbdf90d90d889908d76adca1011"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-porter-660.webp",
+      "bytes": 7484,
+      "sha256": "ed5c1eb75f93ff55927df1d97852d52d5f78bc2b870db8d496c0dc4285a74f3f"
+    },
+    {
+      "path": "assets/kinetic-typography/kinetic-typography-porter.webp",
+      "bytes": 18082,
+      "sha256": "a72b26c0b809688c92703f37ced357819dba8bad5ac9005c8cfb86773f504c9e"
+    },
+    {
+      "path": "assets/kinetic-typography/terminaltexteffects-LICENSE.txt",
+      "bytes": 1072,
+      "sha256": "3fcebf231b8ef157211a2f334431563e7227984f5f7187baa98d227246bab5c4"
     },
     {
       "path": "assets/klee-man-fell-in-love-1923-640.webp",
@@ -2767,6 +2872,46 @@
       "sha256": "b2a75fb3159a22fad17866de45c6fb4016e1829302e0d6013516e90b28c4f60c"
     },
     {
+      "path": "assets/punk-diy/punk-days-war-nights-love-660.webp",
+      "bytes": 36448,
+      "sha256": "e196dc25295797c51a75dafef8bc8349c7db2bb952ed7c186fd330dea3820d06"
+    },
+    {
+      "path": "assets/punk-diy/punk-days-war-nights-love.webp",
+      "bytes": 82564,
+      "sha256": "59e98f560e78c6bc0486a915e4db372d41d1ec9f2356fe132c28c3b24cca63dc"
+    },
+    {
+      "path": "assets/punk-diy/punk-harbinger-3-660.webp",
+      "bytes": 73638,
+      "sha256": "57ff708abd0ffd087861a96d8007dde6715ad07991a23f146a002303925ec464"
+    },
+    {
+      "path": "assets/punk-diy/punk-harbinger-3.webp",
+      "bytes": 123366,
+      "sha256": "e601e517e417218de3760c7f634489d035d38a340c91e09eb3317084a747a1d3"
+    },
+    {
+      "path": "assets/punk-diy/punk-inside-front-12-660.webp",
+      "bytes": 43748,
+      "sha256": "955588b524cd39df10f8a55831f935f16bcb70abab2d35140c24b0deb28ff393"
+    },
+    {
+      "path": "assets/punk-diy/punk-inside-front-12.webp",
+      "bytes": 193602,
+      "sha256": "cb6e29a4dcf914ef3c64669e782eb89a8d4fc58bd7a7ce07a9538d3b1a796f48"
+    },
+    {
+      "path": "assets/punk-diy/punk-inside-front-reunion-660.webp",
+      "bytes": 75504,
+      "sha256": "d96886220b96e0add8f882f26ad44ae4b079ddffb213419016be5309e07328af"
+    },
+    {
+      "path": "assets/punk-diy/punk-inside-front-reunion.webp",
+      "bytes": 377618,
+      "sha256": "3313e28e783fb2599d9940a25930e429d3c08199e61e26f47b3248c429926150"
+    },
+    {
       "path": "assets/rinpa-kenzan-style-dish-1000.webp",
       "bytes": 137648,
       "sha256": "729c29c3dc017edcba0fa4375488750f911ff76820c9d16396ee36f904b5272b"
@@ -3097,6 +3242,56 @@
       "sha256": "64177ed327113b781c215a6dd7af9e579d557728a5574a92a5295d5997b1b184"
     },
     {
+      "path": "assets/taller-grafica-popular/tgp-arenal-land-660.webp",
+      "bytes": 93962,
+      "sha256": "9882db1c9feba4c78784d3fa1270130e50772cc927a510d2d8087ec0c5c07441"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-arenal-land.webp",
+      "bytes": 366282,
+      "sha256": "05b1dfaab67c14c64e1a4ee9cd2a7a383f858d80dd9353bc9a42bab67da767ac"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127548-660.webp",
+      "bytes": 67720,
+      "sha256": "458e1ad1caa61abf9dc6bcb73b927413fa4a93d7fc7c6f7bbd01b3a8566af98e"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127548.webp",
+      "bytes": 130002,
+      "sha256": "c066564618cbc223889ac58b1e269f9378dcb8ecdaf91656ffcb11228f2c6f62"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127553-660.webp",
+      "bytes": 61816,
+      "sha256": "053ac6b00d4a6b9253ba8d5ba5ab78e5188b02422aba15c588d5cb8bb02886d1"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127553.webp",
+      "bytes": 122382,
+      "sha256": "0e186c941aefc9b2cf05d19094edcad91b3ca0914da643772b2a7284face28fc"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127569-660.webp",
+      "bytes": 60586,
+      "sha256": "d64412b43bb00e1235ffa88ddcd6c9bf001457157fefff16b8da154729e86f13"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127569.webp",
+      "bytes": 122308,
+      "sha256": "e00390057bc2b164af2ae4cda8fc1cca280f6ae756cceb74ecaa3372580de2c4"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127571-660.webp",
+      "bytes": 54682,
+      "sha256": "1beff2c9996863ef4c041addf8c3486ab8096630ce084b0f586c98fa72c2bce1"
+    },
+    {
+      "path": "assets/taller-grafica-popular/tgp-posada-127571.webp",
+      "bytes": 109306,
+      "sha256": "c4d60ce48d298afe091146960910cd3acfe764e97986741055f73975b4c5129a"
+    },
+    {
       "path": "assets/tropical-modernism/assembly-660.webp",
       "bytes": 52952,
       "sha256": "f20415a01892016b2dbf645e18dff429576ed1afca6b125b1fa6267e3ab7932b"
@@ -3232,6 +3427,131 @@
       "sha256": "d40076a8594ea948ab2d124a36f02634ef56492577ee21083ce2df102ed7d3d8"
     },
     {
+      "path": "assets/web-brutalism/11ty-LICENSE.txt",
+      "bytes": 1070,
+      "sha256": "17819ceaaa1a2b4b693c5a8a3e8c9f105664245c4c6d986aef2d77ec9f14203f"
+    },
+    {
+      "path": "assets/web-brutalism/brutalist-framework-LICENSE.txt",
+      "bytes": 1646,
+      "sha256": "836b95cfedbdb190a0989f08627f7f3c8fb989fca23467e9f064a57332878af5"
+    },
+    {
+      "path": "assets/web-brutalism/gueudaxe-license.txt",
+      "bytes": 1064,
+      "sha256": "7104ec938c4afa6547df861fcadffa6e00f4ac6ac4e53dc8d90c06bf4a525269"
+    },
+    {
+      "path": "assets/web-brutalism/korean-LICENSE.txt",
+      "bytes": 10850,
+      "sha256": "3203ed5aae0a81966898cf580d4b840d6330835cf63bb19b68266886bc5722e8"
+    },
+    {
+      "path": "assets/web-brutalism/rampstack-license.txt",
+      "bytes": 1070,
+      "sha256": "7957f4b291988f21be7cb75637d2efb6edd0369a95d3814cac7ef931f7f10b7c"
+    },
+    {
+      "path": "assets/web-brutalism/wb-axel-g-660.webp",
+      "bytes": 2698,
+      "sha256": "796a7488c846ef21645d5a2b08c13387986bd5e6e861502deb4fa1701959d09d"
+    },
+    {
+      "path": "assets/web-brutalism/wb-axel-g.webp",
+      "bytes": 9094,
+      "sha256": "b2f6e4ad0e674bbe0581853af340e6e2151ed40661a4e4077076166a0ee56cc4"
+    },
+    {
+      "path": "assets/web-brutalism/wb-plainstate-660.webp",
+      "bytes": 34208,
+      "sha256": "4eea614bfeb9c7ebfbd8aa2e881eeb445ec4ecb673c849f162eb28f50c7a5b70"
+    },
+    {
+      "path": "assets/web-brutalism/wb-plainstate.webp",
+      "bytes": 120810,
+      "sha256": "e6adc31a30da3a08d0f0912a4b157b2c9fb9fc530e3bddbba33949c167472445"
+    },
+    {
+      "path": "assets/web-brutalism/webbrut-11ty-660.webp",
+      "bytes": 33244,
+      "sha256": "f2a6cde83760c5e0639f8691ae84cfccefdd76b0319a6466658f78eefd6f3d72"
+    },
+    {
+      "path": "assets/web-brutalism/webbrut-11ty.webp",
+      "bytes": 116784,
+      "sha256": "5477320bdb8fead2924fe377ac96ce1e3f4b6cf7eb6131150e56466428761f36"
+    },
+    {
+      "path": "assets/web-brutalism/webbrut-bf-static-660.webp",
+      "bytes": 26262,
+      "sha256": "af3edacf84366cfa6cfb08eff35d00d4d59c8545b75ab986e5b17566e8dd0604"
+    },
+    {
+      "path": "assets/web-brutalism/webbrut-bf-static.webp",
+      "bytes": 53312,
+      "sha256": "5d074a77adc719552a9e1dbbd7f256d9f60ab280a0df7d90651c23d2a5b71930"
+    },
+    {
+      "path": "assets/web-brutalism/webbrut-korean-660.webp",
+      "bytes": 10852,
+      "sha256": "37520d21d2259689a817029f9abea252caed3dd51980b65e26bd6985d880fa49"
+    },
+    {
+      "path": "assets/web-brutalism/webbrut-korean.webp",
+      "bytes": 23170,
+      "sha256": "b90993ac112ad1b5acf6d3f2bf1bc2dc5c145040070c1bf1a11df4cdf7f33ac9"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-cageroll-660.webp",
+      "bytes": 18000,
+      "sha256": "671de2bd4cc4d86f454e2976ebd45f5402f68a1f3c1c79088a59476b6d93822b"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-cageroll.webp",
+      "bytes": 26082,
+      "sha256": "14e782d841c31d8ba05e9183909207f7832091ed97863a4755224632fe348422"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-halcyn-660.webp",
+      "bytes": 13758,
+      "sha256": "6eee26bcaea4d9cc072c8a20cfd1c6e73d125dd5de4481a76e1f63544326a1f3"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-halcyn.webp",
+      "bytes": 14230,
+      "sha256": "b46db4e714d5323928146557bf6ba6e17d980c974414512c08dd9330d96d0c56"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-hypik-660.webp",
+      "bytes": 15960,
+      "sha256": "26e47d05d599136b402a97a39293a303d7df05ca69bd55c47cddec499919b177"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-hypik.webp",
+      "bytes": 3246,
+      "sha256": "6540879bb2d2d7e566eb47c7df04c26c7fc9a76e5354409e9968af6a8adb182a"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-intranet-660.webp",
+      "bytes": 16168,
+      "sha256": "20b8a3767b2d52ae9924389a4c847ea22ade0a07186e8c5d39cc0c95b5e196a9"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-intranet.webp",
+      "bytes": 18938,
+      "sha256": "e1337d7f5aecdf84af0cc1657cf046f8ed20ef7be85e59b7261ef32bc396e892"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-y1999k-660.webp",
+      "bytes": 13490,
+      "sha256": "0fffd3fd49790b05da46ac6fb2b8d143fe71ce7891ca4827856b98462db0cb79"
+    },
+    {
+      "path": "assets/y2k-revival/y2k-revival-y1999k.webp",
+      "bytes": 14672,
+      "sha256": "4d715c0a0046a128c06b4ea94faf7dc915675c791682807d61b24f53ba3d4df4"
+    },
+    {
       "path": "bauhaus-explainer-provenance.json",
       "bytes": 2064,
       "sha256": "4deb846066703eb255ae1ad59ef3f0dcc7645fdfaeb720dae139cbe6f3f08671"
@@ -3243,8 +3563,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39490,
-      "sha256": "3d3b90f72582462e1d86057295d5bbdfc3e66d9e584f8f26bde2cb182a9f5f63"
+      "bytes": 39418,
+      "sha256": "61db957545977acee82c891c002a8252e8dd0189908373c7f22fcb8b549f45fa"
     },
     {
       "path": "chapter-navigation.css",
@@ -3313,8 +3633,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2472492,
-      "sha256": "9df1e852959371a54d97d067b7c9cf9a1357059d2adb0c16b459a23b342855a3"
+      "bytes": 2564437,
+      "sha256": "0681efd194b0be5fc17efe220658b0a73d09029aff3db8ab10b268d5af8a7077"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -3428,8 +3748,8 @@
     },
     {
       "path": "entries/glassmorphism.html",
-      "bytes": 12583,
-      "sha256": "db9274d4a0dc22fc9e34c72b254e089efb78eb630ffae1b2387043d9aba3d39c"
+      "bytes": 25978,
+      "sha256": "bcbd41081d3a840eca07b11df2449b42f140d77329b746c1ebd750387c067145"
     },
     {
       "path": "entries/grid-systems.html",
@@ -3488,8 +3808,8 @@
     },
     {
       "path": "entries/kinetic-typography.html",
-      "bytes": 12653,
-      "sha256": "12991f06f51b1ec1c052373736adf0d17c14fd8ba3f618bd84a66c5d12862151"
+      "bytes": 25380,
+      "sha256": "3bbe2be572f40cb9f5b86b57e971ff0f69c60d42bc8d9be944f221dbe6b19b15"
     },
     {
       "path": "entries/kuwasawa-design-school.html",
@@ -3618,8 +3938,8 @@
     },
     {
       "path": "entries/punk-diy.html",
-      "bytes": 13221,
-      "sha256": "38d43199a7f80c707762ec32499891d31cf6ddde0c3097ffa90e6093a9861a53"
+      "bytes": 26034,
+      "sha256": "55a1c644c6b5c8173bc7ac44e53d2fcee24785bd7da2fb793f4504dc598af24c"
     },
     {
       "path": "entries/radical-design.html",
@@ -3708,8 +4028,8 @@
     },
     {
       "path": "entries/taller-grafica-popular.html",
-      "bytes": 13600,
-      "sha256": "a82698f1a70602dce90b9d6881b3a1f8512d671f6cfac464ab866844eb22f18d"
+      "bytes": 30450,
+      "sha256": "f2d6841006ca2876236e50e0e8f57e8ef3e8565155c16a9e06d1a9d7d1d032aa"
     },
     {
       "path": "entries/tropical-modernism.html",
@@ -3753,8 +4073,8 @@
     },
     {
       "path": "entries/web-brutalism.html",
-      "bytes": 11853,
-      "sha256": "8d4c7b39c1b88020d14b68f4a71de63cc16459e38a85d759e041ec7123065666"
+      "bytes": 26523,
+      "sha256": "ea0d41fe56a827dedbaa7a6b40460d04f1ba9214ed9c85207c3b9468a3e20bc7"
     },
     {
       "path": "entries/wiener-werkstaette.html",
@@ -3763,8 +4083,8 @@
     },
     {
       "path": "entries/y2k-revival.html",
-      "bytes": 12694,
-      "sha256": "4b34f2ef81d7e36affe2bf8b7ae652f81de4579221919a1be2e20d675b0e970a"
+      "bytes": 27064,
+      "sha256": "49a6534917002d4343d5b3375c4f8aecc5494d69bdcbc1cd345846ca97dc5436"
     },
     {
       "path": "external-preview-rights.json",
@@ -3803,8 +4123,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 81853,
-      "sha256": "8b51625986420cb4e6ec90860a8ed28bab6b94e5162e33babf0c7fae252be62a"
+      "bytes": 86131,
+      "sha256": "6cc450f8ba6d6592905c9f7c303c9467d43c35d45ea3aca0a7ea59ba50b640c3"
     },
     {
       "path": "japanese-name-sources.json",
@@ -3844,7 +4164,7 @@
     {
       "path": "llms.txt",
       "bytes": 27373,
-      "sha256": "9be9b50d21d59a0ac61acdc7b74d4bdee419d24ea84baa0dc9e8d2d6387d7c4f"
+      "sha256": "cd42e0fb5c9b933acda7a549a6071f6639a9910df47df1c351f5568e80027144"
     },
     {
       "path": "logo-provenance.json",
@@ -3929,7 +4249,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "e6a3fa7dfccdb602faf240d25a5b6ee3f7e07ec9701e47012bd2ed11537e14d9"
+      "sha256": "70f1e280a576a4abe74b82636c4d6cf78c09f86e0ab40be84d06d794c161dcb5"
     },
     {
       "path": "site.webmanifest",
@@ -3938,8 +4258,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 12644,
-      "sha256": "d5df62a74c4ed062a6dbd80aa57db5cc79e0a5649c7e16aea3d7c4d1afd60396"
+      "bytes": 12554,
+      "sha256": "de31abe4074dc668c8a95a8c2cc494d1281d10b04c59d99ffde75390783e238f"
     },
     {
       "path": "study-images.js",
@@ -3979,7 +4299,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "3f01e4dcd035b0598a588571398596005b98d43c3d6aafe3f605493cef0c15ca"
+      "sha256": "ac74b67cfe216b7b2c62a9c78c8016a597526356a69af43d3d89d920a182ad45"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -3989,7 +4309,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "de2801e5544e2da40970f52731021cb5202954c01f131787dab984ab154d7125"
+      "sha256": "6cc0685b76896cdcdf285892b7878c494e04c2990dcdf18032ac50d960a83ac8"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4048,8 +4368,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 185731,
-      "sha256": "9d001070b3369b5deeed04dff768d7401f3a9da3c114d750203ca11dff376387"
+      "bytes": 193643,
+      "sha256": "1a53269340d84d3d7ba46b2dba70142f9b61d97f75764cecef74d756584c1481"
     }
   ]
 }
