@@ -1,8 +1,8 @@
 {
-  "release": "representative-plates-01",
+  "release": "representative-plates-02",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T07:30:00+09:00",
+  "frozen_at": "2026-11-22T07:33:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5162,
-      "sha256": "366038be8a2ad9803a64b4917f65c38a5298efd110f108df87c9b434f6f45e8b"
+      "sha256": "a392806bb124622a6e464a504ff052ddb573cd1f7d0332ce8c27ef8d60434858"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 486137,
-      "sha256": "abd1019502068b6a079b21a66f12dfb01a3f3fb4c7e82d40c744bb4dfff5f074"
+      "bytes": 493943,
+      "sha256": "fadd3181b1283a35313f8392bdf5b3ac964965f4cb3f8fe6dcea0e9b728cdb9d"
     },
     {
       "path": "analytics-status.json",
@@ -460,6 +460,46 @@
       "path": "assets/cma-1995.4-schwitters.jpg",
       "bytes": 2420057,
       "sha256": "465479f697632b8528fdc213c3e74f4ab00dc2b6227ae4a88376be091c33a084"
+    },
+    {
+      "path": "assets/collage/gris-cafe-660.webp",
+      "bytes": 50912,
+      "sha256": "37875c610527f343b02533604c35446cc04cd841a1b58def2580bffdba0aa10d"
+    },
+    {
+      "path": "assets/collage/gris-cafe.webp",
+      "bytes": 75872,
+      "sha256": "af8e5243607ef3981829b1f59b4a35d2825c3fb1da6885fe71683eb1c0d7fd09"
+    },
+    {
+      "path": "assets/collage/gris-guitar-660.webp",
+      "bytes": 42464,
+      "sha256": "dcdc4f9ddf25680f1752ec599d7a37f49c04da9d419bf799ec13c47220d4b954"
+    },
+    {
+      "path": "assets/collage/gris-guitar.webp",
+      "bytes": 292674,
+      "sha256": "30ab91acb5a32b78a5cda6c14db09b6b9d8bdeabb8efab887186ad246b8192b8"
+    },
+    {
+      "path": "assets/collage/schwitters-bonbon-660.webp",
+      "bytes": 26830,
+      "sha256": "560f94b3bac9758fd5bd2b782c26b2079aa08411750ef41a07ab1c7ab796ab8e"
+    },
+    {
+      "path": "assets/collage/schwitters-bonbon.webp",
+      "bytes": 107388,
+      "sha256": "94cb8b045b36eb62820e7bc689b0c611b949f24ab6e540eea28f113c69fe8ae6"
+    },
+    {
+      "path": "assets/collage/schwitters-merz50-660.webp",
+      "bytes": 51740,
+      "sha256": "57c30c7019f5fa346b3e805cebb43c8b3a3f47000f707e9984ddb796900f52a8"
+    },
+    {
+      "path": "assets/collage/schwitters-merz50.webp",
+      "bytes": 355454,
+      "sha256": "8510dbc9fb848d425657334446850504b6ddae2ab7146247159d40eda78947d5"
     },
     {
       "path": "assets/commons-dalbera-dada-head-1200.webp",
@@ -2028,8 +2068,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2084573,
-      "sha256": "07dd028be868aa986e91ef721ed487755caf612f1169bc5365a34dacb2d8cf2e"
+      "bytes": 2096049,
+      "sha256": "94bae8443a4d630b25c38b90f8e1ceb746c50f3fc22cc71c97ae0959bcfff3b7"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -2093,8 +2133,8 @@
     },
     {
       "path": "entries/collage.html",
-      "bytes": 12644,
-      "sha256": "a9060acd8a493a1d3e4d9c53fb9df37ed38ccceaa07a6f95f1a146ba46cba31f"
+      "bytes": 23602,
+      "sha256": "f50dad8b04d4c2638b0321b45da6b6d8a8e278ef03a8f14b7e5924bb80c88022"
     },
     {
       "path": "entries/critical-regionalism.html",
@@ -2518,8 +2558,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 60405,
-      "sha256": "3c9b8f9a7d7c870a40f32af93b50350652057d73e064bbdd4c0aeb504f5eeea1"
+      "bytes": 60993,
+      "sha256": "2de812952402a12806a0fae4b393c628e02e8920fe5f41cacbd4c1c8d1b6eace"
     },
     {
       "path": "japanese-name-sources.json",
@@ -2644,7 +2684,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "c8cfe6c8dd36615b6319006ae9944706a1f3ca9f9f0d68c63fad913d721e5641"
+      "sha256": "c59745f8df2c71bc557a2796121248905230338ab0bca5abb534b90427b74621"
     },
     {
       "path": "site.webmanifest",
@@ -2694,7 +2734,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "8998b1e858d761da26fee52b546e31c1ce09f783e6f5598e088a4c5d80c34a15"
+      "sha256": "c472947b820843b28d41fde74c0a1a8b4b90144680c93d0dd5bfcecfa4ba66e4"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -2704,7 +2744,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "2b50f00ebbab9592c3491fb07e8c47d53623ad1222f3b54c67ffc85e17bb564e"
+      "sha256": "ed7d4999722ba60aa89b3291f90544ac759c6d5fba117d9c47b3a53aa1ca4ea2"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -2763,8 +2803,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 150502,
-      "sha256": "7f1f3545149e6c87327c0ccadbd7fd0efeb3ece1d650c740e6a6f378ab6089b6"
+      "bytes": 151457,
+      "sha256": "09e7589eed911581f61525ea84d82ad9bb6f465f201004a28367d77793ccb159"
     }
   ]
 }

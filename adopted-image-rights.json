@@ -8216,6 +8216,162 @@
           }
         ]
       }
+    },
+    {
+      "id": "gris-cafe",
+      "entry": "Collage",
+      "title": "カフェの男",
+      "title_original": "The Man at the Café",
+      "year": "1914年",
+      "author": "フアン・グリス",
+      "institution": "メトロポリタン美術館",
+      "medium": "パピエ・コレ、絵具ほか",
+      "source_page": "https://www.metmuseum.org/art/collection/search/500421",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Juan_Gris_Mann_im_Cafe_1914.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "メトロポリタン美術館所蔵／Wikimedia Commons",
+      "local_file": "assets/collage/gris-cafe.webp",
+      "width": 525,
+      "height": 728,
+      "alt": "木目模様の紙が角度を変えて重なり、中央に新聞を読む人物の輪郭が見える。",
+      "viewing_point": "メトロポリタン美術館の解説は、異なる木目模様でテーブルや壁を描き分けた点に注目しています。帽子と新聞を探すと、貼った紙の境目から人物の姿が浮かびます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "メトロポリタン美術館の解説は、異なる木目模様でテーブルや壁を描き分けた点に注目しています。帽子と新聞を探すと、貼った紙の境目から人物の姿が浮かびます。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T07:33:00+09:00",
+      "sha256": "af8e5243607ef3981829b1f59b4a35d2825c3fb1da6885fe71683eb1c0d7fd09",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/collage/gris-cafe-660.webp",
+            "width": 476,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "gris-guitar",
+      "entry": "Collage",
+      "title": "ギターとグラス",
+      "title_original": "Guitar and Glasses",
+      "year": "1914年",
+      "author": "フアン・グリス",
+      "institution": "ニューヨーク近代美術館（MoMA）",
+      "medium": "パピエ・コレ、絵具ほか",
+      "source_page": "https://www.moma.org/collection/works/80423",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Juan_Gris_-_Guitar_and_Glasses_%281914%29.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "MoMA所蔵／Wikimedia Commons",
+      "local_file": "assets/collage/gris-guitar.webp",
+      "width": 1056,
+      "height": 1500,
+      "alt": "複数の紙片が重なり、ギターとグラスの形が断片的に見える。",
+      "viewing_point": "同じ時期のグリスが、貼った紙と描いた線をひとつの静物画に組み込んだ例。紙の縁とギターの輪郭がどこで出会うかをたどれます。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "同じ時期のグリスが、貼った紙と描いた線をひとつの静物画に組み込んだ例。紙の縁とギターの輪郭がどこで出会うかをたどれます。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T07:33:00+09:00",
+      "sha256": "30ab91acb5a32b78a5cda6c14db09b6b9d8bdeabb8efab887186ad246b8192b8",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/collage/gris-guitar-660.webp",
+            "width": 465,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "schwitters-bonbon",
+      "entry": "Collage",
+      "title": "メルツ53 赤いボンボン",
+      "title_original": "Merzz. 53. Red Bonbon.",
+      "year": "1920年",
+      "author": "クルト・シュヴィッタース",
+      "institution": "ソロモン・R・グッゲンハイム美術館",
+      "medium": "紙、厚紙、糸、黒鉛のコラージュ",
+      "source_page": "https://www.guggenheim.org/artwork/3850",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:%27Merzz._53._Red_Bonbon%27_by_Kurt_Schwitters%2C_1920.JPG",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "グッゲンハイム美術館所蔵／Wikimedia Commons",
+      "local_file": "assets/collage/schwitters-bonbon.webp",
+      "width": 1079,
+      "height": 1500,
+      "alt": "厚紙の上に小さな色紙と印刷紙、細い糸が重なる。",
+      "viewing_point": "色紙と印刷物に糸も加えた、小さなメルツ作品。紙の切れ方、赤い断片、糸の細さを比べると、素材の違いが構図にどう関わるかが分かります。",
+      "visual_notes": [
+        {
+          "title": "選定理由・代表作",
+          "text": "色紙と印刷物に糸も加えた、小さなメルツ作品。紙の切れ方、赤い断片、糸の細さを比べると、素材の違いが構図にどう関わるかが分かります。"
+        }
+      ],
+      "selection_criterion": "代表作",
+      "checked_at": "2026-11-22T07:33:00+09:00",
+      "sha256": "94cb8b045b36eb62820e7bc689b0c611b949f24ab6e540eea28f113c69fe8ae6",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/collage/schwitters-bonbon-660.webp",
+            "width": 475,
+            "height": 660
+          }
+        ]
+      }
+    },
+    {
+      "id": "schwitters-merz50",
+      "entry": "Collage",
+      "title": "メルツ50",
+      "title_original": "Merz Composition",
+      "year": "1922年",
+      "author": "クルト・シュヴィッタース",
+      "institution": "ブダペスト国立西洋美術館",
+      "medium": "紙片・布などのコラージュ",
+      "source_page": "https://www.mfab.hu/artworks/11131/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Kurt_Schwitters_-_%22Merz_50%22_Composition_-_Google_Art_Project.jpg",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "ブダペスト国立西洋美術館所蔵／Google Arts & Culture、Wikimedia Commons",
+      "local_file": "assets/collage/schwitters-merz50.webp",
+      "width": 1143,
+      "height": 1500,
+      "alt": "文字が刷られた切符や紙の断片、布が四角い紙面に重ねられている。",
+      "viewing_point": "所蔵館が素材や贈られた経緯を記録している作品。切符や包装紙、新聞、布の断片が重なり、日常の印刷物が画面の色や大きさを決めています。",
+      "visual_notes": [
+        {
+          "title": "選定理由・よく研究されている",
+          "text": "所蔵館が素材や贈られた経緯を記録している作品。切符や包装紙、新聞、布の断片が重なり、日常の印刷物が画面の色や大きさを決めています。"
+        }
+      ],
+      "selection_criterion": "よく研究されている",
+      "checked_at": "2026-11-22T07:33:00+09:00",
+      "sha256": "8510dbc9fb848d425657334446850504b6ddae2ab7146247159d40eda78947d5",
+      "display_derivatives": {
+        "method": "画像全体を縮小しWebPに変換。",
+        "variants": [
+          {
+            "local_file": "assets/collage/schwitters-merz50-660.webp",
+            "width": 503,
+            "height": 660
+          }
+        ]
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
