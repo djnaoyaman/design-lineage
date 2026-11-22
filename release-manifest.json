@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-ito-jakuchu",
+  "release": "representative-galleries-black-mountain-college",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T16:48:44+09:00",
+  "frozen_at": "2026-11-22T17:34:38+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "eef7950a632bf3da2a75c595a53a267dd5b7100a578ba738778b140671e21233"
+      "sha256": "378759eeaa7f9c2afd67c332f3ea4881a3a1445eb4f0d62f527fad65b66be31f"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 909985,
-      "sha256": "8b1dd7e645904de11bf20dc24aab180a2e3aa5ab200b1d8228ce7c1b4bcc4acf"
+      "bytes": 923066,
+      "sha256": "fc4a4fc53b5d069db22b3c8f088db9503d422839e1cc12bf04185282d4afd5e1"
     },
     {
       "path": "analytics-status.json",
@@ -295,6 +295,36 @@
       "path": "assets/bento-layouts/migueravila-license.txt",
       "bytes": 35127,
       "sha256": "9f828068e5eb1c624b9617fdf9df2eefcd38b3aa28199484adb1111f2957ff4a"
+    },
+    {
+      "path": "assets/black-mountain-college/fuller-geodesic-dome-1949-thumb.webp",
+      "bytes": 21662,
+      "sha256": "e30be83158be816364623c990ff27ee88618c6eea306dccf5268344e53e8ca0f"
+    },
+    {
+      "path": "assets/black-mountain-college/fuller-geodesic-dome-1949.webp",
+      "bytes": 156268,
+      "sha256": "2fedaefe09a5fcbfb0c84818a7a1000b3f66993c95bfed0e43a977c0ccc0cfcb"
+    },
+    {
+      "path": "assets/black-mountain-college/fuller-supine-dome-1948-thumb.webp",
+      "bytes": 25330,
+      "sha256": "239b7a1e384c7e05466a332507c21bc1df843213348f92b90ea83fb7e05454d8"
+    },
+    {
+      "path": "assets/black-mountain-college/fuller-supine-dome-1948.webp",
+      "bytes": 253620,
+      "sha256": "6ca340ad378b1d719c8da05319baa348d93a8591eacb0966b4ec6ca60b1c423e"
+    },
+    {
+      "path": "assets/black-mountain-college/kocher-service-building-1941-thumb.webp",
+      "bytes": 19646,
+      "sha256": "383b8921ad738c7069898d35cd01602dc156b31b029676196bcf74621c76739b"
+    },
+    {
+      "path": "assets/black-mountain-college/kocher-service-building-1941.webp",
+      "bytes": 69160,
+      "sha256": "401d950f9e80574684b98ef3666b595c69e8bbdb06ad82d7c80097d5ef9ecd9a"
     },
     {
       "path": "assets/black-mountain-college/kocher-studies-building-highsmith-thumb.webp",
@@ -3824,7 +3854,7 @@
     {
       "path": "catalog.json",
       "bytes": 39526,
-      "sha256": "c30bfc3291ae012bf68ad10836c5d0015f60650262d698d57d7c5ba269f539da"
+      "sha256": "865686d7b960735e41aa1c58b6154f828e5af25002c3e299ea4828e601873bc4"
     },
     {
       "path": "chapter-navigation.css",
@@ -3893,8 +3923,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2676104,
-      "sha256": "e1ff0a5f4b53e64b0955e3bd7fe16811332e775d40a4536ae26978e06337512f"
+      "bytes": 2693065,
+      "sha256": "4a35b9633c44fedb00abd1997c9824fe9979a0064bde6b95b85414514a0194c5"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -3938,8 +3968,8 @@
     },
     {
       "path": "entries/black-mountain-college.html",
-      "bytes": 17988,
-      "sha256": "f7cd9da62240e8b5fb1f8ed24d311546cf22e040da8e2168d73e2ebd3ea68334"
+      "bytes": 31809,
+      "sha256": "6172f1e425f277f49ec533f46c837a696c08b5295eca81e3059385081a12fe9e"
     },
     {
       "path": "entries/brazilian-modernism.html",
@@ -4384,7 +4414,7 @@
     {
       "path": "index.html",
       "bytes": 91010,
-      "sha256": "971cec5db75d9a745e3f8fd6dbb7427a668248363e1c440af787bcd5a873af4b"
+      "sha256": "38aa121a8946f941f6c0e87c3e11beb0a65e82a3bdf9b874eb2b3b36deffb991"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4424,7 +4454,7 @@
     {
       "path": "llms.txt",
       "bytes": 27396,
-      "sha256": "a6f67c5e628e0509f07573b065b2049e91fe56f32c99f443ca0ceee0dfabc351"
+      "sha256": "fd06f19274157d146c8662f6151406db58e8c386e6f5161ef0eff849425a6996"
     },
     {
       "path": "logo-provenance.json",
@@ -4493,8 +4523,8 @@
     },
     {
       "path": "scripts/render-entries.py",
-      "bytes": 24603,
-      "sha256": "d8830f0152d6bb28b0316cf64bfaa11a2b4bec3373034127fe6bb962d8e4711b"
+      "bytes": 24664,
+      "sha256": "280a5ff6eeea76fab175cba68f65af207cc56e5ea08a5de2a264e606a673b024"
     },
     {
       "path": "share-copy.json",
@@ -4509,7 +4539,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "9ab75d162e8c8bed00e1668939ecac3c2909facc71fa20dcb20fbcc21e960f39"
+      "sha256": "82b654c94b9edca82898e376b14a7d3708e68d20539eb2045a25bc2fba979e07"
     },
     {
       "path": "site.webmanifest",
@@ -4519,7 +4549,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "c1c254f22dd9313a670245a51a96eed896f5a5613842260c39923cc5da6645e3"
+      "sha256": "ccc5fb06a27d7e6749f6245dd144d591907ed120f13f3e6afd1475e06ffe926f"
     },
     {
       "path": "study-images.js",
@@ -4568,8 +4598,8 @@
     },
     {
       "path": "tests/home-features.cjs",
-      "bytes": 8229,
-      "sha256": "8dd2665dd708aa12afb1e3349c02c3ce10bf4d1e8051d5f92d787795dc5e4721"
+      "bytes": 9004,
+      "sha256": "c0df9a47a946846ee05ab27de61838679a74a459f4f6a73c3f449c48bce893a0"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4628,8 +4658,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 201247,
-      "sha256": "3ccc7c6046d8d1f80049a4899ead2fd06aed21226be896be689f06ce0426a5d9"
+      "bytes": 202650,
+      "sha256": "b1c1285c13ba0868944b9b3a8c0fe9d410f52a614d925d0b8c651fbc12a722c5"
     }
   ]
 }

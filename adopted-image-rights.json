@@ -15074,6 +15074,165 @@
       }
     },
     {
+      "id": "bmc-service-building-kocher-1941",
+      "title": "サービス棟の建設",
+      "title_original": "Construction of Service Building, Lake Eden Campus, Black Mountain College",
+      "author": "設計 A・ローレンス・コッハー、施工監督 ロバート・ブリス、教員・学生",
+      "year": "1941年",
+      "institution": "原写真はブラック・マウンテン・カレッジ文書、Western Regional Archives（ノースカロライナ州公文書館）。",
+      "medium": "建築（建設中の記録写真）",
+      "source_page": "https://appx.archives.ncdcr.gov/findingaids/506_Black_Mountain_College_Reco_.html",
+      "work_source_page": "https://www.flickr.com/photos/davidsilver/29160034221",
+      "license": "CC BY-NC-SA 2.0（Flickr掲載図版。縮小のみ）",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "credit": "原写真の撮影者は未詳。Black Mountain College Papers, Black Mountain College Collection, Western Regional Archives, Asheville, North Carolina. Flickr掲載・提供 David Silver。",
+      "alt": "山を背に建設中の木造サービス棟。正面上部に窓枠、中央に梯子、手前に木材が積まれている。",
+      "viewing_point": "浅い勾配の屋根と、少ない材料で組まれた木の骨組みを見てみましょう。完成品だけでなく、学生と教員が一緒に建てる過程そのものが教育でした。",
+      "selection_criterion": "学校の共同作業を伝える代表例。州公文書館のコレクション記録と1941年8月の学校ニュースレターは、ロバート・ブリスの指揮で建設が進んだことを記録しています。",
+      "local_file": "assets/black-mountain-college/kocher-service-building-1941.webp",
+      "underlying_work_rights": "1941年に建てられ、1943年に焼失した建築。ここでは設計図ではなく建設中の記録写真を掲載します。建物の設計と写真の利用条件は別に扱います。",
+      "reproduction_rights": "Flickrの個別ページで、掲載者David SilverがCC BY-NC-SA 2.0を指定しています。原写真はWestern Regional Archives所蔵と明記されています。表示用WebPは色や構図を変えず縮小しました。",
+      "reuse_notice": "非営利利用、表示、同一条件での共有など、CC BY-NC-SA 2.0の条件を守ってください。原資料を別の用途で出版する場合は、所蔵館の案内も確認してください。",
+      "image_source": "https://live.staticflickr.com/8169/29160034221_1a723ac76d_b.jpg",
+      "width": 1024,
+      "height": 778,
+      "display_derivatives": {
+        "method": "画面表示用に縮小し、WebPへ変換しています。",
+        "variants": [
+          {
+            "local_file": "assets/black-mountain-college/kocher-service-building-1941-thumb.webp",
+            "width": 480,
+            "height": 365
+          }
+        ]
+      },
+      "sha256": "401d950f9e80574684b98ef3666b595c69e8bbdb06ad82d7c80097d5ef9ecd9a",
+      "entry": "Black Mountain College",
+      "checked_at": "2026-11-22T17:34:38+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "浅い勾配の屋根と、少ない材料で組まれた木の骨組みを見てみましょう。完成品だけでなく、学生と教員が一緒に建てる過程そのものが教育でした。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "学校の共同作業を伝える代表例。州公文書館のコレクション記録と1941年8月の学校ニュースレターは、ロバート・ブリスの指揮で建設が進んだことを記録しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "建築（建設中の記録写真） ／ 原写真はブラック・マウンテン・カレッジ文書、Western Regional Archives（ノースカロライナ州公文書館）。"
+      },
+      "original_image": {
+        "url": "https://live.staticflickr.com/8169/29160034221_1a723ac76d_b.jpg"
+      }
+    },
+    {
+      "id": "bmc-supine-dome-1948",
+      "title": "立ち上がらなかったドーム（Supine Dome）",
+      "title_original": "Supine Dome experiment",
+      "author": "R・バックミンスター・フラーとブラック・マウンテン・カレッジの学生・教員",
+      "year": "1948年",
+      "institution": "Black Mountain College Research Project Papers, Visual Materials, State Archives of North Carolina。",
+      "medium": "共同制作・建築実験（記録写真）",
+      "source_page": "https://www.blackmountaincollege.org/buckminster-fuller/",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:BMCRP_VM_Bx87_GuerTrude_ClassesFuller_54l--Sum1948_(6506059873).jpg",
+      "license": "既知の著作権制限なし（Flickr Commons）",
+      "license_url": "https://www.flickr.com/commons/usage/",
+      "credit": "撮影者未詳。Black Mountain College Research Project Papers, Visual Materials, State Archives of North Carolina. Courtesy of the State Archives of North Carolina. Flickr Commons photo 6506059873。",
+      "alt": "草地の上に、細い帯材を格子状に広げた大きなドーム実験が横たわっている。周囲に小さく人が立つ。",
+      "viewing_point": "細い帯が三角形をつくりながら地面いっぱいに広がる様子を見てください。失敗を隠さず、材料の弱さを次の実験へつないだことが、この学校らしい学びでした。",
+      "selection_criterion": "フラーの1948年夏の代表的な実験。翌年の成功したドームとは別の作品で、ブラック・マウンテン・カレッジ美術館とノースカロライナ州の歴史資料が経緯を解説しています。",
+      "local_file": "assets/black-mountain-college/fuller-supine-dome-1948.webp",
+      "underlying_work_rights": "1948年の共同建築実験。構造デザイン自体の再利用条件まで自由であるとは表示しません。ここでは公文書館が『既知の著作権制限なし』として公開した記録写真を掲載します。",
+      "reproduction_rights": "ノースカロライナ州公文書館がFlickr Commonsで『既知の著作権制限なし』として公開し、Wikimedia Commonsでも2017年1月10日に同条件が確認されています。これは無保証の権利表示であり、CC0とは異なります。",
+      "reuse_notice": "原画像の権利表示は『既知の著作権制限なし』です。出典をCourtesy of the State Archives of North Carolinaとして明記しています。表示用WebPは縮小のみ行いました。",
+      "image_source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/BMCRP_VM_Bx87_GuerTrude_ClassesFuller_54l--Sum1948_%286506059873%29.jpg",
+      "width": 1272,
+      "height": 1600,
+      "display_derivatives": {
+        "method": "画面表示用に縮小し、WebPへ変換しています。",
+        "variants": [
+          {
+            "local_file": "assets/black-mountain-college/fuller-supine-dome-1948-thumb.webp",
+            "width": 382,
+            "height": 480
+          }
+        ]
+      },
+      "sha256": "6ca340ad378b1d719c8da05319baa348d93a8591eacb0966b4ec6ca60b1c423e",
+      "entry": "Black Mountain College",
+      "checked_at": "2026-11-22T17:34:38+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "細い帯が三角形をつくりながら地面いっぱいに広がる様子を見てください。失敗を隠さず、材料の弱さを次の実験へつないだことが、この学校らしい学びでした。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "フラーの1948年夏の代表的な実験。翌年の成功したドームとは別の作品で、ブラック・マウンテン・カレッジ美術館とノースカロライナ州の歴史資料が経緯を解説しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "共同制作・建築実験（記録写真） ／ Black Mountain College Research Project Papers, Visual Materials, State Archives of North Carolina。"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/BMCRP_VM_Bx87_GuerTrude_ClassesFuller_54l--Sum1948_%286506059873%29.jpg"
+      }
+    },
+    {
+      "id": "bmc-autonomous-dwelling-dome-1949",
+      "title": "自律型住居施設のためのジオデシック構造",
+      "title_original": "Autonomous Dwelling Facility with a Geodesic Structure",
+      "author": "R・バックミンスター・フラー、Institute of Designとブラック・マウンテン・カレッジの学生・協力者",
+      "year": "1949年",
+      "institution": "Black Mountain College Research Project Papers, Visual Materials, State Archives of North Carolina。",
+      "medium": "共同制作・建築実験（記録写真）",
+      "source_page": "https://www.dncr.nc.gov/blog/2016/02/23/buckminster-fuller-developed-geodesic-dome-design-black-mountain-raleigh",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:BMCRP_VM_Bx89_Nakagawa_FullerB_11zz--Sum1949_(6506071011).jpg",
+      "license": "既知の著作権制限なし（Flickr Commons）",
+      "license_url": "https://www.flickr.com/commons/usage/",
+      "credit": "撮影 Masato Nakagawa（州公文書館目録では同氏の1949年夏季資料として整理）。Black Mountain College Research Project Papers, Visual Materials, State Archives of North Carolina. Courtesy of the State Archives of North Carolina. Flickr Commons photo 6506071011。",
+      "alt": "透明な膜で覆われた半球形のドーム。細い管が多数の三角形をつくり、山を背景に自立している。",
+      "viewing_point": "細い管が三角形を連ね、透明な膜を支える様子を見てください。1948年の帯材の実験と比べると、材料と接合の変化が分かります。",
+      "selection_criterion": "世界的に知られるジオデシック・ドームへつながる代表的な試作。ノースカロライナ州文化資源局と州公文書館の目録が、1949年夏の作品名、参加者、実験内容を記録しています。",
+      "local_file": "assets/black-mountain-college/fuller-geodesic-dome-1949.webp",
+      "underlying_work_rights": "1949年の共同建築実験。構造デザイン自体の再利用条件まで自由であるとは表示しません。ここでは公文書館が『既知の著作権制限なし』として公開した記録写真を掲載します。",
+      "reproduction_rights": "ノースカロライナ州公文書館がFlickr Commonsで『既知の著作権制限なし』として公開し、Wikimedia Commonsでも2017年1月10日に同条件が確認されています。これは無保証の権利表示であり、CC0とは異なります。",
+      "reuse_notice": "原画像の権利表示は『既知の著作権制限なし』です。出典をCourtesy of the State Archives of North Carolinaとして明記しています。表示用WebPは縮小のみ行いました。",
+      "image_source": "https://upload.wikimedia.org/wikipedia/commons/1/13/BMCRP_VM_Bx89_Nakagawa_FullerB_11zz--Sum1949_%286506071011%29.jpg",
+      "width": 1600,
+      "height": 1281,
+      "display_derivatives": {
+        "method": "画面表示用に縮小し、WebPへ変換しています。",
+        "variants": [
+          {
+            "local_file": "assets/black-mountain-college/fuller-geodesic-dome-1949-thumb.webp",
+            "width": 480,
+            "height": 384
+          }
+        ]
+      },
+      "sha256": "2fedaefe09a5fcbfb0c84818a7a1000b3f66993c95bfed0e43a977c0ccc0cfcb",
+      "entry": "Black Mountain College",
+      "checked_at": "2026-11-22T17:34:38+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "細い管が三角形を連ね、透明な膜を支える様子を見てください。1948年の帯材の実験と比べると、材料と接合の変化が分かります。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "世界的に知られるジオデシック・ドームへつながる代表的な試作。ノースカロライナ州文化資源局と州公文書館の目録が、1949年夏の作品名、参加者、実験内容を記録しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "共同制作・建築実験（記録写真） ／ Black Mountain College Research Project Papers, Visual Materials, State Archives of North Carolina。"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/BMCRP_VM_Bx89_Nakagawa_FullerB_11zz--Sum1949_%286506071011%29.jpg"
+      }
+    },
+    {
       "id": "radical-design-rahmenbau",
       "title": "ラーメンバウ（風景を切り取る枠）",
       "title_original": "Rahmenbau",

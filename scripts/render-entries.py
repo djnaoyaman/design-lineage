@@ -146,7 +146,8 @@ def render(entry,template,stamp,navigation_html="",artist_registry=None):
   head=head.replace('</head>','<link rel="stylesheet" href="../deep-reading.css?v=20261102-1626"></head>')
  actual=[i for i in entry.get('adopted_images',[]) if public_asset(i)]
  refs=[i for i in entry.get('reference_images',[]) if public_asset(i)]
- status=f'作品・制作の例{len(entry.get("representatives",[]))}件を紹介しています。実作品画像{len(actual)}点、参照・関連画像{len(refs)}点。画像の収集は継続中です。'
+ aaga=entry.get('aaga_images',[])
+ status=f'作品・制作の例{len(entry.get("representatives",[]))}件を紹介しています。実作品画像{len(actual)}点、AAGA模写{len(aaga)}点、参照・関連画像{len(refs)}点。画像の収集は継続中です。'
  intro=entry.get('reading_intro') or {};lead=intro.get('lead') or [entry['summary']]
  title_markup='<span class="title-word">アール・</span><wbr><span class="title-word">ヌーヴォー</span>' if slug=='art-nouveau' and title=='アール・ヌーヴォー' else E(title)
  title_attrs=''
