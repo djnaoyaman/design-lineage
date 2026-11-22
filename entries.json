@@ -26398,6 +26398,17 @@
         "domain": "転がる枯れ草を受け止める塔の記録写真",
         "evidence": "https://commons.wikimedia.org/wiki/File:Tumbleweeds_Catcher_-_Salt_Lake_City_-_USA_1972-01.jpg",
         "reason": "風に押されて転がってきた枯れ草を、塔の網が受け止めます。初めは向こうが透けて見える塔が、集まる草の量で姿を変えます。"
+      },
+      {
+        "id": "radical-design-rahmenbau",
+        "title": "Rahmenbau",
+        "title_ja": "ラーメンバウ（風景を切り取る枠）",
+        "title_original": "Rahmenbau",
+        "creator": "ハウス＝ルッカー＝コー（Haus-Rucker-Co）",
+        "date": "1977年",
+        "domain": "人が歩いて入れる屋外作品",
+        "evidence": "https://commons.wikimedia.org/wiki/File:Rahmenbau_Komplettansicht_documenta6.jpg",
+        "reason": "枠の内側だけを見ると、公園の木々と遠くの建物が一枚の風景画に見えます。左の通路から枠の向こうへ歩けば、今度は自分が、広場から見る人の風景に入ります。"
       }
     ],
     "adopted_images": [
@@ -26550,17 +26561,74 @@
         "presentation": {
           "scope_note": "転がる枯れ草を受け止める塔の記録写真 ／ カナダ建築センター、ジャンニ・ペッテナ文書群（図面と記録写真を所蔵）"
         }
+      },
+      {
+        "id": "radical-design-rahmenbau",
+        "title": "ラーメンバウ（風景を切り取る枠）",
+        "title_original": "Rahmenbau",
+        "author": "ハウス＝ルッカー＝コー（Haus-Rucker-Co）",
+        "year": "1977年",
+        "institution": "ドイツ・カッセル、フリードリヒ広場に常設。設計図はカッセル市立美術コレクション所蔵（SKK 327）。",
+        "medium": "人が歩いて入れる屋外作品",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Rahmenbau_Komplettansicht_documenta6.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rahmenbau_Komplettansicht_documenta6.jpg",
+        "work_source_page": "https://www.kassel.de/buerger/kunst_und_kultur/rahmenbau.php",
+        "artist_source": "https://designmuseum.nl/en/tentoonstellingen/the-austrian-avant-garde/",
+        "selection_source": "https://datenbank.museum-kassel.de/44441/",
+        "architecture_rights_source": "https://www.gesetze-im-internet.de/urhg/__59.html",
+        "license": "写真は CC BY-SA 2.5。広場に常設された作品の撮影・掲載はドイツ著作権法第59条に基づきます。",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "credit": "撮影 Eva Kröcher（EvaK）、2006年6月2日。Wikimedia Commons、CC BY-SA 2.5。縦横比を保って縮小し、WebPに変換。",
+        "photographer": "Eva Kröcher",
+        "alt": "カッセルの広場に格子状の大きな四角い枠が立ち、枠越しに木立と遠くの建物が見える。",
+        "viewing_point": "枠の内側だけを見ると、公園の木々と遠くの建物が一枚の風景画に見えます。左の通路から枠の向こうへ歩けば、今度は自分が、広場から見る人の風景に入ります。",
+        "selection_criterion": "研究の蓄積がある作品。ウィーンで結成されたラディカル・デザインのグループが、国際美術展ドクメンタ6のために制作しました。設計図と模型が収蔵され、展覧会図録でも取り上げられています。",
+        "local_file": "assets/radical-design/rahmenbau.webp",
+        "underlying_work_rights": "広場に常設された作品を公共の場所から写した写真。掲載元は作品の写しについてドイツ著作権法第59条を明示しています。",
+        "reproduction_rights": "写真は Eva Kröcher が公開した CC BY-SA 2.5 を適用。",
+        "reuse_notice": "写真の再利用時は撮影者・出典・ライセンス・変更内容を明記し、改変した写真には同じライセンスを適用してください。",
+        "width": 1400,
+        "height": 1032,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/radical-design/rahmenbau-thumb.webp",
+              "width": 460,
+              "height": 339
+            }
+          ]
+        },
+        "sha256": "29d1226c13055c5331a829c938aebb9d8cc6b75cccb7dedeaf768866949d8def",
+        "entry": "Radical Design",
+        "checked_at": "2026-11-22T16:05:18+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "枠の内側だけを見ると、公園の木々と遠くの建物が一枚の風景画に見えます。左の通路から枠の向こうへ歩けば、今度は自分が、広場から見る人の風景に入ります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "研究の蓄積がある作品。ウィーンで結成されたラディカル・デザインのグループが、国際美術展ドクメンタ6のために制作しました。設計図と模型が収蔵され、展覧会図録でも取り上げられています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "人が歩いて入れる屋外作品 ／ ドイツ・カッセル、フリードリヒ広場に常設。設計図はカッセル市立美術コレクション所蔵（SKK 327）。"
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rahmenbau_Komplettansicht_documenta6.jpg"
+        }
       }
     ],
-    "image_count_acquired": 3,
+    "image_count_acquired": 4,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 6,
+    "representative_count": 7,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文・作品図録公開（実作品画像3点）",
+    "status": "本文・作品図録公開（実作品画像4点）",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-22T15:11:02+09:00",
+    "checked_at": "2026-11-22T16:05:18+09:00",
     "period_bands": [
       "1950-1999"
     ],

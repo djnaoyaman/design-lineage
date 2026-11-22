@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-swiss-style-china-new-woodcut-radical-design-polish-poster-school-black-mountain-college",
+  "release": "representative-galleries-radical-design",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T15:11:02+09:00",
+  "frozen_at": "2026-11-22T16:05:18+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "3bc2b8f93c97255f04fd22a1d2eb4588e97f1f19f54915686f1e6889fb64ec22"
+      "sha256": "321724b6a1fbc7caeb0d5b8918697d1c390dc69c29443b1cd27249da7f93db5d"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 880557,
-      "sha256": "3204e7444b14dbbc70f9833d39583a082f0041ce7df2f676b39390278f49122b"
+      "bytes": 884836,
+      "sha256": "3495a22d3614909705e72ebec718f3f40c64fa37edfbacb90ed23917fa1495a0"
     },
     {
       "path": "analytics-status.json",
@@ -3052,6 +3052,16 @@
       "sha256": "b71ecb7868155dbb28ca2df491c03aafbe51ac2429ebee80d586bce9a2b34124"
     },
     {
+      "path": "assets/radical-design/rahmenbau-thumb.webp",
+      "bytes": 30076,
+      "sha256": "f92d5b2ad2fb8c90cedbca467bededce30ff2fdeb91a71540723a9018a93a7d3"
+    },
+    {
+      "path": "assets/radical-design/rahmenbau.webp",
+      "bytes": 205978,
+      "sha256": "29d1226c13055c5331a829c938aebb9d8cc6b75cccb7dedeaf768866949d8def"
+    },
+    {
       "path": "assets/rinpa-kenzan-style-dish-1000.webp",
       "bytes": 137648,
       "sha256": "729c29c3dc017edcba0fa4375488750f911ff76820c9d16396ee36f904b5272b"
@@ -3744,7 +3754,7 @@
     {
       "path": "catalog.json",
       "bytes": 39557,
-      "sha256": "771582ba1db0ae7f81b2ac6f1313169ee54ae9e87242025c9a10cac870022661"
+      "sha256": "071e3ab2287f5986f52c12c9f0805e95567530d23586a61c9dcdd0d9837ae04b"
     },
     {
       "path": "chapter-navigation.css",
@@ -3813,8 +3823,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2640168,
-      "sha256": "4b7667c70265ec0c9019fed8f2c37f3c41ff375c325ec7981ff41a8f00ccb4dd"
+      "bytes": 2645269,
+      "sha256": "c6e8ba10859dc6623415eca39040e0d49c7e2c7c6920c408f4639cd944e9c90c"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -4123,8 +4133,8 @@
     },
     {
       "path": "entries/radical-design.html",
-      "bytes": 24382,
-      "sha256": "3d3cfc381951cf80af6a9667d0bacb41efc0959e79f40ce593464a5c8463c358"
+      "bytes": 28897,
+      "sha256": "11cf032c06a175417fe8bddea7e77aac9ad34af40175a75ffe36b4d60d90f2d1"
     },
     {
       "path": "entries/rinpa.html",
@@ -4304,7 +4314,7 @@
     {
       "path": "index.html",
       "bytes": 91010,
-      "sha256": "94998f944a35be0ec2016ddaec08bb084a3b99661000854f7703c6efbb0b01e7"
+      "sha256": "7a732b7a26c6a05cd35f9f698cae431fc04c403206c4aba801c6aef79595f841"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4344,7 +4354,7 @@
     {
       "path": "llms.txt",
       "bytes": 27395,
-      "sha256": "65a0d9118b30516cbe1e1fba261a0dc2994495e383edbbf33dee80c3c9a0a49a"
+      "sha256": "2813e79e02a776075539bc2e7294497985985058552f4d80e45bfdf5c0cb5153"
     },
     {
       "path": "logo-provenance.json",
@@ -4429,7 +4439,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "a9a9b355d93782cc34b65cfd87ba667ef12434671dda43124d375a6390779c1e"
+      "sha256": "d5e75a393a1a0e56ed3a3526a25f87ebe769f593eb1841626c4be726cd16f31b"
     },
     {
       "path": "site.webmanifest",
@@ -4439,7 +4449,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "5947e2caf46d7706089b6d95cb33656f4473d9dbb44e985f6a4e2b8f458db923"
+      "sha256": "406e506b1d5af9522425e4c4af905392ae7c6a70f0b074daea4dc07e4c2726e7"
     },
     {
       "path": "study-images.js",
@@ -4548,8 +4558,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 198962,
-      "sha256": "8e0b6acb998a594ace14ce7df2bf76a16f245fd43a1adcd1ecff55f3d79e8abf"
+      "bytes": 199320,
+      "sha256": "ac3b2a558e1dc39df74154e339a177bbe6adc107c2b1a6e8e850901f8756f0ca"
     }
   ]
 }
