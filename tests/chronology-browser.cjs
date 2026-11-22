@@ -23,7 +23,8 @@ const check=await browser.newPage({viewport:{width:390,height:844}});
 await check.goto(base+'index.html#selected-works');
 function year(text) {
   if (/^(原)?制作年未/.test(text)) return Infinity;
-  if (text==='18世紀初頭') return 1700;
+  const century = text.match(/^(\d{1,2})世紀/);
+  if (century) return (Number(century[1])-1)*100+1;
   return Number(text.match(/\d{4}/)?.[0] ?? Infinity);
 }
 function checkOrder(labels) {

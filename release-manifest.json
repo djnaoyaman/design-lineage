@@ -4843,8 +4843,8 @@
     },
     {
       "path": "tests/chronology-browser.cjs",
-      "bytes": 6072,
-      "sha256": "f55cb89f714f6c010c30bab498674693c1ba92e49bed2d0f2a4129688a349012"
+      "bytes": 6130,
+      "sha256": "6c313d9cbd85cb73d2f034c306c814cffbfa77a674a755d2da6e89a14d63319d"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -4913,8 +4913,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 216330,
-      "sha256": "85cfae4d770653b0fc6da147e562d812e45a4d1ba5c4c25c124909f027f85793"
+      "bytes": 216336,
+      "sha256": "755913474bd414be5319fa852bdef944451dfafb464a76e8858dddebace53fab"
     }
   ]
 }
