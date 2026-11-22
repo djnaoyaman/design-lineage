@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-material-design",
+  "release": "representative-galleries-psychedelic-art",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T10:35:00+09:00",
+  "frozen_at": "2026-11-22T10:39:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "edc895a13c138324cc6f8ffcfc866238465cbbb6410e9cede17ee41dc1f1e9a2"
+      "sha256": "5ebaf9e43d560467d2e9fd23e15b82757e35aa1d945253bb7fda7a9038952770"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 627050,
-      "sha256": "d522f79212659ea3a332c7317398f04be31fefe73afed365612a6517df6d2b75"
+      "bytes": 688823,
+      "sha256": "200db8798722776f3aea29da35459274529f14ef836176f15cbd71efea836eb8"
     },
     {
       "path": "analytics-status.json",
@@ -60,6 +60,51 @@
       "path": "artists.json",
       "bytes": 400964,
       "sha256": "e5917e51cc94dd6f20645258579758e1cbaed60f43dbb0d67c9a75c523f8a060"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-camera-660.webp",
+      "bytes": 3330,
+      "sha256": "9259fdc9be70737c15a4a3eee3a159695bd5cb3895f0160bad4cbe0965e95c6f"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-camera.webp",
+      "bytes": 4764,
+      "sha256": "1f142a200deebe1b843139dc2c324412dfd704b4dba4eabe2d048a5d1aa04e14"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-melting-face-660.webp",
+      "bytes": 4796,
+      "sha256": "43697e13d9963581e116cf9df109b8397716eefe4bebe6c5361f9506b5dc2b4a"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-melting-face.webp",
+      "bytes": 8542,
+      "sha256": "92d10e889ad8867f40ef5634479d9598af43ccf9f9795a3cc8d1a428003eb181"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-sprite-fright-660.webp",
+      "bytes": 31832,
+      "sha256": "2accd976ac69d226df49545cf15cf659ff6f2503b55e73442863ae2e08584b8b"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-sprite-fright.webp",
+      "bytes": 50904,
+      "sha256": "dc74c6524d5b4d58067a4120380bebcaa3cc6330ce8aad4402a18afcee4721e6"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-unicorn-660.webp",
+      "bytes": 9944,
+      "sha256": "c15e2929fecb203a7ee478329c44e0d65fd931b38428a32d6af6beeffc76c1da"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-unicorn.webp",
+      "bytes": 26276,
+      "sha256": "1aa4accd8561d33c96fdaa3c44f2a8b83752f09072e3db4bf91ff9dc54de0a49"
+    },
+    {
+      "path": "assets/3d-clay-illustration/microsoft-license.txt",
+      "bytes": 1141,
+      "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
     },
     {
       "path": "assets/aichi-18296-720.webp",
@@ -697,6 +742,46 @@
       "sha256": "9dac218724a5707e4f2ecfae6c04622b506bd7cc6a99513c78912d80ba289042"
     },
     {
+      "path": "assets/generative-design/generative-design-archistar-660.webp",
+      "bytes": 19712,
+      "sha256": "4a0b9dec55023995b6ca56b7197fb2234c2560e340cdf335f5ec2f69aecdb8d7"
+    },
+    {
+      "path": "assets/generative-design/generative-design-archistar.webp",
+      "bytes": 43524,
+      "sha256": "d5642ffce5b1917eaf9c957bb1c86579d47edb6413c193911d2a8f67127f38de"
+    },
+    {
+      "path": "assets/generative-design/generative-design-henry-660.webp",
+      "bytes": 89730,
+      "sha256": "548d81b0e8d888c35e3e5e68286e21708787bc3d917bc016d23b02fdf5d7ce61"
+    },
+    {
+      "path": "assets/generative-design/generative-design-henry.webp",
+      "bytes": 131672,
+      "sha256": "a239645d478e1c61a74550e7bd1fc537c377e2b6c8ad299d8ba352b0dc5fe0cb"
+    },
+    {
+      "path": "assets/generative-design/generative-design-mohr-660.webp",
+      "bytes": 34896,
+      "sha256": "8b5d0f21ee2808521704dfb9496301de666f58ef3a090a7dc880a03d9f406ed8"
+    },
+    {
+      "path": "assets/generative-design/generative-design-mohr.webp",
+      "bytes": 95794,
+      "sha256": "288a4bb9b3217f11448c0f2a7930706b2c90f52bb8b74bb75052fdc19bfcf092"
+    },
+    {
+      "path": "assets/generative-design/generative-design-substrate-660.webp",
+      "bytes": 69572,
+      "sha256": "620f722382e7a2d10da4c4961ec41386144af8077ea2fcdeeab36c4c1d1a90c2"
+    },
+    {
+      "path": "assets/generative-design/generative-design-substrate.webp",
+      "bytes": 159590,
+      "sha256": "fa132d344f6bb3245c2c6a3089e90d2cc8a9bdf581730e95cd4009e03f627a60"
+    },
+    {
       "path": "assets/grid-01-columns-1200.png",
       "bytes": 76115,
       "sha256": "7741a1a00cf92d172aa314b074f3fb8e98d0cce0ad26ba9c1ef85bfad5650302"
@@ -735,6 +820,56 @@
       "path": "assets/grid-04-variation.svg",
       "bytes": 5576,
       "sha256": "271670da6a548b5378ac3fddef3ced3fdcb170203f5221c339e29aa177dde15a"
+    },
+    {
+      "path": "assets/grid-systems/960-license.txt",
+      "bytes": 1071,
+      "sha256": "40031a8cc0379a95e17c144b3635737053835019519d2e8b64104d0b9184e421"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-basel-660.webp",
+      "bytes": 78994,
+      "sha256": "f1d45c27cb6210be30fda9cc98b5ae80332831df7c81598c0232a8cfa39e4194"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-basel.webp",
+      "bytes": 353018,
+      "sha256": "07aecc22fcc7c768e9635e104f1c9b071d2114cd5e60b29318f39d26888f3f43"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-grid-960-660.webp",
+      "bytes": 5062,
+      "sha256": "f3dfad8435812a127dfc72504c6a57616b7bd211d567952dab5cfc7584db6c82"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-grid-960.webp",
+      "bytes": 31260,
+      "sha256": "362d58a744a5b0f954941a100532fb6e4329a0597dbbe49d4a438022c0af46ca"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-ibm-660.webp",
+      "bytes": 12266,
+      "sha256": "36d5ac0192a725073e6d5db219465aaa7d04ce853df7a5417b1cb1c2056f2f74"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-ibm.webp",
+      "bytes": 51396,
+      "sha256": "31cbb482b61c6330f24cc5a167c45b303b904fac7bbadc8674e2fde547ad6e58"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-typegrid-30-660.webp",
+      "bytes": 15684,
+      "sha256": "d0c9dfb21861dfc7cbb88f6cde81740f25eb09a6a614707d8f16679de55b4012"
+    },
+    {
+      "path": "assets/grid-systems/grid-systems-typegrid-30.webp",
+      "bytes": 89742,
+      "sha256": "cfa10294a4b8f186288a03480b83d356e15203ec6a9c5e99ff64860de90d3f1d"
+    },
+    {
+      "path": "assets/grid-systems/ibm-license.txt",
+      "bytes": 11339,
+      "sha256": "7749dad2a05e8128db54576d334a14c117ca7b1ed882205d2b729ec736ccb6c6"
     },
     {
       "path": "assets/guide-color-form.svg",
@@ -1507,6 +1642,66 @@
       "sha256": "75bf8af7be898aabf428ea6058f836db14bc42c3d12923c9701e19c37a3094e5"
     },
     {
+      "path": "assets/neumorphism/costachung-license.txt",
+      "bytes": 1068,
+      "sha256": "8db43db99d4d710a7cecd227b7e85cd19915a19b170db69fc3830259ea4fc8ab"
+    },
+    {
+      "path": "assets/neumorphism/fornewid-license.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "assets/neumorphism/idean-license.txt",
+      "bytes": 11339,
+      "sha256": "ed931650e6252ce7229e46bc5b666edd3ec5f693d2f1670eaf17e247d6715496"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-android-660.webp",
+      "bytes": 3698,
+      "sha256": "73b06119e61e64c707bcadadb703b805265ee0b1404f2a2fde9aa27204505cd2"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-android.webp",
+      "bytes": 10190,
+      "sha256": "1e04a9daa7a7d5724cc5be6802c69037ec5558e661e7a277c85f026a3dcdc015"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-clock-660.webp",
+      "bytes": 4858,
+      "sha256": "c2805b54ad2c2252caa90bf65fec04c0c09dac46df263e047c28dbff373605d7"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-clock.webp",
+      "bytes": 8166,
+      "sha256": "4e76684cba0989cec1c11091bd5f100330a0a5edfa862b0562315ddec30f6dd6"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-sign-in-660.webp",
+      "bytes": 4446,
+      "sha256": "a1f50fd69e7c8a1c9411d8ac9dee3e945199e3317387f5309491b1020ab4578e"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-sign-in.webp",
+      "bytes": 6478,
+      "sha256": "a269c74693884abf9f85e43a7fd8e74250ca8037f9121e4b85920f650818cb64"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-swift-660.webp",
+      "bytes": 3670,
+      "sha256": "474dc98325effc2144d580dd2a0db0f12349d8c9bd71c9cc9332dedaa4080799"
+    },
+    {
+      "path": "assets/neumorphism/neumorphic-swift.webp",
+      "bytes": 6546,
+      "sha256": "3ae32b2e5a1b6267426f3ed6565cfa5d42be93c88c7155685d145bf7fdb03376"
+    },
+    {
+      "path": "assets/neumorphism/themesberg-license.txt",
+      "bytes": 1067,
+      "sha256": "7eb5ef315612cc5327bb048576bbfd9b5f9e41680bbe65cea936c0369d3cf09e"
+    },
+    {
       "path": "assets/new-typography/new-typography-transito-07-660.webp",
       "bytes": 16564,
       "sha256": "1ffa7d9f786d18833e4347d192a3e4bb0c5041f0973074e95a8b625c85b636c6"
@@ -1595,6 +1790,46 @@
       "path": "assets/omochi-pop-game-card.png",
       "bytes": 491718,
       "sha256": "86f30cf4c458cca369b3dedafd80d014f9659485aead4820b99d1021a60cb21c"
+    },
+    {
+      "path": "assets/parametric-design/param-court-660.webp",
+      "bytes": 121120,
+      "sha256": "230aba53fd5a11247c415e593e4a50eb45a9b521cab0e411357141be95e4563d"
+    },
+    {
+      "path": "assets/parametric-design/param-court.webp",
+      "bytes": 285342,
+      "sha256": "147093d4d54a818f5cc0a130c97a0c926b4eb3efef99eac3c3bc8431f8524600"
+    },
+    {
+      "path": "assets/parametric-design/param-eden-core-660.webp",
+      "bytes": 63958,
+      "sha256": "16be79e1594cb28a54d6b0c3842fbacd4c25fcf66e2aab27e51723e86867d3af"
+    },
+    {
+      "path": "assets/parametric-design/param-eden-core.webp",
+      "bytes": 75894,
+      "sha256": "b0ff3bc6965a0123eed9e6d6addac68f341ef921303c194712f84b6fcd60256b"
+    },
+    {
+      "path": "assets/parametric-design/param-gaudi-chair-660.webp",
+      "bytes": 24032,
+      "sha256": "492d03fb0857065c6f8108161e85bf9924f877519cdd144aff5565a75524c632"
+    },
+    {
+      "path": "assets/parametric-design/param-gaudi-chair.webp",
+      "bytes": 54270,
+      "sha256": "fbaccc61df70739cc4731706f3efe0929970853630cc9b33092d3f30c4a78bc1"
+    },
+    {
+      "path": "assets/parametric-design/param-hall-660.webp",
+      "bytes": 59612,
+      "sha256": "dbf61f6ec6e4c6ea32dc31f79608acae335632c5bcbe19ab8f82f54a2987b5a5"
+    },
+    {
+      "path": "assets/parametric-design/param-hall.webp",
+      "bytes": 148060,
+      "sha256": "045cd6df3de9f15a1ca2bbdb2f7b32aff71df5e8d446e1b00f0124a9d467e0b9"
     },
     {
       "path": "assets/photomontage/montage-fading-660.webp",
@@ -2202,6 +2437,46 @@
       "sha256": "1b95a638758e2e55978e8ed3b5a7e921a1d4c9b4f53addca3fc271445dd8af8e"
     },
     {
+      "path": "assets/psychedelic-art/psych-acid-660.webp",
+      "bytes": 117276,
+      "sha256": "20b3cf782a6cbca52d8c39759560d8a1cc7fde7d487603abce793c5b8a485706"
+    },
+    {
+      "path": "assets/psychedelic-art/psych-acid.webp",
+      "bytes": 257576,
+      "sha256": "f0c67fb164683ec1a9bd70b59b94df2f9035543ea7c53d8a8f27e743ef249305"
+    },
+    {
+      "path": "assets/psychedelic-art/psych-expo-660.webp",
+      "bytes": 47490,
+      "sha256": "dfe714a578638e2f34783cb17eb016e925e95217b89a28b16c5cc22361f9e16d"
+    },
+    {
+      "path": "assets/psychedelic-art/psych-expo.webp",
+      "bytes": 100812,
+      "sha256": "714e9f852098283aee47a475958d0bc88f64c6725681ba0a9ebb78c7775d71f3"
+    },
+    {
+      "path": "assets/psychedelic-art/psych-jefferson-airplane-660.webp",
+      "bytes": 47642,
+      "sha256": "4afe0d823efcb39a34746a5552c51cfdc0d7c3f122cf16cfa6d258d9a974e289"
+    },
+    {
+      "path": "assets/psychedelic-art/psych-jefferson-airplane.webp",
+      "bytes": 190250,
+      "sha256": "b6af33a91d1be5bec23bd675474db859a5a7769c6e18e9bb260e587016b3ed73"
+    },
+    {
+      "path": "assets/psychedelic-art/psych-juno-official-660.webp",
+      "bytes": 40890,
+      "sha256": "a7c5102cb28dfe3d3e8b65886dc07a985f0f54adae2152f652d22d666fa63421"
+    },
+    {
+      "path": "assets/psychedelic-art/psych-juno-official.webp",
+      "bytes": 168786,
+      "sha256": "b2a75fb3159a22fad17866de45c6fb4016e1829302e0d6013516e90b28c4f60c"
+    },
+    {
       "path": "assets/rinpa-kenzan-style-dish-1000.webp",
       "bytes": 137648,
       "sha256": "729c29c3dc017edcba0fa4375488750f911ff76820c9d16396ee36f904b5272b"
@@ -2407,6 +2682,46 @@
       "sha256": "b638eff064a16d635061784cc68be0f1db69d07e0a0addea35f66a687b8ee6ed"
     },
     {
+      "path": "assets/skeuomorphism/skeuomorphism-aisleriot-660.webp",
+      "bytes": 42888,
+      "sha256": "8b71fb909e2f348b61b8d74733ad10529b195dcd1741101475356d0b044646bf"
+    },
+    {
+      "path": "assets/skeuomorphism/skeuomorphism-aisleriot.webp",
+      "bytes": 85182,
+      "sha256": "3b5793461f0171828ff527a25947c0e0f2f5326d42eea8eaa3a2d7685fd08753"
+    },
+    {
+      "path": "assets/skeuomorphism/skeuomorphism-cool-retro-term-660.webp",
+      "bytes": 36774,
+      "sha256": "5f852e4decc2aae63ebfc079e82ca11e1a176289fed3a2dfc27a4dd161895398"
+    },
+    {
+      "path": "assets/skeuomorphism/skeuomorphism-cool-retro-term.webp",
+      "bytes": 84574,
+      "sha256": "8853440d067efc0e5f2ea06dc585231aa7e80c45ed628d27e5f914cbd4047c54"
+    },
+    {
+      "path": "assets/skeuomorphism/skeuomorphism-guitarix-660.webp",
+      "bytes": 23528,
+      "sha256": "2ec23e19e680a3cc4bbc2e958300cb3fe0b936b5709101e58c8a72c78b747478"
+    },
+    {
+      "path": "assets/skeuomorphism/skeuomorphism-guitarix.webp",
+      "bytes": 29050,
+      "sha256": "a004386e51ff36cc43acdceaf1da97ec38e20e2bcc12b785f579f22b99d9b9b6"
+    },
+    {
+      "path": "assets/skeuomorphism/skeuomorphism-mixxx-660.webp",
+      "bytes": 41056,
+      "sha256": "b6fc8af0c86a0414eecff371082f163d7b1826102ce3432e9c2466d115377391"
+    },
+    {
+      "path": "assets/skeuomorphism/skeuomorphism-mixxx.webp",
+      "bytes": 86820,
+      "sha256": "e553351260f57cf4e3855a3d98123605a6a6b74d60f76df0e3a2a9a5ba031cd4"
+    },
+    {
       "path": "assets/surrealism/surreal-goll-660.webp",
       "bytes": 63296,
       "sha256": "d8f4a4a623563d58b6aa6fa78e491dd10f0907e7b996a5f400cb33548dbe8473"
@@ -2598,8 +2913,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39496,
-      "sha256": "6c6afc8f3ffd98f81bcd90fd7f39baeb7347042c3b97fd2a479580428b547700"
+      "bytes": 39455,
+      "sha256": "9393b71e0f68c3dbabf3248d174dc392cf2f696a40296f7f2b27ddf8ec5409c9"
     },
     {
       "path": "chapter-navigation.css",
@@ -2668,13 +2983,13 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2282795,
-      "sha256": "43f21f602314da0546ec3eb482cbfdf1953aaa90b5c57d96ee9af3ca4309b3e0"
+      "bytes": 2374453,
+      "sha256": "3d4b6a47e4b354739390cdad11606db43696a9c81020c07b1955e178c2911b69"
     },
     {
       "path": "entries/3d-clay-illustration.html",
-      "bytes": 13298,
-      "sha256": "08ce4ff4b80fd6a299cecfb0d6db3601a000106bc73c3f28fb60329d42b46b71"
+      "bytes": 25487,
+      "sha256": "e048ebd9642f915ac81758b14a7f9b3a814261fa7df82d5fd60c5a02a0a04048"
     },
     {
       "path": "entries/africobra.html",
@@ -2778,8 +3093,8 @@
     },
     {
       "path": "entries/generative-design.html",
-      "bytes": 12783,
-      "sha256": "be20f23e31519bdecca5ec5c05e7b1667a9a7b870b253790f6f82961340557be"
+      "bytes": 24384,
+      "sha256": "e186d528f73c3425bad2b63099a9d2e02b6eed760ce798572a4d7bd6ecd2adf4"
     },
     {
       "path": "entries/glassmorphism.html",
@@ -2788,8 +3103,8 @@
     },
     {
       "path": "entries/grid-systems.html",
-      "bytes": 24993,
-      "sha256": "6e2d4392c2c7562d3707c22a2ab4d13cd4e22d96aeac1185d308500ecf81b5cd"
+      "bytes": 38497,
+      "sha256": "a7ae517b694b300d6ff4d65d590b5f2dae069ea04f8502442f9010febea52e84"
     },
     {
       "path": "entries/gutai.html",
@@ -2908,8 +3223,8 @@
     },
     {
       "path": "entries/neumorphism.html",
-      "bytes": 12712,
-      "sha256": "508b89f3a0ded67ea750dd580c3947ca00d2f22a17ac88aaa99ab97db89abe93"
+      "bytes": 24274,
+      "sha256": "2119ac0a36cacc5314f31a54ff858f8d787852d821ba4e6004aeb4128ff4694e"
     },
     {
       "path": "entries/new-bauhaus-chicago.html",
@@ -2938,8 +3253,8 @@
     },
     {
       "path": "entries/parametric-design.html",
-      "bytes": 13007,
-      "sha256": "2d5e4d4860f9d715be16fe2ae782d0e2cec9a29aebb1343097430d5c2cd0a2d8"
+      "bytes": 24786,
+      "sha256": "58e4af2e7b3dd49589960e8b9abe92514ae39422df8965dec9351bcaf64a6cb0"
     },
     {
       "path": "entries/photomontage.html",
@@ -2968,8 +3283,8 @@
     },
     {
       "path": "entries/psychedelic-art.html",
-      "bytes": 12381,
-      "sha256": "22bfa4e6a6b1e345d9d28264d6a473515cd48dbddbe42d5c906187556e1e4067"
+      "bytes": 25648,
+      "sha256": "82798a1f09ed00bb104d8556fb1896a0bc8c68faa2f0e5b70e1eedc13db557d9"
     },
     {
       "path": "entries/punk-diy.html",
@@ -3028,8 +3343,8 @@
     },
     {
       "path": "entries/skeuomorphism.html",
-      "bytes": 11630,
-      "sha256": "f3369b6fed8792cd6f60fbee65055c9879cf85b9fba02c92bc3b580597f0b784"
+      "bytes": 22575,
+      "sha256": "a786146fbefa7c401d52a61dbe55def7b500fb82fd81f29e066c2585cff443f7"
     },
     {
       "path": "entries/sosaku-hanga.html",
@@ -3158,8 +3473,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 71206,
-      "sha256": "1c1bc31631941fdebd4aab62939729a0378cdb6ca3ce28617e2ca9be95390205"
+      "bytes": 76311,
+      "sha256": "01d5cb59d05d2e95be67a2d7de55f1732ff6fc1b427ee347853d9db99635165e"
     },
     {
       "path": "japanese-name-sources.json",
@@ -3284,7 +3599,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "083a0f153a0452f9f5d624d1e46ec1b1d7f40bc9a3593b7534f10f29f2efbb5a"
+      "sha256": "8e2464a3a6d454c0250a9b5058b40c22b14e549bd8b6265cd5067bcac2b5ae29"
     },
     {
       "path": "site.webmanifest",
@@ -3293,8 +3608,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 12854,
-      "sha256": "554e99188afccfd2238aa2f66088412e8a1b3acca18a7b2a4d002da0ddb70c00"
+      "bytes": 12749,
+      "sha256": "64b39a9e11a962a12c0450ae96d35bf83dfc03085defc6607dfc3e787cac6fed"
     },
     {
       "path": "study-images.js",
@@ -3334,7 +3649,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "ec12d7fddf7872f10983bb2fd059b74b4c07f0964ea51e628d89671464ffd43d"
+      "sha256": "5e51519f043d161ef4f7f6a781df1e9802ccb4e0a9d68bb64abc00ad09e6e0b8"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -3344,7 +3659,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "df2c63116b4bcd830616f373a6f4ba5c3dd0a9e9a47297eae4b93e312748506b"
+      "sha256": "9aac26cec7328b23fafe33fa809ab8368b83b892d3b982877287c95e5de7ec6c"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -3403,8 +3718,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 167325,
-      "sha256": "816a147d0564ae6583e2879d1ae5a5d7b18eaf2b649ec820922dc6990dc90aca"
+      "bytes": 176258,
+      "sha256": "87eaba6b22b7cc9f2323dbfd4d70ca8b5a088578c5619e71d174e3b22b2eda55"
     }
   ]
 }
