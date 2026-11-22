@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-first-nations-australia-design",
+  "release": "representative-galleries-risograph",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T10:39:00+09:00",
+  "frozen_at": "2026-11-22T10:46:00+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "b026469ecdc05a84997c9a859d15d32f906520c2d8c7af4d1ed889f895916e81"
+      "sha256": "9bbe8b4384427156e09f58476415f767338942ac3f25306932c1e7c62cf26c7d"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 718332,
-      "sha256": "e687cbd39b0ed7348ef90dc9f68f05b8c2d7c5dad3fa27d89376e062d84cd4fb"
+      "bytes": 756692,
+      "sha256": "3e9fafdad8ea7eb76cf851e68742792afa20bfe3ba1c14e512c929f38f62e027"
     },
     {
       "path": "analytics-status.json",
@@ -80,6 +80,16 @@
       "path": "assets/3d-clay-illustration/clay-melting-face.webp",
       "bytes": 8542,
       "sha256": "92d10e889ad8867f40ef5634479d9598af43ccf9f9795a3cc8d1a428003eb181"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-satellite-hideaway-660.webp",
+      "bytes": 28684,
+      "sha256": "ba1cf05c7ab8b5357d4e98650fb8baebdf5321e2d3164cf89d792bb728b27029"
+    },
+    {
+      "path": "assets/3d-clay-illustration/clay-satellite-hideaway.webp",
+      "bytes": 102888,
+      "sha256": "9683fc82f0adf655cfd0e4cce9f82386d11949811f4c4538076843cc517f385c"
     },
     {
       "path": "assets/3d-clay-illustration/clay-sprite-fright-660.webp",
@@ -225,6 +235,66 @@
       "path": "assets/bauhaus-kandinsky-color-form.svg",
       "bytes": 1946,
       "sha256": "eb2c31ea98b407b8536e6c0fe34f46e66b1af5cde0a4c3928851b4caf5f7bf8c"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-magicui-660.webp",
+      "bytes": 7886,
+      "sha256": "6baaa98938a6965512168393b6c67c0d46d8ae6bd7baad2ebe339394637346ab"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-magicui.webp",
+      "bytes": 12014,
+      "sha256": "b35bcf3cbfce54da0920560d6380483aab4477660bafccc2b9d22a169e6e79da"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-p33t-660.webp",
+      "bytes": 11246,
+      "sha256": "b4de8827f4e5e8ffef937ea6aa500a8dc37845bb1f3fe45d7770b0e04810f330"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-p33t.webp",
+      "bytes": 36452,
+      "sha256": "468f6037a56148c6cd1747a62fed6acdb9d24f23293eff36be092ea31eca3222"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-portfolio-660.webp",
+      "bytes": 27586,
+      "sha256": "c2e3b7eb6eddf9817ffe4558dda267ca2def8331d7c656a9e2cb4ac266214aa5"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-portfolio.webp",
+      "bytes": 79860,
+      "sha256": "300d4e8db42536f459ea798e9c1b5a31bb9d5ac6001a3fa2565e7833605fc1e5"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-startpage-660.webp",
+      "bytes": 7810,
+      "sha256": "7f47332b4b24c46866708b4e662fb25582a8f44ba33b0796a2094ab67d88359d"
+    },
+    {
+      "path": "assets/bento-layouts/bento-layouts-startpage.webp",
+      "bytes": 17592,
+      "sha256": "b668960d031ac2a8f8a618749822037e1ebc852a566a250f8755c1911b926520"
+    },
+    {
+      "path": "assets/bento-layouts/itsp33t-license.txt",
+      "bytes": 34523,
+      "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef"
+    },
+    {
+      "path": "assets/bento-layouts/ladvace-license.txt",
+      "bytes": 1071,
+      "sha256": "8e26c6cf04e643c3eb8d0c5fe9e9693ad6d9e2d012cf406acfb0b5fa1bfc0060"
+    },
+    {
+      "path": "assets/bento-layouts/magicuidesign-license.txt",
+      "bytes": 1060,
+      "sha256": "0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba"
+    },
+    {
+      "path": "assets/bento-layouts/migueravila-license.txt",
+      "bytes": 35127,
+      "sha256": "9f828068e5eb1c624b9617fdf9df2eefcd38b3aa28199484adb1111f2957ff4a"
     },
     {
       "path": "assets/brazilian-modernism/bandeiras-660.webp",
@@ -970,6 +1040,46 @@
       "path": "assets/guide-type.svg",
       "bytes": 892,
       "sha256": "e1a0f8622652672fcc3d4cdc13b2015bcc7c73f49c41feedeeae130b90fc7903"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-braun-660.webp",
+      "bytes": 19282,
+      "sha256": "2de2767a988d056bd8f3a7015c52670fb592866f24bb3366a259192a56f6c0ef"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-braun.webp",
+      "bytes": 59832,
+      "sha256": "6724b8928f88e44fa54c54ea1331d11608ccc09f55e434d3cf164987333467f9"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-bus-660.webp",
+      "bytes": 19640,
+      "sha256": "7eb24f72f0a8aeb8f478fe5a8dc6b2808af85c8b5a8a09117528a1df8be9688e"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-bus.webp",
+      "bytes": 123478,
+      "sha256": "234a9dab59123ac4ffe0cc79e00dbdba63e3081766febfc1e130165cbbde7ade"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-campus-660.webp",
+      "bytes": 63208,
+      "sha256": "9af9a4a70dccc30e9e7bfc5bf95f4f4282281d56e8e8c22a9550c52beac7bd27"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-campus.webp",
+      "bytes": 268352,
+      "sha256": "b70b5ea7268aa4d2f1a57e2afeaedb70b3e3a9b223976a3511fe5b286027a049"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-pavilion-660.webp",
+      "bytes": 64522,
+      "sha256": "3f22ec104944d6856dae8e6bbe080e5264578a983dd5e90f48c86cd515b5fd5c"
+    },
+    {
+      "path": "assets/hfg-ulm/hfg-ulm-ulm-pavilion.webp",
+      "bytes": 177436,
+      "sha256": "a17b0430b9c813a1bbb1dc246501b43131c63df13f8c072314d2709e30b61a57"
     },
     {
       "path": "assets/hideki-nakajima-a-s-a-b-logotype.jpg",
@@ -1720,6 +1830,66 @@
       "path": "assets/moser-13th-secession-1902.jpg",
       "bytes": 9169142,
       "sha256": "75bf8af7be898aabf428ea6058f836db14bc42c3d12923c9701e19c37a3094e5"
+    },
+    {
+      "path": "assets/neo-brutalism/antiwork-license.txt",
+      "bytes": 1070,
+      "sha256": "c5338c06c620468a42ad556e6608dab413a3fff8f770d7b08645741c292a022d"
+    },
+    {
+      "path": "assets/neo-brutalism/ekmas-license.txt",
+      "bytes": 1072,
+      "sha256": "a77140948a68fafb5e0077a287502104203b7ccb11255b311101ec8fe85fa250"
+    },
+    {
+      "path": "assets/neo-brutalism/mariojgt-license.txt",
+      "bytes": 1065,
+      "sha256": "df8fc731b4e0e0a64c125d4e82b3f5685f58a25cd8b58fe50a41837e8e7d307d"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-component-collection-660.webp",
+      "bytes": 27710,
+      "sha256": "e3b605f58b5eed3779799e2d8c66293af46a6e3d8fd1fb564d8c2baf76c1fb38"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-component-collection.webp",
+      "bytes": 71794,
+      "sha256": "f00d7bd22f9a8950ecb066aaad4393d912ca3610bd7b30a8e6649ca2e5b0446b"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-dev-realm-660.webp",
+      "bytes": 30634,
+      "sha256": "53d38aebb3212668f780d5128549b7393c5e82c08c53ed50c75a894373411437"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-dev-realm.webp",
+      "bytes": 106114,
+      "sha256": "4af9f2f593edc9c92b9ebc84c3a7ad607c749d2d3d90c0912705b2ebf370f2d6"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-gumroad-660.webp",
+      "bytes": 33414,
+      "sha256": "990d2992f2a51385d6bd4adc90e6f0a5d1852784b5245f7b4a0741f979ea7660"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-gumroad.webp",
+      "bytes": 58974,
+      "sha256": "588cc31cdc976d5c1586d022125b0f8b75277b58df9b384c923f332067b9dc2a"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-retroui-660.webp",
+      "bytes": 28688,
+      "sha256": "824d6b3a7d677236f5159bbcb05f2d287221d93cee270686393aff78cc0f0908"
+    },
+    {
+      "path": "assets/neo-brutalism/neo-brutalism-retroui.webp",
+      "bytes": 76322,
+      "sha256": "02955587fff1f56952c51cff9265a398160b07e6a9aee5f0b8a7b04ce0cc2c19"
+    },
+    {
+      "path": "assets/neo-brutalism/neobrutalism-license.txt",
+      "bytes": 1069,
+      "sha256": "2f433f700979ef136548076bff149a88333258596a6a3b3fefa4296b41ef27ce"
     },
     {
       "path": "assets/neumorphism/costachung-license.txt",
@@ -2672,6 +2842,46 @@
       "sha256": "66a9d73b6ffd57bcff4782768e50706532f6414bb1590d17ab1de502bd52e7db"
     },
     {
+      "path": "assets/risograph/riso-a-cane-660.webp",
+      "bytes": 59098,
+      "sha256": "74ce6880ab6e91cb79115f86ed6d6acb81ee2d1b68e8ecfa3bf756358b736e0a"
+    },
+    {
+      "path": "assets/risograph/riso-a-cane.webp",
+      "bytes": 217658,
+      "sha256": "cdc2ce0d9f5691c1f445d95c5b3f4b282dc319a7c73e071721b2e448e9f04fb9"
+    },
+    {
+      "path": "assets/risograph/riso-mario-furniture-660.webp",
+      "bytes": 13886,
+      "sha256": "10038c5aec76861b3ee539afbe33565876e1cfafa9bc2b822e68a1d731a3a385"
+    },
+    {
+      "path": "assets/risograph/riso-mario-furniture.webp",
+      "bytes": 159332,
+      "sha256": "f392c15f05b589da7acbb21cee89922d1c77cd55e239b4ea46ae6693cf9714d4"
+    },
+    {
+      "path": "assets/risograph/riso-otherworldly-communications-660.webp",
+      "bytes": 33242,
+      "sha256": "4033c48c7a50a4d97e2d4e420b5adb09bbb41e14cc94be91da7c9d41c906f85b"
+    },
+    {
+      "path": "assets/risograph/riso-otherworldly-communications.webp",
+      "bytes": 67282,
+      "sha256": "6f7682e696e3c56365d86508e4f431f6d6de0f333e5a2cdf6091a604bd3c22d7"
+    },
+    {
+      "path": "assets/risograph/riso-techno-disobedience-660.webp",
+      "bytes": 14238,
+      "sha256": "32ddf77065ffb090005a1f296776322042b4555db7d2482d1366b5a57d4ba0c8"
+    },
+    {
+      "path": "assets/risograph/riso-techno-disobedience.webp",
+      "bytes": 29424,
+      "sha256": "2b3bd3589d3728696f795c57311dcecff059fc981941478d886e45c75a1cc1b4"
+    },
+    {
       "path": "assets/rivera-detroit-industry-nps-cactusman-1200.webp",
       "bytes": 344072,
       "sha256": "db45b0de257b2d30c5df6bf432bc0e9b0282d2a48b0375cb4bc561c7df36aaba"
@@ -3033,8 +3243,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39453,
-      "sha256": "7ddfd33d7934b25968ecfc360369d84782bde1c400afeaf82ff883911f38706e"
+      "bytes": 39490,
+      "sha256": "3d3b90f72582462e1d86057295d5bbdfc3e66d9e584f8f26bde2cb182a9f5f63"
     },
     {
       "path": "chapter-navigation.css",
@@ -3068,8 +3278,8 @@
     },
     {
       "path": "chronology.js",
-      "bytes": 29911,
-      "sha256": "c5713af9c672250419fb3bd29144caf70e845eb0a496313536ef98c09d3778a5"
+      "bytes": 29953,
+      "sha256": "45e5bd5d5624985a24f10d736e27aa0a96cdf027fcea5b6e2055f49b6e74809c"
     },
     {
       "path": "compare.html",
@@ -3103,13 +3313,13 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2416886,
-      "sha256": "866c1c7fb8352a7bea66b077f6c4495a6314f744149aca8408bcaba348b5dc30"
+      "bytes": 2472492,
+      "sha256": "9df1e852959371a54d97d067b7c9cf9a1357059d2adb0c16b459a23b342855a3"
     },
     {
       "path": "entries/3d-clay-illustration.html",
-      "bytes": 25413,
-      "sha256": "07bdf73812ce80f2ef587329aaa01b0f22eb817c9bd175dcbfc7c30724fe958f"
+      "bytes": 28802,
+      "sha256": "d6bdda43a3cf3b0a1fd09268521fc1c886079d70d12dbb2002d0a1f54aedac06"
     },
     {
       "path": "entries/africobra.html",
@@ -3143,8 +3353,8 @@
     },
     {
       "path": "entries/bento-layouts.html",
-      "bytes": 13115,
-      "sha256": "9cacc6a8c50fe3db941458321c09b628ce6c4e9c3ea3311f189d02e537ee08be"
+      "bytes": 24620,
+      "sha256": "dfb111a894fd836a3efdd39d4ef4a75cd3f72bfe0697c14b011059b0bd5d78be"
     },
     {
       "path": "entries/black-mountain-college.html",
@@ -3233,8 +3443,8 @@
     },
     {
       "path": "entries/hfg-ulm.html",
-      "bytes": 23540,
-      "sha256": "2195e214a39dd7ca5391f1c95e6b8412963caec8e683de491f05f015777b49d3"
+      "bytes": 37031,
+      "sha256": "c6ddb3f5f2ce8977ba5fab6d8de93f66e15eb7f7dcc4f57d0de8279a122d6594"
     },
     {
       "path": "entries/hideki-nakajima.html",
@@ -3333,8 +3543,8 @@
     },
     {
       "path": "entries/neo-brutalism.html",
-      "bytes": 12695,
-      "sha256": "39a2d372d872bc0b7f2874e84c7668780304b0f18c52b31ed84714542f1c2b2e"
+      "bytes": 23701,
+      "sha256": "92455c99fcbaeace3743c67dbe23344cbc97890ed4de23a88ee55adb672a751f"
     },
     {
       "path": "entries/neoclassicism.html",
@@ -3423,8 +3633,8 @@
     },
     {
       "path": "entries/risograph.html",
-      "bytes": 16441,
-      "sha256": "4e09fa19cc724909ef22aed5fb62c56b7507c5d90be19e7a7315d5573e1f2c81"
+      "bytes": 29066,
+      "sha256": "be1a1a558412913d4df7a45fec42e75c58e088f4bf538e23ca8198a3684d4ef6"
     },
     {
       "path": "entries/rococo.html",
@@ -3593,8 +3803,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 78891,
-      "sha256": "2ac839b999c355532547516187f490afd7d152ca0f921cbb9e5d88d8a817eb92"
+      "bytes": 81853,
+      "sha256": "8b51625986420cb4e6ec90860a8ed28bab6b94e5162e33babf0c7fae252be62a"
     },
     {
       "path": "japanese-name-sources.json",
@@ -3633,8 +3843,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 27338,
-      "sha256": "218b741012085b61160c7fe2b3311f05418e9b829211c7caa730e5e4ffa13f48"
+      "bytes": 27373,
+      "sha256": "9be9b50d21d59a0ac61acdc7b74d4bdee419d24ea84baa0dc9e8d2d6387d7c4f"
     },
     {
       "path": "logo-provenance.json",
@@ -3719,7 +3929,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "2e67794810796a85ac2efb099ea4d85cfe3489bc54e37c5c56c6da4ccfbb624f"
+      "sha256": "e6a3fa7dfccdb602faf240d25a5b6ee3f7e07ec9701e47012bd2ed11537e14d9"
     },
     {
       "path": "site.webmanifest",
@@ -3728,8 +3938,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 12704,
-      "sha256": "f735af5311a847b91852e790692fca2f73c83056d701b36bba4c08208cfa23c9"
+      "bytes": 12644,
+      "sha256": "d5df62a74c4ed062a6dbd80aa57db5cc79e0a5649c7e16aea3d7c4d1afd60396"
     },
     {
       "path": "study-images.js",
@@ -3769,7 +3979,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "94af8b584b13aa6659faf71ea77cdd909483e9bbdb2380a112335d977332d36a"
+      "sha256": "3f01e4dcd035b0598a588571398596005b98d43c3d6aafe3f605493cef0c15ca"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -3779,7 +3989,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "71fc0fb33f1d460af7a5e22befe5f3c7cf79c16c9a9786c9411e8b6ff8bd1f97"
+      "sha256": "de2801e5544e2da40970f52731021cb5202954c01f131787dab984ab154d7125"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -3838,8 +4048,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 180687,
-      "sha256": "5690f78de0071ad00fe9dfc9f54d9654835d8732d75a3cef3ad24b74df535b38"
+      "bytes": 185731,
+      "sha256": "9d001070b3369b5deeed04dff768d7401f3a9da3c114d750203ca11dff376387"
     }
   ]
 }

@@ -605,7 +605,7 @@ const records = {
   "risograph": {
     "sort_year": null,
     "basis": "共通の年代基準を未確定。掲載作例の年を発祥年には使いません。",
-    "source_period": "技術史の参照：1980年、1984年、2013年。掲載印刷作品の制作年は未確認。",
+    "source_period": "技術史では1980年・1984年・2013年の機種を取り上げます。印刷作品の制作年は各図版に記載しています。",
     "source_article": "entries/risograph.html",
     "precision": "unresolved",
     "catalog_rank": 74
