@@ -15602,9 +15602,13 @@
       "hfg-roericht-chronology",
       "moma-braun-sk4-10",
       "hfg-aicher-finding-aid",
-      "roericht-tc100-history"
+      "roericht-tc100-history",
+      "hfg-ulm-ulm-campus",
+      "hfg-ulm-ulm-braun",
+      "hfg-ulm-ulm-bus",
+      "hfg-ulm-ulm-pavilion"
     ],
-    "representativeness_limit": "学校生活の家具、卒業制作の食器、企業とつくる電気製品、見て情報を伝えるデザインという4つの役割から選びました。建築・映画・情報の部門や、教育課題の全体をカバーする代表セットではありません。作品画像はまだ取得していません。",
+    "representativeness_limit": "校舎や学生の卒業制作、企業と協働した製品・展示館から、この学校で設計がどう教えられ、仕事につながったかを読みます。",
     "reviewed_representatives": [
       {
         "title": "Ulmer Hocker",
@@ -15770,10 +15774,34 @@
           "production1962–2006 differs fromHfG1961"
         ],
         "image_reuse": "Not cleared"
+      },
+      {
+        "id": "hfg-ulm-ulm-campus",
+        "url": "https://commons.wikimedia.org/wiki/File:1955_Foto-HansGConrad_HfGUlm_Architekt-MaxBill.jpg",
+        "institution": "ルネ・シュピッツ・コレクション",
+        "title": "ウルム造形大学の校舎"
+      },
+      {
+        "id": "hfg-ulm-ulm-braun",
+        "url": "https://collection.nationalmuseum.se/en/collection/item/8411/",
+        "institution": "スウェーデン国立美術館",
+        "title": "ブラウン SK 4（ラジオ付きレコードプレーヤー）"
+      },
+      {
+        "id": "hfg-ulm-ulm-bus",
+        "url": "https://commons.wikimedia.org/wiki/File:1956-57_HansGConrad_HfGUlm-Abschlussarbeit_Braun-Ausstellungsbus.jpg",
+        "institution": "ルネ・シュピッツ・コレクション",
+        "title": "ブラウンの移動展示バス（卒業制作・模型）"
+      },
+      {
+        "id": "hfg-ulm-ulm-pavilion",
+        "url": "https://commons.wikimedia.org/wiki/File:1959_HansGConrad_Braun-Pavillon_Messegel%C3%A4nde-FrankfurtMain.jpg",
+        "institution": "ルネ・シュピッツ・コレクション",
+        "title": "ブラウン展示館（フランクフルト見本市）"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
-    "image_count_acquired": 0,
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "image_count_acquired": 4,
     "representatives": [
       {
         "title": "Ulmer Hocker",
@@ -15855,6 +15883,50 @@
             "すでに使われていた物を調べてから、文字や色などをそろえていきました。"
           ]
         }
+      },
+      {
+        "id": "hfg-ulm-ulm-campus",
+        "title": "Hochschule für Gestaltung Ulm",
+        "title_ja": "ウルム造形大学の校舎",
+        "title_original": "Hochschule für Gestaltung Ulm",
+        "creator": "マックス・ビル（設計）",
+        "date": "1955年",
+        "domain": "",
+        "evidence": "https://commons.wikimedia.org/wiki/File:1955_Foto-HansGConrad_HfGUlm_Architekt-MaxBill.jpg",
+        "reason": "新校舎を在学生のコンラートが撮影した写真です。高さの違う棟が斜面に沿ってつながり、長い窓と通路が低く水平に伸びています。"
+      },
+      {
+        "id": "hfg-ulm-ulm-braun",
+        "title": "Radio gramophone Braun SK 4",
+        "title_ja": "ブラウン SK 4（ラジオ付きレコードプレーヤー）",
+        "title_original": "Radio gramophone Braun SK 4",
+        "creator": "ハンス・グゲロート、ディーター・ラムス",
+        "date": "1956年",
+        "domain": "",
+        "evidence": "https://collection.nationalmuseum.se/en/collection/item/8411/",
+        "reason": "透明なふたを開けると、左にレコード盤、右にラジオの目盛りとつまみがあります。ウルムの教員とブラウンのデザイナーが、二つの機器の操作面をひとつの箱にまとめました。"
+      },
+      {
+        "id": "hfg-ulm-ulm-bus",
+        "title": "Ausstellungs-Bus für Braun",
+        "title_ja": "ブラウンの移動展示バス（卒業制作・模型）",
+        "title_original": "Ausstellungs-Bus für Braun",
+        "creator": "ハンス・G・コンラート",
+        "date": "1957年",
+        "domain": "",
+        "evidence": "https://commons.wikimedia.org/wiki/File:1956-57_HansGConrad_HfGUlm-Abschlussarbeit_Braun-Ausstellungsbus.jpg",
+        "reason": "車体の側面に庇が張り出し、その下に来場者の模型が立っています。コンラートが卒業制作で提案した、会場ごとに展示を運ぶバスです。写真は模型を人の目の高さから撮ったもので、実車は製造されませんでした。"
+      },
+      {
+        "id": "hfg-ulm-ulm-pavilion",
+        "title": "Braun-Pavillon, Messe Frankfurt",
+        "title_ja": "ブラウン展示館（フランクフルト見本市）",
+        "title_original": "Braun-Pavillon, Messe Frankfurt",
+        "creator": "オトル・アイヒャー、ハンス・グゲロート、ウルム造形大学の開発グループE2・E5",
+        "date": "1959年",
+        "domain": "",
+        "evidence": "https://commons.wikimedia.org/wiki/File:1959_HansGConrad_Braun-Pavillon_Messegel%C3%A4nde-FrankfurtMain.jpg",
+        "reason": "細い柱とガラスの壁で仕切った展示室に、同じ幅の区画が繰り返されます。学校の二つの開発グループが、ブラウンの製品を展示するために設計した建物です。"
       }
     ],
     "period_bands": [
@@ -15862,7 +15934,176 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "hfg-ulm-ulm-campus",
+        "entry": "HfG Ulm",
+        "title": "ウルム造形大学の校舎",
+        "title_original": "Hochschule für Gestaltung Ulm",
+        "year": "1955年",
+        "author": "マックス・ビル（設計）",
+        "institution": "ルネ・シュピッツ・コレクション",
+        "medium": "",
+        "source_page": "https://commons.wikimedia.org/wiki/File:1955_Foto-HansGConrad_HfGUlm_Architekt-MaxBill.jpg",
+        "work_source_page": "https://museumulm.de/en/collections/hfg-ulm/",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "撮影 Hans G. Conrad / René Spitz（権利者）, Sammlung René Spitz。CC BY-SA 3.0。掲載写真は全体を縮小。",
+        "local_file": "assets/hfg-ulm/hfg-ulm-ulm-campus.webp",
+        "width": 1280,
+        "height": 962,
+        "alt": "新校舎を在学生のコンラートが撮影した写真です。高さの違う棟が斜面に沿ってつながり、長い窓と通路が低く水平に伸びています。",
+        "viewing_point": "新校舎を在学生のコンラートが撮影した写真です。高さの違う棟が斜面に沿ってつながり、長い窓と通路が低く水平に伸びています。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "新校舎を在学生のコンラートが撮影した写真です。高さの違う棟が斜面に沿ってつながり、長い窓と通路が低く水平に伸びています。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "b70b5ea7268aa4d2f1a57e2afeaedb70b3e3a9b223976a3511fe5b286027a049",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/hfg-ulm/hfg-ulm-ulm-campus-660.webp",
+              "width": 660,
+              "height": 496
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/1955_Foto-HansGConrad_HfGUlm_Architekt-MaxBill.jpg"
+        }
+      },
+      {
+        "id": "hfg-ulm-ulm-braun",
+        "entry": "HfG Ulm",
+        "title": "ブラウン SK 4（ラジオ付きレコードプレーヤー）",
+        "title_original": "Radio gramophone Braun SK 4",
+        "year": "1956年",
+        "author": "ハンス・グゲロート、ディーター・ラムス",
+        "institution": "スウェーデン国立美術館",
+        "medium": "",
+        "source_page": "https://collection.nationalmuseum.se/en/collection/item/8411/",
+        "work_source_page": "https://museumulm.de/en/collections/hfg-ulm/",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "credit": "撮影 Viktor Fordell / Nationalmuseum（スウェーデン国立美術館）, NMK 156/1975。CC BY-SA 4.0。掲載写真は全体を縮小。",
+        "local_file": "assets/hfg-ulm/hfg-ulm-ulm-braun.webp",
+        "width": 1200,
+        "height": 1050,
+        "alt": "透明なふたを開けると、左にレコード盤、右にラジオの目盛りとつまみがあります。ウルムの教員とブラウンのデザイナーが、二つの機器の操作面をひとつの箱にまとめました。",
+        "viewing_point": "透明なふたを開けると、左にレコード盤、右にラジオの目盛りとつまみがあります。ウルムの教員とブラウンのデザイナーが、二つの機器の操作面をひとつの箱にまとめました。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "透明なふたを開けると、左にレコード盤、右にラジオの目盛りとつまみがあります。ウルムの教員とブラウンのデザイナーが、二つの機器の操作面をひとつの箱にまとめました。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "6724b8928f88e44fa54c54ea1331d11608ccc09f55e434d3cf164987333467f9",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/hfg-ulm/hfg-ulm-ulm-braun-660.webp",
+              "width": 660,
+              "height": 578
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://collection.nationalmuseum.se/multimedia/8/multimedia-682878.large.jpg"
+        }
+      },
+      {
+        "id": "hfg-ulm-ulm-bus",
+        "entry": "HfG Ulm",
+        "title": "ブラウンの移動展示バス（卒業制作・模型）",
+        "title_original": "Ausstellungs-Bus für Braun",
+        "year": "1957年",
+        "author": "ハンス・G・コンラート",
+        "institution": "ルネ・シュピッツ・コレクション",
+        "medium": "",
+        "source_page": "https://commons.wikimedia.org/wiki/File:1956-57_HansGConrad_HfGUlm-Abschlussarbeit_Braun-Ausstellungsbus.jpg",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:1956-57_HansGConrad_HfGUlm-Abschlussarbeit_Braun-Ausstellungsbus.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "撮影 Hans G. Conrad / René Spitz（権利者）, Sammlung René Spitz。CC BY-SA 3.0。掲載写真は全体を縮小。",
+        "local_file": "assets/hfg-ulm/hfg-ulm-ulm-bus.webp",
+        "width": 1312,
+        "height": 984,
+        "alt": "車体の側面に庇が張り出し、その下に来場者の模型が立っています。コンラートが卒業制作で提案した、会場ごとに展示を運ぶバスです。写真は模型を人の目の高さから撮ったもので、実車は製造されませんでした。",
+        "viewing_point": "車体の側面に庇が張り出し、その下に来場者の模型が立っています。コンラートが卒業制作で提案した、会場ごとに展示を運ぶバスです。写真は模型を人の目の高さから撮ったもので、実車は製造されませんでした。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "車体の側面に庇が張り出し、その下に来場者の模型が立っています。コンラートが卒業制作で提案した、会場ごとに展示を運ぶバスです。写真は模型を人の目の高さから撮ったもので、実車は製造されませんでした。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "234a9dab59123ac4ffe0cc79e00dbdba63e3081766febfc1e130165cbbde7ade",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/hfg-ulm/hfg-ulm-ulm-bus-660.webp",
+              "width": 660,
+              "height": 495
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1956-57_HansGConrad_HfGUlm-Abschlussarbeit_Braun-Ausstellungsbus.jpg"
+        }
+      },
+      {
+        "id": "hfg-ulm-ulm-pavilion",
+        "entry": "HfG Ulm",
+        "title": "ブラウン展示館（フランクフルト見本市）",
+        "title_original": "Braun-Pavillon, Messe Frankfurt",
+        "year": "1959年",
+        "author": "オトル・アイヒャー、ハンス・グゲロート、ウルム造形大学の開発グループE2・E5",
+        "institution": "ルネ・シュピッツ・コレクション",
+        "medium": "",
+        "source_page": "https://commons.wikimedia.org/wiki/File:1959_HansGConrad_Braun-Pavillon_Messegel%C3%A4nde-FrankfurtMain.jpg",
+        "work_source_page": "https://hfgulmarchiv.de/ausstellungen/braunpavillon/",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "撮影 Hans G. Conrad / René Spitz（権利者）, Sammlung René Spitz。CC BY-SA 3.0。掲載写真は全体を縮小。",
+        "local_file": "assets/hfg-ulm/hfg-ulm-ulm-pavilion.webp",
+        "width": 1024,
+        "height": 768,
+        "alt": "細い柱とガラスの壁で仕切った展示室に、同じ幅の区画が繰り返されます。学校の二つの開発グループが、ブラウンの製品を展示するために設計した建物です。",
+        "viewing_point": "細い柱とガラスの壁で仕切った展示室に、同じ幅の区画が繰り返されます。学校の二つの開発グループが、ブラウンの製品を展示するために設計した建物です。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "細い柱とガラスの壁で仕切った展示室に、同じ幅の区画が繰り返されます。学校の二つの開発グループが、ブラウンの製品を展示するために設計した建物です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "a17b0430b9c813a1bbb1dc246501b43131c63df13f8c072314d2709e30b61a57",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/hfg-ulm/hfg-ulm-ulm-pavilion-660.webp",
+              "width": 660,
+              "height": 495
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1959_HansGConrad_Braun-Pavillon_Messegel%C3%A4nde-FrankfurtMain.jpg"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -15881,7 +16122,9 @@
         "いすを見るなら、持ち運ぶとき、どこに手をかけられそうですか。",
         "同じ会社の印刷物を比べるなら、文字や色に共通する決まりはありますか。"
       ]
-    }
+    },
+    "checked_at": "2026-11-22T10:45:00+09:00",
+    "representative_count": 8
   },
   {
     "name": "Suprematism",
@@ -30773,7 +31016,7 @@
     "title_ja": "リソグラフ",
     "slug": "risograph",
     "type": "技法・制作方法",
-    "period": "技術史の参照：1980年、1984年、2013年。掲載印刷作品の制作年は未確認。",
+    "period": "技術史では1980年・1984年・2013年の機種を取り上げます。印刷作品の制作年は各図版に記載しています。",
     "region": "複数の国・地域",
     "summary": "学校のお知らせのように、同じ紙をたくさん刷る機械が、作品づくりにも使われます。リソグラフは理想科学工業の印刷機です。小さな穴のある版からインクを通して刷ります。",
     "context": "1958年のリソーグラフは前身の機器です。1980年にはリソグラフの製版機（せいはんき。印刷用の版をつくる機械）と印刷機が登場しました。機械の発売年と、個々の印刷作品がつくられた年は分けて考えましょう。",
@@ -30784,12 +31027,12 @@
       "composition": "色が少しずれることもありますが、ずれは必須の特徴ではありません。"
     },
     "comparison": "シルクスクリーンと同じく穴を通す印刷ですが、版を機械の胴に巻く仕組みが異なります。コピー機のように見えても、同じ方式ではありません。",
-    "modern": "リゾット・スタジオなどの工房では、リソグラフを作品や小さな出版物の制作に使っています。下の三作品では、一色・二色・三色の刷り方と、紙の色の生かし方を比べられます。機械の歴史は、作品とは別の参考情報として整理しています。",
-    "checked_at": "2026-11-01",
+    "modern": "リゾット・スタジオなどの工房では、リソグラフを作品や小さな出版物の制作に使っています。印刷作品では、一色・二色・三色の刷り方と、紙の色の生かし方を比べられます。機械の歴史は、作品とは別の参考情報として整理しています。",
+    "checked_at": "2026-11-22T10:46:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 3,
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "image_count_acquired": 4,
+    "representative_count": 7,
     "sources": [
       {
         "id": "risograph-1",
@@ -30854,6 +31097,30 @@
         "supports": "黄・赤・青の三色の線を組み合わせ、色が少しずつ変わるように見せています。ソウルのコーナーズが印刷した、50部限定の作品です。",
         "checked_at": "2026-11-01",
         "evidence_access": "公式作品紹介本文を直接オープンして確認。画像利用許諾は別。"
+      },
+      {
+        "id": "riso-mario-furniture",
+        "url": "https://www.flickr.com/photos/cuandoelsolexplote/15680565058/",
+        "institution": "マリオ・フェリペの制作記録",
+        "title": "家具の形を六つ並べた2色刷り"
+      },
+      {
+        "id": "riso-techno-disobedience",
+        "url": "https://calibre.constantvzw.org/book/207",
+        "institution": "Constant（ブリュッセル）",
+        "title": "テクノ・ディスオビーディエンス"
+      },
+      {
+        "id": "riso-a-cane",
+        "url": "https://calibre.constantvzw.org/book/210",
+        "institution": "Constant（ブリュッセル）",
+        "title": "杖、付箋、もうひとつの身体"
+      },
+      {
+        "id": "riso-otherworldly-communications",
+        "url": "https://calibre.constantvzw.org/book/211",
+        "institution": "Constant（ブリュッセル）",
+        "title": "異界とのコミュニケーション"
       }
     ],
     "source_ids": [
@@ -30864,7 +31131,11 @@
       "risotto",
       "risograph-print-1",
       "risograph-print-2",
-      "risograph-print-3"
+      "risograph-print-3",
+      "riso-mario-furniture",
+      "riso-techno-disobedience",
+      "riso-a-cane",
+      "riso-otherworldly-communications"
     ],
     "representatives": [
       {
@@ -30935,12 +31206,225 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "表現が確かめられる印刷作品",
         "source_url": "https://risottostudio.com/products/linescape-a2-wall-art"
+      },
+      {
+        "id": "riso-mario-furniture",
+        "title": ".",
+        "title_ja": "家具の形を六つ並べた2色刷り",
+        "title_original": ".",
+        "creator": "マリオ・フェリペ（図案・写真）、A3press（印刷）",
+        "date": "2014年",
+        "domain": "2色のリソグラフ、A3判、限定30部",
+        "evidence": "https://www.flickr.com/photos/cuandoelsolexplote/15680565058/",
+        "reason": "一枚の紙を六つに区切り、家具の座面や脚を赤と黒の面に置き換えた。背景の淡い赤と座面の濃い赤を比べると、2色でも濃淡によって奥行きをつくれるとわかる。"
+      },
+      {
+        "id": "riso-techno-disobedience",
+        "title": "Techno-disobedience",
+        "title_ja": "テクノ・ディスオビーディエンス",
+        "title_original": "Techno-disobedience",
+        "creator": "Constant、マネッタ・ベレンツ、アリックス・テュルク",
+        "date": "2023年度号",
+        "domain": "リソグラフ印刷のジン。画像は刊行元による表紙図版",
+        "evidence": "https://calibre.constantvzw.org/book/207",
+        "reason": "小さな赤い枠の中に短い言葉を入れ、三列に配した表紙。制作チームは共同編集用の仕組みを組み替え、同じデータからウェブ用の2色刷り見本と印刷所に渡す色別の版を作った。"
+      },
+      {
+        "id": "riso-a-cane",
+        "title": "A Cane, Sticky-notes, Another Body",
+        "title_ja": "杖、付箋、もうひとつの身体",
+        "title_original": "A Cane, Sticky-notes, Another Body",
+        "creator": "Constant、サラ・ガルサン",
+        "date": "2025年刊（2024年度号）",
+        "domain": "リソグラフ印刷のジン。画像は刊行元による表紙図版",
+        "evidence": "https://calibre.constantvzw.org/book/210",
+        "reason": "上部の文字と下端に横たわる杖の線画を、大きな余白が隔てる。アクセシビリティをテーマにした活動を編集部が三日間でまとめ、サラ・ガルサンが紙面と作業工程を整えた。"
+      },
+      {
+        "id": "riso-otherworldly-communications",
+        "title": "Otherworldly Communications",
+        "title_ja": "異界とのコミュニケーション",
+        "title_original": "Otherworldly Communications",
+        "creator": "Constant、サラ・マニャン",
+        "date": "2025年度号、2026年刊行記念会",
+        "domain": "リソグラフ印刷のジン。画像は刊行元による表紙図版",
+        "evidence": "https://calibre.constantvzw.org/book/211",
+        "reason": "桃色の太い文字に、緑色の生きものめいた線画が入り込む。人間以外の存在との共生を扱った号で、文字の一部を囲んだり、文字列をまたいだりする絵の動きが主題と結びついている。"
       }
     ],
     "period_bands": [],
-    "period_band_note": "記載した1980年・1984年・2013年は機械の発売年です。三つの印刷作品の制作年とは区別します。",
+    "period_band_note": "年表の1980年・1984年・2013年は機械の発売年です。作品の制作年は各図版に記載しています。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "riso-mario-furniture",
+        "entry": "Risograph",
+        "title": "家具の形を六つ並べた2色刷り",
+        "title_original": ".",
+        "year": "2014年",
+        "author": "マリオ・フェリペ（図案・写真）、A3press（印刷）",
+        "institution": "マリオ・フェリペの制作記録",
+        "medium": "2色のリソグラフ、A3判、限定30部",
+        "source_page": "https://www.flickr.com/photos/cuandoelsolexplote/15680565058/",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Impress%C3%A3o_em_risografia_em_dua_cores%2C_2014.jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "credit": "Mario Felipe／印刷 A3press／写真提供 Mario Felipe（Wikimedia Commons経由）",
+        "local_file": "assets/risograph/riso-mario-furniture.webp",
+        "width": 1500,
+        "height": 1000,
+        "alt": "赤と黒の家具を六つ並べたA3判の作品を、人物が両手で掲げている。",
+        "viewing_point": "一枚の紙を六つに区切り、家具の座面や脚を赤と黒の面に置き換えた。背景の淡い赤と座面の濃い赤を比べると、2色でも濃淡によって奥行きをつくれるとわかる。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "一枚の紙を六つに区切り、家具の座面や脚を赤と黒の面に置き換えた。背景の淡い赤と座面の濃い赤を比べると、2色でも濃淡によって奥行きをつくれるとわかる。"
+          }
+        ],
+        "selection_criterion": "代表作（2色ポスターの技法例）",
+        "checked_at": "2026-11-22T10:46:00+09:00",
+        "sha256": "f392c15f05b589da7acbb21cee89922d1c77cd55e239b4ea46ae6693cf9714d4",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/risograph/riso-mario-furniture-660.webp",
+              "width": 660,
+              "height": 440
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Impress%C3%A3o_em_risografia_em_dua_cores%2C_2014.jpg"
+        }
+      },
+      {
+        "id": "riso-techno-disobedience",
+        "entry": "Risograph",
+        "title": "テクノ・ディスオビーディエンス",
+        "title_original": "Techno-disobedience",
+        "year": "2023年度号",
+        "author": "Constant、マネッタ・ベレンツ、アリックス・テュルク",
+        "institution": "Constant（ブリュッセル）",
+        "medium": "リソグラフ印刷のジン。画像は刊行元による表紙図版",
+        "source_page": "https://calibre.constantvzw.org/book/207",
+        "work_source_page": "https://www.constantvzw.org/site/Artistic-commission-II-publication-Techno-disobedience,3878.html",
+        "license": "CC4r 1.0（Collective Conditions for Re-use）",
+        "license_url": "https://constantvzw.org/wefts/cc4r.en.html",
+        "credit": "Constant, Manetta Berends, Alix Turcq／印刷 Chez Rosi（ブリュッセル）／表紙図版 Constant",
+        "local_file": "assets/risograph/riso-techno-disobedience.webp",
+        "width": 676,
+        "height": 964,
+        "alt": "白地に赤い短い語句が枠で囲まれ、等間隔に並ぶ表紙。",
+        "viewing_point": "小さな赤い枠の中に短い言葉を入れ、三列に配した表紙。制作チームは共同編集用の仕組みを組み替え、同じデータからウェブ用の2色刷り見本と印刷所に渡す色別の版を作った。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "小さな赤い枠の中に短い言葉を入れ、三列に配した表紙。制作チームは共同編集用の仕組みを組み替え、同じデータからウェブ用の2色刷り見本と印刷所に渡す色別の版を作った。"
+          }
+        ],
+        "selection_criterion": "代表作（Constantの年刊リソグラフ・ジン）",
+        "checked_at": "2026-11-22T10:46:00+09:00",
+        "sha256": "2b3bd3589d3728696f795c57311dcecff059fc981941478d886e45c75a1cc1b4",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/risograph/riso-techno-disobedience-660.webp",
+              "width": 463,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://calibre.constantvzw.org/cover/207"
+        }
+      },
+      {
+        "id": "riso-a-cane",
+        "entry": "Risograph",
+        "title": "杖、付箋、もうひとつの身体",
+        "title_original": "A Cane, Sticky-notes, Another Body",
+        "year": "2025年刊（2024年度号）",
+        "author": "Constant、サラ・ガルサン",
+        "institution": "Constant（ブリュッセル）",
+        "medium": "リソグラフ印刷のジン。画像は刊行元による表紙図版",
+        "source_page": "https://calibre.constantvzw.org/book/210",
+        "work_source_page": "https://site.sarahgarcin.com/constant-2024/pdfs/constant_zine-2024_web.pdf",
+        "license": "CC4r 1.0（Collective Conditions for Re-use）",
+        "license_url": "https://constantvzw.org/wefts/cc4r.en.html",
+        "credit": "Constant, Sarah Garcin／印刷 Chez Rosi（ブリュッセル）／表紙図版 Constant",
+        "local_file": "assets/risograph/riso-a-cane.webp",
+        "width": 661,
+        "height": 915,
+        "alt": "淡い桃色の表紙の上部に青い題名、下部に植物で飾られた杖の線画がある。",
+        "viewing_point": "上部の文字と下端に横たわる杖の線画を、大きな余白が隔てる。アクセシビリティをテーマにした活動を編集部が三日間でまとめ、サラ・ガルサンが紙面と作業工程を整えた。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "上部の文字と下端に横たわる杖の線画を、大きな余白が隔てる。アクセシビリティをテーマにした活動を編集部が三日間でまとめ、サラ・ガルサンが紙面と作業工程を整えた。"
+          }
+        ],
+        "selection_criterion": "代表作（Constantの年刊リソグラフ・ジン）",
+        "checked_at": "2026-11-22T10:46:00+09:00",
+        "sha256": "cdc2ce0d9f5691c1f445d95c5b3f4b282dc319a7c73e071721b2e448e9f04fb9",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/risograph/riso-a-cane-660.webp",
+              "width": 477,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://calibre.constantvzw.org/cover/210"
+        }
+      },
+      {
+        "id": "riso-otherworldly-communications",
+        "entry": "Risograph",
+        "title": "異界とのコミュニケーション",
+        "title_original": "Otherworldly Communications",
+        "year": "2025年度号、2026年刊行記念会",
+        "author": "Constant、サラ・マニャン",
+        "institution": "Constant（ブリュッセル）",
+        "medium": "リソグラフ印刷のジン。画像は刊行元による表紙図版",
+        "source_page": "https://calibre.constantvzw.org/book/211",
+        "work_source_page": "https://constantvzw.org/site/Zine-publication-launch-Otherworldly-Communications.html",
+        "license": "CC4r 1.0（Collective Conditions for Re-use）",
+        "license_url": "https://constantvzw.org/wefts/cc4r.en.html",
+        "credit": "Constant, Sarah Magnan／印刷 Chez Rosi（ブリュッセル）／表紙図版 Constant",
+        "local_file": "assets/risograph/riso-otherworldly-communications.webp",
+        "width": 640,
+        "height": 911,
+        "alt": "表紙いっぱいの桃色の丸文字に、目や指のような緑色の絵が重なる。",
+        "viewing_point": "桃色の太い文字に、緑色の生きものめいた線画が入り込む。人間以外の存在との共生を扱った号で、文字の一部を囲んだり、文字列をまたいだりする絵の動きが主題と結びついている。",
+        "visual_notes": [
+          {
+            "title": "見どころ",
+            "text": "桃色の太い文字に、緑色の生きものめいた線画が入り込む。人間以外の存在との共生を扱った号で、文字の一部を囲んだり、文字列をまたいだりする絵の動きが主題と結びついている。"
+          }
+        ],
+        "selection_criterion": "代表作（Constantの年刊リソグラフ・ジン）",
+        "checked_at": "2026-11-22T10:46:00+09:00",
+        "sha256": "6f7682e696e3c56365d86508e4f431f6d6de0f333e5a2cdf6091a604bd3c22d7",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/risograph/riso-otherworldly-communications-660.webp",
+              "width": 464,
+              "height": 660
+            }
+          ]
+        },
+        "original_image": {
+          "url": "https://calibre.constantvzw.org/cover/211"
+        }
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -30953,8 +31437,8 @@
         "学校のお知らせのように、同じ紙をたくさん刷る機械が、作品づくりにも使われます。リソグラフは理想科学工業の印刷機です。小さな穴のある版からインクを通して刷ります。"
       ]
     },
-    "representativeness_limit": "同じデザイナーの三作品です。色数・紙の色・印刷所の違いを比べる作例であり、リソグラフ表現全体の歴史的代表作と断定しません。機械三例は別の技術史資料として保持しています。",
-    "representative_count_note": "実際の印刷作品3例。機械3例はtechnical_history_examplesに分離し作品数に含めません。",
+    "representativeness_limit": "リソグラフで刷ったポスターや冊子から、色を重ねた部分や、紙とインクの組み合わせを見比べます。",
+    "representative_count_note": "作品・制作例を索引に収録しました。印刷機の機種は技術史の資料として扱います。",
     "technical_history_examples": [
       {
         "title": "リソグラフ AP7200／FX7200",
@@ -33449,11 +33933,11 @@
     },
     "comparison": "ウェブ・ブルータリズムに含める人もいますが、同じ意味とは限りません。こちらは意図して作り込んだ枠や影を使うことがあります。",
     "modern": "押した状態やキーボードで選んだ位置も、はっきり見せる必要があります。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:45:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 3,
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "image_count_acquired": 4,
+    "representative_count": 6,
     "sources": [
       {
         "id": "neo-brutalism-1",
@@ -33478,12 +33962,33 @@
         "supports": "NeoBrutalism.comの名称・作者・年代または制作方法",
         "checked_at": "2026-11-01",
         "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "neo-brutalism-retroui",
+        "url": "https://github.com/neobrutalism/neobrutalism",
+        "institution": "制作元公開資料",
+        "title": "RetroUI の紹介グラフィック"
+      },
+      {
+        "id": "neo-brutalism-dev-realm",
+        "url": "https://mariojgt.github.io/thedevrealm-neo/index.html",
+        "institution": "制作元公開資料",
+        "title": "The Dev Realm のUIキット"
+      },
+      {
+        "id": "neo-brutalism-gumroad",
+        "url": "https://gumroad.com/pricing",
+        "institution": "制作元公開資料",
+        "title": "Gumroad の料金ページに使われた通貨のイラスト"
       }
     ],
     "source_ids": [
       "neo-brutalism-1",
       "neo-brutalism-2",
-      "neo-brutalism-3"
+      "neo-brutalism-3",
+      "neo-brutalism-retroui",
+      "neo-brutalism-dev-realm",
+      "neo-brutalism-gumroad"
     ],
     "representatives": [
       {
@@ -33554,12 +34059,202 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "参考プロジェクト",
         "source_url": "https://neobrutalism.com/docs"
+      },
+      {
+        "id": "neo-brutalism-retroui",
+        "title": "RetroUI",
+        "title_ja": "RetroUI の紹介グラフィック",
+        "title_original": "RetroUI",
+        "creator": "アリフ・ホサインほか",
+        "date": "2024年に開発開始",
+        "domain": "ウェブ用デザインシステムの公開図",
+        "evidence": "https://github.com/neobrutalism/neobrutalism",
+        "reason": "同じ雛形から作ったページを横に並べてみると、画像や本文は異なっても、画面上部の帯や縁の扱いが共通しています。現在のNeobrutalism.comが、RetroUIの名で公開した公式見本です。"
+      },
+      {
+        "id": "neo-brutalism-dev-realm",
+        "title": "The Dev Realm — Neo UI Kit",
+        "title_ja": "The Dev Realm のUIキット",
+        "title_original": "The Dev Realm — Neo UI Kit",
+        "creator": "The Dev Realm／mariojgt",
+        "date": "2026年に開発開始",
+        "domain": "実装済みの画面部品を紹介する見本",
+        "evidence": "https://mariojgt.github.io/thedevrealm-neo/index.html",
+        "reason": "同じ太さの黒枠の中で、赤はエラー、黄は注意、緑は成功を伝えます。装飾の強さを保ちながら、色が操作上の意味も担うようにまとめています。"
+      },
+      {
+        "id": "neo-brutalism-gumroad",
+        "title": "Gumroad Pricing — payment illustration",
+        "title_ja": "Gumroad の料金ページに使われた通貨のイラスト",
+        "title_original": "Gumroad Pricing — payment illustration",
+        "creator": "Gumroad デザインチーム",
+        "date": "制作年未確認（2026年の公開ページ）",
+        "domain": "ウェブサイトの挿絵",
+        "evidence": "https://gumroad.com/pricing",
+        "reason": "三つの通貨記号に太い黒線と、輪郭から一段ずれた影がついています。Gumroadの料金案内で実際に使われた挿絵で、操作ボタンの輪郭にも通じる、くっきりした色面の組み方を見られます。"
       }
     ],
     "period_bands": [],
     "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "neo-brutalism-component-collection",
+        "entry": "Neo-brutalism",
+        "title": "Neobrutalism Components",
+        "title_original": "Neobrutalism Components",
+        "year": "2023年に開発開始",
+        "author": "サミュエル・ブレジュニャク",
+        "institution": "制作元公開資料",
+        "medium": "ユーザーインターフェース部品集の見本",
+        "source_page": "https://www.neobrutalism.dev/",
+        "work_source_page": "https://github.com/ekmas/neobrutalism-components/blob/main/public/preview.png",
+        "license": "MIT License",
+        "license_url": "https://github.com/ekmas/neobrutalism-components/blob/main/LICENSE",
+        "credit": "© Samuel Breznjak。公式見本を縮小してWebP化。",
+        "local_file": "assets/neo-brutalism/neo-brutalism-component-collection.webp",
+        "width": 1150,
+        "height": 575,
+        "alt": "淡い青の上に、ログインフォーム、文章のカード、カレンダーが太い黒線で区切られて並んでいる。",
+        "viewing_point": "画面上の文字は小さくても、入力欄や日付の位置は黒い枠ですぐ分かります。大きなカードと小さなスイッチで同じ輪郭の描き方を繰り返した部品集です。",
+        "visual_notes": [
+          {
+            "title": "選定理由・ポピュラー",
+            "text": "画面上の文字は小さくても、入力欄や日付の位置は黒い枠ですぐ分かります。大きなカードと小さなスイッチで同じ輪郭の描き方を繰り返した部品集です。"
+          }
+        ],
+        "selection_criterion": "ポピュラー",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "f00d7bd22f9a8950ecb066aaad4393d912ca3610bd7b30a8e6649ca2e5b0446b",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/neo-brutalism/neo-brutalism-component-collection-660.webp",
+              "width": 660,
+              "height": 330
+            }
+          ]
+        }
+      },
+      {
+        "id": "neo-brutalism-retroui",
+        "entry": "Neo-brutalism",
+        "title": "RetroUI の紹介グラフィック",
+        "title_original": "RetroUI",
+        "year": "2024年に開発開始",
+        "author": "アリフ・ホサインほか",
+        "institution": "制作元公開資料",
+        "medium": "ウェブ用デザインシステムの公開図",
+        "source_page": "https://github.com/neobrutalism/neobrutalism",
+        "work_source_page": "https://github.com/neobrutalism/neobrutalism/blob/main/public/banner.png",
+        "license": "MIT License",
+        "license_url": "https://github.com/neobrutalism/neobrutalism/blob/main/LICENCE.md",
+        "credit": "© Arif Hossain。プロジェクト公開時の名称を残した公式図を縮小してWebP化。",
+        "local_file": "assets/neo-brutalism/neo-brutalism-retroui.webp",
+        "width": 1150,
+        "height": 604,
+        "alt": "大きな見出しの下にウィンドウが三枚並び、黄色のバーと硬い輪郭が繰り返される。",
+        "viewing_point": "同じ雛形から作ったページを横に並べてみると、画像や本文は異なっても、画面上部の帯や縁の扱いが共通しています。現在のNeobrutalism.comが、RetroUIの名で公開した公式見本です。",
+        "visual_notes": [
+          {
+            "title": "選定理由・ポピュラー",
+            "text": "同じ雛形から作ったページを横に並べてみると、画像や本文は異なっても、画面上部の帯や縁の扱いが共通しています。現在のNeobrutalism.comが、RetroUIの名で公開した公式見本です。"
+          }
+        ],
+        "selection_criterion": "ポピュラー",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "02955587fff1f56952c51cff9265a398160b07e6a9aee5f0b8a7b04ce0cc2c19",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/neo-brutalism/neo-brutalism-retroui-660.webp",
+              "width": 660,
+              "height": 347
+            }
+          ]
+        }
+      },
+      {
+        "id": "neo-brutalism-dev-realm",
+        "entry": "Neo-brutalism",
+        "title": "The Dev Realm のUIキット",
+        "title_original": "The Dev Realm — Neo UI Kit",
+        "year": "2026年に開発開始",
+        "author": "The Dev Realm／mariojgt",
+        "institution": "制作元公開資料",
+        "medium": "実装済みの画面部品を紹介する見本",
+        "source_page": "https://mariojgt.github.io/thedevrealm-neo/index.html",
+        "work_source_page": "https://github.com/mariojgt/thedevrealm-neo/blob/main/assets/banner.png",
+        "license": "MIT License",
+        "license_url": "https://github.com/mariojgt/thedevrealm-neo#license",
+        "credit": "© The Dev Realm。公式の部品見本を縮小してWebP化。",
+        "local_file": "assets/neo-brutalism/neo-brutalism-dev-realm.webp",
+        "width": 1150,
+        "height": 767,
+        "alt": "黒い台紙の上に、緑のボタン、赤いエラー表示、黄色い警告、白いカードが並ぶ。",
+        "viewing_point": "同じ太さの黒枠の中で、赤はエラー、黄は注意、緑は成功を伝えます。装飾の強さを保ちながら、色が操作上の意味も担うようにまとめています。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "同じ太さの黒枠の中で、赤はエラー、黄は注意、緑は成功を伝えます。装飾の強さを保ちながら、色が操作上の意味も担うようにまとめています。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "4af9f2f593edc9c92b9ebc84c3a7ad607c749d2d3d90c0912705b2ebf370f2d6",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/neo-brutalism/neo-brutalism-dev-realm-660.webp",
+              "width": 660,
+              "height": 440
+            }
+          ]
+        }
+      },
+      {
+        "id": "neo-brutalism-gumroad",
+        "entry": "Neo-brutalism",
+        "title": "Gumroad の料金ページに使われた通貨のイラスト",
+        "title_original": "Gumroad Pricing — payment illustration",
+        "year": "制作年未確認（2026年の公開ページ）",
+        "author": "Gumroad デザインチーム",
+        "institution": "制作元公開資料",
+        "medium": "ウェブサイトの挿絵",
+        "source_page": "https://gumroad.com/pricing",
+        "work_source_page": "https://github.com/antiwork/gumroad/blob/main/public/images/features/features-4.svg",
+        "license": "MIT License",
+        "license_url": "https://github.com/antiwork/gumroad/blob/main/LICENSE.md",
+        "credit": "© Gumroad, Inc. 公式サイトで使われる公開SVGをWebP画像に変換。",
+        "local_file": "assets/neo-brutalism/neo-brutalism-gumroad.webp",
+        "width": 780,
+        "height": 759,
+        "alt": "黄色の円記号、青緑のユーロ記号、ピンクのドル記号が黒い縁とずれた影を伴って重なっている。",
+        "viewing_point": "三つの通貨記号に太い黒線と、輪郭から一段ずれた影がついています。Gumroadの料金案内で実際に使われた挿絵で、操作ボタンの輪郭にも通じる、くっきりした色面の組み方を見られます。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "三つの通貨記号に太い黒線と、輪郭から一段ずれた影がついています。Gumroadの料金案内で実際に使われた挿絵で、操作ボタンの輪郭にも通じる、くっきりした色面の組み方を見られます。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "588cc31cdc976d5c1586d022125b0f8b75277b58df9b384c923f332067b9dc2a",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/neo-brutalism/neo-brutalism-gumroad-660.webp",
+              "width": 660,
+              "height": 642
+            }
+          ]
+        }
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -33572,7 +34267,7 @@
         "鮮やかな面を太い線で囲み、ぼかさない影をずらして置きます。カードやボタンが、切り抜いた紙を重ねたように見えます。ここではウェブで使われる呼び名として紹介します。"
       ]
     },
-    "representativeness_limit": "二つの部品制作プロジェクトを比べています。三つの独立した歴史作品ではありません。",
+    "representativeness_limit": "輪郭線、影、平らな色面を組み合わせたウェブサイトや部品集を比べます。",
     "representative_count_note": "3つの参照箇所です。ボタンと紹介サイトは同じ部品集で、独立した3作品ではありません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
@@ -33600,11 +34295,11 @@
     },
     "comparison": "グリッドは、行と列で並べるための広い仕組みです。弁当型の見た目はその一例で、すべてのグリッドが弁当型ではありません。",
     "modern": "読み上げ順やキーボードの移動順が、見た目の順序と食い違わないことも大切です。",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T10:45:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
-    "image_count_acquired": 0,
-    "representative_count": 3,
+    "status": "本文・作品図録公開（実作品画像4点）",
+    "image_count_acquired": 4,
+    "representative_count": 7,
     "sources": [
       {
         "id": "bento-layouts-1",
@@ -33629,12 +34324,40 @@
         "supports": "CSS Grid：共通レイアウトの実装例の名称・作者・年代または制作方法",
         "checked_at": "2026-11-01",
         "evidence_access": "公式・所蔵機関のページ本文または検索結果に掲載された同ページ本文を確認。画像の転載許諾とは別。"
+      },
+      {
+        "id": "bento-layouts-startpage",
+        "url": "https://github.com/migueravila/bento",
+        "institution": "制作元公開資料",
+        "title": "Bento スタートページ"
+      },
+      {
+        "id": "bento-layouts-portfolio",
+        "url": "https://github.com/Ladvace/astro-bento-portfolio",
+        "institution": "制作元公開資料",
+        "title": "Astro Bento Portfolio"
+      },
+      {
+        "id": "bento-layouts-magicui",
+        "url": "https://magicui.design/docs/components/bento-grid",
+        "institution": "制作元公開資料",
+        "title": "Magic UI の Bento Grid"
+      },
+      {
+        "id": "bento-layouts-p33t",
+        "url": "https://github.com/itsP33t/bento",
+        "institution": "制作元公開資料",
+        "title": "Bento の個人用ダッシュボード"
       }
     ],
     "source_ids": [
       "bento-layouts-1",
       "bento-layouts-2",
-      "bento-layouts-3"
+      "bento-layouts-3",
+      "bento-layouts-startpage",
+      "bento-layouts-portfolio",
+      "bento-layouts-magicui",
+      "bento-layouts-p33t"
     ],
     "representatives": [
       {
@@ -33705,12 +34428,213 @@
         "evidence_status": "一次資料の本文を確認。実作品の画像利用許諾とは別。",
         "example_kind": "参考教材（配置をつくる技術）",
         "source_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout/Common_grid_layouts"
+      },
+      {
+        "id": "bento-layouts-startpage",
+        "title": "Bento startpage",
+        "title_ja": "Bento スタートページ",
+        "title_original": "Bento startpage",
+        "creator": "ミゲル・アビラ",
+        "date": "2020年に開発開始",
+        "domain": "新しいタブに表示するウェブ画面",
+        "evidence": "https://github.com/migueravila/bento",
+        "reason": "毎日使うリンクには押しやすい小さなボタンを、複数の行き先を束ねたいときは背の高いリストを割り当てています。どちらも同じ高さの範囲に収まるのが作者の「Bento」配列です。"
+      },
+      {
+        "id": "bento-layouts-portfolio",
+        "title": "Astro Bento Portfolio",
+        "title_ja": "Astro Bento Portfolio",
+        "title_original": "Astro Bento Portfolio",
+        "creator": "ジャンマルコ・カヴァッロ（Ladvace）ほか",
+        "date": "2023年に開発開始",
+        "domain": "作者のポートフォリオ兼テンプレート",
+        "evidence": "https://github.com/Ladvace/astro-bento-portfolio",
+        "reason": "自己紹介は横に長く、技術の一覧は縦に長い。ポートフォリオに必要な内容を、同じ大きさの箱に押し込まず、内容が読みやすい形に割り振っています。"
+      },
+      {
+        "id": "bento-layouts-magicui",
+        "title": "Magic UI — Bento Grid",
+        "title_ja": "Magic UI の Bento Grid",
+        "title_original": "Magic UI — Bento Grid",
+        "creator": "Magic UI 開発チーム",
+        "date": "2023年にプロジェクト開始",
+        "domain": "製品の機能を紹介する画面見本",
+        "evidence": "https://magicui.design/docs/components/bento-grid",
+        "reason": "小さなファイルの束は保存機能、地球儀は多言語対応を表しています。各区画に小さな体験を一つずつ納め、何ができる製品なのかを一覧にしています。"
+      },
+      {
+        "id": "bento-layouts-p33t",
+        "title": "Bento personal dashboard",
+        "title_ja": "Bento の個人用ダッシュボード",
+        "title_original": "Bento personal dashboard",
+        "creator": "itsP33t／Bento 開発者",
+        "date": "2026年に開発開始",
+        "domain": "日常の作業をまとめるウェブアプリ",
+        "evidence": "https://github.com/itsP33t/bento",
+        "reason": "最初から決めた位置に機能を並べるだけでなく、使う人自身がカードを動かし、サイズを選べます。どの作業を大きく表示するかまで、配置を通じて決められる例です。"
       }
     ],
     "period_bands": [],
     "period_band_note": "掲載例の年代であり、技法全体の始まりとは区別します。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "bento-layouts-startpage",
+        "entry": "Bento layouts",
+        "title": "Bento スタートページ",
+        "title_original": "Bento startpage",
+        "year": "2020年に開発開始",
+        "author": "ミゲル・アビラ",
+        "institution": "制作元公開資料",
+        "medium": "新しいタブに表示するウェブ画面",
+        "source_page": "https://github.com/migueravila/bento",
+        "work_source_page": "https://github.com/migueravila/bento/blob/master/assets/img/bentoLayouts.png",
+        "license": "GPL-3.0",
+        "license_url": "https://github.com/migueravila/bento/blob/master/License",
+        "credit": "Miguel Ávila／作者の比較図から「Bento」配列を抜き出し、WebP化。",
+        "local_file": "assets/bento-layouts/bento-layouts-startpage.webp",
+        "width": 1150,
+        "height": 734,
+        "alt": "時刻と日付の下に、六つの小さなボタンと、文字のリンクを縦にまとめた二つの大きな区画が並ぶ。",
+        "viewing_point": "毎日使うリンクには押しやすい小さなボタンを、複数の行き先を束ねたいときは背の高いリストを割り当てています。どちらも同じ高さの範囲に収まるのが作者の「Bento」配列です。",
+        "visual_notes": [
+          {
+            "title": "選定理由・ポピュラー",
+            "text": "毎日使うリンクには押しやすい小さなボタンを、複数の行き先を束ねたいときは背の高いリストを割り当てています。どちらも同じ高さの範囲に収まるのが作者の「Bento」配列です。"
+          }
+        ],
+        "selection_criterion": "ポピュラー",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "b668960d031ac2a8f8a618749822037e1ebc852a566a250f8755c1911b926520",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/bento-layouts/bento-layouts-startpage-660.webp",
+              "width": 660,
+              "height": 421
+            }
+          ]
+        }
+      },
+      {
+        "id": "bento-layouts-portfolio",
+        "entry": "Bento layouts",
+        "title": "Astro Bento Portfolio",
+        "title_original": "Astro Bento Portfolio",
+        "year": "2023年に開発開始",
+        "author": "ジャンマルコ・カヴァッロ（Ladvace）ほか",
+        "institution": "制作元公開資料",
+        "medium": "作者のポートフォリオ兼テンプレート",
+        "source_page": "https://github.com/Ladvace/astro-bento-portfolio",
+        "work_source_page": "https://github.com/Ladvace/astro-bento-portfolio/blob/master/public/preview.webp",
+        "license": "MIT License",
+        "license_url": "https://github.com/Ladvace/astro-bento-portfolio/blob/master/LICENSE",
+        "credit": "© Gianmarco Cavallo and others。作者公開の見本を縮小してWebP化。",
+        "local_file": "assets/bento-layouts/bento-layouts-portfolio.webp",
+        "width": 1150,
+        "height": 777,
+        "alt": "黒い画面に作者の自己紹介、得意な技術、時計、仕事の連絡先などを入れた大小の区画が並んでいる。",
+        "viewing_point": "自己紹介は横に長く、技術の一覧は縦に長い。ポートフォリオに必要な内容を、同じ大きさの箱に押し込まず、内容が読みやすい形に割り振っています。",
+        "visual_notes": [
+          {
+            "title": "選定理由・ポピュラー",
+            "text": "自己紹介は横に長く、技術の一覧は縦に長い。ポートフォリオに必要な内容を、同じ大きさの箱に押し込まず、内容が読みやすい形に割り振っています。"
+          }
+        ],
+        "selection_criterion": "ポピュラー",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "300d4e8db42536f459ea798e9c1b5a31bb9d5ac6001a3fa2565e7833605fc1e5",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/bento-layouts/bento-layouts-portfolio-660.webp",
+              "width": 660,
+              "height": 446
+            }
+          ]
+        }
+      },
+      {
+        "id": "bento-layouts-magicui",
+        "entry": "Bento layouts",
+        "title": "Magic UI の Bento Grid",
+        "title_original": "Magic UI — Bento Grid",
+        "year": "2023年にプロジェクト開始",
+        "author": "Magic UI 開発チーム",
+        "institution": "制作元公開資料",
+        "medium": "製品の機能を紹介する画面見本",
+        "source_page": "https://magicui.design/docs/components/bento-grid",
+        "work_source_page": "https://github.com/magicuidesign/magicui",
+        "license": "MIT License",
+        "license_url": "https://github.com/magicuidesign/magicui/blob/main/LICENSE.md",
+        "credit": "© Magic UI。公式ドキュメントの動画見本から一場面を抜き出しWebP化。",
+        "local_file": "assets/bento-layouts/bento-layouts-magicui.webp",
+        "width": 640,
+        "height": 360,
+        "alt": "大小の白い区画にファイル、検索窓、地球儀、日付の小さなカレンダーが見える。",
+        "viewing_point": "小さなファイルの束は保存機能、地球儀は多言語対応を表しています。各区画に小さな体験を一つずつ納め、何ができる製品なのかを一覧にしています。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "小さなファイルの束は保存機能、地球儀は多言語対応を表しています。各区画に小さな体験を一つずつ納め、何ができる製品なのかを一覧にしています。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "b35bcf3cbfce54da0920560d6380483aab4477660bafccc2b9d22a169e6e79da",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/bento-layouts/bento-layouts-magicui-660.webp",
+              "width": 640,
+              "height": 360
+            }
+          ]
+        }
+      },
+      {
+        "id": "bento-layouts-p33t",
+        "entry": "Bento layouts",
+        "title": "Bento の個人用ダッシュボード",
+        "title_original": "Bento personal dashboard",
+        "year": "2026年に開発開始",
+        "author": "itsP33t／Bento 開発者",
+        "institution": "制作元公開資料",
+        "medium": "日常の作業をまとめるウェブアプリ",
+        "source_page": "https://github.com/itsP33t/bento",
+        "work_source_page": "https://cdni.p33t.net/bento/bento_hero.png",
+        "license": "AGPL-3.0",
+        "license_url": "https://github.com/itsP33t/bento/blob/main/LICENSE",
+        "credit": "itsP33t／作者公開の画面見本を縮小してWebP化。",
+        "local_file": "assets/bento-layouts/bento-layouts-p33t.webp",
+        "width": 1150,
+        "height": 647,
+        "alt": "暗い背景の中に、一日の予定、時刻、短い文章の入った横長・縦長の区画が並ぶ。",
+        "viewing_point": "最初から決めた位置に機能を並べるだけでなく、使う人自身がカードを動かし、サイズを選べます。どの作業を大きく表示するかまで、配置を通じて決められる例です。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "最初から決めた位置に機能を並べるだけでなく、使う人自身がカードを動かし、サイズを選べます。どの作業を大きく表示するかまで、配置を通じて決められる例です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:45:00+09:00",
+        "sha256": "468f6037a56148c6cd1747a62fed6acdb9d24f23293eff36be092ea31eca3222",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/bento-layouts/bento-layouts-p33t-660.webp",
+              "width": 660,
+              "height": 371
+            }
+          ]
+        }
+      }
+    ],
     "reference_images": [],
     "reference_image_count": 0,
     "generated_style_images": [],
@@ -33723,7 +34647,7 @@
         "大小の四角い箱に、写真や短い説明を分けて入れます。弁当箱の仕切りに見立てて、「ベントー」レイアウトとも呼ばれます。関連する情報を一まとまりにする方法です。"
       ]
     },
-    "representativeness_limit": "実際の制作二例と技術教材一例です。エムディーエヌ（ウェブ技術の解説サイト）の例をベントー形式の発祥例として扱いません。",
+    "representativeness_limit": "作品紹介や個人用のスタートページで、大小の区画に情報を振り分けた例です。どの区画から読むように設計されたかを見比べます。",
     "representative_count_note": "実在する例の数です。独立した美術作品の数とは限りません。",
     "example_section_label": "表現が確かめられる作例・参考教材",
     "canonical_status_note": "歴史上の定評ある代表作と断定する選定ではありません。制作側の説明や教材から、表現が確かめられる例を区別して掲載しています。",
@@ -34419,11 +35343,11 @@
     },
     "comparison": "3Dのすべてが粘土風ではありません。写実的な金属やガラスの表現もあります。クレイモーフィズムという画面の呼び名とも、完全には重なりません。",
     "modern": "人物の素材集では、誰をどんな顔で表すかも大切です。購入した素材でも、素材そのものの再配布まで許されるとは限りません。",
-    "checked_at": "2026-11-22T10:39:00+09:00",
+    "checked_at": "2026-11-22T10:46:00+09:00",
     "publication_status": "editorial_review_pending_image_gap",
-    "status": "本文・作品図録公開（実作品画像4点）",
-    "image_count_acquired": 4,
-    "representative_count": 7,
+    "status": "本文・作品図録公開（実作品画像5点）",
+    "image_count_acquired": 5,
+    "representative_count": 8,
     "sources": [
       {
         "id": "3d-clay-illustration-1",
@@ -34472,6 +35396,12 @@
         "url": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Melting%20face/3D/melting_face_3d.png",
         "institution": "マイクロソフト",
         "title": "溶ける顔（Fluent Emoji・3D版）"
+      },
+      {
+        "id": "clay-satellite-hideaway",
+        "url": "https://sketchfab.com/3d-models/satellite-caper-hideaway-06ff805117494a88b06edd39da13c796",
+        "title": "サテライト・ケイパーの隠れ家",
+        "institution": "作者公開／Sketchfab"
       }
     ],
     "source_ids": [
@@ -34481,7 +35411,8 @@
       "clay-unicorn",
       "clay-sprite-fright",
       "clay-camera",
-      "clay-melting-face"
+      "clay-melting-face",
+      "clay-satellite-hideaway"
     ],
     "representatives": [
       {
@@ -34596,6 +35527,17 @@
         "domain": "3D絵文字",
         "evidence": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Melting%20face/3D/melting_face_3d.png",
         "reason": "笑顔の上半分が形を保ったまま、下の縁だけが溶けて広がります。顔の輪郭を柔らかい立体としてとらえ直した例。ごく小さな絵文字でも、色の濃淡から厚みを読み取れます。"
+      },
+      {
+        "id": "clay-satellite-hideaway",
+        "title": "Satellite Caper Hideaway",
+        "title_ja": "サテライト・ケイパーの隠れ家",
+        "title_original": "Satellite Caper Hideaway",
+        "creator": "Saandy",
+        "date": "2022年",
+        "domain": "デジタルの粘土と端材を用いたミニチュアの3D表現",
+        "reason": "悪役の隠れ家を、捜査する側が粘土や端材で模型にした、という設定です。作者はその模型らしい世界をすべて3DソフトのMayaで作りました。単独のアイコンや人物と違い、建物や小物まで一つの材料感でそろえた作例です。",
+        "evidence": "https://sketchfab.com/3d-models/satellite-caper-hideaway-06ff805117494a88b06edd39da13c796"
       }
     ],
     "period_bands": [],
@@ -34754,6 +35696,45 @@
               "local_file": "assets/3d-clay-illustration/clay-melting-face-660.webp",
               "width": 256,
               "height": 256
+            }
+          ]
+        }
+      },
+      {
+        "id": "clay-satellite-hideaway",
+        "entry": "3D / clay illustration",
+        "title": "サテライト・ケイパーの隠れ家",
+        "title_original": "Satellite Caper Hideaway",
+        "year": "2022年",
+        "author": "Saandy",
+        "institution": "作者公開／Sketchfab",
+        "medium": "デジタルの粘土と端材を用いたミニチュアの3D表現",
+        "source_page": "https://sketchfab.com/3d-models/satellite-caper-hideaway-06ff805117494a88b06edd39da13c796",
+        "work_source_page": "https://media.sketchfab.com/models/06ff805117494a88b06edd39da13c796/thumbnails/acdcc07d06f7433198cbe9d104913142/3eeb35a6b0ed4d32aa09a87eab058607.jpeg",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "credit": "© Saandy / Sketchfab。作者公開の3Dモデルのプレビューを縮小しWebP化。",
+        "local_file": "assets/3d-clay-illustration/clay-satellite-hideaway.webp",
+        "width": 1150,
+        "height": 647,
+        "alt": "屋根と壁を切り開いた小さな家。板を貼った床と柱、青い細部や赤白の布が、模型の部材のように組み合わさっている。",
+        "viewing_point": "悪役の隠れ家を、捜査する側が粘土や端材で模型にした、という設定です。作者はその模型らしい世界をすべて3DソフトのMayaで作りました。単独のアイコンや人物と違い、建物や小物まで一つの材料感でそろえた作例です。",
+        "visual_notes": [
+          {
+            "title": "選定理由・代表作",
+            "text": "悪役の隠れ家を、捜査する側が粘土や端材で模型にした、という設定です。作者はその模型らしい世界をすべて3DソフトのMayaで作りました。単独のアイコンや人物と違い、建物や小物まで一つの材料感でそろえた作例です。"
+          }
+        ],
+        "selection_criterion": "代表作",
+        "checked_at": "2026-11-22T10:46:00+09:00",
+        "sha256": "9683fc82f0adf655cfd0e4cce9f82386d11949811f4c4538076843cc517f385c",
+        "display_derivatives": {
+          "method": "図版全体を保ち、表示用のWebP画像を作成。",
+          "variants": [
+            {
+              "local_file": "assets/3d-clay-illustration/clay-satellite-hideaway-660.webp",
+              "width": 660,
+              "height": 371
             }
           ]
         }

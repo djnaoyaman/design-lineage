@@ -23,11 +23,11 @@
 - [ポストモダニズム / Postmodernism](https://djnaoyaman.github.io/design-lineage/entries/postmodernism.html): 複数分野にまたがる歴史的潮流。主な展開 1970頃–1990頃（分野により差異）。実作品画像1点、作品・制作の例5件、人物6人。画像収録は継続中。
 - [バウハウス / Bauhaus](https://djnaoyaman.github.io/design-lineage/entries/bauhaus.html): 学校・教育。1919–1933。実作品画像3点、作品・制作の例7件、人物9人。画像収録は継続中。
 - [琳派 / 琳派](https://djnaoyaman.github.io/design-lineage/entries/rinpa.html): 後世に整理された様式・芸術的継承の系譜。主に17–19世紀／近代以降にも再解釈。実作品画像8点、作品・制作の例9件、人物6人。画像収録は継続中。
-- [ニュー・タイポグラフィ / New Typography](https://djnaoyaman.github.io/design-lineage/entries/new-typography.html): 情報・グラフィックの歴史的な潮流。主に1920〜30年代。チヒョルトの後年の仕事も、考え方の変化を知るために紹介します。。実作品画像0点、作品・制作の例6件、人物5人。画像収録は継続中。
+- [ニュー・タイポグラフィ / New Typography](https://djnaoyaman.github.io/design-lineage/entries/new-typography.html): 情報・グラフィックの歴史的な潮流。主に1920〜30年代。チヒョルトの後年の仕事も、考え方の変化を知るために紹介します。実作品画像4点、作品・制作の例10件、人物5人。画像収録は継続中。
 - [インターナショナル・スタイル / International Style](https://djnaoyaman.github.io/design-lineage/entries/international-style.html): 建築の様式・批評用語。成立：1920–30年代の欧州／戦後米国の展開も比較（1952年の例）。実作品画像1点、作品・制作の例4件、人物5人。画像収録は継続中。
 - [浮世絵 / 浮世絵](https://djnaoyaman.github.io/design-lineage/entries/ukiyoe.html): 絵画・木版画にまたがる表現の領域（木版技法そのものとは区別）。17–19世紀の展開を中心に扱う。1765年は多色の一枚摺・錦絵の重要な節目。。実作品画像3点、作品・制作の例4件、人物4人。画像収録は継続中。
 - [中国新興木刻運動 / 中国新興木刻運動](https://djnaoyaman.github.io/design-lineage/entries/china-new-woodcut.html): 社会・文化的な版画運動（木版技法そのものとは区別）。1930年代の形成と展開を中心に扱う／1940年代以降の変化は別に精査。
-- [サンティニケタン / Santiniketan](https://djnaoyaman.github.io/design-lineage/entries/santiniketan.html): 教育共同体・芸術教育の場所（単一の造形様式ではない）。1863年のアシュラム、1901年の学校、1921年の大学をそれぞれの節目として区別。。
+- [サンティニケタン / Santiniketan](https://djnaoyaman.github.io/design-lineage/entries/santiniketan.html): 教育共同体・芸術教育の場所（単一の造形様式ではない）。1863年のアシュラム、1901年の学校、1921年の大学をそれぞれの節目として区別。
 - [メキシコ壁画運動 / Mexican Muralism](https://djnaoyaman.github.io/design-lineage/entries/mexican-muralism.html): 公共的・教育的な美術運動（単一技法・固定様式ではない）。1920年代に展開・定着し20世紀後半へ継続。1921年の先行例と1922年の集団的実験を区別する。。実作品画像1点、作品・制作の例7件、人物4人。画像収録は継続中。
 - [ヌスカ学派 / Nsukka School](https://djnaoyaman.github.io/design-lineage/entries/nsukka-school.html): 教育拠点に結びつく現代美術の学派。取得済資料では1970年代の教育と制作の展開を確認。全体の始期・終期は未精査。。
 - [フルーフィーヤ / Hurufiyya](https://djnaoyaman.github.io/design-lineage/entries/hurufiyya.html): 文字を造形要素として扱う近現代美術の動向。20世紀半ばの形成に関する根拠と1968・1986・2010年の作品例。単一集団の創始年や統一した終期は設定しない。。
@@ -35,7 +35,7 @@
 - [アフリコブラ / AfriCOBRA](https://djnaoyaman.github.io/design-lineage/entries/africobra.html): 歴史的なアーティスト集団。1968年結成／主な検討作例：1968年頃–1980年。
 - [アイソタイプ / Isotype](https://djnaoyaman.github.io/design-lineage/entries/isotype.html): 情報を図で伝える方法・制作体制。1920年代成立／1930–1950年代以降に教育へ展開。
 - [オーストラリアのFirst Nationsによる現代デザイン / Australian Indigenous contemporary design](https://djnaoyaman.github.io/design-lineage/entries/first-nations-australia-design.html): 地域・制作主体別の案内（単一の様式・運動ではない）。現代の実践／本項の検討作例：2019–2021年。
-- [民藝運動 / 民藝運動](https://djnaoyaman.github.io/design-lineage/entries/mingei.html): 歴史的な運動・工芸を評価し伝える思想。1925年に命名／1920年代以降。実作品画像0点、作品・制作の例4件、人物3人。画像収録は継続中。
+- [民藝運動 / 民藝運動](https://djnaoyaman.github.io/design-lineage/entries/mingei.html): 歴史的な運動・工芸を評価し伝える思想。1925年に命名／1920年代以降。実作品画像4点、作品・制作の例8件、人物3人。画像収録は継続中。
 - [ウィーン分離派 / Vienna Secession](https://djnaoyaman.github.io/design-lineage/entries/vienna-secession.html): 歴史的な芸術家団体・展覧会と出版を通じた運動。1897年結成／ここでは世紀転換期を中心に扱う。実作品画像4点、作品・制作の例7件、人物7人。画像収録は継続中。
 - [ウルム造形大学 / HfG Ulm](https://djnaoyaman.github.io/design-lineage/entries/hfg-ulm.html): 学校・教育機関。1953–1968。
 - [シュプレマティスム（絶対主義） / Suprematism](https://djnaoyaman.github.io/design-lineage/entries/suprematism.html): 歴史的な美術運動・理論。1915年に公表／主に1910年代後半–1920年代。
@@ -59,11 +59,11 @@
 - [ニュー・バウハウス（シカゴ） / New Bauhaus Chicago](https://djnaoyaman.github.io/design-lineage/entries/new-bauhaus-chicago.html): 学校・教育。後継校への変化は時期を分けて扱う。1937–1938年のニュー・バウハウスと、1939年に始まるスクール・オブ・デザインを中心に扱う。比較資料は1946年までの後続教育資料を含む。実作品画像0点、画像収録は継続中。
 - [ヴフテマス / Vkhutemas](https://djnaoyaman.github.io/design-lineage/entries/vkhutemas.html): 国立の美術・技術教育機関。1920–1930年（後継のヴフテイン期を含む）。実作品画像1点、画像収録は継続中。
 - [ブラック・マウンテン・カレッジ / Black Mountain College](https://djnaoyaman.github.io/design-lineage/entries/black-mountain-college.html): 学校・共同生活を通じた教育の実践。1933–1957。実作品画像0点、画像収録は継続中。
-- [サイケデリック・アート / Psychedelic Art](https://djnaoyaman.github.io/design-lineage/entries/psychedelic-art.html): 視覚表現の潮流（ここでは音楽ポスターを中心に扱う）。主に1960年代後半。実作品画像0点、画像収録は継続中。
+- [サイケデリック・アート / Psychedelic Art](https://djnaoyaman.github.io/design-lineage/entries/psychedelic-art.html): 視覚表現の潮流（ここでは音楽ポスターを中心に扱う）。主に1960年代後半。実作品画像4点、画像収録は継続中。
 - [ストリームライン・モダン / Streamline Moderne](https://djnaoyaman.github.io/design-lineage/entries/streamline-moderne.html): 歴史的な様式・潮流（建築と製品の流線型を区別して扱う）。主に1930年代。個別の製品は1940年代以後も製造。実作品画像1点、画像収録は継続中。
 - [ポーランド・ポスター派 / Polish Poster School](https://djnaoyaman.github.io/design-lineage/entries/polish-poster-school.html): ポスター制作の潮流（ひとつの学校名ではない）。主に1950–70年代。実作品画像0点、画像収録は継続中。
-- [シュルレアリスム（超現実主義） / Surrealism](https://djnaoyaman.github.io/design-lineage/entries/surrealism.html): 美術・文学の運動。1924年の宣言を重要な節目として、1920–30年代を中心に扱う。実作品画像0点、作品・制作の例7件、人物8人。画像収録は継続中。
-- [ユーゲントシュティール / Jugendstil](https://djnaoyaman.github.io/design-lineage/entries/jugendstil.html): Art Nouveauの地域的な呼称・展開（独立した別運動として数えない）。19世紀末から20世紀初めを中心に扱う。1896年は雑誌の創刊年で、様式全体の発明年ではない。実作品画像0点、画像収録は継続中。
+- [シュルレアリスム（超現実主義） / Surrealism](https://djnaoyaman.github.io/design-lineage/entries/surrealism.html): 美術・文学の運動。1924年の宣言を重要な節目として、1920–30年代を中心に扱う。実作品画像4点、作品・制作の例10件、人物8人。画像収録は継続中。
+- [ユーゲントシュティール / Jugendstil](https://djnaoyaman.github.io/design-lineage/entries/jugendstil.html): Art Nouveauの地域的な呼称・展開（独立した別運動として数えない）。19世紀末から20世紀初めを中心に扱う。1896年は雑誌の創刊年で、様式全体の発明年ではない。実作品画像4点、画像収録は継続中。
 - [北欧モダン（スカンディナヴィアン・モダン） / Scandinavian Modern](https://djnaoyaman.github.io/design-lineage/entries/scandinavian-modern.html): 地域を横断するデザインの潮流・呼称。1930年代–1960年代を中心に紹介。スカンディナヴィアン・デザインという呼称の国際的な宣伝は1950年代に拡大。実作品画像1点、画像収録は継続中。
 - [ブルータリズム / Brutalism](https://djnaoyaman.github.io/design-lineage/entries/brutalism.html): 建築の潮流。初期のニュー・ブルータリズムと後の広がりを区別。1950年代から展開。紹介例は1950–1982年の建設。実作品画像1点、画像収録は継続中。
 - [批判的地域主義（ひはんてき・ちいきしゅぎ／クリティカル・リージョナリズム） / Critical Regionalism](https://djnaoyaman.github.io/design-lineage/entries/critical-regionalism.html): 建築の批評理論・設計を考える立場。学校や統一様式ではない。1980年代に理論として論じられる。比較する建築は1952年・1976年。実作品画像2点、画像収録は継続中。
@@ -76,8 +76,8 @@
 - [ベンガル派 / Bengal School](https://djnaoyaman.github.io/design-lineage/entries/bengal-school.html): 絵画の運動・教育をめぐる流れ。19世紀末の前史／20世紀初めを中心に展開。実作品画像1点、画像収録は継続中。
 - [新建築工芸学院（しんけんちくこうげいがくいん） / 新建築工芸学院](https://djnaoyaman.github.io/design-lineage/entries/shinkenchiku-kogei-gakuin.html): 民間のデザイン教育機関。前身1932年／学院への改称1933年5月／1930年代半ばまで。実作品画像0点、画像収録は継続中。
 - [桑沢デザイン研究所 / 桑沢デザイン研究所](https://djnaoyaman.github.io/design-lineage/entries/kuwasawa-design-school.html): デザインの専門教育機関。1954年設立–。実作品画像0点、画像収録は継続中。
-- [NID（エヌ・アイ・ディー）アーメダバード／インド国立デザイン大学 / NID Ahmedabad](https://djnaoyaman.github.io/design-lineage/entries/nid-ahmedabad.html): 国立のデザイン教育機関。1961年設立–／設立前の報告書1958年。実作品画像0点、画像収録は継続中。
-- [ESDI（エスディ）リオデジャネイロ／工業デザインの高等教育機関 / ESDI Rio de Janeiro](https://djnaoyaman.github.io/design-lineage/entries/esdi-rio.html): デザインの高等教育機関。1962年設立／1963年授業開始–。実作品画像0点、画像収録は継続中。
+- [NID（エヌ・アイ・ディー）アーメダバード／インド国立デザイン大学 / NID Ahmedabad](https://djnaoyaman.github.io/design-lineage/entries/nid-ahmedabad.html): 国立のデザイン教育機関。1961年設立–／設立前の報告書1958年。実作品画像4点、画像収録は継続中。
+- [ESDI（エスディ）リオデジャネイロ／工業デザインの高等教育機関 / ESDI Rio de Janeiro](https://djnaoyaman.github.io/design-lineage/entries/esdi-rio.html): デザインの高等教育機関。1962年設立／1963年授業開始–。実作品画像4点、画像収録は継続中。
 - [新興写真（しんこうしゃしん） / 新興写真](https://djnaoyaman.github.io/design-lineage/entries/shinko-shashin.html): 写真表現をめぐる運動。1920年代末–1930年代を中心に。実作品画像1点、画像収録は継続中。
 - [具体美術協会（ぐたいびじゅつきょうかい） / 具体美術協会](https://djnaoyaman.github.io/design-lineage/entries/gutai.html): 美術家の団体。1954–1972年。実作品画像0点、画像収録は継続中。
 - [もの派 / もの派](https://djnaoyaman.github.io/design-lineage/entries/mono-ha.html): 美術の動向（単一の学校・固定団体ではない）。1960年代末–1970年代を中心に。実作品画像0点、画像収録は継続中。
@@ -86,29 +86,29 @@
 - [トロピカリズモ（音楽と美術に広がった文化運動） / Tropicalismo](https://djnaoyaman.github.io/design-lineage/entries/tropicalismo.html): 音楽・美術などにまたがる文化運動。1960年代後半を中心に。実作品画像0点、画像収録は継続中。
 - [ネグリチュードと、目で見る文化 / Négritude と視覚文化](https://djnaoyaman.github.io/design-lineage/entries/negritude-visual-culture.html): 思想・文化運動と美術の関係を考える主題。1930年代の思想／1960年代以降の美術との関係。実作品画像0点、画像収録は継続中。
 - [ハルツーム派 / Khartoum School](https://djnaoyaman.github.io/design-lineage/entries/khartoum-school.html): スーダン美術をめぐる動向・後から用いられた呼称。1960年代を中心に／後の展開を含む。実作品画像0点、画像収録は継続中。
-- [グラフィックにおける和様（わよう） / グラフィックにおける和様](https://djnaoyaman.github.io/design-lineage/entries/wayo-graphic.html): 日本の伝統と近現代の印刷物を比べる編集上の主題。本項は1950年代–1990年代の田中一光を中心に。実作品画像0点、画像収録は継続中。
-- [ブラジル・モダニズム / ブラジル・モダニズム](https://djnaoyaman.github.io/design-lineage/entries/brazilian-modernism.html): 文学・美術・建築などにまたがる近代文化の動き。1920年代を中心に／その後も多様に展開。実作品画像0点、画像収録は継続中。
-- [トロピカル・モダニズム（熱帯の環境を考えた近代建築） / Tropical Modernism](https://djnaoyaman.github.io/design-lineage/entries/tropical-modernism.html): 建築をめぐる動向。1940年代以降を中心に。実作品画像0点、画像収録は継続中。
+- [グラフィックにおける和様（わよう） / グラフィックにおける和様](https://djnaoyaman.github.io/design-lineage/entries/wayo-graphic.html): 日本の伝統と近現代の印刷物を比べる編集上の主題。本項は1950年代–1990年代の田中一光を中心に。実作品画像5点、画像収録は継続中。
+- [ブラジル・モダニズム / ブラジル・モダニズム](https://djnaoyaman.github.io/design-lineage/entries/brazilian-modernism.html): 文学・美術・建築などにまたがる近代文化の動き。1920年代を中心に／その後も多様に展開。実作品画像4点、画像収録は継続中。
+- [トロピカル・モダニズム（熱帯の環境を考えた近代建築） / Tropical Modernism](https://djnaoyaman.github.io/design-lineage/entries/tropical-modernism.html): 建築をめぐる動向。1940年代以降を中心に。実作品画像4点、画像収録は継続中。
 
 - [タイポグラフィ／活字組版 / Typography / 活字組版](https://djnaoyaman.github.io/design-lineage/entries/typography-typesetting.html): 技法・制作方法。掲載例：1454–1455年、1896年、1928年。実作品画像1点、画像収録は継続中。
-- [フォトモンタージュ / Photomontage](https://djnaoyaman.github.io/design-lineage/entries/photomontage.html): 技法・制作方法。掲載例：1925–1930年。実作品画像0点、画像収録は継続中。
-- [コラージュ / Collage](https://djnaoyaman.github.io/design-lineage/entries/collage.html): 技法・制作方法。掲載例：1919–1924年。実作品画像0点、画像収録は継続中。
-- [シルクスクリーン / Silkscreen](https://djnaoyaman.github.io/design-lineage/entries/silkscreen.html): 技法・制作方法。掲載例：1967–1983年。実作品画像0点、画像収録は継続中。
-- [リソグラフ / Risograph](https://djnaoyaman.github.io/design-lineage/entries/risograph.html): 技法・制作方法。技術史の参照：1980年、1984年、2013年。掲載印刷作品の制作年は未確認。。実作品画像0点、画像収録は継続中。
+- [フォトモンタージュ / Photomontage](https://djnaoyaman.github.io/design-lineage/entries/photomontage.html): 技法・制作方法。掲載例：1925–1930年。実作品画像4点、画像収録は継続中。
+- [コラージュ / Collage](https://djnaoyaman.github.io/design-lineage/entries/collage.html): 技法・制作方法。掲載例：1919–1924年。実作品画像4点、画像収録は継続中。
+- [シルクスクリーン / Silkscreen](https://djnaoyaman.github.io/design-lineage/entries/silkscreen.html): 技法・制作方法。掲載例：1967–1983年。実作品画像4点、画像収録は継続中。
+- [リソグラフ / Risograph](https://djnaoyaman.github.io/design-lineage/entries/risograph.html): 技法・制作方法。技術史では1980年・1984年・2013年の機種を取り上げます。印刷作品の制作年は各図版に記載しています。実作品画像4点、画像収録は継続中。
 - [ピクセルアート / Pixel art](https://djnaoyaman.github.io/design-lineage/entries/pixel-art.html): 技法・制作方法。掲載例：2021–2023年。実作品画像1点、画像収録は継続中。
-- [ジェネラティブ・デザイン / Generative design](https://djnaoyaman.github.io/design-lineage/entries/generative-design.html): 技法・制作方法。掲載例：2001年以降のシリーズ、2015年の試作。実作品画像0点、画像収録は継続中。
-- [パラメトリック・デザイン / Parametric design](https://djnaoyaman.github.io/design-lineage/entries/parametric-design.html): 技法・制作方法。掲載例：2010–2012年。実作品画像0点、画像収録は継続中。
-- [情報の視覚化 / Information visualization](https://djnaoyaman.github.io/design-lineage/entries/information-visualization.html): 技法・制作方法。掲載例：継続更新されるオンライン教材（開始年は一括しない）。実作品画像0点、画像収録は継続中。
-- [スキューモーフィズム / Skeuomorphism](https://djnaoyaman.github.io/design-lineage/entries/skeuomorphism.html): 現代の画面表現・説明用の分類。掲載例：2011年のアプリと継続更新の音楽ソフト。実作品画像0点、画像収録は継続中。
-- [ニューモーフィズム / Neumorphism](https://djnaoyaman.github.io/design-lineage/entries/neumorphism.html): 現代の画面表現・説明用の分類。近年の画面表現。発祥年はここで断定しない。実作品画像0点、画像収録は継続中。
+- [ジェネラティブ・デザイン / Generative design](https://djnaoyaman.github.io/design-lineage/entries/generative-design.html): 技法・制作方法。掲載例：2001年以降のシリーズ、2015年の試作。実作品画像4点、画像収録は継続中。
+- [パラメトリック・デザイン / Parametric design](https://djnaoyaman.github.io/design-lineage/entries/parametric-design.html): 技法・制作方法。掲載例：2010–2012年。実作品画像4点、画像収録は継続中。
+- [情報の視覚化 / Information visualization](https://djnaoyaman.github.io/design-lineage/entries/information-visualization.html): 技法・制作方法。掲載例：継続更新されるオンライン教材（開始年は一括しない）。実作品画像5点、画像収録は継続中。
+- [スキューモーフィズム / Skeuomorphism](https://djnaoyaman.github.io/design-lineage/entries/skeuomorphism.html): 現代の画面表現・説明用の分類。掲載例：2011年のアプリと継続更新の音楽ソフト。実作品画像4点、画像収録は継続中。
+- [ニューモーフィズム / Neumorphism](https://djnaoyaman.github.io/design-lineage/entries/neumorphism.html): 現代の画面表現・説明用の分類。近年の画面表現。発祥年はここで断定しない。実作品画像4点、画像収録は継続中。
 - [ガラスモーフィズム / Glassmorphism](https://djnaoyaman.github.io/design-lineage/entries/glassmorphism.html): 現代の画面表現・説明用の分類。近年の画面表現。下記の製品ごとに時期を分ける。実作品画像0点、画像収録は継続中。
 - [ウェブ・ブルータリズム / Web brutalism](https://djnaoyaman.github.io/design-lineage/entries/web-brutalism.html): 現代の画面表現・説明用の分類。近年のウェブの呼び名。統一した開始年はない。実作品画像0点、画像収録は継続中。
-- [ネオ・ブルータリズム / Neo-brutalism](https://djnaoyaman.github.io/design-lineage/entries/neo-brutalism.html): 現代の画面表現・説明用の分類。近年の画面表現。歴史運動の開始年は設定しない。実作品画像0点、画像収録は継続中。
-- [弁当箱のように区切るレイアウト / Bento layouts](https://djnaoyaman.github.io/design-lineage/entries/bento-layouts.html): 現代の画面表現・説明用の分類。掲載例：2023–2024年の制作ほか。実作品画像0点、画像収録は継続中。
+- [ネオ・ブルータリズム / Neo-brutalism](https://djnaoyaman.github.io/design-lineage/entries/neo-brutalism.html): 現代の画面表現・説明用の分類。近年の画面表現。歴史運動の開始年は設定しない。実作品画像4点、画像収録は継続中。
+- [弁当箱のように区切るレイアウト / Bento layouts](https://djnaoyaman.github.io/design-lineage/entries/bento-layouts.html): 現代の画面表現・説明用の分類。掲載例：2023–2024年の制作ほか。実作品画像4点、画像収録は継続中。
 - [Y2Kリバイバル / Y2K revival](https://djnaoyaman.github.io/design-lineage/entries/y2k-revival.html): 現代の表現方法・説明用の分類。掲載例：2021年、2026年ほか。実作品画像0点、画像収録は継続中。
 - [動く文字の表現 / Kinetic typography](https://djnaoyaman.github.io/design-lineage/entries/kinetic-typography.html): 現代の表現方法・説明用の分類。掲載例：2022年ほか。技法の開始年ではない。実作品画像0点、画像収録は継続中。
-- [可変フォントを使う表現 / Variable-font expression](https://djnaoyaman.github.io/design-lineage/entries/variable-font-expression.html): 現代の表現方法・説明用の分類。技術の標準化：OpenType 1.8（2016年）。掲載例の時期は別に示す。実作品画像0点、画像収録は継続中。
-- [3D・粘土のようなイラスト / 3D / clay illustration](https://djnaoyaman.github.io/design-lineage/entries/3d-clay-illustration.html): 現代の表現方法・説明用の分類。近年のデジタル表現。3D全体の起源を示す年代ではない。実作品画像0点、画像収録は継続中。
+- [可変フォントを使う表現 / Variable-font expression](https://djnaoyaman.github.io/design-lineage/entries/variable-font-expression.html): 現代の表現方法・説明用の分類。技術の標準化：OpenType 1.8（2016年）。掲載例の時期は別に示す。実作品画像4点、画像収録は継続中。
+- [3D・粘土のようなイラスト / 3D / clay illustration](https://djnaoyaman.github.io/design-lineage/entries/3d-clay-illustration.html): 現代の表現方法・説明用の分類。近年のデジタル表現。3D全体の起源を示す年代ではない。実作品画像5点、画像収録は継続中。
 - [情報や飾りを重ねるウェブ表現 / Maximalist web](https://djnaoyaman.github.io/design-lineage/entries/maximalist-web.html): 現代の表現方法・説明用の分類。掲載例：2026年の催事、継続公開の制作者サイト。実作品画像0点、画像収録は継続中。
 
 - [伊藤若冲（いとう じゃくちゅう）](https://djnaoyaman.github.io/design-lineage/entries/ito-jakuchu.html): 人物・画家。主な紹介作品：1750年代後半〜1792年（生没年1716〜1800年とは区別）。実作品画像2点、作品・制作の例4件、人物1人。画像収録は継続中。
