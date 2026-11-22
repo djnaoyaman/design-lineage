@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-mono-ha-polish-poster-school",
+  "release": "representative-galleries-tropicalismo-new-bauhaus-chicago-kuwasawa-design-school-new-wave-typography-supergraphics",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T20:33:16+09:00",
+  "frozen_at": "2026-11-22T20:48:17+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "68234f158a4595c80d03aa47997048cdfaad9caee69c0f378270f4510332f425"
+      "sha256": "4b6cfe3324f802e6aeb998d37604b9ce555df41468c7e441d352b3f080c188e0"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 954814,
-      "sha256": "a1e70332cec7ae8cdb0e3f4e9602a35f96b683a2fa2b8e1b56d2f2efc153e896"
+      "bytes": 1038242,
+      "sha256": "974ad9b820b502835c8c20e17ee5706ab8386b13ffb58e3c89bc60a92ed9984c"
     },
     {
       "path": "analytics-status.json",
@@ -1632,6 +1632,36 @@
       "sha256": "15ebfb8cf48f1d58199971e146ce813e8c9790eb17d9ae9c05ec3dcc21c00096"
     },
     {
+      "path": "assets/kuwasawa-design-school/palettemosaic-660.webp",
+      "bytes": 21210,
+      "sha256": "116c82609f68a8658c0a85347444305ad985405ba6e1c3983455e645f8842756"
+    },
+    {
+      "path": "assets/kuwasawa-design-school/palettemosaic.webp",
+      "bytes": 18102,
+      "sha256": "3d7ec48dbc38cdff001a5490932ab8561661355e983e17466cf00a1dac434ace"
+    },
+    {
+      "path": "assets/kuwasawa-design-school/rock3d-660.webp",
+      "bytes": 37852,
+      "sha256": "5ca2960021976128817eb5daa89fc940ad06982eba3ce87a9f16c14f91eb318a"
+    },
+    {
+      "path": "assets/kuwasawa-design-school/rock3d.webp",
+      "bytes": 51878,
+      "sha256": "fc7a013e6a06e2ddd52c311e68252eeefbd106658dca749e2d92ae9acc3d9c04"
+    },
+    {
+      "path": "assets/kuwasawa-design-school/shizuru-660.webp",
+      "bytes": 31422,
+      "sha256": "6d7e9cf9967e15e4e540a76357aadf5e09d281a8b573e199517cfb79828df3a4"
+    },
+    {
+      "path": "assets/kuwasawa-design-school/shizuru.webp",
+      "bytes": 38354,
+      "sha256": "5e750e2191131d35036cd21786f17693d9f95f9e0ffa30a9a432f46531196c60"
+    },
+    {
       "path": "assets/lineage-aquatic-park-bathhouse.jpg",
       "bytes": 452972,
       "sha256": "7cc1e437e55529a45c65c937529a9065d7e13024f17c0d4bc95e8d3b55762456"
@@ -2297,6 +2327,26 @@
       "sha256": "7eb5ef315612cc5327bb048576bbfd9b5f9e41680bbe65cea936c0369d3cf09e"
     },
     {
+      "path": "assets/new-bauhaus-chicago/moholy-barford-photogram-c1940-thumb.jpg",
+      "bytes": 23008,
+      "sha256": "102631e75565ef4f5e95c43368cc473adaf730b096f27fd599e48113aeffcb6c"
+    },
+    {
+      "path": "assets/new-bauhaus-chicago/moholy-barford-photogram-c1940.webp",
+      "bytes": 53650,
+      "sha256": "972749a6f63dbaba3f054cb92031608ed098d28988dae6c9efac6586461eeebf"
+    },
+    {
+      "path": "assets/new-bauhaus-chicago/moholy-design-workshops-1944.jpg",
+      "bytes": 39921,
+      "sha256": "e916da552de3940d2c97249c5e965cc87714842885f79d69c901e941de882381"
+    },
+    {
+      "path": "assets/new-bauhaus-chicago/moholy-do-not-disturb-1945.jpg",
+      "bytes": 40383,
+      "sha256": "248f362859910d49a95150cc7d12b25634cbb9d9916e56e16c89880f2c3cc033"
+    },
+    {
       "path": "assets/new-typography/new-typography-transito-07-660.webp",
       "bytes": 16564,
       "sha256": "1ffa7d9f786d18833e4347d192a3e4bb0c5041f0973074e95a8b625c85b636c6"
@@ -2335,6 +2385,36 @@
       "path": "assets/new-typography/new-typography-tsch-frau.webp",
       "bytes": 100606,
       "sha256": "68d2a07db8033edfee44472072eb1dac5a2a54f79f4c419c471ee034f468cdb8"
+    },
+    {
+      "path": "assets/new-wave-typography/does-it-make-sense-1986-660.webp",
+      "bytes": 39084,
+      "sha256": "730f5f2f38c2f84433a8f6fd6fcaa26a8b5f1d55bc102f222d1e6b0f2324e7b6"
+    },
+    {
+      "path": "assets/new-wave-typography/does-it-make-sense-1986.webp",
+      "bytes": 241894,
+      "sha256": "9ffbfc7389ed538ebf5a28b15ce5b4a8a43488d1079800e3d8583a83462c8cc8"
+    },
+    {
+      "path": "assets/new-wave-typography/graphic-design-in-america-1989-660.webp",
+      "bytes": 40884,
+      "sha256": "36ee89b9f6d2f0899e470e04f0db144fd9ce909961c58249f5cf628380a4d30d"
+    },
+    {
+      "path": "assets/new-wave-typography/graphic-design-in-america-1989.webp",
+      "bytes": 419516,
+      "sha256": "8e5b740eb1fa3527240671565d9d6652c295292955c34282f2cb746813b3614e"
+    },
+    {
+      "path": "assets/new-wave-typography/modern-poster-1988.webp",
+      "bytes": 13724,
+      "sha256": "6fbbb20df8451036b4d8ec94025b9912998b6e83a01bdc9417e60aef0bb1a082"
+    },
+    {
+      "path": "assets/new-wave-typography/your-turn-my-turn-1983.webp",
+      "bytes": 10056,
+      "sha256": "4ce2b5a40e37f738e17b24c64745eac61be48d72d9de9aeef661325fce0217ae"
     },
     {
       "path": "assets/nga-1987.73.3-p288-1200.webp",
@@ -3527,6 +3607,56 @@
       "sha256": "e553351260f57cf4e3855a3d98123605a6a6b74d60f76df0e3a2a9a5ba031cd4"
     },
     {
+      "path": "assets/supergraphics/boa-mistura-color-2013-thumb.webp",
+      "bytes": 34484,
+      "sha256": "7f9b373b2e58530b45fdf8f0e8c3f220ab606c97bc07941027380baeecc5d436"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-color-2013.webp",
+      "bytes": 46880,
+      "sha256": "4c7858816c911289149e1db33fea5a295dc8a177a3be0c6d75da92997fce6d8b"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-dreamhamar-2011-thumb.webp",
+      "bytes": 63390,
+      "sha256": "3836f421b1a8b57d3de559a123e65c95bcb42b3f24e5277a676abd397617774c"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-dreamhamar-2011.webp",
+      "bytes": 192730,
+      "sha256": "67645e46f6d1d966c17f666374d05be4b1f2b50a8fb2d666e7bbdebb917c4815"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-nierika-2017-thumb.webp",
+      "bytes": 91752,
+      "sha256": "642ec850e4bc1cec51db1ce45f5407555f8a972890e7a1fdfe78a6f8c729ba92"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-nierika-2017.webp",
+      "bytes": 261424,
+      "sha256": "b6ffc354fe22af0bab6ef1ab6770e62eefd8d4934dad78cd5ecd5f8993783138"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-sisi-ni-mashujaa-2016-thumb.webp",
+      "bytes": 110742,
+      "sha256": "2e21c9a54807c5af2991322f522e84087e0a8091b0924ea727ffbe5872767f00"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-sisi-ni-mashujaa-2016.webp",
+      "bytes": 319802,
+      "sha256": "bac0c13d314895c53665df7c994cfcebbdab0bc70d7bd0ffed48587e180a8b5d"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-somos-luz-2013-thumb.webp",
+      "bytes": 40336,
+      "sha256": "2f7840b779af71827a169828aafb1bae771b8c4c00a483422b944dd74ec769bf"
+    },
+    {
+      "path": "assets/supergraphics/boa-mistura-somos-luz-2013.webp",
+      "bytes": 78634,
+      "sha256": "33ec824b429f58bd4f13fd6083278de3899c3f41451db19a089d4048bdc5b2c6"
+    },
+    {
       "path": "assets/surrealism/surreal-goll-660.webp",
       "bytes": 63296,
       "sha256": "d8f4a4a623563d58b6aa6fa78e491dd10f0907e7b996a5f400cb33548dbe8473"
@@ -3700,6 +3830,36 @@
       "path": "assets/tropical-modernism/sing4.webp",
       "bytes": 73184,
       "sha256": "1f2ca0a243e7ab61c69cd0cac3cb681dce782de9da77559d85b4012fc7e9919a"
+    },
+    {
+      "path": "assets/tropicalismo/gil-domingo-no-parque-1967-660.webp",
+      "bytes": 27998,
+      "sha256": "121570411e216097d5385af2c4f6a907b8ed8bd56e247a9f899cceb596218e80"
+    },
+    {
+      "path": "assets/tropicalismo/gil-domingo-no-parque-1967.webp",
+      "bytes": 74756,
+      "sha256": "d6de97a89a9427f1e8d8363a0ef70cddf2a5cd9f802fca17e9d100e0ff92c475"
+    },
+    {
+      "path": "assets/tropicalismo/oficina-o-rei-da-vela-1967.jpg",
+      "bytes": 197437,
+      "sha256": "bfb5a0a0ea404c9a495f419c0a3e999d6643a49e24b33ace41a659df6f3ba347"
+    },
+    {
+      "path": "assets/tropicalismo/roda-viva-todos-ao-palco-1968.jpg",
+      "bytes": 170479,
+      "sha256": "3d0c918a8ee93a890f08158de82489c49b4b8eaa73855ad28a0d2c9610a5e951"
+    },
+    {
+      "path": "assets/tropicalismo/veloso-alegria-alegria-1967-660.webp",
+      "bytes": 52432,
+      "sha256": "09579e5ae38d422b490cc315be0bf622e50e35cedb7151ce118deca69686436b"
+    },
+    {
+      "path": "assets/tropicalismo/veloso-alegria-alegria-1967.webp",
+      "bytes": 202584,
+      "sha256": "72bc9bd440a4cb7c780ebe1ef79e67fa16ba2886fd24c81c246883c5e9e6a924"
     },
     {
       "path": "assets/variable-font-expression/vf-fraunces-660.webp",
@@ -3933,8 +4093,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39604,
-      "sha256": "14f9e238eb733183176b8b9ffb0023e53e6362490d6f9ae812ec8d45d5779002"
+      "bytes": 39769,
+      "sha256": "1f7367217410eafbf6e5341d1523db6f9002511468fbdccf83c86bcd877c1156"
     },
     {
       "path": "chapter-navigation.css",
@@ -3969,7 +4129,7 @@
     {
       "path": "chronology.js",
       "bytes": 29953,
-      "sha256": "45e5bd5d5624985a24f10d736e27aa0a96cdf027fcea5b6e2055f49b6e74809c"
+      "sha256": "6f795d7f6731f8b7c7de12a8d27726b1872cacacc1a9f635d5ec40db7a77c1db"
     },
     {
       "path": "compare.html",
@@ -4003,8 +4163,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2731393,
-      "sha256": "40201d2d06f7ff63ffaaa964308eedecd87e81971591a6edae5bb46431dc41d5"
+      "bytes": 2832654,
+      "sha256": "43e802117c062f834ff9d325972d7541d452f8c0ef47b03d5476b3c4d0239150"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -4183,8 +4343,8 @@
     },
     {
       "path": "entries/kuwasawa-design-school.html",
-      "bytes": 13017,
-      "sha256": "dd3d131869dc01845f6c32059df2188ea59f156f1673412c9da09b4087ecd8ee"
+      "bytes": 27122,
+      "sha256": "7e10592c267d0196447815d04071c4813d8db0f22df1b6474c9329aa07529e84"
     },
     {
       "path": "entries/material-design.html",
@@ -4248,8 +4408,8 @@
     },
     {
       "path": "entries/new-bauhaus-chicago.html",
-      "bytes": 14724,
-      "sha256": "b94c123974eec5fe3b4db3bf123d1daf30c9178a228cae58373a22a2300d8ed2"
+      "bytes": 28423,
+      "sha256": "e76fc638172e167514f1775bd8684f604bd19f4b0e89731104761f1bcfd49ca0"
     },
     {
       "path": "entries/new-typography.html",
@@ -4258,8 +4418,8 @@
     },
     {
       "path": "entries/new-wave-typography.html",
-      "bytes": 20023,
-      "sha256": "4f4a627263b797b2d4f46b66db56003edcf342bdd6e0c1ee2d8764d8ebf1572a"
+      "bytes": 38073,
+      "sha256": "065dac102f318995a2760b3413af4afb60831ce6f79679a70f6c82f1ebc818ce"
     },
     {
       "path": "entries/nid-ahmedabad.html",
@@ -4378,8 +4538,8 @@
     },
     {
       "path": "entries/supergraphics.html",
-      "bytes": 15813,
-      "sha256": "d6d43ba33646df8feac15fa7b092c7ab8186a6d2fcfa34e267db69d5f61563e0"
+      "bytes": 37527,
+      "sha256": "386959dd4275eb84d42cb32644373b157c25ec55770ec02dadb91a9bf7cb17ce"
     },
     {
       "path": "entries/suprematism.html",
@@ -4408,8 +4568,8 @@
     },
     {
       "path": "entries/tropicalismo.html",
-      "bytes": 13351,
-      "sha256": "fcb418b52d5fff4eecbf70736c28caa08d527d4c57c11c46c68de301d14b853d"
+      "bytes": 32852,
+      "sha256": "04166f3ff2d99342bddb29c82e80e1751c64fd63751c14a77df59e14d86c180e"
     },
     {
       "path": "entries/typography-typesetting.html",
@@ -4493,8 +4653,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 91693,
-      "sha256": "c5048de84be5b883f12fd9b6caf09c8df968863bad27be7aad1e7c0833d28f99"
+      "bytes": 96426,
+      "sha256": "5872dd590328cfb8d8fb205ba98e844d30d20a966b2712bd42efb5a9d8376c10"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4533,8 +4693,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 27592,
-      "sha256": "169d8c70a6d6ce9706e39a07bdc0860469979a9e54d16a5b362fb9aa4793d09e"
+      "bytes": 28082,
+      "sha256": "cff734edf93f7e0621829637cc795b4784ef5dcb1ab25ea7a4c2635651e5a262"
     },
     {
       "path": "logo-provenance.json",
@@ -4619,7 +4779,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "0e228552e27a193fe02b68c6017b301c6c821550e002075c13daba3f25721a92"
+      "sha256": "477154b30d0482b6e3e61a5d810bedf2fa2ad3bd043cdc59f3102c180de2e2c3"
     },
     {
       "path": "site.webmanifest",
@@ -4629,7 +4789,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "1b0e841b32fd5cf366288b8c5d9f48a5417ca22e3476396818d636fb6eac12d1"
+      "sha256": "3b0233fd87622e08b41ab5b8d7c0ca3d25fea2b0263a4a0e4d844281c6896347"
     },
     {
       "path": "study-images.js",
@@ -4669,7 +4829,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "49dd5c5d0f38dbc3b37042ccb0439aa7e957962dc4c09a134e8b132f1f117edc"
+      "sha256": "eb4d48e61b8326edd255241091acfab0fafaaabfdaf0db9a47e847c64d5e2a00"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -4679,7 +4839,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 9004,
-      "sha256": "ca458c76b51b3485492935574019cf2ab349c241268017b67c281ae4475e4ed0"
+      "sha256": "dfc5f834c7f6d0f9291bddb6b9da38810bb95a8694949dbe1330f454acd3861b"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4738,8 +4898,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 206132,
-      "sha256": "a787d49ab24b8989566b7aef07aa1a1e93172736657346cfaadce8b59930b9d9"
+      "bytes": 215519,
+      "sha256": "1e77500163f05ad64dd6f98960a7e7f09336bcc66ce2bf30a2d51a97a1065a1c"
     }
   ]
 }

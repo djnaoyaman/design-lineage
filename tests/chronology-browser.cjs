@@ -31,7 +31,7 @@ function checkOrder(labels) {
   assert.deepEqual(dates,[...dates].sort((a,b)=>a-b));
 }
 const featured=check.locator('.showcase-card time');
-assert.equal(await featured.count(),80);
+assert.equal(await featured.count(),85);
 checkOrder(await featured.allTextContents());
 await check.goto(base+'works.html');
 const articles=await check.locator('.works-article[href^="entries/"]').evaluateAll(links=>links.map(a=>a.getAttribute('href').split('/')[1].split('.')[0]));
