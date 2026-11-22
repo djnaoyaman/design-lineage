@@ -1,5 +1,5 @@
 {
-  "release": "representative-galleries-psychedelic-art",
+  "release": "representative-galleries-first-nations-australia-design",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
   "frozen_at": "2026-11-22T10:39:00+09:00",
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "5ebaf9e43d560467d2e9fd23e15b82757e35aa1d945253bb7fda7a9038952770"
+      "sha256": "b026469ecdc05a84997c9a859d15d32f906520c2d8c7af4d1ed889f895916e81"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 688823,
-      "sha256": "200db8798722776f3aea29da35459274529f14ef836176f15cbd71efea836eb8"
+      "bytes": 718332,
+      "sha256": "e687cbd39b0ed7348ef90dc9f68f05b8c2d7c5dad3fa27d89376e062d84cd4fb"
     },
     {
       "path": "analytics-status.json",
@@ -670,6 +670,86 @@
       "path": "assets/emilie-floege-1902-timtom-original.jpg",
       "bytes": 6500624,
       "sha256": "c22129a9981a59ecff555851b1f244fb8314545031b5d0d3371d58be55153968"
+    },
+    {
+      "path": "assets/esdi-rio/globo-660.webp",
+      "bytes": 6034,
+      "sha256": "baef906c7c5705e1c82064e6be49ac9e6a737a412e80488c48c84778241ffcd4"
+    },
+    {
+      "path": "assets/esdi-rio/globo.webp",
+      "bytes": 14786,
+      "sha256": "eb22bdae224818f8d37b92a847b134438fba498011b9a315200ead0eaa231319"
+    },
+    {
+      "path": "assets/esdi-rio/ippuc-660.webp",
+      "bytes": 5840,
+      "sha256": "f60ce0d57fbb3e332aa945c8d1141cf7c3b05c0b054968100f97ec1dc0deadfe"
+    },
+    {
+      "path": "assets/esdi-rio/ippuc.webp",
+      "bytes": 18152,
+      "sha256": "5e2c4d24388fad9604fa48fde401b6c6ea08d4b2a18e06098d317b0274aa4b4f"
+    },
+    {
+      "path": "assets/esdi-rio/klabin-660.webp",
+      "bytes": 6818,
+      "sha256": "c60d1a3200ebd4fb2d5c04da70e3295ba5ca46990976abbb9883fa990c813e8b"
+    },
+    {
+      "path": "assets/esdi-rio/klabin.webp",
+      "bytes": 14642,
+      "sha256": "771953b56b94eaf9a9ecb2f967c906be59d8edcf5977d076c366306f815e9b4d"
+    },
+    {
+      "path": "assets/esdi-rio/petrobras-660.webp",
+      "bytes": 9736,
+      "sha256": "2ef03d60cabba875dbc7bd3fd11532ed0d86774c90a0290cec1cfe7a2aaf2f04"
+    },
+    {
+      "path": "assets/esdi-rio/petrobras.webp",
+      "bytes": 22084,
+      "sha256": "6777ecbdf5c06bfa46b31cab7b1191282951c43181bd81f027ae0851f904162f"
+    },
+    {
+      "path": "assets/first-nations-australia-design/contact-660.webp",
+      "bytes": 56702,
+      "sha256": "df34a43e3417b36edd44532993462fbfc4e61fb4fb132f7b32e782c01f08ba8a"
+    },
+    {
+      "path": "assets/first-nations-australia-design/contact.webp",
+      "bytes": 127190,
+      "sha256": "eda27457a1576a3c99f30948f76304c5c61c757a60e8c6aea3677196602f8155"
+    },
+    {
+      "path": "assets/first-nations-australia-design/eel-660.webp",
+      "bytes": 116354,
+      "sha256": "f53376880e2fdf360d63ce43224ea15c31a698aa5c9382473417ce5cf21f6633"
+    },
+    {
+      "path": "assets/first-nations-australia-design/eel.webp",
+      "bytes": 526002,
+      "sha256": "bb0573abd3a42b00aa08acec454832f32f9f244243cfc15a9d49f2a9b6bdcb70"
+    },
+    {
+      "path": "assets/first-nations-australia-design/flag2-660.webp",
+      "bytes": 68726,
+      "sha256": "c55840efd95ad972fc19b2ce04e94263464c355283d8100be8fcec919963739f"
+    },
+    {
+      "path": "assets/first-nations-australia-design/flag2.webp",
+      "bytes": 160320,
+      "sha256": "c88cf89a47ed8caef68d31c746c3beac318cedbebdb4effefa274a5d25f5211f"
+    },
+    {
+      "path": "assets/first-nations-australia-design/wirin-660.webp",
+      "bytes": 36050,
+      "sha256": "3ad67f3a322501034deded45752a444b5455221316315527c2a77a5b7cd3ace7"
+    },
+    {
+      "path": "assets/first-nations-australia-design/wirin.webp",
+      "bytes": 37958,
+      "sha256": "c7fa24e09cd12f684c79cff21b226743f88395c26eef4961a861eb1e8dc6b1c7"
     },
     {
       "path": "assets/flat-design/flat-flat-ui-660.webp",
@@ -1780,6 +1860,46 @@
       "path": "assets/nga-2010.124.1-dada.jpg",
       "bytes": 4441027,
       "sha256": "3f9bd7b2b33406e0f9e54f9a361b4d8c32e7bd2d9034335bbb96acbe250cbff1"
+    },
+    {
+      "path": "assets/nid-ahmedabad/dd-logo-660.webp",
+      "bytes": 21004,
+      "sha256": "0c0d101f046a3b165344830c62e5f6325a02ad20612923e9ecc7f4eb1f21f0ab"
+    },
+    {
+      "path": "assets/nid-ahmedabad/dd-logo.webp",
+      "bytes": 51346,
+      "sha256": "4e7ba87acbd20e4bc1e2234ddee3a015005bff848924fa1ffba2c7b2842a946a"
+    },
+    {
+      "path": "assets/nid-ahmedabad/ia-historic-660.webp",
+      "bytes": 8084,
+      "sha256": "c51b624777024b6b46c165ab2d1373c65d2a0626beffbfd6181af2e057ec7dfe"
+    },
+    {
+      "path": "assets/nid-ahmedabad/ia-historic.webp",
+      "bytes": 16250,
+      "sha256": "6b9c62d8618eef42abaed057eb58f9153c132f074ba16775dab7959bd35a1fef"
+    },
+    {
+      "path": "assets/nid-ahmedabad/nid-660.webp",
+      "bytes": 7450,
+      "sha256": "3b2f6c1e2bbfc10b20f5e8a304a5013470a8d9cb47b63698c7aef36490f1db2c"
+    },
+    {
+      "path": "assets/nid-ahmedabad/nid.webp",
+      "bytes": 15556,
+      "sha256": "ead3d552b24ef097f2ed431f73e096c2f6f2a3f34d82c795ad1a4ef876913d95"
+    },
+    {
+      "path": "assets/nid-ahmedabad/sbi-660.webp",
+      "bytes": 7342,
+      "sha256": "42dd15692cb0311a40a540d570a53fd98cfb468e78e073210bb74a852b40e631"
+    },
+    {
+      "path": "assets/nid-ahmedabad/sbi.webp",
+      "bytes": 17114,
+      "sha256": "e9db2f82ee76e4ad4bec944270edacf75b363237e482ad5e25f7d11f00bf92b3"
     },
     {
       "path": "assets/omochi-pop-concept.svg",
@@ -2913,8 +3033,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39455,
-      "sha256": "9393b71e0f68c3dbabf3248d174dc392cf2f696a40296f7f2b27ddf8ec5409c9"
+      "bytes": 39453,
+      "sha256": "7ddfd33d7934b25968ecfc360369d84782bde1c400afeaf82ff883911f38706e"
     },
     {
       "path": "chapter-navigation.css",
@@ -2983,13 +3103,13 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2374453,
-      "sha256": "3d4b6a47e4b354739390cdad11606db43696a9c81020c07b1955e178c2911b69"
+      "bytes": 2416886,
+      "sha256": "866c1c7fb8352a7bea66b077f6c4495a6314f744149aca8408bcaba348b5dc30"
     },
     {
       "path": "entries/3d-clay-illustration.html",
-      "bytes": 25487,
-      "sha256": "e048ebd9642f915ac81758b14a7f9b3a814261fa7df82d5fd60c5a02a0a04048"
+      "bytes": 25413,
+      "sha256": "07bdf73812ce80f2ef587329aaa01b0f22eb817c9bd175dcbfc7c30724fe958f"
     },
     {
       "path": "entries/africobra.html",
@@ -3048,8 +3168,8 @@
     },
     {
       "path": "entries/collage.html",
-      "bytes": 23602,
-      "sha256": "f50dad8b04d4c2638b0321b45da6b6d8a8e278ef03a8f14b7e5924bb80c88022"
+      "bytes": 23599,
+      "sha256": "e0e7aac188ee7f6803d67dba581a67e0280dc29eb949c97798d4ed48c697db39"
     },
     {
       "path": "entries/critical-regionalism.html",
@@ -3073,18 +3193,18 @@
     },
     {
       "path": "entries/esdi-rio.html",
-      "bytes": 16943,
-      "sha256": "bc4488acca802e5f530b30da714b1fe062a5ed2008dea2d2b1e2c6dc70b688ec"
+      "bytes": 30054,
+      "sha256": "16aed13d59b84ef20b457df6e79dd517423b956ef8b2b1255ca13160d41e441f"
     },
     {
       "path": "entries/first-nations-australia-design.html",
-      "bytes": 21391,
-      "sha256": "262a2c2042b49b8b8a13e682ecbe16d12a31c2c7f8a3c153d5b0ebc701e3e41a"
+      "bytes": 34586,
+      "sha256": "90033605f32791cf666a09138fb8b1ddb5ee078eab31fa7857cd8e3118f4a1b0"
     },
     {
       "path": "entries/flat-design.html",
       "bytes": 35475,
-      "sha256": "72def19f043a69f5fa6d780b7864c9e503a4fae905dbf739b9224ac841ae5d8c"
+      "sha256": "ca4b13f1426e25b48a491803ea5801bcc95949188a32c25b2e2efcf04cec6491"
     },
     {
       "path": "entries/futurism.html",
@@ -3093,8 +3213,8 @@
     },
     {
       "path": "entries/generative-design.html",
-      "bytes": 24384,
-      "sha256": "e186d528f73c3425bad2b63099a9d2e02b6eed760ce798572a4d7bd6ecd2adf4"
+      "bytes": 24420,
+      "sha256": "2c3eed3d94e7faaac32cd56949c773114d629da4070682edaf480fb6817f3274"
     },
     {
       "path": "entries/glassmorphism.html",
@@ -3103,8 +3223,8 @@
     },
     {
       "path": "entries/grid-systems.html",
-      "bytes": 38497,
-      "sha256": "a7ae517b694b300d6ff4d65d590b5f2dae069ea04f8502442f9010febea52e84"
+      "bytes": 38500,
+      "sha256": "b3b518c7cf2794b9baac80ff71ad078c963e941cbb8e3555484413414e05c9d9"
     },
     {
       "path": "entries/gutai.html",
@@ -3139,7 +3259,7 @@
     {
       "path": "entries/isotype.html",
       "bytes": 32264,
-      "sha256": "a21d76dc1399217b1ae9c4cbb56dc753e07a9d2aeca4fd85b13bd983da62b638"
+      "sha256": "e1a09f753231310fd9c618f49b6710f69b030df8643c1399442ada841d652235"
     },
     {
       "path": "entries/ito-jakuchu.html",
@@ -3148,8 +3268,8 @@
     },
     {
       "path": "entries/jugendstil.html",
-      "bytes": 24282,
-      "sha256": "1f493c60d3fe369e65f54e4abd10ead081209f08936e1700c62cfbbf328577e7"
+      "bytes": 24224,
+      "sha256": "0609afde7bc2ce235252416c164457a86a5e169f3b2dd3f69ed874a078222f24"
     },
     {
       "path": "entries/khartoum-school.html",
@@ -3169,7 +3289,7 @@
     {
       "path": "entries/material-design.html",
       "bytes": 34728,
-      "sha256": "6170aa7d0da3add072575ca5048efe80462460cce7e4668341e9e713ac862ea3"
+      "sha256": "3d41fc5a9ed3123a8bf94df4d58a784f552566270181c650928358cf02e2c3ea"
     },
     {
       "path": "entries/maximalist-web.html",
@@ -3223,8 +3343,8 @@
     },
     {
       "path": "entries/neumorphism.html",
-      "bytes": 24274,
-      "sha256": "2119ac0a36cacc5314f31a54ff858f8d787852d821ba4e6004aeb4128ff4694e"
+      "bytes": 24229,
+      "sha256": "23146d0e19aa509bd3cf0a604b5eb056fc3ceee24f846c5e832f830af803b50e"
     },
     {
       "path": "entries/new-bauhaus-chicago.html",
@@ -3243,8 +3363,8 @@
     },
     {
       "path": "entries/nid-ahmedabad.html",
-      "bytes": 17604,
-      "sha256": "8c78165035b4d24dffc9db6018f7f290ccf42ce479acb9e6a25dfab6d72f737a"
+      "bytes": 30305,
+      "sha256": "caa09e21152ad653a90ccedc50580d063e4899466ca79738cac048571cb6d684"
     },
     {
       "path": "entries/nsukka-school.html",
@@ -3253,8 +3373,8 @@
     },
     {
       "path": "entries/parametric-design.html",
-      "bytes": 24786,
-      "sha256": "58e4af2e7b3dd49589960e8b9abe92514ae39422df8965dec9351bcaf64a6cb0"
+      "bytes": 24819,
+      "sha256": "8b88e906e9d3acf9a2aa84b9d82bd38efef44aa54238b7063f3eb73d98769883"
     },
     {
       "path": "entries/photomontage.html",
@@ -3318,8 +3438,8 @@
     },
     {
       "path": "entries/santiniketan.html",
-      "bytes": 33259,
-      "sha256": "93c1a994a7ce34cf23fd4e8de6e44259fbd8bb2275c8b2d5272ecd2a207927b5"
+      "bytes": 34713,
+      "sha256": "98b3ae53fab465c741f6d237992bfe2d497a802e934b1303428ddeff0af6d528"
     },
     {
       "path": "entries/scandinavian-modern.html",
@@ -3343,8 +3463,8 @@
     },
     {
       "path": "entries/skeuomorphism.html",
-      "bytes": 22575,
-      "sha256": "a786146fbefa7c401d52a61dbe55def7b500fb82fd81f29e066c2585cff443f7"
+      "bytes": 22617,
+      "sha256": "d0fdcab9a43294b1b51a2f858c74c8b5b36d5a8162de3c5368e78436a7f94380"
     },
     {
       "path": "entries/sosaku-hanga.html",
@@ -3473,8 +3593,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 76311,
-      "sha256": "01d5cb59d05d2e95be67a2d7de55f1732ff6fc1b427ee347853d9db99635165e"
+      "bytes": 78891,
+      "sha256": "2ac839b999c355532547516187f490afd7d152ca0f921cbb9e5d88d8a817eb92"
     },
     {
       "path": "japanese-name-sources.json",
@@ -3599,7 +3719,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "8e2464a3a6d454c0250a9b5058b40c22b14e549bd8b6265cd5067bcac2b5ae29"
+      "sha256": "2e67794810796a85ac2efb099ea4d85cfe3489bc54e37c5c56c6da4ccfbb624f"
     },
     {
       "path": "site.webmanifest",
@@ -3608,8 +3728,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 12749,
-      "sha256": "64b39a9e11a962a12c0450ae96d35bf83dfc03085defc6607dfc3e787cac6fed"
+      "bytes": 12704,
+      "sha256": "f735af5311a847b91852e790692fca2f73c83056d701b36bba4c08208cfa23c9"
     },
     {
       "path": "study-images.js",
@@ -3649,7 +3769,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "5e51519f043d161ef4f7f6a781df1e9802ccb4e0a9d68bb64abc00ad09e6e0b8"
+      "sha256": "94af8b584b13aa6659faf71ea77cdd909483e9bbdb2380a112335d977332d36a"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -3659,7 +3779,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "9aac26cec7328b23fafe33fa809ab8368b83b892d3b982877287c95e5de7ec6c"
+      "sha256": "71fc0fb33f1d460af7a5e22befe5f3c7cf79c16c9a9786c9411e8b6ff8bd1f97"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -3718,8 +3838,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 176258,
-      "sha256": "87eaba6b22b7cc9f2323dbfd4d70ca8b5a088578c5619e71d174e3b22b2eda55"
+      "bytes": 180687,
+      "sha256": "5690f78de0071ad00fe9dfc9f54d9654835d8732d75a3cef3ad24b74df535b38"
     }
   ]
 }
