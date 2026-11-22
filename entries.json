@@ -31725,6 +31725,17 @@
     "modern": "自分の文化を大切にするとき、誰の声を代表しているのでしょうか。一人の作品から地域全体を決めつけないことも、作品を見る大切な姿勢です。",
     "representatives": [
       {
+        "id": "negritude-eyema-byeri-met",
+        "title": "Eyema byeri (reliquary guardian figure)",
+        "title_ja": "エイェマ・ビエリ（祖先の遺物を守る像）",
+        "title_original": "Eyema byeri (reliquary guardian figure)",
+        "creator": "オカク・ファンの彫刻家（個人名不詳）",
+        "date": "19世紀",
+        "domain": "木、銅合金、ヤシ油。ガボンまたは赤道ギニア。",
+        "evidence": "https://www.metmuseum.org/art/collection/search/310870",
+        "reason": "頭の丸みから、肩とひじ、軽く曲がった膝へと目を移してみてください。丸みを帯びた部分が続きます。木の黒い表面のうち、光を受けたところを見ると、腕や膝の曲がりがくっきりします。"
+      },
+      {
         "title": "騎手（Horseman）",
         "creator": "パパ・イブラ・タル",
         "date": "1965年",
@@ -31813,7 +31824,7 @@
         ]
       }
     ],
-    "representativeness_limit": "セネガルのパパ・イブラ・タルの3作品から入る構成です。アフリカやカリブの美術全体、また思想への批判や異論を網羅しません。",
+    "representativeness_limit": "セネガルのパパ・イブラ・タルの3作品と、1966年のダカール展に出品された木彫を紹介します。タルの作品から独立後の制作を、木彫から展覧会がアフリカの美術をどう紹介したかを考えます。",
     "recognition_section_label": "作品をよく見るための手がかり",
     "modern_section_label": "いま、考えてみること",
     "reading_intro": {
@@ -31823,12 +31834,70 @@
       ],
       "looking_questions": []
     },
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "negritude-eyema-byeri-met",
+        "original_work_id": "met-1978-412-441",
+        "title": "エイェマ・ビエリ（祖先の遺物を守る像）",
+        "title_original": "Eyema byeri (reliquary guardian figure)",
+        "year": "19世紀",
+        "author": "オカク・ファンの彫刻家（個人名不詳）",
+        "medium": "木、銅合金、ヤシ油。ガボンまたは赤道ギニア。",
+        "institution": "メトロポリタン美術館、所蔵番号1978.412.441",
+        "source_page": "https://www.metmuseum.org/art/collection/search/310870",
+        "work_source_page": "https://www.metmuseum.org/art/collection/search/310870",
+        "source_url": "https://images.metmuseum.org/CRDImages/ao/original/DT1236.jpg",
+        "selection_source": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Nelson_A_Rockefeller_Vision_Bulletin_Summer_2014.pdf",
+        "license": "メトロポリタン美術館の作品ページでPublic Domainと表示。図版は同館のOpen Access（CC0）。",
+        "license_url": "https://www.metmuseum.org/hubs/open-access",
+        "underlying_work_rights": "所蔵館の作品ページにPublic Domainの表示があります。",
+        "reproduction_rights": "所蔵館のOpen Accessで公開された図版を使用しています。",
+        "commercial_use": "CC0に基づき可",
+        "credit": "図版・メトロポリタン美術館 Open Access（撮影者の個人名は所蔵館の作品ページに記載なし）。マイケル・C・ロックフェラー記念コレクション、ネルソン・A・ロックフェラー寄贈（1965年）。",
+        "alt": "黒く光る木彫の女性像。丸い頭と髪のふくらみ、曲がった腕と膝が見える。",
+        "viewing_point": "頭の丸みから、肩とひじ、軽く曲がった膝へと目を移してみてください。丸みを帯びた部分が続きます。木の黒い表面のうち、光を受けたところを見ると、腕や膝の曲がりがくっきりします。",
+        "selection_criterion": "1966年のダカール展への出品が確認でき、所蔵館による作品研究もある。",
+        "selection_reason": "祖先の大切な遺物を納めた容器の上に据えた像です。1966年、セネガルの首都ダカールで、サンゴール大統領が主導した第1回世界黒人芸術祭の展覧会に実際に出品されました。はじめの用途と、独立後の展覧会で果たした役割の両方をたどれます。",
+        "local_file": "assets/negritude-visual-culture/eyema-byeri.webp",
+        "width": 1440,
+        "height": 1800,
+        "display_derivatives": {
+          "method": "元画像を切り抜かずに縮小し、WebPに変換しています。",
+          "variants": [
+            {
+              "local_file": "assets/negritude-visual-culture/eyema-byeri-640.webp",
+              "width": 640,
+              "height": 800
+            }
+          ]
+        },
+        "sha256": "dd7df9fab13cf262da2996833a147f6c208f327299cdc16a950cf116b51cb304",
+        "entry": "Négritude と視覚文化",
+        "checked_at": "2026-11-22T23:31:35+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "頭の丸みから、肩とひじ、軽く曲がった膝へと目を移してみてください。丸みを帯びた部分が続きます。木の黒い表面のうち、光を受けたところを見ると、腕や膝の曲がりがくっきりします。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "祖先の大切な遺物を納めた容器の上に据えた像です。1966年、セネガルの首都ダカールで、サンゴール大統領が主導した第1回世界黒人芸術祭の展覧会に実際に出品されました。はじめの用途と、独立後の展覧会で果たした役割の両方をたどれます。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "木、銅合金、ヤシ油。ガボンまたは赤道ギニア。 ／ メトロポリタン美術館、所蔵番号1978.412.441"
+        },
+        "original_image": {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DT1236.jpg"
+        }
+      }
+    ],
     "reference_images": [],
-    "image_count_acquired": 0,
+    "image_count_acquired": 1,
     "reference_image_count": 0,
     "image_status": "実作品画像の掲載許諾を確認中",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+    "status": "本文・作品図録公開（実作品画像1点）",
+    "checked_at": "2026-11-22T23:31:35+09:00"
   },
   {
     "name": "Khartoum School",

@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-tropicalismo-new-bauhaus-chicago-kuwasawa-design-school-new-wave-typography-supergraphics",
+  "release": "representative-galleries-negritude-visual-culture",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T20:52:51+09:00",
+  "frozen_at": "2026-11-22T23:31:35+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "aa572c4008db640d6b7f8053d8de2ea739688adf51e8ead0217d72acef801707"
+      "sha256": "5f353ac901324074244168f3c6ce09fcc6f2360c186dd6d8895a721f570adf2a"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 1043423,
-      "sha256": "d0ec3a1fddfa47d08ade4b5b21d3ce65bd8d7ea687122778e6702491d97b387f"
+      "bytes": 1047682,
+      "sha256": "824423f43b4d18d959b40fdefa5c5aaa36202396f41536c395c1387aa57f5330"
     },
     {
       "path": "analytics-status.json",
@@ -2207,6 +2207,16 @@
       "sha256": "75bf8af7be898aabf428ea6058f836db14bc42c3d12923c9701e19c37a3094e5"
     },
     {
+      "path": "assets/negritude-visual-culture/eyema-byeri-640.webp",
+      "bytes": 31070,
+      "sha256": "80715cafffb88ffeb0fbd997098ca81cdcd42204a7cdc9853ff8198088f9a2c7"
+    },
+    {
+      "path": "assets/negritude-visual-culture/eyema-byeri.webp",
+      "bytes": 183884,
+      "sha256": "dd7df9fab13cf262da2996833a147f6c208f327299cdc16a950cf116b51cb304"
+    },
+    {
       "path": "assets/neo-brutalism/antiwork-license.txt",
       "bytes": 1070,
       "sha256": "c5338c06c620468a42ad556e6608dab413a3fff8f770d7b08645741c292a022d"
@@ -4098,8 +4108,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39769,
-      "sha256": "c7bc4d623c254318cd0e47b7fed08dd644b28c50363666a93886c6550d20bacf"
+      "bytes": 39757,
+      "sha256": "22600e3b187a2748fdee7c8b507d1985a0273bc8903ed603155dc27ef829d67e"
     },
     {
       "path": "chapter-navigation.css",
@@ -4168,8 +4178,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2838694,
-      "sha256": "8b0c7891a3af8bc275549339e35b8178c421bf415d351e6a093c87a017c9c065"
+      "bytes": 2844006,
+      "sha256": "c2608a5b94a6412d3f7ee8f11ad2b25da32c2444360e810388f8941cbe15d5c4"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -4393,8 +4403,8 @@
     },
     {
       "path": "entries/negritude-visual-culture.html",
-      "bytes": 13892,
-      "sha256": "6db885b6b534b893ef5671eb65bdf78506607435975a6fe5679688c544bf1b2b"
+      "bytes": 18133,
+      "sha256": "774adaff4ed313978cb4daebf475464a4dc0f1be6c509e592ba10a52a5346035"
     },
     {
       "path": "entries/neo-brutalism.html",
@@ -4658,8 +4668,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 96374,
-      "sha256": "9ffecaf1ce785f72cd7e6c0f0d1a0e1ccbea681d5c9477e9f650933453e1eaa6"
+      "bytes": 97302,
+      "sha256": "8157463cdebb33e69795edb15e80c199bb04f3c60b5c163ae6b90a1f3bd9be77"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4698,8 +4708,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 28082,
-      "sha256": "9e7a9669f20e80bc7af53b7c633baa7cb63e31f5d36e13eb312228d526ef4518"
+      "bytes": 28117,
+      "sha256": "4f8c96ed3e60ce13a68ea212ff171a76cfa75c9a17c1dc2609308be858d33d89"
     },
     {
       "path": "logo-provenance.json",
@@ -4784,7 +4794,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "066dee11ba457be96c2aab7bd500c9ca98c1a047fe3ea86d7ecec106ffa57a50"
+      "sha256": "e2a9cda6a133b816c22dc839e0e439568c040fc51d190c4a9f07691e11495414"
     },
     {
       "path": "site.webmanifest",
@@ -4794,7 +4804,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "3e93d250c125214bfa41333c9e736e0c2e6b686fd358002091e7f893f40dbef2"
+      "sha256": "f2702bd369e58466ffed22d5b9f6a0acae6c0bb2268e92283241b85c53ebd286"
     },
     {
       "path": "study-images.js",
@@ -4833,8 +4843,8 @@
     },
     {
       "path": "tests/chronology-browser.cjs",
-      "bytes": 6072,
-      "sha256": "eb4d48e61b8326edd255241091acfab0fafaaabfdaf0db9a47e847c64d5e2a00"
+      "bytes": 6242,
+      "sha256": "82df652cba5d8e7c898d09aa1374f557ead2db5ed0a54fa07f88727b5bd7634d"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -4844,7 +4854,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 9004,
-      "sha256": "dfc5f834c7f6d0f9291bddb6b9da38810bb95a8694949dbe1330f454acd3861b"
+      "sha256": "28a40b4ec78e9bf09d72315a0ca9ba18e3ee23bd0330d62b93f9423fa519927b"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4903,8 +4913,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 215875,
-      "sha256": "fcc4698d68a6d2c6c5b9e9c5065a8c754be84f763d9549884ddeda224f08c780"
+      "bytes": 216336,
+      "sha256": "755913474bd414be5319fa852bdef944451dfafb464a76e8858dddebace53fab"
     }
   ]
 }
