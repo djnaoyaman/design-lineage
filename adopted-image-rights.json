@@ -15679,6 +15679,437 @@
       "original_image": {
         "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44919/176006/main-image"
       }
+    },
+    {
+      "id": "sekine-phase-mother-earth-1968",
+      "title": "位相―大地",
+      "title_original": "Phase—Mother Earth",
+      "limitation": "後年の再制作や写真版画は、1968年の現場そのものではありません。",
+      "year": "1968年",
+      "institution": "神戸市立須磨離宮公園、第1回神戸須磨離宮公園現代彫刻展（10月1日〜11月10日）の展示記録。会期後に撤去。",
+      "medium": "土、セメント",
+      "source_page": "https://backup.blum-gallery.com/broadcasts/tribute_to_nobuo_sekine",
+      "selection_source": "https://venezia-biennale-japan.jpf.go.jp/e/art/1970",
+      "selection_criterion": "代表作",
+      "selection_reason": "もの派の出発点として知られる作品です。制作に加わった小清水漸や、会場で見た李禹煥の証言が残っています。",
+      "alt": "公園の地面に丸い穴が開き、そのすぐ奥に背の高い土の円柱が立つ。",
+      "viewing_point": "手前の穴の縁と、奥の土の円柱の輪郭を見比べてください。同じ大きさの形が、片方では地面に沈み、もう片方では空を背に立ち上がっています。",
+      "author": "関根伸夫（せきね・のぶお）",
+      "local_file": "assets/mono-ha/earth.webp",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Phase%E2%80%94Mother_Earth,_1968.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Phase%E2%80%94Mother_Earth%2C_1968.jpg",
+      "photographer": "村井修（Osamu Murai）",
+      "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "作品提供・関根伸夫（Courtesy of the artist）／村井修（Osamu Murai）撮影／Wikimedia Commons、CC BY-SA 4.0。画面表示用にWebP化。",
+      "underlying_work_rights": "関根伸夫の作品を写した、作者提供のこの記録写真に対する公開許諾を利用しています。",
+      "reproduction_rights": "図版はCC BY-SA 4.0。Wikimedia Commonsの公開記録に、権利者の許諾を確認した受付番号 2015050810021345 が記載されています。",
+      "width": 1600,
+      "height": 1600,
+      "display_derivatives": {
+        "method": "全画面を保ったままWebPに変換し、大小2サイズに整えました。掲載画像にもCC BY-SA 4.0を適用します。",
+        "variants": [
+          {
+            "local_file": "assets/mono-ha/earth-660.webp",
+            "width": 660,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "4f4a5cca959ed9c89db675905b1526c27b78e03185d81931f3e04882bec52d1d",
+      "entry": "もの派",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "手前の穴の縁と、奥の土の円柱の輪郭を見比べてください。同じ大きさの形が、片方では地面に沈み、もう片方では空を背に立ち上がっています。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "もの派の出発点として知られる作品です。制作に加わった小清水漸や、会場で見た李禹煥の証言が残っています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "土、セメント ／ 神戸市立須磨離宮公園、第1回神戸須磨離宮公園現代彫刻展（10月1日〜11月10日）の展示記録。会期後に撤去。"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Phase%E2%80%94Mother_Earth%2C_1968.jpg"
+      }
+    },
+    {
+      "id": "sekine-phase-sponge-1968",
+      "title": "位相―スポンジ",
+      "title_original": "Phase—Sponge",
+      "year": "1968年",
+      "institution": "第5回長岡現代美術館賞展（東京・池袋西武百貨店、11月16日〜27日）での展示。1968年の展示個体の現所蔵は未確認。広島市現代美術館は1988年の再制作を所蔵。",
+      "medium": "スポンジ、鉄板",
+      "source_page": "https://artplatform.go.jp/collections/W536911",
+      "selection_criterion": "高く評価された作品",
+      "selection_reason": "第5回長岡現代美術館賞展の大賞作です。",
+      "alt": "白いスポンジの上に黒い鉄板がのり、横から見たスポンジが大きく折れ曲がっている。",
+      "viewing_point": "鉄板の端はまっすぐなままです。その下では白いスポンジが押されて横にふくらみ、深い折り目ができています。鉄板の重さは、スポンジの形から読み取れます。",
+      "author": "関根伸夫（せきね・のぶお）",
+      "local_file": "assets/mono-ha/sponge.webp",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Phase-sponge-1968.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Phase-sponge-1968.jpg",
+      "photographer": "Eizaburō Hara",
+      "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "作品提供・関根伸夫（Courtesy of the artist）／Eizaburō Hara撮影／Wikimedia Commons、CC BY-SA 4.0。画面表示用にWebP化。",
+      "underlying_work_rights": "関根伸夫の作品を写した、作者提供のこの記録写真に対する公開許諾を利用しています。",
+      "reproduction_rights": "図版はCC BY-SA 4.0。Wikimedia Commonsの公開記録に、権利者の許諾を確認した受付番号 2015050810021274 が記載されています。",
+      "width": 1292,
+      "height": 1600,
+      "display_derivatives": {
+        "method": "全画面を保ったままWebPに変換し、大小2サイズに整えました。掲載画像にもCC BY-SA 4.0を適用します。",
+        "variants": [
+          {
+            "local_file": "assets/mono-ha/sponge-660.webp",
+            "width": 533,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "706a016779d8c7ffcd4442920d7bc9310aaa30f8c07fe4ad4b71f320bea18159",
+      "entry": "もの派",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "鉄板の端はまっすぐなままです。その下では白いスポンジが押されて横にふくらみ、深い折り目ができています。鉄板の重さは、スポンジの形から読み取れます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "第5回長岡現代美術館賞展の大賞作です。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "スポンジ、鉄板 ／ 第5回長岡現代美術館賞展（東京・池袋西武百貨店、11月16日〜27日）での展示。1968年の展示個体の現所蔵は未確認。広島市現代美術館は1988年の再制作を所蔵。"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Phase-sponge-1968.jpg"
+      }
+    },
+    {
+      "id": "sekine-phase-of-nothingness-oilclay-1969",
+      "title": "空相―油土",
+      "title_original": "Phase of Nothingness—Oilclay",
+      "year": "1969年",
+      "institution": "東京画廊での展示（4月18日〜5月2日）。当時の展示個体の現所蔵は未確認。",
+      "medium": "油土（形と寸法は展示によって変わる）",
+      "source_page": "https://www.tokyo-gallery.com/exhibitions/1996.html",
+      "selection_criterion": "研究の蓄積がある作品",
+      "selection_reason": "初出の東京画廊で中原佑介が評論を寄せ、のちに吉竹美香がもの派の研究で取り上げた作品です。",
+      "selection_source": "https://escholarship.org/content/qt55h0p4rt/qt55h0p4rt.pdf",
+      "alt": "白い展示室の奥に黒い油土が高く積まれ、右手前や壁ぎわの床にも大小の塊が置かれている。",
+      "viewing_point": "奥の大きな塊と、床に離れて置かれた小さな塊を見比べてください。どれも同じ油土です。輪郭の違いと間に残された白い床が、部屋の奥行きを見せます。",
+      "author": "関根伸夫（せきね・のぶお）",
+      "local_file": "assets/mono-ha/oilclay.webp",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Phase_of_Nothingness%E2%80%94Oilclay,_1969.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Phase_of_Nothingness%E2%80%94Oilclay%2C_1969.jpg",
+      "photographer": "関根伸夫（Nobuo Sekine）",
+      "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "作品提供・関根伸夫（Courtesy of the artist）／関根伸夫（Nobuo Sekine）撮影／Wikimedia Commons、CC BY-SA 4.0。画面表示用にWebP化。",
+      "underlying_work_rights": "関根伸夫の作品を写した、作者提供のこの記録写真に対する公開許諾を利用しています。",
+      "reproduction_rights": "図版はCC BY-SA 4.0。Wikimedia Commonsの公開記録に、権利者の許諾を確認した受付番号 2015050810021238 が記載されています。",
+      "width": 1412,
+      "height": 1129,
+      "display_derivatives": {
+        "method": "全画面を保ったままWebPに変換し、大小2サイズに整えました。掲載画像にもCC BY-SA 4.0を適用します。",
+        "variants": [
+          {
+            "local_file": "assets/mono-ha/oilclay-660.webp",
+            "width": 660,
+            "height": 528
+          }
+        ]
+      },
+      "sha256": "8c5e5f4111d952792be349701b9a44ea62ee45d70dd01381d2bbe204e550742a",
+      "entry": "もの派",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "奥の大きな塊と、床に離れて置かれた小さな塊を見比べてください。どれも同じ油土です。輪郭の違いと間に残された白い床が、部屋の奥行きを見せます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "初出の東京画廊で中原佑介が評論を寄せ、のちに吉竹美香がもの派の研究で取り上げた作品です。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "油土（形と寸法は展示によって変わる） ／ 東京画廊での展示（4月18日〜5月2日）。当時の展示個体の現所蔵は未確認。"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Phase_of_Nothingness%E2%80%94Oilclay%2C_1969.jpg"
+      }
+    },
+    {
+      "id": "sekine-phase-of-nothingness-water-1969",
+      "title": "空相―水",
+      "title_original": "Phase of Nothingness—Water",
+      "year": "1969年",
+      "institution": "東京都美術館、第9回現代日本美術展（5月10日〜30日）の展示記録。1969年の展示個体の現所蔵は未確認。",
+      "medium": "鉄、ラッカー、水",
+      "source_page": "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/phase-nothingness-water-19692012",
+      "selection_criterion": "代表作",
+      "selection_reason": "ビルバオ・グッゲンハイム美術館が、再制作した作品を通して、関根が形と量の関係をどう捉えたかを解説しています。写真は1969年の初出時のものです。",
+      "alt": "白黒写真。床の手前に黒く浅い長方形の水槽が広がり、奥には背の高い円筒形の水槽が立つ。",
+      "viewing_point": "手前の低く広い水槽と、奥の背の高い水槽には、同じ量の水が入っています。黒く塗った内側と静かな水面が重なるため、写真では水と器の境目を見つけるのが難しくなります。",
+      "author": "関根伸夫（せきね・のぶお）",
+      "local_file": "assets/mono-ha/water.webp",
+      "work_source_page": "https://commons.wikimedia.org/wiki/File:Phase_of_Nothingness%E2%80%94Water,_1969.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Phase_of_Nothingness%E2%80%94Water%2C_1969.jpg",
+      "photographer": "撮影者不詳",
+      "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "作品提供・関根伸夫（Courtesy of the artist）／撮影者不詳／Wikimedia Commons、CC BY-SA 4.0。画面表示用にWebP化。",
+      "underlying_work_rights": "関根伸夫の作品を写した、作者提供のこの記録写真に対する公開許諾を利用しています。",
+      "reproduction_rights": "図版はCC BY-SA 4.0。Wikimedia Commonsの公開記録に、権利者の許諾を確認した受付番号 2015050810021238 が記載されています。",
+      "width": 809,
+      "height": 629,
+      "display_derivatives": {
+        "method": "全画面を保ったままWebPに変換し、大小2サイズに整えました。掲載画像にもCC BY-SA 4.0を適用します。",
+        "variants": [
+          {
+            "local_file": "assets/mono-ha/water-660.webp",
+            "width": 660,
+            "height": 513
+          }
+        ]
+      },
+      "sha256": "ba2144ccdf0faf3d458b4fc07d802384768fae725c2f2bb5066272fbd87a68cf",
+      "entry": "もの派",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "手前の低く広い水槽と、奥の背の高い水槽には、同じ量の水が入っています。黒く塗った内側と静かな水面が重なるため、写真では水と器の境目を見つけるのが難しくなります。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "ビルバオ・グッゲンハイム美術館が、再制作した作品を通して、関根が形と量の関係をどう捉えたかを解説しています。写真は1969年の初出時のものです。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "鉄、ラッカー、水 ／ 東京都美術館、第9回現代日本美術展（5月10日〜30日）の展示記録。1969年の展示個体の現所蔵は未確認。"
+      },
+      "original_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Phase_of_Nothingness%E2%80%94Water%2C_1969.jpg"
+      }
+    },
+    {
+      "year": "1957",
+      "title": "西ドイツのポスター展",
+      "title_original": "Wystawa plakatu NRF",
+      "institution": "同じ図案をポズナン国立美術館（Pl 4411）とワルシャワ国立美術館ヴィラヌフ・ポスター美術館（Pl 853）が所蔵。",
+      "medium": "紙にオフセット印刷した展覧会ポスター",
+      "alt": "黒地に白、黄、紫の帯を三段に置き、それぞれに「WYSTAWA」「PLAKATU」「NRF」と記す。上下には縞模様の紙片が見える。",
+      "viewing_point": "展覧会名が三本の帯に分かれています。整った活字の周りには、破った紙のぎざぎざや、紫の線のゆらぎが見えます。読める文字と手で残した跡を見比べてみてください。",
+      "selection_criterion": "研究の蓄積がある作品。美術史家ガブリエラ・シフィテクは、戦後のポーランドと西ドイツの美術交流を調べた論文で、このポスターと同展の印刷物を取り上げています。",
+      "selection_source": "https://czasopisma.ispan.pl/index.php/bhs/article/view/638",
+      "work_source_page": "https://zacheta.art.pl/public/upload/mediateka/pdf/559d28bf520f4.pdf#page=340",
+      "id": "polish-poster-school-tomaszewski-west-german-posters-1957",
+      "author": "ヘンリク・トマシェフスキ",
+      "source_page": "https://zacheta.art.pl/pl/mediateka-i-publikacje/bylem-czego-i-wam-zycze-henryk-tomaszewski?galeria=36",
+      "source_url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf51131.jpg",
+      "license": "CC BY-SA 3.0 PL（表示・継承 3.0 ポーランド）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/",
+      "credit": "原作 Henryk Tomaszewski（ヘンリク・トマシェフスキ）。図版提供 Zachęta — Narodowa Galeria Sztuki（ワルシャワ、ザヘンタ国立美術館）。個別の図版ページに撮影者名の記載はありません。CC BY-SA 3.0 PL。",
+      "underlying_work_rights": "ザヘンタ国立美術館が、このポスターを正面から写した図版を個別にCC BY-SAで公開しています。掲載には同館が指定する表示・継承の条件を適用しています。",
+      "reproduction_rights": "同館の2014年回顧展の公式ギャラリーがCC BY-SA 3.0 PLを指定し、この図版にもCC BY-SAの表示があります。全図を縮小してWebP形式に変換しました。掲載図版にも同じライセンスが適用されます。",
+      "local_file": "assets/polish-poster-school/west-german-posters-1957.webp",
+      "width": 1083,
+      "height": 1600,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/polish-poster-school/west-german-posters-1957-thumb.webp",
+            "width": 447,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "5a874f12a0526856e34da3e0ecf05dc5bfc76a52555cc8dfc8af7b37d41bc1cc",
+      "entry": "Polish Poster School",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "展覧会名が三本の帯に分かれています。整った活字の周りには、破った紙のぎざぎざや、紫の線のゆらぎが見えます。読める文字と手で残した跡を見比べてみてください。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "研究の蓄積がある作品。美術史家ガブリエラ・シフィテクは、戦後のポーランドと西ドイツの美術交流を調べた論文で、このポスターと同展の印刷物を取り上げています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙にオフセット印刷した展覧会ポスター ／ 同じ図案をポズナン国立美術館（Pl 4411）とワルシャワ国立美術館ヴィラヌフ・ポスター美術館（Pl 853）が所蔵。"
+      },
+      "original_image": {
+        "url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf51131.jpg"
+      }
+    },
+    {
+      "year": "1959",
+      "title": "ヘンリー・ムーア彫刻展",
+      "title_original": "Moore. Wystawa rzeźb Henry Moore’a",
+      "institution": "同じ図案をニューヨーク近代美術館（1560.2000、作者寄贈）とワルシャワ国立美術館ヴィラヌフ・ポスター美術館（Pl 865）が所蔵。",
+      "medium": "紙に印刷した展覧会ポスター（回顧展図録ではオフセット印刷）",
+      "alt": "群青色の横長の紙に白い文字で「MOORE」。二つ目のOは白い四角に青い穴をあけた形で、その上に凹凸のある白黒の形が載る。",
+      "viewing_point": "「MOORE」の二つのOがまるで違う形です。一つ目は細い輪、二つ目は真ん中をくりぬいた白い四角。その上に灰色の塊が載り、文字が彫刻の台にも見えてきます。",
+      "selection_criterion": "研究の蓄積がある作品。作者自身がニューヨーク近代美術館に寄贈した図案で、所蔵館とザヘンタ国立美術館の回顧展図録の両方に制作年と技法の記録があります。",
+      "work_source_page": "https://www.moma.org/collection/works/8856",
+      "selection_source": "https://zacheta.art.pl/public/upload/mediateka/pdf/559d28bf520f4.pdf#page=342",
+      "id": "polish-poster-school-tomaszewski-moore-1959",
+      "author": "ヘンリク・トマシェフスキ",
+      "source_page": "https://zacheta.art.pl/pl/mediateka-i-publikacje/bylem-czego-i-wam-zycze-henryk-tomaszewski?galeria=37",
+      "source_url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf50d1d.jpg",
+      "license": "CC BY-SA 3.0 PL（表示・継承 3.0 ポーランド）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/",
+      "credit": "原作 Henryk Tomaszewski（ヘンリク・トマシェフスキ）。図版提供 Zachęta — Narodowa Galeria Sztuki（ワルシャワ、ザヘンタ国立美術館）。個別の図版ページに撮影者名の記載はありません。CC BY-SA 3.0 PL。",
+      "underlying_work_rights": "ザヘンタ国立美術館が、このポスターを正面から写した図版を個別にCC BY-SAで公開しています。掲載には同館が指定する表示・継承の条件を適用しています。",
+      "reproduction_rights": "同館の2014年回顧展の公式ギャラリーがCC BY-SA 3.0 PLを指定し、この図版にもCC BY-SAの表示があります。全図を縮小してWebP形式に変換しました。掲載図版にも同じライセンスが適用されます。",
+      "local_file": "assets/polish-poster-school/moore-1959.webp",
+      "width": 1600,
+      "height": 1154,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/polish-poster-school/moore-1959-thumb.webp",
+            "width": 660,
+            "height": 476
+          }
+        ]
+      },
+      "sha256": "428574e9ddb8cbfc83bb1e02d7b85d3ae97892acb1eebb7a664035c87c88cc16",
+      "entry": "Polish Poster School",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "「MOORE」の二つのOがまるで違う形です。一つ目は細い輪、二つ目は真ん中をくりぬいた白い四角。その上に灰色の塊が載り、文字が彫刻の台にも見えてきます。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "研究の蓄積がある作品。作者自身がニューヨーク近代美術館に寄贈した図案で、所蔵館とザヘンタ国立美術館の回顧展図録の両方に制作年と技法の記録があります。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙に印刷した展覧会ポスター（回顧展図録ではオフセット印刷） ／ 同じ図案をニューヨーク近代美術館（1560.2000、作者寄贈）とワルシャワ国立美術館ヴィラヌフ・ポスター美術館（Pl 865）が所蔵。"
+      },
+      "original_image": {
+        "url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf50d1d.jpg"
+      }
+    },
+    {
+      "year": "1971",
+      "title": "第4回ワルシャワ国際ポスター・ビエンナーレ",
+      "title_original": "IVe Biennale Internationale de l’Affiche, Varsovie 1972",
+      "institution": "フランス語版を米国議会図書館の版画・写真部門が所蔵（POS - Pol .T7, no. 13）。",
+      "medium": "紙にオフセット印刷した国際展ポスター（フランス語版）",
+      "alt": "白い縦長の紙の中央に大きな赤い四角。上に「VARSOVIE」「1972」、下にフランス語の展覧会名が入る。",
+      "viewing_point": "赤い四角には文字も絵もありません。地名と開催年はその上、展覧会名は下にあります。赤い面を囲む余白をたどると、小さな文字に目が向きます。紙面の「1972」は開催年で、制作は前年です。",
+      "selection_criterion": "高く評価された作品。ザヘンタ国立美術館の回顧展図録は、この図案が1972年4月のワルシャワの優秀ポスター選考で表彰されたと記しています。",
+      "work_source_page": "https://www.loc.gov/item/93504070/",
+      "selection_source": "https://zacheta.art.pl/public/upload/mediateka/pdf/559d28bf520f4.pdf#page=354",
+      "id": "polish-poster-school-tomaszewski-warsaw-biennale-1971",
+      "author": "ヘンリク・トマシェフスキ",
+      "source_page": "https://zacheta.art.pl/pl/mediateka-i-publikacje/bylem-czego-i-wam-zycze-henryk-tomaszewski?galeria=57",
+      "source_url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf4bdef.jpg",
+      "license": "CC BY-SA 3.0 PL（表示・継承 3.0 ポーランド）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/",
+      "credit": "原作 Henryk Tomaszewski（ヘンリク・トマシェフスキ）。図版提供 Zachęta — Narodowa Galeria Sztuki（ワルシャワ、ザヘンタ国立美術館）。個別の図版ページに撮影者名の記載はありません。CC BY-SA 3.0 PL。",
+      "underlying_work_rights": "ザヘンタ国立美術館が、このポスターを正面から写した図版を個別にCC BY-SAで公開しています。掲載には同館が指定する表示・継承の条件を適用しています。",
+      "reproduction_rights": "同館の2014年回顧展の公式ギャラリーがCC BY-SA 3.0 PLを指定し、この図版にもCC BY-SAの表示があります。全図を縮小してWebP形式に変換しました。掲載図版にも同じライセンスが適用されます。",
+      "local_file": "assets/polish-poster-school/warsaw-biennale-1971.webp",
+      "width": 1110,
+      "height": 1600,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/polish-poster-school/warsaw-biennale-1971-thumb.webp",
+            "width": 458,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "2e4a5f25fe0409e5a622da4846dcf1f1e171d7f7a6de23a297ebdf70b7d3ba6a",
+      "entry": "Polish Poster School",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "赤い四角には文字も絵もありません。地名と開催年はその上、展覧会名は下にあります。赤い面を囲む余白をたどると、小さな文字に目が向きます。紙面の「1972」は開催年で、制作は前年です。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "高く評価された作品。ザヘンタ国立美術館の回顧展図録は、この図案が1972年4月のワルシャワの優秀ポスター選考で表彰されたと記しています。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙にオフセット印刷した国際展ポスター（フランス語版） ／ フランス語版を米国議会図書館の版画・写真部門が所蔵（POS - Pol .T7, no. 13）。"
+      },
+      "original_image": {
+        "url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf4bdef.jpg"
+      }
+    },
+    {
+      "year": "1975",
+      "title": "美術批評家が選ぶ",
+      "title_original": "Krytycy sztuki proponują",
+      "institution": "同じ図案をポズナン国立美術館（Pl 6019）とワルシャワ国立美術館ヴィラヌフ・ポスター美術館（Pl 18671）が所蔵。",
+      "medium": "紙にオフセット印刷した展覧会ポスター",
+      "alt": "赤い枠の紙面を太い赤の斜線が横切る。左上に手書きの案内文、右下に先のとがった黒い線、中央に黄緑の縁取りがある。",
+      "viewing_point": "赤い斜線を境に、筆跡と線画が向かい合っています。左側の文章は下の行ほど短くなり、右側の黒い線は扇のように開きます。同じ斜線が、文字と絵の両方の輪郭を決めています。",
+      "selection_criterion": "高く評価された作品。1977年にカトヴィツェで開かれた第7回ポーランド・ポスター・ビエンナーレの銀賞受賞作です。",
+      "work_source_page": "https://zacheta.art.pl/public/upload/mediateka/pdf/559d28bf520f4.pdf#page=355",
+      "selection_source": "https://zacheta.art.pl/public/upload/mediateka/pdf/559d28bf520f4.pdf#page=355",
+      "id": "polish-poster-school-tomaszewski-critics-choice-1975",
+      "author": "ヘンリク・トマシェフスキ",
+      "source_page": "https://zacheta.art.pl/pl/mediateka-i-publikacje/bylem-czego-i-wam-zycze-henryk-tomaszewski?galeria=66",
+      "source_url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf49a4a.jpg",
+      "license": "CC BY-SA 3.0 PL（表示・継承 3.0 ポーランド）",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/",
+      "credit": "原作 Henryk Tomaszewski（ヘンリク・トマシェフスキ）。図版提供 Zachęta — Narodowa Galeria Sztuki（ワルシャワ、ザヘンタ国立美術館）。個別の図版ページに撮影者名の記載はありません。CC BY-SA 3.0 PL。",
+      "underlying_work_rights": "ザヘンタ国立美術館が、このポスターを正面から写した図版を個別にCC BY-SAで公開しています。掲載には同館が指定する表示・継承の条件を適用しています。",
+      "reproduction_rights": "同館の2014年回顧展の公式ギャラリーがCC BY-SA 3.0 PLを指定し、この図版にもCC BY-SAの表示があります。全図を縮小してWebP形式に変換しました。掲載図版にも同じライセンスが適用されます。",
+      "local_file": "assets/polish-poster-school/critics-choice-1975.webp",
+      "width": 1092,
+      "height": 1600,
+      "display_derivatives": {
+        "method": "画面表示用に大きさを調整しています。",
+        "variants": [
+          {
+            "local_file": "assets/polish-poster-school/critics-choice-1975-thumb.webp",
+            "width": 450,
+            "height": 660
+          }
+        ]
+      },
+      "sha256": "b9241a283e9c7b3df8d615cb8b8e4f63c43594b881d0c85bfa0e9a462cafa0ae",
+      "entry": "Polish Poster School",
+      "checked_at": "2026-11-22T20:33:16+09:00",
+      "visual_notes": [
+        {
+          "title": "見るポイント",
+          "text": "赤い斜線を境に、筆跡と線画が向かい合っています。左側の文章は下の行ほど短くなり、右側の黒い線は扇のように開きます。同じ斜線が、文字と絵の両方の輪郭を決めています。"
+        },
+        {
+          "title": "この作品を選んだ理由",
+          "text": "高く評価された作品。1977年にカトヴィツェで開かれた第7回ポーランド・ポスター・ビエンナーレの銀賞受賞作です。"
+        }
+      ],
+      "presentation": {
+        "scope_note": "紙にオフセット印刷した展覧会ポスター ／ 同じ図案をポズナン国立美術館（Pl 6019）とワルシャワ国立美術館ヴィラヌフ・ポスター美術館（Pl 18671）が所蔵。"
+      },
+      "original_image": {
+        "url": "https://zacheta.art.pl/public/upload/mediateka/original/559d28bf49a4a.jpg"
+      }
     }
   ],
   "note": "Actual locally acquired image bytes, individually reviewed rights. One image does not complete any representative set."
