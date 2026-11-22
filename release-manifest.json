@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-black-mountain-college",
+  "release": "representative-galleries-mono-ha-polish-poster-school",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T17:34:38+09:00",
+  "frozen_at": "2026-11-22T20:33:16+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "378759eeaa7f9c2afd67c332f3ea4881a3a1445eb4f0d62f527fad65b66be31f"
+      "sha256": "68234f158a4595c80d03aa47997048cdfaad9caee69c0f378270f4510332f425"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 923066,
-      "sha256": "fc4a4fc53b5d069db22b3c8f088db9503d422839e1cc12bf04185282d4afd5e1"
+      "bytes": 954814,
+      "sha256": "a1e70332cec7ae8cdb0e3f4e9602a35f96b683a2fa2b8e1b56d2f2efc153e896"
     },
     {
       "path": "analytics-status.json",
@@ -2117,6 +2117,46 @@
       "sha256": "c8922ea8430c0f127ece35380b06d65dc05271206d5ee4f824d2b1404f5d6c45"
     },
     {
+      "path": "assets/mono-ha/earth-660.webp",
+      "bytes": 80200,
+      "sha256": "a06958b11222603a220142957bd2e83f944eb439d69b148e1eb6cf5ac3260498"
+    },
+    {
+      "path": "assets/mono-ha/earth.webp",
+      "bytes": 639480,
+      "sha256": "4f4a5cca959ed9c89db675905b1526c27b78e03185d81931f3e04882bec52d1d"
+    },
+    {
+      "path": "assets/mono-ha/oilclay-660.webp",
+      "bytes": 36954,
+      "sha256": "377d92e92b7f16ee38c9fcf64e267d8216bfb7d532da61a2506df701a4b41e1c"
+    },
+    {
+      "path": "assets/mono-ha/oilclay.webp",
+      "bytes": 188208,
+      "sha256": "8c5e5f4111d952792be349701b9a44ea62ee45d70dd01381d2bbe204e550742a"
+    },
+    {
+      "path": "assets/mono-ha/sponge-660.webp",
+      "bytes": 17540,
+      "sha256": "5be180bc1609d1c42312f767dc1a2504b1c1510c9118d2e07980d1db7c27cec0"
+    },
+    {
+      "path": "assets/mono-ha/sponge.webp",
+      "bytes": 114264,
+      "sha256": "706a016779d8c7ffcd4442920d7bc9310aaa30f8c07fe4ad4b71f320bea18159"
+    },
+    {
+      "path": "assets/mono-ha/water-660.webp",
+      "bytes": 35468,
+      "sha256": "86837fd118f6f9582023c4f1f43f42d25a46ba27699586756fd12df0406b0a96"
+    },
+    {
+      "path": "assets/mono-ha/water.webp",
+      "bytes": 77450,
+      "sha256": "ba2144ccdf0faf3d458b4fc07d802384768fae725c2f2bb5066272fbd87a68cf"
+    },
+    {
       "path": "assets/moser-13th-secession-1902-1200.webp",
       "bytes": 705206,
       "sha256": "5399abfaaee9b87096f6dbe13066990a0ef18569c04a0980019545b253ed8f5d"
@@ -2467,6 +2507,26 @@
       "sha256": "97f989537e632eda3b27aad68fb965c884f10b0fb997f452fb37170bcd1deef5"
     },
     {
+      "path": "assets/polish-poster-school/critics-choice-1975-thumb.webp",
+      "bytes": 52934,
+      "sha256": "8b33b1b2d10c03986f37f5ea576214f6bf6a56200a5e651c0141ce02f1b083b2"
+    },
+    {
+      "path": "assets/polish-poster-school/critics-choice-1975.webp",
+      "bytes": 176170,
+      "sha256": "b9241a283e9c7b3df8d615cb8b8e4f63c43594b881d0c85bfa0e9a462cafa0ae"
+    },
+    {
+      "path": "assets/polish-poster-school/moore-1959-thumb.webp",
+      "bytes": 15376,
+      "sha256": "8b3b5d081270028ea0fbfa25692797dc2a61da2626c1ac52bae8c9bef2ddbcaa"
+    },
+    {
+      "path": "assets/polish-poster-school/moore-1959.webp",
+      "bytes": 85762,
+      "sha256": "428574e9ddb8cbfc83bb1e02d7b85d3ae97892acb1eebb7a664035c87c88cc16"
+    },
+    {
       "path": "assets/polish-poster-school/nie-1952-thumb.webp",
       "bytes": 16484,
       "sha256": "ea3205287a65ae3d81e0a0c22ea0795de848df42efd0fd6034b373532714d04a"
@@ -2475,6 +2535,26 @@
       "path": "assets/polish-poster-school/nie-1952.webp",
       "bytes": 522340,
       "sha256": "be314e426a953e2d32842256cd2f1333a5ef5dc1e28d7fb8a7162010d369a921"
+    },
+    {
+      "path": "assets/polish-poster-school/warsaw-biennale-1971-thumb.webp",
+      "bytes": 14256,
+      "sha256": "01b7c109b536bc35ebad289854e22421cd971503d6e8066c06e411799a083bfd"
+    },
+    {
+      "path": "assets/polish-poster-school/warsaw-biennale-1971.webp",
+      "bytes": 51876,
+      "sha256": "2e4a5f25fe0409e5a622da4846dcf1f1e171d7f7a6de23a297ebdf70b7d3ba6a"
+    },
+    {
+      "path": "assets/polish-poster-school/west-german-posters-1957-thumb.webp",
+      "bytes": 30652,
+      "sha256": "77f146422a9b6e2838e7683d43d7501ad48760ff47b46422f8a2b6fe7883002e"
+    },
+    {
+      "path": "assets/polish-poster-school/west-german-posters-1957.webp",
+      "bytes": 229958,
+      "sha256": "5a874f12a0526856e34da3e0ecf05dc5bfc76a52555cc8dfc8af7b37d41bc1cc"
     },
     {
       "path": "assets/postmodern-comparison.svg",
@@ -3853,8 +3933,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39526,
-      "sha256": "865686d7b960735e41aa1c58b6154f828e5af25002c3e299ea4828e601873bc4"
+      "bytes": 39604,
+      "sha256": "14f9e238eb733183176b8b9ffb0023e53e6362490d6f9ae812ec8d45d5779002"
     },
     {
       "path": "chapter-navigation.css",
@@ -3923,8 +4003,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2693065,
-      "sha256": "4a35b9633c44fedb00abd1997c9824fe9979a0064bde6b95b85414514a0194c5"
+      "bytes": 2731393,
+      "sha256": "40201d2d06f7ff63ffaaa964308eedecd87e81971591a6edae5bb46431dc41d5"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -4143,8 +4223,8 @@
     },
     {
       "path": "entries/mono-ha.html",
-      "bytes": 12844,
-      "sha256": "8b124ac71f80698cea5beecd78fc1c5355727438997f0aa62d52334f3e575433"
+      "bytes": 27231,
+      "sha256": "cbf320c39e07a6ed530b6bf2e0ad777ebf956e2741ba4d9f5270605425eb2a1e"
     },
     {
       "path": "entries/negritude-visual-culture.html",
@@ -4208,8 +4288,8 @@
     },
     {
       "path": "entries/polish-poster-school.html",
-      "bytes": 16431,
-      "sha256": "ae58edd3a65277cd10ece21d9d4dc9868c5b9628cb6ca3126384cfb16c146d26"
+      "bytes": 34475,
+      "sha256": "e83468937ca8a9dcbc510c9f9dabad29d84e220c99815a8d204d56a5a290dfe8"
     },
     {
       "path": "entries/postmodernism.html",
@@ -4413,8 +4493,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 91010,
-      "sha256": "38aa121a8946f941f6c0e87c3e11beb0a65e82a3bdf9b874eb2b3b36deffb991"
+      "bytes": 91693,
+      "sha256": "c5048de84be5b883f12fd9b6caf09c8df968863bad27be7aad1e7c0833d28f99"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4453,8 +4533,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 27396,
-      "sha256": "fd06f19274157d146c8662f6151406db58e8c386e6f5161ef0eff849425a6996"
+      "bytes": 27592,
+      "sha256": "169d8c70a6d6ce9706e39a07bdc0860469979a9e54d16a5b362fb9aa4793d09e"
     },
     {
       "path": "logo-provenance.json",
@@ -4539,7 +4619,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "82b654c94b9edca82898e376b14a7d3708e68d20539eb2045a25bc2fba979e07"
+      "sha256": "0e228552e27a193fe02b68c6017b301c6c821550e002075c13daba3f25721a92"
     },
     {
       "path": "site.webmanifest",
@@ -4549,7 +4629,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "ccc5fb06a27d7e6749f6245dd144d591907ed120f13f3e6afd1475e06ffe926f"
+      "sha256": "1b0e841b32fd5cf366288b8c5d9f48a5417ca22e3476396818d636fb6eac12d1"
     },
     {
       "path": "study-images.js",
@@ -4589,7 +4669,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "f4ff18841d5b59e415190fa5d7dcb98be0d842692462f474461792730c03417a"
+      "sha256": "49dd5c5d0f38dbc3b37042ccb0439aa7e957962dc4c09a134e8b132f1f117edc"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -4599,7 +4679,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 9004,
-      "sha256": "c0df9a47a946846ee05ab27de61838679a74a459f4f6a73c3f449c48bce893a0"
+      "sha256": "ca458c76b51b3485492935574019cf2ab349c241268017b67c281ae4475e4ed0"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4658,8 +4738,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 202650,
-      "sha256": "b1c1285c13ba0868944b9b3a8c0fe9d410f52a614d925d0b8c651fbc12a722c5"
+      "bytes": 206132,
+      "sha256": "a787d49ab24b8989566b7aef07aa1a1e93172736657346cfaadce8b59930b9d9"
     }
   ]
 }
