@@ -22684,7 +22684,7 @@
         "ここでは、学校の学び方を伝える資料を、後の学校のものとは時期を分けて紹介します。"
       ]
     },
-    "representativeness_limit": "学校案内、1941年の学生制作、1946年の教育資料を選びました。初期のニュー・バウハウスと、その後の二つの学校名を制作年とともに示しています。この3点だけで、すべての授業を紹介するものではありません。",
+    "representativeness_limit": "学校案内、学生の制作、授業を記録した映画を取り上げます。1937年に開いた初代校と、その後のシカゴのデザイン学校で、どんな実験が行われたかを年代順にたどれます。",
     "sources": [
       {
         "id": "newbauhaus-0",
@@ -22733,6 +22733,28 @@
         }
       },
       {
+        "id": "moholy-diagram-of-forces-1938-43",
+        "title": "Diagram of Forces",
+        "title_ja": "力の図",
+        "title_original": "Diagram of Forces",
+        "creator": "ラースロー・モホリ＝ナジ",
+        "date": "1938–1943年",
+        "domain": "ゼラチン・シルバー・プリント（フォトグラム）。縦20.2 × 横25.2センチ。",
+        "evidence": "https://emuseum.mfah.org/objects/7768/diagram-of-forces",
+        "reason": "左下から中央へ折れ目をたどってみてください。濃い灰色のすぐ横に明るい面があります。この凹凸は別の紙を写したものではなく、光を受けた印画紙そのものを丸めてできました。"
+      },
+      {
+        "id": "moholy-barford-photogram-c1940",
+        "title": "Untitled",
+        "title_ja": "無題（バーフォードに贈ったフォトグラム）",
+        "title_original": "Untitled",
+        "creator": "ラースロー・モホリ＝ナジ",
+        "date": "1940年頃",
+        "domain": "ゼラチン・シルバー・プリント（フォトグラム）。縦50.1 × 横40.2センチ。",
+        "evidence": "https://www.artic.edu/artworks/29276/untitled",
+        "reason": "右上の小さな白い円と、左下に広がる薄い影を見比べてください。輪郭がくっきりした所と、光に溶けていく所が一枚の印画紙に並んでいます。"
+      },
+      {
         "id": "new-bauhaus-chicago-work-2",
         "title": "Wiremesh Pillow, Light Modulator",
         "creator": "Georgianna Green（ジョージアナ・グリーン）",
@@ -22750,6 +22772,28 @@
             "イリノイ工科大学自身の展示が、実験教育の節に1941年の学生制作として提示する。光を材料として扱う学びを知る資料。"
           ]
         }
+      },
+      {
+        "id": "moholy-design-workshops-1944",
+        "title": "Design Workshops",
+        "title_ja": "デザインの実習",
+        "title_original": "Design Workshops",
+        "creator": "ラースロー・モホリ＝ナジ（監督・撮影）",
+        "date": "1944年",
+        "domain": "カラー映画、36分11秒（財団公開版）。掲載図版は映画の一場面。",
+        "evidence": "https://www.moholy-nagy.org/art-database-detail/14",
+        "reason": "右手前の台紙には、小さな写真が四つ並びます。その左には一枚だけを大きく見せる台紙があります。人が歩く通路からどう見比べられるか、台紙の大きさと間隔に注目してください。"
+      },
+      {
+        "id": "moholy-do-not-disturb-1945",
+        "title": "Do Not Disturb",
+        "title_ja": "邪魔しないで",
+        "title_original": "Do Not Disturb",
+        "creator": "ラースロー・モホリ＝ナジ（監督）、シカゴのインスティテュート・オブ・デザイン映画クラスの学生（脚本・撮影・編集）",
+        "date": "1945年",
+        "domain": "カラー映画、約19分。掲載図版は映画の一場面。",
+        "evidence": "https://www.moholy-nagy.org/art-database-detail/305",
+        "reason": "赤い文字をたどってから、鏡に映った顔を見てください。文字がある面と、奥に見える顔が重なります。ひとつの画面の中で、手前と奥の見え方が入れ替わります。"
       },
       {
         "id": "new-bauhaus-chicago-work-3",
@@ -22771,16 +22815,245 @@
         }
       }
     ],
-    "adopted_images": [],
-    "image_count_acquired": 0,
+    "adopted_images": [
+      {
+        "id": "moholy-diagram-of-forces-1938-43",
+        "title": "力の図",
+        "title_original": "Diagram of Forces",
+        "year": "1938–1943年",
+        "author": "ラースロー・モホリ＝ナジ",
+        "institution": "ヒューストン美術館所蔵、作品番号84.238（S. I. Morris Photography Endowment による購入）",
+        "medium": "ゼラチン・シルバー・プリント（フォトグラム）。縦20.2 × 横25.2センチ。",
+        "source_page": "https://emuseum.mfah.org/objects/7768/diagram-of-forces",
+        "selection_source": "https://www.guggenheim.org/audio/track/moholy-nagy-chicago-photograms-1937-46",
+        "selection_criterion": "研究の蓄積がある作品",
+        "selection_reason": "校長モホリ＝ナジは、シカゴ校の暗室と、写真を学びたい学生を得て、紙を曲げたり折ったりして光を記録する実験を進めました。この一枚は、ぬらした印画紙を押しつぶして光に当てた、と作者自身が裏に書き残した作例です。",
+        "limitation": "校長がシカゴ時代に制作した作品です。この一枚を特定の授業で制作したという記録は確認されていません。",
+        "alt": "灰色の画面に濃い折り目が走る。左下には小さな黒い三角が折り重なり、右側には明るい面が広がる。",
+        "viewing_point": "左下から中央へ折れ目をたどってみてください。濃い灰色のすぐ横に明るい面があります。この凹凸は別の紙を写したものではなく、光を受けた印画紙そのものを丸めてできました。",
+        "local_file": "assets/new-bauhaus-chicago/moholy-diagram-of-forces-1938-43.jpg",
+        "work_source_page": "https://artsandculture.google.com/asset/diagram-of-forces-l%C3%A1szl%C3%B3-moholy-nagy/GgE36z_FI9wneg?hl=en",
+        "source_url": "https://lh3.googleusercontent.com/ci/AL18g_Q0KmKNbAvn-uCjeSQ8izGtTn2rvbgVoAlI9QOcYtk3cpFVNMg6t73KmxA1o6DFa2Mf3LNaQ7g",
+        "photographer": "原作のフォトグラム制作はラースロー・モホリ＝ナジ。複写撮影はヒューストン美術館、個人名の記載はありません。",
+        "license": "ヒューストン美術館の利用条件（広告のない非商用個人サイトで、作者・所蔵館・出典を明記して掲載）",
+        "license_url": "https://www.mfah.org/art/faq-images",
+        "credit": "László Moholy-Nagy, Diagram of Forces, 1938–1943. ヒューストン美術館所蔵。Photograph © The Museum of Fine Arts, Houston. 図版出典 www.mfah.org（同館のGoogle Arts & Culture公式展示）。",
+        "underlying_work_rights": "当該原作には所蔵館の作品台帳で Public Domain の表示があります。モホリ＝ナジ財団も非営利の教育・批評を目的とする作品画像の利用条件を案内しています。https://www.moholy-nagy.org/rights-reproduction/",
+        "reproduction_rights": "図版の権利表示は Photograph © The Museum of Fine Arts, Houston。広告のない非商用の個人サイトに提供図版を載せられるという同館の条件に従い、画像とクレジットを掲載しています。",
+        "width": 512,
+        "height": 408,
+        "display_derivatives": {
+          "method": "同館の公式展示で配信されているJPEGを無加工で使用しています。",
+          "variants": [
+            {
+              "local_file": "assets/new-bauhaus-chicago/moholy-diagram-of-forces-1938-43.jpg",
+              "width": 512,
+              "height": 408
+            }
+          ]
+        },
+        "sha256": "38244f4d78e102a6fca6a1a10e90b6d8fa395175d12c19ab8cb3fe8888e1d175",
+        "entry": "New Bauhaus Chicago",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "左下から中央へ折れ目をたどってみてください。濃い灰色のすぐ横に明るい面があります。この凹凸は別の紙を写したものではなく、光を受けた印画紙そのものを丸めてできました。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "校長モホリ＝ナジは、シカゴ校の暗室と、写真を学びたい学生を得て、紙を曲げたり折ったりして光を記録する実験を進めました。この一枚は、ぬらした印画紙を押しつぶして光に当てた、と作者自身が裏に書き残した作例です。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "ゼラチン・シルバー・プリント（フォトグラム）。縦20.2 × 横25.2センチ。 ／ ヒューストン美術館所蔵、作品番号84.238（S. I. Morris Photography Endowment による購入）",
+          "provenance_note": "校長がシカゴ時代に制作した作品です。この一枚を特定の授業で制作したという記録は確認されていません。"
+        },
+        "original_image": {
+          "url": "https://lh3.googleusercontent.com/ci/AL18g_Q0KmKNbAvn-uCjeSQ8izGtTn2rvbgVoAlI9QOcYtk3cpFVNMg6t73KmxA1o6DFa2Mf3LNaQ7g"
+        }
+      },
+      {
+        "id": "moholy-barford-photogram-c1940",
+        "title": "無題（バーフォードに贈ったフォトグラム）",
+        "title_original": "Untitled",
+        "year": "1940年頃",
+        "author": "ラースロー・モホリ＝ナジ",
+        "institution": "シカゴ美術館、作品番号1968.264（ジョージ・バーフォード夫妻寄贈）",
+        "medium": "ゼラチン・シルバー・プリント（フォトグラム）。縦50.1 × 横40.2センチ。",
+        "source_page": "https://www.artic.edu/artworks/29276/untitled",
+        "selection_source": "https://press.uchicago.edu/ucp/books/book/chicago/T/bo3627831.html",
+        "selection_criterion": "研究の蓄積がある作品",
+        "selection_reason": "シカゴ校の教員ジョージ・バーフォードに贈られた一枚で、同校の写真教育をたどる展覧会『Taken by Design』の図版第1番に選ばれました。",
+        "limitation": "シカゴ美術館は、暗室での共同作業か授業の見本だった可能性を挙げています。どちらだったかは確定していません。",
+        "alt": "黒い地に淡い曲線が幾重も重なり、右上には白い円のついた細い棒のような形が見える。",
+        "viewing_point": "右上の小さな白い円と、左下に広がる薄い影を見比べてください。輪郭がくっきりした所と、光に溶けていく所が一枚の印画紙に並んでいます。",
+        "local_file": "assets/new-bauhaus-chicago/moholy-barford-photogram-c1940.webp",
+        "work_source_page": "https://www.moholy-nagy.org/art-database-detail/162?prev=gallery",
+        "source_url": "https://www.moholy-nagy.org/static/media/ArtDBimages/022_0017.jpg",
+        "photographer": "フォトグラム制作はラースロー・モホリ＝ナジ。図版の複写担当者名は財団の台帳に記載されていません。",
+        "license": "モホリ＝ナジ財団の非営利の教育・批評利用に関する方針に基づく掲載",
+        "license_url": "https://www.moholy-nagy.org/rights-reproduction/",
+        "credit": "原作・ラースロー・モホリ＝ナジ。シカゴ美術館所蔵（George and Ruth Barford 寄贈）。図版出典・モホリ＝ナジ財団 www.moholy-nagy.org 。© Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn。",
+        "underlying_work_rights": "財団は、非営利の教育・批評を目的に作者の作品画像を用いる際、別記がない限り個別の許可を要しないとしています。",
+        "reproduction_rights": "財団の作品目録が公開する複写図版を用い、シカゴ校の写真実習と光の見方を解説しています。",
+        "width": 887,
+        "height": 1100,
+        "display_derivatives": {
+          "method": "原図全体を保ち、解説用に縮小してWebPに変換しました。一覧には財団の縮小画像を使用しています。",
+          "variants": [
+            {
+              "local_file": "assets/new-bauhaus-chicago/moholy-barford-photogram-c1940-thumb.jpg",
+              "width": 250,
+              "height": 310
+            }
+          ]
+        },
+        "sha256": "972749a6f63dbaba3f054cb92031608ed098d28988dae6c9efac6586461eeebf",
+        "entry": "New Bauhaus Chicago",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "右上の小さな白い円と、左下に広がる薄い影を見比べてください。輪郭がくっきりした所と、光に溶けていく所が一枚の印画紙に並んでいます。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "シカゴ校の教員ジョージ・バーフォードに贈られた一枚で、同校の写真教育をたどる展覧会『Taken by Design』の図版第1番に選ばれました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "ゼラチン・シルバー・プリント（フォトグラム）。縦50.1 × 横40.2センチ。 ／ シカゴ美術館、作品番号1968.264（ジョージ・バーフォード夫妻寄贈）",
+          "provenance_note": "シカゴ美術館は、暗室での共同作業か授業の見本だった可能性を挙げています。どちらだったかは確定していません。"
+        },
+        "original_image": {
+          "url": "https://www.moholy-nagy.org/static/media/ArtDBimages/022_0017.jpg"
+        }
+      },
+      {
+        "id": "moholy-design-workshops-1944",
+        "title": "デザインの実習",
+        "title_original": "Design Workshops",
+        "year": "1944年",
+        "author": "ラースロー・モホリ＝ナジ（監督・撮影）",
+        "institution": "モホリ＝ナジ遺産管理団体所蔵",
+        "medium": "カラー映画、36分11秒（財団公開版）。掲載図版は映画の一場面。",
+        "source_page": "https://www.moholy-nagy.org/art-database-detail/14",
+        "selection_source": "https://www.chicagofilmarchives.org/calendar/event/the-big-picture/",
+        "selection_criterion": "代表作",
+        "selection_reason": "モホリ＝ナジ自身がシカゴ校の実習を映画に記録しました。シカゴ・フィルム・アーカイブズは、この学校が手がけた映画を紹介する上映会で本作を取り上げています。",
+        "alt": "来場者の前に、写真を張った白い台紙が何枚も並ぶ。右手前の台紙には黒い写真が四つ見える。",
+        "viewing_point": "右手前の台紙には、小さな写真が四つ並びます。その左には一枚だけを大きく見せる台紙があります。人が歩く通路からどう見比べられるか、台紙の大きさと間隔に注目してください。",
+        "photographer": "映画撮影はラースロー・モホリ＝ナジ。図版は同作の画面。",
+        "limitation": "1938年に閉じた初代校を引き継いだ、シカゴのデザイン学校の授業と作品を記録した映画です。",
+        "local_file": "assets/new-bauhaus-chicago/moholy-design-workshops-1944.jpg",
+        "work_source_page": "https://www.moholy-nagy.org/filmography/",
+        "source_url": "https://i.vimeocdn.com/video/594038060-7039d424a7ea47c5c21be7db66e835c25f8ce473d8240070903ad3da35ecd456-d_640?region=us",
+        "license": "モホリ＝ナジ財団の非営利の教育・批評利用に関する方針に基づく掲載",
+        "license_url": "https://www.moholy-nagy.org/rights-reproduction/",
+        "credit": "図版提供元・モホリ＝ナジ財団（The Moholy-Nagy Foundation／www.moholy-nagy.org）。財団の公式作品目録に掲載された映画抜粋の静止画。",
+        "underlying_work_rights": "財団は、この映画をモホリ＝ナジの作品目録に収録し、非営利の教育や批評での作品画像利用は、別記がない限り個別の許可を要しないとしています。",
+        "reproduction_rights": "財団の作品目録が表示に使用する公式の静止画を、作品の見方を解説するために掲載。利用方針 https://www.moholy-nagy.org/rights-reproduction/",
+        "width": 640,
+        "height": 487,
+        "display_derivatives": {
+          "method": "元のJPEGを加工せずに掲載しています。",
+          "variants": [
+            {
+              "local_file": "assets/new-bauhaus-chicago/moholy-design-workshops-1944.jpg",
+              "width": 640,
+              "height": 487
+            }
+          ]
+        },
+        "sha256": "e916da552de3940d2c97249c5e965cc87714842885f79d69c901e941de882381",
+        "entry": "New Bauhaus Chicago",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "右手前の台紙には、小さな写真が四つ並びます。その左には一枚だけを大きく見せる台紙があります。人が歩く通路からどう見比べられるか、台紙の大きさと間隔に注目してください。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "モホリ＝ナジ自身がシカゴ校の実習を映画に記録しました。シカゴ・フィルム・アーカイブズは、この学校が手がけた映画を紹介する上映会で本作を取り上げています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "カラー映画、36分11秒（財団公開版）。掲載図版は映画の一場面。 ／ モホリ＝ナジ遺産管理団体所蔵",
+          "provenance_note": "1938年に閉じた初代校を引き継いだ、シカゴのデザイン学校の授業と作品を記録した映画です。"
+        },
+        "original_image": {
+          "url": "https://i.vimeocdn.com/video/594038060-7039d424a7ea47c5c21be7db66e835c25f8ce473d8240070903ad3da35ecd456-d_640?region=us"
+        }
+      },
+      {
+        "id": "moholy-do-not-disturb-1945",
+        "title": "邪魔しないで",
+        "title_original": "Do Not Disturb",
+        "year": "1945年",
+        "author": "ラースロー・モホリ＝ナジ（監督）、シカゴのインスティテュート・オブ・デザイン映画クラスの学生（脚本・撮影・編集）",
+        "institution": "ライト・コーン（パリ）が16ミリ上映用フィルムを管理。原版の所蔵先は財団の作品台帳に記載されていません。",
+        "medium": "カラー映画、約19分。掲載図版は映画の一場面。",
+        "source_page": "https://www.moholy-nagy.org/art-database-detail/305",
+        "selection_source": "https://lightcone.org/en/film-8162-do-not-disturb",
+        "selection_criterion": "研究の蓄積がある作品",
+        "selection_reason": "学生が脚本・撮影・編集を担った授業作品です。研究書『Art as Organism』は複数の場面を図版で取り上げ、シカゴ美術館附属美術大学の映画プログラムでも上映されました。",
+        "alt": "眼鏡をかけた男性が鏡に向かい、表面に赤い文字を書いている。左に映った顔と右の後ろ姿が並ぶ。",
+        "viewing_point": "赤い文字をたどってから、鏡に映った顔を見てください。文字がある面と、奥に見える顔が重なります。ひとつの画面の中で、手前と奥の見え方が入れ替わります。",
+        "photographer": "撮影はシカゴのインスティテュート・オブ・デザイン映画クラスの学生。個人名は掲載資料に記載されていません。",
+        "limitation": "1944年に名称が変わった後継校インスティテュート・オブ・デザインの授業作品です。",
+        "local_file": "assets/new-bauhaus-chicago/moholy-do-not-disturb-1945.jpg",
+        "work_source_page": "https://www.moholy-nagy.org/filmography/",
+        "source_url": "https://i.vimeocdn.com/video/594013723-f56cc62a5c98cf1f641e4f39101e487f39acd9e9c4375e042a81871301a10ccc-d_640?region=us",
+        "license": "モホリ＝ナジ財団の非営利の教育・批評利用に関する方針に基づく掲載",
+        "license_url": "https://www.moholy-nagy.org/rights-reproduction/",
+        "credit": "図版提供元・モホリ＝ナジ財団（The Moholy-Nagy Foundation／www.moholy-nagy.org）。財団の公式作品目録に掲載された映画抜粋の静止画。",
+        "underlying_work_rights": "財団は、この映画をモホリ＝ナジの作品目録に収録し、非営利の教育や批評での作品画像利用は、別記がない限り個別の許可を要しないとしています。",
+        "reproduction_rights": "財団の作品目録が表示に使用する公式の静止画を、作品の見方を解説するために掲載。利用方針 https://www.moholy-nagy.org/rights-reproduction/",
+        "width": 640,
+        "height": 485,
+        "display_derivatives": {
+          "method": "元のJPEGを加工せずに掲載しています。",
+          "variants": [
+            {
+              "local_file": "assets/new-bauhaus-chicago/moholy-do-not-disturb-1945.jpg",
+              "width": 640,
+              "height": 485
+            }
+          ]
+        },
+        "sha256": "248f362859910d49a95150cc7d12b25634cbb9d9916e56e16c89880f2c3cc033",
+        "entry": "New Bauhaus Chicago",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "赤い文字をたどってから、鏡に映った顔を見てください。文字がある面と、奥に見える顔が重なります。ひとつの画面の中で、手前と奥の見え方が入れ替わります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "学生が脚本・撮影・編集を担った授業作品です。研究書『Art as Organism』は複数の場面を図版で取り上げ、シカゴ美術館附属美術大学の映画プログラムでも上映されました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "カラー映画、約19分。掲載図版は映画の一場面。 ／ ライト・コーン（パリ）が16ミリ上映用フィルムを管理。原版の所蔵先は財団の作品台帳に記載されていません。",
+          "provenance_note": "1944年に名称が変わった後継校インスティテュート・オブ・デザインの授業作品です。"
+        },
+        "original_image": {
+          "url": "https://i.vimeocdn.com/video/594013723-f56cc62a5c98cf1f641e4f39101e487f39acd9e9c4375e042a81871301a10ccc-d_640?region=us"
+        }
+      }
+    ],
+    "image_count_acquired": 4,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 3,
+    "representative_count": 7,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "図版で紹介する作品は4作品。実作品図版4点、AAGA模写（Runway制作）0点。",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T20:52:51+09:00",
     "period_bands": [
       "1900-1949",
       "1950-1999"
@@ -27267,7 +27540,7 @@
         "紙や印刷の実験と、コンピューターの実験を分けて見てみましょう。"
       ]
     },
-    "representativeness_limit": "ヴァインガルトとグレイマンの4例で、印刷の実験と米国での展開を比べます。関連する全作家や、ニュー・ウェーブと呼ばれる表現の全体を網羅していません。",
+    "representativeness_limit": "ヴァインガルトの印刷実験と、グレイマンの立体ポスター、折り畳み雑誌、展覧会の屋外広告をたどります。細部を見たいときは、各図版に添えた美術館や作者の資料も開けます。",
     "sources": [
       {
         "id": "mfg-weingart",
@@ -27346,6 +27619,17 @@
         }
       },
       {
+        "id": "greiman-your-turn-my-turn-1983",
+        "title": "Your Turn, My Turn, PDC 3, 3-D Poster",
+        "title_ja": "ユア・ターン、マイ・ターン",
+        "title_original": "Your Turn, My Turn, PDC 3, 3-D Poster",
+        "creator": "エイプリル・グレイマン",
+        "date": "1983年",
+        "domain": "紙にオフセット印刷とスクリーン印刷（展示風景の部分）",
+        "evidence": "https://www.si.edu/object/your-turn-my-turn-pdc-3-3-d-poster:chndm_1995-167-3",
+        "reason": "「Your Turn」「My Turn」を順に追うと、二つの言葉が斜めに駆け上がって見えます。下にある鋭い黒い形に目を移すと、今度は視線が右下へ戻ります。展示写真には、額の中にこの二つの方向が収まっています。"
+      },
+      {
         "title": "DOES IT MAKE SENSE? Design Quarterly #133",
         "creator": "April Greiman（エイプリル・グレイマン）",
         "date": "1986年",
@@ -27358,9 +27642,11 @@
         "reading_intro": {
           "heading": "ダズ・イット・メイク・センス？：デザイン・クォータリー第133号",
           "lead": [
-            "グレイマンによる文字と画像の実験を示す印刷物。ヴァインガルトと同じ制作技法だと決めずに比べます。"
+            "左の顔から横たわった体をたどると、途中に文字や写真の四角い枠が割り込みます。体を丸ごと見るときと、小さな文字の列を追うときでは、同じ紙の上で目が動く速さも変わります。"
           ]
-        }
+        },
+        "image_adoption": "掲載",
+        "plate_id": "greiman-does-it-make-sense-1986"
       },
       {
         "title": "Snow White + the Seven Pixels, An Evening with April Greiman",
@@ -27378,18 +27664,247 @@
             "本人の講演を知らせる仕事。特別な雑誌号だけでなく、催しの情報を伝えるポスターも比較できます。"
           ]
         }
+      },
+      {
+        "id": "greiman-modern-poster-1988",
+        "title": "The Modern Poster, The Museum of Modern Art, New York",
+        "title_ja": "ザ・モダン・ポスター",
+        "title_original": "The Modern Poster, The Museum of Modern Art, New York",
+        "creator": "エイプリル・グレイマン",
+        "date": "1988年",
+        "domain": "オフセット印刷の展覧会ポスター（展示風景の部分）",
+        "evidence": "https://www.moma.org/collection/works/4981",
+        "reason": "斜めの赤い面に沿って、一文字ずつ向きが変わっています。文字を拾おうとすると、黒い地と赤い面の間を目が往復します。右下に置かれた小さな白い面が、その流れをいったん止めます。"
+      },
+      {
+        "id": "greiman-graphic-design-in-america-1989",
+        "title": "Graphic Design in America — exhibition billboard",
+        "title_ja": "グラフィック・デザイン・イン・アメリカ（展覧会の屋外広告）",
+        "title_original": "Graphic Design in America — exhibition billboard",
+        "creator": "エイプリル・グレイマン",
+        "date": "1989年",
+        "domain": "ミネアポリスのウォーカー・アート・センターの展覧会用ビルボード（夜の掲出記録）",
+        "evidence": "https://a-g-i.org/design/graphic-design-in-america",
+        "reason": "左端の館名は四角い枠に一列ずつ収まっています。右へ目を移すと、星、横帯、文字が重なり、輪郭がにじんで見えます。暗い街の中で、読み取れる文字と目を引く模様をどう並べたかに注目してください。"
       }
     ],
-    "adopted_images": [],
-    "image_count_acquired": 0,
+    "adopted_images": [
+      {
+        "author": "エイプリル・グレイマン",
+        "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "photographer": "MadeInSpace.la（作者の制作スタジオ。撮影者個人名の記載なし）",
+        "underlying_work_rights": "原作の作者はエイプリル・グレイマンです。作者が主宰するMade in Space名義で、図版ごとに公開された写真を使っています。",
+        "artist_source": "https://www.aprilgreiman.com/exhibitions/californias-designing-women",
+        "title": "ユア・ターン、マイ・ターン",
+        "title_original": "Your Turn, My Turn, PDC 3, 3-D Poster",
+        "year": "1983年",
+        "medium": "紙にオフセット印刷とスクリーン印刷（展示風景の部分）",
+        "institution": "同じポスターをクーパー・ヒューイット国立デザイン博物館が所蔵（1995-167-3、作者寄贈）。掲載図版は作者が記録した2012年「California’s Designing Women」展。",
+        "source_page": "https://www.si.edu/object/your-turn-my-turn-pdc-3-3-d-poster:chndm_1995-167-3",
+        "selection_source": "https://www.cooperhewitt.org/2017/08/30/26363/",
+        "selection_criterion": "研究の蓄積がある作品",
+        "selection_reason": "クーパー・ヒューイット国立デザイン博物館は、このポスターの文字を二色でずらして刷り、付属の眼鏡で立体に見せる仕組みを、作者がバーゼルで学んだ文字組みと結び付けて解説しています。",
+        "alt": "額に入ったポスター。大きな「Your Turn」「My Turn」の文字が右上がりに組まれ、下方に黒と黄色の鋭い形が重なる。",
+        "viewing_point": "「Your Turn」「My Turn」を順に追うと、二つの言葉が斜めに駆け上がって見えます。下にある鋭い黒い形に目を移すと、今度は視線が右下へ戻ります。展示写真には、額の中にこの二つの方向が収まっています。",
+        "id": "greiman-your-turn-my-turn-1983",
+        "local_file": "assets/new-wave-typography/your-turn-my-turn-1983.webp",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Designing_Modern_Women_April_Greiman.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Designing_Modern_Women_April_Greiman.jpg",
+        "credit": "図版 MadeInSpace.la／エイプリル・グレイマン、Wikimedia Commons、CC BY-SA 4.0。作者が公開した展示写真から、このポスターの周囲を切り出しました。",
+        "reproduction_rights": "スタジオ名義の図版ページが指定するCC BY-SA 4.0に従い、出典と変更点を記して、掲載用の画像にも同じ条件を適用しています。",
+        "image_processing": "掲載した部分は元の大きさのまま、展示写真から額ごと切り出しています。出典の原画像を開くと、左右の作品の配置も確認できます。",
+        "width": 130,
+        "height": 222,
+        "sha256": "4ce2b5a40e37f738e17b24c64745eac61be48d72d9de9aeef661325fce0217ae",
+        "entry": "New Wave Typography",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "「Your Turn」「My Turn」を順に追うと、二つの言葉が斜めに駆け上がって見えます。下にある鋭い黒い形に目を移すと、今度は視線が右下へ戻ります。展示写真には、額の中にこの二つの方向が収まっています。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "クーパー・ヒューイット国立デザイン博物館は、このポスターの文字を二色でずらして刷り、付属の眼鏡で立体に見せる仕組みを、作者がバーゼルで学んだ文字組みと結び付けて解説しています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "紙にオフセット印刷とスクリーン印刷（展示風景の部分） ／ 同じポスターをクーパー・ヒューイット国立デザイン博物館が所蔵（1995-167-3、作者寄贈）。掲載図版は作者が記録した2012年「California’s Designing Women」展。"
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Designing_Modern_Women_April_Greiman.jpg"
+        }
+      },
+      {
+        "author": "エイプリル・グレイマン",
+        "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "photographer": "MadeInSpace.la（作者の制作スタジオ。撮影者個人名の記載なし）",
+        "underlying_work_rights": "原作の作者はエイプリル・グレイマンです。作者が主宰するMade in Space名義で、図版ごとに公開された写真を使っています。",
+        "artist_source": "https://www.aprilgreiman.com/madeinspace",
+        "title": "ダズ・イット・メイク・センス？（『デザイン・クォータリー』第133号）",
+        "title_original": "DOES IT MAKE SENSE? Design Quarterly #133",
+        "year": "1986年",
+        "medium": "両面の折り畳みポスター、紙にオフセット印刷（掲載は片面）",
+        "institution": "ニューヨーク近代美術館ほかに同号の所蔵あり。図版は作者のスタジオによる撮影。",
+        "source_page": "https://www.moma.org/collection/works/172729",
+        "selection_source": "https://a-g-i.org/design/does-it-make-sense-design-quarterly-133",
+        "selection_criterion": "代表作",
+        "selection_reason": "ウォーカー・アート・センターの雑誌一冊を、両面の長いポスターとして設計しました。ニューヨーク近代美術館は、作者の身体を等身大で取り込んだデジタルデザインの先駆例として所蔵しています。",
+        "alt": "横長の紙面いっぱいに人物の横たわる姿が置かれ、その上に細かい文字、図形、写真が重なる。",
+        "viewing_point": "左の顔から横たわった体をたどると、途中に文字や写真の四角い枠が割り込みます。体を丸ごと見るときと、小さな文字の列を追うときでは、同じ紙の上で目が動く速さも変わります。",
+        "id": "greiman-does-it-make-sense-1986",
+        "local_file": "assets/new-wave-typography/does-it-make-sense-1986.webp",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Design_Quarterly_133_-_Does_It_Make_Sense.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Design_Quarterly_133_-_Does_It_Make_Sense.jpg",
+        "credit": "図版 MadeInSpace.la／エイプリル・グレイマン、Wikimedia Commons、CC BY-SA 4.0。画面表示用に縮小し、WebPに変換しました。",
+        "reproduction_rights": "スタジオ名義の図版ページが指定するCC BY-SA 4.0に従い、出典と変更点を記して、掲載用の画像にも同じ条件を適用しています。",
+        "width": 1600,
+        "height": 929,
+        "display_derivatives": {
+          "method": "画面表示用に写真全体の大きさを調整し、WebPにしました。",
+          "variants": [
+            {
+              "local_file": "assets/new-wave-typography/does-it-make-sense-1986-660.webp",
+              "width": 660,
+              "height": 383
+            }
+          ]
+        },
+        "sha256": "9ffbfc7389ed538ebf5a28b15ce5b4a8a43488d1079800e3d8583a83462c8cc8",
+        "entry": "New Wave Typography",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "左の顔から横たわった体をたどると、途中に文字や写真の四角い枠が割り込みます。体を丸ごと見るときと、小さな文字の列を追うときでは、同じ紙の上で目が動く速さも変わります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "ウォーカー・アート・センターの雑誌一冊を、両面の長いポスターとして設計しました。ニューヨーク近代美術館は、作者の身体を等身大で取り込んだデジタルデザインの先駆例として所蔵しています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "両面の折り畳みポスター、紙にオフセット印刷（掲載は片面） ／ ニューヨーク近代美術館ほかに同号の所蔵あり。図版は作者のスタジオによる撮影。"
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Design_Quarterly_133_-_Does_It_Make_Sense.jpg"
+        }
+      },
+      {
+        "author": "エイプリル・グレイマン",
+        "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "photographer": "MadeInSpace.la（作者の制作スタジオ。撮影者個人名の記載なし）",
+        "underlying_work_rights": "原作の作者はエイプリル・グレイマンです。作者が主宰するMade in Space名義で、図版ごとに公開された写真を使っています。",
+        "artist_source": "https://www.aprilgreiman.com/exhibitions/californias-designing-women",
+        "title": "ザ・モダン・ポスター",
+        "title_original": "The Modern Poster, The Museum of Modern Art, New York",
+        "year": "1988年",
+        "medium": "オフセット印刷の展覧会ポスター（展示風景の部分）",
+        "institution": "ニューヨーク近代美術館所蔵（81.1990）。掲載図版は作者が記録した2012年「California’s Designing Women」展。",
+        "source_page": "https://www.moma.org/collection/works/4981",
+        "selection_source": "https://www.moma.org/calendar/exhibitions/1804",
+        "selection_criterion": "代表作",
+        "selection_reason": "ニューヨーク近代美術館が開いた、近代ポスターの歴史をたどる展覧会のための作品です。同館の所蔵記録と会期に合わせて1988年としています。",
+        "alt": "黒地に赤から白へ変わる四角い面が斜めに重なり、離ればなれの文字がその面を回り込むポスター。",
+        "viewing_point": "斜めの赤い面に沿って、一文字ずつ向きが変わっています。文字を拾おうとすると、黒い地と赤い面の間を目が往復します。右下に置かれた小さな白い面が、その流れをいったん止めます。",
+        "id": "greiman-modern-poster-1988",
+        "local_file": "assets/new-wave-typography/modern-poster-1988.webp",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Designing_Modern_Women_April_Greiman.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Designing_Modern_Women_April_Greiman.jpg",
+        "credit": "図版 MadeInSpace.la／エイプリル・グレイマン、Wikimedia Commons、CC BY-SA 4.0。作者が公開した展示写真から、このポスターの周囲を切り出しました。",
+        "reproduction_rights": "スタジオ名義の図版ページが指定するCC BY-SA 4.0に従い、出典と変更点を記して、掲載用の画像にも同じ条件を適用しています。",
+        "image_processing": "掲載した部分は元の大きさのまま、展示写真から額ごと切り出しています。出典の原画像を開くと、左右の作品の配置も確認できます。",
+        "width": 180,
+        "height": 267,
+        "sha256": "6fbbb20df8451036b4d8ec94025b9912998b6e83a01bdc9417e60aef0bb1a082",
+        "entry": "New Wave Typography",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "斜めの赤い面に沿って、一文字ずつ向きが変わっています。文字を拾おうとすると、黒い地と赤い面の間を目が往復します。右下に置かれた小さな白い面が、その流れをいったん止めます。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "ニューヨーク近代美術館が開いた、近代ポスターの歴史をたどる展覧会のための作品です。同館の所蔵記録と会期に合わせて1988年としています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "オフセット印刷の展覧会ポスター（展示風景の部分） ／ ニューヨーク近代美術館所蔵（81.1990）。掲載図版は作者が記録した2012年「California’s Designing Women」展。"
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Designing_Modern_Women_April_Greiman.jpg"
+        }
+      },
+      {
+        "author": "エイプリル・グレイマン",
+        "license": "CC BY-SA 4.0（表示・継承 4.0 国際）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "photographer": "MadeInSpace.la（作者の制作スタジオ。撮影者個人名の記載なし）",
+        "underlying_work_rights": "原作の作者はエイプリル・グレイマンです。作者が主宰するMade in Space名義で、図版ごとに公開された写真を使っています。",
+        "artist_source": "https://www.aprilgreiman.com/madeinspace",
+        "title": "グラフィック・デザイン・イン・アメリカ（展覧会の屋外広告）",
+        "title_original": "Graphic Design in America — exhibition billboard",
+        "year": "1989年",
+        "medium": "ミネアポリスのウォーカー・アート・センターの展覧会用ビルボード（夜の掲出記録）",
+        "institution": "同じ企画のポスターはアートセンター・カレッジ・オブ・デザイン所蔵（H_M_C_T_ AGP-9）。写真に写る屋外広告そのものの現所蔵は未確認。",
+        "source_page": "https://a-g-i.org/design/graphic-design-in-america",
+        "selection_source": "https://archives.artcenter.edu/h-m-c-t-agp-13",
+        "selection_criterion": "代表作",
+        "selection_reason": "作者が国際グラフィック連盟のポートフォリオで、展覧会のポスターを町の広告に展開した例として発表しています。文字と映像を重ねる手法を、道路から見る大きさに移した作品です。",
+        "alt": "夜の道路沿いの横長の広告。左にWalker Art Centerと会期、右には星や帯、ぶれたように重なる展覧会名が光る。",
+        "viewing_point": "左端の館名は四角い枠に一列ずつ収まっています。右へ目を移すと、星、横帯、文字が重なり、輪郭がにじんで見えます。暗い街の中で、読み取れる文字と目を引く模様をどう並べたかに注目してください。",
+        "id": "greiman-graphic-design-in-america-1989",
+        "local_file": "assets/new-wave-typography/graphic-design-in-america-1989.webp",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Graphic_Design_in_America-billboard.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Graphic_Design_in_America-billboard.jpg",
+        "credit": "図版 MadeInSpace.la／エイプリル・グレイマン、Wikimedia Commons、CC BY-SA 4.0。画面表示用に縮小し、WebPに変換しました。",
+        "reproduction_rights": "スタジオ名義の図版ページが指定するCC BY-SA 4.0に従い、出典と変更点を記して、掲載用の画像にも同じ条件を適用しています。",
+        "width": 1600,
+        "height": 1221,
+        "display_derivatives": {
+          "method": "画面表示用に写真全体の大きさを調整し、WebPにしました。",
+          "variants": [
+            {
+              "local_file": "assets/new-wave-typography/graphic-design-in-america-1989-660.webp",
+              "width": 660,
+              "height": 504
+            }
+          ]
+        },
+        "sha256": "8e5b740eb1fa3527240671565d9d6652c295292955c34282f2cb746813b3614e",
+        "entry": "New Wave Typography",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "左端の館名は四角い枠に一列ずつ収まっています。右へ目を移すと、星、横帯、文字が重なり、輪郭がにじんで見えます。暗い街の中で、読み取れる文字と目を引く模様をどう並べたかに注目してください。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "作者が国際グラフィック連盟のポートフォリオで、展覧会のポスターを町の広告に展開した例として発表しています。文字と映像を重ねる手法を、道路から見る大きさに移した作品です。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "ミネアポリスのウォーカー・アート・センターの展覧会用ビルボード（夜の掲出記録） ／ 同じ企画のポスターはアートセンター・カレッジ・オブ・デザイン所蔵（H_M_C_T_ AGP-9）。写真に写る屋外広告そのものの現所蔵は未確認。"
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Graphic_Design_in_America-billboard.jpg"
+        }
+      }
+    ],
+    "image_count_acquired": 4,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 4,
+    "representative_count": 7,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "図版で紹介する作品は4作品。実作品図版4点、AAGA模写（Runway制作）0点。",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T20:52:51+09:00",
     "period_bands": [
       "1950-1999"
     ],
@@ -27414,7 +27929,7 @@
     "title_ja": "スーパーグラフィックス",
     "slug": "supergraphics",
     "type": "グラフィックと建築をつなぐ表現・潮流",
-    "period": "1960年代から。本文は1960年代の仕事と2018–2023年の展開を比較",
+    "period": "1960年代から。本文は1960年代の仕事と2011–2023年の展開を比較",
     "region": "米国・カリフォルニアの例を中心に扱う",
     "summary": "壁いっぱいの文字や線が、角を曲がって隣の壁へ続く。スーパーグラフィックスでは、建物の中にいる人の大きさや動きを考えながら、色や形を広げます。ただ大きなポスターを貼るのとは違い、壁、入口、曲がり角もデザインの一部になります。バーバラ・スタウファッハー・ソロモンの仕事が、その重要な例です。",
     "context": "ソロモンは、カリフォルニアのシーランチで、建物の室内に大きな図形を描きました。紙の上で学んだ文字や形の組み立て方が、歩いて体験する場所へ広がったのです。ここでは、一人の作者の初期の仕事と後年の仕事を比べます。スーパーグラフィックス全体が一つの団体だった、あるいは大きな壁画ならすべて同じ流れだ、という意味ではありません。",
@@ -27434,7 +27949,7 @@
         "歩く人の目線で、建物と絵のつながりを見てみましょう。"
       ]
     },
-    "representativeness_limit": "ソロモンの活動に絞った4例です。様々な作者による運動全体を網羅する選び方ではありません。後年の作品は、1960年代当時の作品と分けて紹介します。",
+    "representativeness_limit": "ソロモンが米国で手がけた作品に加え、ボア・ミストゥラが市場、集合住宅、診療所、広場で色と文字を使った例を紹介します。立つ位置が変わると、建物にまたがる形がどう見えるかに注目してください。",
     "sources": [
       {
         "id": "sfmoma-supergraphics",
@@ -27479,6 +27994,61 @@
             "建物の更衣室に大きな図形を展開した、初期の重要な例。紙から空間へ広がるデザインを考えます。"
           ]
         }
+      },
+      {
+        "id": "supergraphics-boa-mistura-dreamhamar-2011",
+        "title": "Dream Hamar (PaintHamar)",
+        "title_ja": "ドリームハーマル　広場に描いた編み模様",
+        "title_original": "Dream Hamar (PaintHamar)",
+        "creator": "ボア・ミストゥラ（Boa Mistura）",
+        "date": "2011",
+        "domain": "アスファルトの広場と花こう岩の車止めを使った空間グラフィック",
+        "evidence": "https://www.journalpublicspace.org/index.php/jps/article/view/1108",
+        "reason": "手前から奥へ色の帯をたどると、セーターの編み目に似た段々の模様が現れます。移動させた車止めも帯の上に並び、広場一面が大きな敷物のように見えます。"
+      },
+      {
+        "id": "supergraphics-boa-mistura-color-2013",
+        "title": "COLOR, Mercado de la Cebada",
+        "title_ja": "カラー　セバダ市場の丸屋根",
+        "title_original": "COLOR, Mercado de la Cebada",
+        "creator": "ボア・ミストゥラ（Boa Mistura）",
+        "date": "2013",
+        "domain": "市場の丸屋根と外壁に描いた文字",
+        "evidence": "https://vimeo.com/89247418",
+        "reason": "白い線や弧は、それぞれ違う丸屋根に描かれています。決まった位置から眺めると五つの文字がつながり、スペイン語で「色」を意味する COLOR の一語になります。"
+      },
+      {
+        "id": "supergraphics-boa-mistura-somos-luz-2013",
+        "title": "Somos Luz",
+        "title_ja": "私たちは光　ベゴニアⅠ集合住宅",
+        "title_original": "Somos Luz",
+        "creator": "ボア・ミストゥラ（Boa Mistura）",
+        "date": "2013",
+        "domain": "集合住宅の外壁、共用廊下、階段室に描いた文字と色面",
+        "evidence": "https://vimeo.com/82264239",
+        "reason": "大きな白い文字を目で追うと、一つの文字がいくつもの住戸にまたがっています。廊下に立つ住人の目には、建物全体で読める言葉が身近な色の帯に変わります。"
+      },
+      {
+        "id": "supergraphics-boa-mistura-sisi-ni-mashujaa-2016",
+        "title": "Sisi Ni Mashujaa",
+        "title_ja": "私たちは英雄　キベラの診療施設",
+        "title_original": "Sisi Ni Mashujaa",
+        "creator": "ボア・ミストゥラ（Boa Mistura）",
+        "date": "2016",
+        "domain": "六つのコンテナの波板にエナメル塗料で描いた文字と模様",
+        "evidence": "https://www.journalpublicspace.org/index.php/jps/article/view/1108",
+        "reason": "東アフリカの布「レソ」には、縁の模様とともに短い言葉が織り込まれたり印刷されたりします。ここでは診療施設の壁全体を一枚の布に見立て、スワヒリ語で「私たちは英雄」と記しました。"
+      },
+      {
+        "id": "supergraphics-boa-mistura-nierika-2017",
+        "title": "Nierika",
+        "title_ja": "ニエリカ　団地の壁と広場",
+        "title_original": "Nierika",
+        "creator": "ボア・ミストゥラ（Boa Mistura）",
+        "date": "2017",
+        "domain": "団地の外壁と広場に水性塗料で描いた文字と幾何学模様",
+        "evidence": "https://www.journalpublicspace.org/index.php/jps/article/view/1108",
+        "reason": "広場の中央にある重なった菱形から、建物の足元へ目を移してみてください。地面の模様と壁の文字が出合い、広場を囲む三つの面に「かつての私」「今の私」「未来の私」にあたるスペイン語が現れます。"
       },
       {
         "title": "Land(e)scape 2018（ランドスケープ2018）",
@@ -27532,16 +28102,288 @@
         "title_ja": "ストリップス・オブ・ストライプス"
       }
     ],
-    "adopted_images": [],
-    "image_count_acquired": 0,
+    "adopted_images": [
+      {
+        "id": "supergraphics-boa-mistura-dreamhamar-2011",
+        "title": "ドリームハーマル　広場に描いた編み模様",
+        "title_original": "Dream Hamar (PaintHamar)",
+        "author": "ボア・ミストゥラ（Boa Mistura）",
+        "year": "2011",
+        "institution": "制作地はノルウェー、ハーマル市のストールトルゲット広場。広場の再整備に先立つ仮設作品。",
+        "medium": "アスファルトの広場と花こう岩の車止めを使った空間グラフィック",
+        "alt": "低い四角い石の間を、青、白、橙、黒の帯が広場の奥まで延びている。",
+        "viewing_point": "手前から奥へ色の帯をたどると、セーターの編み目に似た段々の模様が現れます。移動させた車止めも帯の上に並び、広場一面が大きな敷物のように見えます。",
+        "selection_criterion": "高く評価された事例。オスロの国立美術館で広場の参加型設計を紹介した際、この床の模様を展示室の壁と床にも展開しました。",
+        "work_source_page": "https://ecosistemaurbano.com/arkitekturimport-exhibition/",
+        "selection_source": "https://gcdn.net/wp-content/uploads/2018/01/GCDN-Urban-Furniture-Study-A4-FINAL-highres_web.pdf#page=61",
+        "local_file": "assets/supergraphics/boa-mistura-dreamhamar-2011.webp",
+        "source_page": "https://www.journalpublicspace.org/index.php/jps/article/view/1108",
+        "source_url": "https://www.journalpublicspace.org/index.php/jps/article/download/1108/684/3521#page=20",
+        "license": "CC BY-NC 4.0（表示・非営利 4.0 国際）",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "underlying_work_rights": "作者が自作を紹介した2018年の論文に付した CC BY-NC 4.0 により、この図版を出典と利用条件を添えて非営利で掲載します。",
+        "reproduction_rights": "論文とその掲載図版は CC BY-NC 4.0。誌面の写真を全画面のまま抜き出し、ウェブ表示用に形式を変えています。",
+        "credit": "作品 Boa Mistura。論文の写真に個人の撮影者名はありません。プロジェクトの図版提供はエコシステマ・ウルバノ。 出典 Javier Serrano Guerra、Juan Jaume Fernández、Pablo Ferreiro Mederos、Pablo Purón Carrillo（Boa Mistura）「Art as a tool for change」The Journal of Public Space 第3巻第2号（2018年）32頁。CC BY-NC 4.0。",
+        "original_image": {
+          "url": "https://www.journalpublicspace.org/index.php/jps/article/download/1108/684/3521#page=20",
+          "pdf_page": 20,
+          "printed_page": 32
+        },
+        "width": 1240,
+        "height": 695,
+        "display_derivatives": {
+          "method": "写真の全画面を使い、色を画面表示用に変換してWebPに保存しました。縮小版も画面の縦横比を保っています。",
+          "variants": [
+            {
+              "local_file": "assets/supergraphics/boa-mistura-dreamhamar-2011-thumb.webp",
+              "width": 660,
+              "height": 370
+            }
+          ]
+        },
+        "sha256": "67645e46f6d1d966c17f666374d05be4b1f2b50a8fb2d666e7bbdebb917c4815",
+        "entry": "Supergraphics",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "手前から奥へ色の帯をたどると、セーターの編み目に似た段々の模様が現れます。移動させた車止めも帯の上に並び、広場一面が大きな敷物のように見えます。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "高く評価された事例。オスロの国立美術館で広場の参加型設計を紹介した際、この床の模様を展示室の壁と床にも展開しました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "アスファルトの広場と花こう岩の車止めを使った空間グラフィック ／ 制作地はノルウェー、ハーマル市のストールトルゲット広場。広場の再整備に先立つ仮設作品。"
+        }
+      },
+      {
+        "id": "supergraphics-boa-mistura-color-2013",
+        "title": "カラー　セバダ市場の丸屋根",
+        "title_original": "COLOR, Mercado de la Cebada",
+        "author": "ボア・ミストゥラ（Boa Mistura）",
+        "year": "2013",
+        "institution": "制作地はスペイン、マドリード市ラ・ラティーナ地区のセバダ市場。",
+        "medium": "市場の丸屋根と外壁に描いた文字",
+        "alt": "赤、橙、ピンク、黄、緑、青の丸い屋根が並ぶ。白い文字の一部が屋根の曲面に沿って見える。",
+        "viewing_point": "白い線や弧は、それぞれ違う丸屋根に描かれています。決まった位置から眺めると五つの文字がつながり、スペイン語で「色」を意味する COLOR の一語になります。",
+        "selection_criterion": "広く知られた作品。スペイン版『アーキテクチュラル・ダイジェスト』は、市場の丸屋根を作者たちの代表作の一つとして紹介しました。",
+        "work_source_page": "https://vimeo.com/89247418",
+        "selection_source": "https://www.revistaad.es/diseno/en-el-estudio-de/galerias/en-el-estudio-de-boa-mistura/7836",
+        "local_file": "assets/supergraphics/boa-mistura-color-2013.webp",
+        "source_page": "https://vimeo.com/89247418",
+        "source_url": "https://i.vimeocdn.com/video/467917414-b9c9a70b7929846fec084a9838a7abb27e0fa1933d00fe1f88667e22152b61ac-d?f=webp&region=us",
+        "license": "CC BY-NC-ND 3.0（表示・非営利・改変禁止）",
+        "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+        "credit": "作品・記録映像 Boa Mistura。図版は作者がVimeoで公開した作品紹介の静止画。個人の撮影者名はこの図版に記されていません。CC BY-NC-ND 3.0（表示・非営利・改変禁止）。",
+        "underlying_work_rights": "作者が自作を記録して公開した公式映像の静止画を、作者名と指定の利用条件を添えて非営利で掲載します。",
+        "reproduction_rights": "公式の静止画に指定された CC BY-NC-ND 3.0（表示・非営利・改変禁止） を適用。元画像をそのまま掲載し、一覧用に縦横比を保った縮小版を用意しました。",
+        "width": 960,
+        "height": 540,
+        "display_derivatives": {
+          "method": "本図は配信元の画像と同一です。縮小版は切り抜かず、縦横比を保っています。",
+          "variants": [
+            {
+              "local_file": "assets/supergraphics/boa-mistura-color-2013-thumb.webp",
+              "width": 660,
+              "height": 371
+            }
+          ]
+        },
+        "sha256": "4c7858816c911289149e1db33fea5a295dc8a177a3be0c6d75da92997fce6d8b",
+        "entry": "Supergraphics",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "白い線や弧は、それぞれ違う丸屋根に描かれています。決まった位置から眺めると五つの文字がつながり、スペイン語で「色」を意味する COLOR の一語になります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "広く知られた作品。スペイン版『アーキテクチュラル・ダイジェスト』は、市場の丸屋根を作者たちの代表作の一つとして紹介しました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "市場の丸屋根と外壁に描いた文字 ／ 制作地はスペイン、マドリード市ラ・ラティーナ地区のセバダ市場。"
+        },
+        "original_image": {
+          "url": "https://i.vimeocdn.com/video/467917414-b9c9a70b7929846fec084a9838a7abb27e0fa1933d00fe1f88667e22152b61ac-d?f=webp&region=us"
+        }
+      },
+      {
+        "id": "supergraphics-boa-mistura-somos-luz-2013",
+        "title": "私たちは光　ベゴニアⅠ集合住宅",
+        "title_original": "Somos Luz",
+        "author": "ボア・ミストゥラ（Boa Mistura）",
+        "year": "2013",
+        "institution": "制作地はパナマ市エル・チョリージョ地区、ベゴニアⅠ集合住宅。住民が制作に参加しました。",
+        "medium": "集合住宅の外壁、共用廊下、階段室に描いた文字と色面",
+        "alt": "集合住宅の前に子どもが二人立っている。背後の外廊下には窓や柱をまたぐ白い文字と赤、緑、黄の色面が見える。下部の英語は映像の字幕。",
+        "viewing_point": "大きな白い文字を目で追うと、一つの文字がいくつもの住戸にまたがっています。廊下に立つ住人の目には、建物全体で読める言葉が身近な色の帯に変わります。",
+        "selection_criterion": "研究の蓄積がある作品。パナマのビエンナーレで制作され、デザイン研究誌『EME』が、建物に展開するスーパーグラフィックスの事例として取り上げています。",
+        "work_source_page": "https://boamistura.com/proyectos/somos-luz-2/",
+        "selection_source": "https://polipapers.upv.es/index.php/eme/article/download/3381/3943/11973",
+        "local_file": "assets/supergraphics/boa-mistura-somos-luz-2013.webp",
+        "source_page": "https://vimeo.com/82264239",
+        "source_url": "https://i.vimeocdn.com/video/458731188-1ac2c295dd81d5c597cc9bd94c2ab30ab095df0718994e587d165d27495986d9-d?f=webp&region=us",
+        "license": "CC BY-NC-SA 3.0（表示・非営利・継承）",
+        "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "credit": "作品・記録映像 Boa Mistura。図版は作者がVimeoで公開した作品紹介の静止画。個人の撮影者名はこの図版に記されていません。CC BY-NC-SA 3.0（表示・非営利・継承）。",
+        "underlying_work_rights": "作者が自作を記録して公開した公式映像の静止画を、作者名と指定の利用条件を添えて非営利で掲載します。",
+        "reproduction_rights": "公式の静止画に指定された CC BY-NC-SA 3.0（表示・非営利・継承） を適用。元画像をそのまま掲載し、一覧用に縦横比を保った縮小版を用意しました。",
+        "width": 1280,
+        "height": 720,
+        "display_derivatives": {
+          "method": "本図は配信元の画像と同一です。縮小版は切り抜かず、縦横比を保っています。",
+          "variants": [
+            {
+              "local_file": "assets/supergraphics/boa-mistura-somos-luz-2013-thumb.webp",
+              "width": 660,
+              "height": 371
+            }
+          ]
+        },
+        "sha256": "33ec824b429f58bd4f13fd6083278de3899c3f41451db19a089d4048bdc5b2c6",
+        "entry": "Supergraphics",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "大きな白い文字を目で追うと、一つの文字がいくつもの住戸にまたがっています。廊下に立つ住人の目には、建物全体で読める言葉が身近な色の帯に変わります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "研究の蓄積がある作品。パナマのビエンナーレで制作され、デザイン研究誌『EME』が、建物に展開するスーパーグラフィックスの事例として取り上げています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "集合住宅の外壁、共用廊下、階段室に描いた文字と色面 ／ 制作地はパナマ市エル・チョリージョ地区、ベゴニアⅠ集合住宅。住民が制作に参加しました。"
+        },
+        "original_image": {
+          "url": "https://i.vimeocdn.com/video/458731188-1ac2c295dd81d5c597cc9bd94c2ab30ab095df0718994e587d165d27495986d9-d?f=webp&region=us"
+        }
+      },
+      {
+        "id": "supergraphics-boa-mistura-sisi-ni-mashujaa-2016",
+        "title": "私たちは英雄　キベラの診療施設",
+        "title_original": "Sisi Ni Mashujaa",
+        "author": "ボア・ミストゥラ（Boa Mistura）",
+        "year": "2016",
+        "institution": "制作地はケニア、ナイロビ市キベラ地区、ライニ・サバ広場に面したAMREFの診療施設。",
+        "medium": "六つのコンテナの波板にエナメル塗料で描いた文字と模様",
+        "alt": "人々が集まる広場に面した青い壁に黄色の水玉が並ぶ。中央の白い帯には黒い文字で SISI NI MASHUJAA とある。",
+        "viewing_point": "東アフリカの布「レソ」には、縁の模様とともに短い言葉が織り込まれたり印刷されたりします。ここでは診療施設の壁全体を一枚の布に見立て、スワヒリ語で「私たちは英雄」と記しました。",
+        "selection_criterion": "代表作。作者が公共空間での制作を振り返った論文で、地域の布の模様と病院の建物を結び付けた事例として一章を割いています。",
+        "work_source_page": "https://boamistura.com/proyectos/sisi-ni-mashujaa-2/",
+        "selection_source": "https://www.journalpublicspace.org/index.php/jps/article/view/1108",
+        "local_file": "assets/supergraphics/boa-mistura-sisi-ni-mashujaa-2016.webp",
+        "source_page": "https://www.journalpublicspace.org/index.php/jps/article/view/1108",
+        "source_url": "https://www.journalpublicspace.org/index.php/jps/article/download/1108/684/3521#page=16",
+        "license": "CC BY-NC 4.0（表示・非営利 4.0 国際）",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "underlying_work_rights": "作者が自作を紹介した2018年の論文に付した CC BY-NC 4.0 により、この図版を出典と利用条件を添えて非営利で掲載します。",
+        "reproduction_rights": "論文とその掲載図版は CC BY-NC 4.0。誌面の写真を全画面のまま抜き出し、ウェブ表示用に形式を変えています。",
+        "credit": "作品 Boa Mistura。撮影 Boa Mistura。 出典 Javier Serrano Guerra、Juan Jaume Fernández、Pablo Ferreiro Mederos、Pablo Purón Carrillo（Boa Mistura）「Art as a tool for change」The Journal of Public Space 第3巻第2号（2018年）28頁。CC BY-NC 4.0。",
+        "original_image": {
+          "url": "https://www.journalpublicspace.org/index.php/jps/article/download/1108/684/3521#page=16",
+          "pdf_page": 16,
+          "printed_page": 28
+        },
+        "width": 1240,
+        "height": 845,
+        "display_derivatives": {
+          "method": "写真の全画面を使い、色を画面表示用に変換してWebPに保存しました。縮小版も画面の縦横比を保っています。",
+          "variants": [
+            {
+              "local_file": "assets/supergraphics/boa-mistura-sisi-ni-mashujaa-2016-thumb.webp",
+              "width": 660,
+              "height": 450
+            }
+          ]
+        },
+        "sha256": "bac0c13d314895c53665df7c994cfcebbdab0bc70d7bd0ffed48587e180a8b5d",
+        "entry": "Supergraphics",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "東アフリカの布「レソ」には、縁の模様とともに短い言葉が織り込まれたり印刷されたりします。ここでは診療施設の壁全体を一枚の布に見立て、スワヒリ語で「私たちは英雄」と記しました。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "代表作。作者が公共空間での制作を振り返った論文で、地域の布の模様と病院の建物を結び付けた事例として一章を割いています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "六つのコンテナの波板にエナメル塗料で描いた文字と模様 ／ 制作地はケニア、ナイロビ市キベラ地区、ライニ・サバ広場に面したAMREFの診療施設。"
+        }
+      },
+      {
+        "id": "supergraphics-boa-mistura-nierika-2017",
+        "title": "ニエリカ　団地の壁と広場",
+        "title_original": "Nierika",
+        "author": "ボア・ミストゥラ（Boa Mistura）",
+        "year": "2017",
+        "institution": "制作地はメキシコ、グアダラハラ市のインフォナビット・インデペンデンシア住宅団地。住民と大学生が制作に参加しました。",
+        "medium": "団地の外壁と広場に水性塗料で描いた文字と幾何学模様",
+        "alt": "上空から見ると、住宅棟に囲まれた広場に色の輪が広がり、向かい合う棟の壁にも青や赤の大きな図形と白い文字が続く。",
+        "viewing_point": "広場の中央にある重なった菱形から、建物の足元へ目を移してみてください。地面の模様と壁の文字が出合い、広場を囲む三つの面に「かつての私」「今の私」「未来の私」にあたるスペイン語が現れます。",
+        "selection_criterion": "代表作。作者が公式サイトの主要作に選んでいます。住民投票で図案を決め、グアダラハラ国際ブックフェアに合わせて制作しました。",
+        "work_source_page": "https://boamistura.com/proyectos/nierika-2/",
+        "selection_source": "https://boamistura.com/en/",
+        "local_file": "assets/supergraphics/boa-mistura-nierika-2017.webp",
+        "source_page": "https://www.journalpublicspace.org/index.php/jps/article/view/1108",
+        "source_url": "https://www.journalpublicspace.org/index.php/jps/article/download/1108/684/3521#page=9",
+        "license": "CC BY-NC 4.0（表示・非営利 4.0 国際）",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "underlying_work_rights": "作者が自作を紹介した2018年の論文に付した CC BY-NC 4.0 により、この図版を出典と利用条件を添えて非営利で掲載します。",
+        "reproduction_rights": "論文とその掲載図版は CC BY-NC 4.0。誌面の写真を全画面のまま抜き出し、ウェブ表示用に形式を変えています。",
+        "credit": "作品 Boa Mistura。プロジェクトの空撮 M. A. Productions（Miguel Azanza、作者公式資料に記載）。 出典 Javier Serrano Guerra、Juan Jaume Fernández、Pablo Ferreiro Mederos、Pablo Purón Carrillo（Boa Mistura）「Art as a tool for change」The Journal of Public Space 第3巻第2号（2018年）21頁。CC BY-NC 4.0。",
+        "original_image": {
+          "url": "https://www.journalpublicspace.org/index.php/jps/article/download/1108/684/3521#page=9",
+          "pdf_page": 9,
+          "printed_page": 21
+        },
+        "width": 1240,
+        "height": 636,
+        "display_derivatives": {
+          "method": "写真の全画面を使い、色を画面表示用に変換してWebPに保存しました。縮小版も画面の縦横比を保っています。",
+          "variants": [
+            {
+              "local_file": "assets/supergraphics/boa-mistura-nierika-2017-thumb.webp",
+              "width": 660,
+              "height": 339
+            }
+          ]
+        },
+        "sha256": "b6ffc354fe22af0bab6ef1ab6770e62eefd8d4934dad78cd5ecd5f8993783138",
+        "entry": "Supergraphics",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "広場の中央にある重なった菱形から、建物の足元へ目を移してみてください。地面の模様と壁の文字が出合い、広場を囲む三つの面に「かつての私」「今の私」「未来の私」にあたるスペイン語が現れます。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "代表作。作者が公式サイトの主要作に選んでいます。住民投票で図案を決め、グアダラハラ国際ブックフェアに合わせて制作しました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "団地の外壁と広場に水性塗料で描いた文字と幾何学模様 ／ 制作地はメキシコ、グアダラハラ市のインフォナビット・インデペンデンシア住宅団地。住民と大学生が制作に参加しました。"
+        }
+      }
+    ],
+    "image_count_acquired": 5,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 4,
+    "representative_count": 9,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "図版で紹介する作品は5作品。実作品図版5点、AAGA模写（Runway制作）0点。",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T20:52:51+09:00",
     "period_bands": [
       "1950-1999",
       "2000plus"
@@ -27891,6 +28733,23 @@
         "title_ja": "某自動車メーカー作業衣"
       },
       {
+        "title": "『専門学校 桑沢デザイン研究所 学校案内 1963』",
+        "creator": "桑沢デザイン研究所（発行）／個別の編集・デザイン担当は未確認",
+        "date": "1963年",
+        "domain": "学校案内",
+        "reason": "学校自身が教育の目的を伝えた資料です。後から語られた評判ではなく、その時代に何を学ぼうとしたかを確認できます。",
+        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
+        "evidence": "https://www.kds.ac.jp/wp-content/uploads/2024/06/guidebook1963.pdf",
+        "reading_intro": {
+          "heading": "『専門学校 桑沢デザイン研究所 学校案内 1963』",
+          "lead": [
+            "学校自身が教育の目的を伝えた資料です。後から語られた評判ではなく、その時代に何を学ぼうとしたかを確認できます。"
+          ]
+        },
+        "source_url": "https://www.kds.ac.jp/wp-content/uploads/2024/06/guidebook1963.pdf",
+        "title_ja": "『専門学校 桑沢デザイン研究所 学校案内 1963』"
+      },
+      {
         "title": "東京オリンピック競技要員作業衣",
         "creator": "桑澤洋子（くわさわ・ようこ）",
         "date": "1964年",
@@ -27908,21 +28767,37 @@
         "title_ja": "東京オリンピック競技要員作業衣"
       },
       {
-        "title": "『専門学校 桑沢デザイン研究所 学校案内 1963』",
-        "creator": "桑沢デザイン研究所（発行）／個別の編集・デザイン担当は未確認",
-        "date": "1963年",
-        "domain": "学校案内",
-        "reason": "学校自身が教育の目的を伝えた資料です。後から語られた評判ではなく、その時代に何を学ぼうとしたかを確認できます。",
-        "limitation": "この作品一つで、すべての活動を代表するわけではありません。",
-        "evidence": "https://www.kds.ac.jp/wp-content/uploads/2024/06/guidebook1963.pdf",
-        "reading_intro": {
-          "heading": "『専門学校 桑沢デザイン研究所 学校案内 1963』",
-          "lead": [
-            "学校自身が教育の目的を伝えた資料です。後から語られた評判ではなく、その時代に何を学ぼうとしたかを確認できます。"
-          ]
-        },
-        "source_url": "https://www.kds.ac.jp/wp-content/uploads/2024/06/guidebook1963.pdf",
-        "title_ja": "『専門学校 桑沢デザイン研究所 学校案内 1963』"
+        "id": "kuwasawa-shibuyafont-palettemosaic",
+        "title": "Palette Mosaic",
+        "title_ja": "ぱれっとモザイクフォント（モノクロ）",
+        "title_original": "Palette Mosaic",
+        "creator": "CAMM creative team（工房ぱれっと）とデザインを学ぶ学生。学生の個人名は作品台帳に記載なし。",
+        "date": "2017年（公開書体の初版は2020年）",
+        "domain": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。",
+        "evidence": "https://www.gotouchifont.jp/downloads/2900/",
+        "reason": "「あ」の下の丸みや「う」の太い曲線には、部品を組み合わせた境目が残っています。半円や四角、三角を並べた作り方が、小さな白いすき間からも伝わります。"
+      },
+      {
+        "id": "kuwasawa-shibuyafont-shizuru",
+        "title": "Shizuru",
+        "title_ja": "しずるフォント",
+        "title_original": "Shizuru",
+        "creator": "原字・石井広和（ワークセンターひかわ）、デザイン・田中茜里（桑沢デザイン研究所）",
+        "date": "2018年（公開書体の初版は2020年）",
+        "domain": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。",
+        "evidence": "https://www.gotouchifont.jp/downloads/2909/",
+        "reason": "「い」の両側の線を目でたどってみてください。線と線の間隔が少しずつ変わります。丸みや太さを均一に整えすぎず、手で描いた揺れを残した書体です。"
+      },
+      {
+        "id": "kuwasawa-shibuyafont-rock3d",
+        "title": "Rock 3D",
+        "title_ja": "スリーディー・ロックフォント",
+        "title_original": "Rock 3D",
+        "creator": "原字・AKAZUKI（むつみ工房）、デザイン・栗林里紗（桑沢デザイン研究所）",
+        "date": "2018年（公開書体の初版は2020年）",
+        "domain": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。",
+        "evidence": "https://www.gotouchifont.jp/downloads/2924/",
+        "reason": "「あ」や「B」の端に、折り曲げた紙の側面のような線があります。「い」と数字の「1」を見比べると、短い線一本でも文字に厚みが生まれることがわかります。"
       }
     ],
     "sources": [
@@ -27948,7 +28823,7 @@
         ]
       }
     ],
-    "representativeness_limit": "選んだ作品と資料から入るための紹介です。全作家・全時期を網羅するものではありません。",
+    "representativeness_limit": "創立期の服飾教育の資料に加え、渋谷の福祉施設と学生が一緒につくった書体を紹介します。文字の見本には、それぞれの制作チームが一般に公開した書体を使っています。",
     "recognition_section_label": "作品をよく見るための手がかり",
     "modern_section_label": "いま、考えてみること",
     "reading_intro": {
@@ -27958,12 +28833,188 @@
       ],
       "looking_questions": []
     },
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "year": "2017年（公開書体の初版は2020年）",
+        "title": "ぱれっとモザイクフォント（モノクロ）",
+        "title_original": "Palette Mosaic",
+        "author": "CAMM creative team（工房ぱれっと）とデザインを学ぶ学生。学生の個人名は作品台帳に記載なし。",
+        "institution": "工房ぱれっと・シブヤフォントの共同制作。シブヤフォントが書体データを公開。",
+        "source_page": "https://www.gotouchifont.jp/downloads/2900/",
+        "viewing_point": "「あ」の下の丸みや「う」の太い曲線には、部品を組み合わせた境目が残っています。半円や四角、三角を並べた作り方が、小さな白いすき間からも伝わります。",
+        "alt": "アイボリーの地に、半円や四角を組み合わせた太い黒文字で「あいうえお」「アイウエオ」「ABCD 1234」が並ぶ。",
+        "id": "kuwasawa-shibuyafont-palettemosaic",
+        "local_file": "assets/kuwasawa-design-school/palettemosaic.webp",
+        "license": "書体の公開版はSIL Open Font License 1.1",
+        "license_url": "https://github.com/shibuyafont/Palette-mosaic-font-mono/blob/461da4c5f2ca2d38a590d27468252b9b4a54e31f/OFL.txt",
+        "work_source_page": "https://github.com/shibuyafont/Palette-mosaic-font-mono/tree/461da4c5f2ca2d38a590d27468252b9b4a54e31f",
+        "source_url": "https://raw.githubusercontent.com/shibuyafont/Palette-mosaic-font-mono/461da4c5f2ca2d38a590d27468252b9b4a54e31f/fonts/ttf/PaletteMosaic-Regular.ttf",
+        "source_asset_kind": "font",
+        "medium": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。",
+        "photographer": "該当なし（書体データから組版）",
+        "credit": "書体・シブヤフォント（The Palette Mosaic Project Authors）／SIL Open Font License 1.1。見本の組版・DESIGN LINEAGE。",
+        "selection_criterion": "広く知られた作品",
+        "selection_reason": "桑沢の学生と渋谷区の福祉事業所から生まれたシブヤフォントのうち、Google Fontsに採用された3書体の一つです。",
+        "selection_source": "https://note.com/shibuyafont_info/n/n106ca3fd6d8d",
+        "artist_source": "https://www.kds.ac.jp/student_prsepective/shibuyafont/",
+        "underlying_work_rights": "シブヤフォントがSIL Open Font License 1.1で別途公開した版を使用しています。個人利用・商用利用の両方が認められています。",
+        "reproduction_rights": "図版は、配布されたままの書体データを本サイトで組版した見本です。書体を使って作った画像に、フォント自体のライセンスを引き継ぐ義務はありません。",
+        "original_font_sha256": "6029de6a94670695b620b3df665794e3dae213d8b7aed8ac0327b2da5679b004",
+        "width": 1500,
+        "height": 900,
+        "display_derivatives": {
+          "method": "同じ見本を全体が見える大小2サイズのWebPで掲載しています。",
+          "variants": [
+            {
+              "local_file": "assets/kuwasawa-design-school/palettemosaic-660.webp",
+              "width": 660,
+              "height": 396
+            }
+          ]
+        },
+        "sha256": "3d7ec48dbc38cdff001a5490932ab8561661355e983e17466cf00a1dac434ace",
+        "entry": "桑沢デザイン研究所",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "「あ」の下の丸みや「う」の太い曲線には、部品を組み合わせた境目が残っています。半円や四角、三角を並べた作り方が、小さな白いすき間からも伝わります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "桑沢の学生と渋谷区の福祉事業所から生まれたシブヤフォントのうち、Google Fontsに採用された3書体の一つです。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。 ／ 工房ぱれっと・シブヤフォントの共同制作。シブヤフォントが書体データを公開。"
+        },
+        "original_image": {
+          "url": "https://raw.githubusercontent.com/shibuyafont/Palette-mosaic-font-mono/461da4c5f2ca2d38a590d27468252b9b4a54e31f/fonts/ttf/PaletteMosaic-Regular.ttf"
+        }
+      },
+      {
+        "year": "2018年（公開書体の初版は2020年）",
+        "title": "しずるフォント",
+        "title_original": "Shizuru",
+        "author": "原字・石井広和（ワークセンターひかわ）、デザイン・田中茜里（桑沢デザイン研究所）",
+        "institution": "ワークセンターひかわ・シブヤフォントの共同制作。シブヤフォントが書体データを公開。",
+        "source_page": "https://www.gotouchifont.jp/downloads/2909/",
+        "viewing_point": "「い」の両側の線を目でたどってみてください。線と線の間隔が少しずつ変わります。丸みや太さを均一に整えすぎず、手で描いた揺れを残した書体です。",
+        "alt": "アイボリーの地に、手でなぞったような丸みのある輪郭線で「あいうえお」「アイウエオ」「ABCD 1234」が並ぶ。",
+        "id": "kuwasawa-shibuyafont-shizuru",
+        "local_file": "assets/kuwasawa-design-school/shizuru.webp",
+        "license": "書体の公開版はSIL Open Font License 1.1",
+        "license_url": "https://github.com/shibuyafont/shizuru-font/blob/d81cbacf44553b9a2fd2dda3613263930c8a77c1/OFL.txt",
+        "work_source_page": "https://github.com/shibuyafont/shizuru-font/tree/d81cbacf44553b9a2fd2dda3613263930c8a77c1",
+        "source_url": "https://raw.githubusercontent.com/shibuyafont/shizuru-font/d81cbacf44553b9a2fd2dda3613263930c8a77c1/fonts/ttf/Shizuru-Regular.ttf",
+        "source_asset_kind": "font",
+        "medium": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。",
+        "photographer": "該当なし（書体データから組版）",
+        "credit": "書体・シブヤフォント（The Shizuru Project Authors）／SIL Open Font License 1.1。見本の組版・DESIGN LINEAGE。",
+        "selection_criterion": "広く知られた作品",
+        "selection_reason": "桑沢の学生と渋谷区の福祉事業所から生まれたシブヤフォントのうち、Google Fontsに採用された3書体の一つです。",
+        "selection_source": "https://note.com/shibuyafont_info/n/n106ca3fd6d8d",
+        "artist_source": "https://www.workcenter-hikawa.org/2017/08/30/%E3%82%B7%E3%83%96%E3%83%A4%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88/",
+        "underlying_work_rights": "シブヤフォントがSIL Open Font License 1.1で別途公開した版を使用しています。個人利用・商用利用の両方が認められています。",
+        "reproduction_rights": "図版は、配布されたままの書体データを本サイトで組版した見本です。書体を使って作った画像に、フォント自体のライセンスを引き継ぐ義務はありません。",
+        "original_font_sha256": "5954562e5fbb40fffe6361cbbcac0d4a4c9c5e2897d7b20876f294fbcc243f7f",
+        "width": 1500,
+        "height": 900,
+        "display_derivatives": {
+          "method": "同じ見本を全体が見える大小2サイズのWebPで掲載しています。",
+          "variants": [
+            {
+              "local_file": "assets/kuwasawa-design-school/shizuru-660.webp",
+              "width": 660,
+              "height": 396
+            }
+          ]
+        },
+        "sha256": "5e750e2191131d35036cd21786f17693d9f95f9e0ffa30a9a432f46531196c60",
+        "entry": "桑沢デザイン研究所",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "「い」の両側の線を目でたどってみてください。線と線の間隔が少しずつ変わります。丸みや太さを均一に整えすぎず、手で描いた揺れを残した書体です。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "桑沢の学生と渋谷区の福祉事業所から生まれたシブヤフォントのうち、Google Fontsに採用された3書体の一つです。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。 ／ ワークセンターひかわ・シブヤフォントの共同制作。シブヤフォントが書体データを公開。"
+        },
+        "original_image": {
+          "url": "https://raw.githubusercontent.com/shibuyafont/shizuru-font/d81cbacf44553b9a2fd2dda3613263930c8a77c1/fonts/ttf/Shizuru-Regular.ttf"
+        }
+      },
+      {
+        "year": "2018年（公開書体の初版は2020年）",
+        "title": "スリーディー・ロックフォント",
+        "title_original": "Rock 3D",
+        "author": "原字・AKAZUKI（むつみ工房）、デザイン・栗林里紗（桑沢デザイン研究所）",
+        "institution": "むつみ工房・シブヤフォントの共同制作。シブヤフォントが書体データを公開。",
+        "source_page": "https://www.gotouchifont.jp/downloads/2924/",
+        "viewing_point": "「あ」や「B」の端に、折り曲げた紙の側面のような線があります。「い」と数字の「1」を見比べると、短い線一本でも文字に厚みが生まれることがわかります。",
+        "alt": "アイボリーの地に、厚みを示す細い線が付いた手描きの「あいうえお」「アイウエオ」「ABCD 1234」が並ぶ。",
+        "id": "kuwasawa-shibuyafont-rock3d",
+        "local_file": "assets/kuwasawa-design-school/rock3d.webp",
+        "license": "書体の公開版はSIL Open Font License 1.1",
+        "license_url": "https://github.com/shibuyafont/3d-rock-font/blob/04e20f0b2387a7619f8e9e8b06cb9b5337f6a2fe/OFL.txt",
+        "work_source_page": "https://github.com/shibuyafont/3d-rock-font/tree/04e20f0b2387a7619f8e9e8b06cb9b5337f6a2fe",
+        "source_url": "https://raw.githubusercontent.com/shibuyafont/3d-rock-font/04e20f0b2387a7619f8e9e8b06cb9b5337f6a2fe/fonts/ttf/Rock3D-Regular.ttf",
+        "source_asset_kind": "font",
+        "medium": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。",
+        "photographer": "該当なし（書体データから組版）",
+        "credit": "書体・シブヤフォント（The Rock 3D Project Authors）／SIL Open Font License 1.1。見本の組版・DESIGN LINEAGE。",
+        "selection_criterion": "広く知られた作品",
+        "selection_reason": "桑沢の学生と渋谷区の福祉事業所から生まれたシブヤフォントのうち、Google Fontsに採用された3書体の一つです。",
+        "selection_source": "https://note.com/shibuyafont_info/n/n106ca3fd6d8d",
+        "artist_source": "https://www.kokugakuin.ac.jp/article/319764",
+        "underlying_work_rights": "シブヤフォントがSIL Open Font License 1.1で別途公開した版を使用しています。個人利用・商用利用の両方が認められています。",
+        "reproduction_rights": "図版は、配布されたままの書体データを本サイトで組版した見本です。書体を使って作った画像に、フォント自体のライセンスを引き継ぐ義務はありません。",
+        "original_font_sha256": "c95e67174335f12678fc309e321ad4e4099e9411b5a7a2edfbb5011116123f16",
+        "width": 1500,
+        "height": 900,
+        "display_derivatives": {
+          "method": "同じ見本を全体が見える大小2サイズのWebPで掲載しています。",
+          "variants": [
+            {
+              "local_file": "assets/kuwasawa-design-school/rock3d-660.webp",
+              "width": 660,
+              "height": 396
+            }
+          ]
+        },
+        "sha256": "fc7a013e6a06e2ddd52c311e68252eeefbd106658dca749e2d92ae9acc3d9c04",
+        "entry": "桑沢デザイン研究所",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "「あ」や「B」の端に、折り曲げた紙の側面のような線があります。「い」と数字の「1」を見比べると、短い線一本でも文字に厚みが生まれることがわかります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "桑沢の学生と渋谷区の福祉事業所から生まれたシブヤフォントのうち、Google Fontsに採用された3書体の一つです。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "デジタル書体。公開フォントの実際の字形を組んだ本サイトの見本。 ／ むつみ工房・シブヤフォントの共同制作。シブヤフォントが書体データを公開。"
+        },
+        "original_image": {
+          "url": "https://raw.githubusercontent.com/shibuyafont/3d-rock-font/04e20f0b2387a7619f8e9e8b06cb9b5337f6a2fe/fonts/ttf/Rock3D-Regular.ttf"
+        }
+      }
+    ],
     "reference_images": [],
-    "image_count_acquired": 0,
+    "image_count_acquired": 3,
     "reference_image_count": 0,
-    "image_status": "実作品画像の掲載許諾を確認中",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+    "image_status": "図版で紹介する作品は3作品。実作品図版3点、AAGA模写（Runway制作）0点。",
+    "status": "図版で紹介する作品は3作品。実作品図版3点、AAGA模写（Runway制作）0点。",
+    "checked_at": "2026-11-22T20:52:51+09:00"
   },
   {
     "name": "NID Ahmedabad",
@@ -30356,6 +31407,50 @@
         },
         "source_url": "https://projetoho.com.br/pt/helio-oiticica/1967/",
         "title_ja": "エデン（Éden）"
+      },
+      {
+        "id": "oficina-o-rei-da-vela-1967",
+        "title": "O Rei da Vela — montagem do Teatro Oficina",
+        "title_ja": "『ろうそくの王』第2幕の舞台",
+        "title_original": "O Rei da Vela — montagem do Teatro Oficina",
+        "creator": "オズワルド・ジ・アンドラージ（劇作）、ジョゼ・セルソ・マルチネス・コヘーア（演出）、エリオ・アイヒバウアー（舞台美術・衣装）、テアトロ・オフィシナ（上演）",
+        "date": "1967年9月初演",
+        "domain": "演劇の舞台美術・衣装（上演記録写真）",
+        "evidence": "https://ael.ifch.unicamp.br/index.php/node/181",
+        "reason": "俳優が左右へ伸ばした腕を追うと、その向こうに、人の背丈をはるかに超える曲線が見えます。平らな背景の絵と、手前で動く人とが一続きの模様に見える舞台です。"
+      },
+      {
+        "id": "veloso-alegria-alegria-1967",
+        "title": "Alegria, Alegria — III Festival da Música Popular Brasileira",
+        "title_ja": "アレグリア、アレグリア（1967年の音楽祭での上演）",
+        "title_original": "Alegria, Alegria — III Festival da Música Popular Brasileira",
+        "creator": "カエターノ・ヴェローゾ（作詞・作曲・歌）、ビート・ボーイズ（共演）",
+        "date": "1967年10月",
+        "domain": "テレビ音楽祭の舞台（当日の報道写真）",
+        "evidence": "https://memoriasdaditadura.org.br/fotografia/caetano-veloso-compositor-de-alegria-alegria/",
+        "reason": "ヴェローゾが広げた両腕の先まで目を動かすと、すぐ後ろのエレキギター、その奥の譜面台が同じ画面に収まります。テレビの観客には、歌手とバンド、楽団が一緒に映る舞台でした。"
+      },
+      {
+        "id": "gil-domingo-no-parque-1967",
+        "title": "Domingo no Parque — III Festival da Música Popular Brasileira",
+        "title_ja": "ドミンゴ・ノ・パルケ（1967年の音楽祭での上演）",
+        "title_original": "Domingo no Parque — III Festival da Música Popular Brasileira",
+        "creator": "ジルベルト・ジル（作詞・作曲・歌）、オス・ムタンチス（共演）",
+        "date": "1967年10月",
+        "domain": "テレビ音楽祭の舞台（当日の報道写真）",
+        "evidence": "https://memoriasdaditadura.org.br/fotografia/gilberto-gil-defenda-a-musica-domingo-no-parque-junto-aos-mutantes/",
+        "reason": "舞台の前に立つジルは、マイクから少し顔をそらし、腕を高く開いています。客席に向けた身ぶりと、右側に持ち上がったギターに注目すると、歌が舞台の動きにもなっている様子が分かります。"
+      },
+      {
+        "id": "roda-viva-todos-ao-palco-1968",
+        "title": "Todos ao palco!!! — filipeta do espetáculo Roda Viva",
+        "title_ja": "『ホーダ・ヴィーヴァ』の客席で配った紙片「みんな舞台へ！」",
+        "title_original": "Todos ao palco!!! — filipeta do espetáculo Roda Viva",
+        "creator": "『ホーダ・ヴィーヴァ』公演の制作陣（紙片の個人作者は不詳）。戯曲はシコ・ブアルキ、演出はジョゼ・セルソ・マルチネス・コヘーア。",
+        "date": "1968年",
+        "domain": "演劇の観客に渡した印刷物",
+        "evidence": "https://memoriasdaditadura.org.br/cultura/roda-viva-2/",
+        "reason": "上の一行は「みんな舞台へ！」。三つの感嘆符が付いています。その下では、細長い文字がびっしり並びます。観客が手に取る紙の上でも、舞台から呼びかけるように文字の声量を変えています。"
       }
     ],
     "sources": [
@@ -30388,7 +31483,7 @@
         ]
       }
     ],
-    "representativeness_limit": "ここでは美術家オイチシカの3作品から紹介します。音楽・演劇・映画を含む運動全体の代表例ではありません。",
+    "representativeness_limit": "オイチシカの三つの美術作品のほかに、劇場の舞台美術、テレビ音楽祭での二つの実演、観客を舞台に招いた紙片を取り上げます。写真には、演奏者の身ぶりや、客席から見えた舞台の配置も残っています。",
     "recognition_section_label": "作品をよく見るための手がかり",
     "modern_section_label": "いま、考えてみること",
     "reading_intro": {
@@ -30398,12 +31493,218 @@
       ],
       "looking_questions": []
     },
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "oficina-o-rei-da-vela-1967",
+        "local_file": "assets/tropicalismo/oficina-o-rei-da-vela-1967.jpg",
+        "work_source_page": "https://memoriasdaditadura.org.br/fotografia/encenacao-de-o-rei-da-vela-no-teatro-oficina-em-1967/",
+        "source_url": "https://memoriasdaditadura.org.br/wp-content/uploads/2023/10/1---Encenacao-de-O-rei-da-Vela-no-Teatro-Oficina-em-1967.jpg",
+        "license": "出典を示して再掲載可（Livre – Creditar a fonte）",
+        "license_url": "https://memoriasdaditadura.org.br/fotografia/encenacao-de-o-rei-da-vela-no-teatro-oficina-em-1967/",
+        "image_processing": "提供元のJPEGをそのまま掲載しています。",
+        "title": "『ろうそくの王』第2幕の舞台",
+        "title_original": "O Rei da Vela — montagem do Teatro Oficina",
+        "year": "1967年9月初演",
+        "author": "オズワルド・ジ・アンドラージ（劇作）、ジョゼ・セルソ・マルチネス・コヘーア（演出）、エリオ・アイヒバウアー（舞台美術・衣装）、テアトロ・オフィシナ（上演）",
+        "institution": "サンパウロ、テアトロ・オフィシナで初演。掲載写真は同劇団のアーカイブ。",
+        "medium": "演劇の舞台美術・衣装（上演記録写真）",
+        "source_page": "https://ael.ifch.unicamp.br/index.php/node/181",
+        "selection_criterion": "代表作",
+        "selection_reason": "劇団の資料を保存するカンピーナス州立大学は、この上演を、劇団がトロピカリズモの先頭に立った転機として紹介しています。",
+        "selection_source": "https://www.lizen.com.br/wp-content/uploads/2020/04/SALuizHenrique_HistoriasDeCenografiaEDesign.pdf#page=155",
+        "artist_source": "https://www.memorialage.com.br/wp-content/uploads/tainacan-items/26/1112/RG-0176.pdf",
+        "photographer": "このコマの撮影者名は、掲載元の目録に記載なし。",
+        "credit": "図版所蔵 Arquivo Teatro Oficina（テアトロ・オフィシナ・アーカイブ）。図版提供 Memórias da Ditadura／ウラジミール・エルゾーギ研究所。掲載元に撮影者名の記載なし。",
+        "underlying_work_rights": "劇団資料を公開した提供元は、この舞台写真を「出典を示して自由に利用可」と明記しています。",
+        "reproduction_rights": "提供元の写真目録に従い、劇団アーカイブと公開元を表示しています。目録の表題と日付欄にずれがあるため、年は撮影年ではなく舞台の初演年を示しました。",
+        "alt": "舞台奥の壁に巨大な曲線が描かれ、手前から奥まで、衣装の異なる俳優が両腕を広げて立っている。",
+        "viewing_point": "俳優が左右へ伸ばした腕を追うと、その向こうに、人の背丈をはるかに超える曲線が見えます。平らな背景の絵と、手前で動く人とが一続きの模様に見える舞台です。",
+        "width": 1920,
+        "height": 1153,
+        "sha256": "bfb5a0a0ea404c9a495f419c0a3e999d6643a49e24b33ace41a659df6f3ba347",
+        "entry": "Tropicalismo",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "俳優が左右へ伸ばした腕を追うと、その向こうに、人の背丈をはるかに超える曲線が見えます。平らな背景の絵と、手前で動く人とが一続きの模様に見える舞台です。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "劇団の資料を保存するカンピーナス州立大学は、この上演を、劇団がトロピカリズモの先頭に立った転機として紹介しています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "演劇の舞台美術・衣装（上演記録写真） ／ サンパウロ、テアトロ・オフィシナで初演。掲載写真は同劇団のアーカイブ。"
+        },
+        "original_image": {
+          "url": "https://memoriasdaditadura.org.br/wp-content/uploads/2023/10/1---Encenacao-de-O-rei-da-Vela-no-Teatro-Oficina-em-1967.jpg"
+        }
+      },
+      {
+        "medium": "テレビ音楽祭の舞台（当日の報道写真）",
+        "selection_criterion": "代表作",
+        "license": "提供元の表記はパブリックドメイン（Domínio público）",
+        "underlying_work_rights": "当日の舞台を写した報道写真を掲載しています。歌詞・楽譜・録音・テレビ映像は使用していません。",
+        "reproduction_rights": "写真の提供元は、この図版を「Livre – Domínio Público」（自由利用・パブリックドメイン）に分類しています。",
+        "title": "アレグリア、アレグリア（1967年の音楽祭での上演）",
+        "title_original": "Alegria, Alegria — III Festival da Música Popular Brasileira",
+        "year": "1967年10月",
+        "author": "カエターノ・ヴェローゾ（作詞・作曲・歌）、ビート・ボーイズ（共演）",
+        "institution": "1967年10月21日、サンパウロ。写真はブラジル国立公文書館所蔵、『コレイオ・ダ・マニャン』紙資料群、BR_RJANRIO_PH_0_FOT_47194_004。",
+        "source_page": "https://memoriasdaditadura.org.br/fotografia/caetano-veloso-compositor-de-alegria-alegria/",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.jpg",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.jpg#Licensing",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.jpg",
+        "photographer": "『コレイオ・ダ・マニャン』紙。撮影者個人の氏名は記録なし。",
+        "credit": "Public domain / Arquivo Nacional Collection（ブラジル国立公文書館）。『コレイオ・ダ・マニャン』紙、撮影者名不詳。国立公文書館とWikimediaの共同事業で公開。",
+        "alt": "舞台中央でヴェローゾが両腕を横に広げて歌う。背後にはギタリスト、ドラム、譜面台が並ぶ。",
+        "viewing_point": "ヴェローゾが広げた両腕の先まで目を動かすと、すぐ後ろのエレキギター、その奥の譜面台が同じ画面に収まります。テレビの観客には、歌手とバンド、楽団が一緒に映る舞台でした。",
+        "selection_reason": "ジルベルト・ジル研究所は、この音楽祭でのヴェローゾとジルの上演を運動の始まりに位置づけています。この曲は4位に入りました。",
+        "id": "veloso-alegria-alegria-1967",
+        "local_file": "assets/tropicalismo/veloso-alegria-alegria-1967.webp",
+        "selection_source": "https://artsandculture.google.com/asset/gilberto-gil-e-o-conjunto-os-mutantes-durante-apresenta%C3%A7%C3%A3o-no-iii-festival-da-m%C3%BAsica-popular-brasileira-da-tv-record/2gEnw43B-B-Jhw",
+        "width": 1600,
+        "height": 1057,
+        "display_derivatives": {
+          "method": "写真の縁まで収め、WebP形式で大小2枚に縮小しました。",
+          "variants": [
+            {
+              "local_file": "assets/tropicalismo/veloso-alegria-alegria-1967-660.webp",
+              "width": 660,
+              "height": 436
+            }
+          ]
+        },
+        "sha256": "72bc9bd440a4cb7c780ebe1ef79e67fa16ba2886fd24c81c246883c5e9e6a924",
+        "entry": "Tropicalismo",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "ヴェローゾが広げた両腕の先まで目を動かすと、すぐ後ろのエレキギター、その奥の譜面台が同じ画面に収まります。テレビの観客には、歌手とバンド、楽団が一緒に映る舞台でした。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "ジルベルト・ジル研究所は、この音楽祭でのヴェローゾとジルの上演を運動の始まりに位置づけています。この曲は4位に入りました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "テレビ音楽祭の舞台（当日の報道写真） ／ 1967年10月21日、サンパウロ。写真はブラジル国立公文書館所蔵、『コレイオ・ダ・マニャン』紙資料群、BR_RJANRIO_PH_0_FOT_47194_004。"
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Caetano_Veloso_no_III_Festival_da_M%C3%BAsica_Popular.jpg"
+        }
+      },
+      {
+        "medium": "テレビ音楽祭の舞台（当日の報道写真）",
+        "selection_criterion": "代表作",
+        "license": "提供元の表記はパブリックドメイン（Domínio público）",
+        "underlying_work_rights": "当日の舞台を写した報道写真を掲載しています。歌詞・楽譜・録音・テレビ映像は使用していません。",
+        "reproduction_rights": "写真の提供元は、この図版を「Livre – Domínio Público」（自由利用・パブリックドメイン）に分類しています。",
+        "title": "ドミンゴ・ノ・パルケ（1967年の音楽祭での上演）",
+        "title_original": "Domingo no Parque — III Festival da Música Popular Brasileira",
+        "year": "1967年10月",
+        "author": "ジルベルト・ジル（作詞・作曲・歌）、オス・ムタンチス（共演）",
+        "institution": "サンパウロ、第3回ブラジル大衆音楽祭。写真はブラジル国立公文書館所蔵、『コレイオ・ダ・マニャン』紙資料群。",
+        "source_page": "https://memoriasdaditadura.org.br/fotografia/gilberto-gil-defenda-a-musica-domingo-no-parque-junto-aos-mutantes/",
+        "work_source_page": "https://artsandculture.google.com/asset/gilberto-gil-e-o-conjunto-os-mutantes-durante-apresenta%C3%A7%C3%A3o-no-iii-festival-da-m%C3%BAsica-popular-brasileira-da-tv-record/2gEnw43B-B-Jhw",
+        "license_url": "https://memoriasdaditadura.org.br/fotografia/gilberto-gil-defenda-a-musica-domingo-no-parque-junto-aos-mutantes/",
+        "source_url": "https://memoriasdaditadura.org.br/wp-content/uploads/2023/12/Gilberto-Gil-defenda-a-mu%CC%81sica-Domingo-no-Parque-junto-aos-Mutantes.jpg",
+        "photographer": "『コレイオ・ダ・マニャン』紙。掲載元には撮影者個人の氏名の記載なし。",
+        "credit": "Domínio público / Acervo Arquivo Nacional（ブラジル国立公文書館）。『コレイオ・ダ・マニャン』紙、撮影者名不詳。図版提供 Memórias da Ditadura／ウラジミール・エルゾーギ研究所。",
+        "alt": "黒い上着のジルが舞台前方で両手を高く広げ、すぐ横にはギターを持つ人が立つ。手前にマイクや椅子が見える。",
+        "viewing_point": "舞台の前に立つジルは、マイクから少し顔をそらし、腕を高く開いています。客席に向けた身ぶりと、右側に持ち上がったギターに注目すると、歌が舞台の動きにもなっている様子が分かります。",
+        "selection_reason": "この上演は音楽祭の2位に入りました。トロピカリズモを率いたジルがオス・ムタンチスと共演し、テレビを通じてロックの楽器とブラジルの歌を同じ舞台に持ち込みました。",
+        "id": "gil-domingo-no-parque-1967",
+        "local_file": "assets/tropicalismo/gil-domingo-no-parque-1967.webp",
+        "selection_source": "https://artsandculture.google.com/asset/gilberto-gil-e-o-conjunto-os-mutantes-durante-apresenta%C3%A7%C3%A3o-no-iii-festival-da-m%C3%BAsica-popular-brasileira-da-tv-record/2gEnw43B-B-Jhw",
+        "width": 1600,
+        "height": 1019,
+        "display_derivatives": {
+          "method": "写真の縁まで収め、WebP形式で大小2枚に縮小しました。",
+          "variants": [
+            {
+              "local_file": "assets/tropicalismo/gil-domingo-no-parque-1967-660.webp",
+              "width": 660,
+              "height": 420
+            }
+          ]
+        },
+        "sha256": "d6de97a89a9427f1e8d8363a0ef70cddf2a5cd9f802fca17e9d100e0ff92c475",
+        "entry": "Tropicalismo",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "舞台の前に立つジルは、マイクから少し顔をそらし、腕を高く開いています。客席に向けた身ぶりと、右側に持ち上がったギターに注目すると、歌が舞台の動きにもなっている様子が分かります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "この上演は音楽祭の2位に入りました。トロピカリズモを率いたジルがオス・ムタンチスと共演し、テレビを通じてロックの楽器とブラジルの歌を同じ舞台に持ち込みました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "テレビ音楽祭の舞台（当日の報道写真） ／ サンパウロ、第3回ブラジル大衆音楽祭。写真はブラジル国立公文書館所蔵、『コレイオ・ダ・マニャン』紙資料群。"
+        },
+        "original_image": {
+          "url": "https://memoriasdaditadura.org.br/wp-content/uploads/2023/12/Gilberto-Gil-defenda-a-mu%CC%81sica-Domingo-no-Parque-junto-aos-Mutantes.jpg"
+        }
+      },
+      {
+        "id": "roda-viva-todos-ao-palco-1968",
+        "local_file": "assets/tropicalismo/roda-viva-todos-ao-palco-1968.jpg",
+        "work_source_page": "https://memoriasdaditadura.org.br/fotografia/ze-celso-foi-o-responsavel-por-dirigir-roda-viva-peca-escrita-por-chico-buarque-de-holanda/",
+        "source_url": "https://memoriasdaditadura.org.br/wp-content/uploads/2023/10/4---Ze-Celso-foi-o-responsavel-por-dirigir-Roda-Viva.jpg",
+        "license": "出典を示して再掲載可（Livre – Creditar a fonte）",
+        "license_url": "https://memoriasdaditadura.org.br/fotografia/ze-celso-foi-o-responsavel-por-dirigir-roda-viva-peca-escrita-por-chico-buarque-de-holanda/",
+        "image_processing": "提供元のJPEGをそのまま掲載しています。",
+        "title": "『ホーダ・ヴィーヴァ』の客席で配った紙片「みんな舞台へ！」",
+        "title_original": "Todos ao palco!!! — filipeta do espetáculo Roda Viva",
+        "year": "1968年",
+        "author": "『ホーダ・ヴィーヴァ』公演の制作陣（紙片の個人作者は不詳）。戯曲はシコ・ブアルキ、演出はジョゼ・セルソ・マルチネス・コヘーア。",
+        "institution": "フラヴィオ・インペリオ・アーカイブ所蔵。インペリオはこの公演で舞台美術と衣装を担当しました。",
+        "medium": "演劇の観客に渡した印刷物",
+        "source_page": "https://memoriasdaditadura.org.br/cultura/roda-viva-2/",
+        "selection_criterion": "研究の蓄積がある作品",
+        "selection_source": "https://repositorio.ufmg.br/server/api/core/bitstreams/3a590b12-e9f0-4fc1-9b1f-6e8beb85a8fc/content#page=166",
+        "artist_source": "https://www.itaucultural.org.br/ocupacao/flavio-imperio/multidao/",
+        "selection_reason": "この紙片は、舞台と客席の境を越えようとした作品の一部です。ミナスジェライス連邦大学の博士論文は現物を図35に掲載し、観客に投げかけた言葉の働きを論じています。",
+        "photographer": "撮影・デジタル化の担当者名は提供元に記載なし。",
+        "credit": "図版所蔵 Acervo Flávio Império。図版提供 Memórias da Ditadura／ウラジミール・エルゾーギ研究所。撮影・デジタル化の担当者名は掲載元に記載なし。",
+        "underlying_work_rights": "所蔵先を明記してこの紙片の図版を提供する資料ページに、出典を示して使用できる旨が記されています。",
+        "reproduction_rights": "資料ページの「Livre – Creditar a fonte」に従い、所蔵・公開元を表示しています。図版下端にある元のクレジットも収録しています。",
+        "alt": "明るい色の横長の紙に、太い見出し「TODOS AO PALCO!!!」と、縦長の文字の本文3行が印刷されている。",
+        "viewing_point": "上の一行は「みんな舞台へ！」。三つの感嘆符が付いています。その下では、細長い文字がびっしり並びます。観客が手に取る紙の上でも、舞台から呼びかけるように文字の声量を変えています。",
+        "width": 1920,
+        "height": 1001,
+        "sha256": "3d0c918a8ee93a890f08158de82489c49b4b8eaa73855ad28a0d2c9610a5e951",
+        "entry": "Tropicalismo",
+        "checked_at": "2026-11-22T20:52:51+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "上の一行は「みんな舞台へ！」。三つの感嘆符が付いています。その下では、細長い文字がびっしり並びます。観客が手に取る紙の上でも、舞台から呼びかけるように文字の声量を変えています。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "この紙片は、舞台と客席の境を越えようとした作品の一部です。ミナスジェライス連邦大学の博士論文は現物を図35に掲載し、観客に投げかけた言葉の働きを論じています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "演劇の観客に渡した印刷物 ／ フラヴィオ・インペリオ・アーカイブ所蔵。インペリオはこの公演で舞台美術と衣装を担当しました。"
+        },
+        "original_image": {
+          "url": "https://memoriasdaditadura.org.br/wp-content/uploads/2023/10/4---Ze-Celso-foi-o-responsavel-por-dirigir-Roda-Viva.jpg"
+        }
+      }
+    ],
     "reference_images": [],
-    "image_count_acquired": 0,
+    "image_count_acquired": 4,
     "reference_image_count": 0,
-    "image_status": "実作品画像の掲載許諾を確認中",
-    "status": "本文公開・実作品画像0点／画像の収録は継続中"
+    "image_status": "図版で紹介する作品は4作品。実作品図版4点、AAGA模写（Runway制作）0点。",
+    "status": "図版で紹介する作品は4作品。実作品図版4点、AAGA模写（Runway制作）0点。",
+    "checked_at": "2026-11-22T20:52:51+09:00"
   },
   {
     "name": "Négritude と視覚文化",

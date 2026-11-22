@@ -437,7 +437,7 @@ const records = {
   "supergraphics": {
     "sort_year": 1960,
     "basis": "表現の展開",
-    "source_period": "1960年代から。本文は1960年代の仕事と2018–2023年の展開を比較",
+    "source_period": "1960年代から。本文は1960年代の仕事と2011–2023年の展開を比較",
     "source_article": "entries/supergraphics.html",
     "precision": "approximate-period",
     "catalog_rank": 54
