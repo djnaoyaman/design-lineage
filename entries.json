@@ -5142,7 +5142,7 @@
           ]
         },
         "sha256": "caa96ff8a7b29b4518d6fc605b41e08b0155f05b44ece50be1a9cee4c75a989b",
-        "checked_at": "2026-11-22T15:05:36+09:00",
+        "checked_at": "2026-11-22T15:11:02+09:00",
         "visual_notes": [
           {
             "title": "見るポイント",
@@ -5195,7 +5195,7 @@
           ]
         },
         "sha256": "19ea54c5cae576431c2b448b709a0a9fbfa230a716177cfd59c385b634c95bc9",
-        "checked_at": "2026-11-22T15:05:36+09:00",
+        "checked_at": "2026-11-22T15:11:02+09:00",
         "visual_notes": [
           {
             "title": "見るポイント",
@@ -5248,7 +5248,7 @@
           ]
         },
         "sha256": "69d3f25eb07faa630ed8d3df0c47c110e5862fdcb62b8c66e5c87d868a24f31a",
-        "checked_at": "2026-11-22T15:05:36+09:00",
+        "checked_at": "2026-11-22T15:11:02+09:00",
         "visual_notes": [
           {
             "title": "見るポイント",
@@ -5302,7 +5302,7 @@
         },
         "institution_source": "https://ci.nii.ac.jp/ncid/BA56203108",
         "sha256": "00d55da0658ac3f36eeebdd227cc640cc1b15b31019fbb35c0f3ba1d68ba1211",
-        "checked_at": "2026-11-22T15:05:36+09:00",
+        "checked_at": "2026-11-22T15:11:02+09:00",
         "visual_notes": [
           {
             "title": "見るポイント",
@@ -5344,7 +5344,7 @@
       "armin-hofmann",
       "carlo-vivarelli"
     ],
-    "checked_at": "2026-11-22T15:05:36+09:00"
+    "checked_at": "2026-11-22T15:11:02+09:00"
   },
   {
     "name": "Postmodernism",
@@ -10339,7 +10339,7 @@
     ],
     "overview_evidence_status": "source-linked text draft; individual permissions and image acquisition incomplete",
     "primary_reviewed": true,
-    "representative_count": 3,
+    "representative_count": 7,
     "ideal_target_count": "3–5",
     "context_only_objects": [
       {
@@ -10352,12 +10352,12 @@
         "rights": "未確認・未採用"
       }
     ],
-    "representativeness_limit": "今の3候補は、都市の争い、政治的な象徴、魯迅（ろじん）の記憶を中心にしています。農村の暮らし、地域ごとの違い、1940年代以降の制作をすべてカバーするセットではありません。古元（こげん）らの候補も、引き続き資料を確かめています。",
+    "representativeness_limit": "風景や働く人々を描いた木刻と、都市での抗議や魯迅（ろじん）の記憶を扱う作品を紹介します。同じ時代の版画でも、誰の生活をどう見せるかによって、線の彫り方と黒い面の使い方が変わります。",
     "rights_cleared_adoptable_candidates": [],
-    "image_count_acquired": 0,
+    "image_count_acquired": 4,
     "publication_allowed": true,
     "image_publication_allowed": false,
-    "publication_status": "source_linked_text_draft_not_image_complete",
+    "publication_status": "published_article_image_collection_in_progress",
     "slug": "china-new-woodcut",
     "reviewed_representatives": [
       {
@@ -10469,33 +10469,8 @@
         "image_reuse": "no free commercial clearance established"
       }
     ],
-    "status": "本文試作・代表作の個別監査中 / 画像未収録",
+    "status": "本文・作品図録公開（実作品画像4点）",
     "representatives": [
-      {
-        "title": "怒吼吧，中国!（Roar, China!）",
-        "creator": "李桦（李樺／Li Hua）",
-        "date": "1935（中国美術館記録）",
-        "domain": "黒白木刻・政治的象徴",
-        "reason": "中国美術館は、縛られて目を覆われた人物を、人を押さえつける力と、それに抵抗する力の象徴として説明しています。光や影を写実的に再現するより、線を残して周りを彫る「陽刻（ようこく）」と、黒と白の差を生かしています。短く強い視覚表現で、社会への訴えを伝える例です。",
-        "limitation": "館の記録では20 × 15 cmです。作品が1935年につくられたことと、掲載するものがいつ、どの状態で刷られたかは、別に確認します。政治的な象徴を表す一作です。運動全体の暮らしの描き方や地域ごとの違いは、別の候補で補います。",
-        "evidence": "https://www.namoc.org/zgmsg/banh/201304/a2bfacae99f241c49859510e81e8aad0.shtml",
-        "identity_checks": [
-          "版・摺り・後年の複製と個別所蔵資料を照合する。",
-          "原作品と写真/複製画像の商用条件を別に確認する。"
-        ],
-        "work_rights": "未確認・自由利用の明示なし",
-        "reproduction_rights": "未確認・サイト閲覧可能であることを許諾としない",
-        "commercial_use": "未確認・掲載不可",
-        "image_adoption": "保留",
-        "reading_intro": {
-          "heading": "木をほり、白と黒で一人の体を描く。",
-          "lead": [
-            "しばられ、目をおおわれた人を描いた絵です。",
-            "中国美術館は、押さえつける力と、それに立ち向かう力を表すと説明しています。",
-            "細い線と黒い所の分け方が、見る手がかりになります。"
-          ]
-        }
-      },
       {
         "title": "要求抗战者杀（館題の訳：抗戦を要求する者を殺せ）",
         "creator": "江丰（江豊／Jiang Feng）",
@@ -10518,6 +10493,75 @@
             "デモをする人々への暴力を描いた作品です。",
             "大きな黒い所と、斜めに走る形を使っています。",
             "一人を大きく描く絵とは違う、集団の出来事の伝え方です。"
+          ]
+        }
+      },
+      {
+        "id": "china-woodcut-1933-he-cattle",
+        "title": "牛",
+        "title_ja": "牛",
+        "title_original": "牛",
+        "creator": "何白濤（He Baitao）",
+        "date": "1933年刊（制作は同年以前）",
+        "domain": "白黒木版画（1933年の選集に印刷された図版）",
+        "evidence": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=5",
+        "reason": "いちばん近い牛と、奥にいる牛の大きさを比べてみてください。牛の体の黒を大きく残し、地面には白い横線を刻むことで、草地の広さを表しています。"
+      },
+      {
+        "id": "china-woodcut-1933-xia-sweeper",
+        "title": "清道夫",
+        "title_ja": "道を掃除する人たち",
+        "title_original": "清道夫",
+        "creator": "夏朋（Xia Peng）",
+        "date": "1933年刊（制作は同年以前）",
+        "domain": "白黒木版画（1933年の選集に印刷された図版）",
+        "evidence": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=8",
+        "reason": "人の袖から手押し車の車輪へ、白い線を目でたどってみてください。背景をほとんど黒く残しているので、働く二人の手元がよく見えます。"
+      },
+      {
+        "id": "china-woodcut-1933-xia-market",
+        "title": "早市",
+        "title_ja": "朝市",
+        "title_original": "早市",
+        "creator": "夏朋（Xia Peng）",
+        "date": "1933年刊（制作は同年以前）",
+        "domain": "白黒木版画（1933年の選集に印刷された図版）",
+        "evidence": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=9",
+        "reason": "画面下のかごから奥へ視線を移すと、肩、帽子、顔が次々に重なります。市場の建物を広く描かなくても、人でいっぱいの朝の様子が伝わります。"
+      },
+      {
+        "id": "china-woodcut-1933-xia-carriage",
+        "title": "四等車箱",
+        "title_ja": "四等客車",
+        "title_original": "四等車箱",
+        "creator": "夏朋（Xia Peng）",
+        "date": "1933年刊（制作は同年以前）",
+        "domain": "白黒木版画（1933年の選集に印刷された図版）",
+        "evidence": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=10",
+        "reason": "手前の二人を見比べてください。帽子の傾き、目もと、丸く曲がった指が一人ずつ違います。奥の席にいる人を小さく重ねて、狭い車内に奥行きを出しています。"
+      },
+      {
+        "title": "怒吼吧，中国!（Roar, China!）",
+        "creator": "李桦（李樺／Li Hua）",
+        "date": "1935（中国美術館記録）",
+        "domain": "黒白木刻・政治的象徴",
+        "reason": "中国美術館は、縛られて目を覆われた人物を、人を押さえつける力と、それに抵抗する力の象徴として説明しています。光や影を写実的に再現するより、線を残して周りを彫る「陽刻（ようこく）」と、黒と白の差を生かしています。短く強い視覚表現で、社会への訴えを伝える例です。",
+        "limitation": "館の記録では20 × 15 cmです。作品が1935年につくられたことと、掲載するものがいつ、どの状態で刷られたかは、別に確認します。政治的な象徴を表す一作です。運動全体の暮らしの描き方や地域ごとの違いは、別の候補で補います。",
+        "evidence": "https://www.namoc.org/zgmsg/banh/201304/a2bfacae99f241c49859510e81e8aad0.shtml",
+        "identity_checks": [
+          "版・摺り・後年の複製と個別所蔵資料を照合する。",
+          "原作品と写真/複製画像の商用条件を別に確認する。"
+        ],
+        "work_rights": "未確認・自由利用の明示なし",
+        "reproduction_rights": "未確認・サイト閲覧可能であることを許諾としない",
+        "commercial_use": "未確認・掲載不可",
+        "image_adoption": "保留",
+        "reading_intro": {
+          "heading": "木をほり、白と黒で一人の体を描く。",
+          "lead": [
+            "しばられ、目をおおわれた人を描いた絵です。",
+            "中国美術館は、押さえつける力と、それに立ち向かう力を表すと説明しています。",
+            "細い線と黒い所の分け方が、見る手がかりになります。"
           ]
         }
       },
@@ -10548,7 +10592,228 @@
     ],
     "period_band_note": "本文で確認した始まりや主な活動時期を、大まかに分けています。正確な開始・終了の年や、影響が続いた期間を示すものではありません。",
     "external_preview_images": [],
-    "adopted_images": [],
+    "adopted_images": [
+      {
+        "id": "china-woodcut-1933-he-cattle",
+        "title": "牛",
+        "title_original": "牛",
+        "author": "何白濤（He Baitao）",
+        "year": "1933年刊（制作は同年以前）",
+        "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+        "medium": "白黒木版画（1933年の選集に印刷された図版）",
+        "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=5",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+        "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+        "credit": "何白濤（He Baitao）／上海・現代雑誌社編『現代中國木刻選』第3図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+        "alt": "手前に黒い牛、奥に小さな牛が並ぶ。地面と空には横向きの白い線が走る。",
+        "viewing_point": "いちばん近い牛と、奥にいる牛の大きさを比べてみてください。牛の体の黒を大きく残し、地面には白い横線を刻むことで、草地の広さを表しています。",
+        "selection_criterion": "初期を代表する作例。葉霊鳳が上海の木刻家に作品を求め、新しい中国木刻を紹介するために選んだ8点のうち、3番目に掲載した農村風景です。",
+        "local_file": "assets/china-new-woodcut/he-cattle.webp",
+        "underlying_work_rights": "何白濤は1939年没。中国の当時の著作権法21条による死後50年は1989年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+        "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+        "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+        "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+        "artist_source": "https://www.namoc.cn/namoc/banh/201304/0634635fcfe547c68a00a91699a74ca4.shtml",
+        "selection_source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=2",
+        "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+        "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+        "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "width": 1400,
+        "height": 879,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/china-new-woodcut/he-cattle-small.webp",
+              "width": 480,
+              "height": 301
+            }
+          ]
+        },
+        "sha256": "6b0fbe4ebd055ce8993aed88822ed9d05642122f99a4764943bd3b2b5efabd2f",
+        "entry": "中国新興木刻運動",
+        "checked_at": "2026-11-22T15:11:02+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "いちばん近い牛と、奥にいる牛の大きさを比べてみてください。牛の体の黒を大きく残し、地面には白い横線を刻むことで、草地の広さを表しています。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "初期を代表する作例。葉霊鳳が上海の木刻家に作品を求め、新しい中国木刻を紹介するために選んだ8点のうち、3番目に掲載した農村風景です。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+        }
+      },
+      {
+        "id": "china-woodcut-1933-xia-sweeper",
+        "title": "道を掃除する人たち",
+        "title_original": "清道夫",
+        "author": "夏朋（Xia Peng）",
+        "year": "1933年刊（制作は同年以前）",
+        "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+        "medium": "白黒木版画（1933年の選集に印刷された図版）",
+        "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=8",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+        "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+        "credit": "夏朋（Xia Peng）／上海・現代雑誌社編『現代中國木刻選』第6図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+        "alt": "帽子をかぶった二人が手押し車のわきに立つ。車輪と作業着の袖が白く浮く。",
+        "viewing_point": "人の袖から手押し車の車輪へ、白い線を目でたどってみてください。背景をほとんど黒く残しているので、働く二人の手元がよく見えます。",
+        "selection_criterion": "初期を代表する作例。1933年の選集の第6図。魯迅もこの作品を収集し、近代版画研究者の李允経が『魯迅蔵画欣賞』で取り上げました。",
+        "local_file": "assets/china-new-woodcut/xia-sweeper.webp",
+        "underlying_work_rights": "夏朋は1935年没。中国の当時の著作権法21条による死後50年は1985年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+        "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+        "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+        "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+        "artist_source": "https://www.caa.edu.cn/info/1333/3468.htm",
+        "selection_source": "https://msb.zjol.com.cn/html/2011-07/09/content_949251.htm?div=-1",
+        "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+        "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+        "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "width": 1203,
+        "height": 1400,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/china-new-woodcut/xia-sweeper-small.webp",
+              "width": 412,
+              "height": 480
+            }
+          ]
+        },
+        "sha256": "8b7a4e9becbb82098e0e3612fc9af09568b05c7b90e2a01605718ad089a1303f",
+        "entry": "中国新興木刻運動",
+        "checked_at": "2026-11-22T15:11:02+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "人の袖から手押し車の車輪へ、白い線を目でたどってみてください。背景をほとんど黒く残しているので、働く二人の手元がよく見えます。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "初期を代表する作例。1933年の選集の第6図。魯迅もこの作品を収集し、近代版画研究者の李允経が『魯迅蔵画欣賞』で取り上げました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+        }
+      },
+      {
+        "id": "china-woodcut-1933-xia-market",
+        "title": "朝市",
+        "title_original": "早市",
+        "author": "夏朋（Xia Peng）",
+        "year": "1933年刊（制作は同年以前）",
+        "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+        "medium": "白黒木版画（1933年の選集に印刷された図版）",
+        "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=9",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+        "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+        "credit": "夏朋（Xia Peng）／上海・現代雑誌社編『現代中國木刻選』第7図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+        "alt": "人の顔と肩が折り重なる朝市。手前には、丸い品物を載せた大きなかごが見える。",
+        "viewing_point": "画面下のかごから奥へ視線を移すと、肩、帽子、顔が次々に重なります。市場の建物を広く描かなくても、人でいっぱいの朝の様子が伝わります。",
+        "selection_criterion": "初期を代表する作例。葉霊鳳が上海の木刻家から選んだ8点の第7図です。道の掃除、朝市、車内を描いた夏朋の3作が続き、街で暮らす人を題材にした初期の木刻を伝えます。",
+        "local_file": "assets/china-new-woodcut/xia-market.webp",
+        "underlying_work_rights": "夏朋は1935年没。中国の当時の著作権法21条による死後50年は1985年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+        "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+        "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+        "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+        "artist_source": "https://www.caa.edu.cn/info/1333/3468.htm",
+        "selection_source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=2",
+        "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+        "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+        "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "width": 1116,
+        "height": 1400,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/china-new-woodcut/xia-market-small.webp",
+              "width": 383,
+              "height": 480
+            }
+          ]
+        },
+        "sha256": "b7db9f92903111536a37503f52fb50950ba8587b4ec91d8aa6254b63d5a46a5b",
+        "entry": "中国新興木刻運動",
+        "checked_at": "2026-11-22T15:11:02+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "画面下のかごから奥へ視線を移すと、肩、帽子、顔が次々に重なります。市場の建物を広く描かなくても、人でいっぱいの朝の様子が伝わります。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "初期を代表する作例。葉霊鳳が上海の木刻家から選んだ8点の第7図です。道の掃除、朝市、車内を描いた夏朋の3作が続き、街で暮らす人を題材にした初期の木刻を伝えます。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+        }
+      },
+      {
+        "id": "china-woodcut-1933-xia-carriage",
+        "title": "四等客車",
+        "title_original": "四等車箱",
+        "author": "夏朋（Xia Peng）",
+        "year": "1933年刊（制作は同年以前）",
+        "institution": "掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。",
+        "medium": "白黒木版画（1933年の選集に印刷された図版）",
+        "source_page": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=10",
+        "work_source_page": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "license": "原作品は保護期間満了。1933年刊の平面印刷物をスキャンした図版。",
+        "license_url": "https://www.wipo.int/wipolex/en/text/475034",
+        "credit": "夏朋（Xia Peng）／上海・現代雑誌社編『現代中國木刻選』第8図。上海図書館蔵本、中国国家図書館デジタル資料。撮影者の記載なし。",
+        "alt": "客車に座る人たち。手前の二人の顔と手が大きく、後ろの席にも乗客が見える。",
+        "viewing_point": "手前の二人を見比べてください。帽子の傾き、目もと、丸く曲がった指が一人ずつ違います。奥の席にいる人を小さく重ねて、狭い車内に奥行きを出しています。",
+        "selection_criterion": "初期を代表する作例。選集の最後を飾る第8図で、当時の出版物がどのような街の場面を読者に届けようとしたかを示します。原題は図録の目次と図版下に従いました。",
+        "local_file": "assets/china-new-woodcut/xia-carriage.webp",
+        "underlying_work_rights": "夏朋は1935年没。中国の当時の著作権法21条による死後50年は1985年末で満了。上海の1933年刊行本に米国の著作権表示は見られず、米国での回復の基準日である1996年1月1日より前に本国で保護期間が満了。",
+        "reproduction_rights": "平面の木版画を収めた1933年刊行本を正面からスキャンした白黒画像。公開ファイルから作品の版面と周囲の余白を抜き出しました。",
+        "reuse_notice": "1933年刊行本の印刷を伝える資料です。原版の材質やインクの実際の色はこの白黒画像では確かめられません。",
+        "publication_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=47&showType=1&indexName=data_511&fid=027032013014354",
+        "artist_source": "https://www.caa.edu.cn/info/1333/3468.htm",
+        "selection_source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf#page=2",
+        "us_restoration_source": "https://www.copyright.gov/title17/92chap1.html#104a",
+        "us_publication_source": "https://guides.library.cornell.edu/copyright/publicdomain",
+        "digitization_source": "https://commons.wikimedia.org/wiki/File:NLC511-027032013014354-17160_%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9C%8B%E6%9C%A8%E5%88%BB%E9%81%B8.pdf",
+        "width": 1400,
+        "height": 1176,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/china-new-woodcut/xia-carriage-small.webp",
+              "width": 480,
+              "height": 403
+            }
+          ]
+        },
+        "sha256": "2672dc90f0ea4235f56dc1e4761a22af217d565defe5dea1058bf91d79c7798c",
+        "entry": "中国新興木刻運動",
+        "checked_at": "2026-11-22T15:11:02+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "手前の二人を見比べてください。帽子の傾き、目もと、丸く曲がった指が一人ずつ違います。奥の席にいる人を小さく重ねて、狭い車内に奥行きを出しています。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "初期を代表する作例。選集の最後を飾る第8図で、当時の出版物がどのような街の場面を読者に届けようとしたかを示します。原題は図録の目次と図版下に従いました。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "白黒木版画（1933年の選集に印刷された図版） ／ 掲載本は上海図書館蔵（蔵書印あり）。中国国家図書館の民国図書データベース収録。"
+        }
+      }
+    ],
     "generated_style_images": [],
     "generated_style_image_count": 0,
     "reference_images": [],
@@ -10567,7 +10832,8 @@
         "作品を見るなら、広く黒くなった所と、細い線の所はどこでしょう。",
         "一人を描いた絵と、大勢を描いた絵では、人の動きがどう違って見えるでしょう。"
       ]
-    }
+    },
+    "checked_at": "2026-11-22T15:11:02+09:00"
   },
   {
     "name": "Santiniketan",
@@ -22856,7 +23122,7 @@
         },
         "sha256": "c9934e292c260c4bc14121f24f07bad6debf666141600834e52488a66e271ad0",
         "entry": "Black Mountain College",
-        "checked_at": "2026-11-22T15:05:36+09:00",
+        "checked_at": "2026-11-22T15:11:02+09:00",
         "visual_notes": [
           {
             "title": "見るポイント",
@@ -22883,7 +23149,7 @@
     "generated_style_image_count": 0,
     "status": "本文・作品図録公開（実作品画像1点）",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-22T15:05:36+09:00",
+    "checked_at": "2026-11-22T15:11:02+09:00",
     "period_bands": [
       "1900-1949",
       "1950-1999"
@@ -23573,7 +23839,7 @@
         },
         "sha256": "be314e426a953e2d32842256cd2f1333a5ef5dc1e28d7fb8a7162010d369a921",
         "entry": "Polish Poster School",
-        "checked_at": "2026-11-22T15:05:36+09:00",
+        "checked_at": "2026-11-22T15:11:02+09:00",
         "visual_notes": [
           {
             "title": "見るポイント",
@@ -23600,7 +23866,7 @@
     "generated_style_image_count": 0,
     "status": "本文・作品図録公開（実作品画像1点）",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-22T15:05:36+09:00",
+    "checked_at": "2026-11-22T15:11:02+09:00",
     "period_bands": [
       "1950-1999"
     ],
@@ -26025,7 +26291,7 @@
         "見た目の驚きの先に、どんな問いがあるでしょう。"
       ]
     },
-    "representativeness_limit": "アーキズームとスーパースタジオの3例に範囲を絞りました。ラディカル・デザイン全体をこの2組だけで代表させるものではありません。",
+    "representativeness_limit": "家具や都市の構想に加えて、人の動きや、建物に一時的に手を加えることで場所の見え方を変えた実験も紹介します。作品によって、現物や模型が残る場合と、そのときの行為を写真でたどる場合があります。",
     "sources": [
       {
         "id": "moma-radical",
@@ -26099,18 +26365,202 @@
           ]
         },
         "title_ja": "《12の理想都市》の《第一の都市》"
+      },
+      {
+        "id": "radical-design-pettena-chairs",
+        "title": "Vestirsi di sedie / Wearable Chairs",
+        "title_ja": "着る椅子",
+        "title_original": "Vestirsi di sedie / Wearable Chairs",
+        "creator": "ジャンニ・ペッテナ",
+        "date": "1971",
+        "domain": "合板製の折り畳み椅子を使ったパフォーマンスの記録写真",
+        "evidence": "https://commons.wikimedia.org/wiki/File:WEARABLE_CHAIRS.jpg",
+        "reason": "背負った四角い板は、広げると椅子になります。椅子を街へ持ち出すことで、歩く場所を座れる場所にも変えています。"
+      },
+      {
+        "id": "radical-design-pettena-ice",
+        "title": "Ice House I",
+        "title_ja": "アイス・ハウス I（計画を示す写真）",
+        "title_original": "Ice House I",
+        "creator": "ジャンニ・ペッテナ",
+        "date": "1971",
+        "domain": "氷で家を包む計画を示す写真",
+        "evidence": "https://commons.wikimedia.org/wiki/File:Gianni_Pettena_-_Ice_House_I-_Minneapolis_1971.jpg",
+        "reason": "屋根の縁から壁を伝って垂れる氷を見ると、家の角や窓の形が隠れていきます。これは構想を伝える写真で、実物大での施工は確認されていません。"
+      },
+      {
+        "id": "radical-design-pettena-tumble",
+        "title": "Tumbleweeds Catcher",
+        "title_ja": "タンブルウィード・キャッチャー",
+        "title_original": "Tumbleweeds Catcher",
+        "creator": "ジャンニ・ペッテナ",
+        "date": "1972",
+        "domain": "転がる枯れ草を受け止める塔の記録写真",
+        "evidence": "https://commons.wikimedia.org/wiki/File:Tumbleweeds_Catcher_-_Salt_Lake_City_-_USA_1972-01.jpg",
+        "reason": "風に押されて転がってきた枯れ草を、塔の網が受け止めます。初めは向こうが透けて見える塔が、集まる草の量で姿を変えます。"
       }
     ],
-    "adopted_images": [],
-    "image_count_acquired": 0,
+    "adopted_images": [
+      {
+        "id": "radical-design-pettena-chairs",
+        "title": "着る椅子",
+        "title_original": "Vestirsi di sedie / Wearable Chairs",
+        "author": "ジャンニ・ペッテナ",
+        "year": "1971",
+        "institution": "ポンピドゥー・センター（フランス国立造形芸術センター寄託）。カナダ建築センターにも制作資料を所蔵",
+        "medium": "合板製の折り畳み椅子を使ったパフォーマンスの記録写真",
+        "source_page": "https://commons.wikimedia.org/wiki/File:WEARABLE_CHAIRS.jpg",
+        "work_source_page": "https://www.cca.qc.ca/en/archives/503850/gianni-pettena-fonds/509516/works/509541/vestirsi-di-siede-wearable-chairs-1971",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "作品・掲載画像の著作者表示　Gianni Pettena / Wikimedia Commons（CC BY-SA 3.0）。WebPに変換・縮小。",
+        "photographer": "掲載元の著作者表示は Gianni Pettena",
+        "alt": "折り畳んだ椅子を背負った人たちが、ミネアポリスの街路を歩いている。",
+        "viewing_point": "背負った四角い板は、広げると椅子になります。椅子を街へ持ち出すことで、歩く場所を座れる場所にも変えています。",
+        "selection_criterion": "研究の蓄積がある作品。カナダ建築センターが制作資料を、ポンピドゥー・センターが椅子と関連資料を収蔵しています。",
+        "local_file": "assets/radical-design/pettena-chairs.webp",
+        "underlying_work_rights": "作品の作者ジャンニ・ペッテナが、作品を写した掲載画像を自作として CC BY-SA 3.0 で公開。",
+        "reproduction_rights": "Gianni Pettena / CC BY-SA 3.0。掲載元の原画像から WebP に変換・縮小。",
+        "reuse_notice": "再利用の際は Gianni Pettena の氏名、掲載元、CC BY-SA 3.0 の条件と変更の有無を表示してください。翻案した画像は同じ条件で配布してください。",
+        "width": 640,
+        "height": 823,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/radical-design/pettena-chairs-thumb.webp",
+              "width": 513,
+              "height": 660
+            }
+          ]
+        },
+        "sha256": "946e9e6a4c17a0131a11e9d45921676a195611dede6708765787de52a54cf956",
+        "entry": "Radical Design",
+        "checked_at": "2026-11-22T15:11:02+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "背負った四角い板は、広げると椅子になります。椅子を街へ持ち出すことで、歩く場所を座れる場所にも変えています。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "研究の蓄積がある作品。カナダ建築センターが制作資料を、ポンピドゥー・センターが椅子と関連資料を収蔵しています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "合板製の折り畳み椅子を使ったパフォーマンスの記録写真 ／ ポンピドゥー・センター（フランス国立造形芸術センター寄託）。カナダ建築センターにも制作資料を所蔵"
+        }
+      },
+      {
+        "id": "radical-design-pettena-ice",
+        "title": "アイス・ハウス I（計画を示す写真）",
+        "title_original": "Ice House I",
+        "author": "ジャンニ・ペッテナ",
+        "year": "1971",
+        "institution": "カナダ建築センター、ジャンニ・ペッテナ文書群（同計画の写真を所蔵）",
+        "medium": "氷で家を包む計画を示す写真",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Gianni_Pettena_-_Ice_House_I-_Minneapolis_1971.jpg",
+        "work_source_page": "https://www.cca.qc.ca/en/search/details/collection/object/509543",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "作品・掲載画像の著作者表示　Gianni Pettena / Wikimedia Commons（CC BY-SA 3.0）。WebPに変換・縮小。",
+        "photographer": "掲載元の著作者表示は Gianni Pettena",
+        "alt": "氷の層で屋根や外壁が白く覆われた建物が、青空の下にある。",
+        "viewing_point": "屋根の縁から壁を伝って垂れる氷を見ると、家の角や窓の形が隠れていきます。これは構想を伝える写真で、実物大での施工は確認されていません。",
+        "selection_criterion": "研究の蓄積がある作品。カナダ建築センターに計画図、写真、ネガが残ります。",
+        "local_file": "assets/radical-design/pettena-ice.webp",
+        "underlying_work_rights": "作品の作者ジャンニ・ペッテナが、作品を写した掲載画像を自作として CC BY-SA 3.0 で公開。",
+        "reproduction_rights": "Gianni Pettena / CC BY-SA 3.0。掲載元の原画像から WebP に変換・縮小。",
+        "reuse_notice": "再利用の際は Gianni Pettena の氏名、掲載元、CC BY-SA 3.0 の条件と変更の有無を表示してください。翻案した画像は同じ条件で配布してください。",
+        "width": 1250,
+        "height": 1062,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/radical-design/pettena-ice-thumb.webp",
+              "width": 660,
+              "height": 561
+            }
+          ]
+        },
+        "sha256": "cb6e00b4613b7591ff6f14948ac29812b0c37cc0041da88b1ba3ca5f045b6077",
+        "entry": "Radical Design",
+        "checked_at": "2026-11-22T15:11:02+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "屋根の縁から壁を伝って垂れる氷を見ると、家の角や窓の形が隠れていきます。これは構想を伝える写真で、実物大での施工は確認されていません。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "研究の蓄積がある作品。カナダ建築センターに計画図、写真、ネガが残ります。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "氷で家を包む計画を示す写真 ／ カナダ建築センター、ジャンニ・ペッテナ文書群（同計画の写真を所蔵）"
+        }
+      },
+      {
+        "id": "radical-design-pettena-tumble",
+        "title": "タンブルウィード・キャッチャー",
+        "title_original": "Tumbleweeds Catcher",
+        "author": "ジャンニ・ペッテナ",
+        "year": "1972",
+        "institution": "カナダ建築センター、ジャンニ・ペッテナ文書群（図面と記録写真を所蔵）",
+        "medium": "転がる枯れ草を受け止める塔の記録写真",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Tumbleweeds_Catcher_-_Salt_Lake_City_-_USA_1972-01.jpg",
+        "work_source_page": "https://www.cca.qc.ca/en/search/details/collection/object/509548",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "credit": "作品・掲載画像の著作者表示　Gianni Pettena / Wikimedia Commons（CC BY-SA 3.0）。WebPに変換・縮小。",
+        "photographer": "掲載元の著作者表示は Gianni Pettena",
+        "alt": "住宅の並ぶ土地に、立方体を積み重ねたような背の高い網の塔が立っている。",
+        "viewing_point": "風に押されて転がってきた枯れ草を、塔の網が受け止めます。初めは向こうが透けて見える塔が、集まる草の量で姿を変えます。",
+        "selection_criterion": "研究の蓄積がある作品。カナダ建築センターが図面と写真をまとめて所蔵しています。",
+        "local_file": "assets/radical-design/pettena-tumble.webp",
+        "underlying_work_rights": "作品の作者ジャンニ・ペッテナが、作品を写した掲載画像を自作として CC BY-SA 3.0 で公開。",
+        "reproduction_rights": "Gianni Pettena / CC BY-SA 3.0。掲載元の原画像から WebP に変換・縮小。",
+        "reuse_notice": "再利用の際は Gianni Pettena の氏名、掲載元、CC BY-SA 3.0 の条件と変更の有無を表示してください。翻案した画像は同じ条件で配布してください。",
+        "width": 1250,
+        "height": 1237,
+        "display_derivatives": {
+          "method": "画面表示用に大きさを調整しています。",
+          "variants": [
+            {
+              "local_file": "assets/radical-design/pettena-tumble-thumb.webp",
+              "width": 660,
+              "height": 653
+            }
+          ]
+        },
+        "sha256": "b71ecb7868155dbb28ca2df491c03aafbe51ac2429ebee80d586bce9a2b34124",
+        "entry": "Radical Design",
+        "checked_at": "2026-11-22T15:11:02+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "風に押されて転がってきた枯れ草を、塔の網が受け止めます。初めは向こうが透けて見える塔が、集まる草の量で姿を変えます。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "研究の蓄積がある作品。カナダ建築センターが図面と写真をまとめて所蔵しています。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "転がる枯れ草を受け止める塔の記録写真 ／ カナダ建築センター、ジャンニ・ペッテナ文書群（図面と記録写真を所蔵）"
+        }
+      }
+    ],
+    "image_count_acquired": 3,
     "reference_images": [],
     "reference_image_count": 0,
-    "representative_count": 3,
+    "representative_count": 6,
     "generated_style_images": [],
     "generated_style_image_count": 0,
-    "status": "本文公開・実作品画像0点／画像の収録は継続中",
+    "status": "本文・作品図録公開（実作品画像3点）",
     "publication_status": "published_article_image_collection_in_progress",
-    "checked_at": "2026-11-01",
+    "checked_at": "2026-11-22T15:11:02+09:00",
     "period_bands": [
       "1950-1999"
     ],

@@ -1,8 +1,8 @@
 {
-  "release": "representative-galleries-swiss-style-polish-poster-school-black-mountain-college",
+  "release": "representative-galleries-swiss-style-china-new-woodcut-radical-design-polish-poster-school-black-mountain-college",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T15:05:36+09:00",
+  "frozen_at": "2026-11-22T15:11:02+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "5f22402ce8571acff4fea6c7d374887677af7c82507a0d167e4566e0566dcd09"
+      "sha256": "3bc2b8f93c97255f04fd22a1d2eb4588e97f1f19f54915686f1e6889fb64ec22"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 852180,
-      "sha256": "d93794c06e68508306a01fa24acc74b7c59c4cb9c7714b0b54d9cfe26447b0ed"
+      "bytes": 880557,
+      "sha256": "3204e7444b14dbbc70f9833d39583a082f0041ce7df2f676b39390278f49122b"
     },
     {
       "path": "analytics-status.json",
@@ -345,6 +345,46 @@
       "path": "assets/brazilian-modernism/pamp2.webp",
       "bytes": 78052,
       "sha256": "9b509f9ac8b699500304941af303209f68fdab8f54beabf2d8602f2a0a2af4ec"
+    },
+    {
+      "path": "assets/china-new-woodcut/he-cattle-small.webp",
+      "bytes": 44136,
+      "sha256": "cf482fe8bead97828324a85799737b62fa6a7343c6677807d7874814eb12dea2"
+    },
+    {
+      "path": "assets/china-new-woodcut/he-cattle.webp",
+      "bytes": 192972,
+      "sha256": "6b0fbe4ebd055ce8993aed88822ed9d05642122f99a4764943bd3b2b5efabd2f"
+    },
+    {
+      "path": "assets/china-new-woodcut/xia-carriage-small.webp",
+      "bytes": 44676,
+      "sha256": "310f6d17b0238814e1a4af509f82c3ca6103ee3e2f4a82bb28a796dfa001d0e0"
+    },
+    {
+      "path": "assets/china-new-woodcut/xia-carriage.webp",
+      "bytes": 167038,
+      "sha256": "2672dc90f0ea4235f56dc1e4761a22af217d565defe5dea1058bf91d79c7798c"
+    },
+    {
+      "path": "assets/china-new-woodcut/xia-market-small.webp",
+      "bytes": 47216,
+      "sha256": "2c100360c8e37cb7b7fc9b12a7d11cd8d41a0474b726cffbcc5c3236f53f634c"
+    },
+    {
+      "path": "assets/china-new-woodcut/xia-market.webp",
+      "bytes": 189096,
+      "sha256": "b7db9f92903111536a37503f52fb50950ba8587b4ec91d8aa6254b63d5a46a5b"
+    },
+    {
+      "path": "assets/china-new-woodcut/xia-sweeper-small.webp",
+      "bytes": 34760,
+      "sha256": "9a6a3ad8fbc2dc272d163dce880843d699a047b6c83a6c66067631788c7ec8ae"
+    },
+    {
+      "path": "assets/china-new-woodcut/xia-sweeper.webp",
+      "bytes": 127876,
+      "sha256": "8b7a4e9becbb82098e0e3612fc9af09568b05c7b90e2a01605718ad089a1303f"
     },
     {
       "path": "assets/cleveland-1937.696_print-1200.webp",
@@ -2982,6 +3022,36 @@
       "sha256": "3313e28e783fb2599d9940a25930e429d3c08199e61e26f47b3248c429926150"
     },
     {
+      "path": "assets/radical-design/pettena-chairs-thumb.webp",
+      "bytes": 43418,
+      "sha256": "f9ad8c8c1391102f758564087da61d4f7323ff88ca7a5b4b316cd2159fcc9804"
+    },
+    {
+      "path": "assets/radical-design/pettena-chairs.webp",
+      "bytes": 75854,
+      "sha256": "946e9e6a4c17a0131a11e9d45921676a195611dede6708765787de52a54cf956"
+    },
+    {
+      "path": "assets/radical-design/pettena-ice-thumb.webp",
+      "bytes": 30356,
+      "sha256": "6ffb9f1e6b96b383b52323469cf02cc5422236703966b027bfee02c4b1dc2c36"
+    },
+    {
+      "path": "assets/radical-design/pettena-ice.webp",
+      "bytes": 147364,
+      "sha256": "cb6e00b4613b7591ff6f14948ac29812b0c37cc0041da88b1ba3ca5f045b6077"
+    },
+    {
+      "path": "assets/radical-design/pettena-tumble-thumb.webp",
+      "bytes": 40856,
+      "sha256": "21c538c0b3ead0e2331c3568bc703207732d3057e0b765e22a11fa9bdf2daeaa"
+    },
+    {
+      "path": "assets/radical-design/pettena-tumble.webp",
+      "bytes": 111348,
+      "sha256": "b71ecb7868155dbb28ca2df491c03aafbe51ac2429ebee80d586bce9a2b34124"
+    },
+    {
       "path": "assets/rinpa-kenzan-style-dish-1000.webp",
       "bytes": 137648,
       "sha256": "729c29c3dc017edcba0fa4375488750f911ff76820c9d16396ee36f904b5272b"
@@ -3673,8 +3743,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39413,
-      "sha256": "0198ec66e590056da75bda060564d9652ec961b265711c0b751d4f4058156003"
+      "bytes": 39557,
+      "sha256": "771582ba1db0ae7f81b2ac6f1313169ee54ae9e87242025c9a10cac870022661"
     },
     {
       "path": "chapter-navigation.css",
@@ -3743,8 +3813,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2605922,
-      "sha256": "75802b140efd063e6da8344aeaa5ab65d18856bf435b32b8cde1d9678dcf69be"
+      "bytes": 2640168,
+      "sha256": "4b7667c70265ec0c9019fed8f2c37f3c41ff375c325ec7981ff41a8f00ccb4dd"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -3788,8 +3858,8 @@
     },
     {
       "path": "entries/black-mountain-college.html",
-      "bytes": 17848,
-      "sha256": "0207e28fe660c520f56335ff26722d1249feb83a06a82a8e5763f075ba8ae433"
+      "bytes": 17988,
+      "sha256": "f7cd9da62240e8b5fb1f8ed24d311546cf22e040da8e2168d73e2ebd3ea68334"
     },
     {
       "path": "entries/brazilian-modernism.html",
@@ -3803,8 +3873,8 @@
     },
     {
       "path": "entries/china-new-woodcut.html",
-      "bytes": 22481,
-      "sha256": "46da1a987a0d54a6bc9ffd7049b38ed85f49237458829e317952e0fabcb3cf6a"
+      "bytes": 41692,
+      "sha256": "5bef142f92d5022fa4d78ba2f4c7901ea94e8325f0bd9171dfdc31ab714fb412"
     },
     {
       "path": "entries/collage.html",
@@ -4029,7 +4099,7 @@
     {
       "path": "entries/polish-poster-school.html",
       "bytes": 16431,
-      "sha256": "ba023ddf8104eb16afc34b989a5c049b146791553f2f9a6ac30ce9eb05a138a6"
+      "sha256": "ae58edd3a65277cd10ece21d9d4dc9868c5b9628cb6ca3126384cfb16c146d26"
     },
     {
       "path": "entries/postmodernism.html",
@@ -4053,8 +4123,8 @@
     },
     {
       "path": "entries/radical-design.html",
-      "bytes": 13820,
-      "sha256": "45fd226a8d1da7bfce035a7b03dff13cbcbfcc5bd429a81de7b8734ef6c7852e"
+      "bytes": 24382,
+      "sha256": "3d3cfc381951cf80af6a9667d0bacb41efc0959e79f40ce593464a5c8463c358"
     },
     {
       "path": "entries/rinpa.html",
@@ -4134,7 +4204,7 @@
     {
       "path": "entries/swiss-style.html",
       "bytes": 45434,
-      "sha256": "ce34524e0a2ea0f65041618def274e42fe05f32f567ab5fb31c8445fed9d2572"
+      "sha256": "31e30276f265526eab9294f1b664b7940058701163dc4a40716706e0fdc8508a"
     },
     {
       "path": "entries/taller-grafica-popular.html",
@@ -4233,8 +4303,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 89509,
-      "sha256": "2e5c3586392ec2e8697ec909adac4501388633f89cefe5c3a7286e2208800ca4"
+      "bytes": 91010,
+      "sha256": "94998f944a35be0ec2016ddaec08bb084a3b99661000854f7703c6efbb0b01e7"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4273,8 +4343,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 27373,
-      "sha256": "05253e5b4b3a46a132868b17451ef0d2653e8f7fd9c46499ed18d9d832c591cd"
+      "bytes": 27395,
+      "sha256": "65a0d9118b30516cbe1e1fba261a0dc2994495e383edbbf33dee80c3c9a0a49a"
     },
     {
       "path": "logo-provenance.json",
@@ -4359,7 +4429,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "474f56103573334eb2dec667bd248cf98133cbef9718394268f704d1211c7320"
+      "sha256": "a9a9b355d93782cc34b65cfd87ba667ef12434671dda43124d375a6390779c1e"
     },
     {
       "path": "site.webmanifest",
@@ -4369,7 +4439,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "707c6be07a1cc74dda3ff0a888ef608a314ad01f8a4288720fe63391664279e7"
+      "sha256": "5947e2caf46d7706089b6d95cb33656f4473d9dbb44e985f6a4e2b8f458db923"
     },
     {
       "path": "study-images.js",
@@ -4409,7 +4479,7 @@
     {
       "path": "tests/chronology-browser.cjs",
       "bytes": 6072,
-      "sha256": "07ba22522050be12667fa7587653a6225c5aaf103b20f09cca84407b89a6ff9d"
+      "sha256": "f4ff18841d5b59e415190fa5d7dcb98be0d842692462f474461792730c03417a"
     },
     {
       "path": "tests/chronology-unit.cjs",
@@ -4419,7 +4489,7 @@
     {
       "path": "tests/home-features.cjs",
       "bytes": 8229,
-      "sha256": "ea76b7463dc347f8b07591a8ab2310bfc1f2a5775b79ea76f5783f8f0ea2f603"
+      "sha256": "8dd2665dd708aa12afb1e3349c02c3ce10bf4d1e8051d5f92d787795dc5e4721"
     },
     {
       "path": "tests/omochi-pop-browser.cjs",
@@ -4478,8 +4548,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 196609,
-      "sha256": "4a441de7edb0a3e85c08b50b09e7fe2dfcb3b43f00fe130d269840b42113214d"
+      "bytes": 198962,
+      "sha256": "8e0b6acb998a594ace14ce7df2bf76a16f245fd43a1adcd1ecff55f3d79e8abf"
     }
   ]
 }
