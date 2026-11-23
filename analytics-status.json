@@ -3,5 +3,5 @@
   "enabled": true,
   "reason": "公開ページはこのサイト専用のGA4ウェブストリームを使用します。",
   "google_receipt_test": "実施しない（既存指示）",
-  "outbound_analytics": "Googleタグによるページ表示を計測します。"
+  "outbound_analytics": "Googleタグによるページ表示と、公開カタログの選択・分類・比較・共有成功を計測します。"
 }
