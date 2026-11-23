@@ -126,9 +126,18 @@ fetch('entries.json').then(response => {
   selectA.disabled = selectB.disabled = false;
   visual.style.removeProperty('visibility');
   visual.removeAttribute('aria-busy');
-  for (const select of [selectA, selectB]) select.addEventListener('change', draw);
+  let previousPair = [selectA.value, selectB.value].join('|');
+  for (const select of [selectA, selectB]) select.addEventListener('change', event => {
+    draw();
+    const pair = [selectA.value, selectB.value].join('|');
+    if (pair === previousPair) return;
+    previousPair = pair;
+    const a = studies.get(selectA.value), b = studies.get(selectB.value);
+    if (event.isTrusted && a && b && a !== b) window.trackLineageEvent?.('compare_content', {content_type:'design_entry', content_id:a.slug, comparison_content_id:b.slug, item_count:2});
+  });
 }).catch(() => {
   visual.hidden = true;
   visual.removeAttribute('aria-busy');
   $('#compare-status').textContent = '比較データを読み込めませんでした。再読み込みしてください。';
 });
+
