@@ -2,7 +2,7 @@
   "release": "representative-galleries-negritude-visual-culture",
   "repository": "djnaoyaman/design-lineage",
   "pages_url": "https://djnaoyaman.github.io/design-lineage/",
-  "frozen_at": "2026-11-22T23:31:35+09:00",
+  "frozen_at": "2026-11-23T09:38:09+09:00",
   "chapter_navigation": {
     "order": "shared catalogue chronology, undated themes last",
     "articles": 90,
@@ -34,12 +34,12 @@
     {
       "path": "README.md",
       "bytes": 5171,
-      "sha256": "5f353ac901324074244168f3c6ce09fcc6f2360c186dd6d8895a721f570adf2a"
+      "sha256": "09dd53480624dd401ef10038f1131c8140d21e4d81484934874a5097555ee022"
     },
     {
       "path": "adopted-image-rights.json",
-      "bytes": 1047682,
-      "sha256": "824423f43b4d18d959b40fdefa5c5aaa36202396f41536c395c1387aa57f5330"
+      "bytes": 1052843,
+      "sha256": "c90bf7f93a8e27615ffb0cf62e748af966d70cf61502a6aacee36f09eb661dae"
     },
     {
       "path": "analytics-status.json",
@@ -2217,6 +2217,16 @@
       "sha256": "dd7df9fab13cf262da2996833a147f6c208f327299cdc16a950cf116b51cb304"
     },
     {
+      "path": "assets/negritude-visual-culture/idia-pendant-bm-640.webp",
+      "bytes": 137948,
+      "sha256": "0e82f7b654bd37c1ec97f4fe53d88aee45b513d453538f278264f9e2fe3c5d1f"
+    },
+    {
+      "path": "assets/negritude-visual-culture/idia-pendant-bm.webp",
+      "bytes": 423466,
+      "sha256": "a6b72989d7d262de7b41d7423a720b6ba18a2a457002cd74651393529fd3f8c5"
+    },
+    {
       "path": "assets/neo-brutalism/antiwork-license.txt",
       "bytes": 1070,
       "sha256": "c5338c06c620468a42ad556e6608dab413a3fff8f770d7b08645741c292a022d"
@@ -4108,8 +4118,8 @@
     },
     {
       "path": "catalog.json",
-      "bytes": 39757,
-      "sha256": "22600e3b187a2748fdee7c8b507d1985a0273bc8903ed603155dc27ef829d67e"
+      "bytes": 39802,
+      "sha256": "5c7b12b5315980c506f8c2ea2c3cbd47e9106e57bcdb50d536272ee72e554a34"
     },
     {
       "path": "chapter-navigation.css",
@@ -4178,8 +4188,8 @@
     },
     {
       "path": "entries.json",
-      "bytes": 2844006,
-      "sha256": "c2608a5b94a6412d3f7ee8f11ad2b25da32c2444360e810388f8941cbe15d5c4"
+      "bytes": 2850254,
+      "sha256": "6b024f7e99b4963d417f1cf329b886935cabb8e90aca145321945a947f5e33ab"
     },
     {
       "path": "entries/3d-clay-illustration.html",
@@ -4403,8 +4413,8 @@
     },
     {
       "path": "entries/negritude-visual-culture.html",
-      "bytes": 18133,
-      "sha256": "774adaff4ed313978cb4daebf475464a4dc0f1be6c509e592ba10a52a5346035"
+      "bytes": 23179,
+      "sha256": "7ab4069f5614867f3e54ebabae39fb0894e82b1689d1d88141e35a20f43e9241"
     },
     {
       "path": "entries/neo-brutalism.html",
@@ -4669,7 +4679,7 @@
     {
       "path": "index.html",
       "bytes": 97302,
-      "sha256": "8157463cdebb33e69795edb15e80c199bb04f3c60b5c163ae6b90a1f3bd9be77"
+      "sha256": "8f355c510a864d624f0a3e86bb098931a1f0c50b887513f5fe0796f626b646ed"
     },
     {
       "path": "japanese-name-sources.json",
@@ -4708,8 +4718,8 @@
     },
     {
       "path": "llms.txt",
-      "bytes": 28117,
-      "sha256": "4f8c96ed3e60ce13a68ea212ff171a76cfa75c9a17c1dc2609308be858d33d89"
+      "bytes": 28157,
+      "sha256": "70243019bd33a0b5e98402f1327f756c10fed16a82388f1ea73091dfb3eac549"
     },
     {
       "path": "logo-provenance.json",
@@ -4794,7 +4804,7 @@
     {
       "path": "site-update.json",
       "bytes": 6318,
-      "sha256": "e2a9cda6a133b816c22dc839e0e439568c040fc51d190c4a9f07691e11495414"
+      "sha256": "6df257d8804dc154b1d1a7ab7b85d1f3c669eab9a6c911fe9eb7e59c165c158e"
     },
     {
       "path": "site.webmanifest",
@@ -4804,7 +4814,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 12539,
-      "sha256": "f2702bd369e58466ffed22d5b9f6a0acae6c0bb2268e92283241b85c53ebd286"
+      "sha256": "38b8ac5178fdd8a78c5aea49cde7d47c2e243823782c8d11bbbaff1c2c248c1d"
     },
     {
       "path": "study-images.js",
@@ -4913,8 +4923,8 @@
     },
     {
       "path": "works.html",
-      "bytes": 216336,
-      "sha256": "755913474bd414be5319fa852bdef944451dfafb464a76e8858dddebace53fab"
+      "bytes": 216963,
+      "sha256": "7e842300756af63f3f9897ff6172423565fbd735062f57512c3144f3c48d4b5d"
     }
   ]
 }

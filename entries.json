@@ -31725,6 +31725,17 @@
     "modern": "自分の文化を大切にするとき、誰の声を代表しているのでしょうか。一人の作品から地域全体を決めつけないことも、作品を見る大切な姿勢です。",
     "representatives": [
       {
+        "id": "negritude-idia-pendant-bm",
+        "title": "Mask (pendant), British Museum Af1910,0513.1",
+        "title_ja": "イディア王母を表すとされる象牙の仮面形ペンダント",
+        "title_original": "Mask (pendant), British Museum Af1910,0513.1",
+        "creator": "ベニン王国、エドの彫刻家（個人名不詳）",
+        "date": "16世紀",
+        "domain": "象牙に鉄と銅合金の象嵌。制作地はベニン・シティ（現在のナイジェリア）。",
+        "evidence": "https://commons.wikimedia.org/wiki/File:Idia_mask_BM_Af1910_5-13_1.jpg",
+        "reason": "額の黒い線を二本見つけてから、上に並ぶ小さな顔と、あごの下の透かし模様へ目を移してください。中央のなめらかな顔を、細かい彫りが上下から囲んでいます。"
+      },
+      {
         "id": "negritude-eyema-byeri-met",
         "title": "Eyema byeri (reliquary guardian figure)",
         "title_ja": "エイェマ・ビエリ（祖先の遺物を守る像）",
@@ -31836,6 +31847,66 @@
     },
     "adopted_images": [
       {
+        "id": "negritude-idia-pendant-bm",
+        "original_work_id": "bm-af1910-0513-1",
+        "title": "イディア王母を表すとされる象牙の仮面形ペンダント",
+        "title_original": "Mask (pendant), British Museum Af1910,0513.1",
+        "year": "16世紀",
+        "author": "ベニン王国、エドの彫刻家（個人名不詳）",
+        "medium": "象牙に鉄と銅合金の象嵌。制作地はベニン・シティ（現在のナイジェリア）。",
+        "institution": "大英博物館、所蔵番号Af1910,0513.1",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Idia_mask_BM_Af1910_5-13_1.jpg",
+        "work_source_page": "https://www.britishmuseum.org/collection/object/E_Af1910-0513-1",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/archive/3/38/20170226184426%21Idia_mask_BM_Af1910_5-13_1.jpg",
+        "selection_source": "https://www.degruyterbrill.com/document/doi/10.1515/9783689240554-013/pdf",
+        "publication_source": "https://www.barbican.org.uk/sites/default/files/documents/2026-07/PaBP%20Large%20Print%20Guide.pdf",
+        "license": "撮影者が写真をパブリックドメインに提供しています。その扱いができない場合にも、法律上必須の条件を除き、用途を問わず使えると明記しています。",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Idia_mask_BM_Af1910_5-13_1.jpg#Licensing",
+        "underlying_work_rights": "16世紀制作の彫刻。原作の著作権保護期間は満了しています。",
+        "reproduction_rights": "撮影者が公開した2011年の原版を使用。写真の自己権利放棄と代替許諾は出典先に記載。",
+        "commercial_use": "撮影者の表示は用途を限定していません。",
+        "photographer": "Andreas Praefcke",
+        "credit": "撮影 Andreas Praefcke（2011年）、Wikimedia Commons。原作は大英博物館（Af1910,0513.1）。",
+        "alt": "象牙を彫った仮面形のペンダント。額に黒い縦線が二本あり、頭上に小さな顔が並ぶ。あごの下に透かし模様がある。",
+        "viewing_point": "額の黒い線を二本見つけてから、上に並ぶ小さな顔と、あごの下の透かし模様へ目を移してください。中央のなめらかな顔を、細かい彫りが上下から囲んでいます。",
+        "selection_criterion": "1966年のダカール芸術祭にあわせてナイジェリア政府が刊行した冊子の表紙に使われ、芸術祭と文化財返還をめぐる研究でも扱われています。",
+        "selection_reason": "王の儀礼で腰に下げるためにつくられた象牙彫刻です。1897年の英国のベニン侵攻で王宮から持ち去られました。ナイジェリア政府は1966年、ダカール芸術祭にあわせた冊子『Nigeria Today』特別号の表紙に、この仮面の写真を載せました。掲載図版は彫刻の現物を2011年に撮影した写真です。",
+        "limitation": "ダカールでの接点は冊子表紙への採用です。原作は芸術祭の会場に展示されませんでした。",
+        "local_file": "assets/negritude-visual-culture/idia-pendant-bm.webp",
+        "width": 1280,
+        "height": 1842,
+        "display_derivatives": {
+          "method": "撮影者が投稿した原版を切り抜かずに縮小し、WebPへ変換しました。",
+          "variants": [
+            {
+              "local_file": "assets/negritude-visual-culture/idia-pendant-bm-640.webp",
+              "width": 640,
+              "height": 921
+            }
+          ]
+        },
+        "sha256": "a6b72989d7d262de7b41d7423a720b6ba18a2a457002cd74651393529fd3f8c5",
+        "entry": "Négritude と視覚文化",
+        "checked_at": "2026-11-23T09:38:09+09:00",
+        "visual_notes": [
+          {
+            "title": "見るポイント",
+            "text": "額の黒い線を二本見つけてから、上に並ぶ小さな顔と、あごの下の透かし模様へ目を移してください。中央のなめらかな顔を、細かい彫りが上下から囲んでいます。"
+          },
+          {
+            "title": "この作品を選んだ理由",
+            "text": "王の儀礼で腰に下げるためにつくられた象牙彫刻です。1897年の英国のベニン侵攻で王宮から持ち去られました。ナイジェリア政府は1966年、ダカール芸術祭にあわせた冊子『Nigeria Today』特別号の表紙に、この仮面の写真を載せました。掲載図版は彫刻の現物を2011年に撮影した写真です。"
+          }
+        ],
+        "presentation": {
+          "scope_note": "象牙に鉄と銅合金の象嵌。制作地はベニン・シティ（現在のナイジェリア）。 ／ 大英博物館、所蔵番号Af1910,0513.1",
+          "provenance_note": "ダカールでの接点は冊子表紙への採用です。原作は芸術祭の会場に展示されませんでした。"
+        },
+        "original_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/archive/3/38/20170226184426%21Idia_mask_BM_Af1910_5-13_1.jpg"
+        }
+      },
+      {
         "id": "negritude-eyema-byeri-met",
         "original_work_id": "met-1978-412-441",
         "title": "エイェマ・ビエリ（祖先の遺物を守る像）",
@@ -31893,11 +31964,11 @@
       }
     ],
     "reference_images": [],
-    "image_count_acquired": 1,
+    "image_count_acquired": 2,
     "reference_image_count": 0,
-    "image_status": "実作品画像の掲載許諾を確認中",
-    "status": "本文・作品図録公開（実作品画像1点）",
-    "checked_at": "2026-11-22T23:31:35+09:00"
+    "image_status": "図版で紹介する作品は2作品。実作品図版2点、AAGA模写（Runway制作）0点。",
+    "status": "図版で紹介する作品は2作品。実作品図版2点、AAGA模写（Runway制作）0点。",
+    "checked_at": "2026-11-23T09:38:09+09:00"
   },
   {
     "name": "Khartoum School",
